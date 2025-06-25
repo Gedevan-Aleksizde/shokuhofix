@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Items>
+	<CraftedItem id="sho_nodachi_1" name="{=tfWhincm}Solid Curved No-Dachi" crafting_template="SHO_TwoHandedLargeSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_nodachi_blade_10" Type="Blade" scale_factor="94"/>
+			<Piece id="sho_ka_tsuba_a_1" Type="Guard" scale_factor="98"/>
+			<Piece id="sho_nodachi_curved_handle_2_black" Type="Handle" scale_factor="99"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="sho_nodachi_2" name="{=7sIWrBnu}Renowned Curved No-Dachi" crafting_template="SHO_TwoHandedLargeSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_nodachi_blade_8" Type="Blade" scale_factor="102"/>
+			<Piece id="sho_ka_tsuba_a_7" Type="Guard" scale_factor="98"/>
+			<Piece id="sho_nodachi_curved_handle_4_red" Type="Handle" scale_factor="105"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="sho_nodachi_3" name="{=QJ4qdK6d}Simple Curved No-Dachi" crafting_template="SHO_TwoHandedLargeSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_nodachi_blade_9" Type="Blade" scale_factor="110"/>
+			<Piece id="sho_ka_tsuba_a_3" Type="Guard" scale_factor="100"/>
+			<Piece id="sho_nodachi_curved_handle_5_gold" Type="Handle" scale_factor="90"/>
+		</Pieces>
+	</CraftedItem>
+    <CraftedItem id="sho_nodachi_4" name="{=zd318OIO}Reliable Curved No-Dachi" crafting_template="SHO_TwoHandedLargeSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_nodachi_blade_1" Type="Blade" scale_factor="99"/>
+            <Piece id="sho_ka_tsuba_a_3" Type="Guard" scale_factor="105"/>
+            <Piece id="sho_nodachi_curved_handle_1_darkblue" Type="Handle" scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_nodachi_5" name="{=FdDnltys}Fabled Straight No-Dachi" crafting_template="SHO_TwoHandedLargeSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_nodachi_blade_2" Type="Blade" scale_factor="99"/>
+            <Piece id="sho_ka_tsuba_a_8" Type="Guard" scale_factor="107"/>
+            <Piece id="sho_nodachi_curved_handle_4_yellow" Type="Handle" scale_factor="94"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_nodachi_6" name="{=sVC9Ht6h}Old Curved Straight No-Dachi" crafting_template="SHO_TwoHandedLargeSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_nodachi_blade_3" Type="Blade" scale_factor="108"/>
+            <Piece id="sho_ka_tsuba_a_2" Type="Guard" scale_factor="102"/>
+            <Piece id="sho_nodachi_curved_handle_4_darkblue" Type="Handle" scale_factor="108"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_nodachi_7" name="{=S3stBthx}Rough Straight No-Dachi" crafting_template="SHO_TwoHandedLargeSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_nodachi_blade_4" Type="Blade" scale_factor="104"/>
+            <Piece id="sho_ka_tsuba_a_4" Type="Guard" scale_factor="94"/>
+            <Piece id="sho_nodachi_curved_handle_3_lightblue" Type="Handle" scale_factor="97"/>
+        </Pieces>
+    </CraftedItem>
+	<CraftedItem id="sho_nodachi_8" name="{=hjDclRN3}Solid Straight No-Dachi" crafting_template="SHO_TwoHandedLargeSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_nodachi_blade_5" Type="Blade" scale_factor="105"/>
+			<Piece id="sho_ka_tsuba_a_3" Type="Guard" scale_factor="110"/>
+			<Piece id="sho_nodachi_curved_handle_2_darkblue" Type="Handle" scale_factor="99"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="sho_nodachi_9" name="{=q2bIcqLi}Crude Straight No-Dachi" crafting_template="SHO_TwoHandedLargeSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_nodachi_blade_6" Type="Blade" scale_factor="100"/>
+			<Piece id="sho_ka_tsuba_a_1" Type="Guard" scale_factor="96"/>
+			<Piece id="sho_nodachi_curved_handle_4_green" Type="Handle" scale_factor="104"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="sho_nodachi_10" name="{=JstR3q8B}Sharp Curved No-Dachi" crafting_template="SHO_TwoHandedLargeSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_nodachi_blade_7" Type="Blade" scale_factor="105"/>
+			<Piece id="sho_ka_tsuba_a_6" Type="Guard" scale_factor="98"/>
+			<Piece id="sho_nodachi_curved_handle_4_yellow" Type="Handle" scale_factor="98"/>
+		</Pieces>
+	</CraftedItem>
+
+
+</Items>

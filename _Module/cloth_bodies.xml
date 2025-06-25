@@ -1,0 +1,685 @@
+<bodies>
+	<body name="sho_ashigaru" owner_skeleton="human_skeleton">
+		<capsules>
+			<capsule name="r_thigh" length="0.300" origin="0.000, 0.000, 0.000" frame="0.168202, 0.001457, -0.985751, 0.000000, 0.000667, 0.999998, 0.001592, 0.000000, 0.985752, -0.000926, 0.168201, 0.000000, 0.064768, -0.006936, 0.911168, 1.000000">
+				<points>
+					<point radius="0.140">
+						<bones>
+							<bone name="r_thigh" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.170">
+						<bones>
+							<bone name="r_thigh" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="l_thigh" length="0.300" origin="0.000, 0.000, 0.000" frame="-0.202211, -0.015297, -0.979222, 0.000000, -0.001992, 0.999883, -0.015208, 0.000000, 0.979340, -0.001126, -0.202217, 0.000000, -0.062155, -0.005690, 0.912461, 1.000000">
+				<points>
+					<point radius="0.140">
+						<bones>
+							<bone name="l_thigh" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.170">
+						<bones>
+							<bone name="l_thigh" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="r_calf" length="0.280" origin="0.000, 0.000, 0.000" frame="0.077815, -0.119797, -0.989744, 0.000000, 0.010184, 0.992799, -0.119366, 0.000000, 0.996916, -0.000791, 0.078475, 0.000000, 0.132567, 0.018486, 0.494243, 0.000000">
+				<points>
+					<point radius="0.140">
+						<bones>
+							<bone name="r_calf" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.100">
+						<bones>
+							<bone name="r_calf" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="l_calf" length="0.300" origin="0.000, 0.000, 0.000" frame="-0.077815, -0.119797, -0.989744, 0.000000, -0.010185, 0.992798, -0.119366, 0.000000, 0.996916, 0.000791, -0.078475, 0.000000, -0.133683, 0.019745, 0.495228, 0.000000">
+				<points>
+					<point radius="0.140">
+						<bones>
+							<bone name="l_calf" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.100">
+						<bones>
+							<bone name="l_calf" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+		</capsules>
+	</body>
+	<body name="sho_jinbaori" owner_skeleton="human_skeleton">
+		<capsules>
+			<capsule name="l_thigh" length="0.300" origin="0.000, 0.000, 0.000" frame="-0.202210, -0.015297, -0.979222, 0.000000, -0.001992, 0.999883, -0.015208, 0.000000, 0.979340, -0.001125, -0.202217, 0.000000, -0.086934, -0.021830, 0.878202, 1.000000">
+				<points>
+					<point radius="0.200">
+						<bones>
+							<bone name="l_thigh" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.250">
+						<bones>
+							<bone name="l_thigh" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="r_thigh" length="0.300" origin="0.000, 0.000, 0.000" frame="0.168202, 0.001457, -0.985751, 0.000000, 0.000667, 0.999998, 0.001592, 0.000000, 0.985752, -0.000925, 0.168201, 0.000000, 0.094288, -0.034467, 0.868498, 1.000000">
+				<points>
+					<point radius="0.200">
+						<bones>
+							<bone name="r_thigh" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.250">
+						<bones>
+							<bone name="r_thigh" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="New capsule1" length="0.040" origin="0.000, 0.000, 0.000" frame="0.000003, 0.999987, 0.005073, 0.000000, 0.000000, 0.005073, -0.999987, 0.000000, -1.000000, 0.000003, 0.000000, 0.000000, 0.006631, -0.005955, 1.030973, 1.000000">
+				<points>
+					<point radius="0.180">
+						<bones>
+							<bone name="spine" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.160">
+						<bones>
+							<bone name="spine" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+		</capsules>
+	</body>
+	<body name="sho_kamishimono++" owner_skeleton="human_skeleton">
+		<capsules>
+			<capsule name="l_calf" length="0.300" origin="0.000, 0.000, 0.000" frame="-0.077816, -0.119797, -0.989744, 0.000000, -0.010185, 0.992798, -0.119366, 0.000000, 0.996916, 0.000792, -0.078475, 0.000000, -0.121999, -0.024107, 0.392668, 1.000000">
+				<points>
+					<point radius="0.130">
+						<bones>
+							<bone name="l_calf" weight="1.000"/>
+							<bone name="l_calf" weight="0.000"/>
+						</bones>
+					</point>
+					<point radius="0.150">
+						<bones>
+							<bone name="l_calf" weight="1.000"/>
+							<bone name="l_calf" weight="0.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="r_calf" length="0.300" origin="0.000, 0.000, 0.000" frame="0.077815, -0.119797, -0.989744, 0.000000, 0.010184, 0.992798, -0.119366, 0.000000, 0.996916, -0.000791, 0.078475, 0.000000, 0.140003, -0.020577, 0.399392, 1.000000">
+				<points>
+					<point radius="0.130">
+						<bones>
+							<bone name="r_calf" weight="1.000"/>
+							<bone name="r_calf" weight="0.000"/>
+						</bones>
+					</point>
+					<point radius="0.150">
+						<bones>
+							<bone name="r_calf" weight="1.000"/>
+							<bone name="r_calf" weight="0.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="l_thigh" length="0.280" origin="0.000, 0.000, 0.000" frame="-0.078250, -0.066325, -0.994725, 0.000000, -0.005993, 0.997798, -0.066059, 0.000000, 0.996916, 0.000792, -0.078475, 0.000000, -0.100085, 0.020130, 0.915050, 1.000000">
+				<points>
+					<point radius="0.120">
+						<bones>
+							<bone name="l_thigh" weight="1.000"/>
+							<bone name="l_thigh" weight="0.000"/>
+						</bones>
+					</point>
+					<point radius="0.140">
+						<bones>
+							<bone name="l_thigh" weight="1.000"/>
+							<bone name="l_thigh" weight="0.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+		</capsules>
+	</body>
+	<body name="sho_kashimono" owner_skeleton="human_skeleton">
+		<capsules>
+			<capsule name="l_calf" length="0.300" origin="0.000, 0.000, 0.000" frame="-0.077816, -0.119797, -0.989744, 0.000000, -0.010185, 0.992798, -0.119366, 0.000000, 0.996916, 0.000792, -0.078475, 0.000000, -0.121999, -0.024107, 0.392668, 1.000000">
+				<points>
+					<point radius="0.130">
+						<bones>
+							<bone name="l_calf" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.150">
+						<bones>
+							<bone name="l_calf" weight="1.000"/>
+							<bone name="l_calf" weight="0.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="r_calf" length="0.300" origin="0.000, 0.000, 0.000" frame="0.077815, -0.119797, -0.989744, 0.000000, 0.010184, 0.992798, -0.119366, 0.000000, 0.996916, -0.000791, 0.078475, 0.000000, 0.140003, -0.020577, 0.399392, 1.000000">
+				<points>
+					<point radius="0.130">
+						<bones>
+							<bone name="r_calf" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.150">
+						<bones>
+							<bone name="r_calf" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+		</capsules>
+	</body>
+	<body name="sho_legs" owner_skeleton="human_skeleton">
+		<capsules>
+			<capsule name="l_thigh" length="0.300" origin="0.000, 0.000, 0.000" frame="-0.202220, -0.007806, -0.979309, 0.000000, -0.000477, 0.999970, -0.007872, 0.000000, 0.979340, -0.001125, -0.202217, 0.000000, -0.039201, 0.035140, 0.977813, 1.000000">
+				<points>
+					<point radius="0.150">
+						<bones>
+							<bone name="l_thigh" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.220">
+						<bones>
+							<bone name="l_thigh" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="r_thigh" length="0.300" origin="0.000, 0.000, 0.000" frame="0.167929, -0.051731, -0.984441, 0.000000, 0.009612, 0.998661, -0.050839, 0.000000, 0.985752, -0.000925, 0.168201, 0.000000, 0.056730, 0.039558, 0.972401, 1.000000">
+				<points>
+					<point radius="0.150">
+						<bones>
+							<bone name="r_thigh" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.220">
+						<bones>
+							<bone name="l_thigh" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="New capsule" length="0.120" origin="0.000, 0.000, 0.000" frame="-0.016739, -0.999860, 0.000000, 0.000000, 0.999860, -0.016739, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, -0.007312, 0.091306, 0.988466, 1.000000">
+				<points>
+					<point radius="0.100">
+						<bones>
+							<bone name="pelvis" weight="0.000"/>
+						</bones>
+					</point>
+					<point radius="0.100">
+						<bones>
+							<bone name="pelvis" weight="0.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+		</capsules>
+	</body>
+	<body name="sho_legs_2" owner_skeleton="human_skeleton">
+		<capsules>
+			<capsule name="l_thigh" length="0.300" origin="0.000, 0.000, 0.000" frame="-0.078250, -0.066325, -0.994725, 0.000000, -0.005993, 0.997798, -0.066059, 0.000000, 0.996916, 0.000792, -0.078475, 0.000000, -0.078281, 0.020147, 0.913333, 1.000000">
+				<points>
+					<point radius="0.150">
+						<bones>
+							<bone name="l_thigh" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.200">
+						<bones>
+							<bone name="l_thigh" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="r_thigh" length="0.300" origin="0.000, 0.000, 0.000" frame="0.078250, -0.066326, -0.994725, 0.000000, 0.005991, 0.997798, -0.066059, 0.000000, 0.996916, -0.000791, 0.078475, 0.000000, 0.072692, 0.020230, 0.911833, 1.000000">
+				<points>
+					<point radius="0.150">
+						<bones>
+							<bone name="r_thigh" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.200">
+						<bones>
+							<bone name="r_thigh" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="pelvis" length="0.210" origin="0.000, 0.000, 0.000" frame="-0.001293, 0.000819, 0.999999, 0.000000, 0.000028, 1.000000, -0.000819, 0.000000, -0.999999, 0.000027, -0.001293, 0.000000, 0.000311, 0.029389, 0.673556, 1.000000">
+				<points>
+					<point radius="0.280">
+						<bones>
+							<bone name="l_thigh" weight="0.500"/>
+							<bone name="r_thigh" weight="0.500"/>
+						</bones>
+					</point>
+					<point radius="0.220">
+						<bones>
+							<bone name="pelvis" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+		</capsules>
+	</body>
+	<body name="sho_monk_cape" owner_skeleton="human_skeleton">
+		<capsules>
+			<capsule name="l_thigh" length="0.300" origin="0.000, 0.000, 0.000" frame="-0.078250, -0.066326, -0.994725, 0.000000, -0.005993, 0.997798, -0.066059, 0.000000, 0.996916, 0.000792, -0.078475, 0.000000, -0.078273, 0.018777, 0.913424, 1.000000">
+				<points>
+					<point radius="0.200">
+						<bones>
+							<bone name="l_thigh" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.250">
+						<bones>
+							<bone name="l_thigh" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="r_thigh" length="0.300" origin="0.000, 0.000, 0.000" frame="0.078250, -0.066326, -0.994725, 0.000000, 0.005991, 0.997798, -0.066059, 0.000000, 0.996916, -0.000791, 0.078475, 0.000000, 0.072692, 0.020230, 0.911833, 1.000000">
+				<points>
+					<point radius="0.200">
+						<bones>
+							<bone name="r_thigh" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.250">
+						<bones>
+							<bone name="r_thigh" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="l_thigh1" length="0.300" origin="0.000, 0.000, 0.000" frame="-0.019562, -0.066164, -0.997617, 0.000000, -0.005993, 0.997798, -0.066059, 0.000000, 0.999791, 0.004686, -0.019915, 0.000000, 0.006758, -0.015479, 0.908067, 1.000000">
+				<points>
+					<point radius="0.220">
+						<bones>
+							<bone name="l_thigh" weight="1.000"/>
+							<bone name="r_thigh" weight="0.000"/>
+						</bones>
+					</point>
+					<point radius="0.320">
+						<bones>
+							<bone name="l_thigh" weight="1.000"/>
+							<bone name="r_thigh" weight="0.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+		</capsules>
+	</body>
+	<body name="sho_new_kozane" owner_skeleton="human_skeleton">
+		<capsules>
+			<capsule name="l_thigh" length="0.300" origin="0.000, 0.000, 0.000" frame="-0.078250, -0.066326, -0.994725, 0.000000, -0.005993, 0.997798, -0.066059, 0.000000, 0.996916, 0.000792, -0.078475, 0.000000, -0.075066, 0.040949, 0.954387, 1.000000">
+				<points>
+					<point radius="0.150">
+						<bones>
+							<bone name="l_thigh" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.240">
+						<bones>
+							<bone name="l_thigh" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="r_thigh" length="0.300" origin="0.000, 0.000, 0.000" frame="0.078250, -0.066325, -0.994725, 0.000000, 0.005991, 0.997798, -0.066059, 0.000000, 0.996916, -0.000790, 0.078475, 0.000000, 0.069609, 0.039391, 0.951188, 1.000000">
+				<points>
+					<point radius="0.150">
+						<bones>
+							<bone name="r_thigh" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.240">
+						<bones>
+							<bone name="r_thigh" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="pelvis" length="0.210" origin="0.000, 0.000, 0.000" frame="-0.999993, 0.000031, 0.003737, 0.000000, 0.000028, 1.000000, -0.000819, 0.000000, -0.003737, -0.000819, -0.999993, 0.000000, 0.104373, -0.007957, 0.965514, 1.000000">
+				<points>
+					<point radius="0.100">
+						<bones>
+							<bone name="r_thigh" weight="0.500"/>
+						</bones>
+					</point>
+					<point radius="0.100">
+						<bones>
+							<bone name="l_thigh" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+		</capsules>
+	</body>
+	<body name="sho_osode" owner_skeleton="human_skeleton">
+		<capsules>
+			<capsule name="l_calf" length="0.500" origin="0.000, 0.000, 0.000" frame="-0.077815, -0.119797, -0.989744, 0.000000, -0.010185, 0.992798, -0.119366, 0.000000, 0.996916, 0.000791, -0.078475, 0.000000, -0.134387, -0.008601, 0.486017, 340282346638528859811704183484516925440.000000">
+				<points>
+					<point radius="0.090">
+						<bones>
+							<bone name="l_calf" weight="1.000"/>
+							<bone name="l_calf" weight="0.000"/>
+						</bones>
+					</point>
+					<point radius="0.080">
+						<bones>
+							<bone name="l_calf" weight="1.000"/>
+							<bone name="l_calf" weight="0.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="r_calf" length="0.500" origin="0.000, 0.000, 0.000" frame="0.077815, -0.119797, -0.989744, 0.000000, 0.010184, 0.992798, -0.119366, 0.000000, 0.996916, -0.000791, 0.078475, 0.000000, 0.132967, -0.009746, 0.488880, 340282346638528859811704183484516925440.000000">
+				<points>
+					<point radius="0.090">
+						<bones>
+							<bone name="r_calf" weight="1.000"/>
+							<bone name="r_calf" weight="0.000"/>
+						</bones>
+					</point>
+					<point radius="0.080">
+						<bones>
+							<bone name="r_calf" weight="1.000"/>
+							<bone name="r_calf" weight="0.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="l_thigh" length="0.280" origin="0.000, 0.000, 0.000" frame="-0.078250, -0.066326, -0.994725, 0.000000, -0.005993, 0.997798, -0.066059, 0.000000, 0.996916, 0.000791, -0.078475, 0.000000, -0.103553, 0.014869, 0.800512, 0.000000">
+				<points>
+					<point radius="0.100">
+						<bones>
+							<bone name="l_thigh" weight="1.000"/>
+							<bone name="l_thigh" weight="0.000"/>
+						</bones>
+					</point>
+					<point radius="0.100">
+						<bones>
+							<bone name="l_thigh" weight="1.000"/>
+							<bone name="l_thigh" weight="0.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="r_thigh" length="0.270" origin="0.000, 0.000, 0.000" frame="0.078249, -0.066325, -0.994725, 0.000000, 0.005991, 0.997798, -0.066059, 0.000000, 0.996916, -0.000791, 0.078475, 0.000000, 0.102069, 0.017968, 0.794654, 0.000000">
+				<points>
+					<point radius="0.100">
+						<bones>
+							<bone name="r_thigh" weight="1.000"/>
+							<bone name="r_thigh" weight="0.000"/>
+						</bones>
+					</point>
+					<point radius="0.100">
+						<bones>
+							<bone name="r_thigh" weight="1.000"/>
+							<bone name="r_thigh" weight="0.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="l_forearm" length="0.200" origin="0.000, 0.000, 0.000" frame="-0.832738, 0.056543, -0.550772, 0.000000, -0.052791, -0.998348, -0.022676, 0.000000, -0.551143, 0.010192, 0.834348, 0.000000, -0.427211, -0.023974, 1.254567, 1.000000">
+				<points>
+					<point radius="0.060">
+						<bones>
+							<bone name="l_foretwist" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.060">
+						<bones>
+							<bone name="l_foretwist" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="l_upperArm" length="0.160" origin="0.000, 0.000, 0.000" frame="-0.791671, -0.051352, -0.608785, 0.000000, -0.090244, -0.975702, 0.199655, 0.000000, -0.604245, 0.213000, 0.767801, 0.000000, -0.190630, -0.011984, 1.420098, 0.000000">
+				<points>
+					<point radius="0.130">
+						<bones>
+							<bone name="l_upperarm_twist" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.130">
+						<bones>
+							<bone name="l_upperarm_twist" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="r_upperArm" length="0.160" origin="0.000, 0.000, 0.000" frame="0.803794, -0.047010, -0.593047, 0.000000, 0.090243, -0.975702, 0.199655, 0.000000, -0.588022, -0.214000, -0.780021, 0.000000, 0.189200, -0.012554, 1.417969, 0.000000">
+				<points>
+					<point radius="0.130">
+						<bones>
+							<bone name="r_upperarm_twist" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.130">
+						<bones>
+							<bone name="r_upperarm_twist" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="r_forearm" length="0.200" origin="0.000, 0.000, 0.000" frame="0.832738, 0.056543, -0.550772, 0.000000, 0.052790, -0.998348, -0.022676, 0.000000, -0.551143, -0.010192, -0.834348, 0.000000, 0.427198, -0.023981, 1.254549, 1.000000">
+				<points>
+					<point radius="0.060">
+						<bones>
+							<bone name="r_foretwist" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.060">
+						<bones>
+							<bone name="r_foretwist" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="pelvis" length="0.140" origin="0.000, 0.000, 0.000" frame="0.999933, 0.000021, 0.011541, 0.000000, -0.000021, 1.000000, -0.000001, 0.000000, -0.011541, 0.000001, 0.999933, 0.000000, -0.070999, 0.020168, 0.926493, 340282346638528859811704183484516925440.000000">
+				<points>
+					<point radius="0.120">
+						<bones>
+							<bone name="pelvis" weight="0.950"/>
+						</bones>
+					</point>
+					<point radius="0.120">
+						<bones>
+							<bone name="pelvis" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="spine" length="0.120" origin="0.000, 0.000, 0.000" frame="0.999847, -0.000470, 0.017441, 0.000000, 0.000003, 0.999641, 0.026797, 0.000000, -0.017447, -0.026792, 0.999488, 0.000000, -0.061351, 0.033778, 1.015094, 0.000000">
+				<points>
+					<point radius="0.120">
+						<bones>
+							<bone name="spine" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.120">
+						<bones>
+							<bone name="spine" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="spine1" length="0.080" origin="0.000, 0.000, 0.000" frame="-0.999957, 0.000250, -0.009216, 0.000000, 0.000003, 0.999641, 0.026797, 0.000000, 0.009219, 0.026796, -0.999598, 0.000000, 0.035229, 0.030594, 1.219560, 1.000000">
+				<points>
+					<point radius="0.160">
+						<bones>
+							<bone name="spine1" weight="1.000"/>
+							<bone name="spine2" weight="0.000"/>
+						</bones>
+					</point>
+					<point radius="0.160">
+						<bones>
+							<bone name="spine1" weight="1.000"/>
+							<bone name="spine2" weight="0.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="spine2" length="0.250" origin="0.000, 0.000, 0.000" frame="-0.999767, 0.000581, -0.021564, 0.000000, 0.000003, 0.999641, 0.026797, 0.000000, 0.021572, 0.026791, -0.999408, 0.000000, 0.131660, -0.012069, 1.408598, 1.000000">
+				<points>
+					<point radius="0.160">
+						<bones>
+							<bone name="spine2" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.160">
+						<bones>
+							<bone name="spine2" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="New capsule" length="0.250" origin="0.000, 0.000, 0.000" frame="-0.000001, 0.151389, 0.988474, 0.000000, 0.000003, 0.988475, -0.151389, 0.000000, -1.000000, 0.000003, -0.000001, 0.000000, 0.000000, 0.016512, 1.537555, 1.000000">
+				<points>
+					<point radius="0.120">
+						<bones>
+							<bone name="head" weight="0.000"/>
+						</bones>
+					</point>
+					<point radius="0.090">
+						<bones>
+							<bone name="head" weight="0.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+		</capsules>
+	</body>
+	<body name="sho_oyoroi" owner_skeleton="human_skeleton">
+		<capsules>
+			<capsule name="l_thigh" length="0.300" origin="0.000, 0.000, 0.000" frame="-0.078250, -0.066325, -0.994725, 0.000000, -0.005993, 0.997798, -0.066059, 0.000000, 0.996916, 0.000792, -0.078475, 0.000000, -0.078281, 0.020147, 0.913333, 1.000000">
+				<points>
+					<point radius="0.150">
+						<bones>
+							<bone name="l_thigh" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.200">
+						<bones>
+							<bone name="l_thigh" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="r_thigh" length="0.300" origin="0.000, 0.000, 0.000" frame="0.078250, -0.066326, -0.994725, 0.000000, 0.005991, 0.997798, -0.066059, 0.000000, 0.996916, -0.000791, 0.078475, 0.000000, 0.072692, 0.020230, 0.911833, 1.000000">
+				<points>
+					<point radius="0.150">
+						<bones>
+							<bone name="r_thigh" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.200">
+						<bones>
+							<bone name="r_thigh" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="pelvis" length="0.210" origin="0.000, 0.000, 0.000" frame="-0.001293, 0.000819, 0.999999, 0.000000, 0.000028, 1.000000, -0.000819, 0.000000, -0.999999, 0.000027, -0.001293, 0.000000, 0.000311, 0.029389, 0.673556, 1.000000">
+				<points>
+					<point radius="0.280">
+						<bones>
+							<bone name="l_thigh" weight="0.500"/>
+						</bones>
+					</point>
+					<point radius="0.200">
+						<bones>
+							<bone name="pelvis" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="spine2" length="0.200" origin="0.000, 0.000, 0.000" frame="0.999874, 0.000422, -0.015852, 0.000000, 0.000003, 0.999641, 0.026797, 0.000000, 0.015858, -0.026794, 0.999515, 0.000000, -0.099798, 0.139760, 1.331187, 1.000000">
+				<points>
+					<point radius="0.100">
+						<bones>
+							<bone name="l_clavicle" weight="1.000"/>
+						</bones>
+					</point>
+					<point radius="0.100">
+						<bones>
+							<bone name="r_clavicle" weight="1.000"/>
+						</bones>
+					</point>
+				</points>
+			</capsule>
+		</capsules>
+	</body>
+	<body name="sho_peasant">
+		<capsules>
+			<capsule name="l_thigh" length="0.300" origin="0.000, 0.000, 0.000" frame="-0.078250, -0.066325, -0.994725, 0.000000, -0.005993, 0.997798, -0.066059, 0.000000, 0.996916, 0.000792, -0.078475, 0.000000, -0.078281, 0.020147, 0.913333, 1.000000">
+				<points>
+					<point radius="0.150">
+						<bones/>
+					</point>
+					<point radius="0.160">
+						<bones/>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="r_thigh" length="0.300" origin="0.000, 0.000, 0.000" frame="0.078250, -0.066326, -0.994725, 0.000000, 0.005991, 0.997798, -0.066059, 0.000000, 0.996916, -0.000791, 0.078475, 0.000000, 0.072692, 0.020230, 0.911833, 1.000000">
+				<points>
+					<point radius="0.150">
+						<bones/>
+					</point>
+					<point radius="0.160">
+						<bones/>
+					</point>
+				</points>
+			</capsule>
+			<capsule name="pelvis" length="0.210" origin="0.000, 0.000, 0.000" frame="-0.001293, 0.000819, 0.999999, 0.000000, 0.000028, 1.000000, -0.000819, 0.000000, -0.999999, 0.000027, -0.001293, 0.000000, 0.000311, 0.029389, 0.673556, 1.000000">
+				<points>
+					<point radius="0.290">
+						<bones/>
+					</point>
+					<point radius="0.200">
+						<bones/>
+					</point>
+				</points>
+			</capsule>
+		</capsules>
+	</body>
+	<body name="sho_ship_mast">
+		<capsules>
+			<capsule name="New capsule1" length="100.000" origin="0.000, 0.000, 0.000" frame="0.007834, 0.000000, -0.999969, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.999969, -0.000000, 0.007834, 0.000000, -0.242699, 0.003745, 45.710552, 1.000000">
+				<points>
+					<point radius="0.001">
+						<bones/>
+					</point>
+					<point radius="0.180">
+						<bones/>
+					</point>
+				</points>
+			</capsule>
+		</capsules>
+	</body>
+</bodies>
+

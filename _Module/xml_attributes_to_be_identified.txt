@@ -1,0 +1,21 @@
+Shokuho/ModuleData/items/items: Items.Item.name, Items.CraftedItem.name
+Shokuho/ModuleData/CharacterTroops/ashigaru_units.xml: NPCCharacters.NPCCharacter.name
+Shokuho/ModuleData/CharacterTroops/promotion_units.xml: NPCCharacters.NPCCharacter.name
+Shokuho/ModuleData/spnpccharactertemplates.xml: NPCCharacters.NPCCharacter.name
+Shokuho/ModuleData/sho_siegeengines.xml: SiegeEngineTypes.SiegeEngineType.description
+Shokuho/ModuleData/comment_strings.xml: base.strings.string.text
+Shokuho/ModuleData/postbattle_location_complex_templates.xml: LocationComplexTemplates.LocationComplexTemplate.Location.name
+Shokuho/ModuleData/port_location_complex_templates.xml: LocationComplexTemplates.LocationComplexTemplate.Location.name
+Shokuho/ModuleData/port_location_settlements.xml: Settlements.Settlement.name
+Shokuho/ModuleData/duel_location_complex_templates.xml: LocationComplexTemplates.LocationComplexTemplate.Location.name
+Shokuho/ModuleData/duel_location_settlements.xml: Settlements.Settlement.name
+Shokuho/ModuleData/temple_location_complex_templates.xml: LocationComplexTemplates.LocationComplexTemplate.Location.name
+Shokuho/ModuleData/temple_location_settlements.xml: Settlements.Settlement.name
+Shokuho/ModuleData/voice_strings.xml: base.strings.string.text
+Shokuho/ModuleData/trait_strings.xml: base.strings.string.text
+Shokuho/ModuleData/wanderer_strings.xml: base.strings.string.text
+Shokuho/ModuleData/module_strings.xml: base.strings.string.text
+Shokuho/ModuleData/action_strings.xml: base.strings.string.text
+Shokuho/ModuleData/spworkshops.xml: WorkshopTypes.WorkshopType.name
+
+Shokuho/ModuleData/std_Shokuho_CampaignSystem.xml: base.strings.string.text

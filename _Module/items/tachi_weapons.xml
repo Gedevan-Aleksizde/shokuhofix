@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CraftingPieces>
+	<CraftedItem id="sho_tachi_1" name="{=M9ydEbyA}Dull Tachi" crafting_template="SHO_Tachi_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_tachi_blade_1" Type="Blade" scale_factor="99"/>
+			<Piece id="sho_ka_tsuba_a_7" Type="Guard" scale_factor="103"/>
+			<Piece id="sho_tachi_handle_a_1" Type="Handle" scale_factor="95"/>
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem id="sho_tachi_2" name="{=VCHYYr4t}Rough Tachi" crafting_template="SHO_Tachi_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_tachi_blade_2" Type="Blade" scale_factor="108"/>
+			<Piece id="sho_ka_tsuba_b_2" Type="Guard" scale_factor="92"/>
+			<Piece id="sho_tachi_handle_a_6" Type="Handle" scale_factor="104"/>
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem id="sho_tachi_3" name="{=a2Bix8mL}Simple Tachi" crafting_template="SHO_Tachi_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_tachi_blade_3" Type="Blade" scale_factor="100"/>
+			<Piece id="sho_ka_tsuba_c_3" Type="Guard" scale_factor="110"/>
+			<Piece id="sho_tachi_handle_a_2" Type="Handle" scale_factor="98"/>
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem id="sho_tachi_4" name="{=QxkXXM8Q}Sturdy Tachi" crafting_template="SHO_Tachi_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_tachi_blade_4" Type="Blade" scale_factor="93"/>
+			<Piece id="sho_ka_tsuba_a_5" Type="Guard" scale_factor="107"/>
+			<Piece id="sho_tachi_handle_a_3" Type="Handle" scale_factor="102"/>
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem id="sho_tachi_5" name="{=YrxntvRg}Reliable Tachi" crafting_template="SHO_Tachi_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_tachi_blade_5" Type="Blade" scale_factor="102"/>
+			<Piece id="sho_ka_tsuba_b_7" Type="Guard" scale_factor="110"/>
+			<Piece id="sho_tachi_handle_a_4" Type="Handle" scale_factor="99"/>
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem id="sho_tachi_6" name="{=4kNmSeRQ}Masterwork Tachi" crafting_template="SHO_Tachi_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_tachi_blade_12" Type="Blade" scale_factor="105"/>
+			<Piece id="sho_ka_tsuba_b_6" Type="Guard" scale_factor="109"/>
+			<Piece id="sho_tachi_handle_a_8" Type="Handle" scale_factor="106"/>
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem id="sho_tachi_7" name="{=VCHYYr4t}Rough Tachi" crafting_template="SHO_Tachi_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_tachi_blade_4" Type="Blade" scale_factor="92"/>
+			<Piece id="sho_ka_tsuba_c_3" Type="Guard" scale_factor="99"/>
+			<Piece id="sho_tachi_handle_a_2" Type="Handle" scale_factor="101"/>
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem id="sho_tachi_8" name="{=aU4uZTuf}Deadly Tachi" crafting_template="SHO_Tachi_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_tachi_blade_9" Type="Blade" scale_factor="96"/>
+			<Piece id="sho_ka_tsuba_a_8" Type="Guard" scale_factor="100"/>
+			<Piece id="sho_tachi_handle_a_5" Type="Handle" scale_factor="94"/>
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem id="sho_tachi_9" name="{=fgK91Jpu}Sharp Tachi" crafting_template="SHO_Tachi_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_tachi_blade_8" Type="Blade" scale_factor="104"/>
+			<Piece id="sho_ka_tsuba_b_3" Type="Guard" scale_factor="105"/>
+			<Piece id="sho_tachi_handle_a_6" Type="Handle" scale_factor="101"/>
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem id="sho_tachi_10" name="{=aj6o7vdl}Fabled Tachi" crafting_template="SHO_Tachi_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_tachi_blade_10" Type="Blade" scale_factor="110"/>
+			<Piece id="sho_ka_tsuba_a_6" Type="Guard" scale_factor="108"/>
+			<Piece id="sho_tachi_handle_a_3" Type="Handle" scale_factor="105"/>
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem id="sho_tachi_11" name="{=IbZ9wOCJ}Champion Tachi" crafting_template="SHO_Tachi_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_tachi_blade_11" Type="Blade" scale_factor="100"/>
+			<Piece id="sho_ka_tsuba_b_4" Type="Guard" scale_factor="102"/>
+			<Piece id="sho_tachi_handle_a_7" Type="Handle" scale_factor="99"/>
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem id="sho_tachi_12" name="{=YE7Cdbal}Mythic Tachi" crafting_template="SHO_Tachi_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_tachi_blade_12" Type="Blade" scale_factor="105"/>
+			<Piece id="sho_ka_tsuba_c_4" Type="Guard" scale_factor="98"/>
+			<Piece id="sho_tachi_handle_a_1" Type="Handle" scale_factor="107"/>
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem id="sho_tachi_13" name="{=gULRRBwd}Old Tachi" crafting_template="SHO_Tachi_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_tachi_blade_2" Type="Blade" scale_factor="95"/>
+			<Piece id="sho_ka_tsuba_c_4" Type="Guard" scale_factor="96"/>
+			<Piece id="sho_tachi_handle_a_5" Type="Handle" scale_factor="93"/>
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem id="sho_tachi_14" name="{=R36zCRrS}Decent Tachi" crafting_template="SHO_Tachi_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_tachi_blade_4" Type="Blade" scale_factor="98"/>
+			<Piece id="sho_ka_tsuba_b_5" Type="Guard" scale_factor="101"/>
+			<Piece id="sho_tachi_handle_a_4" Type="Handle" scale_factor="102"/>
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem id="sho_tachi_15" name="{=S0rZvSto}Fierce Tachi" crafting_template="SHO_Tachi_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_tachi_blade_8" Type="Blade" scale_factor="103"/>
+			<Piece id="sho_ka_tsuba_b_8" Type="Guard" scale_factor="105"/>
+			<Piece id="sho_tachi_handle_a_8" Type="Handle" scale_factor="106"/>
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem id="sho_tachi_16" name="{=mXP9SJuy}Powerful Tachi" crafting_template="SHO_Tachi_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_tachi_blade_7" Type="Blade" scale_factor="108"/>
+			<Piece id="sho_ka_tsuba_a_1" Type="Guard" scale_factor="109"/>
+			<Piece id="sho_tachi_handle_a_3" Type="Handle" scale_factor="110"/>
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem id="sho_tachi_17" name="{=HtX8vAHu}Solid Tachi" crafting_template="SHO_Tachi_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_tachi_blade_3" Type="Blade" scale_factor="90"/>
+			<Piece id="sho_ka_tsuba_c_2" Type="Guard" scale_factor="95"/>
+			<Piece id="sho_tachi_handle_a_5" Type="Handle" scale_factor="92"/>
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem id="sho_tachi_18" name="{=U1MhXSc1}Steel Tachi" crafting_template="SHO_Tachi_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_tachi_blade_6" Type="Blade" scale_factor="98"/>
+			<Piece id="sho_ka_tsuba_a_7" Type="Guard" scale_factor="104"/>
+			<Piece id="sho_tachi_handle_a_2" Type="Handle" scale_factor="101"/>
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem id="sho_tachi_19" name="{=dU90Mvo6}Vengeful Tachi" crafting_template="SHO_Tachi_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_tachi_blade_9" Type="Blade" scale_factor="107"/>
+			<Piece id="sho_ka_tsuba_b_1" Type="Guard" scale_factor="103"/>
+			<Piece id="sho_tachi_handle_a_6" Type="Handle" scale_factor="105"/>
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem id="sho_tachi_20" name="{=xGl8nnxJ}Merciless Tachi" crafting_template="SHO_Tachi_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_tachi_blade_10" Type="Blade" scale_factor="110"/>
+			<Piece id="sho_ka_tsuba_a_4" Type="Guard" scale_factor="108"/>
+			<Piece id="sho_tachi_handle_a_7" Type="Handle" scale_factor="106"/>
+		</Pieces>
+	</CraftedItem>
+    <CraftedItem id="sho_tachi_tiger" name="{=6sFVGQKQ}Tiger Fur tachi" crafting_template="SHO_Tachi_TwoHandedSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_tachi_blade_tiger" Type="Blade" scale_factor="106"/>
+            <Piece id="sho_ka_tsuba_a_1" Type="Guard" scale_factor="100"/>
+            <Piece id="sho_tachi_handle_a_7" Type="Handle" scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_tachi_bear" name="{=xdltvfIu}Bear Fur Tachi" crafting_template="SHO_Tachi_TwoHandedSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_tachi_blade_bear" Type="Blade" scale_factor="106"/>
+            <Piece id="sho_ka_tsuba_a_1" Type="Guard" scale_factor="100"/>
+            <Piece id="sho_tachi_handle_a_6" Type="Handle" scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_tachi_deer" name="{=GXPMYk9j}Deer Hide Tachi" crafting_template="SHO_Tachi_TwoHandedSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_tachi_blade_deer" Type="Blade" scale_factor="106"/>
+            <Piece id="sho_ka_tsuba_a_1" Type="Guard" scale_factor="100"/>
+            <Piece id="sho_tachi_handle_a_7" Type="Handle" scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_tachi_tanuki" name="{=j5ZhZQGD}Tanuki Fur Tachi" crafting_template="SHO_Tachi_TwoHandedSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_tachi_blade_tanuki" Type="Blade" scale_factor="106"/>
+            <Piece id="sho_ka_tsuba_a_1" Type="Guard" scale_factor="100"/>
+            <Piece id="sho_tachi_handle_a_8" Type="Handle" scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+</CraftingPieces>

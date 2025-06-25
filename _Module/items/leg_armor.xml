@@ -1,0 +1,561 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Items>
+
+    <!--<Item id="krieg_basic_guard_legs"
+          name="Krieg Pants"
+          mesh="krieg_basic_guard_legs"
+          is_merchandise="false"
+          weight="0.9"
+          difficulty="0"
+          appearance="1"
+          Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="35"
+                   covers_legs="true"
+                   modifier_group="plate"
+                   material_type="Plate" />
+        </ItemComponent>
+        <Flags Civilian="true" />
+    </Item>
+
+
+    <Item id="krieg_grenadier_guard_legs"
+          name="Krieg Grenadier Pants"
+          mesh="krieg_grenadier_guard_legs"
+          is_merchandise="false"
+          weight="0.9"
+          difficulty="0"
+          appearance="1"
+          Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="35"
+                   covers_legs="true"
+                   modifier_group="plate"
+                   material_type="Plate" />
+        </ItemComponent>
+        <Flags Civilian="true" />
+    </Item>-->
+
+
+    <Item id="sho_tsutsu_suneate_1_c_1" name="{=Bnhchkdv}Ornate Tsutsu Suneate" mesh="sho_tsutsu_suneate_1_c_1" weight="2.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="26" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_tsutsu_suneate_1_c_2" name="{=Bnhchkdv}Ornate Tsutsu Suneate" mesh="sho_tsutsu_suneate_1_c_2" weight="2.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="26" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_tsutsu_suneate_1_c_3" name="{=Bnhchkdv}Ornate Tsutsu Suneate" mesh="sho_tsutsu_suneate_1_c_3" weight="2.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="26" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+
+    <Item id="sho_tsutsu_suneate_2_c_1" name="{=Bnhchkdv}Ornate Tsutsu Suneate" mesh="sho_tsutsu_suneate_2_c_1" weight="2.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="26" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_tsutsu_suneate_2_c_2" name="{=Bnhchkdv}Ornate Tsutsu Suneate" mesh="sho_tsutsu_suneate_2_c_2" weight="2.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="26" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+
+    <Item id="sho_tsutsu_suneate_2_c_3" name="{=Bnhchkdv}Ornate Tsutsu Suneate" mesh="sho_tsutsu_suneate_2_c_3" weight="2.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="26" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+
+
+
+
+
+
+
+
+
+    <Item id="sho_tsutsu_suneate_1_a_1" name="{=Bnhchkdv}Ornate Tsutsu Suneate" mesh="sho_tsutsu_suneate_1_a_1" weight="2.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="26" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+    <Item id="sho_tsutsu_suneate_1_a_2" name="{=Bnhchkdv}Ornate Tsutsu Suneate" mesh="sho_tsutsu_suneate_1_a_2" weight="2.2" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="26" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+    <Item id="sho_tsutsu_suneate_1_a_3" name="{=Bnhchkdv}Ornate Tsutsu Suneate" mesh="sho_tsutsu_suneate_1_a_3" weight="2.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="26" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+    <Item id="sho_tsutsu_suneate_2_a_1" name="{=Bnhchkdv}Ornate Tsutsu Suneate" mesh="sho_tsutsu_suneate_2_a_1" weight="2.2" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="26" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+    <Item id="sho_tsutsu_suneate_2_a_2" name="{=Bnhchkdv}Ornate Tsutsu Suneate" mesh="sho_tsutsu_suneate_2_a_2" weight="2.2" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="26" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+    <Item id="sho_tsutsu_suneate_2_a_3" name="{=Bnhchkdv}Ornate Tsutsu Suneate" mesh="sho_tsutsu_suneate_2_a_3" weight="2.2" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="26" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+    <Item id="sho_shino_suneate_a_1" name="{=BTbFe7YS}Tateage Shino Suneate" mesh="sho_shino_suneate_a_1" weight="1.6" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="16" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+    <Item id="sho_shino_suneate_a_2" name="{=BTbFe7YS}Tateage Shino Suneate" mesh="sho_shino_suneate_a_2" weight="1.6" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="16" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+    <Item id="sho_shino_suneate_a_3" name="{=BTbFe7YS}Tateage Shino Suneate" mesh="sho_shino_suneate_a_3" weight="1.6" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="16" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+    <Item id="sho_shino_suneate_a_4" name="{=BTbFe7YS}Tateage Shino Suneate" mesh="sho_shino_suneate_a_4" weight="1.6" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="16" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+    <Item id="sho_shino_suneate_a_5" name="{=ZEAspayX}Shino Suneate" mesh="sho_shino_suneate_a_5" weight="1.3" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="14" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+    <Item id="sho_shino_suneate_a_6" name="{=ZEAspayX}Shino Suneate" mesh="sho_shino_suneate_a_6" weight="1.3" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="14" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+    <Item id="sho_shino_suneate_a_7" name="{=ZEAspayX}Shino Suneate" mesh="sho_shino_suneate_a_7" weight="1.3" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="14" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+    <Item id="sho_shino_suneate_a_8" name="{=ZEAspayX}Shino Suneate" mesh="sho_shino_suneate_a_8" weight="1.1" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="14" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_riding_boots_brown" name="{=gzyTfOUS}Spanish Boots" mesh="sho_riding_boots_brown" is_merchandise="false" weight="0.9" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="10" covers_legs="true" modifier_group="leather" material_type="Leather"/>
+        </ItemComponent>
+        <Flags Civilian="true"/>
+    </Item>
+    <Item id="sho_riding_boots_black" name="{=gzyTfOUS}Spanish Boots" mesh="sho_riding_boots_black" is_merchandise="false" weight="0.9" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="10" covers_legs="true" modifier_group="leather" material_type="Leather"/>
+        </ItemComponent>
+        <Flags Civilian="true"/>
+    </Item>
+
+    <Item id="sho_waraji_a" name="{=O5nFZ4vF}Waraji" mesh="sho_waraji_a" weight="0.2" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="1" covers_legs="false" modifier_group="cloth_unarmoured" material_type="Cloth"/>
+        </ItemComponent>
+        <Flags Civilian="true"/>
+    </Item>
+    <Item id="sho_low_tier_suneate_a_1" name="{=w7ublENG}Barefoot Cloth Suneate" mesh="sho_low_tier_suneate_a_1" weight="0.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="4" covers_legs="false" modifier_group="cloth_unarmored" material_type="Cloth"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"
+			   Civilian="true"/>
+    </Item>
+
+    <Item id="sho_low_tier_suneate_a_2" name="{=w7ublENG}Barefoot Cloth Suneate" mesh="sho_low_tier_suneate_a_2" weight="0.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="4" covers_legs="false" modifier_group="cloth_unarmored" material_type="Cloth"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"
+			   Civilian="true"/>
+    </Item>
+
+    <Item id="sho_low_tier_suneate_a_3" name="{=w7ublENG}Barefoot Cloth Suneate" mesh="sho_low_tier_suneate_a_3" weight="0.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="4" covers_legs="false" modifier_group="cloth_unarmored" material_type="Cloth"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"
+			   Civilian="true"/>
+    </Item>
+
+    <Item id="sho_low_tier_suneate_a_4" name="{=w7ublENG}Barefoot Cloth Suneate" mesh="sho_low_tier_suneate_a_4" weight="0.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="4" covers_legs="false" modifier_group="cloth_unarmored" material_type="Cloth"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"
+			   Civilian="true"/>
+    </Item>
+
+    <Item id="sho_low_tier_suneate_a_5" name="{=w7ublENG}Barefoot Cloth Suneate" mesh="sho_low_tier_suneate_a_5" weight="0.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="4" covers_legs="false" modifier_group="cloth_unarmored" material_type="Cloth"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"
+			   Civilian="true"/>
+    </Item>
+
+    <Item id="sho_low_tier_suneate_a_6" name="{=w7ublENG}Barefoot Cloth Suneate" mesh="sho_low_tier_suneate_a_6" weight="0.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="4" covers_legs="false" modifier_group="cloth_unarmored" material_type="Cloth"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"
+			   Civilian="true"/>
+    </Item>
+
+    <Item id="sho_low_tier_suneate_a_7" name="{=w7ublENG}Barefoot Cloth Suneate" mesh="sho_low_tier_suneate_a_7" weight="0.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="4" covers_legs="false" modifier_group="cloth_unarmored" material_type="Cloth"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"
+			   Civilian="true"/>
+    </Item>
+
+    <Item id="sho_low_tier_suneate_a_8" name="{=w7ublENG}Barefoot Cloth Suneate" mesh="sho_low_tier_suneate_a_8" weight="0.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="4" covers_legs="false" modifier_group="cloth_unarmored" material_type="Cloth"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"
+			   Civilian="true"/>
+    </Item>
+
+
+
+    <Item id="sho_low_tier_suneate_a_10" name="{=pp01Hcyc}Cloth Suneate" mesh="sho_low_tier_suneate_a_10" weight="0.6" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="5" covers_legs="false" modifier_group="cloth_unarmored" material_type="Cloth"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"
+			   Civilian="true"/>
+    </Item>
+
+    <Item id="sho_low_tier_suneate_a_11" name="{=pp01Hcyc}Cloth Suneate" mesh="sho_low_tier_suneate_a_11" weight="0.6" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="5" covers_legs="false" modifier_group="cloth_unarmored" material_type="Cloth"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"
+			   Civilian="true"/>
+    </Item>
+
+    <Item id="sho_low_tier_suneate_a_12" name="{=pp01Hcyc}Cloth Suneate" mesh="sho_low_tier_suneate_a_12" weight="0.6" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="5" covers_legs="false" modifier_group="cloth_unarmored" material_type="Cloth"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"
+			   Civilian="true"/>
+    </Item>
+
+    <Item id="sho_low_tier_suneate_a_13" name="{=pp01Hcyc}Cloth Suneate" mesh="sho_low_tier_suneate_a_13" weight="0.6" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="5" covers_legs="false" modifier_group="cloth_unarmored" material_type="Cloth"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"
+			   Civilian="true"/>
+    </Item>
+
+    <Item id="sho_low_tier_suneate_a_14" name="{=pp01Hcyc}Cloth Suneate" mesh="sho_low_tier_suneate_a_14" weight="0.6" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="5" covers_legs="false" modifier_group="cloth_unarmored" material_type="Cloth"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"
+			   Civilian="true"/>
+    </Item>
+
+    <Item id="sho_low_tier_suneate_a_15" name="{=pp01Hcyc}Cloth Suneate" mesh="sho_low_tier_suneate_a_15" weight="0.6" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="5" covers_legs="false" modifier_group="cloth_unarmored" material_type="Cloth"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"
+			   Civilian="true"/>
+    </Item>
+
+    <Item id="sho_low_tier_suneate_a_16" name="{=pp01Hcyc}Cloth Suneate" mesh="sho_low_tier_suneate_a_16" weight="0.6" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="5" covers_legs="false" modifier_group="cloth_unarmored" material_type="Cloth"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"
+			   Civilian="true"/>
+    </Item>
+
+    <Item id="sho_low_tier_suneate_a_17" name="{=pp01Hcyc}Cloth Suneate" mesh="sho_low_tier_suneate_a_17" weight="0.6" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="5" covers_legs="false" modifier_group="cloth_unarmored" material_type="Cloth"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"
+			   Civilian="true"/>
+    </Item>
+
+    <Item id="sho_low_tier_suneate_a_18" name="{=pp01Hcyc}Cloth Suneate" mesh="sho_low_tier_suneate_a_18" weight="0.6" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="5" covers_legs="false" modifier_group="cloth_unarmored" material_type="Cloth"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"
+			   Civilian="true"/>
+    </Item>
+    <Item id="sho_tsutsu_suneate_b_1" name="{=TcYIXW4C}Tsutsu Suneate" mesh="sho_tsutsu_suneate_b_1" weight="2.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="18" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_tsutsu_suneate_b_2" name="{=TcYIXW4C}Tsutsu Suneate" mesh="sho_tsutsu_suneate_b_2" weight="2.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="18" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_tsutsu_suneate_b_3" name="{=TcYIXW4C}Tsutsu Suneate" mesh="sho_tsutsu_suneate_b_3" weight="2.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="18" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_tsutsu_suneate_b_4" name="{=TcYIXW4C}Tsutsu Suneate" mesh="sho_tsutsu_suneate_b_4" weight="2.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="18" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_tsutsu_suneate_b_5" name="{=TcYIXW4C}Tsutsu Suneate" mesh="sho_tsutsu_suneate_b_5" weight="2.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="18" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_tsutsu_suneate_b_6" name="{=TcYIXW4C}Tsutsu Suneate" mesh="sho_tsutsu_suneate_b_6" weight="2.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="18" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_tsutsu_suneate_b_7" name="{=TcYIXW4C}Tsutsu Suneate" mesh="sho_tsutsu_suneate_b_7" weight="2.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="18" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_tsutsu_suneate_b_8" name="{=TcYIXW4C}Tsutsu Suneate" mesh="sho_tsutsu_suneate_b_8" weight="2.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="18" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_tsutsu_suneate_b_9" name="{=uvzoh6Ri}Fur Tsutsu Suneate" mesh="sho_tsutsu_suneate_b_9" weight="2.5" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="22" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_tsutsu_suneate_b_10" name="{=uvzoh6Ri}Fur Tsutsu Suneate" mesh="sho_tsutsu_suneate_b_10" weight="2.5" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="19" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_tsutsu_suneate_b_11" name="{=uvzoh6Ri}Fur Tsutsu Suneate" mesh="sho_tsutsu_suneate_b_11" weight="2.5" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="19" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_tsutsu_suneate_b_12" name="{=uvzoh6Ri}Fur Tsutsu Suneate" mesh="sho_tsutsu_suneate_b_12" weight="2.5" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="19" covers_legs="false" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+
+    <Item id="sho_tsutsu_suneate_c_1" name="{=E2QlAoyf}Mail Tsutsu Suneate" mesh="sho_tsutsu_suneate_c_1" weight="2.3" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="21" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_tsutsu_suneate_c_2" name="{=jtXzAqSU}Fur Mail Tsutsu Suneate" mesh="sho_tsutsu_suneate_c_2" weight="2.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="22" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_tsutsu_suneate_c_3" name="{=E2QlAoyf}Mail Tsutsu Suneate" mesh="sho_tsutsu_suneate_c_3" weight="2.3" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="21" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_tsutsu_suneate_c_4" name="{=E2QlAoyf}Mail Tsutsu Suneate" mesh="sho_tsutsu_suneate_c_4" weight="2.3" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="21" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_tsutsu_suneate_c_5" name="{=E2QlAoyf}Mail Tsutsu Suneate" mesh="sho_tsutsu_suneate_c_5" weight="2.3" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="21" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_tsutsu_suneate_c_6" name="{=E2QlAoyf}Mail Tsutsu Suneate" mesh="sho_tsutsu_suneate_c_6" weight="2.3" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="21" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_tsutsu_suneate_c_7" name="{=E2QlAoyf}Mail Tsutsu Suneate" mesh="sho_tsutsu_suneate_c_7" weight="2.3" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="21" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_tsutsu_suneate_c_8" name="{=E2QlAoyf}Mail Tsutsu Suneate" mesh="sho_tsutsu_suneate_c_8" weight="2.3" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="21" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_tsutsu_suneate_c_9" name="{=jtXzAqSU}Fur Mail Tsutsu Suneate" mesh="sho_tsutsu_suneate_c_9" weight="2.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="22" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_tsutsu_suneate_c_10" name="{=jtXzAqSU}Fur Mail Tsutsu Suneate" mesh="sho_tsutsu_suneate_c_10" weight="2.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="22" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_tsutsu_suneate_c_11" name="{=jtXzAqSU}Fur Mail Tsutsu Suneate" mesh="sho_tsutsu_suneate_c_11" weight="2.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="22" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <Item id="sho_tsutsu_suneate_c_12" name="{=jtXzAqSU}Fur Mail Tsutsu Suneate" mesh="sho_tsutsu_suneate_c_12" weight="2.4" appearance="1" Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="22" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+
+    <!--<Item id="sho_shinguard_simple_1"
+          name="Wrapped Suneate"
+          mesh="sho_shinguard_simple_1"
+          weight="0.8"
+          appearance="1"
+          Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="8"
+                   covers_legs="true"
+                   modifier_group="cloth_unarmored"
+                   material_type="Cloth" />
+        </ItemComponent>
+        <Flags Civilian="true" />
+    </Item>
+    <Item id="sho_shinguard_simple_2"
+          name="Wrapped Suneate"
+          mesh="sho_shinguard_simple_2"
+          weight="0.8"
+          appearance="1"
+          Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="8"
+                   covers_legs="true"
+                   modifier_group="cloth_unarmored"
+                   material_type="Cloth" />
+        </ItemComponent>
+        <Flags Civilian="true" />
+    </Item>
+    <Item id="sho_shinguard_simple_3"
+          name="Wrapped Suneate"
+          mesh="sho_shinguard_simple_3"
+          weight="0.8"
+          appearance="1"
+          Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="8"
+                   covers_legs="true"
+                   modifier_group="cloth_unarmored"
+                   material_type="Cloth" />
+        </ItemComponent>
+        <Flags Civilian="true" />
+    </Item>
+    <Item id="sho_shinguard_simple_4"
+          name="Wrapped Suneate"
+          mesh="sho_shinguard_simple_4"
+          weight="0.8"
+          appearance="1"
+          Type="LegArmor">
+        <ItemComponent>
+            <Armor leg_armor="8"
+                   covers_legs="true"
+                   modifier_group="cloth_unarmored"
+                   material_type="Cloth" />
+        </ItemComponent>
+        <Flags Civilian="true" />
+    </Item>-->
+
+
+</Items>

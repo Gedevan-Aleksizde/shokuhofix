@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="combat_parameters">
+	<managed_core_parameters>
+		<managed_core_parameter id="CampaignMapCenterPointX" value="1000"/>
+		<managed_core_parameter id="CampaignMapCenterPointY" value="1000"/>
+		<managed_core_parameter id="CampaignMapMaxAllowedDistanceFromCenterPointX" value="1000"/>
+		<managed_core_parameter id="CampaignMapMaxAllowedDistanceFromCenterPointY" value="1000"/>
+		<managed_core_parameter id="CampaignMapMaxAllowedCameraHeight" value="1670"/>
+	</managed_core_parameters>
+</base>

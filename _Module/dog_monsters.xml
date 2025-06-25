@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Monsters>
+	<!-- family_type:
+  0 for human
+  1 for horse
+  2 for camel
+  3 for cow
+  4 for goose
+  5 for hog
+  6 for sheep
+  7 for hare
+  -->
+
+	<Monster
+		id="doggo"
+		action_set="as_doggo_warrior"
+		female_action_set="as_doggo_female_warrior"
+		monster_usage="human"
+		weight="70"
+		hit_points="70"
+		num_paces="6"
+		jump_acceleration="3"
+		sound_and_collision_info_class="human"
+		standing_chest_height="0.64"
+		standing_pelvis_height="0.64"
+		standing_eye_height="0.88"
+		eye_offset_wrt_head="0.07, -0.05, 0.0"
+		first_person_camera_offset_wrt_head="0.136, 0.1, 0.0"
+		arm_length="0.9"
+		arm_weight="5.0"
+		jump_speed_limit="3.5"
+		family_type="0"
+		ragdoll_bone_to_check_for_corpses_0="Rig_Head"
+		ragdoll_bone_to_check_for_corpses_1="Spine_03"
+		ragdoll_bone_to_check_for_corpses_2="Spine_04"
+		ragdoll_bone_to_check_for_corpses_3="Neck_01"
+		ragdoll_bone_to_check_for_corpses_4="Rig_Head"
+		ragdoll_bone_to_check_for_corpses_5="R_Scapula"
+		ragdoll_bone_to_check_for_corpses_6="L_Scapula"
+		ragdoll_bone_to_check_for_corpses_7="L_Patella"
+		ragdoll_bone_to_check_for_corpses_8="R_Patella"
+		ragdoll_fall_sound_bone_0="Dog_root"
+		ragdoll_fall_sound_bone_1="Spine_03"
+		ragdoll_fall_sound_bone_2="Neck_01"
+		ragdoll_fall_sound_bone_3="Rig_Head"
+		head_look_direction_bone="Rig_Head"
+		move_adder_bone_0="Spine_01"
+		move_adder_bone_1="Spine_03"
+		move_adder_bone_2="Spine_04"
+		move_adder_bone_3="l_clavicle"
+		move_adder_bone_4="r_clavicle"
+		move_adder_bone_5="Neck_01"
+		move_adder_bone_6="Rig_Head"
+		neck_root_bone="Neck_01"
+		pelvis_bone="Dog_root"
+		fall_blow_damage_bone="Dog_root"
+		front_bone_to_detect_ground_slope_index="2"
+		back_bone_to_detect_ground_slope_index="4"
+		bones_to_modify_on_sloping_ground_0="Neck_01"
+		bones_to_modify_on_sloping_ground_1="L_clavicle"
+		bones_to_modify_on_sloping_ground_2="R_clavicle"
+		bones_to_modify_on_sloping_ground_3="L_Patella"
+		bones_to_modify_on_sloping_ground_4="R_Patella"
+		body_rotation_reference_bone="Spine_04"
+		main_hand_bone="R_Metacarpus"
+		off_hand_bone="L_Metacarpus"
+		main_hand_item_bone="R_Phalange"
+		off_hand_item_bone="L_Phalange"
+		off_hand_item_secondary_bone="L_Carpus"
+		off_hand_shoulder_bone="L_Scapula"
+		hand_num_bones_for_ik="6"
+		primary_foot_bone="R_metatarsus"
+		secondary_foot_bone="L_metatarsus"
+		right_foot_ik_end_effector_bone="R_metatarsus"
+		left_foot_ik_end_effector_bone="L_metatarsus"
+		right_foot_ik_tip_bone="R_Phalange_back"
+		left_foot_ik_tip_bone="L_Phalange_back"
+		foot_num_bones_for_ik="3">
+		<Capsules>
+			<body_capsule
+				radius="0.35"
+				pos1="0,  0.55, 0.5"
+				pos2="0, -0.25, 0.5" />
+		</Capsules>
+		<Flags
+			CanAttack="true"
+			CanDefend="true"
+			CanKick="true"
+			CanBeCharged="true"
+			CanClimbLadders="true"
+			CanBeInGroup="true"
+			CanSprint="true"
+			IsHumanoid="true"
+			CanRide="true"
+			CanWieldWeapon="true"
+			CanCrouch="true"
+			CanRetreat="true" />
+
+	</Monster>
+
+
+	<Monster
+		id="doggo_child"
+		base_monster="doggo"
+		action_set="as_doggo_child"
+		weight="30"
+		walking_speed_limit="1.6"
+		standing_eye_height="1.20"
+		crouch_eye_height="0.70"
+		arm_length="0.6"
+		arm_weight="2.4" />
+	<Monster
+		id="doggo_settlement"
+		base_monster="doggo"
+		hit_points="40"
+		walking_speed_limit="1.4">
+		<Flags
+			CanAttack="true"
+			CanDefend="true"
+			CanBeCharged="true"
+			CanClimbLadders="true"
+			CanBeInGroup="true"
+			CanSprint="true"
+			IsHumanoid="true"
+			CanRide="true"
+			CanWieldWeapon="true"
+			CanCrouch="true" />
+	</Monster>
+	<Monster
+		id="doggo_settlement_slow"
+		base_monster="doggo_settlement"
+		walking_speed_limit="1.1" />
+	<Monster
+		id="doggo_settlement_fast"
+		base_monster="doggo_settlement"
+		walking_speed_limit="1.6" />
+
+
+	<!-- <Monster id="hare" action_set="hare" monster_usage="horse" weight="5" hit_points="5" num_paces="6" jump_acceleration="1.5"
+           standing_eye_height="0.1" eye_offset_wrt_head="0.2, -0.01, 0.0" jump_speed_limit="3.5" family_type="7"> not real values for eye_offset_wrt_head
+    <Capsules>
+      <body_capsule radius="0.1" pos1="0,  0.4, 0.0" pos2="0, -0.1, 0" />
+    </Capsules>
+    <flags>
+      <flag name="RunsAwayWhenHit" />
+      <flag name="CanBeCharged" />
+      <flag name="CanGetScared" />
+      <flag name="CanWander" />
+      <flag name="MoveAsHerd" />
+      <flag name="MoveForwardOnly" />
+    </flags>
+  </Monster>-->
+</Monsters>

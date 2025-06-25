@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CraftingPieces>
+	<!-- Nagamaki Handle-->
+
+	<CraftingPiece id="sho_nagamaki_handle_a_1" name="{=uNNR8CvG}Worn Nagamaki Handle" tier="1" piece_type="Handle" mesh="sho_nagamaki_handle_a_1" length="112" weight="0.6" is_default="true">
+		<BuildData piece_offset="0" next_piece_offset="0.8"/>
+		<Materials>
+			<Material id="Iron1" count="1"/>
+            <Material id="Wood" count="1"/>
+        </Materials>
+	</CraftingPiece>
+
+
+
+	<CraftingPiece id="sho_nagamaki_handle_a_2" name="{=uRctUHpw}Simple Nagamaki Handle" tier="2" piece_type="Handle" mesh="sho_nagamaki_handle_a_2" length="112" weight="0.55">
+		<BuildData piece_offset="0" next_piece_offset="0.8"/>
+		<Materials>
+			<Material id="Iron2" count="1"/>
+		</Materials>
+	</CraftingPiece>
+
+
+	<CraftingPiece id="sho_nagamaki_handle_a_3" name="{=2oM8XJZC}Solid Nagamaki Handle" tier="3" piece_type="Handle" mesh="sho_nagamaki_handle_a_3" length="112" weight="0.5">
+		<BuildData piece_offset="0" next_piece_offset="0.8"/>
+		<Materials>
+			<Material id="Iron3" count="1"/>
+		</Materials>
+	</CraftingPiece>
+
+
+	<CraftingPiece id="sho_nagamaki_handle_a_4" name="{=pADNP1n8}Renowned Nagamaki Handle" tier="4" piece_type="Handle" mesh="sho_nagamaki_handle_a_4" length="112" weight="0.45">
+		<BuildData piece_offset="0" next_piece_offset="0.8"/>
+		<Materials>
+			<Material id="Iron4" count="1"/>
+		</Materials>
+	</CraftingPiece>
+
+
+
+	<CraftingPiece id="sho_nagamaki_handle_a_5" name="{=pckX4eJB}Champion Nagamaki Handle" tier="5" piece_type="Handle" mesh="sho_nagamaki_handle_a_5" length="112" weight="0.4">
+		<BuildData piece_offset="0" next_piece_offset="0.8"/>
+		<Materials>
+			<Material id="Iron5" count="1"/>
+		</Materials>
+	</CraftingPiece>
+
+
+
+	<CraftingPiece id="sho_nagamaki_handle_a_6" name="{=fQJDr4BA}Fabled Nagamaki Handle" tier="5" piece_type="Handle" mesh="sho_nagamaki_handle_a_6" length="112" weight="0.4">
+		<BuildData piece_offset="0" next_piece_offset="0.8"/>
+		<Materials>
+			<Material id="Iron5" count="1"/>
+		</Materials>
+	</CraftingPiece>
+
+
+
+	<CraftingPiece id="sho_nagamaki_blade_1" name="{=mm8KmMY5}Crude Curved Long Blade" tier="1" piece_type="Blade" mesh="sho_nodachi_blade_6" length="104" weight=".8" is_default="true">
+		<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="">
+			<Thrust damage_type="Pierce" damage_factor="1"/>
+			<Swing damage_type="Cut" damage_factor="3"/>
+		</BladeData>
+		<BuildData previous_piece_offset="0" next_piece_offset="0"/>
+		<Flags>
+		</Flags>
+		<Materials>
+			<Material id="Iron2" count="3"/>
+			<Material id="Iron1" count="1"/>
+		</Materials>
+	</CraftingPiece>
+
+
+
+
+
+	<CraftingPiece id="sho_nagamaki_blade_2" name="{=bSQgXXPS}Sharp Curved Long Blade" tier="4" piece_type="Blade" mesh="sho_nodachi_blade_7" length="104" weight=".8">
+		<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="">
+			<Thrust damage_type="Pierce" damage_factor="4"/>
+			<Swing damage_type="Cut" damage_factor="6"/>
+		</BladeData>
+		<BuildData previous_piece_offset="0" next_piece_offset="0"/>
+		<Flags>
+		</Flags>
+		<Materials>
+			<Material id="Iron5" count="3"/>
+			<Material id="Iron4" count="1"/>
+		</Materials>
+	</CraftingPiece>
+
+
+
+
+	<CraftingPiece id="sho_nagamaki_blade_3" name="{=byFQxvcO}Fabled Curved Long Blade" tier="5" piece_type="Blade" mesh="sho_nodachi_blade_8" length="104" weight=".8">
+		<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="">
+			<Thrust damage_type="Pierce" damage_factor="5"/>
+			<Swing damage_type="Cut" damage_factor="7"/>
+		</BladeData>
+		<BuildData previous_piece_offset="0" next_piece_offset="0"/>
+		<Flags>
+		</Flags>
+		<Materials>
+			<Material id="Iron6" count="3"/>
+			<Material id="Iron5" count="1"/>
+		</Materials>
+	</CraftingPiece>
+
+
+
+
+	<CraftingPiece id="sho_nagamaki_blade_4" name="{=PQqP7KrC}Simple Curved Long Blade" tier="2" piece_type="Blade" mesh="sho_nodachi_blade_9" length="104" weight=".8">
+		<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="">
+			<Thrust damage_type="Pierce" damage_factor="2"/>
+			<Swing damage_type="Cut" damage_factor="4"/>
+		</BladeData>
+		<BuildData previous_piece_offset="0" next_piece_offset="0"/>
+		<Flags>
+		</Flags>
+		<Materials>
+			<Material id="Iron3" count="3"/>
+			<Material id="Iron2" count="1"/>
+		</Materials>
+	</CraftingPiece>
+
+
+
+
+
+
+	<CraftingPiece id="sho_nagamaki_blade_5" name="{=Im9TdJgu}Reliable Curved Long Blade" tier="3" piece_type="Blade" mesh="sho_nodachi_blade_10" length="104" weight=".8">
+		<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="">
+			<Thrust damage_type="Pierce" damage_factor="3"/>
+			<Swing damage_type="Cut" damage_factor="5"/>
+		</BladeData>
+		<BuildData previous_piece_offset="0" next_piece_offset="0"/>
+		<Flags>
+		</Flags>
+		<Materials>
+			<Material id="Iron4" count="3"/>
+			<Material id="Iron3" count="1"/>
+		</Materials>
+	</CraftingPiece>
+</CraftingPieces>

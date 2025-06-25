@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Need this file here for the xslt to register. That xlst gets rid of vanilla crafting items. -->
+<CraftingTemplates>
+</CraftingTemplates>

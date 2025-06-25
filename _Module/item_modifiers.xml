@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ItemModifiers>
+    <!-- Swords -->
+    <ItemModifier modifier_group="ItemModifierGroup.sword" id="legendary_sword" name="{=lRf4t9Qg}Legendary {ITEMNAME}" loot_drop_score="2" production_drop_score="5" damage="7" speed="3" price_factor="1.8" quality="legendary"/>
+    <ItemModifier modifier_group="ItemModifierGroup.sword" id="masterwork_sword" name="{=8Tal0XIj}Masterwork {ITEMNAME}" loot_drop_score="5" production_drop_score="10" damage="5" speed="2" price_factor="1.5" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.sword" id="balanced_sword" name="{=fdgcpipH}Balanced {ITEMNAME}" loot_drop_score="10" production_drop_score="15" damage="3" speed="1" price_factor="1.2" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.sword" id="dull_sword" name="{=LmzHz4CG}Dull {ITEMNAME}" loot_drop_score="15" production_drop_score="5" damage="-10" speed="-10" price_factor="0.6" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.sword" id="rusty_sword" name="{=l7QEpVwU}Rusty {ITEMNAME}" loot_drop_score="20" production_drop_score="5" damage="-15" speed="-5" price_factor="0.3" quality="poor"/>
+    <!-- Bows -->
+    <ItemModifier modifier_group="ItemModifierGroup.bow" id="legendary_bow" name="{=lRf4t9Qg}Legendary {ITEMNAME}" loot_drop_score="2" production_drop_score="5" damage="7" speed="4" missile_speed="4" price_factor="1.8" quality="legendary"/>
+    <ItemModifier modifier_group="ItemModifierGroup.bow" id="masterwork_bow" name="{=8Tal0XIj}Masterwork {ITEMNAME}" loot_drop_score="5" production_drop_score="10" damage="5" speed="3" missile_speed="3" price_factor="1.5" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.bow" id="balanced_bow" name="{=fdgcpipH}Balanced {ITEMNAME}" loot_drop_score="10" production_drop_score="15" damage="1" speed="2" missile_speed="2" price_factor="1.2" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.bow" id="cracked_bow" name="{=br0N6SSH}Cracked {ITEMNAME}" loot_drop_score="15" production_drop_score="5" damage="-8" speed="-4" missile_speed="-6" price_factor="0.6" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.bow" id="splintered_bow" name="{=8Pd6fLoy}Splintered {ITEMNAME}" loot_drop_score="20" production_drop_score="5" damage="-15" speed="-2" missile_speed="0" price_factor="0.3" quality="poor"/>
+    <!-- Crossbows (guns)-->
+    <ItemModifier modifier_group="ItemModifierGroup.crossbow" id="legendary_crossbow" name="{=lRf4t9Qg}Legendary {ITEMNAME}" loot_drop_score="2" production_drop_score="5" damage="4" speed="4" missile_speed="15" price_factor="1.8" quality="legendary"/>
+    <ItemModifier modifier_group="ItemModifierGroup.crossbow" id="masterwork_crossbow" name="{=8Tal0XIj}Masterwork {ITEMNAME}" loot_drop_score="5" production_drop_score="10" damage="3" speed="3" missile_speed="9" price_factor="1.5" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.crossbow" id="tuned_crossbow" name="{=WbaIorOh}Tuned {ITEMNAME}" loot_drop_score="10" production_drop_score="15" damage="0" speed="0" missile_speed="3" price_factor="1.2" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.crossbow" id="bent_crossbow" name="{=eb4miTUB}Rusted {ITEMNAME}" loot_drop_score="15" production_drop_score="5" damage="-5" speed="-1" missile_speed="-1" price_factor="0.6" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.crossbow" id="cracked_crossbow" name="{=br0N6SSH}Cracked {ITEMNAME}" loot_drop_score="20" production_drop_score="5" damage="-10" speed="-2" missile_speed="-6" price_factor="0.3" quality="poor"/>
+    <!-- Arrows -->
+    <ItemModifier modifier_group="ItemModifierGroup.arrow" id="legendary_arrows" name="{=lRf4t9Qg}Legendary {ITEMNAME}" loot_drop_score="2" production_drop_score="5" damage="3" stack_count="5" price_factor="1.8" quality="legendary"/>
+    <ItemModifier modifier_group="ItemModifierGroup.arrow" id="balanced_arrows" name="{=fdgcpipH}Balanced {ITEMNAME}" loot_drop_score="5" production_drop_score="10" damage="2" price_factor="1.5" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.arrow" id="large_bag_arrows" name="{=3JaHZA3Y}Large Bag of {ITEMNAME}" loot_drop_score="10" production_drop_score="15" damage="0" stack_count="5" price_factor="2" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.arrow" id="bent_arrows" name="{=eb4miTUB}Bent {ITEMNAME}" loot_drop_score="15" production_drop_score="5" damage="-1" price_factor="0.6" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.arrow" id="splintered_arrows" name="{=8Pd6fLoy}Splintered {ITEMNAME}" loot_drop_score="20" production_drop_score="5" damage="-3" price_factor="0.3" quality="poor"/>
+    <!-- Bolts -->
+    <ItemModifier modifier_group="ItemModifierGroup.bolt" id="legendary_bolts" name="{=lRf4t9Qg}Legendary {ITEMNAME}" loot_drop_score="2" production_drop_score="5" damage="3" stack_count="4" price_factor="1.8" quality="legendary"/>
+    <ItemModifier modifier_group="ItemModifierGroup.bolt" id="balanced_bolts" name="{=fdgcpipH}Balanced {ITEMNAME}" loot_drop_score="5" production_drop_score="10" damage="2" price_factor="1.5" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.bolt" id="large_bag_bolts" name="{=3JaHZA3Y}Large Bag of {ITEMNAME}" loot_drop_score="10" production_drop_score="15" damage="0" stack_count="2" price_factor="1.2" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.bolt" id="bent_bolts" name="{=eb4miTUB}Bent {ITEMNAME}" loot_drop_score="15" production_drop_score="5" damage="-1" price_factor="0.6" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.bolt" id="splintered_bolts" name="{=8Pd6fLoy}Splintered {ITEMNAME}" loot_drop_score="20" production_drop_score="5" damage="-5" price_factor="0.3" quality="poor"/>
+    <!-- Cheap weapons (clubs and stuff?) -->
+    <ItemModifier modifier_group="ItemModifierGroup.cheap_weapon" id="legendary_cheap" name="{=lRf4t9Qg}Legendary {ITEMNAME}" loot_drop_score="2" production_drop_score="5" damage="7" speed="3" price_factor="1.8" quality="legendary"/>
+    <ItemModifier modifier_group="ItemModifierGroup.cheap_weapon" id="fine_cheap" name="{=xeb1b5PQ}Fine {ITEMNAME}" loot_drop_score="5" production_drop_score="10" damage="5" speed="2" price_factor="1.5" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.cheap_weapon" id="well_crafted_cheap" name="{=85WO1MKG}Well made {ITEMNAME}" loot_drop_score="10" production_drop_score="15" damage="2" speed="1" price_factor="1.2" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.cheap_weapon" id="bent_cheap" name="{=eb4miTUB}Bent {ITEMNAME}" loot_drop_score="15" production_drop_score="5" damage="-5" speed="-1" price_factor="0.6" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.cheap_weapon" id="cracked_cheap" name="{=br0N6SSH}Cracked {ITEMNAME}" loot_drop_score="20" production_drop_score="5" damage="-10" speed="-2" price_factor="0.4" quality="poor"/>
+    <!-- Polearms -->
+    <ItemModifier modifier_group="ItemModifierGroup.polearm" id="legendary_polearm" name="{=lRf4t9Qg}Legendary {ITEMNAME}" loot_drop_score="2" production_drop_score="5" damage="7" speed="3" price_factor="1.8" quality="legendary"/>
+    <ItemModifier modifier_group="ItemModifierGroup.polearm" id="masterwork_polearm" name="{=8Tal0XIj}Masterwork {ITEMNAME}" loot_drop_score="5" production_drop_score="10" damage="5" speed="2" price_factor="1.5" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.polearm" id="balanced_polearm" name="{=fdgcpipH}Balanced {ITEMNAME}" loot_drop_score="10" production_drop_score="15" damage="3" speed="1" price_factor="1.2" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.polearm" id="bent_polearm" name="{=eb4miTUB}Bent {ITEMNAME}" loot_drop_score="15" production_drop_score="5" damage="-3" speed="-1" price_factor="0.6" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.polearm" id="cracked_polearm" name="{=br0N6SSH}Cracked {ITEMNAME}" loot_drop_score="20" production_drop_score="5" damage="-6" speed="-3" price_factor="0.3" quality="poor"/>
+    <!-- Maces -->
+    <ItemModifier modifier_group="ItemModifierGroup.mace" id="legendary_mace" name="{=lRf4t9Qg}Legendary {ITEMNAME}" loot_drop_score="2" production_drop_score="5" damage="7" speed="3" price_factor="1.8" quality="legendary"/>
+    <ItemModifier modifier_group="ItemModifierGroup.mace" id="masterwork_mace" name="{=8Tal0XIj}Masterwork {ITEMNAME}" loot_drop_score="5" production_drop_score="10" damage="5" speed="2" price_factor="1.5" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.mace" id="balanced_mace" name="{=fdgcpipH}Balanced {ITEMNAME}" loot_drop_score="10" production_drop_score="15" damage="3" speed="1" price_factor="1.2" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.mace" id="unbalanced_mace" name="{=VbxJPJGe}Unbalanced {ITEMNAME}" loot_drop_score="15" production_drop_score="5" damage="-1" speed="-1" price_factor="0.6" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.mace" id="splintered_mace" name="{=8Pd6fLoy}Splintered {ITEMNAME}" loot_drop_score="20" production_drop_score="5" damage="-4" speed="-2" price_factor="0.3" quality="poor"/>
+    <!-- Axes -->
+    <ItemModifier modifier_group="ItemModifierGroup.axe" id="legendary_axe" name="{=lRf4t9Qg}Legendary {ITEMNAME}" loot_drop_score="2" production_drop_score="5" damage="7" speed="3" price_factor="1.8" quality="legendary"/>
+    <ItemModifier modifier_group="ItemModifierGroup.axe" id="masterwork_axe" name="{=8Tal0XIj}Masterwork {ITEMNAME}" loot_drop_score="5" production_drop_score="10" damage="5" speed="2" price_factor="1.5" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.axe" id="quality_axe" name="{=bAdxUq7s}Quality {ITEMNAME}" loot_drop_score="10" production_drop_score="15" damage="3" speed="1" price_factor="1.2" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.axe" id="dented_axe" name="{=PobRGG9S}Dented {ITEMNAME}" loot_drop_score="15" production_drop_score="5" damage="-1" speed="-1" price_factor="0.6" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.axe" id="rusty_axe" name="{=l7QEpVwU}Rusty {ITEMNAME}" loot_drop_score="20" production_drop_score="5" damage="-4" speed="0" price_factor="0.3" quality="poor"/>
+    <!-- Throwing Axes -->
+    <ItemModifier modifier_group="ItemModifierGroup.axe_throwing" id="legendary_axe_throwing" name="{=lRf4t9Qg}Legendary {ITEMNAME}" loot_drop_score="2" production_drop_score="2" stack_count="4" missile_speed="3" price_factor="1.8" quality="legendary"/>
+    <ItemModifier modifier_group="ItemModifierGroup.axe_throwing" id="large_bag_axe_throwing" name="{=3JaHZA3Y}Large Bag of {ITEMNAME}" loot_drop_score="10" production_drop_score="5" stack_count="2" missile_speed="0" price_factor="1.5" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.axe_throwing" id="balanced_axe_throwing" name="{=fdgcpipH}Balanced {ITEMNAME}" loot_drop_score="10" production_drop_score="15" missile_speed="5" price_factor="1.2" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.axe_throwing" id="bent_axe_throwing" name="{=eb4miTUB}Bent {ITEMNAME}" loot_drop_score="15" production_drop_score="5" missile_speed="-3" price_factor="0.6" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.axe_throwing" id="splintered_axe_throwing" name="{=8Pd6fLoy}Splintered {ITEMNAME}" loot_drop_score="20" production_drop_score="5" missile_speed="-6" price_factor="0.3" quality="poor"/>
+    <!-- Throwing knives -->
+    <ItemModifier modifier_group="ItemModifierGroup.knife_throwing" id="legendary_knife_throwing" name="{=lRf4t9Qg}Legendary {ITEMNAME}" loot_drop_score="2" production_drop_score="2" stack_count="4" missile_speed="8" price_factor="1.8" quality="legendary"/>
+    <ItemModifier modifier_group="ItemModifierGroup.knife_throwing" id="balanced_knife_throwing" name="{=fdgcpipH}Balanced {ITEMNAME}" loot_drop_score="10" production_drop_score="5" damage="0" speed="0" missile_speed="4" price_factor="1.5" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.knife_throwing" id="large_bag_knife_throwing" name="{=3JaHZA3Y}Large Bag of {ITEMNAME}" loot_drop_score="10" production_drop_score="15" stack_count="2" damage="0" speed="0" missile_speed="0" price_factor="1.2" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.knife_throwing" id="bent_knife_throwing" name="{=eb4miTUB}Bent {ITEMNAME}" loot_drop_score="15" production_drop_score="5" damage="0" speed="0" missile_speed="-2" price_factor="0.6" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.knife_throwing" id="rusty_knife_throwing" name="{=l7QEpVwU}Rusty {ITEMNAME}" loot_drop_score="20" production_drop_score="5" damage="0" speed="0" missile_speed="-2" price_factor="0.3" quality="poor"/>
+    <!-- Throwing spears and darts -->
+    <ItemModifier modifier_group="ItemModifierGroup.spear_dart_throwing" id="legendary_spear_dart_throwing" name="{=lRf4t9Qg}Legendary {ITEMNAME}" loot_drop_score="2" production_drop_score="2" damage="3" speed="2" missile_speed="6" price_factor="1.8" quality="legendary"/>
+    <ItemModifier modifier_group="ItemModifierGroup.spear_dart_throwing" id="balanced_spear_dart_throwing" name="{=fdgcpipH}Balanced {ITEMNAME}" loot_drop_score="10" production_drop_score="5" damage="2" speed="1" missile_speed="3" price_factor="1.5" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.spear_dart_throwing" id="large_bag_spear_dart_throwing" name="{=3JaHZA3Y}Large Bag of {ITEMNAME}" loot_drop_score="10" production_drop_score="15" stack_count="2" damage="0" speed="0" missile_speed="0" price_factor="1.2" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.spear_dart_throwing" id="bent_spear_dart_throwing" name="{=eb4miTUB}Bent {ITEMNAME}" loot_drop_score="15" production_drop_score="5" damage="-2" speed="0" missile_speed="-1" price_factor="0.6" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.spear_dart_throwing" id="cracked_spear_dart_throwing" name="{=br0N6SSH}Cracked {ITEMNAME}" loot_drop_score="20" production_drop_score="5" damage="-5" speed="0" missile_speed="-2" price_factor="0.3" quality="poor"/>
+    <!-- Shields -->
+    <ItemModifier modifier_group="ItemModifierGroup.shield" id="legendary_shield" name="{=lRf4t9Qg}Legendary {ITEMNAME}" loot_drop_score="2" production_drop_score="5" hit_points="210" speed="0" armor="8" price_factor="1.8" quality="legendary"/>
+    <ItemModifier modifier_group="ItemModifierGroup.shield" id="lordly_shield" name="{=w3jn7Ahz}Lordly {ITEMNAME}" loot_drop_score="5" production_drop_score="10" hit_points="130" speed="0" armor="5" price_factor="1.5" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.shield" id="thick_shield" name="{=BA9c7gPb}Thick {ITEMNAME}" loot_drop_score="10" production_drop_score="15" hit_points="40" speed="0" armor="3" price_factor="1.2" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.shield" id="battered_shield" name="{=TePk4BSJ}Battered {ITEMNAME}" loot_drop_score="15" production_drop_score="5" hit_points="-70" speed="0" armor="-2" price_factor="0.6" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.shield" id="cracked_shield" name="{=br0N6SSH}Cracked {ITEMNAME}" loot_drop_score="20" production_drop_score="5" hit_points="-110" speed="-1" armor="-4" price_factor="0.3" quality="poor"/>
+    <!-- Plate Armors -->
+    <ItemModifier modifier_group="ItemModifierGroup.plate" id="legendary_plate" name="{=lRf4t9Qg}Legendary {ITEMNAME}" loot_drop_score="2" production_drop_score="5" armor="12" price_factor="1.8" quality="legendary"/>
+    <ItemModifier modifier_group="ItemModifierGroup.plate" id="lordly_plate" name="{=w3jn7Ahz}Lordly {ITEMNAME}" loot_drop_score="5" production_drop_score="10" armor="8" price_factor="1.5" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.plate" id="fine_plate" name="{=xeb1b5PQ}Fine {ITEMNAME}" loot_drop_score="10" production_drop_score="15" armor="4" price_factor="1.2" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.plate" id="dented_plate" name="{=PobRGG9S}Dented {ITEMNAME}" loot_drop_score="15" production_drop_score="5" armor="-4" price_factor="0.6" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.plate" id="rusty_plate" name="{=l7QEpVwU}Rusty {ITEMNAME}" loot_drop_score="20" production_drop_score="5" armor="-6" price_factor="0.3" quality="poor"/>
+    <!-- Chain Armors -->
+    <ItemModifier modifier_group="ItemModifierGroup.chain" id="legendary_chain" name="{=lRf4t9Qg}Legendary {ITEMNAME}" loot_drop_score="2" production_drop_score="5" armor="9" price_factor="1.8" quality="legendary"/>
+    <ItemModifier modifier_group="ItemModifierGroup.chain" id="lordly_chain" name="{=w3jn7Ahz}Lordly {ITEMNAME}" loot_drop_score="5" production_drop_score="10" armor="6" price_factor="1.5" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.chain" id="fine_chain" name="{=xeb1b5PQ}Fine {ITEMNAME}" loot_drop_score="10" production_drop_score="15" armor="3" price_factor="1.2" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.chain" id="loose_chain" name="{=bWhJwHA1}Loose {ITEMNAME}" loot_drop_score="15" production_drop_score="5" armor="-6" price_factor="0.6" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.chain" id="rusty_chain" name="{=l7QEpVwU}Rusty {ITEMNAME}" loot_drop_score="20" production_drop_score="5" armor="-8" price_factor="0.3" quality="poor"/>
+    <!-- Leather Armors -->
+    <ItemModifier modifier_group="ItemModifierGroup.leather" id="legendary_leather" name="{=lRf4t9Qg}Legendary {ITEMNAME}" loot_drop_score="2" production_drop_score="5" armor="7" price_factor="1.8" quality="legendary"/>
+    <ItemModifier modifier_group="ItemModifierGroup.leather" id="fine_leather" name="{=xeb1b5PQ}Fine {ITEMNAME}" loot_drop_score="5" production_drop_score="10" armor="5" price_factor="1.5" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.leather" id="waxed_leather" name="{=zPqPvf0o}Waxed {ITEMNAME}" loot_drop_score="10" production_drop_score="15" armor="3" price_factor="1.2" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.leather" id="worn_leather" name="{=5yVgXqQr}Worn {ITEMNAME}" loot_drop_score="15" production_drop_score="5" armor="-2" price_factor="0.6" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.leather" id="battered_leather" name="{=TePk4BSJ}Battered {ITEMNAME}" loot_drop_score="20" production_drop_score="5" armor="-3" price_factor="0.3" quality="poor"/>
+    <!-- Cloth Armors -->
+    <ItemModifier modifier_group="ItemModifierGroup.cloth" id="legendary_cloth" name="{=lRf4t9Qg}Legendary {ITEMNAME}" loot_drop_score="2" production_drop_score="5" armor="5" price_factor="1.8" quality="legendary"/>
+    <ItemModifier modifier_group="ItemModifierGroup.cloth" id="fine_cloth" name="{=xeb1b5PQ}Fine {ITEMNAME}" loot_drop_score="5" production_drop_score="10" armor="3" price_factor="1.5" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.cloth" id="tailored_cloth" name="{=Q5HVyNWJ}Tailored {ITEMNAME}" loot_drop_score="10" production_drop_score="15" armor="1" price_factor="1.2" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.cloth" id="worn_cloth" name="{=5yVgXqQr}Worn {ITEMNAME}" loot_drop_score="15" production_drop_score="5" armor="-1" price_factor="0.6" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.cloth" id="ripped_cloth" name="{=Pbb94NdW}Ripped {ITEMNAME}" loot_drop_score="20" production_drop_score="5" armor="-2" price_factor="0.3" quality="poor"/>
+    <!-- Clothing -->
+    <ItemModifier modifier_group="ItemModifierGroup.cloth_unarmoured" id="legendary_cloth_unarmoured" name="{=lRf4t9Qg}Legendary {ITEMNAME}" loot_drop_score="2" production_drop_score="5" armor="3" price_factor="1.8" quality="legendary"/>
+    <ItemModifier modifier_group="ItemModifierGroup.cloth_unarmoured" id="fine_cloth_unarmoured" name="{=xeb1b5PQ}Fine {ITEMNAME}" loot_drop_score="10" production_drop_score="5" armor="2" price_factor="1.5" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.cloth_unarmoured" id="tailored_cloth_unarmoured" name="{=Q5HVyNWJ}Tailored {ITEMNAME}" loot_drop_score="10" production_drop_score="15" armor="1" price_factor="1.2" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.cloth_unarmoured" id="worn_cloth_unarmoured" name="{=5yVgXqQr}Worn {ITEMNAME}" loot_drop_score="15" production_drop_score="5" armor="-1" price_factor="0.6" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.cloth_unarmoured" id="ripped_cloth_unarmoured" name="{=Pbb94NdW}Ripped {ITEMNAME}" loot_drop_score="20" production_drop_score="5" armor="-2" price_factor="0.3" quality="poor"/>
+    <!-- Horses -->
+    <!--TODO: localization strings-->
+    <ItemModifier modifier_group="ItemModifierGroup.horse" id="horse_lean" name="{=cmNJ45Xl}Lean {ITEMNAME}" loot_drop_score="16" production_drop_score="16" horse_speed="1.22" maneuver="1.08" charge_damage="0.8" horse_hit_points="0.92" price_factor="0.96" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.horse" id="horse_stubborn" name="{=DXzpdjAq}Stubborn {ITEMNAME}" loot_drop_score="10" production_drop_score="10" maneuver="0.94" charge_damage="1.3" price_factor="1.15" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.horse" id="horse_headstrong" name="{=yIZDvo8I}Headstrong {ITEMNAME}" loot_drop_score="5" production_drop_score="5" horse_speed="1.10" maneuver="0.83" charge_damage="1.6" price_factor="1.3" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.horse" id="horse_brave" name="{=uh2w0Ehh}Brave {ITEMNAME}" loot_drop_score="6" production_drop_score="4" horse_speed="1.12" charge_damage="1.15" horse_hit_points="1.1" price_factor="1.55" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.horse" id="horse_fierce" name="{=Bb618GDp}Fierce {ITEMNAME}" loot_drop_score="3" production_drop_score="3" horse_speed="1.15" charge_damage="1.45" horse_hit_points="1.18" price_factor="1.9" quality="legendary"/>
+    <ItemModifier modifier_group="ItemModifierGroup.horse" id="horse_strong" name="{=wIcAgF0D}Strong {ITEMNAME}" loot_drop_score="10" production_drop_score="10" maneuver="0.9" charge_damage="1.15" horse_hit_points="1.15" price_factor="1.28" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.horse" id="horse_bulky" name="{=2k8qk1KD}Bulky {ITEMNAME}" loot_drop_score="6" production_drop_score="6" maneuver="0.85" charge_damage="1.20" horse_hit_points="1.3" price_factor="1.52" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.horse" id="horse_quick" name="{=YuzBp6p4}Quick {ITEMNAME}" loot_drop_score="12" production_drop_score="12" horse_speed="1.12" price_factor="1.12" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.horse" id="horse_fast" name="{=D1eK25tu}Fast {ITEMNAME}" loot_drop_score="6" production_drop_score="6" horse_speed="1.18" maneuver="1.1" price_factor="1.26" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.horse" id="horse_slow" name="{=NX2FkbdC}Slow {ITEMNAME}" loot_drop_score="12" production_drop_score="12" horse_speed="0.88" price_factor="0.88" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.horse" id="horse_sickly" name="{=ICfSXUvV}Sickly {ITEMNAME}" loot_drop_score="5" production_drop_score="5" horse_speed="0.9" charge_damage="0.85" horse_hit_points="0.88" price_factor="0.7" quality="poor"/>
+    <ItemModifier modifier_group="ItemModifierGroup.horse" id="horse_aneamic" name="{=Rxt7m2Sl}Aneamic {ITEMNAME}" loot_drop_score="3" production_drop_score="3" horse_speed="0.86" charge_damage="0.75" horse_hit_points="0.8" price_factor="0.35" quality="poor"/>
+    <ItemModifier modifier_group="ItemModifierGroup.horse" id="horse_timid" name="{=nSILI9b9}Timid {ITEMNAME}" loot_drop_score="10" production_drop_score="10" horse_speed="1.1" maneuver="0.9" charge_damage="0.85" price_factor="0.95" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.horse" id="horse_cowardly" name="{=gsNgwoAq}Cowardly {ITEMNAME}" loot_drop_score="5" production_drop_score="5" horse_speed="1.18" maneuver="0.85" charge_damage="0.78" price_factor="0.85" quality="poor"/>
+    <ItemModifier modifier_group="ItemModifierGroup.horse" id="horse_healthy" name="{=NuViWQIf}Healthy {ITEMNAME}" loot_drop_score="10" production_drop_score="10" horse_hit_points="1.2" price_factor="1.2" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.horse" id="horse_docile" name="{=XyaeTnrM}Docile {ITEMNAME}" loot_drop_score="10" production_drop_score="10" maneuver="1.12" charge_damage="0.92" price_factor="1.12" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.horse" id="horse_gentle" name="{=egOcNUMs}Gentle {ITEMNAME}" loot_drop_score="6" production_drop_score="6" maneuver="1.2" charge_damage="0.86" price_factor="1.22" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.horse" id="horse_swayback" name="{=OOtfJCaJ}Swayback {ITEMNAME}" loot_drop_score="4" production_drop_score="4" horse_speed="0.8" maneuver="0.9" charge_damage="0.7" horse_hit_points="0.85" price_factor="0.25" quality="poor"/>
+    <ItemModifier modifier_group="ItemModifierGroup.horse" id="horse_purebred" name="{=MC29cHra}Purebred {ITEMNAME}" loot_drop_score="3" production_drop_score="3" horse_speed="1.15" maneuver="1.12" charge_damage="1.25" horse_hit_points="1.22" price_factor="1.85" quality="legendary"/>
+
+    <!--War Horses-->
+
+    <ItemModifier modifier_group="ItemModifierGroup.war_horse" id="war_horse_lean" name="{=cmNJ45Xl}Lean {ITEMNAME}" loot_drop_score="15" production_drop_score="15" horse_speed="1.22" maneuver="1.08" charge_damage="0.8" horse_hit_points="0.92" price_factor="0.96" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.war_horse" id="war_horse_stubborn" name="{=DXzpdjAq}Stubborn {ITEMNAME}" loot_drop_score="10" production_drop_score="10" maneuver="0.94" charge_damage="1.3" price_factor="1.15" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.war_horse" id="war_horse_headstrong" name="{=yIZDvo8I}Headstrong {ITEMNAME}" loot_drop_score="6" production_drop_score="6" horse_speed="1.10" maneuver="0.83" charge_damage="1.6" price_factor="1.3" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.war_horse" id="war_horse_brave" name="{=uh2w0Ehh}Brave {ITEMNAME}" loot_drop_score="6" production_drop_score="6" horse_speed="1.12" charge_damage="1.15" horse_hit_points="1.1" price_factor="1.55" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.war_horse" id="war_horse_fierce" name="{=Bb618GDp}Fierce {ITEMNAME}" loot_drop_score="3" production_drop_score="3" horse_speed="1.15" charge_damage="1.45" horse_hit_points="1.18" price_factor="1.9" quality="legendary"/>
+    <ItemModifier modifier_group="ItemModifierGroup.war_horse" id="war_horse_strong" name="{=wIcAgF0D}Strong {ITEMNAME}" loot_drop_score="10" production_drop_score="10" maneuver="0.9" charge_damage="1.15" horse_hit_points="1.15" price_factor="1.28" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.war_horse" id="war_horse_bulky" name="{=2k8qk1KD}Bulky {ITEMNAME}" loot_drop_score="6" production_drop_score="6" maneuver="0.85" charge_damage="1.20" horse_hit_points="1.3" price_factor="1.52" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.war_horse" id="war_horse_quick" name="{=YuzBp6p4}Quick {ITEMNAME}" loot_drop_score="12" production_drop_score="12" horse_speed="1.12" price_factor="1.12" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.war_horse" id="war_horse_fast" name="{=D1eK25tu}Fast {ITEMNAME}" loot_drop_score="6" production_drop_score="6" horse_speed="1.18" maneuver="1.1" price_factor="1.26" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.war_horse" id="war_horse_slow" name="{=NX2FkbdC}Slow {ITEMNAME}" loot_drop_score="12" production_drop_score="12" horse_speed="0.88" price_factor="0.88" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.war_horse" id="war_horse_sickly" name="{=ICfSXUvV}Sickly {ITEMNAME}" loot_drop_score="5" production_drop_score="5" horse_speed="0.9" charge_damage="0.85" horse_hit_points="0.88" price_factor="0.7" quality="poor"/>
+    <ItemModifier modifier_group="ItemModifierGroup.war_horse" id="war_horse_aneamic" name="{=Rxt7m2Sl}Aneamic {ITEMNAME}" loot_drop_score="3" production_drop_score="3" horse_speed="0.86" charge_damage="0.75" horse_hit_points="0.8" price_factor="0.35" quality="poor"/>
+    <ItemModifier modifier_group="ItemModifierGroup.war_horse" id="war_horse_timid" name="{=nSILI9b9}Timid {ITEMNAME}" loot_drop_score="10" production_drop_score="10" horse_speed="1.1" maneuver="0.9" charge_damage="0.85" price_factor="0.95" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.war_horse" id="war_horse_cowardly" name="{=gsNgwoAq}Cowardly {ITEMNAME}" loot_drop_score="5" production_drop_score="5" horse_speed="1.18" maneuver="0.85" charge_damage="0.78" price_factor="0.85" quality="poor"/>
+    <ItemModifier modifier_group="ItemModifierGroup.war_horse" id="war_horse_healthy" name="{=NuViWQIf}Healthy {ITEMNAME}" loot_drop_score="10" production_drop_score="10" horse_hit_points="1.2" price_factor="1.2" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.war_horse" id="war_horse_docile" name="{=XyaeTnrM}Docile {ITEMNAME}" loot_drop_score="9" production_drop_score="9" maneuver="1.12" charge_damage="0.92" price_factor="1.12" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.war_horse" id="war_horse_gentle" name="{=egOcNUMs}Gentle {ITEMNAME}" loot_drop_score="6" production_drop_score="6" maneuver="1.2" charge_damage="0.86" price_factor="1.22" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.war_horse" id="war_horse_swayback" name="{=OOtfJCaJ}Swayback {ITEMNAME}" loot_drop_score="4" production_drop_score="4" horse_speed="0.8" maneuver="0.9" charge_damage="0.7" horse_hit_points="0.85" price_factor="0.25" quality="poor"/>
+    <ItemModifier modifier_group="ItemModifierGroup.war_horse" id="war_horse_purebred" name="{=MC29cHra}Purebred {ITEMNAME}" loot_drop_score="3" production_drop_score="3" horse_speed="1.15" maneuver="1.12" charge_damage="1.25" horse_hit_points="1.22" price_factor="1.85" quality="legendary"/>
+
+    <!--Noble Horses-->
+
+    <ItemModifier modifier_group="ItemModifierGroup.noble_horse" id="noble_horse_lean" name="{=cmNJ45Xl}Lean {ITEMNAME}" loot_drop_score="12" production_drop_score="12" horse_speed="1.22" maneuver="1.08" charge_damage="0.8" horse_hit_points="0.92" price_factor="0.96" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.noble_horse" id="noble_horse_stubborn" name="{=DXzpdjAq}Stubborn {ITEMNAME}" loot_drop_score="8" production_drop_score="8" maneuver="0.94" charge_damage="1.3" price_factor="1.15" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.noble_horse" id="noble_horse_headstrong" name="{=yIZDvo8I}Headstrong {ITEMNAME}" loot_drop_score="5" production_drop_score="5" horse_speed="1.10" maneuver="0.83" charge_damage="1.6" price_factor="1.3" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.noble_horse" id="noble_horse_brave" name="{=uh2w0Ehh}Brave {ITEMNAME}" loot_drop_score="5" production_drop_score="3" horse_speed="1.12" charge_damage="1.15" horse_hit_points="1.1" price_factor="1.55" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.noble_horse" id="noble_horse_fierce" name="{=Bb618GDp}Fierce {ITEMNAME}" loot_drop_score="2" production_drop_score="2" horse_speed="1.15" charge_damage="1.45" horse_hit_points="1.18" price_factor="1.9" quality="legendary"/>
+    <ItemModifier modifier_group="ItemModifierGroup.noble_horse" id="noble_horse_strong" name="{=wIcAgF0D}Strong {ITEMNAME}" loot_drop_score="8" production_drop_score="8" maneuver="0.9" charge_damage="1.15" horse_hit_points="1.15" price_factor="1.28" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.noble_horse" id="noble_horse_bulky" name="{=2k8qk1KD}Bulky {ITEMNAME}" loot_drop_score="5" production_drop_score="5" maneuver="0.85" charge_damage="1.20" horse_hit_points="1.3" price_factor="1.52" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.noble_horse" id="noble_horse_quick" name="{=YuzBp6p4}Quick {ITEMNAME}" loot_drop_score="10" production_drop_score="10" horse_speed="1.12" price_factor="1.12" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.noble_horse" id="noble_horse_fast" name="{=D1eK25tu}Fast {ITEMNAME}" loot_drop_score="5" production_drop_score="5" horse_speed="1.18" maneuver="1.1" price_factor="1.26" quality="masterwork"/>
+    <ItemModifier modifier_group="ItemModifierGroup.noble_horse" id="noble_horse_slow" name="{=NX2FkbdC}Slow {ITEMNAME}" loot_drop_score="10" production_drop_score="10" horse_speed="0.88" price_factor="0.88" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.noble_horse" id="noble_horse_sickly" name="{=ICfSXUvV}Sickly {ITEMNAME}" loot_drop_score="4" production_drop_score="4" horse_speed="0.9" charge_damage="0.85" horse_hit_points="0.88" price_factor="0.7" quality="poor"/>
+    <ItemModifier modifier_group="ItemModifierGroup.noble_horse" id="noble_horse_aneamic" name="{=Rxt7m2Sl}Aneamic {ITEMNAME}" loot_drop_score="2" production_drop_score="2" horse_speed="0.86" charge_damage="0.75" horse_hit_points="0.8" price_factor="0.35" quality="poor"/>
+    <ItemModifier modifier_group="ItemModifierGroup.noble_horse" id="noble_horse_timid" name="{=nSILI9b9}Timid {ITEMNAME}" loot_drop_score="8" production_drop_score="8" horse_speed="1.1" maneuver="0.9" charge_damage="0.85" price_factor="0.95" quality="inferior"/>
+    <ItemModifier modifier_group="ItemModifierGroup.noble_horse" id="noble_horse_cowardly" name="{=gsNgwoAq}Cowardly {ITEMNAME}" loot_drop_score="4" production_drop_score="4" horse_speed="1.18" maneuver="0.85" charge_damage="0.78" price_factor="0.85" quality="poor"/>
+    <ItemModifier modifier_group="ItemModifierGroup.noble_horse" id="noble_horse_healthy" name="{=NuViWQIf}Healthy {ITEMNAME}" loot_drop_score="9" production_drop_score="9" horse_hit_points="1.2" price_factor="1.2" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.noble_horse" id="noble_horse_docile" name="{=XyaeTnrM}Docile {ITEMNAME}" loot_drop_score="8" production_drop_score="8" maneuver="1.12" charge_damage="0.92" price_factor="1.12" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.noble_horse" id="noble_horse_gentle" name="{=egOcNUMs}Gentle {ITEMNAME}" loot_drop_score="5" production_drop_score="5" maneuver="1.2" charge_damage="0.86" price_factor="1.22" quality="fine"/>
+    <ItemModifier modifier_group="ItemModifierGroup.noble_horse" id="noble_horse_swayback" name="{=OOtfJCaJ}Swayback {ITEMNAME}" loot_drop_score="3" production_drop_score="3" horse_speed="0.8" maneuver="0.9" charge_damage="0.7" horse_hit_points="0.85" price_factor="0.25" quality="poor"/>
+    <ItemModifier modifier_group="ItemModifierGroup.noble_horse" id="noble_horse_purebred" name="{=MC29cHra}Purebred {ITEMNAME}" loot_drop_score="2" production_drop_score="2" horse_speed="1.15" maneuver="1.12" charge_damage="1.25" horse_hit_points="1.22" price_factor="1.85" quality="legendary"/>
+
+
+    <!--
+    <ItemModifier
+        modifier_group="ItemModifierGroup.horse"
+        id="horse_"
+        name="{=*} {ITEMNAME}"
+        loot_drop_score=""
+        production_drop_score=""
+        horse_speed=""
+        maneuver=""
+        charge_damage=""
+        horse_hit_points=""
+        price_factor=""
+        quality="inferior" />
+-->
+
+    <ItemModifier modifier_group="ItemModifierGroup.pack_horse" id="lame_pack_horse" name="{=geUpgQI5}Lame {ITEMNAME}" loot_drop_score="0" production_drop_score="0" horse_speed="0.7" maneuver="0.9" charge_damage="0.6" horse_hit_points="0.8" price_factor="0.1" quality="poor"/>
+
+    <ItemModifier modifier_group="ItemModifierGroup.horse" id="lame_horse" name="{=geUpgQI5}Lame {ITEMNAME}" loot_drop_score="0" production_drop_score="0" horse_speed="0.7" maneuver="0.9" charge_damage="0.6" horse_hit_points="0.8" price_factor="0.1" quality="poor"/>
+    
+    <ItemModifier modifier_group="ItemModifierGroup.war_horse" id="lame_war_horse" name="{=geUpgQI5}Lame {ITEMNAME}" loot_drop_score="0" production_drop_score="0" horse_speed="0.7" maneuver="0.9" charge_damage="0.6" horse_hit_points="0.8" price_factor="0.1" quality="poor"/>
+    
+    <ItemModifier modifier_group="ItemModifierGroup.noble_horse" id="lame_noble_horse" name="{=geUpgQI5}Lame {ITEMNAME}" loot_drop_score="0" production_drop_score="0" horse_speed="0.7" maneuver="0.9" charge_damage="0.6" horse_hit_points="0.8" price_factor="0.1" quality="poor"/>
+
+
+    <ItemModifier modifier_group="ItemModifierGroup.companion" id="companion_horse" name="{=y3TvYqhG}Old {ITEMNAME}" loot_drop_score="0" production_drop_score="0" horse_speed="0.8" maneuver="0.95" charge_damage="0.8" horse_hit_points="0.9" price_factor="0.2" quality="poor"/>
+    <ItemModifier modifier_group="ItemModifierGroup.companion" id="companion_weapon" name="{=l7QEpVwU}Rusty {ITEMNAME}" loot_drop_score="0" production_drop_score="0" damage="-10" price_factor="0.2" quality="poor"/>
+    <ItemModifier modifier_group="ItemModifierGroup.companion" id="companion_armor" name="{=5yVgXqQr}Worn {ITEMNAME}" loot_drop_score="0" production_drop_score="0" armor="-6" price_factor="0.2" quality="poor"/>
+</ItemModifiers>
