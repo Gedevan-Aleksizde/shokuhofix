@@ -5,7 +5,7 @@
 
 	
 	<NPCCharacter id="commander_13"
-				  name="{=NzbJtdPe}Farmer Samurai"
+				  name="Farmer Samurai"
 				  age="35"
 				  voice="curt"
 				  default_group="cavalry"
@@ -56,7 +56,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<NPCCharacter id="commander_14"
-				  name="{=NzbJtdPe}Inland Sea Samurai"
+				  name="Inland Sea Samurai"
 				  age="35"
 				  voice="curt"
 				  is_female ="false"
@@ -108,7 +108,7 @@
 		</Equipments>
 	</NPCCharacter>	
 	<NPCCharacter id="commander_16"
-				  name="{=NzbJtdPe}Long Spear Officer"
+				  name="Long Spear Officer"
 				  age="35"
 				  voice="curt"
 				  is_female ="false"
@@ -158,7 +158,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<NPCCharacter id="commander_15"
-				  name="{=NzbJtdPe}The Fencer"
+				  name="The Fencer"
 				  age="35"
 				  voice="curt"
 				  default_group="cavalry"
@@ -205,7 +205,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<NPCCharacter id="commander_17"
-				  name="{=NzbJtdPe}Nodachi Noble"
+				  name="Nodachi Noble"
 				  age="35"
 				  voice="curt"
 				  is_female ="false"
@@ -255,7 +255,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<NPCCharacter id="commander_18"
-				  name="{=NzbJtdPe}Armored Cavalry Officer"
+				  name="Armored Cavalry Officer"
 				  age="35"
 				  voice="curt"
 				  is_female ="false"
@@ -311,7 +311,7 @@
 		</Equipments>
 	</NPCCharacter>	
 	<NPCCharacter id="commander_19"
-				  name="{=NzbJtdPe}Onnamusha"
+				  name="Onnamusha"
 				  age="35"
 				  voice="curt"
 				  is_female ="true"
@@ -369,7 +369,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<NPCCharacter id="commander_20"
-				  name="{=NzbJtdPe}Archer Troop"
+				  name="Archer Troop"
 				  age="35"
 				  voice="curt"
 				  is_female ="false"
@@ -421,7 +421,7 @@
 		</Equipments>
 	</NPCCharacter>	
 	<NPCCharacter id="commander_21"
-				  name="{=NzbJtdPe}Oni Duelist"
+				  name="Oni Duelist"
 				  age="35"
 				  voice="curt"
 				  is_female ="false"
@@ -471,7 +471,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<NPCCharacter id="commander_22"
-				  name="{=NzbJtdPe}Recruited Monk Gunner"
+				  name="Recruited Monk Gunner"
 				  age="35"
 				  voice="curt"
 				  is_female ="false"

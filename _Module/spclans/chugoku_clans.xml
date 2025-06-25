@@ -3,7 +3,7 @@
 	<!--mori kingdom-->
 	<Faction id="clan_mori_1"
 			 is_noble ="true"
-			 name="{=OVQoC9fn}Mori-shi"
+			 name="Mori-shi"
 			 tier="6"
 			 owner="Hero.lord_1_mori"
 			 culture="Culture.sanyo"
@@ -11,7 +11,7 @@
 			 banner_key="11.163.166.1528.1528.764.764.1.0.0.648.171.171.483.483.764.764.0.0.0" />
 	<Faction id="clan_kobayakawa_1"
 			 is_noble ="true"
-			 name="{=OVQoC9fn}Kobayakawa-shi"
+			 name="Kobayakawa-shi"
 			 tier="4"
 			 owner="Hero.lord_1_kobayakawa"
 			 culture="Culture.sanyo"
@@ -19,7 +19,7 @@
 			 banner_key="11.163.166.1528.1528.764.764.1.0.0.647.171.171.483.483.764.764.0.0.0" />
 	<Faction id="clan_kikkawa_1"
 			 is_noble ="true"
-			 name="{=OVQoC9fn}Kikkawa-shi"
+			 name="Kikkawa-shi"
 			 tier="4"
 			 owner="Hero.lord_1_kikkawa"
 			 culture="Culture.sanyo"
@@ -27,7 +27,7 @@
 			 banner_key="11.163.166.1528.1528.764.764.1.0.0.646.171.171.483.483.764.764.0.0.0" />
 	<Faction id="clan_yoshimi_1"
 			 is_noble ="true"
-			 name="{=OVQoC9fn}Yoshimi-shi"
+			 name="Yoshimi-shi"
 			 tier="3"
 			 owner="Hero.lord_1_yoshimi"
 			 culture="Culture.sanyo"
@@ -35,7 +35,7 @@
 			 banner_key="11.163.166.1528.1528.764.764.1.0.0.645.171.171.483.483.764.764.0.0.0" />
 	<Faction id="clan_naito_1"
 			 is_noble ="true"
-			 name="{=OVQoC9fn}Naito-shi"
+			 name="Naito-shi"
 			 tier="4"
 			 owner="Hero.lord_1_naito"
 			 culture="Culture.sanyo"
@@ -43,7 +43,7 @@
 			 banner_key="11.163.166.1528.1528.764.764.1.0.0.644.171.171.483.483.764.764.0.0.0" />
 	<Faction id="clan_nanjo_1"
 			 is_noble ="true"
-			 name="{=OVQoC9fn}Nanjo-shi"
+			 name="Nanjo-shi"
 			 tier="3"
 			 owner="Hero.lord_1_nanjo"
 			 culture="Culture.sanyo"
@@ -51,7 +51,7 @@
 			 banner_key="11.163.166.1528.1528.764.764.1.0.0.643.171.171.483.483.764.764.0.0.0" />
 	<Faction id="clan_misawa_1"
 			 is_noble ="true"
-			 name="{=OVQoC9fn}Misawa-shi"
+			 name="Misawa-shi"
 			 tier="2"
 			 owner="Hero.lord_1_misawa"
 			 culture="Culture.sanyo"
@@ -59,7 +59,7 @@
 			 banner_key="11.163.166.1528.1528.764.764.1.0.0.642.171.171.483.483.764.764.0.0.0" />
 	<Faction id="clan_amano_1"
 			 is_noble ="true"
-			 name="{=OVQoC9fn}Amano-shi"
+			 name="Amano-shi"
 			 tier="3"
 			 owner="Hero.lord_1_amano"
 			 culture="Culture.sanyo"
@@ -67,7 +67,7 @@
 			 banner_key="11.163.166.1528.1528.764.764.1.0.0.641.171.171.483.483.764.764.0.0.0" />
 	<Faction id="clan_murakami_1"
 			 is_noble ="true"
-			 name="{=OVQoC9fn}Murakami-shi"
+			 name="Murakami-shi"
 			 tier="4"
 			 owner="Hero.lord_1_murakami"
 			 culture="Culture.sanyo"
@@ -75,7 +75,7 @@
 			 banner_key="11.163.166.1528.1528.764.764.1.0.0.640.171.171.483.483.764.764.0.0.0" />
 	<Faction id="clan_kawano_1"
 			 is_noble ="true"
-			 name="{=OVQoC9fn}Kawano-shi"
+			 name="Kawano-shi"
 			 tier="4"
 			 owner="Hero.lord_1_kawano"
 			 culture="Culture.sanyo"
@@ -84,7 +84,7 @@
 	<!--Uragami  kingdom-->
 	<Faction id="clan_uragami_1"
 			 is_noble ="true"
-			 name="{=OVQoC9fn}Uragami-shi"
+			 name="Uragami-shi"
 			 tier="5"
 			 owner="Hero.lord_1_uragami"
 			 culture="Culture.sanyo"
@@ -92,7 +92,7 @@
 			 banner_key="11.163.166.1528.1528.764.764.1.0.0.638.171.171.483.483.764.764.0.0.0" />
 	<Faction id="clan_ukita_1"
 			 is_noble ="true"
-			 name="{=OVQoC9fn}Ukita-shi"
+			 name="Ukita-shi"
 			 tier="4"
 			 owner="Hero.lord_1_ukita"
 			 culture="Culture.sanyo"
@@ -100,7 +100,7 @@
 			 banner_key="11.163.166.1528.1528.764.764.1.0.0.637.171.171.483.483.764.764.0.0.0" />
 	<Faction id="clan_akashi_1"
 			 is_noble ="true"
-			 name="{=OVQoC9fn}Akashi-shi"
+			 name="Akashi-shi"
 			 tier="3"
 			 owner="Hero.lord_1_akashi"
 			 culture="Culture.sanyo"
@@ -109,7 +109,7 @@
 	<!--amago kingdom-->
 	<Faction id="clan_amago_1"
 			 is_noble ="true"
-			 name="{=OVQoC9fn}Amago-shi"
+			 name="Amago-shi"
 			 tier="4"
 			 owner="Hero.lord_1_amago"
 			 culture="Culture.sanyo"
@@ -117,7 +117,7 @@
 			 banner_key="11.163.166.1528.1528.764.764.1.0.0.635.171.171.483.483.764.764.0.0.0" />
 	<Faction id="clan_yamanaka_1"
 			 is_noble ="true"
-			 name="{=OVQoC9fn}Yamanaka-shi"
+			 name="Yamanaka-shi"
 			 tier="2"
 			 owner="Hero.lord_1_yamanaka"
 			 culture="Culture.sanyo"
@@ -125,7 +125,7 @@
 			 banner_key="11.163.166.1528.1528.764.764.1.0.0.634.171.171.483.483.764.764.0.0.0" />
 	<Faction id="clan_tatsuhara_1"
 			 is_noble ="true"
-			 name="{=OVQoC9fn}Tatsuhara-shi"
+			 name="Tatsuhara-shi"
 			 tier="2"
 			 owner="Hero.lord_1_tatsuhara"
 			 culture="Culture.sanyo"
