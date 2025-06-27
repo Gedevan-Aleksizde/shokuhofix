@@ -2189,7 +2189,7 @@
   <!--saigo clan 8 ids-->
   <!--Parents-->
   <!--leader-->
-  <NPCCharacter id="lord_1_saigo" name="{=aBevKeGx}Saigo Sumitaka" age="43" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_saigo" name="{=aBevKeGx}Saigō Sumitaka" age="43" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="43.00" weight="0.7172" build="0.4931" key="0027F00E80000184A6747A276DC6573B826669558ABC448AC33A8D35389988780167B61306B6C33900000000000000000000000000000000000000003ED40143" />
     </face>
@@ -2209,7 +2209,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_saigo_1" name="{=MLD6QUoN}Saigo Sada" age="43" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_saigo_1" name="{=MLD6QUoN}Saigō Sada" age="43" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="43.00" weight="0.0415" build="0.6165" key="003ED80D80000006628EC52DE889B84D93C2878AE436D5594DB0676986A216ED04891646084160ED00000000000000000000000000000000000000001D143080" />
     </face>
@@ -2227,7 +2227,7 @@
     </Equipments>
   </NPCCharacter>
   <!--children leader-->
-  <NPCCharacter id="lord_1_saigo_2" name="{=aBevKeGx}Saigo Sumitaka" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_saigo_2" name="{=aBevKeGx}Saigō Sumitaka" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.431" build="0.1844" key="0034C40E80000642A66479C9BCA7548A51765A7978EA369BC3465A554899D8780363663506A8C36800000000000000000000000000000000000000006ACC00C0" />
     </face>
@@ -2247,7 +2247,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_saigo_3" name="{=0WWMrnLV}Saigo Mayumi" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_saigo_3" name="{=0WWMrnLV}Saigō Mayumi" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.035" build="0.8675" key="0032EC0DC00000036289A693292BDAFABEC0833CCCB0B1B9C6D1E3E58DD743AC021D1625010314E70000000000000000000000000000000000000000061C20C0" />
     </face>
@@ -2264,7 +2264,7 @@
       <EquipmentSet id="saikai_civ_template_default_female" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_saigo_4" name="{=Duy1yvLw}Saigo Nobunao" age="13" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_saigo_4" name="{=Duy1yvLw}Saigō Nobunao" age="13" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="13.00" weight="0.6591" build="0.6696" key="003CCC0EC000024395645856B9C5638A42764A4799BA46ACD34D8A9548A9CB98026AA62406C7A359000000000000000000000000000000000000000000CC0083" />
     </face>
@@ -2285,7 +2285,7 @@
     </Equipments>
   </NPCCharacter>
   <!--brother leader-->
-  <NPCCharacter id="lord_1_saigo_5" name="{=VhUaonxW}Saigo Sumimasa" age="40" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_saigo_5" name="{=VhUaonxW}Saigō Sumimasa" age="40" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="40.00" weight="0.6669" build="0.5014" key="0036E80EC0000002B57374A799A66469B1683989968B446AC42A879548A9AB980978A69208AA924A00000000000000000000000000000000000000002CDC0102" />
     </face>

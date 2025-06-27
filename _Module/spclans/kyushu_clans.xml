@@ -40,6 +40,6 @@
 	<Faction id="clan_ryuzoji_1" is_noble="true" name="{=ztOTUHZ8}Ryuzoji-shi" tier="6" owner="Hero.lord_1_ryuzoji" culture="Culture.saikai" super_faction="Kingdom.ryuzoji" banner_key="11.163.166.1528.1528.764.764.1.0.0.614.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_matsuura_1" is_noble="true" name="{=tF67sEyg}Matsuura-shi" tier="4" owner="Hero.lord_1_matsuura" culture="Culture.saikai" super_faction="Kingdom.ryuzoji" banner_key="11.163.166.1528.1528.764.764.1.0.0.617.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_nabeshima_1" is_noble="true" name="{=FQ1msfS3}Nabeshima-shi" tier="3" owner="Hero.lord_1_nabeshima" culture="Culture.saikai" super_faction="Kingdom.ryuzoji" banner_key="11.163.166.1528.1528.764.764.1.0.0.620.171.171.483.483.764.764.0.0.0"/>
-	<Faction id="clan_saigo_1" is_noble="true" name="{=eym8aSZ5}Saigo-shi" tier="3" owner="Hero.lord_1_saigo" culture="Culture.saikai" super_faction="Kingdom.ryuzoji" banner_key="11.163.166.1528.1528.764.764.1.0.0.622.171.171.483.483.764.764.0.0.0"/>
+	<Faction id="clan_saigo_1" is_noble="true" name="{=eym8aSZ5}Saigō-shi" tier="3" owner="Hero.lord_1_saigo" culture="Culture.saikai" super_faction="Kingdom.ryuzoji" banner_key="11.163.166.1528.1528.764.764.1.0.0.622.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_kumabe_1" is_noble="true" name="{=LvmXDnyd}Kumabe-shi" tier="3" owner="Hero.lord_1_kumabe" culture="Culture.saikai" super_faction="Kingdom.ryuzoji" banner_key="11.163.166.1528.1528.764.764.1.0.0.621.171.171.483.483.764.764.0.0.0"/>
 </Factions>

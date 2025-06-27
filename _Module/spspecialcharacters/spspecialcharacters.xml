@@ -2743,7 +2743,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_nankai"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_shiwaku_shu_leader_3" name="{=fvYQ5nHm}Shirozaemon of the Shiwaku-shu" voice="curt" age="24" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.nankai" occupation="Lord">
+	<NPCCharacter id="spc_shiwaku_shu_leader_3" name="{=fvYQ5nHm}Shirōzaemon of the Shiwaku-shu" voice="curt" age="24" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.nankai" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>

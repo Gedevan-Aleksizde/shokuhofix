@@ -25,122 +25,122 @@
       <policy id="policy_crown_duty"/>
     </default_policies>
     <male_names>
-      <name name="{=686xcJ5S}Taro"/>
-      <name name="{=xbwRkO5Z}Ichiro"/>
-      <name name="{=0T1OCfRY}Jiro"/>
-      <name name="{=1187gbgM}Saburo"/>
-      <name name="{=BN54hR9V}Shiro"/>
-      <name name="{=OfanclyF}Goro"/>
-      <name name="{=9wz88kH7}Rokuro"/>
-      <name name="{=pEnQ7qL8}Shichiro"/>
-      <name name="{=BQEJpaKM}Hachiro"/>
-      <name name="{=Zf6pqP1S}Kuro"/>
-      <name name="{=F4wYBL82}Juro"/>
-      <name name="{=3cTGorVo}Jusuke"/>
-      <name name="{=4yJsfsiM}Suketaro"/>
-      <name name="{=XBtOokns}Sukejiro"/>
-      <name name="{=5P5FkBwH}Sukesaburo"/>
-      <name name="{=tubOfaxz}Sukeshiro"/>
-      <name name="{=3R5j7RYA}Sukegoro"/>
+      <name name="{=686xcJ5S}Tarō"/>
+      <name name="{=xbwRkO5Z}Ichirō"/>
+      <name name="{=0T1OCfRY}Jirō"/>
+      <name name="{=1187gbgM}Saburō"/>
+      <name name="{=BN54hR9V}Shirō"/>
+      <name name="{=OfanclyF}Gorō"/>
+      <name name="{=9wz88kH7}Rokurō"/>
+      <name name="{=pEnQ7qL8}Shichirō"/>
+      <name name="{=BQEJpaKM}Hachirō"/>
+      <name name="{=Zf6pqP1S}Kurō"/>
+      <name name="{=F4wYBL82}Jūrō"/>
+      <name name="{=3cTGorVo}Jūsuke"/>
+      <name name="{=4yJsfsiM}Suketarō"/>
+      <name name="{=XBtOokns}Sukejirō"/>
+      <name name="{=5P5FkBwH}Sukesaburō"/>
+      <name name="{=tubOfaxz}Sukeshirō"/>
+      <name name="{=3R5j7RYA}Sukegorō"/>
       <name name="{=Ds3cZg6r}Sukebei"/>
       <name name="{=nKMOkNFw}Sukezaemon"/>
       <name name="{=7iiIq9r6}Sukeemon"/>
-      <name name="{=kD70iJ3J}Shintaro"/>
-      <name name="{=fpdWiWfz}Shinichiro"/>
-      <name name="{=A2GoIvbc}Shinjiro"/>
-      <name name="{=Bti8upGR}Sinsaburo"/>
-      <name name="{=OMBLQ8zN}Shingoro"/>
-      <name name="{=CeFXPZ4y}Shinjuro"/>
+      <name name="{=kD70iJ3J}Shintarō"/>
+      <name name="{=fpdWiWfz}Shinichirō"/>
+      <name name="{=A2GoIvbc}Shinjirō"/>
+      <name name="{=Bti8upGR}Sinsaburō"/>
+      <name name="{=OMBLQ8zN}Shingorō"/>
+      <name name="{=CeFXPZ4y}Shinjurō"/>
       <name name="{=8AWswCXB}Shinsuke"/>
       <name name="{=u6o96I4Y}Shinnosuke"/>
       <name name="{=KT8o8D8j}Shinkichi"/>
-      <name name="{=QXoI9qum}Shinzo"/>
+      <name name="{=QXoI9qum}Shinzō"/>
       <name name="{=l4hS80xv}Shinbei"/>
       <name name="{=xGgjfTcH}Shinzaemon"/>
       <name name="{=nP12n3Fs}Shinemon"/>
-      <name name="{=2HEjtotK}Kantaro"/>
-      <name name="{=ctzwdIKa}Kanichiro"/>
-      <name name="{=nWOBDgpj}Kanjiro"/>
-      <name name="{=NbvnNk2S}Kanzaburo"/>
-      <name name="{=kN3o6xzR}Kangoro"/>
-      <name name="{=rtGBo128}Kanjuro"/>
+      <name name="{=2HEjtotK}Kantarō"/>
+      <name name="{=ctzwdIKa}Kannichirō"/>
+      <name name="{=nWOBDgpj}Kanjirō"/>
+      <name name="{=NbvnNk2S}Kanzaburō"/>
+      <name name="{=kN3o6xzR}Kangorō"/>
+      <name name="{=rtGBo128}Kanjūrō"/>
       <name name="{=YRDygFj6}Kansuke"/>
       <name name="{=cGq2zXGn}Kannosuke"/>
       <name name="{=2BhHfnxd}Kankichi"/>
-      <name name="{=eZOVCTrX}Kanzo"/>
+      <name name="{=eZOVCTrX}Kanzō"/>
       <name name="{=4Nkceif9}Kanbei"/>
       <name name="{=nP12n3Fs}Shinemon"/>
       <name name="{=xGgjfTcH}Shinzaemon"/>
-      <name name="{=pr5IdVlQ}Choutaro"/>
-      <name name="{=6get6Y8E}Chouichiro"/>
-      <name name="{=b9VnjeKp}Choujiro"/>
-      <name name="{=ZjsS13ws}Chouzaburo"/>
-      <name name="{=QP1vL1Z5}Chougoro"/>
-      <name name="{=onoKVXjp}Choujuro"/>
-      <name name="{=8Lqk2NsA}Chousuke"/>
-      <name name="{=XWldYuhm}Chouunosuke"/>
-      <name name="{=q1a85TXt}Choukichi"/>
-      <name name="{=QCC1D0p5}Chouzo"/>
-      <name name="{=uA1I8WpX}Choubei"/>
-      <name name="{=S34Gm8bG}Chouzaemon"/>
-      <name name="{=7wmjr9N6}Chouemon"/>
-      <name name="{=FyfAPTam}Yotaro"/>
-      <name name="{=5yIPZNOC}Yoichiro"/>
-      <name name="{=lK7DyjrE}Yojiro"/>
-      <name name="{=MJ1Oqpvu}Yosaburo"/>
-      <name name="{=JNR0uO1t}Yogoro"/>
-      <name name="{=73ORmCAk}Yojuro"/>
+      <name name="{=pr5IdVlQ}Chōtarō"/>
+      <name name="{=6get6Y8E}Chōichirō"/>
+      <name name="{=b9VnjeKp}Chōjirō"/>
+      <name name="{=ZjsS13ws}Chōzaburō"/>
+      <name name="{=QP1vL1Z5}Chōzgorō"/>
+      <name name="{=onoKVXjp}Chōjūrō"/>
+      <name name="{=8Lqk2NsA}Chōsuke"/>
+      <name name="{=XWldYuhm}Chōunosuke"/>
+      <name name="{=q1a85TXt}Chōkichi"/>
+      <name name="{=QCC1D0p5}Chōzō"/>
+      <name name="{=uA1I8WpX}Chōbei"/>
+      <name name="{=S34Gm8bG}Chōzaemon"/>
+      <name name="{=7wmjr9N6}Chōemon"/>
+      <name name="{=FyfAPTam}Yotarō"/>
+      <name name="{=5yIPZNOC}Yoichirō"/>
+      <name name="{=lK7DyjrE}Yojirō"/>
+      <name name="{=MJ1Oqpvu}Yosaburō"/>
+      <name name="{=JNR0uO1t}Yogorō"/>
+      <name name="{=73ORmCAk}Yojūrō"/>
       <name name="{=ZMYEFBjO}Yosuke"/>
       <name name="{=EgvAhszY}Yonosuke"/>
       <name name="{=NC96SIAV}Yokichi"/>
-      <name name="{=Xr2ZmWZw}Yozo"/>
+      <name name="{=Xr2ZmWZw}Yozō"/>
       <name name="{=29MCqLs8}Yohei"/>
       <name name="{=RPKbRH8T}Yozaemon"/>
       <name name="{=FcRcfWZy}Yoemon"/>
-      <name name="{=DhCSfZzt}Gentaro"/>
-      <name name="{=DvyQIA3d}Genichiro"/>
-      <name name="{=ItTycCE3}Genjiro"/>
-      <name name="{=8p1CMJc0}Genzaburo"/>
-      <name name="{=TZVh0WX4}Gengoro"/>
-      <name name="{=WFx5O7js}Genjuro"/>
+      <name name="{=DhCSfZzt}Gentarō"/>
+      <name name="{=DvyQIA3d}Genichirō"/>
+      <name name="{=ItTycCE3}Genjirō"/>
+      <name name="{=8p1CMJc0}Genzaburō"/>
+      <name name="{=TZVh0WX4}Gengorō"/>
+      <name name="{=WFx5O7js}Genjūrō"/>
       <name name="{=cJ2lc6t0}Gensuke"/>
       <name name="{=geoBdNT4}Gennosuke"/>
-      <name name="{=m7TQ90rZ}Genzo"/>
+      <name name="{=m7TQ90rZ}Genzō"/>
       <name name="{=TkJw9Duw}Gennai"/>
       <name name="{=Z1zN5otw}Genbei"/>
       <name name="{=AbuVBtV8}Genzaemon"/>
       <name name="{=AtsmKH9M}Genemon"/>
-      <name name="{=HG9UGvJg}Kotaro"/>
-      <name name="{=8kVtgCIk}Koichiro"/>
-      <name name="{=6vARoohf}Kojiro"/>
-      <name name="{=Ak4DXEag}Kosaburo"/>
-      <name name="{=xYhQ9Gab}Kogoro"/>
-      <name name="{=KFlqyj5C}Kojuro"/>
-      <name name="{=88kt2fqY}Shotaro"/>
-      <name name="{=lUXZJHsr}Shoichiro"/>
-      <name name="{=yylgHdJi}Shojiro"/>
-      <name name="{=WJocHKZm}Shosaburo"/>
-      <name name="{=aoezMSUO}Shogoro"/>
-      <name name="{=rKb72D2I}Shojuro"/>
-      <name name="{=8ZO6U0MK}Shosuke"/>
-      <name name="{=FKcnKXmS}Shonosuke"/>
-      <name name="{=w3AqbTQs}Shokichi"/>
-      <name name="{=m10TL2CQ}Shozo"/>
-      <name name="{=enQ9CtYF}Shobei"/>
-      <name name="{=yOuFJRP1}Shozaemon"/>
-      <name name="{=nitvYEGB}Shoemon"/>
-      <name name="{=V8VowuPM}Toutaro"/>
-      <name name="{=TaQeyQCL}Touichiro"/>
-      <name name="{=qXPONqPW}Toujiro"/>
-      <name name="{=FZDkXvEM}Tousaburo"/>
-      <name name="{=2z2LglVH}Tougoro"/>
-      <name name="{=V9bQ7Maa}Toujuro"/>
-      <name name="{=1QBVd4da}Tousuke"/>
-      <name name="{=SmVurwZt}Tounosuke"/>
-      <name name="{=Wq5qYwL7}Toukichi"/>
-      <name name="{=n1btMUnd}Touzo"/>
+      <name name="{=HG9UGvJg}Kotarō"/>
+      <name name="{=8kVtgCIk}Koichirō"/>
+      <name name="{=6vARoohf}Kojirō"/>
+      <name name="{=Ak4DXEag}Kosaburō"/>
+      <name name="{=xYhQ9Gab}Kogorō"/>
+      <name name="{=KFlqyj5C}Kojūrō"/>
+      <name name="{=88kt2fqY}Shōtarō"/>
+      <name name="{=lUXZJHsr}Shōichirō"/>
+      <name name="{=yylgHdJi}Shōjirō"/>
+      <name name="{=WJocHKZm}Shōsaburō"/>
+      <name name="{=aoezMSUO}Shōgorō"/>
+      <name name="{=rKb72D2I}Shōjūrō"/>
+      <name name="{=8ZO6U0MK}Shōsuke"/>
+      <name name="{=FKcnKXmS}Shōnosuke"/>
+      <name name="{=w3AqbTQs}Shōkichi"/>
+      <name name="{=m10TL2CQ}Shōzō"/>
+      <name name="{=enQ9CtYF}Shōbei"/>
+      <name name="{=yOuFJRP1}Shōzaemon"/>
+      <name name="{=nitvYEGB}Shōemon"/>
+      <name name="{=V8VowuPM}Tōarō"/>
+      <name name="{=TaQeyQCL}Tōichirō"/>
+      <name name="{=qXPONqPW}Tōjirō"/>
+      <name name="{=FZDkXvEM}Tōsaburō"/>
+      <name name="{=2z2LglVH}Tōgorō"/>
+      <name name="{=V9bQ7Maa}Tōjūrō"/>
+      <name name="{=1QBVd4da}Tōsuke"/>
+      <name name="{=SmVurwZt}Tōnosuke"/>
+      <name name="{=Wq5qYwL7}Tōkichi"/>
+      <name name="{=n1btMUnd}Tōzō"/>
       <name name="{=wsOx7Udj}Tounai"/>
-      <name name="{=ffaLCN8L}Toubei"/>
+      <name name="{=ffaLCN8L}Tōbei"/>
       <name name="{=WdoaF6Up}Touzaemon"/>
       <name name="{=0TrEYRKe}Touemon"/>
       <name name="{=cousoQ4k}Mataichiro"/>
@@ -405,16 +405,16 @@
       <name name="{=M24CQ7LC}Izaemon"/>
       <name name="{=0HhVmhAb}Iemon"/>
       <name name="{=M7NqDxH8}Sasuke"/>
-      <name name="{=mCtJGBTR}Tarozaemon"/>
-      <name name="{=0dcfuOXl}Taroemon"/>
-      <name name="{=MvkAmOXM}Jirozaemon"/>
+      <name name="{=mCtJGBTR}Tarōzaemon"/>
+      <name name="{=0dcfuOXl}Tarōemon"/>
+      <name name="{=MvkAmOXM}Jirōzaemon"/>
       <name name="{=6xKoyc6E}Hiroemon"/>
-      <name name="{=hNnejvkq}Saburozaemon"/>
-      <name name="{=h8G0fO3K}Saburoemon"/>
-      <name name="{=kNjiQUn5}Shirozaemon"/>
-      <name name="{=KeKB3A1g}Shiroemon"/>
-      <name name="{=p2JXgAFZ}Gorozaemon"/>
-      <name name="{=Z62OstUb}Goroemon"/>
+      <name name="{=hNnejvkq}Saburōzaemon"/>
+      <name name="{=h8G0fO3K}Saburōemon"/>
+      <name name="{=kNjiQUn5}Shirōzaemon"/>
+      <name name="{=KeKB3A1g}Shirōemon"/>
+      <name name="{=p2JXgAFZ}Gorōzaemon"/>
+      <name name="{=Z62OstUb}Gorōemon"/>
     </male_names>
     <female_names>
       <name name="{=ab4sZWzd}Ai"/>
@@ -634,13 +634,13 @@
     </female_names>
     <clan_names>
       <name name="{=ZdBXMo7L}Akizuki"/>
-      <name name="{=46fsk7gw}Asou"/>
+      <name name="{=46fsk7gw}Asō"/>
       <name name="{=JWeFzVlO}Nuki"/>
       <name name="{=pwYAuMyG}Katsuki"/>
       <name name="{=YgTsZMc0}Kiroki"/>
       <name name="{=i3yQgaJa}Kusano"/>
       <name name="{=UeORdILD}Chikushi"/>
-      <name name="{=KssObQt2}Saigo"/>
+      <name name="{=KssObQt2}Saigō"/>
       <name name="{=VSE45J5r}Shiga"/>
       <name name="{=JkFrZzdM}Kamata"/>
       <name name="{=0QTdZKo2}Moji"/>
@@ -747,122 +747,122 @@
       <policy id="policy_grazing_rights"/>
     </default_policies>
     <male_names>
-      <name name="{=686xcJ5S}Taro"/>
-      <name name="{=xbwRkO5Z}Ichiro"/>
-      <name name="{=0T1OCfRY}Jiro"/>
-      <name name="{=1187gbgM}Saburo"/>
-      <name name="{=BN54hR9V}Shiro"/>
-      <name name="{=OfanclyF}Goro"/>
-      <name name="{=9wz88kH7}Rokuro"/>
-      <name name="{=pEnQ7qL8}Shichiro"/>
-      <name name="{=BQEJpaKM}Hachiro"/>
-      <name name="{=Zf6pqP1S}Kuro"/>
-      <name name="{=F4wYBL82}Juro"/>
-      <name name="{=3cTGorVo}Jusuke"/>
-      <name name="{=4yJsfsiM}Suketaro"/>
-      <name name="{=XBtOokns}Sukejiro"/>
-      <name name="{=5P5FkBwH}Sukesaburo"/>
-      <name name="{=tubOfaxz}Sukeshiro"/>
-      <name name="{=3R5j7RYA}Sukegoro"/>
+      <name name="{=686xcJ5S}Tarō"/>
+      <name name="{=xbwRkO5Z}Ichirō"/>
+      <name name="{=0T1OCfRY}Jirō"/>
+      <name name="{=1187gbgM}Saburō"/>
+      <name name="{=BN54hR9V}Shirō"/>
+      <name name="{=OfanclyF}Gorō"/>
+      <name name="{=9wz88kH7}Rokurō"/>
+      <name name="{=pEnQ7qL8}Shichirō"/>
+      <name name="{=BQEJpaKM}Hachirō"/>
+      <name name="{=Zf6pqP1S}Kurō"/>
+      <name name="{=F4wYBL82}Jurō"/>
+      <name name="{=3cTGorVo}Jūsuke"/>
+      <name name="{=4yJsfsiM}Suketarō"/>
+      <name name="{=XBtOokns}Sukejirō"/>
+      <name name="{=5P5FkBwH}Sukesaburō"/>
+      <name name="{=tubOfaxz}Sukeshirō"/>
+      <name name="{=3R5j7RYA}Sukegorō"/>
       <name name="{=Ds3cZg6r}Sukebei"/>
       <name name="{=nKMOkNFw}Sukezaemon"/>
       <name name="{=7iiIq9r6}Sukeemon"/>
-      <name name="{=kD70iJ3J}Shintaro"/>
-      <name name="{=fpdWiWfz}Shinichiro"/>
-      <name name="{=A2GoIvbc}Shinjiro"/>
-      <name name="{=Bti8upGR}Sinsaburo"/>
-      <name name="{=OMBLQ8zN}Shingoro"/>
-      <name name="{=CeFXPZ4y}Shinjuro"/>
+      <name name="{=kD70iJ3J}Shintarō"/>
+      <name name="{=fpdWiWfz}Shinichirō"/>
+      <name name="{=A2GoIvbc}Shinjirō"/>
+      <name name="{=Bti8upGR}Sinsaburō"/>
+      <name name="{=OMBLQ8zN}Shingorō"/>
+      <name name="{=CeFXPZ4y}Shinjurō"/>
       <name name="{=8AWswCXB}Shinsuke"/>
       <name name="{=u6o96I4Y}Shinnosuke"/>
       <name name="{=KT8o8D8j}Shinkichi"/>
-      <name name="{=QXoI9qum}Shinzo"/>
+      <name name="{=QXoI9qum}Shinzō"/>
       <name name="{=l4hS80xv}Shinbei"/>
       <name name="{=xGgjfTcH}Shinzaemon"/>
       <name name="{=nP12n3Fs}Shinemon"/>
-      <name name="{=2HEjtotK}Kantaro"/>
-      <name name="{=ctzwdIKa}Kanichiro"/>
-      <name name="{=nWOBDgpj}Kanjiro"/>
-      <name name="{=NbvnNk2S}Kanzaburo"/>
-      <name name="{=kN3o6xzR}Kangoro"/>
-      <name name="{=rtGBo128}Kanjuro"/>
+      <name name="{=2HEjtotK}Kantarō"/>
+      <name name="{=ctzwdIKa}Kannichirō"/>
+      <name name="{=nWOBDgpj}Kanjirō"/>
+      <name name="{=NbvnNk2S}Kanzaburō"/>
+      <name name="{=kN3o6xzR}Kangorō"/>
+      <name name="{=rtGBo128}Kanjūrō"/>
       <name name="{=YRDygFj6}Kansuke"/>
       <name name="{=cGq2zXGn}Kannosuke"/>
       <name name="{=2BhHfnxd}Kankichi"/>
-      <name name="{=eZOVCTrX}Kanzo"/>
+      <name name="{=eZOVCTrX}Kanzō"/>
       <name name="{=4Nkceif9}Kanbei"/>
       <name name="{=nP12n3Fs}Shinemon"/>
       <name name="{=xGgjfTcH}Shinzaemon"/>
-      <name name="{=pr5IdVlQ}Choutaro"/>
-      <name name="{=6get6Y8E}Chouichiro"/>
-      <name name="{=b9VnjeKp}Choujiro"/>
-      <name name="{=ZjsS13ws}Chouzaburo"/>
-      <name name="{=QP1vL1Z5}Chougoro"/>
-      <name name="{=onoKVXjp}Choujuro"/>
-      <name name="{=8Lqk2NsA}Chousuke"/>
-      <name name="{=XWldYuhm}Chouunosuke"/>
-      <name name="{=q1a85TXt}Choukichi"/>
-      <name name="{=QCC1D0p5}Chouzo"/>
-      <name name="{=uA1I8WpX}Choubei"/>
-      <name name="{=S34Gm8bG}Chouzaemon"/>
-      <name name="{=7wmjr9N6}Chouemon"/>
-      <name name="{=FyfAPTam}Yotaro"/>
-      <name name="{=5yIPZNOC}Yoichiro"/>
-      <name name="{=lK7DyjrE}Yojiro"/>
-      <name name="{=MJ1Oqpvu}Yosaburo"/>
-      <name name="{=JNR0uO1t}Yogoro"/>
-      <name name="{=73ORmCAk}Yojuro"/>
+      <name name="{=pr5IdVlQ}Chōtarō"/>
+      <name name="{=6get6Y8E}Chōichirō"/>
+      <name name="{=b9VnjeKp}Chōjirō"/>
+      <name name="{=ZjsS13ws}Chōzaburō"/>
+      <name name="{=QP1vL1Z5}Chōzgorō"/>
+      <name name="{=onoKVXjp}Chōjūrō"/>
+      <name name="{=8Lqk2NsA}Chōsuke"/>
+      <name name="{=XWldYuhm}Chōunosuke"/>
+      <name name="{=q1a85TXt}Chōkichi"/>
+      <name name="{=QCC1D0p5}Chōzō"/>
+      <name name="{=uA1I8WpX}Chōbei"/>
+      <name name="{=S34Gm8bG}Chōzaemon"/>
+      <name name="{=7wmjr9N6}Chōemon"/>
+      <name name="{=FyfAPTam}Yotarō"/>
+      <name name="{=5yIPZNOC}Yoichirō"/>
+      <name name="{=lK7DyjrE}Yojirō"/>
+      <name name="{=MJ1Oqpvu}Yosaburō"/>
+      <name name="{=JNR0uO1t}Yogorō"/>
+      <name name="{=73ORmCAk}Yojūrō"/>
       <name name="{=ZMYEFBjO}Yosuke"/>
       <name name="{=EgvAhszY}Yonosuke"/>
       <name name="{=NC96SIAV}Yokichi"/>
-      <name name="{=Xr2ZmWZw}Yozo"/>
+      <name name="{=Xr2ZmWZw}Yozō"/>
       <name name="{=29MCqLs8}Yohei"/>
       <name name="{=RPKbRH8T}Yozaemon"/>
       <name name="{=FcRcfWZy}Yoemon"/>
-      <name name="{=DhCSfZzt}Gentaro"/>
-      <name name="{=DvyQIA3d}Genichiro"/>
-      <name name="{=ItTycCE3}Genjiro"/>
-      <name name="{=8p1CMJc0}Genzaburo"/>
-      <name name="{=TZVh0WX4}Gengoro"/>
-      <name name="{=WFx5O7js}Genjuro"/>
+      <name name="{=DhCSfZzt}Gentarō"/>
+      <name name="{=DvyQIA3d}Genichirō"/>
+      <name name="{=ItTycCE3}Genjirō"/>
+      <name name="{=8p1CMJc0}Genzaburō"/>
+      <name name="{=TZVh0WX4}Gengorō"/>
+      <name name="{=WFx5O7js}Genjūrō"/>
       <name name="{=cJ2lc6t0}Gensuke"/>
       <name name="{=geoBdNT4}Gennosuke"/>
-      <name name="{=m7TQ90rZ}Genzo"/>
+      <name name="{=m7TQ90rZ}Genzō"/>
       <name name="{=TkJw9Duw}Gennai"/>
       <name name="{=Z1zN5otw}Genbei"/>
       <name name="{=AbuVBtV8}Genzaemon"/>
       <name name="{=AtsmKH9M}Genemon"/>
-      <name name="{=HG9UGvJg}Kotaro"/>
-      <name name="{=8kVtgCIk}Koichiro"/>
-      <name name="{=6vARoohf}Kojiro"/>
-      <name name="{=Ak4DXEag}Kosaburo"/>
-      <name name="{=xYhQ9Gab}Kogoro"/>
-      <name name="{=KFlqyj5C}Kojuro"/>
-      <name name="{=88kt2fqY}Shotaro"/>
-      <name name="{=lUXZJHsr}Shoichiro"/>
-      <name name="{=yylgHdJi}Shojiro"/>
-      <name name="{=WJocHKZm}Shosaburo"/>
-      <name name="{=aoezMSUO}Shogoro"/>
-      <name name="{=rKb72D2I}Shojuro"/>
-      <name name="{=8ZO6U0MK}Shosuke"/>
-      <name name="{=FKcnKXmS}Shonosuke"/>
-      <name name="{=w3AqbTQs}Shokichi"/>
-      <name name="{=m10TL2CQ}Shozo"/>
-      <name name="{=enQ9CtYF}Shobei"/>
-      <name name="{=yOuFJRP1}Shozaemon"/>
-      <name name="{=nitvYEGB}Shoemon"/>
-      <name name="{=V8VowuPM}Toutaro"/>
-      <name name="{=TaQeyQCL}Touichiro"/>
-      <name name="{=qXPONqPW}Toujiro"/>
-      <name name="{=FZDkXvEM}Tousaburo"/>
-      <name name="{=2z2LglVH}Tougoro"/>
-      <name name="{=V9bQ7Maa}Toujuro"/>
-      <name name="{=1QBVd4da}Tousuke"/>
-      <name name="{=SmVurwZt}Tounosuke"/>
-      <name name="{=Wq5qYwL7}Toukichi"/>
-      <name name="{=n1btMUnd}Touzo"/>
+      <name name="{=HG9UGvJg}Kotarō"/>
+      <name name="{=8kVtgCIk}Koichirō"/>
+      <name name="{=6vARoohf}Kojirō"/>
+      <name name="{=Ak4DXEag}Kosaburō"/>
+      <name name="{=xYhQ9Gab}Kogorō"/>
+      <name name="{=KFlqyj5C}Kojūrō"/>
+      <name name="{=88kt2fqY}Shōtarō"/>
+      <name name="{=lUXZJHsr}Shōichirō"/>
+      <name name="{=yylgHdJi}Shōjirō"/>
+      <name name="{=WJocHKZm}Shōsaburō"/>
+      <name name="{=aoezMSUO}Shōgorō"/>
+      <name name="{=rKb72D2I}Shōjūrō"/>
+      <name name="{=8ZO6U0MK}Shōsuke"/>
+      <name name="{=FKcnKXmS}Shōnosuke"/>
+      <name name="{=w3AqbTQs}Shōkichi"/>
+      <name name="{=m10TL2CQ}Shōzō"/>
+      <name name="{=enQ9CtYF}Shōbei"/>
+      <name name="{=yOuFJRP1}Shōzaemon"/>
+      <name name="{=nitvYEGB}Shōemon"/>
+      <name name="{=V8VowuPM}Tōarō"/>
+      <name name="{=TaQeyQCL}Tōichirō"/>
+      <name name="{=qXPONqPW}Tōjirō"/>
+      <name name="{=FZDkXvEM}Tōsaburō"/>
+      <name name="{=2z2LglVH}Tōgorō"/>
+      <name name="{=V9bQ7Maa}Tōjūrō"/>
+      <name name="{=1QBVd4da}Tōsuke"/>
+      <name name="{=SmVurwZt}Tōnosuke"/>
+      <name name="{=Wq5qYwL7}Tōkichi"/>
+      <name name="{=n1btMUnd}Tōzō"/>
       <name name="{=wsOx7Udj}Tounai"/>
-      <name name="{=ffaLCN8L}Toubei"/>
+      <name name="{=ffaLCN8L}Tōbei"/>
       <name name="{=WdoaF6Up}Touzaemon"/>
       <name name="{=0TrEYRKe}Touemon"/>
       <name name="{=cousoQ4k}Mataichiro"/>
@@ -1127,16 +1127,16 @@
       <name name="{=M24CQ7LC}Izaemon"/>
       <name name="{=0HhVmhAb}Iemon"/>
       <name name="{=M7NqDxH8}Sasuke"/>
-      <name name="{=mCtJGBTR}Tarozaemon"/>
-      <name name="{=0dcfuOXl}Taroemon"/>
-      <name name="{=MvkAmOXM}Jirozaemon"/>
+      <name name="{=mCtJGBTR}Tarōzaemon"/>
+      <name name="{=0dcfuOXl}Tarōemon"/>
+      <name name="{=MvkAmOXM}Jirōzaemon"/>
       <name name="{=6xKoyc6E}Hiroemon"/>
-      <name name="{=hNnejvkq}Saburozaemon"/>
-      <name name="{=h8G0fO3K}Saburoemon"/>
-      <name name="{=kNjiQUn5}Shirozaemon"/>
-      <name name="{=KeKB3A1g}Shiroemon"/>
-      <name name="{=p2JXgAFZ}Gorozaemon"/>
-      <name name="{=Z62OstUb}Goroemon"/>
+      <name name="{=hNnejvkq}Saburōzaemon"/>
+      <name name="{=h8G0fO3K}Saburōemon"/>
+      <name name="{=kNjiQUn5}Shirōzaemon"/>
+      <name name="{=KeKB3A1g}Shirōemon"/>
+      <name name="{=p2JXgAFZ}Gorōzaemon"/>
+      <name name="{=Z62OstUb}Gorōemon"/>
     </male_names>
     <female_names>
       <name name="{=ab4sZWzd}Ai"/>
@@ -1463,122 +1463,122 @@
       <policy id="policy_trial_by_jury"/>
     </default_policies>
     <male_names>
-      <name name="{=686xcJ5S}Taro"/>
-      <name name="{=xbwRkO5Z}Ichiro"/>
-      <name name="{=0T1OCfRY}Jiro"/>
-      <name name="{=1187gbgM}Saburo"/>
-      <name name="{=BN54hR9V}Shiro"/>
-      <name name="{=OfanclyF}Goro"/>
-      <name name="{=9wz88kH7}Rokuro"/>
-      <name name="{=pEnQ7qL8}Shichiro"/>
-      <name name="{=BQEJpaKM}Hachiro"/>
-      <name name="{=Zf6pqP1S}Kuro"/>
-      <name name="{=F4wYBL82}Juro"/>
-      <name name="{=3cTGorVo}Jusuke"/>
-      <name name="{=4yJsfsiM}Suketaro"/>
-      <name name="{=XBtOokns}Sukejiro"/>
-      <name name="{=5P5FkBwH}Sukesaburo"/>
-      <name name="{=tubOfaxz}Sukeshiro"/>
-      <name name="{=3R5j7RYA}Sukegoro"/>
+      <name name="{=686xcJ5S}Tarō"/>
+      <name name="{=xbwRkO5Z}Ichirō"/>
+      <name name="{=0T1OCfRY}Jirō"/>
+      <name name="{=1187gbgM}Saburō"/>
+      <name name="{=BN54hR9V}Shirō"/>
+      <name name="{=OfanclyF}Gorō"/>
+      <name name="{=9wz88kH7}Rokurō"/>
+      <name name="{=pEnQ7qL8}Shichirō"/>
+      <name name="{=BQEJpaKM}Hachirō"/>
+      <name name="{=Zf6pqP1S}Kurō"/>
+      <name name="{=F4wYBL82}Jurō"/>
+      <name name="{=3cTGorVo}Jūsuke"/>
+      <name name="{=4yJsfsiM}Suketarō"/>
+      <name name="{=XBtOokns}Sukejirō"/>
+      <name name="{=5P5FkBwH}Sukesaburō"/>
+      <name name="{=tubOfaxz}Sukeshirō"/>
+      <name name="{=3R5j7RYA}Sukegorō"/>
       <name name="{=Ds3cZg6r}Sukebei"/>
       <name name="{=nKMOkNFw}Sukezaemon"/>
       <name name="{=7iiIq9r6}Sukeemon"/>
-      <name name="{=kD70iJ3J}Shintaro"/>
-      <name name="{=fpdWiWfz}Shinichiro"/>
-      <name name="{=A2GoIvbc}Shinjiro"/>
-      <name name="{=Bti8upGR}Sinsaburo"/>
-      <name name="{=OMBLQ8zN}Shingoro"/>
-      <name name="{=CeFXPZ4y}Shinjuro"/>
+      <name name="{=kD70iJ3J}Shintarō"/>
+      <name name="{=fpdWiWfz}Shinichirō"/>
+      <name name="{=A2GoIvbc}Shinjirō"/>
+      <name name="{=Bti8upGR}Sinsaburō"/>
+      <name name="{=OMBLQ8zN}Shingorō"/>
+      <name name="{=CeFXPZ4y}Shinjurō"/>
       <name name="{=8AWswCXB}Shinsuke"/>
       <name name="{=u6o96I4Y}Shinnosuke"/>
       <name name="{=KT8o8D8j}Shinkichi"/>
-      <name name="{=QXoI9qum}Shinzo"/>
+      <name name="{=QXoI9qum}Shinzō"/>
       <name name="{=l4hS80xv}Shinbei"/>
       <name name="{=xGgjfTcH}Shinzaemon"/>
       <name name="{=nP12n3Fs}Shinemon"/>
-      <name name="{=2HEjtotK}Kantaro"/>
-      <name name="{=ctzwdIKa}Kanichiro"/>
-      <name name="{=nWOBDgpj}Kanjiro"/>
-      <name name="{=NbvnNk2S}Kanzaburo"/>
-      <name name="{=kN3o6xzR}Kangoro"/>
-      <name name="{=rtGBo128}Kanjuro"/>
+      <name name="{=2HEjtotK}Kantarō"/>
+      <name name="{=ctzwdIKa}Kannichirō"/>
+      <name name="{=nWOBDgpj}Kanjirō"/>
+      <name name="{=NbvnNk2S}Kanzaburō"/>
+      <name name="{=kN3o6xzR}Kangorō"/>
+      <name name="{=rtGBo128}Kanjūrō"/>
       <name name="{=YRDygFj6}Kansuke"/>
       <name name="{=cGq2zXGn}Kannosuke"/>
       <name name="{=2BhHfnxd}Kankichi"/>
-      <name name="{=eZOVCTrX}Kanzo"/>
+      <name name="{=eZOVCTrX}Kanzō"/>
       <name name="{=4Nkceif9}Kanbei"/>
       <name name="{=nP12n3Fs}Shinemon"/>
       <name name="{=xGgjfTcH}Shinzaemon"/>
-      <name name="{=pr5IdVlQ}Choutaro"/>
-      <name name="{=6get6Y8E}Chouichiro"/>
-      <name name="{=b9VnjeKp}Choujiro"/>
-      <name name="{=ZjsS13ws}Chouzaburo"/>
-      <name name="{=QP1vL1Z5}Chougoro"/>
-      <name name="{=onoKVXjp}Choujuro"/>
-      <name name="{=8Lqk2NsA}Chousuke"/>
-      <name name="{=XWldYuhm}Chouunosuke"/>
-      <name name="{=q1a85TXt}Choukichi"/>
-      <name name="{=QCC1D0p5}Chouzo"/>
-      <name name="{=uA1I8WpX}Choubei"/>
-      <name name="{=S34Gm8bG}Chouzaemon"/>
-      <name name="{=7wmjr9N6}Chouemon"/>
-      <name name="{=FyfAPTam}Yotaro"/>
-      <name name="{=5yIPZNOC}Yoichiro"/>
-      <name name="{=lK7DyjrE}Yojiro"/>
-      <name name="{=MJ1Oqpvu}Yosaburo"/>
-      <name name="{=JNR0uO1t}Yogoro"/>
-      <name name="{=73ORmCAk}Yojuro"/>
+      <name name="{=pr5IdVlQ}Chōtarō"/>
+      <name name="{=6get6Y8E}Chōichirō"/>
+      <name name="{=b9VnjeKp}Chōjirō"/>
+      <name name="{=ZjsS13ws}Chōzaburō"/>
+      <name name="{=QP1vL1Z5}Chōzgorō"/>
+      <name name="{=onoKVXjp}Chōjūrō"/>
+      <name name="{=8Lqk2NsA}Chōsuke"/>
+      <name name="{=XWldYuhm}Chōunosuke"/>
+      <name name="{=q1a85TXt}Chōkichi"/>
+      <name name="{=QCC1D0p5}Chōzō"/>
+      <name name="{=uA1I8WpX}Chōbei"/>
+      <name name="{=S34Gm8bG}Chōzaemon"/>
+      <name name="{=7wmjr9N6}Chōemon"/>
+      <name name="{=FyfAPTam}Yotarō"/>
+      <name name="{=5yIPZNOC}Yoichirō"/>
+      <name name="{=lK7DyjrE}Yojirō"/>
+      <name name="{=MJ1Oqpvu}Yosaburō"/>
+      <name name="{=JNR0uO1t}Yogorō"/>
+      <name name="{=73ORmCAk}Yojūrō"/>
       <name name="{=ZMYEFBjO}Yosuke"/>
       <name name="{=EgvAhszY}Yonosuke"/>
       <name name="{=NC96SIAV}Yokichi"/>
-      <name name="{=Xr2ZmWZw}Yozo"/>
+      <name name="{=Xr2ZmWZw}Yozō"/>
       <name name="{=29MCqLs8}Yohei"/>
       <name name="{=RPKbRH8T}Yozaemon"/>
       <name name="{=FcRcfWZy}Yoemon"/>
-      <name name="{=DhCSfZzt}Gentaro"/>
-      <name name="{=DvyQIA3d}Genichiro"/>
-      <name name="{=ItTycCE3}Genjiro"/>
-      <name name="{=8p1CMJc0}Genzaburo"/>
-      <name name="{=TZVh0WX4}Gengoro"/>
-      <name name="{=WFx5O7js}Genjuro"/>
+      <name name="{=DhCSfZzt}Gentarō"/>
+      <name name="{=DvyQIA3d}Genichirō"/>
+      <name name="{=ItTycCE3}Genjirō"/>
+      <name name="{=8p1CMJc0}Genzaburō"/>
+      <name name="{=TZVh0WX4}Gengorō"/>
+      <name name="{=WFx5O7js}Genjūrō"/>
       <name name="{=cJ2lc6t0}Gensuke"/>
       <name name="{=geoBdNT4}Gennosuke"/>
-      <name name="{=m7TQ90rZ}Genzo"/>
+      <name name="{=m7TQ90rZ}Genzō"/>
       <name name="{=TkJw9Duw}Gennai"/>
       <name name="{=Z1zN5otw}Genbei"/>
       <name name="{=AbuVBtV8}Genzaemon"/>
       <name name="{=AtsmKH9M}Genemon"/>
-      <name name="{=HG9UGvJg}Kotaro"/>
-      <name name="{=8kVtgCIk}Koichiro"/>
-      <name name="{=6vARoohf}Kojiro"/>
-      <name name="{=Ak4DXEag}Kosaburo"/>
-      <name name="{=xYhQ9Gab}Kogoro"/>
-      <name name="{=KFlqyj5C}Kojuro"/>
-      <name name="{=88kt2fqY}Shotaro"/>
-      <name name="{=lUXZJHsr}Shoichiro"/>
-      <name name="{=yylgHdJi}Shojiro"/>
-      <name name="{=WJocHKZm}Shosaburo"/>
-      <name name="{=aoezMSUO}Shogoro"/>
-      <name name="{=rKb72D2I}Shojuro"/>
-      <name name="{=8ZO6U0MK}Shosuke"/>
-      <name name="{=FKcnKXmS}Shonosuke"/>
-      <name name="{=w3AqbTQs}Shokichi"/>
-      <name name="{=m10TL2CQ}Shozo"/>
-      <name name="{=enQ9CtYF}Shobei"/>
-      <name name="{=yOuFJRP1}Shozaemon"/>
-      <name name="{=nitvYEGB}Shoemon"/>
-      <name name="{=V8VowuPM}Toutaro"/>
-      <name name="{=TaQeyQCL}Touichiro"/>
-      <name name="{=qXPONqPW}Toujiro"/>
-      <name name="{=FZDkXvEM}Tousaburo"/>
-      <name name="{=2z2LglVH}Tougoro"/>
-      <name name="{=V9bQ7Maa}Toujuro"/>
-      <name name="{=1QBVd4da}Tousuke"/>
-      <name name="{=SmVurwZt}Tounosuke"/>
-      <name name="{=Wq5qYwL7}Toukichi"/>
-      <name name="{=n1btMUnd}Touzo"/>
+      <name name="{=HG9UGvJg}Kotarō"/>
+      <name name="{=8kVtgCIk}Koichirō"/>
+      <name name="{=6vARoohf}Kojirō"/>
+      <name name="{=Ak4DXEag}Kosaburō"/>
+      <name name="{=xYhQ9Gab}Kogorō"/>
+      <name name="{=KFlqyj5C}Kojūrō"/>
+      <name name="{=88kt2fqY}Shōtarō"/>
+      <name name="{=lUXZJHsr}Shōichirō"/>
+      <name name="{=yylgHdJi}Shōjirō"/>
+      <name name="{=WJocHKZm}Shōsaburō"/>
+      <name name="{=aoezMSUO}Shōgorō"/>
+      <name name="{=rKb72D2I}Shōjūrō"/>
+      <name name="{=8ZO6U0MK}Shōsuke"/>
+      <name name="{=FKcnKXmS}Shōnosuke"/>
+      <name name="{=w3AqbTQs}Shōkichi"/>
+      <name name="{=m10TL2CQ}Shōzō"/>
+      <name name="{=enQ9CtYF}Shōbei"/>
+      <name name="{=yOuFJRP1}Shōzaemon"/>
+      <name name="{=nitvYEGB}Shōemon"/>
+      <name name="{=V8VowuPM}Tōarō"/>
+      <name name="{=TaQeyQCL}Tōichirō"/>
+      <name name="{=qXPONqPW}Tōjirō"/>
+      <name name="{=FZDkXvEM}Tōsaburō"/>
+      <name name="{=2z2LglVH}Tōgorō"/>
+      <name name="{=V9bQ7Maa}Tōjūrō"/>
+      <name name="{=1QBVd4da}Tōsuke"/>
+      <name name="{=SmVurwZt}Tōnosuke"/>
+      <name name="{=Wq5qYwL7}Tōkichi"/>
+      <name name="{=n1btMUnd}Tōzō"/>
       <name name="{=wsOx7Udj}Tounai"/>
-      <name name="{=ffaLCN8L}Toubei"/>
+      <name name="{=ffaLCN8L}Tōbei"/>
       <name name="{=WdoaF6Up}Touzaemon"/>
       <name name="{=0TrEYRKe}Touemon"/>
       <name name="{=cousoQ4k}Mataichiro"/>
@@ -1843,16 +1843,16 @@
       <name name="{=M24CQ7LC}Izaemon"/>
       <name name="{=0HhVmhAb}Iemon"/>
       <name name="{=M7NqDxH8}Sasuke"/>
-      <name name="{=mCtJGBTR}Tarozaemon"/>
-      <name name="{=0dcfuOXl}Taroemon"/>
-      <name name="{=MvkAmOXM}Jirozaemon"/>
+      <name name="{=mCtJGBTR}Tarōzaemon"/>
+      <name name="{=0dcfuOXl}Tarōemon"/>
+      <name name="{=MvkAmOXM}Jirōzaemon"/>
       <name name="{=6xKoyc6E}Hiroemon"/>
-      <name name="{=hNnejvkq}Saburozaemon"/>
-      <name name="{=h8G0fO3K}Saburoemon"/>
-      <name name="{=kNjiQUn5}Shirozaemon"/>
-      <name name="{=KeKB3A1g}Shiroemon"/>
-      <name name="{=p2JXgAFZ}Gorozaemon"/>
-      <name name="{=Z62OstUb}Goroemon"/>
+      <name name="{=hNnejvkq}Saburōzaemon"/>
+      <name name="{=h8G0fO3K}Saburōemon"/>
+      <name name="{=kNjiQUn5}Shirōzaemon"/>
+      <name name="{=KeKB3A1g}Shirōemon"/>
+      <name name="{=p2JXgAFZ}Gorōzaemon"/>
+      <name name="{=Z62OstUb}Gorōemon"/>
     </male_names>
     <female_names>
       <name name="{=ab4sZWzd}Ai"/>
@@ -2073,7 +2073,7 @@
     <clan_names>
       <name name="{=MTe8tb9b}Togawa"/>
       <name name="{=kzv0BtxU}Hanafusa"/>
-      <name name="{=P1I5mIT8}Sho"/>
+      <name name="{=P1I5mIT8}Shō"/>
       <name name="{=x8A5c8Wk}Niimi"/>
       <name name="{=KO6lqs1w}Zinzai"/>
       <name name="{=HnHDgRY0}En'ya"/>
@@ -2184,122 +2184,122 @@
       <policy id="policy_cantons"/>
     </default_policies>
     <male_names>
-      <name name="{=686xcJ5S}Taro"/>
-      <name name="{=xbwRkO5Z}Ichiro"/>
-      <name name="{=0T1OCfRY}Jiro"/>
-      <name name="{=1187gbgM}Saburo"/>
-      <name name="{=BN54hR9V}Shiro"/>
-      <name name="{=OfanclyF}Goro"/>
-      <name name="{=9wz88kH7}Rokuro"/>
-      <name name="{=pEnQ7qL8}Shichiro"/>
-      <name name="{=BQEJpaKM}Hachiro"/>
-      <name name="{=Zf6pqP1S}Kuro"/>
-      <name name="{=F4wYBL82}Juro"/>
-      <name name="{=3cTGorVo}Jusuke"/>
-      <name name="{=4yJsfsiM}Suketaro"/>
-      <name name="{=XBtOokns}Sukejiro"/>
-      <name name="{=5P5FkBwH}Sukesaburo"/>
-      <name name="{=tubOfaxz}Sukeshiro"/>
-      <name name="{=3R5j7RYA}Sukegoro"/>
+      <name name="{=686xcJ5S}Tarō"/>
+      <name name="{=xbwRkO5Z}Ichirō"/>
+      <name name="{=0T1OCfRY}Jirō"/>
+      <name name="{=1187gbgM}Saburō"/>
+      <name name="{=BN54hR9V}Shirō"/>
+      <name name="{=OfanclyF}Gorō"/>
+      <name name="{=9wz88kH7}Rokurō"/>
+      <name name="{=pEnQ7qL8}Shichirō"/>
+      <name name="{=BQEJpaKM}Hachirō"/>
+      <name name="{=Zf6pqP1S}Kūrō"/>
+      <name name="{=F4wYBL82}Jūrō"/>
+      <name name="{=3cTGorVo}Jūsuke"/>
+      <name name="{=4yJsfsiM}Sketarō"/>
+      <name name="{=XBtOokns}Sukejirō"/>
+      <name name="{=5P5FkBwH}Sukesaburō"/>
+      <name name="{=tubOfaxz}Sukeshirō"/>
+      <name name="{=3R5j7RYA}Sukegorō"/>
       <name name="{=Ds3cZg6r}Sukebei"/>
       <name name="{=nKMOkNFw}Sukezaemon"/>
       <name name="{=7iiIq9r6}Sukeemon"/>
-      <name name="{=kD70iJ3J}Shintaro"/>
-      <name name="{=fpdWiWfz}Shinichiro"/>
-      <name name="{=A2GoIvbc}Shinjiro"/>
-      <name name="{=Bti8upGR}Sinsaburo"/>
-      <name name="{=OMBLQ8zN}Shingoro"/>
-      <name name="{=CeFXPZ4y}Shinjuro"/>
+      <name name="{=kD70iJ3J}Shintarō"/>
+      <name name="{=fpdWiWfz}Shinichirō"/>
+      <name name="{=A2GoIvbc}Shinjirō"/>
+      <name name="{=Bti8upGR}Sinsaburō"/>
+      <name name="{=OMBLQ8zN}Shingorō"/>
+      <name name="{=CeFXPZ4y}Shinjurō"/>
       <name name="{=8AWswCXB}Shinsuke"/>
       <name name="{=u6o96I4Y}Shinnosuke"/>
       <name name="{=KT8o8D8j}Shinkichi"/>
-      <name name="{=QXoI9qum}Shinzo"/>
+      <name name="{=QXoI9qum}Shinzō"/>
       <name name="{=l4hS80xv}Shinbei"/>
       <name name="{=xGgjfTcH}Shinzaemon"/>
       <name name="{=nP12n3Fs}Shinemon"/>
-      <name name="{=2HEjtotK}Kantaro"/>
-      <name name="{=ctzwdIKa}Kanichiro"/>
-      <name name="{=nWOBDgpj}Kanjiro"/>
-      <name name="{=NbvnNk2S}Kanzaburo"/>
-      <name name="{=kN3o6xzR}Kangoro"/>
-      <name name="{=rtGBo128}Kanjuro"/>
+      <name name="{=2HEjtotK}Kantarō"/>
+      <name name="{=ctzwdIKa}Kannichirō"/>
+      <name name="{=nWOBDgpj}Kanjirō"/>
+      <name name="{=NbvnNk2S}Kanzaburō"/>
+      <name name="{=kN3o6xzR}Kangorō"/>
+      <name name="{=rtGBo128}Kanjūrō"/>
       <name name="{=YRDygFj6}Kansuke"/>
       <name name="{=cGq2zXGn}Kannosuke"/>
       <name name="{=2BhHfnxd}Kankichi"/>
-      <name name="{=eZOVCTrX}Kanzo"/>
+      <name name="{=eZOVCTrX}Kanzō"/>
       <name name="{=4Nkceif9}Kanbei"/>
       <name name="{=nP12n3Fs}Shinemon"/>
       <name name="{=xGgjfTcH}Shinzaemon"/>
-      <name name="{=pr5IdVlQ}Choutaro"/>
-      <name name="{=6get6Y8E}Chouichiro"/>
-      <name name="{=b9VnjeKp}Choujiro"/>
-      <name name="{=ZjsS13ws}Chouzaburo"/>
-      <name name="{=QP1vL1Z5}Chougoro"/>
-      <name name="{=onoKVXjp}Choujuro"/>
-      <name name="{=8Lqk2NsA}Chousuke"/>
-      <name name="{=XWldYuhm}Chouunosuke"/>
-      <name name="{=q1a85TXt}Choukichi"/>
-      <name name="{=QCC1D0p5}Chouzo"/>
-      <name name="{=uA1I8WpX}Choubei"/>
-      <name name="{=S34Gm8bG}Chouzaemon"/>
-      <name name="{=7wmjr9N6}Chouemon"/>
-      <name name="{=FyfAPTam}Yotaro"/>
-      <name name="{=5yIPZNOC}Yoichiro"/>
-      <name name="{=lK7DyjrE}Yojiro"/>
-      <name name="{=MJ1Oqpvu}Yosaburo"/>
-      <name name="{=JNR0uO1t}Yogoro"/>
-      <name name="{=73ORmCAk}Yojuro"/>
+      <name name="{=pr5IdVlQ}Chōtarō"/>
+      <name name="{=6get6Y8E}Chōichirō"/>
+      <name name="{=b9VnjeKp}Chōjirō"/>
+      <name name="{=ZjsS13ws}Chōzaburō"/>
+      <name name="{=QP1vL1Z5}Chōzgorō"/>
+      <name name="{=onoKVXjp}Chōjūrō"/>
+      <name name="{=8Lqk2NsA}Chōsuke"/>
+      <name name="{=XWldYuhm}Chōunosuke"/>
+      <name name="{=q1a85TXt}Chōkichi"/>
+      <name name="{=QCC1D0p5}Chōzō"/>
+      <name name="{=uA1I8WpX}Chōbei"/>
+      <name name="{=S34Gm8bG}Chōzaemon"/>
+      <name name="{=7wmjr9N6}Chōemon"/>
+      <name name="{=FyfAPTam}Yotarō"/>
+      <name name="{=5yIPZNOC}Yoichirō"/>
+      <name name="{=lK7DyjrE}Yojirō"/>
+      <name name="{=MJ1Oqpvu}Yosaburō"/>
+      <name name="{=JNR0uO1t}Yogorō"/>
+      <name name="{=73ORmCAk}Yojūrō"/>
       <name name="{=ZMYEFBjO}Yosuke"/>
       <name name="{=EgvAhszY}Yonosuke"/>
       <name name="{=NC96SIAV}Yokichi"/>
-      <name name="{=Xr2ZmWZw}Yozo"/>
+      <name name="{=Xr2ZmWZw}Yozō"/>
       <name name="{=29MCqLs8}Yohei"/>
       <name name="{=RPKbRH8T}Yozaemon"/>
       <name name="{=FcRcfWZy}Yoemon"/>
-      <name name="{=DhCSfZzt}Gentaro"/>
-      <name name="{=DvyQIA3d}Genichiro"/>
-      <name name="{=ItTycCE3}Genjiro"/>
-      <name name="{=8p1CMJc0}Genzaburo"/>
-      <name name="{=TZVh0WX4}Gengoro"/>
-      <name name="{=WFx5O7js}Genjuro"/>
+      <name name="{=DhCSfZzt}Gentarō"/>
+      <name name="{=DvyQIA3d}Genichirō"/>
+      <name name="{=ItTycCE3}Genjirō"/>
+      <name name="{=8p1CMJc0}Genzaburō"/>
+      <name name="{=TZVh0WX4}Gengorō"/>
+      <name name="{=WFx5O7js}Genjūrō"/>
       <name name="{=cJ2lc6t0}Gensuke"/>
       <name name="{=geoBdNT4}Gennosuke"/>
-      <name name="{=m7TQ90rZ}Genzo"/>
+      <name name="{=m7TQ90rZ}Genzō"/>
       <name name="{=TkJw9Duw}Gennai"/>
       <name name="{=Z1zN5otw}Genbei"/>
       <name name="{=AbuVBtV8}Genzaemon"/>
       <name name="{=AtsmKH9M}Genemon"/>
-      <name name="{=HG9UGvJg}Kotaro"/>
-      <name name="{=8kVtgCIk}Koichiro"/>
-      <name name="{=6vARoohf}Kojiro"/>
-      <name name="{=Ak4DXEag}Kosaburo"/>
-      <name name="{=xYhQ9Gab}Kogoro"/>
-      <name name="{=KFlqyj5C}Kojuro"/>
-      <name name="{=88kt2fqY}Shotaro"/>
-      <name name="{=lUXZJHsr}Shoichiro"/>
-      <name name="{=yylgHdJi}Shojiro"/>
-      <name name="{=WJocHKZm}Shosaburo"/>
-      <name name="{=aoezMSUO}Shogoro"/>
-      <name name="{=rKb72D2I}Shojuro"/>
-      <name name="{=8ZO6U0MK}Shosuke"/>
-      <name name="{=FKcnKXmS}Shonosuke"/>
-      <name name="{=w3AqbTQs}Shokichi"/>
-      <name name="{=m10TL2CQ}Shozo"/>
-      <name name="{=enQ9CtYF}Shobei"/>
-      <name name="{=yOuFJRP1}Shozaemon"/>
-      <name name="{=nitvYEGB}Shoemon"/>
-      <name name="{=V8VowuPM}Toutaro"/>
-      <name name="{=TaQeyQCL}Touichiro"/>
-      <name name="{=qXPONqPW}Toujiro"/>
-      <name name="{=FZDkXvEM}Tousaburo"/>
-      <name name="{=2z2LglVH}Tougoro"/>
-      <name name="{=V9bQ7Maa}Toujuro"/>
-      <name name="{=1QBVd4da}Tousuke"/>
-      <name name="{=SmVurwZt}Tounosuke"/>
-      <name name="{=Wq5qYwL7}Toukichi"/>
-      <name name="{=n1btMUnd}Touzo"/>
+      <name name="{=HG9UGvJg}Kotarō"/>
+      <name name="{=8kVtgCIk}Koichirō"/>
+      <name name="{=6vARoohf}Kojirō"/>
+      <name name="{=Ak4DXEag}Kosaburō"/>
+      <name name="{=xYhQ9Gab}Kogorō"/>
+      <name name="{=KFlqyj5C}Kojūrō"/>
+      <name name="{=88kt2fqY}Shōtarō"/>
+      <name name="{=lUXZJHsr}Shōichirō"/>
+      <name name="{=yylgHdJi}Shōjirō"/>
+      <name name="{=WJocHKZm}Shōsaburō"/>
+      <name name="{=aoezMSUO}Shōgorō"/>
+      <name name="{=rKb72D2I}Shōjūrō"/>
+      <name name="{=8ZO6U0MK}Shōsuke"/>
+      <name name="{=FKcnKXmS}Shōnosuke"/>
+      <name name="{=w3AqbTQs}Shōkichi"/>
+      <name name="{=m10TL2CQ}Shōzō"/>
+      <name name="{=enQ9CtYF}Shōbei"/>
+      <name name="{=yOuFJRP1}Shōzaemon"/>
+      <name name="{=nitvYEGB}Shōemon"/>
+      <name name="{=V8VowuPM}Tōarō"/>
+      <name name="{=TaQeyQCL}Tōichirō"/>
+      <name name="{=qXPONqPW}Tōjirō"/>
+      <name name="{=FZDkXvEM}Tōsaburō"/>
+      <name name="{=2z2LglVH}Tōgorō"/>
+      <name name="{=V9bQ7Maa}Tōjūrō"/>
+      <name name="{=1QBVd4da}Tōsuke"/>
+      <name name="{=SmVurwZt}Tōnosuke"/>
+      <name name="{=Wq5qYwL7}Tōkichi"/>
+      <name name="{=n1btMUnd}Tōzō"/>
       <name name="{=wsOx7Udj}Tounai"/>
-      <name name="{=ffaLCN8L}Toubei"/>
+      <name name="{=ffaLCN8L}Tōbei"/>
       <name name="{=WdoaF6Up}Touzaemon"/>
       <name name="{=0TrEYRKe}Touemon"/>
       <name name="{=cousoQ4k}Mataichiro"/>
@@ -2564,16 +2564,16 @@
       <name name="{=M24CQ7LC}Izaemon"/>
       <name name="{=0HhVmhAb}Iemon"/>
       <name name="{=M7NqDxH8}Sasuke"/>
-      <name name="{=mCtJGBTR}Tarozaemon"/>
-      <name name="{=0dcfuOXl}Taroemon"/>
-      <name name="{=MvkAmOXM}Jirozaemon"/>
+      <name name="{=mCtJGBTR}Tarōzaemon"/>
+      <name name="{=0dcfuOXl}Tarōemon"/>
+      <name name="{=MvkAmOXM}Jirōzaemon"/>
       <name name="{=6xKoyc6E}Hiroemon"/>
-      <name name="{=hNnejvkq}Saburozaemon"/>
-      <name name="{=h8G0fO3K}Saburoemon"/>
-      <name name="{=kNjiQUn5}Shirozaemon"/>
-      <name name="{=KeKB3A1g}Shiroemon"/>
-      <name name="{=p2JXgAFZ}Gorozaemon"/>
-      <name name="{=Z62OstUb}Goroemon"/>
+      <name name="{=hNnejvkq}Saburōzaemon"/>
+      <name name="{=h8G0fO3K}Saburōemon"/>
+      <name name="{=kNjiQUn5}Shirōzaemon"/>
+      <name name="{=KeKB3A1g}Shirōemon"/>
+      <name name="{=p2JXgAFZ}Gorōzaemon"/>
+      <name name="{=Z62OstUb}Gorōemon"/>
     </male_names>
     <female_names>
       <name name="{=ab4sZWzd}Ai"/>
@@ -2905,122 +2905,122 @@
       <policy id="policy_military_coronae"/>
     </default_policies>
     <male_names>
-      <name name="{=686xcJ5S}Taro"/>
-      <name name="{=xbwRkO5Z}Ichiro"/>
-      <name name="{=0T1OCfRY}Jiro"/>
-      <name name="{=1187gbgM}Saburo"/>
-      <name name="{=BN54hR9V}Shiro"/>
-      <name name="{=OfanclyF}Goro"/>
-      <name name="{=9wz88kH7}Rokuro"/>
-      <name name="{=pEnQ7qL8}Shichiro"/>
+      <name name="{=686xcJ5S}Tarō"/>
+      <name name="{=xbwRkO5Z}Ichirō"/>
+      <name name="{=0T1OCfRY}Jirō"/>
+      <name name="{=1187gbgM}Saburō"/>
+      <name name="{=BN54hR9V}Shirō"/>
+      <name name="{=OfanclyF}Gorō"/>
+      <name name="{=9wz88kH7}Rokurō"/>
+      <name name="{=pEnQ7qL8}Shichirō"/>
       <name name="{=BQEJpaKM}Hachiro"/>
-      <name name="{=Zf6pqP1S}Kuro"/>
-      <name name="{=F4wYBL82}Juro"/>
-      <name name="{=3cTGorVo}Jusuke"/>
-      <name name="{=4yJsfsiM}Suketaro"/>
-      <name name="{=XBtOokns}Sukejiro"/>
-      <name name="{=5P5FkBwH}Sukesaburo"/>
-      <name name="{=tubOfaxz}Sukeshiro"/>
-      <name name="{=3R5j7RYA}Sukegoro"/>
+      <name name="{=Zf6pqP1S}Kurō"/>
+      <name name="{=F4wYBL82}Jūrō"/>
+      <name name="{=3cTGorVo}Jūsuke"/>
+      <name name="{=4yJsfsiM}Suketarō"/>
+      <name name="{=XBtOokns}Sukejirō"/>
+      <name name="{=5P5FkBwH}Sukesaburō"/>
+      <name name="{=tubOfaxz}Sukeshirō"/>
+      <name name="{=3R5j7RYA}Sukegorō"/>
       <name name="{=Ds3cZg6r}Sukebei"/>
       <name name="{=nKMOkNFw}Sukezaemon"/>
       <name name="{=7iiIq9r6}Sukeemon"/>
-      <name name="{=kD70iJ3J}Shintaro"/>
-      <name name="{=fpdWiWfz}Shinichiro"/>
-      <name name="{=A2GoIvbc}Shinjiro"/>
-      <name name="{=Bti8upGR}Sinsaburo"/>
-      <name name="{=OMBLQ8zN}Shingoro"/>
-      <name name="{=CeFXPZ4y}Shinjuro"/>
+      <name name="{=kD70iJ3J}Shintarō"/>
+      <name name="{=fpdWiWfz}Shinichirō"/>
+      <name name="{=A2GoIvbc}Shinjirō"/>
+      <name name="{=Bti8upGR}Sinsaburō"/>
+      <name name="{=OMBLQ8zN}Shingorō"/>
+      <name name="{=CeFXPZ4y}Shinjurō"/>
       <name name="{=8AWswCXB}Shinsuke"/>
       <name name="{=u6o96I4Y}Shinnosuke"/>
       <name name="{=KT8o8D8j}Shinkichi"/>
-      <name name="{=QXoI9qum}Shinzo"/>
+      <name name="{=QXoI9qum}Shinzō"/>
       <name name="{=l4hS80xv}Shinbei"/>
       <name name="{=xGgjfTcH}Shinzaemon"/>
       <name name="{=nP12n3Fs}Shinemon"/>
-      <name name="{=2HEjtotK}Kantaro"/>
-      <name name="{=ctzwdIKa}Kanichiro"/>
-      <name name="{=nWOBDgpj}Kanjiro"/>
-      <name name="{=NbvnNk2S}Kanzaburo"/>
-      <name name="{=kN3o6xzR}Kangoro"/>
-      <name name="{=rtGBo128}Kanjuro"/>
+      <name name="{=2HEjtotK}Kantarō"/>
+      <name name="{=ctzwdIKa}Kannichirō"/>
+      <name name="{=nWOBDgpj}Kanjirō"/>
+      <name name="{=NbvnNk2S}Kanzaburō"/>
+      <name name="{=kN3o6xzR}Kangorō"/>
+      <name name="{=rtGBo128}Kanjūrō"/>
       <name name="{=YRDygFj6}Kansuke"/>
       <name name="{=cGq2zXGn}Kannosuke"/>
       <name name="{=2BhHfnxd}Kankichi"/>
-      <name name="{=eZOVCTrX}Kanzo"/>
+      <name name="{=eZOVCTrX}Kanzō"/>
       <name name="{=4Nkceif9}Kanbei"/>
       <name name="{=nP12n3Fs}Shinemon"/>
       <name name="{=xGgjfTcH}Shinzaemon"/>
-      <name name="{=pr5IdVlQ}Choutaro"/>
-      <name name="{=6get6Y8E}Chouichiro"/>
-      <name name="{=b9VnjeKp}Choujiro"/>
-      <name name="{=ZjsS13ws}Chouzaburo"/>
-      <name name="{=QP1vL1Z5}Chougoro"/>
-      <name name="{=onoKVXjp}Choujuro"/>
-      <name name="{=8Lqk2NsA}Chousuke"/>
-      <name name="{=XWldYuhm}Chouunosuke"/>
-      <name name="{=q1a85TXt}Choukichi"/>
-      <name name="{=QCC1D0p5}Chouzo"/>
-      <name name="{=uA1I8WpX}Choubei"/>
-      <name name="{=S34Gm8bG}Chouzaemon"/>
-      <name name="{=7wmjr9N6}Chouemon"/>
-      <name name="{=FyfAPTam}Yotaro"/>
-      <name name="{=5yIPZNOC}Yoichiro"/>
-      <name name="{=lK7DyjrE}Yojiro"/>
-      <name name="{=MJ1Oqpvu}Yosaburo"/>
-      <name name="{=JNR0uO1t}Yogoro"/>
-      <name name="{=73ORmCAk}Yojuro"/>
+      <name name="{=pr5IdVlQ}Chōtarō"/>
+      <name name="{=6get6Y8E}Chōichirō"/>
+      <name name="{=b9VnjeKp}Chōjirō"/>
+      <name name="{=ZjsS13ws}Chōzaburō"/>
+      <name name="{=QP1vL1Z5}Chōzgorō"/>
+      <name name="{=onoKVXjp}Chōjūrō"/>
+      <name name="{=8Lqk2NsA}Chōsuke"/>
+      <name name="{=XWldYuhm}Chōunosuke"/>
+      <name name="{=q1a85TXt}Chōkichi"/>
+      <name name="{=QCC1D0p5}Chōzō"/>
+      <name name="{=uA1I8WpX}Chōbei"/>
+      <name name="{=S34Gm8bG}Chōzaemon"/>
+      <name name="{=7wmjr9N6}Chōemon"/>
+      <name name="{=FyfAPTam}Yotarō"/>
+      <name name="{=5yIPZNOC}Yoichirō"/>
+      <name name="{=lK7DyjrE}Yojirō"/>
+      <name name="{=MJ1Oqpvu}Yosaburō"/>
+      <name name="{=JNR0uO1t}Yogorō"/>
+      <name name="{=73ORmCAk}Yojūrō"/>
       <name name="{=ZMYEFBjO}Yosuke"/>
       <name name="{=EgvAhszY}Yonosuke"/>
       <name name="{=NC96SIAV}Yokichi"/>
-      <name name="{=Xr2ZmWZw}Yozo"/>
+      <name name="{=Xr2ZmWZw}Yozō"/>
       <name name="{=29MCqLs8}Yohei"/>
       <name name="{=RPKbRH8T}Yozaemon"/>
       <name name="{=FcRcfWZy}Yoemon"/>
-      <name name="{=DhCSfZzt}Gentaro"/>
-      <name name="{=DvyQIA3d}Genichiro"/>
-      <name name="{=ItTycCE3}Genjiro"/>
-      <name name="{=8p1CMJc0}Genzaburo"/>
-      <name name="{=TZVh0WX4}Gengoro"/>
-      <name name="{=WFx5O7js}Genjuro"/>
+      <name name="{=DhCSfZzt}Gentarō"/>
+      <name name="{=DvyQIA3d}Genichirō"/>
+      <name name="{=ItTycCE3}Genjirō"/>
+      <name name="{=8p1CMJc0}Genzaburō"/>
+      <name name="{=TZVh0WX4}Gengorō"/>
+      <name name="{=WFx5O7js}Genjūrō"/>
       <name name="{=cJ2lc6t0}Gensuke"/>
       <name name="{=geoBdNT4}Gennosuke"/>
-      <name name="{=m7TQ90rZ}Genzo"/>
+      <name name="{=m7TQ90rZ}Genzō"/>
       <name name="{=TkJw9Duw}Gennai"/>
       <name name="{=Z1zN5otw}Genbei"/>
       <name name="{=AbuVBtV8}Genzaemon"/>
       <name name="{=AtsmKH9M}Genemon"/>
-      <name name="{=HG9UGvJg}Kotaro"/>
-      <name name="{=8kVtgCIk}Koichiro"/>
-      <name name="{=6vARoohf}Kojiro"/>
-      <name name="{=Ak4DXEag}Kosaburo"/>
-      <name name="{=xYhQ9Gab}Kogoro"/>
-      <name name="{=KFlqyj5C}Kojuro"/>
-      <name name="{=88kt2fqY}Shotaro"/>
-      <name name="{=lUXZJHsr}Shoichiro"/>
-      <name name="{=yylgHdJi}Shojiro"/>
-      <name name="{=WJocHKZm}Shosaburo"/>
-      <name name="{=aoezMSUO}Shogoro"/>
-      <name name="{=rKb72D2I}Shojuro"/>
-      <name name="{=8ZO6U0MK}Shosuke"/>
-      <name name="{=FKcnKXmS}Shonosuke"/>
-      <name name="{=w3AqbTQs}Shokichi"/>
-      <name name="{=m10TL2CQ}Shozo"/>
-      <name name="{=enQ9CtYF}Shobei"/>
-      <name name="{=yOuFJRP1}Shozaemon"/>
-      <name name="{=nitvYEGB}Shoemon"/>
-      <name name="{=V8VowuPM}Toutaro"/>
-      <name name="{=TaQeyQCL}Touichiro"/>
-      <name name="{=qXPONqPW}Toujiro"/>
-      <name name="{=FZDkXvEM}Tousaburo"/>
-      <name name="{=2z2LglVH}Tougoro"/>
-      <name name="{=V9bQ7Maa}Toujuro"/>
-      <name name="{=1QBVd4da}Tousuke"/>
-      <name name="{=SmVurwZt}Tounosuke"/>
-      <name name="{=Wq5qYwL7}Toukichi"/>
-      <name name="{=n1btMUnd}Touzo"/>
+      <name name="{=HG9UGvJg}Kotarō"/>
+      <name name="{=8kVtgCIk}Koichirō"/>
+      <name name="{=6vARoohf}Kojirō"/>
+      <name name="{=Ak4DXEag}Kosaburō"/>
+      <name name="{=xYhQ9Gab}Kogorō"/>
+      <name name="{=KFlqyj5C}Kojūrō"/>
+      <name name="{=88kt2fqY}Shōtarō"/>
+      <name name="{=lUXZJHsr}Shōichirō"/>
+      <name name="{=yylgHdJi}Shōjirō"/>
+      <name name="{=WJocHKZm}Shōsaburō"/>
+      <name name="{=aoezMSUO}Shōgorō"/>
+      <name name="{=rKb72D2I}Shōjūrō"/>
+      <name name="{=8ZO6U0MK}Shōsuke"/>
+      <name name="{=FKcnKXmS}Shōnosuke"/>
+      <name name="{=w3AqbTQs}Shōkichi"/>
+      <name name="{=m10TL2CQ}Shōzō"/>
+      <name name="{=enQ9CtYF}Shōbei"/>
+      <name name="{=yOuFJRP1}Shōzaemon"/>
+      <name name="{=nitvYEGB}Shōemon"/>
+      <name name="{=V8VowuPM}Tōarō"/>
+      <name name="{=TaQeyQCL}Tōichirō"/>
+      <name name="{=qXPONqPW}Tōjirō"/>
+      <name name="{=FZDkXvEM}Tōsaburō"/>
+      <name name="{=2z2LglVH}Tōgorō"/>
+      <name name="{=V9bQ7Maa}Tōjūrō"/>
+      <name name="{=1QBVd4da}Tōsuke"/>
+      <name name="{=SmVurwZt}Tōnosuke"/>
+      <name name="{=Wq5qYwL7}Tōkichi"/>
+      <name name="{=n1btMUnd}Tōzō"/>
       <name name="{=wsOx7Udj}Tounai"/>
-      <name name="{=ffaLCN8L}Toubei"/>
+      <name name="{=ffaLCN8L}Tōbei"/>
       <name name="{=WdoaF6Up}Touzaemon"/>
       <name name="{=0TrEYRKe}Touemon"/>
       <name name="{=cousoQ4k}Mataichiro"/>
@@ -3285,16 +3285,16 @@
       <name name="{=M24CQ7LC}Izaemon"/>
       <name name="{=0HhVmhAb}Iemon"/>
       <name name="{=M7NqDxH8}Sasuke"/>
-      <name name="{=mCtJGBTR}Tarozaemon"/>
-      <name name="{=0dcfuOXl}Taroemon"/>
-      <name name="{=MvkAmOXM}Jirozaemon"/>
+      <name name="{=mCtJGBTR}Tarōzaemon"/>
+      <name name="{=0dcfuOXl}Tarōemon"/>
+      <name name="{=MvkAmOXM}Jirōzaemon"/>
       <name name="{=6xKoyc6E}Hiroemon"/>
-      <name name="{=hNnejvkq}Saburozaemon"/>
-      <name name="{=h8G0fO3K}Saburoemon"/>
-      <name name="{=kNjiQUn5}Shirozaemon"/>
-      <name name="{=KeKB3A1g}Shiroemon"/>
-      <name name="{=p2JXgAFZ}Gorozaemon"/>
-      <name name="{=Z62OstUb}Goroemon"/>
+      <name name="{=hNnejvkq}Saburōzaemon"/>
+      <name name="{=h8G0fO3K}Saburōemon"/>
+      <name name="{=kNjiQUn5}Shirōzaemon"/>
+      <name name="{=KeKB3A1g}Shirōemon"/>
+      <name name="{=p2JXgAFZ}Gorōzaemon"/>
+      <name name="{=Z62OstUb}Gorōemon"/>
     </male_names>
     <female_names>
       <name name="{=ab4sZWzd}Ai"/>
@@ -3513,7 +3513,7 @@
       <name name="{=IVbOeER4}Ruri"/>
     </female_names>
     <clan_names>
-      <name name="{=dfGXCBX7}Nakajo"/>
+      <name name="{=dfGXCBX7}Nakajō"/>
       <name name="{=g1f9NiGl}Kaji"/>
       <name name="{=SbQU8rIG}Takemata"/>
       <name name="{=ixwubTRf}Hirako"/>
@@ -3526,7 +3526,7 @@
       <name name="{=VFSpSdTs}Isiguro"/>
       <name name="{=LNL0fpnx}Kuramitsu"/>
       <name name="{=H4V33j6B}Yokoyama"/>
-      <name name="{=sdBWDJQR}Uryu"/>
+      <name name="{=sdBWDJQR}Uryū"/>
       <name name="{=zK2a2OoY}Awaya"/>
       <name name="{=MzDkJCKE}Ōkuma"/>
       <name name="{=XXcP53zB}Kamijo"/>
@@ -3626,122 +3626,122 @@
       <policy id="policy_hunting_rights"/>
     </default_policies>
     <male_names>
-      <name name="{=686xcJ5S}Taro"/>
-      <name name="{=xbwRkO5Z}Ichiro"/>
-      <name name="{=0T1OCfRY}Jiro"/>
-      <name name="{=1187gbgM}Saburo"/>
-      <name name="{=BN54hR9V}Shiro"/>
-      <name name="{=OfanclyF}Goro"/>
-      <name name="{=9wz88kH7}Rokuro"/>
-      <name name="{=pEnQ7qL8}Shichiro"/>
-      <name name="{=BQEJpaKM}Hachiro"/>
-      <name name="{=Zf6pqP1S}Kuro"/>
-      <name name="{=F4wYBL82}Juro"/>
-      <name name="{=3cTGorVo}Jusuke"/>
-      <name name="{=4yJsfsiM}Suketaro"/>
-      <name name="{=XBtOokns}Sukejiro"/>
-      <name name="{=5P5FkBwH}Sukesaburo"/>
-      <name name="{=tubOfaxz}Sukeshiro"/>
-      <name name="{=3R5j7RYA}Sukegoro"/>
+      <name name="{=686xcJ5S}Tarō"/>
+      <name name="{=xbwRkO5Z}Ichirō"/>
+      <name name="{=0T1OCfRY}Jirō"/>
+      <name name="{=1187gbgM}Saburō"/>
+      <name name="{=BN54hR9V}Shirō"/>
+      <name name="{=OfanclyF}Gorō"/>
+      <name name="{=9wz88kH7}Rokurō"/>
+      <name name="{=pEnQ7qL8}Shichirō"/>
+      <name name="{=BQEJpaKM}Hachirō"/>
+      <name name="{=Zf6pqP1S}Kurō"/>
+      <name name="{=F4wYBL82}Jurō"/>
+      <name name="{=3cTGorVo}Jūsuke"/>
+      <name name="{=4yJsfsiM}Suketarō"/>
+      <name name="{=XBtOokns}Sukejirō"/>
+      <name name="{=5P5FkBwH}Sukesaburō"/>
+      <name name="{=tubOfaxz}Sukeshirō"/>
+      <name name="{=3R5j7RYA}Sukegorō"/>
       <name name="{=Ds3cZg6r}Sukebei"/>
       <name name="{=nKMOkNFw}Sukezaemon"/>
       <name name="{=7iiIq9r6}Sukeemon"/>
-      <name name="{=kD70iJ3J}Shintaro"/>
-      <name name="{=fpdWiWfz}Shinichiro"/>
-      <name name="{=A2GoIvbc}Shinjiro"/>
-      <name name="{=Bti8upGR}Sinsaburo"/>
-      <name name="{=OMBLQ8zN}Shingoro"/>
-      <name name="{=CeFXPZ4y}Shinjuro"/>
+      <name name="{=kD70iJ3J}Shintarō"/>
+      <name name="{=fpdWiWfz}Shinichirō"/>
+      <name name="{=A2GoIvbc}Shinjirō"/>
+      <name name="{=Bti8upGR}Sinsaburō"/>
+      <name name="{=OMBLQ8zN}Shingorō"/>
+      <name name="{=CeFXPZ4y}Shinjurō"/>
       <name name="{=8AWswCXB}Shinsuke"/>
       <name name="{=u6o96I4Y}Shinnosuke"/>
       <name name="{=KT8o8D8j}Shinkichi"/>
-      <name name="{=QXoI9qum}Shinzo"/>
+      <name name="{=QXoI9qum}Shinzō"/>
       <name name="{=l4hS80xv}Shinbei"/>
       <name name="{=xGgjfTcH}Shinzaemon"/>
       <name name="{=nP12n3Fs}Shinemon"/>
-      <name name="{=2HEjtotK}Kantaro"/>
-      <name name="{=ctzwdIKa}Kanichiro"/>
-      <name name="{=nWOBDgpj}Kanjiro"/>
-      <name name="{=NbvnNk2S}Kanzaburo"/>
-      <name name="{=kN3o6xzR}Kangoro"/>
-      <name name="{=rtGBo128}Kanjuro"/>
+      <name name="{=2HEjtotK}Kantarō"/>
+      <name name="{=ctzwdIKa}Kannichirō"/>
+      <name name="{=nWOBDgpj}Kanjirō"/>
+      <name name="{=NbvnNk2S}Kanzaburō"/>
+      <name name="{=kN3o6xzR}Kangorō"/>
+      <name name="{=rtGBo128}Kanjūrō"/>
       <name name="{=YRDygFj6}Kansuke"/>
       <name name="{=cGq2zXGn}Kannosuke"/>
       <name name="{=2BhHfnxd}Kankichi"/>
-      <name name="{=eZOVCTrX}Kanzo"/>
+      <name name="{=eZOVCTrX}Kanzō"/>
       <name name="{=4Nkceif9}Kanbei"/>
       <name name="{=nP12n3Fs}Shinemon"/>
       <name name="{=xGgjfTcH}Shinzaemon"/>
-      <name name="{=pr5IdVlQ}Choutaro"/>
-      <name name="{=6get6Y8E}Chouichiro"/>
-      <name name="{=b9VnjeKp}Choujiro"/>
-      <name name="{=ZjsS13ws}Chouzaburo"/>
-      <name name="{=QP1vL1Z5}Chougoro"/>
-      <name name="{=onoKVXjp}Choujuro"/>
-      <name name="{=8Lqk2NsA}Chousuke"/>
-      <name name="{=XWldYuhm}Chouunosuke"/>
-      <name name="{=q1a85TXt}Choukichi"/>
-      <name name="{=QCC1D0p5}Chouzo"/>
-      <name name="{=uA1I8WpX}Choubei"/>
-      <name name="{=S34Gm8bG}Chouzaemon"/>
-      <name name="{=7wmjr9N6}Chouemon"/>
-      <name name="{=FyfAPTam}Yotaro"/>
-      <name name="{=5yIPZNOC}Yoichiro"/>
-      <name name="{=lK7DyjrE}Yojiro"/>
-      <name name="{=MJ1Oqpvu}Yosaburo"/>
-      <name name="{=JNR0uO1t}Yogoro"/>
-      <name name="{=73ORmCAk}Yojuro"/>
+      <name name="{=pr5IdVlQ}Chōtarō"/>
+      <name name="{=6get6Y8E}Chōichirō"/>
+      <name name="{=b9VnjeKp}Chōjirō"/>
+      <name name="{=ZjsS13ws}Chōzaburō"/>
+      <name name="{=QP1vL1Z5}Chōzgorō"/>
+      <name name="{=onoKVXjp}Chōjūrō"/>
+      <name name="{=8Lqk2NsA}Chōsuke"/>
+      <name name="{=XWldYuhm}Chōunosuke"/>
+      <name name="{=q1a85TXt}Chōkichi"/>
+      <name name="{=QCC1D0p5}Chōzō"/>
+      <name name="{=uA1I8WpX}Chōbei"/>
+      <name name="{=S34Gm8bG}Chōzaemon"/>
+      <name name="{=7wmjr9N6}Chōemon"/>
+      <name name="{=FyfAPTam}Yotarō"/>
+      <name name="{=5yIPZNOC}Yoichirō"/>
+      <name name="{=lK7DyjrE}Yojirō"/>
+      <name name="{=MJ1Oqpvu}Yosaburō"/>
+      <name name="{=JNR0uO1t}Yogorō"/>
+      <name name="{=73ORmCAk}Yojūrō"/>
       <name name="{=ZMYEFBjO}Yosuke"/>
       <name name="{=EgvAhszY}Yonosuke"/>
       <name name="{=NC96SIAV}Yokichi"/>
-      <name name="{=Xr2ZmWZw}Yozo"/>
+      <name name="{=Xr2ZmWZw}Yozō"/>
       <name name="{=29MCqLs8}Yohei"/>
       <name name="{=RPKbRH8T}Yozaemon"/>
       <name name="{=FcRcfWZy}Yoemon"/>
-      <name name="{=DhCSfZzt}Gentaro"/>
-      <name name="{=DvyQIA3d}Genichiro"/>
-      <name name="{=ItTycCE3}Genjiro"/>
-      <name name="{=8p1CMJc0}Genzaburo"/>
-      <name name="{=TZVh0WX4}Gengoro"/>
-      <name name="{=WFx5O7js}Genjuro"/>
+      <name name="{=DhCSfZzt}Gentarō"/>
+      <name name="{=DvyQIA3d}Genichirō"/>
+      <name name="{=ItTycCE3}Genjirō"/>
+      <name name="{=8p1CMJc0}Genzaburō"/>
+      <name name="{=TZVh0WX4}Gengorō"/>
+      <name name="{=WFx5O7js}Genjūrō"/>
       <name name="{=cJ2lc6t0}Gensuke"/>
       <name name="{=geoBdNT4}Gennosuke"/>
-      <name name="{=m7TQ90rZ}Genzo"/>
+      <name name="{=m7TQ90rZ}Genzō"/>
       <name name="{=TkJw9Duw}Gennai"/>
       <name name="{=Z1zN5otw}Genbei"/>
       <name name="{=AbuVBtV8}Genzaemon"/>
       <name name="{=AtsmKH9M}Genemon"/>
-      <name name="{=HG9UGvJg}Kotaro"/>
-      <name name="{=8kVtgCIk}Koichiro"/>
-      <name name="{=6vARoohf}Kojiro"/>
-      <name name="{=Ak4DXEag}Kosaburo"/>
-      <name name="{=xYhQ9Gab}Kogoro"/>
-      <name name="{=KFlqyj5C}Kojuro"/>
-      <name name="{=88kt2fqY}Shotaro"/>
-      <name name="{=lUXZJHsr}Shoichiro"/>
-      <name name="{=yylgHdJi}Shojiro"/>
-      <name name="{=WJocHKZm}Shosaburo"/>
-      <name name="{=aoezMSUO}Shogoro"/>
-      <name name="{=rKb72D2I}Shojuro"/>
-      <name name="{=8ZO6U0MK}Shosuke"/>
-      <name name="{=FKcnKXmS}Shonosuke"/>
-      <name name="{=w3AqbTQs}Shokichi"/>
-      <name name="{=m10TL2CQ}Shozo"/>
-      <name name="{=enQ9CtYF}Shobei"/>
-      <name name="{=yOuFJRP1}Shozaemon"/>
-      <name name="{=nitvYEGB}Shoemon"/>
-      <name name="{=V8VowuPM}Toutaro"/>
-      <name name="{=TaQeyQCL}Touichiro"/>
-      <name name="{=qXPONqPW}Toujiro"/>
-      <name name="{=FZDkXvEM}Tousaburo"/>
-      <name name="{=2z2LglVH}Tougoro"/>
-      <name name="{=V9bQ7Maa}Toujuro"/>
-      <name name="{=1QBVd4da}Tousuke"/>
-      <name name="{=SmVurwZt}Tounosuke"/>
-      <name name="{=Wq5qYwL7}Toukichi"/>
-      <name name="{=n1btMUnd}Touzo"/>
+      <name name="{=HG9UGvJg}Kotarō"/>
+      <name name="{=8kVtgCIk}Koichirō"/>
+      <name name="{=6vARoohf}Kojirō"/>
+      <name name="{=Ak4DXEag}Kosaburō"/>
+      <name name="{=xYhQ9Gab}Kogorō"/>
+      <name name="{=KFlqyj5C}Kojūrō"/>
+      <name name="{=88kt2fqY}Shōtarō"/>
+      <name name="{=lUXZJHsr}Shōichirō"/>
+      <name name="{=yylgHdJi}Shōjirō"/>
+      <name name="{=WJocHKZm}Shōsaburō"/>
+      <name name="{=aoezMSUO}Shōgorō"/>
+      <name name="{=rKb72D2I}Shōjūrō"/>
+      <name name="{=8ZO6U0MK}Shōsuke"/>
+      <name name="{=FKcnKXmS}Shōnosuke"/>
+      <name name="{=w3AqbTQs}Shōkichi"/>
+      <name name="{=m10TL2CQ}Shōzō"/>
+      <name name="{=enQ9CtYF}Shōbei"/>
+      <name name="{=yOuFJRP1}Shōzaemon"/>
+      <name name="{=nitvYEGB}Shōemon"/>
+      <name name="{=V8VowuPM}Tōarō"/>
+      <name name="{=TaQeyQCL}Tōichirō"/>
+      <name name="{=qXPONqPW}Tōjirō"/>
+      <name name="{=FZDkXvEM}Tōsaburō"/>
+      <name name="{=2z2LglVH}Tōgorō"/>
+      <name name="{=V9bQ7Maa}Tōjūrō"/>
+      <name name="{=1QBVd4da}Tōsuke"/>
+      <name name="{=SmVurwZt}Tōnosuke"/>
+      <name name="{=Wq5qYwL7}Tōkichi"/>
+      <name name="{=n1btMUnd}Tōzō"/>
       <name name="{=wsOx7Udj}Tounai"/>
-      <name name="{=ffaLCN8L}Toubei"/>
+      <name name="{=ffaLCN8L}Tōbei"/>
       <name name="{=WdoaF6Up}Touzaemon"/>
       <name name="{=0TrEYRKe}Touemon"/>
       <name name="{=cousoQ4k}Mataichiro"/>
@@ -4006,16 +4006,16 @@
       <name name="{=M24CQ7LC}Izaemon"/>
       <name name="{=0HhVmhAb}Iemon"/>
       <name name="{=M7NqDxH8}Sasuke"/>
-      <name name="{=mCtJGBTR}Tarozaemon"/>
-      <name name="{=0dcfuOXl}Taroemon"/>
-      <name name="{=MvkAmOXM}Jirozaemon"/>
+      <name name="{=mCtJGBTR}Tarōzaemon"/>
+      <name name="{=0dcfuOXl}Tarōemon"/>
+      <name name="{=MvkAmOXM}Jirōzaemon"/>
       <name name="{=6xKoyc6E}Hiroemon"/>
-      <name name="{=hNnejvkq}Saburozaemon"/>
-      <name name="{=h8G0fO3K}Saburoemon"/>
-      <name name="{=kNjiQUn5}Shirozaemon"/>
-      <name name="{=KeKB3A1g}Shiroemon"/>
-      <name name="{=p2JXgAFZ}Gorozaemon"/>
-      <name name="{=Z62OstUb}Goroemon"/>
+      <name name="{=hNnejvkq}Saburōzaemon"/>
+      <name name="{=h8G0fO3K}Saburōemon"/>
+      <name name="{=kNjiQUn5}Shirōzaemon"/>
+      <name name="{=KeKB3A1g}Shirōemon"/>
+      <name name="{=p2JXgAFZ}Gorōzaemon"/>
+      <name name="{=Z62OstUb}Gorōemon"/>
     </male_names>
     <female_names>
       <name name="{=ab4sZWzd}Ai"/>
@@ -4235,7 +4235,7 @@
     </female_names>
     <clan_names>
       <name name="{=Ugk9KYNS}Fujisawa"/>
-      <name name="{=BAvYCzuQ}Shimojo"/>
+      <name name="{=BAvYCzuQ}Shimojō"/>
       <name name="{=jdxpV7wS}Mochizuki"/>
       <name name="{=kq6avh9h}Ōi"/>
       <name name="{=gGGTekAP}Yashiro"/>
@@ -4347,122 +4347,122 @@
       <policy id="policy_lawspeakers"/>
     </default_policies>
     <male_names>
-      <name name="{=686xcJ5S}Taro"/>
-      <name name="{=xbwRkO5Z}Ichiro"/>
-      <name name="{=0T1OCfRY}Jiro"/>
-      <name name="{=1187gbgM}Saburo"/>
-      <name name="{=BN54hR9V}Shiro"/>
-      <name name="{=OfanclyF}Goro"/>
-      <name name="{=9wz88kH7}Rokuro"/>
-      <name name="{=pEnQ7qL8}Shichiro"/>
-      <name name="{=BQEJpaKM}Hachiro"/>
-      <name name="{=Zf6pqP1S}Kuro"/>
-      <name name="{=F4wYBL82}Juro"/>
-      <name name="{=3cTGorVo}Jusuke"/>
-      <name name="{=4yJsfsiM}Suketaro"/>
-      <name name="{=XBtOokns}Sukejiro"/>
-      <name name="{=5P5FkBwH}Sukesaburo"/>
-      <name name="{=tubOfaxz}Sukeshiro"/>
-      <name name="{=3R5j7RYA}Sukegoro"/>
+      <name name="{=686xcJ5S}Tarō"/>
+      <name name="{=xbwRkO5Z}Ichirō"/>
+      <name name="{=0T1OCfRY}Jirō"/>
+      <name name="{=1187gbgM}Saburō"/>
+      <name name="{=BN54hR9V}Shirō"/>
+      <name name="{=OfanclyF}Gorō"/>
+      <name name="{=9wz88kH7}Rokurō"/>
+      <name name="{=pEnQ7qL8}Shichirō"/>
+      <name name="{=BQEJpaKM}Hachirō"/>
+      <name name="{=Zf6pqP1S}Kurō"/>
+      <name name="{=F4wYBL82}Jurō"/>
+      <name name="{=3cTGorVo}Jūsuke"/>
+      <name name="{=4yJsfsiM}Suketarō"/>
+      <name name="{=XBtOokns}Sukejirō"/>
+      <name name="{=5P5FkBwH}Sukesaburō"/>
+      <name name="{=tubOfaxz}Sukeshirō"/>
+      <name name="{=3R5j7RYA}Sukegorō"/>
       <name name="{=Ds3cZg6r}Sukebei"/>
       <name name="{=nKMOkNFw}Sukezaemon"/>
       <name name="{=7iiIq9r6}Sukeemon"/>
-      <name name="{=kD70iJ3J}Shintaro"/>
-      <name name="{=fpdWiWfz}Shinichiro"/>
-      <name name="{=A2GoIvbc}Shinjiro"/>
-      <name name="{=Bti8upGR}Sinsaburo"/>
-      <name name="{=OMBLQ8zN}Shingoro"/>
-      <name name="{=CeFXPZ4y}Shinjuro"/>
+      <name name="{=kD70iJ3J}Shintarō"/>
+      <name name="{=fpdWiWfz}Shinichirō"/>
+      <name name="{=A2GoIvbc}Shinjirō"/>
+      <name name="{=Bti8upGR}Sinsaburō"/>
+      <name name="{=OMBLQ8zN}Shingorō"/>
+      <name name="{=CeFXPZ4y}Shinjurō"/>
       <name name="{=8AWswCXB}Shinsuke"/>
       <name name="{=u6o96I4Y}Shinnosuke"/>
       <name name="{=KT8o8D8j}Shinkichi"/>
-      <name name="{=QXoI9qum}Shinzo"/>
+      <name name="{=QXoI9qum}Shinzō"/>
       <name name="{=l4hS80xv}Shinbei"/>
       <name name="{=xGgjfTcH}Shinzaemon"/>
       <name name="{=nP12n3Fs}Shinemon"/>
-      <name name="{=2HEjtotK}Kantaro"/>
-      <name name="{=ctzwdIKa}Kanichiro"/>
-      <name name="{=nWOBDgpj}Kanjiro"/>
-      <name name="{=NbvnNk2S}Kanzaburo"/>
-      <name name="{=kN3o6xzR}Kangoro"/>
-      <name name="{=rtGBo128}Kanjuro"/>
+      <name name="{=2HEjtotK}Kantarō"/>
+      <name name="{=ctzwdIKa}Kannichirō"/>
+      <name name="{=nWOBDgpj}Kanjirō"/>
+      <name name="{=NbvnNk2S}Kanzaburō"/>
+      <name name="{=kN3o6xzR}Kangorō"/>
+      <name name="{=rtGBo128}Kanjūrō"/>
       <name name="{=YRDygFj6}Kansuke"/>
       <name name="{=cGq2zXGn}Kannosuke"/>
       <name name="{=2BhHfnxd}Kankichi"/>
-      <name name="{=eZOVCTrX}Kanzo"/>
+      <name name="{=eZOVCTrX}Kanzō"/>
       <name name="{=4Nkceif9}Kanbei"/>
       <name name="{=nP12n3Fs}Shinemon"/>
       <name name="{=xGgjfTcH}Shinzaemon"/>
-      <name name="{=pr5IdVlQ}Choutaro"/>
-      <name name="{=6get6Y8E}Chouichiro"/>
-      <name name="{=b9VnjeKp}Choujiro"/>
-      <name name="{=ZjsS13ws}Chouzaburo"/>
-      <name name="{=QP1vL1Z5}Chougoro"/>
-      <name name="{=onoKVXjp}Choujuro"/>
-      <name name="{=8Lqk2NsA}Chousuke"/>
-      <name name="{=XWldYuhm}Chouunosuke"/>
-      <name name="{=q1a85TXt}Choukichi"/>
-      <name name="{=QCC1D0p5}Chouzo"/>
-      <name name="{=uA1I8WpX}Choubei"/>
-      <name name="{=S34Gm8bG}Chouzaemon"/>
-      <name name="{=7wmjr9N6}Chouemon"/>
-      <name name="{=FyfAPTam}Yotaro"/>
-      <name name="{=5yIPZNOC}Yoichiro"/>
-      <name name="{=lK7DyjrE}Yojiro"/>
-      <name name="{=MJ1Oqpvu}Yosaburo"/>
-      <name name="{=JNR0uO1t}Yogoro"/>
-      <name name="{=73ORmCAk}Yojuro"/>
+      <name name="{=pr5IdVlQ}Chōtarō"/>
+      <name name="{=6get6Y8E}Chōichirō"/>
+      <name name="{=b9VnjeKp}Chōjirō"/>
+      <name name="{=ZjsS13ws}Chōzaburō"/>
+      <name name="{=QP1vL1Z5}Chōzgorō"/>
+      <name name="{=onoKVXjp}Chōjūrō"/>
+      <name name="{=8Lqk2NsA}Chōsuke"/>
+      <name name="{=XWldYuhm}Chōunosuke"/>
+      <name name="{=q1a85TXt}Chōkichi"/>
+      <name name="{=QCC1D0p5}Chōzō"/>
+      <name name="{=uA1I8WpX}Chōbei"/>
+      <name name="{=S34Gm8bG}Chōzaemon"/>
+      <name name="{=7wmjr9N6}Chōemon"/>
+      <name name="{=FyfAPTam}Yotarō"/>
+      <name name="{=5yIPZNOC}Yoichirō"/>
+      <name name="{=lK7DyjrE}Yojirō"/>
+      <name name="{=MJ1Oqpvu}Yosaburō"/>
+      <name name="{=JNR0uO1t}Yogorō"/>
+      <name name="{=73ORmCAk}Yojūrō"/>
       <name name="{=ZMYEFBjO}Yosuke"/>
       <name name="{=EgvAhszY}Yonosuke"/>
       <name name="{=NC96SIAV}Yokichi"/>
-      <name name="{=Xr2ZmWZw}Yozo"/>
+      <name name="{=Xr2ZmWZw}Yozō"/>
       <name name="{=29MCqLs8}Yohei"/>
       <name name="{=RPKbRH8T}Yozaemon"/>
       <name name="{=FcRcfWZy}Yoemon"/>
-      <name name="{=DhCSfZzt}Gentaro"/>
-      <name name="{=DvyQIA3d}Genichiro"/>
-      <name name="{=ItTycCE3}Genjiro"/>
-      <name name="{=8p1CMJc0}Genzaburo"/>
-      <name name="{=TZVh0WX4}Gengoro"/>
-      <name name="{=WFx5O7js}Genjuro"/>
+      <name name="{=DhCSfZzt}Gentarō"/>
+      <name name="{=DvyQIA3d}Genichirō"/>
+      <name name="{=ItTycCE3}Genjirō"/>
+      <name name="{=8p1CMJc0}Genzaburō"/>
+      <name name="{=TZVh0WX4}Gengorō"/>
+      <name name="{=WFx5O7js}Genjūrō"/>
       <name name="{=cJ2lc6t0}Gensuke"/>
       <name name="{=geoBdNT4}Gennosuke"/>
-      <name name="{=m7TQ90rZ}Genzo"/>
+      <name name="{=m7TQ90rZ}Genzō"/>
       <name name="{=TkJw9Duw}Gennai"/>
       <name name="{=Z1zN5otw}Genbei"/>
       <name name="{=AbuVBtV8}Genzaemon"/>
       <name name="{=AtsmKH9M}Genemon"/>
-      <name name="{=HG9UGvJg}Kotaro"/>
-      <name name="{=8kVtgCIk}Koichiro"/>
-      <name name="{=6vARoohf}Kojiro"/>
-      <name name="{=Ak4DXEag}Kosaburo"/>
-      <name name="{=xYhQ9Gab}Kogoro"/>
-      <name name="{=KFlqyj5C}Kojuro"/>
-      <name name="{=88kt2fqY}Shotaro"/>
-      <name name="{=lUXZJHsr}Shoichiro"/>
-      <name name="{=yylgHdJi}Shojiro"/>
-      <name name="{=WJocHKZm}Shosaburo"/>
-      <name name="{=aoezMSUO}Shogoro"/>
-      <name name="{=rKb72D2I}Shojuro"/>
-      <name name="{=8ZO6U0MK}Shosuke"/>
-      <name name="{=FKcnKXmS}Shonosuke"/>
-      <name name="{=w3AqbTQs}Shokichi"/>
-      <name name="{=m10TL2CQ}Shozo"/>
-      <name name="{=enQ9CtYF}Shobei"/>
-      <name name="{=yOuFJRP1}Shozaemon"/>
-      <name name="{=nitvYEGB}Shoemon"/>
-      <name name="{=V8VowuPM}Toutaro"/>
-      <name name="{=TaQeyQCL}Touichiro"/>
-      <name name="{=qXPONqPW}Toujiro"/>
-      <name name="{=FZDkXvEM}Tousaburo"/>
-      <name name="{=2z2LglVH}Tougoro"/>
-      <name name="{=V9bQ7Maa}Toujuro"/>
-      <name name="{=1QBVd4da}Tousuke"/>
-      <name name="{=SmVurwZt}Tounosuke"/>
-      <name name="{=Wq5qYwL7}Toukichi"/>
-      <name name="{=n1btMUnd}Touzo"/>
+      <name name="{=HG9UGvJg}Kotarō"/>
+      <name name="{=8kVtgCIk}Koichirō"/>
+      <name name="{=6vARoohf}Kojirō"/>
+      <name name="{=Ak4DXEag}Kosaburō"/>
+      <name name="{=xYhQ9Gab}Kogorō"/>
+      <name name="{=KFlqyj5C}Kojūrō"/>
+      <name name="{=88kt2fqY}Shōtarō"/>
+      <name name="{=lUXZJHsr}Shōichirō"/>
+      <name name="{=yylgHdJi}Shōjirō"/>
+      <name name="{=WJocHKZm}Shōsaburō"/>
+      <name name="{=aoezMSUO}Shōgorō"/>
+      <name name="{=rKb72D2I}Shōjūrō"/>
+      <name name="{=8ZO6U0MK}Shōsuke"/>
+      <name name="{=FKcnKXmS}Shōnosuke"/>
+      <name name="{=w3AqbTQs}Shōkichi"/>
+      <name name="{=m10TL2CQ}Shōzō"/>
+      <name name="{=enQ9CtYF}Shōbei"/>
+      <name name="{=yOuFJRP1}Shōzaemon"/>
+      <name name="{=nitvYEGB}Shōemon"/>
+      <name name="{=V8VowuPM}Tōarō"/>
+      <name name="{=TaQeyQCL}Tōichirō"/>
+      <name name="{=qXPONqPW}Tōjirō"/>
+      <name name="{=FZDkXvEM}Tōsaburō"/>
+      <name name="{=2z2LglVH}Tōgorō"/>
+      <name name="{=V9bQ7Maa}Tōjūrō"/>
+      <name name="{=1QBVd4da}Tōsuke"/>
+      <name name="{=SmVurwZt}Tōnosuke"/>
+      <name name="{=Wq5qYwL7}Tōkichi"/>
+      <name name="{=n1btMUnd}Tōzō"/>
       <name name="{=wsOx7Udj}Tounai"/>
-      <name name="{=ffaLCN8L}Toubei"/>
+      <name name="{=ffaLCN8L}Tōbei"/>
       <name name="{=WdoaF6Up}Touzaemon"/>
       <name name="{=0TrEYRKe}Touemon"/>
       <name name="{=cousoQ4k}Mataichiro"/>
@@ -4727,16 +4727,16 @@
       <name name="{=M24CQ7LC}Izaemon"/>
       <name name="{=0HhVmhAb}Iemon"/>
       <name name="{=M7NqDxH8}Sasuke"/>
-      <name name="{=mCtJGBTR}Tarozaemon"/>
-      <name name="{=0dcfuOXl}Taroemon"/>
-      <name name="{=MvkAmOXM}Jirozaemon"/>
+      <name name="{=mCtJGBTR}Tarōzaemon"/>
+      <name name="{=0dcfuOXl}Tarōemon"/>
+      <name name="{=MvkAmOXM}Jirōzaemon"/>
       <name name="{=6xKoyc6E}Hiroemon"/>
-      <name name="{=hNnejvkq}Saburozaemon"/>
-      <name name="{=h8G0fO3K}Saburoemon"/>
-      <name name="{=kNjiQUn5}Shirozaemon"/>
-      <name name="{=KeKB3A1g}Shiroemon"/>
-      <name name="{=p2JXgAFZ}Gorozaemon"/>
-      <name name="{=Z62OstUb}Goroemon"/>
+      <name name="{=hNnejvkq}Saburōzaemon"/>
+      <name name="{=h8G0fO3K}Saburōemon"/>
+      <name name="{=kNjiQUn5}Shirōzaemon"/>
+      <name name="{=KeKB3A1g}Shirōemon"/>
+      <name name="{=p2JXgAFZ}Gorōzaemon"/>
+      <name name="{=Z62OstUb}Gorōemon"/>
     </male_names>
     <female_names>
       <name name="{=ab4sZWzd}Ai"/>
@@ -5068,122 +5068,122 @@
       <policy id="policy_road_tolls"/>
     </default_policies>
     <male_names>
-      <name name="{=686xcJ5S}Taro"/>
-      <name name="{=xbwRkO5Z}Ichiro"/>
-      <name name="{=0T1OCfRY}Jiro"/>
-      <name name="{=1187gbgM}Saburo"/>
-      <name name="{=BN54hR9V}Shiro"/>
-      <name name="{=OfanclyF}Goro"/>
-      <name name="{=9wz88kH7}Rokuro"/>
-      <name name="{=pEnQ7qL8}Shichiro"/>
-      <name name="{=BQEJpaKM}Hachiro"/>
-      <name name="{=Zf6pqP1S}Kuro"/>
-      <name name="{=F4wYBL82}Juro"/>
-      <name name="{=3cTGorVo}Jusuke"/>
-      <name name="{=4yJsfsiM}Suketaro"/>
-      <name name="{=XBtOokns}Sukejiro"/>
-      <name name="{=5P5FkBwH}Sukesaburo"/>
-      <name name="{=tubOfaxz}Sukeshiro"/>
-      <name name="{=3R5j7RYA}Sukegoro"/>
+      <name name="{=686xcJ5S}Tarō"/>
+      <name name="{=xbwRkO5Z}Ichirō"/>
+      <name name="{=0T1OCfRY}Jirō"/>
+      <name name="{=1187gbgM}Saburō"/>
+      <name name="{=BN54hR9V}Shirō"/>
+      <name name="{=OfanclyF}Gorō"/>
+      <name name="{=9wz88kH7}Rokurō"/>
+      <name name="{=pEnQ7qL8}Shichirō"/>
+      <name name="{=BQEJpaKM}Hachirō"/>
+      <name name="{=Zf6pqP1S}Kurō"/>
+      <name name="{=F4wYBL82}Jurō"/>
+      <name name="{=3cTGorVo}Jūsuke"/>
+      <name name="{=4yJsfsiM}Suketarō"/>
+      <name name="{=XBtOokns}Sukejirō"/>
+      <name name="{=5P5FkBwH}Sukesaburō"/>
+      <name name="{=tubOfaxz}Sukeshirō"/>
+      <name name="{=3R5j7RYA}Sukegorō"/>
       <name name="{=Ds3cZg6r}Sukebei"/>
       <name name="{=nKMOkNFw}Sukezaemon"/>
       <name name="{=7iiIq9r6}Sukeemon"/>
-      <name name="{=kD70iJ3J}Shintaro"/>
-      <name name="{=fpdWiWfz}Shinichiro"/>
-      <name name="{=A2GoIvbc}Shinjiro"/>
-      <name name="{=Bti8upGR}Sinsaburo"/>
-      <name name="{=OMBLQ8zN}Shingoro"/>
-      <name name="{=CeFXPZ4y}Shinjuro"/>
+      <name name="{=kD70iJ3J}Shintarō"/>
+      <name name="{=fpdWiWfz}Shinichirō"/>
+      <name name="{=A2GoIvbc}Shinjirō"/>
+      <name name="{=Bti8upGR}Sinsaburō"/>
+      <name name="{=OMBLQ8zN}Shingorō"/>
+      <name name="{=CeFXPZ4y}Shinjurō"/>
       <name name="{=8AWswCXB}Shinsuke"/>
       <name name="{=u6o96I4Y}Shinnosuke"/>
       <name name="{=KT8o8D8j}Shinkichi"/>
-      <name name="{=QXoI9qum}Shinzo"/>
+      <name name="{=QXoI9qum}Shinzō"/>
       <name name="{=l4hS80xv}Shinbei"/>
       <name name="{=xGgjfTcH}Shinzaemon"/>
       <name name="{=nP12n3Fs}Shinemon"/>
-      <name name="{=2HEjtotK}Kantaro"/>
-      <name name="{=ctzwdIKa}Kanichiro"/>
-      <name name="{=nWOBDgpj}Kanjiro"/>
-      <name name="{=NbvnNk2S}Kanzaburo"/>
-      <name name="{=kN3o6xzR}Kangoro"/>
-      <name name="{=rtGBo128}Kanjuro"/>
+      <name name="{=2HEjtotK}Kantarō"/>
+      <name name="{=ctzwdIKa}Kannichirō"/>
+      <name name="{=nWOBDgpj}Kanjirō"/>
+      <name name="{=NbvnNk2S}Kanzaburō"/>
+      <name name="{=kN3o6xzR}Kangorō"/>
+      <name name="{=rtGBo128}Kanjūrō"/>
       <name name="{=YRDygFj6}Kansuke"/>
       <name name="{=cGq2zXGn}Kannosuke"/>
       <name name="{=2BhHfnxd}Kankichi"/>
-      <name name="{=eZOVCTrX}Kanzo"/>
+      <name name="{=eZOVCTrX}Kanzō"/>
       <name name="{=4Nkceif9}Kanbei"/>
       <name name="{=nP12n3Fs}Shinemon"/>
       <name name="{=xGgjfTcH}Shinzaemon"/>
-      <name name="{=pr5IdVlQ}Choutaro"/>
-      <name name="{=6get6Y8E}Chouichiro"/>
-      <name name="{=b9VnjeKp}Choujiro"/>
-      <name name="{=ZjsS13ws}Chouzaburo"/>
-      <name name="{=QP1vL1Z5}Chougoro"/>
-      <name name="{=onoKVXjp}Choujuro"/>
-      <name name="{=8Lqk2NsA}Chousuke"/>
-      <name name="{=XWldYuhm}Chouunosuke"/>
-      <name name="{=q1a85TXt}Choukichi"/>
-      <name name="{=QCC1D0p5}Chouzo"/>
-      <name name="{=uA1I8WpX}Choubei"/>
-      <name name="{=S34Gm8bG}Chouzaemon"/>
-      <name name="{=7wmjr9N6}Chouemon"/>
-      <name name="{=FyfAPTam}Yotaro"/>
-      <name name="{=5yIPZNOC}Yoichiro"/>
-      <name name="{=lK7DyjrE}Yojiro"/>
-      <name name="{=MJ1Oqpvu}Yosaburo"/>
-      <name name="{=JNR0uO1t}Yogoro"/>
-      <name name="{=73ORmCAk}Yojuro"/>
+      <name name="{=pr5IdVlQ}Chōtarō"/>
+      <name name="{=6get6Y8E}Chōichirō"/>
+      <name name="{=b9VnjeKp}Chōjirō"/>
+      <name name="{=ZjsS13ws}Chōzaburō"/>
+      <name name="{=QP1vL1Z5}Chōzgorō"/>
+      <name name="{=onoKVXjp}Chōjūrō"/>
+      <name name="{=8Lqk2NsA}Chōsuke"/>
+      <name name="{=XWldYuhm}Chōunosuke"/>
+      <name name="{=q1a85TXt}Chōkichi"/>
+      <name name="{=QCC1D0p5}Chōzō"/>
+      <name name="{=uA1I8WpX}Chōbei"/>
+      <name name="{=S34Gm8bG}Chōzaemon"/>
+      <name name="{=7wmjr9N6}Chōemon"/>
+      <name name="{=FyfAPTam}Yotarō"/>
+      <name name="{=5yIPZNOC}Yoichirō"/>
+      <name name="{=lK7DyjrE}Yojirō"/>
+      <name name="{=MJ1Oqpvu}Yosaburō"/>
+      <name name="{=JNR0uO1t}Yogorō"/>
+      <name name="{=73ORmCAk}Yojūrō"/>
       <name name="{=ZMYEFBjO}Yosuke"/>
       <name name="{=EgvAhszY}Yonosuke"/>
       <name name="{=NC96SIAV}Yokichi"/>
-      <name name="{=Xr2ZmWZw}Yozo"/>
+      <name name="{=Xr2ZmWZw}Yozō"/>
       <name name="{=29MCqLs8}Yohei"/>
       <name name="{=RPKbRH8T}Yozaemon"/>
       <name name="{=FcRcfWZy}Yoemon"/>
-      <name name="{=DhCSfZzt}Gentaro"/>
-      <name name="{=DvyQIA3d}Genichiro"/>
-      <name name="{=ItTycCE3}Genjiro"/>
-      <name name="{=8p1CMJc0}Genzaburo"/>
-      <name name="{=TZVh0WX4}Gengoro"/>
-      <name name="{=WFx5O7js}Genjuro"/>
+      <name name="{=DhCSfZzt}Gentarō"/>
+      <name name="{=DvyQIA3d}Genichirō"/>
+      <name name="{=ItTycCE3}Genjirō"/>
+      <name name="{=8p1CMJc0}Genzaburō"/>
+      <name name="{=TZVh0WX4}Gengorō"/>
+      <name name="{=WFx5O7js}Genjūrō"/>
       <name name="{=cJ2lc6t0}Gensuke"/>
       <name name="{=geoBdNT4}Gennosuke"/>
-      <name name="{=m7TQ90rZ}Genzo"/>
+      <name name="{=m7TQ90rZ}Genzō"/>
       <name name="{=TkJw9Duw}Gennai"/>
       <name name="{=Z1zN5otw}Genbei"/>
       <name name="{=AbuVBtV8}Genzaemon"/>
       <name name="{=AtsmKH9M}Genemon"/>
-      <name name="{=HG9UGvJg}Kotaro"/>
-      <name name="{=8kVtgCIk}Koichiro"/>
-      <name name="{=6vARoohf}Kojiro"/>
-      <name name="{=Ak4DXEag}Kosaburo"/>
-      <name name="{=xYhQ9Gab}Kogoro"/>
-      <name name="{=KFlqyj5C}Kojuro"/>
-      <name name="{=88kt2fqY}Shotaro"/>
-      <name name="{=lUXZJHsr}Shoichiro"/>
-      <name name="{=yylgHdJi}Shojiro"/>
-      <name name="{=WJocHKZm}Shosaburo"/>
-      <name name="{=aoezMSUO}Shogoro"/>
-      <name name="{=rKb72D2I}Shojuro"/>
-      <name name="{=8ZO6U0MK}Shosuke"/>
-      <name name="{=FKcnKXmS}Shonosuke"/>
-      <name name="{=w3AqbTQs}Shokichi"/>
-      <name name="{=m10TL2CQ}Shozo"/>
-      <name name="{=enQ9CtYF}Shobei"/>
-      <name name="{=yOuFJRP1}Shozaemon"/>
-      <name name="{=nitvYEGB}Shoemon"/>
-      <name name="{=V8VowuPM}Toutaro"/>
-      <name name="{=TaQeyQCL}Touichiro"/>
-      <name name="{=qXPONqPW}Toujiro"/>
-      <name name="{=FZDkXvEM}Tousaburo"/>
-      <name name="{=2z2LglVH}Tougoro"/>
-      <name name="{=V9bQ7Maa}Toujuro"/>
-      <name name="{=1QBVd4da}Tousuke"/>
-      <name name="{=SmVurwZt}Tounosuke"/>
-      <name name="{=Wq5qYwL7}Toukichi"/>
-      <name name="{=n1btMUnd}Touzo"/>
+      <name name="{=HG9UGvJg}Kotarō"/>
+      <name name="{=8kVtgCIk}Koichirō"/>
+      <name name="{=6vARoohf}Kojirō"/>
+      <name name="{=Ak4DXEag}Kosaburō"/>
+      <name name="{=xYhQ9Gab}Kogorō"/>
+      <name name="{=KFlqyj5C}Kojūrō"/>
+      <name name="{=88kt2fqY}Shōtarō"/>
+      <name name="{=lUXZJHsr}Shōichirō"/>
+      <name name="{=yylgHdJi}Shōjirō"/>
+      <name name="{=WJocHKZm}Shōsaburō"/>
+      <name name="{=aoezMSUO}Shōgorō"/>
+      <name name="{=rKb72D2I}Shōjūrō"/>
+      <name name="{=8ZO6U0MK}Shōsuke"/>
+      <name name="{=FKcnKXmS}Shōnosuke"/>
+      <name name="{=w3AqbTQs}Shōkichi"/>
+      <name name="{=m10TL2CQ}Shōzō"/>
+      <name name="{=enQ9CtYF}Shōbei"/>
+      <name name="{=yOuFJRP1}Shōzaemon"/>
+      <name name="{=nitvYEGB}Shōemon"/>
+      <name name="{=V8VowuPM}Tōarō"/>
+      <name name="{=TaQeyQCL}Tōichirō"/>
+      <name name="{=qXPONqPW}Tōjirō"/>
+      <name name="{=FZDkXvEM}Tōsaburō"/>
+      <name name="{=2z2LglVH}Tōgorō"/>
+      <name name="{=V9bQ7Maa}Tōjūrō"/>
+      <name name="{=1QBVd4da}Tōsuke"/>
+      <name name="{=SmVurwZt}Tōnosuke"/>
+      <name name="{=Wq5qYwL7}Tōkichi"/>
+      <name name="{=n1btMUnd}Tōzō"/>
       <name name="{=wsOx7Udj}Tounai"/>
-      <name name="{=ffaLCN8L}Toubei"/>
+      <name name="{=ffaLCN8L}Tōbei"/>
       <name name="{=WdoaF6Up}Touzaemon"/>
       <name name="{=0TrEYRKe}Touemon"/>
       <name name="{=cousoQ4k}Mataichiro"/>
@@ -5448,16 +5448,16 @@
       <name name="{=M24CQ7LC}Izaemon"/>
       <name name="{=0HhVmhAb}Iemon"/>
       <name name="{=M7NqDxH8}Sasuke"/>
-      <name name="{=mCtJGBTR}Tarozaemon"/>
-      <name name="{=0dcfuOXl}Taroemon"/>
-      <name name="{=MvkAmOXM}Jirozaemon"/>
+      <name name="{=mCtJGBTR}Tarōzaemon"/>
+      <name name="{=0dcfuOXl}Tarōemon"/>
+      <name name="{=MvkAmOXM}Jirōzaemon"/>
       <name name="{=6xKoyc6E}Hiroemon"/>
-      <name name="{=hNnejvkq}Saburozaemon"/>
-      <name name="{=h8G0fO3K}Saburoemon"/>
-      <name name="{=kNjiQUn5}Shirozaemon"/>
-      <name name="{=KeKB3A1g}Shiroemon"/>
-      <name name="{=p2JXgAFZ}Gorozaemon"/>
-      <name name="{=Z62OstUb}Goroemon"/>
+      <name name="{=hNnejvkq}Saburōzaemon"/>
+      <name name="{=h8G0fO3K}Saburōemon"/>
+      <name name="{=kNjiQUn5}Shirōzaemon"/>
+      <name name="{=KeKB3A1g}Shirōemon"/>
+      <name name="{=p2JXgAFZ}Gorōzaemon"/>
+      <name name="{=Z62OstUb}Gorōemon"/>
     </male_names>
     <female_names>
       <name name="{=ab4sZWzd}Ai"/>
@@ -5690,7 +5690,7 @@
       <name name="{=an9XJN76}Shirai"/>
       <name name="{=lXZFYdGf}Yanada"/>
       <name name="{=lYQNsFhs}Kido"/>
-      <name name="{=dfGXCBX7}Nakajo"/>
+      <name name="{=dfGXCBX7}Nakajō"/>
       <name name="{=Y4HcFUBF}Akimoto"/>
       <name name="{=OBENaFLm}Ōmori"/>
       <name name="{=9FKbt4zD}Fukaya"/>
@@ -5790,122 +5790,122 @@
       <policy id="policy_magistrates"/>
     </default_policies>
     <male_names>
-      <name name="{=686xcJ5S}Taro"/>
-      <name name="{=xbwRkO5Z}Ichiro"/>
-      <name name="{=0T1OCfRY}Jiro"/>
-      <name name="{=1187gbgM}Saburo"/>
-      <name name="{=BN54hR9V}Shiro"/>
-      <name name="{=OfanclyF}Goro"/>
-      <name name="{=9wz88kH7}Rokuro"/>
-      <name name="{=pEnQ7qL8}Shichiro"/>
-      <name name="{=BQEJpaKM}Hachiro"/>
-      <name name="{=Zf6pqP1S}Kuro"/>
-      <name name="{=F4wYBL82}Juro"/>
-      <name name="{=3cTGorVo}Jusuke"/>
-      <name name="{=4yJsfsiM}Suketaro"/>
-      <name name="{=XBtOokns}Sukejiro"/>
-      <name name="{=5P5FkBwH}Sukesaburo"/>
-      <name name="{=tubOfaxz}Sukeshiro"/>
-      <name name="{=3R5j7RYA}Sukegoro"/>
+      <name name="{=686xcJ5S}Tarō"/>
+      <name name="{=xbwRkO5Z}Ichirō"/>
+      <name name="{=0T1OCfRY}Jirō"/>
+      <name name="{=1187gbgM}Saburō"/>
+      <name name="{=BN54hR9V}Shirō"/>
+      <name name="{=OfanclyF}Gorō"/>
+      <name name="{=9wz88kH7}Rokurō"/>
+      <name name="{=pEnQ7qL8}Shichirō"/>
+      <name name="{=BQEJpaKM}Hachirō"/>
+      <name name="{=Zf6pqP1S}Kurō"/>
+      <name name="{=F4wYBL82}Jurō"/>
+      <name name="{=3cTGorVo}Jūsuke"/>
+      <name name="{=4yJsfsiM}Suketarō"/>
+      <name name="{=XBtOokns}Sukejirō"/>
+      <name name="{=5P5FkBwH}Sukesaburō"/>
+      <name name="{=tubOfaxz}Sukeshirō"/>
+      <name name="{=3R5j7RYA}Sukegorō"/>
       <name name="{=Ds3cZg6r}Sukebei"/>
       <name name="{=nKMOkNFw}Sukezaemon"/>
       <name name="{=7iiIq9r6}Sukeemon"/>
-      <name name="{=kD70iJ3J}Shintaro"/>
-      <name name="{=fpdWiWfz}Shinichiro"/>
-      <name name="{=A2GoIvbc}Shinjiro"/>
-      <name name="{=Bti8upGR}Sinsaburo"/>
-      <name name="{=OMBLQ8zN}Shingoro"/>
-      <name name="{=CeFXPZ4y}Shinjuro"/>
+      <name name="{=kD70iJ3J}Shintarō"/>
+      <name name="{=fpdWiWfz}Shinichirō"/>
+      <name name="{=A2GoIvbc}Shinjirō"/>
+      <name name="{=Bti8upGR}Sinsaburō"/>
+      <name name="{=OMBLQ8zN}Shingorō"/>
+      <name name="{=CeFXPZ4y}Shinjurō"/>
       <name name="{=8AWswCXB}Shinsuke"/>
       <name name="{=u6o96I4Y}Shinnosuke"/>
       <name name="{=KT8o8D8j}Shinkichi"/>
-      <name name="{=QXoI9qum}Shinzo"/>
+      <name name="{=QXoI9qum}Shinzō"/>
       <name name="{=l4hS80xv}Shinbei"/>
       <name name="{=xGgjfTcH}Shinzaemon"/>
       <name name="{=nP12n3Fs}Shinemon"/>
-      <name name="{=2HEjtotK}Kantaro"/>
-      <name name="{=ctzwdIKa}Kanichiro"/>
-      <name name="{=nWOBDgpj}Kanjiro"/>
-      <name name="{=NbvnNk2S}Kanzaburo"/>
-      <name name="{=kN3o6xzR}Kangoro"/>
-      <name name="{=rtGBo128}Kanjuro"/>
+      <name name="{=2HEjtotK}Kantarō"/>
+      <name name="{=ctzwdIKa}Kannichirō"/>
+      <name name="{=nWOBDgpj}Kanjirō"/>
+      <name name="{=NbvnNk2S}Kanzaburō"/>
+      <name name="{=kN3o6xzR}Kangorō"/>
+      <name name="{=rtGBo128}Kanjūrō"/>
       <name name="{=YRDygFj6}Kansuke"/>
       <name name="{=cGq2zXGn}Kannosuke"/>
       <name name="{=2BhHfnxd}Kankichi"/>
-      <name name="{=eZOVCTrX}Kanzo"/>
+      <name name="{=eZOVCTrX}Kanzō"/>
       <name name="{=4Nkceif9}Kanbei"/>
       <name name="{=nP12n3Fs}Shinemon"/>
       <name name="{=xGgjfTcH}Shinzaemon"/>
-      <name name="{=pr5IdVlQ}Choutaro"/>
-      <name name="{=6get6Y8E}Chouichiro"/>
-      <name name="{=b9VnjeKp}Choujiro"/>
-      <name name="{=ZjsS13ws}Chouzaburo"/>
-      <name name="{=QP1vL1Z5}Chougoro"/>
-      <name name="{=onoKVXjp}Choujuro"/>
-      <name name="{=8Lqk2NsA}Chousuke"/>
-      <name name="{=XWldYuhm}Chouunosuke"/>
-      <name name="{=q1a85TXt}Choukichi"/>
-      <name name="{=QCC1D0p5}Chouzo"/>
-      <name name="{=uA1I8WpX}Choubei"/>
-      <name name="{=S34Gm8bG}Chouzaemon"/>
-      <name name="{=7wmjr9N6}Chouemon"/>
-      <name name="{=FyfAPTam}Yotaro"/>
-      <name name="{=5yIPZNOC}Yoichiro"/>
-      <name name="{=lK7DyjrE}Yojiro"/>
-      <name name="{=MJ1Oqpvu}Yosaburo"/>
-      <name name="{=JNR0uO1t}Yogoro"/>
-      <name name="{=73ORmCAk}Yojuro"/>
+      <name name="{=pr5IdVlQ}Chōtarō"/>
+      <name name="{=6get6Y8E}Chōichirō"/>
+      <name name="{=b9VnjeKp}Chōjirō"/>
+      <name name="{=ZjsS13ws}Chōzaburō"/>
+      <name name="{=QP1vL1Z5}Chōzgorō"/>
+      <name name="{=onoKVXjp}Chōjūrō"/>
+      <name name="{=8Lqk2NsA}Chōsuke"/>
+      <name name="{=XWldYuhm}Chōunosuke"/>
+      <name name="{=q1a85TXt}Chōkichi"/>
+      <name name="{=QCC1D0p5}Chōzō"/>
+      <name name="{=uA1I8WpX}Chōbei"/>
+      <name name="{=S34Gm8bG}Chōzaemon"/>
+      <name name="{=7wmjr9N6}Chōemon"/>
+      <name name="{=FyfAPTam}Yotarō"/>
+      <name name="{=5yIPZNOC}Yoichirō"/>
+      <name name="{=lK7DyjrE}Yojirō"/>
+      <name name="{=MJ1Oqpvu}Yosaburō"/>
+      <name name="{=JNR0uO1t}Yogorō"/>
+      <name name="{=73ORmCAk}Yojūrō"/>
       <name name="{=ZMYEFBjO}Yosuke"/>
       <name name="{=EgvAhszY}Yonosuke"/>
       <name name="{=NC96SIAV}Yokichi"/>
-      <name name="{=Xr2ZmWZw}Yozo"/>
+      <name name="{=Xr2ZmWZw}Yozō"/>
       <name name="{=29MCqLs8}Yohei"/>
       <name name="{=RPKbRH8T}Yozaemon"/>
       <name name="{=FcRcfWZy}Yoemon"/>
-      <name name="{=DhCSfZzt}Gentaro"/>
-      <name name="{=DvyQIA3d}Genichiro"/>
-      <name name="{=ItTycCE3}Genjiro"/>
-      <name name="{=8p1CMJc0}Genzaburo"/>
-      <name name="{=TZVh0WX4}Gengoro"/>
-      <name name="{=WFx5O7js}Genjuro"/>
+      <name name="{=DhCSfZzt}Gentarō"/>
+      <name name="{=DvyQIA3d}Genichirō"/>
+      <name name="{=ItTycCE3}Genjirō"/>
+      <name name="{=8p1CMJc0}Genzaburō"/>
+      <name name="{=TZVh0WX4}Gengorō"/>
+      <name name="{=WFx5O7js}Genjūrō"/>
       <name name="{=cJ2lc6t0}Gensuke"/>
       <name name="{=geoBdNT4}Gennosuke"/>
-      <name name="{=m7TQ90rZ}Genzo"/>
+      <name name="{=m7TQ90rZ}Genzō"/>
       <name name="{=TkJw9Duw}Gennai"/>
       <name name="{=Z1zN5otw}Genbei"/>
       <name name="{=AbuVBtV8}Genzaemon"/>
       <name name="{=AtsmKH9M}Genemon"/>
-      <name name="{=HG9UGvJg}Kotaro"/>
-      <name name="{=8kVtgCIk}Koichiro"/>
-      <name name="{=6vARoohf}Kojiro"/>
-      <name name="{=Ak4DXEag}Kosaburo"/>
-      <name name="{=xYhQ9Gab}Kogoro"/>
-      <name name="{=KFlqyj5C}Kojuro"/>
-      <name name="{=88kt2fqY}Shotaro"/>
-      <name name="{=lUXZJHsr}Shoichiro"/>
-      <name name="{=yylgHdJi}Shojiro"/>
-      <name name="{=WJocHKZm}Shosaburo"/>
-      <name name="{=aoezMSUO}Shogoro"/>
-      <name name="{=rKb72D2I}Shojuro"/>
-      <name name="{=8ZO6U0MK}Shosuke"/>
-      <name name="{=FKcnKXmS}Shonosuke"/>
-      <name name="{=w3AqbTQs}Shokichi"/>
-      <name name="{=m10TL2CQ}Shozo"/>
-      <name name="{=enQ9CtYF}Shobei"/>
-      <name name="{=yOuFJRP1}Shozaemon"/>
-      <name name="{=nitvYEGB}Shoemon"/>
-      <name name="{=V8VowuPM}Toutaro"/>
-      <name name="{=TaQeyQCL}Touichiro"/>
-      <name name="{=qXPONqPW}Toujiro"/>
-      <name name="{=FZDkXvEM}Tousaburo"/>
-      <name name="{=2z2LglVH}Tougoro"/>
-      <name name="{=V9bQ7Maa}Toujuro"/>
-      <name name="{=1QBVd4da}Tousuke"/>
-      <name name="{=SmVurwZt}Tounosuke"/>
-      <name name="{=Wq5qYwL7}Toukichi"/>
-      <name name="{=n1btMUnd}Touzo"/>
+      <name name="{=HG9UGvJg}Kotarō"/>
+      <name name="{=8kVtgCIk}Koichirō"/>
+      <name name="{=6vARoohf}Kojirō"/>
+      <name name="{=Ak4DXEag}Kosaburō"/>
+      <name name="{=xYhQ9Gab}Kogorō"/>
+      <name name="{=KFlqyj5C}Kojūrō"/>
+      <name name="{=88kt2fqY}Shōtarō"/>
+      <name name="{=lUXZJHsr}Shōichirō"/>
+      <name name="{=yylgHdJi}Shōjirō"/>
+      <name name="{=WJocHKZm}Shōsaburō"/>
+      <name name="{=aoezMSUO}Shōgorō"/>
+      <name name="{=rKb72D2I}Shōjūrō"/>
+      <name name="{=8ZO6U0MK}Shōsuke"/>
+      <name name="{=FKcnKXmS}Shōnosuke"/>
+      <name name="{=w3AqbTQs}Shōkichi"/>
+      <name name="{=m10TL2CQ}Shōzō"/>
+      <name name="{=enQ9CtYF}Shōbei"/>
+      <name name="{=yOuFJRP1}Shōzaemon"/>
+      <name name="{=nitvYEGB}Shōemon"/>
+      <name name="{=V8VowuPM}Tōarō"/>
+      <name name="{=TaQeyQCL}Tōichirō"/>
+      <name name="{=qXPONqPW}Tōjirō"/>
+      <name name="{=FZDkXvEM}Tōsaburō"/>
+      <name name="{=2z2LglVH}Tōgorō"/>
+      <name name="{=V9bQ7Maa}Tōjūrō"/>
+      <name name="{=1QBVd4da}Tōsuke"/>
+      <name name="{=SmVurwZt}Tōnosuke"/>
+      <name name="{=Wq5qYwL7}Tōkichi"/>
+      <name name="{=n1btMUnd}Tōzō"/>
       <name name="{=wsOx7Udj}Tounai"/>
-      <name name="{=ffaLCN8L}Toubei"/>
+      <name name="{=ffaLCN8L}Tōbei"/>
       <name name="{=WdoaF6Up}Touzaemon"/>
       <name name="{=0TrEYRKe}Touemon"/>
       <name name="{=cousoQ4k}Mataichiro"/>
@@ -6170,16 +6170,16 @@
       <name name="{=M24CQ7LC}Izaemon"/>
       <name name="{=0HhVmhAb}Iemon"/>
       <name name="{=M7NqDxH8}Sasuke"/>
-      <name name="{=mCtJGBTR}Tarozaemon"/>
-      <name name="{=0dcfuOXl}Taroemon"/>
-      <name name="{=MvkAmOXM}Jirozaemon"/>
+      <name name="{=mCtJGBTR}Tarōzaemon"/>
+      <name name="{=0dcfuOXl}Tarōemon"/>
+      <name name="{=MvkAmOXM}Jirōzaemon"/>
       <name name="{=6xKoyc6E}Hiroemon"/>
-      <name name="{=hNnejvkq}Saburozaemon"/>
-      <name name="{=h8G0fO3K}Saburoemon"/>
-      <name name="{=kNjiQUn5}Shirozaemon"/>
-      <name name="{=KeKB3A1g}Shiroemon"/>
-      <name name="{=p2JXgAFZ}Gorozaemon"/>
-      <name name="{=Z62OstUb}Goroemon"/>
+      <name name="{=hNnejvkq}Saburōzaemon"/>
+      <name name="{=h8G0fO3K}Saburōemon"/>
+      <name name="{=kNjiQUn5}Shirōzaemon"/>
+      <name name="{=KeKB3A1g}Shirōemon"/>
+      <name name="{=p2JXgAFZ}Gorōzaemon"/>
+      <name name="{=Z62OstUb}Gorōemon"/>
     </male_names>
     <female_names>
       <name name="{=ab4sZWzd}Ai"/>
@@ -6401,7 +6401,7 @@
       <name name="{=Oob9PIhW}Waga"/>
       <name name="{=Z3cTeGv7}Esashi"/>
       <name name="{=DfPq3ube}Kashiyama"/>
-      <name name="{=LQTvwI1K}Rokugo"/>
+      <name name="{=LQTvwI1K}Rokugō"/>
       <name name="{=Slnm1ecp}Akaotsu"/>
       <name name="{=7Wx8qIIZ}Uchikoshi"/>
       <name name="{=09bt9j1U}Yajima"/>

@@ -206,12 +206,12 @@
 	<Hero id="lord_1_nabeshima_6" faction="Faction.clan_nabeshima_1" spouse="Hero.lord_1_nabeshima_7" text="{=vHYZgp4m}Nabeshima Kiyoyasu"/>
 	<Hero id="lord_1_nabeshima_7" faction="Faction.clan_nabeshima_1" spouse="Hero.lord_1_nabeshima_6" text="{=glmLovBF}Nabeshima Iwagi"/>
 	<!--saigo clan 8 ids-->
-	<Hero id="lord_1_saigo" faction="Faction.clan_saigo_1" spouse="Hero.lord_1_saigo_1" text="{=aBevKeGx}Saigo Sumitaka"/>
-	<Hero id="lord_1_saigo_1" faction="Faction.clan_saigo_1" spouse="Hero.lord_1_saigo" text="{=MLD6QUoN}Saigo Sada"/>
-	<Hero id="lord_1_saigo_2" faction="Faction.clan_saigo_1" spouse="Hero.lord_1_saigo_3" father="Hero.lord_1_saigo" mother="Hero.lord_1_saigo_1" text="{=aBevKeGx}Saigo Sumitaka"/>
-	<Hero id="lord_1_saigo_3" faction="Faction.clan_saigo_1" spouse="Hero.lord_1_saigo_2" text="{=0WWMrnLV}Saigo Mayumi"/>
-	<Hero id="lord_1_saigo_4" faction="Faction.clan_saigo_1" father="Hero.lord_1_saigo" mother="Hero.lord_1_saigo_1" text="{=Duy1yvLw}Saigo Nobunao"/>
-	<Hero id="lord_1_saigo_5" faction="Faction.clan_saigo_1" text="{=VhUaonxW}Saigo Sumimasa"/>
+	<Hero id="lord_1_saigo" faction="Faction.clan_saigo_1" spouse="Hero.lord_1_saigo_1" text="{=aBevKeGx}Saigō Sumitaka"/>
+	<Hero id="lord_1_saigo_1" faction="Faction.clan_saigo_1" spouse="Hero.lord_1_saigo" text="{=MLD6QUoN}Saigō Sada"/>
+	<Hero id="lord_1_saigo_2" faction="Faction.clan_saigo_1" spouse="Hero.lord_1_saigo_3" father="Hero.lord_1_saigo" mother="Hero.lord_1_saigo_1" text="{=aBevKeGx}Saigō Sumitaka"/>
+	<Hero id="lord_1_saigo_3" faction="Faction.clan_saigo_1" spouse="Hero.lord_1_saigo_2" text="{=0WWMrnLV}Saigō Mayumi"/>
+	<Hero id="lord_1_saigo_4" faction="Faction.clan_saigo_1" father="Hero.lord_1_saigo" mother="Hero.lord_1_saigo_1" text="{=Duy1yvLw}Saigō Nobunao"/>
+	<Hero id="lord_1_saigo_5" faction="Faction.clan_saigo_1" text="{=VhUaonxW}Saigō Sumimasa"/>
 	<!--kumabe clan 11 ids-->
 	<Hero id="lord_1_kumabe" faction="Faction.clan_kumabe_1" spouse="Hero.lord_1_kumabe_1" text="{=LfZC8oxt}Kumabe Chikaie"/>
 	<Hero id="lord_1_kumabe_1" faction="Faction.clan_kumabe_1" spouse="Hero.lord_1_kumabe" text="{=YazRHukF}Kumabe Inasa"/>

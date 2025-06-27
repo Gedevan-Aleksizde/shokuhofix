@@ -1733,7 +1733,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_CHUB1" name="{=HTo81wy6}Tenzutsu Castle" owner="Faction.clan_asakura_1" posX="945.596" posY="689.497" culture="Culture.hokuriku" gate_posX="943.8171" gate_posY="688.2692">
+  <Settlement id="castle_CHUB1" name="{=HTo81wy6}Tezutsuyama Castle" owner="Faction.clan_asakura_1" posX="945.596" posY="689.497" culture="Culture.hokuriku" gate_posX="943.8171" gate_posY="688.2692">
     <Components>
       <Town id="castle_comp_CHUB1" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="597"/>
     </Components>
@@ -4319,7 +4319,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_KIN2" name="{=wFbatASK}Osaka" owner="Faction.clan_honganji_1" posX="868.081" posY="578.809" culture="Culture.kinai" gate_posX="869.8998" gate_posY="580.9155" text="{=TGw7giTg}Dominated by the temple fortress of Ishiyama Hongan-ji, Osaka has grown into a major center of religious and economic activity. The temple fortress, controlled by the militant Ikkō-ikki, serves as the stronghold of the Jōdo Shinshū sect, resisting the rule of samurai warlords.">
+  <Settlement id="town_KIN2" name="{=wFbatASK}Ozaka" owner="Faction.clan_honganji_1" posX="868.081" posY="578.809" culture="Culture.kinai" gate_posX="869.8998" gate_posY="580.9155" text="{=TGw7giTg}Dominated by the temple fortress of Ishiyama Hongan-ji, Ozaka has grown into a major center of religious and economic activity. The temple fortress, controlled by the militant Ikkō-ikki, serves as the stronghold of the Jōdo Shinshū sect, resisting the rule of samurai warlords.">
     <Components>
       <Town id="town_comp_KIN2" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="2500"/>
     </Components>
@@ -5272,7 +5272,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KIN17_2" name="{=Z06Isd7R}Ominato" posX="994.187" posY="550.325" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_KIN17_2" name="{=Z06Isd7R}Ōminato" posX="994.187" posY="550.325" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_KIN17_2" village_type="VillageType.logger" hearth="200" gate_rotation="0.008" bound="Settlement.castle_KIN17" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5786,7 +5786,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_KY5" name="{=sgEq01Iv}Nyushima" owner="Faction.clan_otomo_1" posX="452.858" posY="366.786" culture="Culture.saikai" gate_posX="450.0772" gate_posY="368.7463" text="{=1OHDyEtH}Benefiting from its position along key maritime trade routes and its proximity to the island’s northern provinces, Nyushima has grown into a prosperous castle town, also thanks to the influence of the Ōtomo clan, that has promoted the town as a center of local governance.">
+  <Settlement id="town_KY5" name="{=sgEq01Iv}Niushima" owner="Faction.clan_otomo_1" posX="452.858" posY="366.786" culture="Culture.saikai" gate_posX="450.0772" gate_posY="368.7463" text="{=1OHDyEtH}Benefiting from its position along key maritime trade routes and its proximity to the island’s northern provinces, Niushima has grown into a prosperous castle town, also thanks to the influence of the Ōtomo clan, that has promoted the town as a center of local governance.">
     <Components>
       <Town id="town_comp_KY5" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.808" prosperity="3000"/>
     </Components>
@@ -8882,7 +8882,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_TOHO11" name="{=oaO9LGPD}Tendo Castle" owner="Faction.clan_tendo_1" posX="1428.32" posY="1054.34" culture="Culture.ou" gate_posX="1427.292" gate_posY="1052.514">
+  <Settlement id="castle_TOHO11" name="{=oaO9LGPD}Tendō Castle" owner="Faction.clan_tendo_1" posX="1428.32" posY="1054.34" culture="Culture.ou" gate_posX="1427.292" gate_posY="1052.514">
     <Components>
       <Town id="castle_comp_TOHO11" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="721"/>
     </Components>

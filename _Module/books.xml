@@ -24,7 +24,7 @@
         <Benefit skill="Skill.Throwing" exp="25000" finalExp="1650" addFocus="false"/>
     </Book>
     <!--Toda-ryū Hidennosho-->
-    <Book id="book_5" item="Item.book_5" length="216" rarity="unique" desc="{=43Qyl6a1}A scroll that describes the techniques of the Toda-ryū style of swordsmanship, a school founded by Itō Kagehisa after visiting Kanemaki Michimune, a master of the Nakajo-ryū style" addFreeFocus="true">
+    <Book id="book_5" item="Item.book_5" length="216" rarity="unique" desc="{=43Qyl6a1}A scroll that describes the techniques of the Toda-ryū style of swordsmanship, a school founded by Itō Kagehisa after visiting Kanemaki Michimune, a master of the Nakajō-ryū style" addFreeFocus="true">
         <Benefit skill="Skill.OneHanded" exp="35000" finalExp="3200" addFocus="true"/>
         <Benefit skill="Skill.TwoHanded" exp="35000" finalExp="3200" addFocus="true"/>
         <Benefit skill="Skill.Polearm" exp="28000" finalExp="2000" addFocus="false"/>

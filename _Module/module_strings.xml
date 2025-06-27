@@ -435,12 +435,12 @@
   <!--new map bar button hint texts (camp and naval)-->
   <string id="str_camp" text="{=shokuho07607152}Camp"/>
   <string id="str_navy" text="{=shokuhoeaDDdEfD}Manage Navy"/>
-  <string id="str_player_father_name.saikai" text="{=shokuhoc61104ac}Sukesaburo"/>
-  <string id="str_player_father_name.nankai" text="{=shokuho1C3b2678}Taro"/>
-  <string id="str_player_father_name.sanyo" text="{=shokuhoc0Ba6249}Ichiro"/>
-  <string id="str_player_father_name.kinai" text="{=shokuho7AEC00EF}Jiro"/>
-  <string id="str_player_father_name.hokuriku" text="{=shokuhoB3Ad0ed0}Saburo"/>
-  <string id="str_player_father_name.tosan" text="{=shokuho649d7729}Kangoro"/>
+  <string id="str_player_father_name.saikai" text="{=shokuhoc61104ac}Sukesaburō"/>
+  <string id="str_player_father_name.nankai" text="{=shokuho1C3b2678}Tarō"/>
+  <string id="str_player_father_name.sanyo" text="{=shokuhoc0Ba6249}Ichirō"/>
+  <string id="str_player_father_name.kinai" text="{=shokuho7AEC00EF}Jirō"/>
+  <string id="str_player_father_name.hokuriku" text="{=shokuhoB3Ad0ed0}Saburō"/>
+  <string id="str_player_father_name.tosan" text="{=shokuho649d7729}Kangorō"/>
   <string id="str_player_father_name.tokai" text="{=shokuhoF9307F18}Yosuke"/>
   <string id="str_player_father_name.kanto" text="{=shokuho326e9A01}Genzaemon"/>
   <string id="str_player_father_name.ou" text="{=shokuhof4F5F038}Magokichi"/>
