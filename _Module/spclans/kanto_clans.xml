@@ -4,11 +4,11 @@
 	<Faction id="clan_obata_1" is_noble="true" name="{=lE7sVvZR}Obata-shi" tier="3" owner="Hero.lord_1_obata" culture="Culture.kanto" super_faction="Kingdom.takeda" banner_key="11.163.166.1528.1528.764.764.1.0.0.722.171.171.483.483.764.764.0.0.0"/>
 	<!--Uesugi Faction (rest in Chubu)-->
 	<Faction id="clan_yura_1" is_noble="true" name="{=9rJNJbXR}Yura-shi" tier="3" owner="Hero.lord_1_yura" culture="Culture.kanto" super_faction="Kingdom.uesugi" banner_key="11.163.166.1528.1528.764.764.1.0.0.723.171.171.483.483.764.764.0.0.0"/>
-	<!--Hojo Faction-->
-	<Faction id="clan_hojo_1" is_noble="true" name="{=TJfQdtFe}Hojo-shi" tier="6" owner="Hero.lord_1_hojo" culture="Culture.kanto" super_faction="Kingdom.hojo" banner_key="11.163.166.1528.1528.764.764.1.0.0.724.171.171.483.483.764.764.0.0.0"/>
+	<!--Houjou Faction-->
+	<Faction id="clan_hojo_1" is_noble="true" name="{=TJfQdtFe}Houjou-shi" tier="6" owner="Hero.lord_1_hojo" culture="Culture.kanto" super_faction="Kingdom.hojo" banner_key="11.163.166.1528.1528.764.764.1.0.0.724.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_matsuda_1" is_noble="true" name="{=57hjGaZL}Matsuda-shi" tier="5" owner="Hero.lord_1_matsuda" culture="Culture.kanto" super_faction="Kingdom.hojo" banner_key="11.163.166.1528.1528.764.764.1.0.0.725.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_toyama_1" is_noble="true" name="{=XxcwBNno}Toyama-shi" tier="4" owner="Hero.lord_1_toyama" culture="Culture.kanto" super_faction="Kingdom.hojo" banner_key="11.163.166.1528.1528.764.764.1.0.0.726.171.171.483.483.764.764.0.0.0"/>
-	<Faction id="clan_didoji_1" is_noble="true" name="{=a5C2zixP}Didoji-shi" tier="4" owner="Hero.lord_1_didoji" culture="Culture.kanto" super_faction="Kingdom.hojo" banner_key="11.163.166.1528.1528.764.764.1.0.0.727.171.171.483.483.764.764.0.0.0"/>
+	<Faction id="clan_didoji_1" is_noble="true" name="{=a5C2zixP}Daidouji-shi" tier="4" owner="Hero.lord_1_didoji" culture="Culture.kanto" super_faction="Kingdom.hojo" banner_key="11.163.166.1528.1528.764.764.1.0.0.727.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_narita_1" is_noble="true" name="{=7odtySTp}Narita-shi" tier="4" owner="Hero.lord_1_narita" culture="Culture.kanto" super_faction="Kingdom.hojo" banner_key="11.163.166.1528.1528.764.764.1.0.0.728.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_chiba_1" is_noble="true" name="{=hfTDnPCp}Chiba-shi" tier="3" owner="Hero.lord_1_chiba" culture="Culture.kanto" super_faction="Kingdom.hojo" banner_key="11.163.166.1528.1528.764.764.1.0.0.729.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_oda_2" is_noble="true" name="{=lfglFdss}Oda-shi" tier="3" owner="Hero.lord_2_oda" culture="Culture.kanto" super_faction="Kingdom.hojo" banner_key="11.163.166.1528.1528.764.764.1.0.0.730.171.171.483.483.764.764.0.0.0"/>

@@ -597,7 +597,7 @@
   </NPCCharacter>
   <!--nanjo clan-->
   <!--parents-->
-  <NPCCharacter id="dead_lord_1_nanjo_1" name="{=shokuho8779CF10}Nanjo Munehiro" age="44" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_nanjo_1" name="{=shokuho8779CF10}Nanjou Munehiro" age="44" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="44.00" weight="0.1432" build="0.108" key="003DDC0E80000041966579B767A8762BA3776A77A78B46A9C44AA6756889CB680072260307C9C299000000000000000000000000000000000000000050EC0080"/>
     </face>
@@ -617,7 +617,7 @@
       <EquipmentSet id="sanyo_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="dead_lord_1_nanjo_2" name="{=shokuho02fc9626}Nanjo Shokoku-in" age="46" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_nanjo_2" name="{=shokuho02fc9626}Nanjou Shokoku-in" age="46" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="46.00" weight="0.4272" build="0.8499" key="0039E00F40000005AB88769BCAFF0F967CA281353EDA71A1CEC32E958A6D678E076D667806426119000000000000000000000000000000000000000044BC10C0"/>
     </face>
@@ -635,7 +635,7 @@
     </Equipments>
   </NPCCharacter>
   <!--Leader-->
-  <NPCCharacter id="lord_1_nanjo" name="{=shokuho370f85B0}Nanjo Sosyo" age="71" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_nanjo" name="{=shokuho370f85B0}Nanjou Sosyo" age="71" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="71.00" weight="0.5192" build="0.1505" key="0039C80E4000044186655A668DA4523B81655A576A9B3698D33A5B753899AC780472864607A9736800000000000000000000000000000000000000001CE40043"/>
     </face>
@@ -655,7 +655,7 @@
       <EquipmentSet id="sanyo_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_nanjo_1" name="{=shokuho26203427}Nanjo Mukuge" age="68" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_nanjo_1" name="{=shokuho26203427}Nanjou Mukuge" age="68" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="68.00" weight="0.53" build="0.7059" key="0018F40D00000006338387EE79BCAB6D6CB48108A739C5B4C51EC79482433B5C012B8614023558C500000000000000000000000000000000000000004A343041"/>
     </face>
@@ -673,7 +673,7 @@
     </Equipments>
   </NPCCharacter>
   <!--children-->
-  <NPCCharacter id="lord_1_nanjo_2" name="{=shokuho3Fcdb21a}Nanjo Mototsugu" age="19" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_nanjo_2" name="{=shokuho3Fcdb21a}Nanjou Mototsugu" age="19" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="19.00" weight="0.4732" build="0.7442" key="001DCC0E80000543A6725B889CB8575BC2688A5A6C9C4698C54867556899C968056B765706C8A37900000000000000000000000000000000000000003ED40082"/>
     </face>
@@ -693,7 +693,7 @@
       <EquipmentSet id="sanyo_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_nanjo_3" name="{=shokuhoe261A9b4}Nanjo Yukue" age="20" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_nanjo_3" name="{=shokuhoe261A9b4}Nanjou Yukue" age="20" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="20.00" weight="0.2876" build="0.6061" key="0013E80BC000000632864C09BC645C562BA58657CC75DD4B92CB72378763889D0F9946F20C14796300000000000000000000000000000000000000005F1C10C1"/>
     </face>
@@ -710,7 +710,7 @@
       <EquipmentSet id="sanyo_civ_template_default_female" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_nanjo_4" name="{=shokuho2161fa4e}Nanjo Motoaki" age="17" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_nanjo_4" name="{=shokuho2161fa4e}Nanjou Motoaki" age="17" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="17.00" weight="0.7966" build="0.5526" key="0032E40EC00004C484697A882BC7794AA2687A697BDD3468C436BC4558A9DB780878C68907A98358000000000000000000000000000000000000000026DC0101"/>
     </face>
@@ -731,7 +731,7 @@
     </Equipments>
   </NPCCharacter>
   <!--brothers-->
-  <NPCCharacter id="lord_1_nanjo_5" name="{=shokuho71D6Da73}Nanjo Nobumasa" age="58" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_nanjo_5" name="{=shokuho71D6Da73}Nanjou Nobumasa" age="58" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="58.00" weight="0.8387" build="0.811" key="003CE40E80000703A57678687CB5574BA3764B8668C8357BD428785558899B78017CD61407D8C36A000000000000000000000000000000000000000064E400C3"/>
     </face>
@@ -751,7 +751,7 @@
       <EquipmentSet id="sanyo_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_nanjo_6" name="{=shokuhoc032FF3c}Nanjo Tokiwa" age="56" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_nanjo_6" name="{=shokuhoc032FF3c}Nanjou Tokiwa" age="56" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="56.00" weight="0.1643" build="0.7058" key="0036E00C80000004CA8D658DC096D911308485597CDB5989B8908D7785547CFC033B2635033444980000000000000000000000000000000000000000666C2041"/>
     </face>
@@ -768,7 +768,7 @@
       <EquipmentSet id="sanyo_civ_template_default_female" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_nanjo_7" name="{=shokuhoA5E357da}Nanjo Munenobu" age="55" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_nanjo_7" name="{=shokuhoA5E357da}Nanjou Munenobu" age="55" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="55.00" weight="0.1162" build="0.8903" key="0029E00E400002C1A56659578BB8694BD2794A9A87DC3958C33756D53889CA78086D2689069AB348000000000000000000000000000000000000000016D40000"/>
     </face>
@@ -788,7 +788,7 @@
       <EquipmentSet id="sanyo_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_nanjo_8" name="{=shokuho8cFF6791}Nanjo Shima" age="54" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_nanjo_8" name="{=shokuho8cFF6791}Nanjou Shima" age="54" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="54.00" weight="0.2783" build="0.9326" key="0012D80EC0000002138A24E131B475AAA6E281B7EA647CD3C518E54D8B9B279F017E4613076335E9000000000000000000000000000000000000000040FC3080"/>
     </face>

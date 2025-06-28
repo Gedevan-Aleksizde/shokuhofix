@@ -35,7 +35,7 @@
         <Benefit skill="Skill.TwoHanded" exp="40000" finalExp="4000" addFocus="true"/>
     </Book>
     <!--Houzouin-ryū Hyouhoumokuroku-->
-    <Book id="book_7" item="Item.book_7" length="160" rarity="unique" desc="{=YDassFgV}A scroll depicting the techniques of Houzouin-ryū school, a spear martial arts specialised in the use of the Jumonji sickle spear to enable diverse offensive and defensive techniques." addFreeFocus="true">
+    <Book id="book_7" item="Item.book_7" length="160" rarity="unique" desc="{=YDassFgV}A scroll depicting the techniques of Houzouin-ryū school, a spear martial arts specialised in the use of the Jūmonji sickle spear to enable diverse offensive and defensive techniques." addFreeFocus="true">
         <Benefit skill="Skill.Polearm" exp="45000" finalExp="4500" addFocus="true"/>
     </Book>
     <!--Sharaishiki-->
@@ -174,7 +174,7 @@
         <Benefit skill="Skill.Scouting" exp="36000" finalExp="3200" addFocus="true"/>
         <Benefit skill="Skill.Trade" exp="30000" finalExp="2500" addFocus="false"/>
     </Book>
-    <!--Tōsenkyou-->
+    <!--Tousenkyou-->
     <Book id="book_40" item="Item.book_40" length="72" rarity="common" desc="{=ZTWHS0RH}A Japanese book on the military strategy established at the end of the Heian period. It was created as a supplementary military book to the writings of Sun Tzu." addFreeFocus="false">
         <Benefit skill="Skill.Tactics" exp="19000" finalExp="2000" addFocus="false"/>
     </Book>

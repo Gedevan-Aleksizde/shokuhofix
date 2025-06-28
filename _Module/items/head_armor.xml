@@ -213,13 +213,13 @@
 		</ItemComponent>
 		<Flags Civilian="true"/>
 	</Item>
-	<Item id="sho_noh_mask_a" name="{=Oeo0q3wU}Noh Mask" subtype="head_armor" mesh="sho_noh_mask_a" weight="0.2" difficulty="0" appearance="1" Type="HeadArmor">
+	<Item id="sho_noh_mask_a" name="{=Oeo0q3wU}Sarugaku Mask" subtype="head_armor" mesh="sho_noh_mask_a" weight="0.2" difficulty="0" appearance="1" Type="HeadArmor">
 		<ItemComponent>
 			<Armor head_armor="5" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type1"/>
 		</ItemComponent>
 		<Flags Civilian="true"/>
 	</Item>
-	<Item id="sho_noh_mask_c" name="{=Oeo0q3wU}Noh Mask" subtype="head_armor" mesh="sho_noh_mask_c" weight="0.2" difficulty="0" appearance="1" Type="HeadArmor">
+	<Item id="sho_noh_mask_c" name="{=Oeo0q3wU}Sarugaku Mask" subtype="head_armor" mesh="sho_noh_mask_c" weight="0.2" difficulty="0" appearance="1" Type="HeadArmor">
 		<ItemComponent>
 			<Armor head_armor="5" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type1"/>
 		</ItemComponent>
@@ -922,31 +922,31 @@
         </ItemComponent>
         <Flags/>
     </Item>
-    <Item id="sho_suji_kabuto_menpo_a" name="{=YOiJXHji}Suji Kabuto &amp; Menpo" subtype="head_armor" mesh="sho_suji_kabuto_menpo_a" weight="3.35" difficulty="0" appearance="1" Type="HeadArmor">
+    <Item id="sho_suji_kabuto_menpo_a" name="{=YOiJXHji}Suji Kabuto &amp; Menpō" subtype="head_armor" mesh="sho_suji_kabuto_menpo_a" weight="3.35" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
             <Armor head_armor="51" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
-    <Item id="sho_suji_kabuto_menpo_b" name="{=YOiJXHji}Suji Kabuto &amp; Menpo" subtype="head_armor" mesh="sho_suji_kabuto_menpo_b" weight="3.35" difficulty="0" appearance="1" Type="HeadArmor">
+    <Item id="sho_suji_kabuto_menpo_b" name="{=YOiJXHji}Suji Kabuto &amp; Menpō" subtype="head_armor" mesh="sho_suji_kabuto_menpo_b" weight="3.35" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
             <Armor head_armor="51" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
-    <Item id="sho_suji_kabuto_menpo_c" name="{=YOiJXHji}Suji Kabuto &amp; Menpo" subtype="head_armor" mesh="sho_suji_kabuto_menpo_c" weight="3.35" difficulty="0" appearance="1" Type="HeadArmor">
+    <Item id="sho_suji_kabuto_menpo_c" name="{=YOiJXHji}Suji Kabuto &amp; Menpō" subtype="head_armor" mesh="sho_suji_kabuto_menpo_c" weight="3.35" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
             <Armor head_armor="51" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
-    <Item id="sho_suji_kabuto_menpo_d" name="{=YOiJXHji}Suji Kabuto &amp; Menpo" subtype="head_armor" mesh="sho_suji_kabuto_menpo_d" weight="3.35" difficulty="0" appearance="1" Type="HeadArmor">
+    <Item id="sho_suji_kabuto_menpo_d" name="{=YOiJXHji}Suji Kabuto &amp; Menpō" subtype="head_armor" mesh="sho_suji_kabuto_menpo_d" weight="3.35" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
             <Armor head_armor="51" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
-    <Item id="sho_suji_kabuto_menpo_e" name="{=YOiJXHji}Suji Kabuto &amp; Menpo" subtype="head_armor" mesh="sho_suji_kabuto_menpo_e" weight="3.35" difficulty="0" appearance="1" Type="HeadArmor">
+    <Item id="sho_suji_kabuto_menpo_e" name="{=YOiJXHji}Suji Kabuto &amp; Menpō" subtype="head_armor" mesh="sho_suji_kabuto_menpo_e" weight="3.35" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
             <Armor head_armor="51" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
@@ -1091,7 +1091,7 @@
     </Item>
 
 
-    <Item id="sho_saiga_kabuto_b_5_menpo" name="{=us1vjvyv}Saika Kaburo &amp; Menpo" subtype="head_armor" mesh="sho_saiga_kabuto_b_5_menpo" weight="2.55" difficulty="0" appearance="1" Type="HeadArmor">
+    <Item id="sho_saiga_kabuto_b_5_menpo" name="{=us1vjvyv}Saika Kabuto &amp; Menpō" subtype="head_armor" mesh="sho_saiga_kabuto_b_5_menpo" weight="2.55" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
             <Armor head_armor="35" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
@@ -1099,7 +1099,7 @@
     </Item>
 
 
-    <Item id="sho_saiga_kabuto_b_6_menpo" name="{=us1vjvyv}Saika Kaburo &amp; Menpo" subtype="head_armor" mesh="sho_saiga_kabuto_b_6_menpo" weight="2.55" difficulty="0" appearance="1" Type="HeadArmor">
+    <Item id="sho_saiga_kabuto_b_6_menpo" name="{=us1vjvyv}Saika Kabuto &amp; Menpō" subtype="head_armor" mesh="sho_saiga_kabuto_b_6_menpo" weight="2.55" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
             <Armor head_armor="35" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
@@ -1107,7 +1107,7 @@
     </Item>
 
 
-    <Item id="sho_saiga_kabuto_b_7_menpo" name="{=us1vjvyv}Saika Kaburo &amp; Menpo" subtype="head_armor" mesh="sho_saiga_kabuto_b_7_menpo" weight="2.55" difficulty="0" appearance="1" Type="HeadArmor">
+    <Item id="sho_saiga_kabuto_b_7_menpo" name="{=us1vjvyv}Saika Kabuto &amp; Menpō" subtype="head_armor" mesh="sho_saiga_kabuto_b_7_menpo" weight="2.55" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
             <Armor head_armor="35" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
@@ -1115,7 +1115,7 @@
     </Item>
 
 
-    <Item id="sho_saiga_kabuto_b_8_menpo" name="{=us1vjvyv}Saika Kaburo &amp; Menpo" subtype="head_armor" mesh="sho_saiga_kabuto_b_8_menpo" weight="2.55" difficulty="0" appearance="1" Type="HeadArmor">
+    <Item id="sho_saiga_kabuto_b_8_menpo" name="{=us1vjvyv}Saika Kabuto &amp; Menpō" subtype="head_armor" mesh="sho_saiga_kabuto_b_8_menpo" weight="2.55" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
             <Armor head_armor="35" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>

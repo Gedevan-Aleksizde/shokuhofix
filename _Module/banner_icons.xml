@@ -379,9 +379,9 @@
 			<Color id="209" hex="0xff6e0c9f" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
 			<!--Saionji Gold Mon Color-->
 			<Color id="210" hex="0xffd2b23d" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
-			<!--Ichijo Light Purple Background-->
+			<!--Ichijou Light Purple Background-->
 			<Color id="211" hex="0xffe2ceec" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
-			<!--Ichijo Dark Purple Mon Color-->
+			<!--Ichijou Dark Purple Mon Color-->
 			<Color id="212" hex="0xff33064a" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
 			<!--Amago Black-->
 			<Color id="213" hex="0xff020202" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
@@ -479,7 +479,7 @@
 				   hex="0xff212636"
 				   player_can_choose_for_sigil="true"
 				   player_can_choose_for_background="true"/>
-			<!--Hojo Background (dark blue)-->
+			<!--Houjou Background (dark blue)-->
 			<Color id="234"
 				   hex="0xff1f4a6a"
 				   player_can_choose_for_sigil="true"
@@ -559,7 +559,7 @@
 				   hex="0xff0f172a"
 				   player_can_choose_for_sigil="true"
 				   player_can_choose_for_background="true"/>
-			<!--Ando emblem (Omsk yellow)-->
+			<!--Andou emblem (Omsk yellow)-->
 			<Color id="250"
 				   hex="0xfffdd116"
 				   player_can_choose_for_sigil="true"

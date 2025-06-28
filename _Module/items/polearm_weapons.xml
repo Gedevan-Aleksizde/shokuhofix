@@ -334,7 +334,7 @@
         </Pieces>
     </CraftedItem>
     <CraftedItem id="sho_yari_9"
-                 name="{=MRHmgVUe}Simple Sahaso Yari"
+                 name="{=MRHmgVUe}Simple Sasaho Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>
@@ -382,7 +382,7 @@
         </Pieces>
     </CraftedItem>
     <CraftedItem id="sho_yari_12"
-                 name="{=YDxvbE82}Sahaso Yari"
+                 name="{=YDxvbE82}Sasaho Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>
@@ -462,7 +462,7 @@
         </Pieces>
     </CraftedItem>
     <CraftedItem id="sho_yari_17"
-                 name="{=UctETje4}Solid Jumonji Yari"
+                 name="{=UctETje4}Solid Jūmonji Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>
@@ -478,7 +478,7 @@
         </Pieces>
     </CraftedItem>
     <CraftedItem id="sho_yari_18"
-                 name="{=dAdZFb9m}Excellent Jumonji Yari"
+                 name="{=dAdZFb9m}Excellent Jūmonji Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>
@@ -494,7 +494,7 @@
         </Pieces>
     </CraftedItem>
     <CraftedItem id="sho_yari_19"
-                 name="{=uq5f5ogO}Renowned Jumonji Yari"
+                 name="{=uq5f5ogO}Renowned Jūmonji Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>
@@ -595,7 +595,7 @@
     </CraftedItem>
 
     <CraftedItem id="sho_yari_25"
-                 name="{=OnOvaRTI}Noble Jumonji Yari"
+                 name="{=OnOvaRTI}Noble Jūmonji Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>
@@ -612,7 +612,7 @@
     </CraftedItem>
 
     <CraftedItem id="sho_yari_26"
-                 name="{=rso9zQtp}Divine Jumonji Yari"
+                 name="{=rso9zQtp}Divine Jūmonji Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>
@@ -629,7 +629,7 @@
     </CraftedItem>
 
     <CraftedItem id="sho_yari_27"
-                 name="{=JnjIgiXD}Venerable Jumonji Yari"
+                 name="{=JnjIgiXD}Venerable Jūmonji Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>

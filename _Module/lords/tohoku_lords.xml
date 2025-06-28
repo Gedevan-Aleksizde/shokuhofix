@@ -462,10 +462,10 @@
       <EquipmentSet id="ou_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <!-- Soma Faction -->
-  <!-- Soma Clan -->
+  <!-- Souma Faction -->
+  <!-- Souma Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_soma" name="{=CrgYCr35}Soma Moritane" age="42" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_soma" name="{=CrgYCr35}Souma Moritane" age="42" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="42.00" weight="0.5684" build="0.2629" key="003DF40EC000054197697A8838C67A6B52677B89389D4A48D33B6BB548898DA80564965706A8B24B000000000000000000000000000000000000000008D40040" />
     </face>
@@ -486,7 +486,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_soma_1" name="{=ppxVSFKS}Soma Kake" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_soma_1" name="{=ppxVSFKS}Souma Kake" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="38.00" weight="0.5004" build="0.8098" key="0033D80E800000064C84539E2E3AC115B69585859791349FC96B3BC18109D97E078C8679085648430000000000000000000000000000000000000000211C20C1" />
     </face>
@@ -504,7 +504,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son -->
-  <NPCCharacter id="lord_1_soma_2" name="{=CkTKok6g}Soma Yoshitane" age="20" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_soma_2" name="{=CkTKok6g}Souma Yoshitane" age="20" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="20.00" weight="0.7001" build="0.3439" key="0033C80EC00003C3846156C84AC7586B9377898849C93A6AC33B668548A989780865B68906C9A387000000000000000000000000000000000000000074CC0042" />
     </face>
@@ -525,7 +525,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son 2 -->
-  <NPCCharacter id="lord_1_soma_3" name="{=l7TOWvmc}Soma Taketane" age="17" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_soma_3" name="{=l7TOWvmc}Souma Taketane" age="17" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="17.00" weight="0.6847" build="0.5773" key="0026F00E80000001956079C9A9B5727B82767965BBFA497BC53D987558A9AC780269A62406D8A28A000000000000000000000000000000000000000046D40040" />
     </face>
@@ -546,7 +546,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son 3 -->
-  <NPCCharacter id="lord_1_soma_4" name="{=YwuGBeax}Soma Satotane" age="14" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_soma_4" name="{=YwuGBeax}Souma Satotane" age="14" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="14.00" weight="0.3553" build="0.6583" key="0029D40EC00005C1A4767528BCB7577A42775B799CB94897D52A9A9558999C78017A56130798835900000000000000000000000000000000000000002CE40043" />
     </face>
@@ -567,7 +567,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Daughter -->
-  <NPCCharacter id="lord_1_soma_5" name="{=nci1JssK}Soma Haru" age="8" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_soma_5" name="{=nci1JssK}Souma Haru" age="8" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="8.00" weight="0.5724" build="0.8415" key="0015F00A80000002998E93E8E9275F76DEC2839FA236CEB57DB394E48443756C032D96350202074D0000000000000000000000000000000000000000483C3041" />
     </face>
@@ -2291,7 +2291,7 @@
       <EquipmentSet id="ou_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <!-- Honjo Faction -->
+  <!-- Honjou Faction -->
   <!-- Daihoji Clan -->
   <!-- Leader -->
   <NPCCharacter id="lord_1_daihoji" name="{=XUP0oREf}Daihoji Yoshimasu" age="46" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
@@ -2692,10 +2692,10 @@
       <EquipmentSet id="ou_civ_template_default_female" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <!-- Ando Faction -->
-  <!-- Ando Clan -->
+  <!-- Andou Faction -->
+  <!-- Andou Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_ando" name="{=bLbHwsOu}Ando Chikasue" age="29" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ando" name="{=bLbHwsOu}Andou Chikasue" age="29" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="29.00" weight="0.2027" build="0.4619" key="003AF40EC00002C2A7608A886DC5757B92686A3688A83759D32868954889CC880867368906A7826800000000000000000000000000000000000000001ACC0041" />
     </face>
@@ -2716,7 +2716,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_ando_1" name="{=2lCIr4Yo}Ando Ume" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ando_1" name="{=2lCIr4Yo}Andou Ume" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="28.00" weight="0.2802" build="0.6468" key="002FE80B400000023B863BFBE955064344C2823445BA74ABD831E28B835B3DFA077A4678070174F1000000000000000000000000000000000000000024F41001" />
     </face>
@@ -2734,7 +2734,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Father (dead) -->
-  <NPCCharacter id="dead_lord_1_ando_2" name="{=V0yNJaSo}Ando Kiyosue" age="39" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_ando_2" name="{=V0yNJaSo}Andou Kiyosue" age="39" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="39.00" weight="0.8583" build="0.7621" key="0020D40E40000403B861878946B6753CC2785A47768C3A77C33A6CB54899B9A8006BD60306D8B29700000000000000000000000000000000000000006ECC0143" />
     </face>
@@ -2755,7 +2755,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Mother (dead) -->
-  <NPCCharacter id="dead_lord_1_ando_3" name="{=KLD5OGKr}Ando Mitsu" age="39" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_ando_3" name="{=KLD5OGKr}Andou Mitsu" age="39" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="39.00" weight="0.4262" build="0.3328" key="000CF00D80000003B38987EEAF8E6864C6818336576443376843C6E683496D7E082566820543194B0000000000000000000000000000000000000000484430C0" />
     </face>
@@ -2773,7 +2773,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son -->
-  <NPCCharacter id="lord_1_ando_4" name="{=Nn83RWCj}Ando Narisue" age="3" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ando_4" name="{=Nn83RWCj}Andou Narisue" age="3" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="3.00" weight="0.5525" build="0.7773" key="0021E80EC0000641A771769646A4664B81794B769889497BD43A9BB558899988026C862406B6B37A000000000000000000000000000000000000000072D40003" />
     </face>
@@ -2794,7 +2794,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother -->
-  <NPCCharacter id="lord_1_ando_5" name="{=CuZoMuTC}Ando Shigesue" age="28" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ando_5" name="{=CuZoMuTC}Andou Shigesue" age="28" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="28.00" weight="0.7135" build="0.1338" key="0020E80E800003C39662687629B4655A93667A38BCD9354BC23D875558A9B8780772B67907C6835B000000000000000000000000000000000000000008DC00C2" />
     </face>
@@ -2815,7 +2815,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother Spouse -->
-  <NPCCharacter id="lord_1_ando_6" name="{=MnxZWCfr}Ando Fusa" age="24" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ando_6" name="{=MnxZWCfr}Andou Fusa" age="24" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="24.00" weight="0.2382" build="0.4231" key="000DF40D80000006118D3648C8264FBF1B9383D191C77D738965DA2286FE9BBC042646450217788B0000000000000000000000000000000000000000164C2080" />
     </face>
@@ -2833,7 +2833,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother Son (nephew) -->
-  <NPCCharacter id="lord_1_ando_7" name="{=UP1GXVUv}Ando Michisue" age="4" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ando_7" name="{=UP1GXVUv}Andou Michisue" age="4" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="4.00" weight="0.6187" build="0.2031" key="003AD40E400001029665668785A6683B61764A8897C9368AD228A58558A99CA80763967806CAA36A000000000000000000000000000000000000000020D40043" />
     </face>

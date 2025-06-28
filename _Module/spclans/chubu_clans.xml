@@ -39,8 +39,8 @@
 <Faction id="clan_jinbo_1" is_noble="true" name="{=5CN6Gy5S}Jinbo-shi" tier="3" owner="Hero.lord_1_jinbo" culture="Culture.hokuriku" super_faction="Kingdom.uesugi" banner_key="11.163.166.1528.1528.764.764.1.0.0.706.171.171.483.483.764.764.0.0.0"/>
 <Faction id="clan_murakami_2" is_noble="true" name="{=zMS7kVYL}Murakami-shi" tier="4" owner="Hero.lord_2_murakami" culture="Culture.hokuriku" super_faction="Kingdom.uesugi" banner_key="11.163.166.1528.1528.764.764.1.0.0.707.171.171.483.483.764.764.0.0.0"/>
 <Faction id="clan_honma_1" is_noble="true" name="{=vbUCt3rO}Honma-shi" tier="2" owner="Hero.lord_1_honma" culture="Culture.hokuriku" super_faction="Kingdom.uesugi" banner_key="11.163.166.1528.1528.764.764.1.0.0.708.171.171.483.483.764.764.0.0.0"/>
-<!--Honjo Faction-->
-<Faction id="clan_honjo_1" is_noble="true" name="{=Zh7GjSjo}Honjo-shi" tier="4" owner="Hero.lord_1_honjo" culture="Culture.hokuriku" super_faction="Kingdom.honjo" banner_key="11.163.166.1528.1528.764.764.1.0.0.709.171.171.483.483.764.764.0.0.0"/>
+<!--Honjou Faction-->
+<Faction id="clan_honjo_1" is_noble="true" name="{=Zh7GjSjo}Honjou-shi" tier="4" owner="Hero.lord_1_honjo" culture="Culture.hokuriku" super_faction="Kingdom.honjo" banner_key="11.163.166.1528.1528.764.764.1.0.0.709.171.171.483.483.764.764.0.0.0"/>
 <!--Takeda Faction-->
 <Faction id="clan_takeda_1" is_noble="true" name="{=yCcCT6mZ}Takeda-shi" tier="6" owner="Hero.lord_1_takeda" culture="Culture.tosan" super_faction="Kingdom.takeda" banner_key="11.163.166.1528.1528.764.764.1.0.0.710.171.171.483.483.764.764.0.0.0"/>
 <Faction id="clan_baba_1" is_noble="true" name="{=I9hQfxer}Baba-shi" tier="4" owner="Hero.lord_1_baba" culture="Culture.tosan" super_faction="Kingdom.takeda" banner_key="11.163.166.1528.1528.764.764.1.0.0.711.171.171.483.483.764.764.0.0.0"/>

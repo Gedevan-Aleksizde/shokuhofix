@@ -149,62 +149,62 @@
 	<Hero id="lord_1_naito_2"
 		  faction="Faction.clan_naito_1"
 		  text="{=niI9dpuu}Naito Motoyasu." />
-	<!--Nanjo clan-->
+	<!--Nanjou clan-->
 	<Hero id="lord_1_nanjo"
 		  faction="Faction.clan_nanjo_1"
 		  spouse="Hero.lord_1_nanjo_1"
 		  father="Hero.dead_lord_1_nanjo_1"
 		  mother="Hero.dead_lord_1_nanjo_2"
-		  text="{=niI9dpuu}Nanjo Sosyo." />
+		  text="{=niI9dpuu}Nanjou Sosyo." />
 	<Hero id="lord_1_nanjo_1"
 		  faction="Faction.clan_nanjo_1"
 		  spouse="Hero.lord_1_nanjo"
-		  text="{=niI9dpuu}Nanjo Mukuge." />
+		  text="{=niI9dpuu}Nanjou Mukuge." />
 	<Hero id="lord_1_nanjo_2"
 		  faction="Faction.clan_nanjo_1"
 		  father="Hero.lord_1_nanjo"
 		  mother="Hero.lord_1_nanjo_1"
-		  text="{=niI9dpuu}Nanjo Mototsugu." />
+		  text="{=niI9dpuu}Nanjou Mototsugu." />
 	<Hero id="lord_1_nanjo_3"
 		  faction="Faction.clan_nanjo_1"
 		  father="Hero.lord_1_nanjo"
 		  mother="Hero.lord_1_nanjo_1"
-		  text="{=niI9dpuu}Nanjo Yukue." />
+		  text="{=niI9dpuu}Nanjou Yukue." />
 	<Hero id="lord_1_nanjo_4"
 		  faction="Faction.clan_nanjo_1"
 		  father="Hero.lord_1_nanjo"
 		  mother="Hero.lord_1_nanjo_1"
-		  text="{=niI9dpuu}Nanjo Motoaki." />
+		  text="{=niI9dpuu}Nanjou Motoaki." />
 	<Hero id="lord_1_nanjo_5"
 		  faction="Faction.clan_nanjo_1"
 		  spouse="Hero.lord_1_nanjo_6"
 		  father="Hero.dead_lord_1_nanjo_1"
 		  mother="Hero.dead_lord_1_nanjo_2"
-		  text="{=niI9dpuu}Nanjo Nobumasa." />
+		  text="{=niI9dpuu}Nanjou Nobumasa." />
 	<Hero id="lord_1_nanjo_6"
 		  faction="Faction.clan_nanjo_1"
 		  spouse="Hero.lord_1_nanjo_5"
-		  text="{=niI9dpuu}Nanjo Tokiwa." />
+		  text="{=niI9dpuu}Nanjou Tokiwa." />
 	<Hero id="lord_1_nanjo_7"
 		  faction="Faction.clan_nanjo_1"
 		  spouse="Hero.lord_1_nanjo_8"
 		  father="Hero.dead_lord_1_nanjo_1"
 		  mother="Hero.dead_lord_1_nanjo_2"
-		  text="{=niI9dpuu}Nanjo Munenobu." />
+		  text="{=niI9dpuu}Nanjou Munenobu." />
 	<Hero id="lord_1_nanjo_8"
 		  faction="Faction.clan_nanjo_1"
 		  spouse="Hero.lord_1_nanjo_7"
-		  text="{=niI9dpuu}Nanjo Shima." />
+		  text="{=niI9dpuu}Nanjou Shima." />
 	<Hero id="dead_lord_1_nanjo_1"
 		  alive="false"
 		  faction="Faction.clan_nanjo_1"
 		  spouse="Hero.dead_lord_1_nanjo_2"
-		  text="{=niI9dpuu}Nanjo Munehiro." />
+		  text="{=niI9dpuu}Nanjou Munehiro." />
 	<Hero id="dead_lord_1_nanjo_2"
 		  alive="false"
 		  faction="Faction.clan_nanjo_1"
 		  spouse="Hero.dead_lord_1_nanjo_1"
-		  text="{=niI9dpuu}Nanjo Shokoku-in ." />
+		  text="{=niI9dpuu}Nanjou Shokoku-in ." />
 	<!--Misawa clan-->
 	<Hero id="lord_1_misawa"
 		  faction="Faction.clan_misawa_1"

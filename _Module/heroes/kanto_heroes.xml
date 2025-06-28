@@ -23,20 +23,20 @@
 	<Hero id="lord_1_yura_4" faction="Faction.clan_yura_1" father="Hero.lord_1_yura" mother="Hero.lord_1_yura_1" text="{=b3YDzA8r}Yura Akinaga"/>
 	<Hero id="lord_1_yura_5" faction="Faction.clan_yura_1" father="Hero.lord_1_yura" mother="Hero.lord_1_yura_1" text="{=ZiQq8JDT}Yura Mayu"/>
 	<Hero id="lord_1_yura_6" faction="Faction.clan_yura_1" father="Hero.lord_1_yura" mother="Hero.lord_1_yura_1" text="{=uog9xjJ7}Yura Sumi"/>
-	<!--Hojo Faction-->
-	<!--Hojo Clan-->
-	<Hero id="lord_1_hojo" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo_1" father="Hero.lord_1_hojo_2" mother="Hero.lord_1_hojo_3" text="{=P3zTiZCm}Hojo Ujimasa"/>
-	<Hero id="lord_1_hojo_1" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo" text="{=RSvvwQuG}Hojo Hosho-in"/>
-	<Hero id="lord_1_hojo_2" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo_3" text="{=fpxfCA95}Hojo Ujiyasu"/>
-	<Hero id="lord_1_hojo_3" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo_2" text="{=w54S5I3N}Hojo Zuikei-in"/>
-	<Hero id="lord_1_hojo_4" faction="Faction.clan_hojo_1" father="Hero.lord_1_hojo" mother="Hero.lord_1_hojo_1" text="{=pizr75r3}Hojo Ujinao"/>
-	<Hero id="lord_1_hojo_5" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo_6" father="Hero.lord_1_hojo_2" mother="Hero.lord_1_hojo_3" text="{=1agVt6tW}Hojo Ujiteru"/>
-	<Hero id="lord_1_hojo_6" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo_5" text="{=iUvP6aFv}Hojo Hisa"/>
-	<Hero id="lord_1_hojo_7" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo_8" father="Hero.lord_1_hojo_2" mother="Hero.lord_1_hojo_3" text="{=fAdkH6BS}Hojo Ujikuni"/>
-	<Hero id="lord_1_hojo_8" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo_7" text="{=Ihhdccnz}Hojo Fuku"/>
-	<Hero id="lord_1_hojo_9" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo_10" father="Hero.lord_1_hojo_2" mother="Hero.lord_1_hojo_3" text="{=I6HLatlC}Hojo Ujinori"/>
-	<Hero id="lord_1_hojo_10" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo_9" text="{=XT3whBO1}Hojo Kougen-in"/>
-	<Hero id="lord_1_hojo_11" faction="Faction.clan_hojo_1" text="{=HMftyqYc}Hojo Gen-an"/>
+	<!--Houjou Faction-->
+	<!--Houjou Clan-->
+	<Hero id="lord_1_hojo" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo_1" father="Hero.lord_1_hojo_2" mother="Hero.lord_1_hojo_3" text="{=P3zTiZCm}Houjou Ujimasa"/>
+	<Hero id="lord_1_hojo_1" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo" text="{=RSvvwQuG}Houjou Hosho-in"/>
+	<Hero id="lord_1_hojo_2" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo_3" text="{=fpxfCA95}Houjou Ujiyasu"/>
+	<Hero id="lord_1_hojo_3" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo_2" text="{=w54S5I3N}Houjou Zuikei-in"/>
+	<Hero id="lord_1_hojo_4" faction="Faction.clan_hojo_1" father="Hero.lord_1_hojo" mother="Hero.lord_1_hojo_1" text="{=pizr75r3}Houjou Ujinao"/>
+	<Hero id="lord_1_hojo_5" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo_6" father="Hero.lord_1_hojo_2" mother="Hero.lord_1_hojo_3" text="{=1agVt6tW}Houjou Ujiteru"/>
+	<Hero id="lord_1_hojo_6" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo_5" text="{=iUvP6aFv}Houjou Hisa"/>
+	<Hero id="lord_1_hojo_7" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo_8" father="Hero.lord_1_hojo_2" mother="Hero.lord_1_hojo_3" text="{=fAdkH6BS}Houjou Ujikuni"/>
+	<Hero id="lord_1_hojo_8" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo_7" text="{=Ihhdccnz}Houjou Fuku"/>
+	<Hero id="lord_1_hojo_9" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo_10" father="Hero.lord_1_hojo_2" mother="Hero.lord_1_hojo_3" text="{=I6HLatlC}Houjou Ujinori"/>
+	<Hero id="lord_1_hojo_10" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo_9" text="{=XT3whBO1}Houjou Kougen-in"/>
+	<Hero id="lord_1_hojo_11" faction="Faction.clan_hojo_1" text="{=HMftyqYc}Houjou Gen-an"/>
 	<!--Matsuda Clan-->
 	<Hero id="lord_1_matsuda" faction="Faction.clan_matsuda_1" spouse="Hero.lord_1_matsuda_1" text="{=IFVBo0UW}Matsuda Norihide"/>
 	<Hero id="lord_1_matsuda_1" faction="Faction.clan_matsuda_1" spouse="Hero.lord_1_matsuda" text="{=Koe4GEO4}Matsuda Tani"/>
@@ -62,10 +62,10 @@
 	<Hero id="lord_1_toyama_9" faction="Faction.clan_toyama_1" father="Hero.dead_lord_1_toyama_2" mother="Hero.dead_lord_1_toyama_3" text="{=gSd6sI0U}Toyama Hideshige"/>
 	<Hero id="lord_1_toyama_10" faction="Faction.clan_toyama_1" father="Hero.dead_lord_1_toyama_2" mother="Hero.dead_lord_1_toyama_3" text="{=szgwXx0f}Toyama Shigemasa"/>
 	<!--didoji Clan-->
-	<Hero id="lord_1_didoji" faction="Faction.clan_didoji_1" spouse="Hero.lord_1_didoji_1" text="{=f3MMiYMN}Didoji Masashige"/>
-	<Hero id="lord_1_didoji_1" faction="Faction.clan_didoji_1" spouse="Hero.lord_1_didoji" text="{=HxDyc3ql}Didoji Shino"/>
-	<Hero id="lord_1_didoji_2" faction="Faction.clan_didoji_1" father="Hero.lord_1_didoji" mother="Hero.lord_1_didoji_1" text="{=nDpdaTzx}Didoji Naohide"/>
-	<Hero id="lord_1_didoji_3" faction="Faction.clan_didoji_1" father="Hero.lord_1_didoji" mother="Hero.lord_1_didoji_1" text="{=Id4pOfky}Didoji Naoshige"/>
+	<Hero id="lord_1_didoji" faction="Faction.clan_didoji_1" spouse="Hero.lord_1_didoji_1" text="{=f3MMiYMN}Daidouji Masashige"/>
+	<Hero id="lord_1_didoji_1" faction="Faction.clan_didoji_1" spouse="Hero.lord_1_didoji" text="{=HxDyc3ql}Daidouji Shino"/>
+	<Hero id="lord_1_didoji_2" faction="Faction.clan_didoji_1" father="Hero.lord_1_didoji" mother="Hero.lord_1_didoji_1" text="{=nDpdaTzx}Daidouji Naohide"/>
+	<Hero id="lord_1_didoji_3" faction="Faction.clan_didoji_1" father="Hero.lord_1_didoji" mother="Hero.lord_1_didoji_1" text="{=Id4pOfky}Daidouji Naoshige"/>
 	<!--narita Clan-->
 	<Hero id="lord_1_narita" faction="Faction.clan_narita_1" spouse="Hero.lord_1_narita_1" father="Hero.lord_1_narita_2" mother="Hero.lord_1_narita_3" text="{=SwQ02lSF}Narita Ujinaga"/>
 	<Hero id="lord_1_narita_1" faction="Faction.clan_narita_1" spouse="Hero.lord_1_narita" text="{=Vm16qd8L}Narita Araragi"/>

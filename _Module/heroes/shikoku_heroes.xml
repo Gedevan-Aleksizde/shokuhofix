@@ -19,13 +19,13 @@
 	<Hero id="lord_1_hoketsu_1" faction="Faction.clan_hoketsu_1" spouse="Hero.lord_1_hoketsu" text="{=GCLn5ECy}Hoketsu Hama"/>
 	<Hero id="lord_1_hoketsu_2" faction="Faction.clan_hoketsu_1" spouse="Hero.lord_1_hoketsu_3" father="Hero.lord_1_hoketsu" mother="Hero.lord_1_hoketsu_1" text="{=UgnuLgbA}Hoketsu Sakinobu"/>
 	<Hero id="lord_1_hoketsu_3" faction="Faction.clan_hoketsu_1" spouse="Hero.lord_1_hoketsu_2" text="{=51dM4xsA}Hoketsu Kuwa"/>
-	<!--Ichijo kingdom-->
-	<!--Ichijo clan-->
-	<Hero id="lord_1_ichijo" faction="Faction.clan_ichijo_1" spouse="Hero.lord_1_ichijo_1" text="{=l9dNB33O}Ichijo Kanesada"/>
-	<Hero id="lord_1_ichijo_1" faction="Faction.clan_ichijo_1" spouse="Hero.lord_1_ichijo" text="{=vZK6RwNC}Ichijo Tamafuji"/>
-	<Hero id="lord_1_ichijo_2" faction="Faction.clan_ichijo_1" father="Hero.lord_1_ichijo" mother="Hero.lord_1_ichijo_1" text="{=aa7k9lsZ}Ichijo Tadamasa"/>
-	<Hero id="lord_1_ichijo_3" faction="Faction.clan_ichijo_1" father="Hero.lord_1_ichijo" mother="Hero.lord_1_ichijo_1" text="{=FH6ohwg7}Ichijo Nobuko"/>
-	<Hero id="lord_1_ichijo_4" faction="Faction.clan_ichijo_1" father="Hero.lord_1_ichijo" mother="Hero.lord_1_ichijo_1" text="{=84OJJiZg}Ichijo Mariko"/>
+	<!--Ichijou kingdom-->
+	<!--Ichijou clan-->
+	<Hero id="lord_1_ichijo" faction="Faction.clan_ichijo_1" spouse="Hero.lord_1_ichijo_1" text="{=l9dNB33O}Ichijou Kanesada"/>
+	<Hero id="lord_1_ichijo_1" faction="Faction.clan_ichijo_1" spouse="Hero.lord_1_ichijo" text="{=vZK6RwNC}Ichijou Tamafuji"/>
+	<Hero id="lord_1_ichijo_2" faction="Faction.clan_ichijo_1" father="Hero.lord_1_ichijo" mother="Hero.lord_1_ichijo_1" text="{=aa7k9lsZ}Ichijou Tadamasa"/>
+	<Hero id="lord_1_ichijo_3" faction="Faction.clan_ichijo_1" father="Hero.lord_1_ichijo" mother="Hero.lord_1_ichijo_1" text="{=FH6ohwg7}Ichijou Nobuko"/>
+	<Hero id="lord_1_ichijo_4" faction="Faction.clan_ichijo_1" father="Hero.lord_1_ichijo" mother="Hero.lord_1_ichijo_1" text="{=84OJJiZg}Ichijou Mariko"/>
 	<!--doi clan-->
 	<Hero id="lord_1_doi" faction="Faction.clan_doi_1" spouse="Hero.lord_1_doi_1" text="{=j6oilqBS}Doi Kiyoyoshi"/>
 	<Hero id="lord_1_doi_1" faction="Faction.clan_doi_1" spouse="Hero.lord_1_doi" text="{=R9UQCnuM}Doi Mugi"/>

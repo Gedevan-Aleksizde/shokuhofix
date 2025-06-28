@@ -1025,7 +1025,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_CHUB2" name="{=6PgvlbUT}Oyama" owner="Faction.clan_shimotsuma_1" posX="999.99" posY="808.456" culture="Culture.hokuriku" gate_posX="998.2476" gate_posY="805.5337" text="{=lVVZzX8n}Originally established as a humble supply post at the edge of fertile plains, Oyama has evolved into a bustling castle town along eastern Japan's trade routes and a vital military outpost at the crossroads of the competing Uesugi and Hojo clans.">
+  <Settlement id="town_CHUB2" name="{=6PgvlbUT}Oyama" owner="Faction.clan_shimotsuma_1" posX="999.99" posY="808.456" culture="Culture.hokuriku" gate_posX="998.2476" gate_posY="805.5337" text="{=lVVZzX8n}Originally established as a humble supply post at the edge of fertile plains, Oyama has evolved into a bustling castle town along eastern Japan's trade routes and a vital military outpost at the crossroads of the competing Uesugi and Houjou clans.">
     <Components>
       <Town id="town_comp_CHUB2" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="3200"/>
     </Components>
@@ -1887,7 +1887,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_CHUB5_1" name="{=y0hE60ln}Hojozu" posX="1042.865" posY="831.268" culture="Culture.hokuriku" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_CHUB5_1" name="{=y0hE60ln}Houjouzu" posX="1042.865" posY="831.268" culture="Culture.hokuriku" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_CHUB5_1" village_type="VillageType.rice_farm" hearth="200" gate_rotation="0.008" bound="Settlement.castle_CHUB5" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -2957,7 +2957,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_KA1" name="{=6JVWOV78}Odawara" owner="Faction.clan_hojo_1" posX="1278.193" posY="653.488" culture="Culture.kanto" gate_posX="1275.46" gate_posY="655.5144" text="{=Kpqqt4hJ}A Odawara, the stronghold of the powerful Hojo clan, stands as an impregnable fortress in the Kantou region. With its vast network of walls, moats, and outlying fortifications, it is considered one of the most well-defended castles in Japan. The city below is a thriving center of trade, with merchants, farmers, and artisans benefiting from Hojo governance. Odawara’s strategic location allows the Hojo to control access to eastern Japan, ensuring their dominance over the region.">
+  <Settlement id="town_KA1" name="{=6JVWOV78}Odawara" owner="Faction.clan_hojo_1" posX="1278.193" posY="653.488" culture="Culture.kanto" gate_posX="1275.46" gate_posY="655.5144" text="{=Kpqqt4hJ}A Odawara, the stronghold of the powerful Houjou clan, stands as an impregnable fortress in the Kantou region. With its vast network of walls, moats, and outlying fortifications, it is considered one of the most well-defended castles in Japan. The city below is a thriving center of trade, with merchants, farmers, and artisans benefiting from Houjou governance. Odawara’s strategic location allows the Houjou to control access to eastern Japan, ensuring their dominance over the region.">
     <Components>
       <Town id="town_comp_KA1" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="3400"/>
     </Components>
@@ -6056,7 +6056,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_KY10" name="{=eL3o2vmZ}Muranaka" owner="Faction.clan_ryuzoji_1" posX="276.576" posY="398.794" culture="Culture.saikai" gate_posX="277.3694" gate_posY="395.4855" text="{=kw7kEnWY}Muranaka has long served as a local stronghold in Western Kyushu, functioning as a minor seat of governance under the protection of the Aso clan, whose authority once extended across the central highlands. With the Aso clan’s power sharply declined under pressure from the Shimazu to the south and the Ōtomo to the east, Muranaka is now left vulnerable.">
+  <Settlement id="town_KY10" name="{=eL3o2vmZ}Muranaka" owner="Faction.clan_ryuzoji_1" posX="276.576" posY="398.794" culture="Culture.saikai" gate_posX="277.3694" gate_posY="395.4855" text="{=kw7kEnWY}Muranaka has long served as a local stronghold in Western Kyushu, functioning as a minor seat of governance under the protection of the Asou clan, whose authority once extended across the central highlands. With the Asou clan’s power sharply declined under pressure from the Shimazu to the south and the Ōtomo to the east, Muranaka is now left vulnerable.">
     <Components>
       <Town id="town_comp_KY10" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.808" prosperity="2000"/>
     </Components>
@@ -6135,7 +6135,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY11_2" name="{=9YfwfCjt}Koujiro" posX="282.294" posY="339.982" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY11_2" name="{=9YfwfCjt}Koujirou" posX="282.294" posY="339.982" culture="Culture.saikai" text="{=shokuho47a91543}">
     <Components>
       <Village id="village_comp_KY11_2" village_type="VillageType.logger" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY11" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -8774,7 +8774,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_TOHO8" name="{=WyYgoD82}Soma-Nakamura Castle" owner="Faction.clan_soma_1" posX="1449.411" posY="974.528" culture="Culture.ou" gate_posX="1447.355" gate_posY="974.1235">
+  <Settlement id="castle_TOHO8" name="{=WyYgoD82}Souma-Nakamura Castle" owner="Faction.clan_soma_1" posX="1449.411" posY="974.528" culture="Culture.ou" gate_posX="1447.355" gate_posY="974.1235">
     <Components>
       <Town id="castle_comp_TOHO8" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="959"/>
     </Components>

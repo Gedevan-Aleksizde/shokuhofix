@@ -265,16 +265,16 @@
 	<Hero id="lord_1_honma_4" faction="Faction.clan_honma_1" father="Hero.lord_1_honma_2" mother="Hero.lord_1_honma_3" text="{=wr8Xrdq3}Honma Muneyuki"/>
 	<Hero id="lord_1_honma_5" faction="Faction.clan_honma_1" father="Hero.lord_1_honma_2" mother="Hero.lord_1_honma_3" text="{=jKoS0rtx}Honma Takaou"/>
 
-	<!--Honjo Faction
-	Honjo Clan-->
-	<Hero id="lord_1_honjo" faction="Faction.clan_honjo_1" spouse="Hero.lord_1_honjo_1" text="{=Yb8Jirco}Honjo Sigenaga"/>
-	<Hero id="lord_1_honjo_1" faction="Faction.clan_honjo_1" spouse="Hero.lord_1_honjo" text="{=NDluCjrj}Honjo Momiji"/>
-	<Hero id="lord_1_honjo_2" faction="Faction.clan_honjo_1" father="Hero.lord_1_honjo" mother="Hero.lord_1_honjo_1" text="{=Ng1qk1bc}Honjo Akinaga"/>
-	<Hero id="lord_1_honjo_3" faction="Faction.clan_honjo_1" spouse="Hero.lord_1_honjo_4" text="{=9107Gylz}Honjo Saneyori"/>
-	<Hero id="lord_1_honjo_4" faction="Faction.clan_honjo_1" spouse="Hero.lord_1_honjo_3" text="{=7U80DoRY}Honjo Sagami"/>
-	<Hero id="lord_1_honjo_5" faction="Faction.clan_honjo_1" spouse="Hero.lord_1_honjo_6" father="Hero.lord_1_honjo_3" mother="Hero.lord_1_honjo_4" text="{=5LpGgkPs}Honjo Hidetsuna"/>
-	<Hero id="lord_1_honjo_6" faction="Faction.clan_honjo_1" spouse="Hero.lord_1_honjo_5" text="{=1oAT3tap}Honjo Ise"/>
-	<Hero id="lord_1_honjo_7" faction="Faction.clan_honjo_1" father="Hero.lord_1_honjo_5" mother="Hero.lord_1_honjo_6" text="{=3MdGZMX4}Honjo Kageyori"/>
+	<!--Honjou Faction
+	Honjou Clan-->
+	<Hero id="lord_1_honjo" faction="Faction.clan_honjo_1" spouse="Hero.lord_1_honjo_1" text="{=Yb8Jirco}Honjou Sigenaga"/>
+	<Hero id="lord_1_honjo_1" faction="Faction.clan_honjo_1" spouse="Hero.lord_1_honjo" text="{=NDluCjrj}Honjou Momiji"/>
+	<Hero id="lord_1_honjo_2" faction="Faction.clan_honjo_1" father="Hero.lord_1_honjo" mother="Hero.lord_1_honjo_1" text="{=Ng1qk1bc}Honjou Akinaga"/>
+	<Hero id="lord_1_honjo_3" faction="Faction.clan_honjo_1" spouse="Hero.lord_1_honjo_4" text="{=9107Gylz}Honjou Saneyori"/>
+	<Hero id="lord_1_honjo_4" faction="Faction.clan_honjo_1" spouse="Hero.lord_1_honjo_3" text="{=7U80DoRY}Honjou Sagami"/>
+	<Hero id="lord_1_honjo_5" faction="Faction.clan_honjo_1" spouse="Hero.lord_1_honjo_6" father="Hero.lord_1_honjo_3" mother="Hero.lord_1_honjo_4" text="{=5LpGgkPs}Honjou Hidetsuna"/>
+	<Hero id="lord_1_honjo_6" faction="Faction.clan_honjo_1" spouse="Hero.lord_1_honjo_5" text="{=1oAT3tap}Honjou Ise"/>
+	<Hero id="lord_1_honjo_7" faction="Faction.clan_honjo_1" father="Hero.lord_1_honjo_5" mother="Hero.lord_1_honjo_6" text="{=3MdGZMX4}Honjou Kageyori"/>
 
 	<!--Takeda Faction
 	Takeda Clan-->

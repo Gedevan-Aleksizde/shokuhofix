@@ -276,7 +276,7 @@
   <!--ichjio clan-->
   <!--Parents-->
   <!--Leader-->
-  <NPCCharacter id="lord_1_ichijo" name="{=l9dNB33O}Ichijo Kanesada" age="25" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ichijo" name="{=l9dNB33O}Ichijou Kanesada" age="25" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="25.00" weight="0.265" build="0.8143" key="002FE40E40000443B5786AB7A8B7679A71673A39A9B93778C5364B355899C888046C464506B6723900000000000000000000000000000000000000005CCC0102" />
     </face>
@@ -296,7 +296,7 @@
       <EquipmentSet id="nankai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_ichijo_1" name="{=vZK6RwNC}Ichijo Tamafuji" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ichijo_1" name="{=vZK6RwNC}Ichijou Tamafuji" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="28.00" weight="0.2102" build="0.3965" key="002FE40E400000057682432AEFFC71A9E68582E45372D142662AA805839CCD9906863667086714B700000000000000000000000000000000000000003F1C0080" />
     </face>
@@ -314,7 +314,7 @@
     </Equipments>
   </NPCCharacter>
   <!--children-->
-  <NPCCharacter id="lord_1_ichijo_2" name="{=aa7k9lsZ}Ichijo Tadamasa" age="6" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ichijo_2" name="{=aa7k9lsZ}Ichijou Tadamasa" age="6" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="6.00" weight="0.4541" build="0.8087" key="0023CC0EC00005C1857378D63AC5668BC16789489D79355CD43B65B538999A78077C767807C6A379000000000000000000000000000000000000000016DC0040" />
     </face>
@@ -334,7 +334,7 @@
       <EquipmentSet id="nankai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_ichijo_3" name="{=FH6ohwg7}Ichijo Nobuko" age="3" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ichijo_3" name="{=FH6ohwg7}Ichijou Nobuko" age="3" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="3.00" weight="0.5472" build="0.6668" key="0019E00B800000043586424EABC2B05E79F583B90F88B6545B7E575B8E71EEAD012A86130216215100000000000000000000000000000000000000006E441081" />
     </face>
@@ -351,7 +351,7 @@
       <EquipmentSet id="nankai_civ_template_default_female" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_ichijo_4" name="{=84OJJiZg}Ichijo Mariko" age="2" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ichijo_4" name="{=84OJJiZg}Ichijou Mariko" age="2" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="2.00" weight="0.0884" build="0.2956" key="0008D80F00000003B5872DCD814812059AA181362223A24B283BF60787953E7D062416670266048C0000000000000000000000000000000000000000024C00C0" />
     </face>

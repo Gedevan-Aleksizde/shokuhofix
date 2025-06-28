@@ -258,55 +258,55 @@
     </ItemComponent>
     <Flags UseTeamColor="true"/>
   </Item>
-  <Item id="sho_nio_do_a_kimono_a_haidate_a_1" name="{=6oWrfo7c}Nio Do Haidate" subtype="body_armor" mesh="sho_nio_do_a_kimono_a_haidate_a_1" weight="15" difficulty="0" appearance="1.6" Type="BodyArmor">
+  <Item id="sho_nio_do_a_kimono_a_haidate_a_1" name="{=6oWrfo7c}Niou Do Haidate" subtype="body_armor" mesh="sho_nio_do_a_kimono_a_haidate_a_1" weight="15" difficulty="0" appearance="1.6" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="34" leg_armor="14" arm_armor="3" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate"/>
     </ItemComponent>
     <Flags UseTeamColor="true"/>
   </Item>
-  <Item id="sho_nio_do_a_kimono_a_haidate_a_2" name="{=6oWrfo7c}Nio Do Haidate" subtype="body_armor" mesh="sho_nio_do_a_kimono_a_haidate_a_2" weight="15" difficulty="0" appearance="1.6" Type="BodyArmor">
+  <Item id="sho_nio_do_a_kimono_a_haidate_a_2" name="{=6oWrfo7c}Niou Do Haidate" subtype="body_armor" mesh="sho_nio_do_a_kimono_a_haidate_a_2" weight="15" difficulty="0" appearance="1.6" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="34" leg_armor="14" arm_armor="3" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate"/>
     </ItemComponent>
     <Flags UseTeamColor="true"/>
   </Item>
-  <Item id="sho_nio_do_a_kimono_a_haidate_a_3" name="{=6oWrfo7c}Nio Do Haidate" subtype="body_armor" mesh="sho_nio_do_a_kimono_a_haidate_a_3" weight="15" difficulty="0" appearance="1.6" Type="BodyArmor">
+  <Item id="sho_nio_do_a_kimono_a_haidate_a_3" name="{=6oWrfo7c}Niou Do Haidate" subtype="body_armor" mesh="sho_nio_do_a_kimono_a_haidate_a_3" weight="15" difficulty="0" appearance="1.6" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="34" leg_armor="14" arm_armor="3" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate"/>
     </ItemComponent>
     <Flags UseTeamColor="true"/>
   </Item>
-  <Item id="sho_nio_do_a2_kimono_a_haidate_a_1" name="{=6oWrfo7c}Nio Do Haidate" subtype="body_armor" mesh="sho_nio_do_a2_kimono_a_haidate_a_1" weight="15" difficulty="0" appearance="1.6" Type="BodyArmor">
+  <Item id="sho_nio_do_a2_kimono_a_haidate_a_1" name="{=6oWrfo7c}Niou Do Haidate" subtype="body_armor" mesh="sho_nio_do_a2_kimono_a_haidate_a_1" weight="15" difficulty="0" appearance="1.6" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="34" leg_armor="14" arm_armor="3" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate"/>
     </ItemComponent>
     <Flags UseTeamColor="true"/>
   </Item>
-  <Item id="sho_nio_do_a2_kimono_a_haidate_a_2" name="{=6oWrfo7c}Nio Do Haidate" subtype="body_armor" mesh="sho_nio_do_a2_kimono_a_haidate_a_2" weight="15" difficulty="0" appearance="1.6" Type="BodyArmor">
+  <Item id="sho_nio_do_a2_kimono_a_haidate_a_2" name="{=6oWrfo7c}Niou Do Haidate" subtype="body_armor" mesh="sho_nio_do_a2_kimono_a_haidate_a_2" weight="15" difficulty="0" appearance="1.6" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="34" leg_armor="14" arm_armor="3" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate"/>
     </ItemComponent>
     <Flags UseTeamColor="true"/>
   </Item>
-  <Item id="sho_nio_do_a2_kimono_a_haidate_a_3" name="{=6oWrfo7c}Nio Do Haidate" subtype="body_armor" mesh="sho_nio_do_a2_kimono_a_haidate_a_3" weight="15" difficulty="0" appearance="1.6" Type="BodyArmor">
+  <Item id="sho_nio_do_a2_kimono_a_haidate_a_3" name="{=6oWrfo7c}Niou Do Haidate" subtype="body_armor" mesh="sho_nio_do_a2_kimono_a_haidate_a_3" weight="15" difficulty="0" appearance="1.6" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="34" leg_armor="14" arm_armor="3" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate"/>
     </ItemComponent>
     <Flags UseTeamColor="true"/>
   </Item>
-  <Item id="sho_nio_do_b2_kimono_a_haidate_a_1" name="{=6oWrfo7c}Nio Do Haidate" subtype="body_armor" mesh="sho_nio_do_b2_kimono_a_haidate_a_1" weight="15" difficulty="0" appearance="1.6" Type="BodyArmor">
+  <Item id="sho_nio_do_b2_kimono_a_haidate_a_1" name="{=6oWrfo7c}Niou Do Haidate" subtype="body_armor" mesh="sho_nio_do_b2_kimono_a_haidate_a_1" weight="15" difficulty="0" appearance="1.6" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="34" leg_armor="14" arm_armor="3" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate"/>
     </ItemComponent>
     <Flags UseTeamColor="true"/>
   </Item>
-  <Item id="sho_nio_do_b2_kimono_a_haidate_a_2" name="{=6oWrfo7c}Nio Do Haidate" subtype="body_armor" mesh="sho_nio_do_b2_kimono_a_haidate_a_2" weight="15" difficulty="0" appearance="1.6" Type="BodyArmor">
+  <Item id="sho_nio_do_b2_kimono_a_haidate_a_2" name="{=6oWrfo7c}Niou Do Haidate" subtype="body_armor" mesh="sho_nio_do_b2_kimono_a_haidate_a_2" weight="15" difficulty="0" appearance="1.6" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="34" leg_armor="14" arm_armor="3" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate"/>
     </ItemComponent>
     <Flags UseTeamColor="true"/>
   </Item>
-  <Item id="sho_nio_do_b2_kimono_a_haidate_a_3" name="{=6oWrfo7c}Nio Do Haidate" subtype="body_armor" mesh="sho_nio_do_b2_kimono_a_haidate_a_3" weight="15" difficulty="0" appearance="1.6" Type="BodyArmor">
+  <Item id="sho_nio_do_b2_kimono_a_haidate_a_3" name="{=6oWrfo7c}Niou Do Haidate" subtype="body_armor" mesh="sho_nio_do_b2_kimono_a_haidate_a_3" weight="15" difficulty="0" appearance="1.6" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="34" leg_armor="14" arm_armor="3" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate"/>
     </ItemComponent>

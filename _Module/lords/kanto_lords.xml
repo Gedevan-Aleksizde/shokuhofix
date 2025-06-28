@@ -377,10 +377,10 @@
       <EquipmentSet id="kanto_civ_template_default_female" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <!-- Hojo Faction -->
-  <!-- Hojo Clan -->
+  <!-- Houjou Faction -->
+  <!-- Houjou Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_hojo" name="{=P3zTiZCm}Hojo Ujimasa" age="29" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hojo" name="{=P3zTiZCm}Houjou Ujimasa" age="29" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="29.00" weight="0.1154" build="0.8994" key="0037C80EC00006C1B66179C78DB8757AB3784A7648EE4449C64ABBA548899988017D261307B9D37900000000000000000000000000000000000000007CEC0100" />
     </face>
@@ -401,7 +401,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_hojo_1" name="{=RSvvwQuG}Hojo Hosho-in" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hojo_1" name="{=RSvvwQuG}Houjou Hosho-in" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="28.00" weight="0.4723" build="0.9505" key="0015F40DC0000004B981EA392851C57DA4B482DAD5BB3B5EB77170A8896F628C088E768908616790000000000000000000000000000000000000000076FC0080" />
     </face>
@@ -419,7 +419,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Father -->
-  <NPCCharacter id="lord_1_hojo_2" name="{=fpxfCA95}Hojo Ujiyasu" age="53" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hojo_2" name="{=fpxfCA95}Houjou Ujiyasu" age="53" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="53.00" weight="0.207" build="0.8457" key="001FCC0E40000283A56776B886B564399167495697CC45B8D3498B5558999B88047D364607CA739B00000000000000000000000000000000000000002CEC0103" />
     </face>
@@ -440,7 +440,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Mother -->
-  <NPCCharacter id="lord_1_hojo_3" name="{=w54S5I3N}Hojo Zuikei-in" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hojo_3" name="{=w54S5I3N}Houjou Zuikei-in" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="48.00" weight="0.0619" build="0.3562" key="0035D80E00000005B48815DE26DB7F83AAE385222DB2BA8C888E194D8B6939BB016516130675766E000000000000000000000000000000000000000040CC3100" />
     </face>
@@ -458,7 +458,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son -->
-  <NPCCharacter id="lord_1_hojo_4" name="{=pizr75r3}Hojo Ujinao" age="6" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hojo_4" name="{=pizr75r3}Houjou Ujinao" age="6" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="6.00" weight="0.1872" build="0.7888" key="001AE80E80000502B66164C84CA8798AC179795999DB397BC62A65455889AE88016C361306D8736A00000000000000000000000000000000000000000CCC0082" />
     </face>
@@ -479,7 +479,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother -->
-  <NPCCharacter id="lord_1_hojo_5" name="{=1agVt6tW}Hojo Ujiteru" age="26" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hojo_5" name="{=1agVt6tW}Houjou Ujiteru" age="26" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="26.00" weight="0.6469" build="0.2629" key="0033F40EC00004C2857554A838B6582C62668B356CBD3888C3397C553899AC980174A61307A9B24A00000000000000000000000000000000000000004CEC0082" />
     </face>
@@ -500,7 +500,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother Spouse -->
-  <NPCCharacter id="lord_1_hojo_6" name="{=iUvP6aFv}Hojo Hisa" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hojo_6" name="{=iUvP6aFv}Houjou Hisa" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="23.00" weight="0.2176" build="0.452" key="000FE80E00000003A48EAD69D36C966D27E685B927B7D3C842D6B2C285C79EAD055736560552268E000000000000000000000000000000000000000044A43001" />
     </face>
@@ -518,7 +518,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother 2 -->
-  <NPCCharacter id="lord_1_hojo_7" name="{=fAdkH6BS}Hojo Ujikuni" age="20" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hojo_7" name="{=fAdkH6BS}Houjou Ujikuni" age="20" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="20.00" weight="0.8363" build="0.1068" key="0039D00EC0000080857465C75CB6646B637969658BBA4887C33C39B548998EA80162D61306A87248000000000000000000000000000000000000000040D40000" />
     </face>
@@ -539,7 +539,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother 2 Spouse -->
-  <NPCCharacter id="lord_1_hojo_8" name="{=Ihhdccnz}Hojo Fuku" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hojo_8" name="{=Ihhdccnz}Houjou Fuku" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="23.00" weight="0.4196" build="0.5226" key="000EF40B8000000643835D2BDDB8354EA4A3818DAE77C48E1DF56D95804A8A6C01886613083407C80000000000000000000000000000000000000000771C10C1" />
     </face>
@@ -557,7 +557,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother 3 -->
-  <NPCCharacter id="lord_1_hojo_9" name="{=I6HLatlC}Hojo Ujinori" age="23" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hojo_9" name="{=I6HLatlC}Houjou Ujinori" age="23" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="23.00" weight="0.1332" build="0.8911" key="003EE00EC00006C1876775A838A7635BA2765A6837CC4879D448AB755889AC68016D261406B7C248000000000000000000000000000000000000000036DC0081" />
     </face>
@@ -578,7 +578,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother 3 Spouse -->
-  <NPCCharacter id="lord_1_hojo_10" name="{=XT3whBO1}Hojo Kougen-in" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hojo_10" name="{=XT3whBO1}Houjou Kougen-in" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.421" build="0.7038" key="0006F00B400000041C8B7E5B8A17204033A58236AA89457908376D7C8A27D38C018B66130825378C000000000000000000000000000000000000000023143101" />
     </face>
@@ -596,7 +596,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Relative (monk) -->
-  <NPCCharacter id="lord_1_hojo_11" name="{=HMftyqYc}Hojo Gen-an" age="64" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hojo_11" name="{=HMftyqYc}Houjou Gen-an" age="64" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="64.00" weight="0.5683" build="0.6208" key="002CDC0E80000381B579794986A75A5B53696A6876B9379BD5384CC548899C980279962407999279000000000000000000000000000000000000000072E40101" />
     </face>
@@ -1059,9 +1059,9 @@
       <EquipmentSet id="kanto_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <!-- Didoji Clan -->
+  <!-- Daidouji Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_didoji" name="{=f3MMiYMN}Didoji Masashige" age="35" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_didoji" name="{=f3MMiYMN}Daidouji Masashige" age="35" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="35.00" weight="0.8331" build="0.5892" key="003DD40E80000503A5626588B6B67A5AB17679858CF93788C63849C558899A680369C63506B9B279000000000000000000000000000000000000000022CC00C0" />
     </face>
@@ -1082,7 +1082,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_didoji_1" name="{=HxDyc3ql}Didoji Shino" age="33" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_didoji_1" name="{=HxDyc3ql}Daidouji Shino" age="33" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="33.00" weight="0.1676" build="0.7389" key="0028E80C400000033F85139D4101A4FE929286BD7A2CE31D793A941388E97BBC075B36790544277C000000000000000000000000000000000000000078AC1041" />
     </face>
@@ -1100,7 +1100,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son -->
-  <NPCCharacter id="lord_1_didoji_2" name="{=nDpdaTzx}Didoji Naohide" age="16" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_didoji_2" name="{=nDpdaTzx}Daidouji Naohide" age="16" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="16.00" weight="0.3249" build="0.6664" key="0033D40E800001C186767B2878B6654AA3656A6A77FD4788D32977856889AC88027A5624079AA387000000000000000000000000000000000000000010E40101" />
     </face>
@@ -1121,7 +1121,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son 2 -->
-  <NPCCharacter id="lord_1_didoji_3" name="{=Id4pOfky}Didoji Naoshige" age="0" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_didoji_3" name="{=Id4pOfky}Daidouji Naoshige" age="0" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="0.00" weight="0.4802" build="0.5983" key="0034E40E80000602A4705A498DB86239D3683B895BEA3588C63B56B548999A98037976350799D29A00000000000000000000000000000000000000004AEC0081" />
     </face>
