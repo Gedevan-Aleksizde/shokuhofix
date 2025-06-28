@@ -67,13 +67,13 @@
 	<Hero id="dead_lord_1_otomo_1" alive="false" faction="Faction.clan_otomo_1" spouse="Hero.dead_lord_1_otomo_2" text="{=TzTHrzds}Otomo Yoshiaki"/>
 	<Hero id="dead_lord_1_otomo_2" alive="false" faction="Faction.clan_otomo_1" spouse="Hero.dead_lord_1_otomo_1" text="{=z3dbPelZ}Otomo Boujo"/>
 	<!--kii clan 7 ids-->
-	<Hero id="lord_1_kii" faction="Faction.clan_kii_1" spouse="Hero.lord_1_kii_1" father="Hero.lord_1_kii_5" mother="Hero.lord_1_kii_6" text="{=k92lOXHJ}Kii Shigefusa"/>
-	<Hero id="lord_1_kii_1" faction="Faction.clan_kii_1" spouse="Hero.lord_1_kii" text="{=teYikAqn}Kii Yohira"/>
-	<Hero id="lord_1_kii_2" faction="Faction.clan_kii_1" father="Hero.lord_1_kii" mother="Hero.lord_1_kii_1" text="{=SqbUj7yq}Kii Tomofusa"/>
-	<Hero id="lord_1_kii_3" faction="Faction.clan_kii_1" father="Hero.lord_1_kii" mother="Hero.lord_1_kii_1" text="{=bS8yxN7k}Kii Masafusa"/>
-	<Hero id="lord_1_kii_4" faction="Faction.clan_kii_1" father="Hero.lord_1_kii_5" mother="Hero.lord_1_kii_6" text="{=iIKYURwu}Kii Sukefusa"/>
-	<Hero id="lord_1_kii_5" faction="Faction.clan_kii_1" spouse="Hero.lord_1_kii_6" text="{=QhQNpW8c}Kii Nagafusa"/>
-	<Hero id="lord_1_kii_6" faction="Faction.clan_kii_1" spouse="Hero.lord_1_kii_5" text="{=vTJsC4OH}Kii Aogiri"/>
+	<Hero id="lord_1_kii" faction="Faction.clan_kii_1" spouse="Hero.lord_1_kii_1" father="Hero.lord_1_kii_5" mother="Hero.lord_1_kii_6" text="{=k92lOXHJ}Kī Shigefusa"/>
+	<Hero id="lord_1_kii_1" faction="Faction.clan_kii_1" spouse="Hero.lord_1_kii" text="{=teYikAqn}Kī Yohira"/>
+	<Hero id="lord_1_kii_2" faction="Faction.clan_kii_1" father="Hero.lord_1_kii" mother="Hero.lord_1_kii_1" text="{=SqbUj7yq}Kī Tomofusa"/>
+	<Hero id="lord_1_kii_3" faction="Faction.clan_kii_1" father="Hero.lord_1_kii" mother="Hero.lord_1_kii_1" text="{=bS8yxN7k}Kī Masafusa"/>
+	<Hero id="lord_1_kii_4" faction="Faction.clan_kii_1" father="Hero.lord_1_kii_5" mother="Hero.lord_1_kii_6" text="{=iIKYURwu}Kī Sukefusa"/>
+	<Hero id="lord_1_kii_5" faction="Faction.clan_kii_1" spouse="Hero.lord_1_kii_6" text="{=QhQNpW8c}Kī Nagafusa"/>
+	<Hero id="lord_1_kii_6" faction="Faction.clan_kii_1" spouse="Hero.lord_1_kii_5" text="{=vTJsC4OH}Kī Aogiri"/>
 	<!--kamachi_clan 8 ids-->
 	<Hero id="lord_1_kamachi" faction="Faction.clan_kamachi_1" spouse="Hero.lord_1_kamachi_1" text="{=ccbI0eaO}Kamachi Akimori"/>
 	<Hero id="lord_1_kamachi_1" faction="Faction.clan_kamachi_1" spouse="Hero.lord_1_kamachi" text="{=l20Tre0E}Kamachi Otsutsuru"/>

@@ -154,7 +154,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_CHU3" name="{=NSAkQv1M}Yoshida-Koriyama" owner="Faction.clan_mori_1" posX="531.713" posY="572.339" culture="Culture.sanyo" gate_posX="534.986" gate_posY="573.268" text="{=mW8IM8PG}Originally built as a small fortified residence for the Mouri clan this coastal castle town grew in importance along with the expansion of its inhabitants' power, while its hilltop location ensures control over the surrounding territories and sea routes.">
+  <Settlement id="town_CHU3" name="{=NSAkQv1M}Yoshida-Kōriyama" owner="Faction.clan_mori_1" posX="531.713" posY="572.339" culture="Culture.sanyo" gate_posX="534.986" gate_posY="573.268" text="{=mW8IM8PG}Originally built as a small fortified residence for the Mouri clan this coastal castle town grew in importance along with the expansion of its inhabitants' power, while its hilltop location ensures control over the surrounding territories and sea routes.">
     <Components>
       <Town id="town_comp_CHU3" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="2080"/>
     </Components>
@@ -1045,7 +1045,7 @@
       <Area type="Waterfront" name="{=MAusOuPK}Waterfront"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_CHUB2_1" name="{=JyG9eqDR}Byakusan" posX="994.423" posY="788.284" culture="Culture.hokuriku" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="village_CHUB2_1" name="{=JyG9eqDR}Hakusan" posX="994.423" posY="788.284" culture="Culture.hokuriku" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="village_comp_CHUB2_1" village_type="VillageType.rice_farm" hearth="200" gate_rotation="0.008" bound="Settlement.town_CHUB2" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -1071,7 +1071,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_CHUB2_3" name="{=VPbrsyV3}Miyakoshi" posX="1001.68" posY="820.686" culture="Culture.hokuriku" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="village_CHUB2_3" name="{=VPbrsyV3}Miyanokoshi" posX="1001.68" posY="820.686" culture="Culture.hokuriku" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="village_comp_CHUB2_3" village_type="VillageType.ramie_farm" hearth="200" gate_rotation="0.008" bound="Settlement.town_CHUB2" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -1104,7 +1104,7 @@
       <Area type="Waterfront" name="{=MAusOuPK}Waterfront"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_CHUB3_1" name="{=JwZnAQwK}Fukuura" posX="1009.038" posY="874.395" culture="Culture.hokuriku" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="village_CHUB3_1" name="{=JwZnAQwK}Fukura" posX="1009.038" posY="874.395" culture="Culture.hokuriku" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="village_comp_CHUB3_1" village_type="VillageType.sulfur_mine" hearth="200" gate_rotation="0.008" bound="Settlement.town_CHUB3" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -1320,7 +1320,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_CHUB7" name="{=za4xFjbt}Kofu" owner="Faction.clan_takeda_1" posX="1211.036" posY="697.49" culture="Culture.tosan" gate_posX="1208.991" gate_posY="700.2092" text="{=G1Gwql28}Kōfu, a castle town in the heart of Kai Province in the southern part of the Tōsan region, has been the home of the Takena clan since its beginnings, but has only recently grown considerably thanks to Takeda Shingen, who has made it the centre of his expanding domain and undertaken major flood control projects to increase agricultural production and quality of life">
+  <Settlement id="town_CHUB7" name="{=za4xFjbt}Koufu" owner="Faction.clan_takeda_1" posX="1211.036" posY="697.49" culture="Culture.tosan" gate_posX="1208.991" gate_posY="700.2092" text="{=G1Gwql28}Kōfu, a castle town in the heart of Kai Province in the southern part of the Tōsan region, has been the home of the Takena clan since its beginnings, but has only recently grown considerably thanks to Takeda Shingen, who has made it the centre of his expanding domain and undertaken major flood control projects to increase agricultural production and quality of life">
     <Components>
       <Town id="town_comp_CHUB7" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="840"/>
     </Components>
@@ -1530,7 +1530,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_CHUB10_2" name="{=Unk1zUdF}Ohama" posX="1034.12" posY="592.619" culture="Culture.tokai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="village_CHUB10_2" name="{=Unk1zUdF}Ōhama" posX="1034.12" posY="592.619" culture="Culture.tokai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="village_comp_CHUB10_2" village_type="VillageType.dye_farm" hearth="200" gate_rotation="0.008" bound="Settlement.town_CHUB10" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -1769,7 +1769,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_CHUB2" name="{=kePZsN6S}Fuchu Castle" owner="Faction.clan_yamazaki_1" posX="953.842" posY="706.263" culture="Culture.hokuriku" gate_posX="951.7618" gate_posY="706.0095">
+  <Settlement id="castle_CHUB2" name="{=kePZsN6S}Fuchū Castle" owner="Faction.clan_yamazaki_1" posX="953.842" posY="706.263" culture="Culture.hokuriku" gate_posX="951.7618" gate_posY="706.0095">
     <Components>
       <Town id="castle_comp_CHUB2" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="731"/>
     </Components>
@@ -1792,7 +1792,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_CHUB2_2" name="{=DUDOlYTC}Fuchu" posX="950.34" posY="714.705" culture="Culture.hokuriku" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_CHUB2_2" name="{=DUDOlYTC}Fuchū" posX="950.34" posY="714.705" culture="Culture.hokuriku" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_CHUB2_2" village_type="VillageType.cotton_farm" hearth="200" gate_rotation="0.008" bound="Settlement.castle_CHUB2" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -1841,7 +1841,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_CHUB4" name="{=Y7mNSs2D}Daishoji Castle" owner="Faction.clan_shichiri_1" posX="963.255" posY="769.393" culture="Culture.hokuriku" gate_posX="961.5318" gate_posY="770.6978">
+  <Settlement id="castle_CHUB4" name="{=Y7mNSs2D}Daishouji Castle" owner="Faction.clan_shichiri_1" posX="963.255" posY="769.393" culture="Culture.hokuriku" gate_posX="961.5318" gate_posY="770.6978">
     <Components>
       <Town id="castle_comp_CHUB4" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="979"/>
     </Components>
@@ -2561,7 +2561,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_CHUB24" name="{=pP3Z8ZKy}Iidani Castle" owner="Faction.clan_ii_1" posX="1096.068" posY="592.756" culture="Culture.tokai" gate_posX="1094.928" gate_posY="594.5922">
+  <Settlement id="castle_CHUB24" name="{=pP3Z8ZKy}Īnoya Castle" owner="Faction.clan_ii_1" posX="1096.068" posY="592.756" culture="Culture.tokai" gate_posX="1094.928" gate_posY="594.5922">
     <Components>
       <Town id="castle_comp_CHUB24" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="572"/>
     </Components>
@@ -2633,7 +2633,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_CHUB26" name="{=OzxYpqps}Ogaki Castle" owner="Faction.clan_oda_1" posX="1006.449" posY="663.714" culture="Culture.tosan" gate_posX="1005.751" gate_posY="661.7381">
+  <Settlement id="castle_CHUB26" name="{=OzxYpqps}Ōgaki Castle" owner="Faction.clan_oda_1" posX="1006.449" posY="663.714" culture="Culture.tosan" gate_posX="1005.751" gate_posY="661.7381">
     <Components>
       <Town id="castle_comp_CHUB26" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="941"/>
     </Components>
@@ -2669,7 +2669,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_CHUB28" name="{=d1uSH7Lb}Joganji Castle" owner="Faction.clan_maeba_1" posX="987.254" posY="749.044" culture="Culture.hokuriku" gate_posX="986.0181" gate_posY="747.2708">
+  <Settlement id="castle_CHUB28" name="{=d1uSH7Lb}Jouganji Castle" owner="Faction.clan_maeba_1" posX="987.254" posY="749.044" culture="Culture.hokuriku" gate_posX="986.0181" gate_posY="747.2708">
     <Components>
       <Town id="castle_comp_CHUB28" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="933"/>
     </Components>
@@ -3121,7 +3121,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KA3_3" name="{=BEXJ1F23}Okubo" posX="1449.732" posY="846.018" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="village_KA3_3" name="{=BEXJ1F23}Ōkubo" posX="1449.732" posY="846.018" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="village_comp_KA3_3" village_type="VillageType.gold_mine" hearth="200" gate_rotation="0.008" bound="Settlement.town_KA3" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -3167,7 +3167,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KA4_2" name="{=jVHfshhL}Liyama" posX="1340.468" posY="843.293" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="village_KA4_2" name="{=jVHfshhL}Īyama" posX="1340.468" posY="843.293" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="village_comp_KA4_2" village_type="VillageType.sulfur_mine" hearth="200" gate_rotation="0.008" bound="Settlement.town_KA4" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -3396,7 +3396,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_KA5" name="{=CfzXQacm}Siizu Castle" owner="Faction.clan_satomi_1" posX="1379.556" posY="662.886" culture="Culture.kanto" gate_posX="1377.618" gate_posY="663.8434">
+  <Settlement id="castle_KA5" name="{=CfzXQacm}Shīzu Castle" owner="Faction.clan_satomi_1" posX="1379.556" posY="662.886" culture="Culture.kanto" gate_posX="1377.618" gate_posY="663.8434">
     <Components>
       <Town id="castle_comp_KA5" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="805"/>
     </Components>
@@ -3576,7 +3576,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_KA10" name="{=zSObBDHa}Iinuma Castle" owner="Faction.clan_chiba_1" posX="1457.022" posY="704.365" culture="Culture.kanto" gate_posX="1455.233" gate_posY="705.4566">
+  <Settlement id="castle_KA10" name="{=zSObBDHa}Īnuma Castle" owner="Faction.clan_chiba_1" posX="1457.022" posY="704.365" culture="Culture.kanto" gate_posX="1455.233" gate_posY="705.4566">
     <Components>
       <Town id="castle_comp_KA10" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="747"/>
     </Components>
@@ -3599,7 +3599,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KA10_2" name="{=vehvdeEq}Linuma" posX="1455.941" posY="709.261" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_KA10_2" name="{=vehvdeEq}Īnuma" posX="1455.941" posY="709.261" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_KA10_2" village_type="VillageType.copper_mine" hearth="200" gate_rotation="0.008" bound="Settlement.castle_KA10" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -3612,7 +3612,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_KA11" name="{=kePZsN6S}Fuchu Castle" owner="Faction.clan_daijo_1" posX="1398.728" posY="763.333" culture="Culture.kanto" gate_posX="1400.824" gate_posY="763.3344">
+  <Settlement id="castle_KA11" name="{=kePZsN6S}Fuchū Castle" owner="Faction.clan_daijo_1" posX="1398.728" posY="763.333" culture="Culture.kanto" gate_posX="1400.824" gate_posY="763.3344">
     <Components>
       <Town id="castle_comp_KA11" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="574"/>
     </Components>
@@ -4044,7 +4044,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_KA23" name="{=2nt5o1X2}Oda Castle" owner="Faction.clan_oda_2" posX="1372.878" posY="751.45" culture="Culture.kanto" gate_posX="1375" gate_posY="751.8614">
+  <Settlement id="castle_KA23" name="{=2nt5o1X2}Ōda Castle" owner="Faction.clan_oda_2" posX="1372.878" posY="751.45" culture="Culture.kanto" gate_posX="1375" gate_posY="751.8614">
     <Components>
       <Town id="castle_comp_KA23" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="909"/>
     </Components>
@@ -4054,7 +4054,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KA23_1" name="{=NBk1hBZz}Oda" posX="1364.684" posY="762.017" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_KA23_1" name="{=NBk1hBZz}Ōda" posX="1364.684" posY="762.017" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_KA23_1" village_type="VillageType.rice_farm" hearth="200" gate_rotation="0.008" bound="Settlement.castle_KA23" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -4457,7 +4457,7 @@
       <Area type="Waterfront" name="{=MAusOuPK}Waterfront"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KIN4_1" name="{=YJwLUC98}Koriyama" posX="930.316" posY="563.284" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="village_KIN4_1" name="{=YJwLUC98}Kōriyama" posX="930.316" posY="563.284" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="village_comp_KIN4_1" village_type="VillageType.vegetable_farm" hearth="200" gate_rotation="0.008" bound="Settlement.town_KIN4" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -4496,7 +4496,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_KIN5" name="{=nvCkXHAa}Kyoto" owner="Faction.clan_ashikaga_1" posX="891.321" posY="617.074" culture="Culture.kinai" gate_posX="894.6698" gate_posY="617.6749" text="{=bYxqhFC3}Kyoto, once the unrivaled capital of Japan, emerged almost completely destroyed by the struggles for control over the central power. The authority of the Ashikaga Shogunate has crumbled, leaving the city at the mercy of the warring daimyos, while the Imperial Court sits back and watches helplessly. Nevertheless, Kyoto remains the depository of secular traditions and while its days as the true centre of power seem to be over, its religious and cultural influence persists.">
+  <Settlement id="town_KIN5" name="{=nvCkXHAa}Rakuchū" owner="Faction.clan_ashikaga_1" posX="891.321" posY="617.074" culture="Culture.kinai" gate_posX="894.6698" gate_posY="617.6749" text="{=bYxqhFC3}Kyoto, once the unrivaled capital of Japan, emerged almost completely destroyed by the struggles for control over the central power. The authority of the Ashikaga Shogunate has crumbled, leaving the city at the mercy of the warring daimyos, while the Imperial Court sits back and watches helplessly. Nevertheless, Kyoto remains the depository of secular traditions and while its days as the true centre of power seem to be over, its religious and cultural influence persists.">
     <Components>
       <Town id="town_comp_KIN5" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="2600"/>
     </Components>
@@ -4555,7 +4555,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_KIN6" name="{=fxIwAwp3}Kannonji" owner="Faction.clan_rokkaku_1" posX="946.82" posY="617.827" culture="Culture.kinai" gate_posX="948.7421" gate_posY="615.0197" text="{=8xv7T88d}A seemingly quiet castle town built atop Mount Kinugasa, Kannonji has been repeatedly embroiled in the conflicts of its ancestral owners, the Rokkaku clan, and only the castle’s natural defenses have allowed it to resist several sieges.">
+  <Settlement id="town_KIN6" name="{=fxIwAwp3}Kan'nonji" owner="Faction.clan_rokkaku_1" posX="946.82" posY="617.827" culture="Culture.kinai" gate_posX="948.7421" gate_posY="615.0197" text="{=8xv7T88d}A seemingly quiet castle town built atop Mount Kinugasa, Kan'nonji has been repeatedly embroiled in the conflicts of its ancestral owners, the Rokkaku clan, and only the castle’s natural defenses have allowed it to resist several sieges.">
     <Components>
       <Town id="town_comp_KIN6" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="2700"/>
     </Components>
@@ -5236,7 +5236,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KIN16_2" name="{=dXkBXUQ2}Kii-Yura" posX="833.404" posY="469.812" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_KIN16_2" name="{=dXkBXUQ2}Kī-Yura" posX="833.404" posY="469.812" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_KIN16_2" village_type="VillageType.fishing" hearth="200" gate_rotation="0.008" bound="Settlement.castle_KIN16" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5259,7 +5259,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KIN17_1" name="{=scbRMDG2}Kunisak" posX="1010.046" posY="547.104" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_KIN17_1" name="{=scbRMDG2}Kuzaki" posX="1010.046" posY="547.104" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_KIN17_1" village_type="VillageType.whale" hearth="200" gate_rotation="0.008" bound="Settlement.castle_KIN17" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5478,7 +5478,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_KIN23" name="{=1VIjjKWB}Shoryuji Castle" owner="Faction.clan_hosokawa_1" posX="879.581" posY="610.833" culture="Culture.kinai" gate_posX="880.5103" gate_posY="608.9548">
+  <Settlement id="castle_KIN23" name="{=1VIjjKWB}Shouryūji Castle" owner="Faction.clan_hosokawa_1" posX="879.581" posY="610.833" culture="Culture.kinai" gate_posX="880.5103" gate_posY="608.9548">
     <Components>
       <Town id="castle_comp_KIN23" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="738"/>
     </Components>
@@ -5514,7 +5514,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_KIN24" name="{=RmvKSL4R}Kii-Kameyama Castle" owner="Faction.clan_yukawa_1" posX="859.79" posY="468.463" culture="Culture.kinai" gate_posX="857.8642" gate_posY="467.6368">
+  <Settlement id="castle_KIN24" name="{=RmvKSL4R}Kī-Kameyama Castle" owner="Faction.clan_yukawa_1" posX="859.79" posY="468.463" culture="Culture.kinai" gate_posX="857.8642" gate_posY="467.6368">
     <Components>
       <Town id="castle_comp_KIN24" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="952"/>
     </Components>
@@ -5786,7 +5786,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_KY5" name="{=sgEq01Iv}Niushima" owner="Faction.clan_otomo_1" posX="452.858" posY="366.786" culture="Culture.saikai" gate_posX="450.0772" gate_posY="368.7463" text="{=1OHDyEtH}Benefiting from its position along key maritime trade routes and its proximity to the island’s northern provinces, Niushima has grown into a prosperous castle town, also thanks to the influence of the Ōtomo clan, that has promoted the town as a center of local governance.">
+  <Settlement id="town_KY5" name="{=sgEq01Iv}Niujima" owner="Faction.clan_otomo_1" posX="452.858" posY="366.786" culture="Culture.saikai" gate_posX="450.0772" gate_posY="368.7463" text="{=1OHDyEtH}Benefiting from its position along key maritime trade routes and its proximity to the island’s northern provinces, Niujima has grown into a prosperous castle town, also thanks to the influence of the Ōtomo clan, that has promoted the town as a center of local governance.">
     <Components>
       <Town id="town_comp_KY5" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.808" prosperity="3000"/>
     </Components>
@@ -5832,7 +5832,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_KY6" name="{=HHWkdmFT}Kiidani" owner="Faction.clan_kii_1" posX="353.295" posY="426.237" culture="Culture.saikai" gate_posX="350.0088" gate_posY="425.3559" text="{=DFE7hHDt}Kiidani is a fortified town in the southernmost part of the Kinki region, protected more by geography than by its walls, with its isolated location making it largely untouched by surrounding conflicts so far.">
+  <Settlement id="town_KY6" name="{=HHWkdmFT}Kīdani" owner="Faction.clan_kii_1" posX="353.295" posY="426.237" culture="Culture.saikai" gate_posX="350.0088" gate_posY="425.3559" text="{=DFE7hHDt}Kīdani is a fortified town in the southernmost part of the Kinki region, protected more by geography than by its walls, with its isolated location making it largely untouched by surrounding conflicts so far.">
     <Components>
       <Town id="town_comp_KY6" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.808" prosperity="2700"/>
     </Components>
@@ -8345,7 +8345,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_TOHO6" name="{=KGp4U6ZT}Tzuchizaki-Minato" owner="Faction.clan_ando_1" posX="1383.089" posY="1223.086" culture="Culture.ou" gate_posX="1386.319" gate_posY="1224.155" text="{=QBjyZBVp}Strategically positioned on the coast of the Noto Peninsula, Tsuchizaki-Minato has long served as a crucial point for maritime trade and the transport of goods between the main islands and the northern provinces.">
+  <Settlement id="town_TOHO6" name="{=KGp4U6ZT}Tsuchizaki-Minato" owner="Faction.clan_ando_1" posX="1383.089" posY="1223.086" culture="Culture.ou" gate_posX="1386.319" gate_posY="1224.155" text="{=QBjyZBVp}Strategically positioned on the coast of the Noto Peninsula, Tsuchizaki-Minato has long served as a crucial point for maritime trade and the transport of goods between the main islands and the northern provinces.">
     <Components>
       <Town id="town_comp_TOHO6" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="2080"/>
     </Components>
@@ -8404,7 +8404,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_TOHO7" name="{=YUFX5LdB}Sannohoe" owner="Faction.clan_nanbu_1" posX="1514.615" posY="1306.261" culture="Culture.ou" gate_posX="1512.973" gate_posY="1303.281" text="{=4i6COw8g}Located along a key mountain pass, Sannohoe is a fortified town that serves as a military outpost, guarding vital routes for trade and troop movements on the borders of competing powers.">
+  <Settlement id="town_TOHO7" name="{=YUFX5LdB}San'nohe" owner="Faction.clan_nanbu_1" posX="1514.615" posY="1306.261" culture="Culture.ou" gate_posX="1512.973" gate_posY="1303.281" text="{=4i6COw8g}Located along a key mountain pass, San'nohe is a fortified town that serves as a military outpost, guarding vital routes for trade and troop movements on the borders of competing powers.">
     <Components>
       <Town id="town_comp_TOHO7" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1760"/>
     </Components>
@@ -8653,7 +8653,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_TOHO4_2" name="{=YJwLUC98}Koriyama" posX="1431.08" posY="907.459" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_TOHO4_2" name="{=YJwLUC98}Kōriyama" posX="1431.08" posY="907.459" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_TOHO4_2" village_type="VillageType.logger" hearth="200" gate_rotation="0.008" bound="Settlement.castle_TOHO4" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -8964,7 +8964,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_TOHO13_1" name="{=FvBaL0TE}Ohira" posX="1463.159" posY="1056.483" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_TOHO13_1" name="{=FvBaL0TE}Ōhira" posX="1463.159" posY="1056.483" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_TOHO13_1" village_type="VillageType.logger" hearth="200" gate_rotation="0.008" bound="Settlement.castle_TOHO13" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -9746,7 +9746,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_TOHO35" name="{=FTjRvoSv}Junpo-ji Castle" owner="Faction.clan_hachinohe_1" posX="1483.358" posY="1424.472" culture="Culture.ou" gate_posX="1481.369" gate_posY="1425.131">
+  <Settlement id="castle_TOHO35" name="{=FTjRvoSv}Junpou-ji Castle" owner="Faction.clan_hachinohe_1" posX="1483.358" posY="1424.472" culture="Culture.ou" gate_posX="1481.369" gate_posY="1425.131">
     <Components>
       <Town id="castle_comp_TOHO35" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="838"/>
     </Components>

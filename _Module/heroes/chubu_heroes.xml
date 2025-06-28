@@ -183,17 +183,17 @@
 	<Hero id="lord_1_ii_2" faction="Faction.clan_ii_1" spouse="Hero.dead_lord_1_ii_1" text="{=xF9RihZf}Ii Hiyo"/>
 	<Hero id="lord_1_ii_3" faction="Faction.clan_ii_1" father="Hero.dead_lord_1_ii_1" mother="Hero.lord_1_ii_2" text="{=usy9v6yR}Ii Naomasa"/>
 	<Hero id="lord_1_ii_4" faction="Faction.clan_ii_1" father="Hero.dead_lord_1_ii_1" mother="Hero.lord_1_ii_2" text="{=hznl27AL}Ii Takase"/>
-	<!--Okubo Clan-->
-	<Hero id="lord_1_okubo" faction="Faction.clan_okubo_1" spouse="Hero.lord_1_okubo_1" text="{=4RHGzzz5}Okubo Tadakazu"/>
-	<Hero id="lord_1_okubo_1" faction="Faction.clan_okubo_1" spouse="Hero.lord_1_okubo" text="{=4RHGzzz5}Okubo Tadakazu"/>
-	<Hero id="lord_1_okubo_2" faction="Faction.clan_okubo_1" spouse="Hero.lord_1_okubo_3" father="Hero.lord_1_okubo" mother="Hero.lord_1_okubo_1" text="{=bp0JE7lD}Okubo Tadayo"/>
-	<Hero id="lord_1_okubo_3" faction="Faction.clan_okubo_1" spouse="Hero.lord_1_okubo_2" text="{=p9CqbJC5}Okubo Koto"/>
-	<Hero id="lord_1_okubo_4" faction="Faction.clan_okubo_1" father="Hero.lord_1_okubo_2" mother="Hero.lord_1_okubo_3" text="{=e0sW01xt}Okubo Tadachika"/>
-	<Hero id="lord_1_okubo_5" faction="Faction.clan_okubo_1" father="Hero.lord_1_okubo_2" mother="Hero.lord_1_okubo_3" text="{=ulF9F7Xm}Okubo Tadanari"/>
-	<Hero id="lord_1_okubo_6" faction="Faction.clan_okubo_1" spouse="Hero.lord_1_okubo_7" father="Hero.lord_1_okubo" mother="Hero.lord_1_okubo_1" text="{=bp0JE7lD}Okubo Tadayo"/>
-	<Hero id="lord_1_okubo_7" faction="Faction.clan_okubo_1" spouse="Hero.lord_1_okubo_6" text="{=0Kytj7yK}Okubo Amane"/>
-	<Hero id="lord_1_okubo_8" faction="Faction.clan_okubo_1" father="Hero.lord_1_okubo" mother="Hero.lord_1_okubo_1" text="{=2nmhylAz}Okubo Tadatame"/>
-	<Hero id="lord_1_okubo_9" faction="Faction.clan_okubo_1" father="Hero.lord_1_okubo" mother="Hero.lord_1_okubo_1" text="{=HrxOrz25}Okubo Tadataka"/>
+	<!--Ōkubo Clan-->
+	<Hero id="lord_1_okubo" faction="Faction.clan_okubo_1" spouse="Hero.lord_1_okubo_1" text="{=4RHGzzz5}Ōkubo Tadakazu"/>
+	<Hero id="lord_1_okubo_1" faction="Faction.clan_okubo_1" spouse="Hero.lord_1_okubo" text="{=4RHGzzz5}Ōkubo Tadakazu"/>
+	<Hero id="lord_1_okubo_2" faction="Faction.clan_okubo_1" spouse="Hero.lord_1_okubo_3" father="Hero.lord_1_okubo" mother="Hero.lord_1_okubo_1" text="{=bp0JE7lD}Ōkubo Tadayo"/>
+	<Hero id="lord_1_okubo_3" faction="Faction.clan_okubo_1" spouse="Hero.lord_1_okubo_2" text="{=p9CqbJC5}Ōkubo Koto"/>
+	<Hero id="lord_1_okubo_4" faction="Faction.clan_okubo_1" father="Hero.lord_1_okubo_2" mother="Hero.lord_1_okubo_3" text="{=e0sW01xt}Ōkubo Tadachika"/>
+	<Hero id="lord_1_okubo_5" faction="Faction.clan_okubo_1" father="Hero.lord_1_okubo_2" mother="Hero.lord_1_okubo_3" text="{=ulF9F7Xm}Ōkubo Tadanari"/>
+	<Hero id="lord_1_okubo_6" faction="Faction.clan_okubo_1" spouse="Hero.lord_1_okubo_7" father="Hero.lord_1_okubo" mother="Hero.lord_1_okubo_1" text="{=bp0JE7lD}Ōkubo Tadayo"/>
+	<Hero id="lord_1_okubo_7" faction="Faction.clan_okubo_1" spouse="Hero.lord_1_okubo_6" text="{=0Kytj7yK}Ōkubo Amane"/>
+	<Hero id="lord_1_okubo_8" faction="Faction.clan_okubo_1" father="Hero.lord_1_okubo" mother="Hero.lord_1_okubo_1" text="{=2nmhylAz}Ōkubo Tadatame"/>
+	<Hero id="lord_1_okubo_9" faction="Faction.clan_okubo_1" father="Hero.lord_1_okubo" mother="Hero.lord_1_okubo_1" text="{=HrxOrz25}Ōkubo Tadataka"/>
 	<!--Hattori Clan-->
 	<Hero id="lord_1_hattori" faction="Faction.clan_hattori_1" spouse="Hero.lord_1_hattori_1" father="Hero.dead_lord_1_hattori_2" mother="Hero.dead_lord_1_hattori_3" text="{=3fFAXVUS}Hattori Masanari"/>
 	<Hero id="lord_1_hattori_1" faction="Faction.clan_hattori_1" spouse="Hero.lord_1_hattori" text="{=Q3mn8U0b}Hattori Naga"/>

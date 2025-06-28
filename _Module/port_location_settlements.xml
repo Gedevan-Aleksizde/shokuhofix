@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Settlements>
-  <Settlement id="sho_port_KY5_2" name="{=dmNn1iRw}Port Niushima" posX="453.95" posY="376.98" gate_posX="453.95" gate_posY="376.98" culture="Culture.neutral_culture" text="{=zEXjYqDm}This is the port.">
+  <Settlement id="sho_port_KY5_2" name="{=dmNn1iRw}Port Niujima" posX="453.95" posY="376.98" gate_posX="453.95" gate_posY="376.98" culture="Culture.neutral_culture" text="{=zEXjYqDm}This is the port.">
     <Components>
       <PortLocation id="port_location_id_KY5_2" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="empire_twn_scene_bg" wait_mesh="wait_hideout_forest" gate_rotation="0.0" />
     </Components>
@@ -368,7 +368,7 @@
       <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
     </Locations>
   </Settlement>
-  <Settlement id="sho_port_KA4" name="{=9yS2RBqp}Port Okubo" posX="1451.877" posY="841.048" culture="Culture.neutral_culture" gate_posX="1451.669" gate_posY="841.062" text="{=zEXjYqDm}This is the port.">
+  <Settlement id="sho_port_KA4" name="{=9yS2RBqp}Port Ōkubo" posX="1451.877" posY="841.048" culture="Culture.neutral_culture" gate_posX="1451.669" gate_posY="841.062" text="{=zEXjYqDm}This is the port.">
     <Components>
       <PortLocation id="port_location_id_KA4" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" />
     </Components>
@@ -392,7 +392,7 @@
       <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
     </Locations>
   </Settlement>
-  <Settlement id="sho_port_KA3" name="{=puuqlRZm}Port Linuma" posX="1446.985" posY="700.528" culture="Culture.neutral_culture" gate_posX="1446.985" gate_posY="700.528" text="{=zEXjYqDm}This is the port.">
+  <Settlement id="sho_port_KA3" name="{=puuqlRZm}Port Īnuma" posX="1446.985" posY="700.528" culture="Culture.neutral_culture" gate_posX="1446.985" gate_posY="700.528" text="{=zEXjYqDm}This is the port.">
     <Components>
       <PortLocation id="port_location_id_KA3" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" />
     </Components>
@@ -448,7 +448,7 @@
       <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
     </Locations>
   </Settlement>
-  <Settlement id="sho_port_TOHO5" name="{=xQ1Z7KBR}Junpo-ji Port" posX="1481.434" posY="1415.724" culture="Culture.neutral_culture" gate_posX="1481.434" gate_posY="1415.724" text="{=zEXjYqDm}This is the port.">
+  <Settlement id="sho_port_TOHO5" name="{=xQ1Z7KBR}Junpou-ji Port" posX="1481.434" posY="1415.724" culture="Culture.neutral_culture" gate_posX="1481.434" gate_posY="1415.724" text="{=zEXjYqDm}This is the port.">
     <Components>
       <PortLocation id="port_location_id_TOHO5" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" />
     </Components>
@@ -456,7 +456,7 @@
       <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
     </Locations>
   </Settlement>
-  <Settlement id="sho_port_TOHO7" name="{=tW8oIaVj}Tzuchizaki Port" posX="1378.607" posY="1228.707" culture="Culture.neutral_culture" gate_posX="1378.607" gate_posY="1228.707" text="{=zEXjYqDm}This is the port.">
+  <Settlement id="sho_port_TOHO7" name="{=tW8oIaVj}Tsuchizaki Port" posX="1378.607" posY="1228.707" culture="Culture.neutral_culture" gate_posX="1378.607" gate_posY="1228.707" text="{=zEXjYqDm}This is the port.">
     <Components>
       <PortLocation id="port_location_id_TOHO7" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" />
     </Components>

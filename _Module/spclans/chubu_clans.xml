@@ -28,7 +28,7 @@
 <Faction id="clan_sakakibara_1" is_noble="true" name="{=5WrhQacH}Sakakibara-shi" tier="4" owner="Hero.lord_1_sakakibara" culture="Culture.tokai" super_faction="Kingdom.tokugawa" banner_key="11.163.166.1528.1528.764.764.1.0.0.697.171.171.483.483.764.764.0.0.0"/>
 <Faction id="clan_sakai_1" is_noble="true" name="{=8ARCCCRo}Sakai-shi" tier="4" owner="Hero.lord_1_sakai" culture="Culture.tokai" super_faction="Kingdom.tokugawa" banner_key="11.163.166.1528.1528.764.764.1.0.0.698.171.171.483.483.764.764.0.0.0"/>
 <Faction id="clan_ii_1" is_noble="true" name="{=2UQC6ICH}Ii-shi" tier="3" owner="Hero.lord_1_ii" culture="Culture.tokai" super_faction="Kingdom.tokugawa" banner_key="11.163.166.1528.1528.764.764.1.0.0.699.171.171.483.483.764.764.0.0.0"/>
-<Faction id="clan_okubo_1" is_noble="true" name="{=Oznhza31}Okubo-shi" tier="3" owner="Hero.lord_1_okubo" culture="Culture.tokai" super_faction="Kingdom.tokugawa" banner_key="11.163.166.1528.1528.764.764.1.0.0.700.171.171.483.483.764.764.0.0.0"/>
+<Faction id="clan_okubo_1" is_noble="true" name="{=Oznhza31}Ōkubo-shi" tier="3" owner="Hero.lord_1_okubo" culture="Culture.tokai" super_faction="Kingdom.tokugawa" banner_key="11.163.166.1528.1528.764.764.1.0.0.700.171.171.483.483.764.764.0.0.0"/>
 <Faction id="clan_hattori_1" is_noble="true" name="{=mQXREA7g}Hattori-shi" tier="2" owner="Hero.lord_1_hattori" culture="Culture.tokai" super_faction="Kingdom.tokugawa" banner_key="11.163.166.1528.1528.764.764.1.0.0.817.171.171.483.483.764.764.0.0.0"/>
 	<!--Uesugi Faction-->
 <Faction id="clan_uesugi_1" is_noble="true" name="{=cst28b0f}Uesugi-shi" tier="6" owner="Hero.lord_1_uesugi" culture="Culture.hokuriku" super_faction="Kingdom.uesugi" banner_key="11.163.166.1528.1528.764.764.1.0.0.701.171.171.483.483.764.764.0.0.0"/>

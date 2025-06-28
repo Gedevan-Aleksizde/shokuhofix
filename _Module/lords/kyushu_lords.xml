@@ -3202,7 +3202,7 @@
   </NPCCharacter>
   <!--kii clan 7 ids-->
   <!--Parents-->
-  <NPCCharacter id="lord_1_kii_5" name="{=QhQNpW8c}Kii Nagafusa" age="62" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kii_5" name="{=QhQNpW8c}Kī Nagafusa" age="62" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="62.00" weight="0.1118" build="0.4604" key="002BC80E8000018386758AC777C7774AB3778A6597FA458AD52A474558A99DA80377263507A89258000000000000000000000000000000000000000046EC00C1" />
     </face>
@@ -3222,7 +3222,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_kii_6" name="{=vTJsC4OH}Kii Aogiri" age="58" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kii_6" name="{=vTJsC4OH}Kī Aogiri" age="58" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="58.00" weight="0.1942" build="0.5358" key="0006E00EC00000021786D946A4BE78FB6290812C79D55A6D49A65A49831E1BEE04783646071307DA000000000000000000000000000000000000000038FC10C0" />
     </face>
@@ -3240,7 +3240,7 @@
     </Equipments>
   </NPCCharacter>
   <!--leader-->
-  <NPCCharacter id="lord_1_kii" name="{=k92lOXHJ}Kii Shigefusa" age="32" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kii" name="{=k92lOXHJ}Kī Shigefusa" age="32" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="32.00" weight="0.2017" build="0.8355" key="001DE40E80000702A6705AD855A7653A81787B695CAE4897D4283C655889CD68026D362406A8D36900000000000000000000000000000000000000001ACC0141" />
     </face>
@@ -3260,7 +3260,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_kii_1" name="{=teYikAqn}Kii Yohira" age="33" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kii_1" name="{=teYikAqn}Kī Yohira" age="33" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="33.00" weight="0.1214" build="0.304" key="0030D80C00000004278AAA5A3EBFC365ABE08767324DB64523ED9DDE81BAB5BF0555265705512453000000000000000000000000000000000000000040AC0080" />
     </face>
@@ -3278,7 +3278,7 @@
     </Equipments>
   </NPCCharacter>
   <!--children leader-->
-  <NPCCharacter id="lord_1_kii_2" name="{=SqbUj7yq}Kii Tomofusa" age="6" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kii_2" name="{=SqbUj7yq}Kī Tomofusa" age="6" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="6.00" weight="0.5418" build="0.5324" key="0039F00EC0000300A569643888B7584B42673A78BBBA39BBC4486AC538A9CD6805788657079AC398000000000000000000000000000000000000000022DC0082" />
     </face>
@@ -3298,7 +3298,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_kii_3" name="{=bS8yxN7k}Kii Masafusa" age="3" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kii_3" name="{=bS8yxN7k}Kī Masafusa" age="3" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="3.00" weight="0.1653" build="0.7913" key="000EE80E40000001E88E79B497964E425E808421222DAD2E88858E5C88A335EA085C268905332286000000000000000000000000000000000000000062A41101" />
     </face>
@@ -3316,7 +3316,7 @@
     </Equipments>
   </NPCCharacter>
   <!--brother leader-->
-  <NPCCharacter id="lord_1_kii_4" name="{=iIKYURwu}Kii Sukefusa" age="28" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kii_4" name="{=iIKYURwu}Kī Sukefusa" age="28" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="28.00" weight="0.213" build="0.7839" key="0037CC0E80000201A67766373BB55A8A52797A6758FC4A58C54C957558999868057C365607D8D398000000000000000000000000000000000000000052DC0101" />
     </face>

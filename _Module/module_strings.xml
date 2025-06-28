@@ -91,7 +91,7 @@
   <string id="str_faction_informal_name_for_culture.tosan" text="{=shokuho400863F7}the Tousan"/>
   <string id="str_faction_informal_name_for_culture.tokai" text="{=shokuhoE3F821c1}the Toukai"/>
   <string id="str_faction_informal_name_for_culture.kanto" text="{=shokuho8e0aa2cA}the Kantou"/>
-  <string id="str_faction_informal_name_for_culture.ou" text="{=shokuho471d1bB4}the Oou"/>
+  <string id="str_faction_informal_name_for_culture.ou" text="{=shokuho471d1bB4}the Ouu"/>
   <string id="str_neutral_term_for_culture.saikai" text="{=shokuho713B0151}Saikai"/>
   <string id="str_neutral_term_for_culture.nankai" text="{=shokuho38FC8307}Nankai"/>
   <string id="str_neutral_term_for_culture.sanyo" text="{=shokuho7234Cbc9}San'you"/>
@@ -100,7 +100,7 @@
   <string id="str_neutral_term_for_culture.tosan" text="{=shokuho3BF32994}Tousan"/>
   <string id="str_neutral_term_for_culture.tokai" text="{=shokuho94C6c62d}Toukai"/>
   <string id="str_neutral_term_for_culture.kanto" text="{=shokuho004D70b3}Kantou"/>
-  <string id="str_neutral_term_for_culture.ou" text="{=shokuho69b922D6}Oou"/>
+  <string id="str_neutral_term_for_culture.ou" text="{=shokuho69b922D6}Ouu"/>
   <string id="str_adjective_for_culture.saikai" text="{=shokuho713B0151}Saikai"/>
   <string id="str_adjective_for_culture.nankai" text="{=shokuho38FC8307}Nankai"/>
   <string id="str_adjective_for_culture.sanyo" text="{=shokuho7234Cbc9}San'you"/>
@@ -109,7 +109,7 @@
   <string id="str_adjective_for_culture.tosan" text="{=shokuho3BF32994}Tousan"/>
   <string id="str_adjective_for_culture.tokai" text="{=shokuho94C6c62d}Toukai"/>
   <string id="str_adjective_for_culture.kanto" text="{=shokuho004D70b3}Kantou"/>
-  <string id="str_adjective_for_culture.ou" text="{=shokuho69b922D6}Oou"/>
+  <string id="str_adjective_for_culture.ou" text="{=shokuho69b922D6}Ouu"/>
   <string id="str_faction_official.saikai" text="{=shokuho1cD356A3}a lord"/>
   <string id="str_faction_official.saikai_f" text="{=shokuho1cD356A3}a lord"/>
   <string id="str_faction_official.nankai" text="{=shokuho1cD356A3}a lord"/>
@@ -153,8 +153,8 @@
   <string id="str_faction_formal_name_for_culture.kanto" text="{=shokuho004D70b3}Kantou"/>
   <string id="str_culture_rich_name.kanto" text="{=shokuho004D70b3}Kantou"/>
   <string id="str_culture_description.ou" text="{=shokuho1b8dC7b9}The Ouu people, native to the harsh, snow-covered lands of northern Honshu, have adapted to their frosty environment with remarkable resilience. Skilled in traversing snowy terrain, the Ouu navigate blizzards and icy conditions with ease, moving swiftly where others would struggle, and are accustomed to strict rationing when foraging is not possible, allowing them to endure longer in the snowy wastelands. However, the relentless winters take their toll, and their remote and rugged villages struggle to grow as rapidly as those in more temperate regions, limiting their expansion and development."/>
-  <string id="str_faction_formal_name_for_culture.ou" text="{=shokuho69b922D6}Oou"/>
-  <string id="str_culture_rich_name.ou" text="{=shokuho69b922D6}Oou"/>
+  <string id="str_faction_formal_name_for_culture.ou" text="{=shokuho69b922D6}Ouu"/>
+  <string id="str_culture_rich_name.ou" text="{=shokuho69b922D6}Ouu"/>
   <string id="str_campaign_options_auto_save_value" text="{=irBV6UE4}{MINUTE} {?IS_PLURAL}minutes{?}minute{\?}"/>
   <string id="str_campaign_options_type.DifficultyPresets" text="{=4v3Lb6BU}Difficulty Presets"/>
   <string id="str_campaign_options_type.PlayerTroopsReceivedDamage" text="{=Oea9a5nY}Friendly Troops Received Damage"/>

@@ -2915,9 +2915,9 @@
       <EquipmentSet id="tokai_civ_template_default_female" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <!-- Okubo Clan -->
+  <!-- Ōkubo Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_okubo" name="{=4RHGzzz5}Okubo Tadakazu" age="57" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_okubo" name="{=4RHGzzz5}Ōkubo Tadakazu" age="57" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="57.00" weight="0.3715" build="0.4146" key="003BF00EC0000383A56669879CA4693A43668A59A7D8457AD53696C54889AD880066660306A8828800000000000000000000000000000000000000000ED40042" />
     </face>
@@ -2938,7 +2938,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_okubo_1" name="{=tIwfNdAU}Okubo Kaede" age="53" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_okubo_1" name="{=tIwfNdAU}Ōkubo Kaede" age="53" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="53.00" weight="0.0249" build="0.8107" key="0027E00B40000004528454827CAFAC73BDC3819CE26CD7D26686B6C38A6C4C7E0D2C06D2072750FA00000000000000000000000000000000000000006C3440C1" />
     </face>
@@ -2956,7 +2956,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son -->
-  <NPCCharacter id="lord_1_okubo_2" name="{=bp0JE7lD}Okubo Tadayo" age="36" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_okubo_2" name="{=bp0JE7lD}Ōkubo Tadayo" age="36" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="36.00" weight="0.3459" build="0.7528" key="0029DC0EC0000401976885A788B75A8AD37859867C8B384AC33A87A558999988037B563507A8837B000000000000000000000000000000000000000044EC0081" />
     </face>
@@ -2977,7 +2977,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son Spouse -->
-  <NPCCharacter id="lord_1_okubo_3" name="{=p9CqbJC5}Okubo Koto" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_okubo_3" name="{=p9CqbJC5}Ōkubo Koto" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="38.00" weight="0.389" build="0.6753" key="001FEC0C00000002A98A52A59D077DE57DB28401A7DB2A3BB23F043C896A09CD030A66350046673900000000000000000000000000000000000000000E0C4101" />
     </face>
@@ -2995,7 +2995,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Grandson -->
-  <NPCCharacter id="lord_1_okubo_4" name="{=e0sW01xt}Okubo Tadachika" age="15" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_okubo_4" name="{=e0sW01xt}Ōkubo Tadachika" age="15" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="15.00" weight="0.1451" build="0.8053" key="0029CC0EC0000104A5727AC735B45A6A93668B4777DC4779C43CAC454899AD98006C26030699A249000000000000000000000000000000000000000022CC0100" />
     </face>
@@ -3016,7 +3016,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Grandson 2 -->
-  <NPCCharacter id="lord_1_okubo_5" name="{=ulF9F7Xm}Okubo Tadanari" age="3" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_okubo_5" name="{=ulF9F7Xm}Ōkubo Tadanari" age="3" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="3.00" weight="0.7059" build="0.7229" key="002CF00EC000008395735A9667B7748BC2773A5797EB345AC448658568A9DAA8046BB64606D7C35A000000000000000000000000000000000000000018CC0081" />
     </face>
@@ -3037,7 +3037,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son 2 -->
-  <NPCCharacter id="lord_1_okubo_6" name="{=CAxVPHIx}Okubo Tadasuke" age="31" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_okubo_6" name="{=CAxVPHIx}Ōkubo Tadasuke" age="31" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="31.00" weight="0.235" build="0.6486" key="001DE40EC0000184A67677B735B7697A52776B464AFD445CC448B8C568A9AE88006A460306D88289000000000000000000000000000000000000000032CC0103" />
     </face>
@@ -3058,7 +3058,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son 2 Spouse -->
-  <NPCCharacter id="lord_1_okubo_7" name="{=0Kytj7yK}Okubo Amane" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_okubo_7" name="{=0Kytj7yK}Ōkubo Amane" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="28.00" weight="0.2903" build="0.7639" key="0020E40CC00000019C81E67E9E243ACA7BF381B1AD068992D934139E83675A6D034B46350443203200000000000000000000000000000000000000001A8C1080" />
     </face>
@@ -3076,7 +3076,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son 3 -->
-  <NPCCharacter id="lord_1_okubo_8" name="{=2nmhylAz}Okubo Tadatame" age="14" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_okubo_8" name="{=2nmhylAz}Ōkubo Tadatame" age="14" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="14.00" weight="0.3379" build="0.1072" key="0036CC0E80000203B57374D739A4593AC2767A8877E8359BC5385D9568898C880662566706A8724800000000000000000000000000000000000000002CDC00C0" />
     </face>
@@ -3097,7 +3097,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son 4 -->
-  <NPCCharacter id="lord_1_okubo_9" name="{=HrxOrz25}Okubo Tadataka" age="8" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_okubo_9" name="{=HrxOrz25}Ōkubo Tadataka" age="8" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="8.00" weight="0.4966" build="0.6721" key="0020D80E80000544966477D896A8595B52784A99878E487BD33857C53889CD98037A763507A7B38A000000000000000000000000000000000000000024EC00C0" />
     </face>
