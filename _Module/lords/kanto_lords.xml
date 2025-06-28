@@ -1617,7 +1617,7 @@
       <EquipmentSet id="kanto_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <!-- Oda Clan (Kanto region) -->
+  <!-- Oda Clan (Kantou region) -->
   <!-- Leader -->
   <NPCCharacter id="lord_2_oda" name="{=N0wdIy1B}Oda Ujiharu" age="37" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>

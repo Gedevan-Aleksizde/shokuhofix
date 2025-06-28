@@ -1228,7 +1228,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="teppo_ashigaru" default_group="Ranged" level="11" occupation="Soldier" culture="Culture.ashigaru" name="{=Il0gqhSh}Teppo Ashigaru">
+  <NPCCharacter id="teppo_ashigaru" default_group="Ranged" level="11" occupation="Soldier" culture="Culture.ashigaru" name="{=Il0gqhSh}Teppou Ashigaru">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>

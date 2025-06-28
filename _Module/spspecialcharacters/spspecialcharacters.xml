@@ -23,8 +23,8 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_engineer_saikai"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- the hawk : the Ronin, feined death and escaped service of his lord (Ronin/Duelist)-->
-	<NPCCharacter id="spc_wanderer_saikai_1" name="{=j2nVPqIX}{FIRSTNAME} the Ronin" voice="softspoken" age="27" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.saikai" occupation="Wanderer">
+	<!-- the hawk : the Rounin, feined death and escaped service of his lord (Rounin/Duelist)-->
+	<NPCCharacter id="spc_wanderer_saikai_1" name="{=j2nVPqIX}{FIRSTNAME} the Rounin" voice="softspoken" age="27" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.saikai" occupation="Wanderer">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -2610,7 +2610,7 @@
     </NPCCharacter>
 	<!-- Train Troops Characters END -->
 	<!--minor faction lords-->
-	<NPCCharacter id="spc_yamakuguri_shu_leader_0" name="{=zVp7PDAV}Shuncho-bo of the Yamakuguri-shu" voice="curt" age="23" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.saikai" occupation="Lord">
+	<NPCCharacter id="spc_yamakuguri_shu_leader_0" name="{=zVp7PDAV}Shuncho-bo of the Yamakuguri-shū" voice="curt" age="23" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.saikai" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -2629,7 +2629,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_saikai"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_yamakuguri_shu_leader_1" name="{=BPyoOEPM}Shinren-bo of the Yamakuguri-shu" voice="curt" age="25" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.saikai" occupation="Lord">
+	<NPCCharacter id="spc_yamakuguri_shu_leader_1" name="{=BPyoOEPM}Shinren-bo of the Yamakuguri-shū" voice="curt" age="25" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.saikai" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -2648,7 +2648,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_saikai"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_yamakuguri_shu_leader_2" name="{=GCsq3ig0}Nagaku-bo of the Yamakuguri-shu" voice="curt" age="30" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.saikai" occupation="Lord">
+	<NPCCharacter id="spc_yamakuguri_shu_leader_2" name="{=GCsq3ig0}Nagaku-bo of the Yamakuguri-shū" voice="curt" age="30" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.saikai" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -2667,7 +2667,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_saikai"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_yamakuguri_shu_leader_3" name="{=drBumCCI}Rencho-bo of the Yamakuguri-shu" voice="curt" age="28" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.saikai" occupation="Lord">
+	<NPCCharacter id="spc_yamakuguri_shu_leader_3" name="{=drBumCCI}Rencho-bo of the Yamakuguri-shū" voice="curt" age="28" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.saikai" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -2686,7 +2686,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_saikai"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_shiwaku_shu_leader_0" name="{=AyM70U5G}Dendayu of the Shiwaku-shu" voice="curt" age="32" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.nankai" occupation="Lord">
+	<NPCCharacter id="spc_shiwaku_shu_leader_0" name="{=AyM70U5G}Dendayu of the Shiwaku-shū" voice="curt" age="32" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.nankai" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -2705,7 +2705,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_nankai"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_shiwaku_shu_leader_1" name="{=l31cZiIC}Hikozaemon of the Shiwaku-shu" voice="curt" age="28" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.nankai" occupation="Lord">
+	<NPCCharacter id="spc_shiwaku_shu_leader_1" name="{=l31cZiIC}Hikozaemon of the Shiwaku-shū" voice="curt" age="28" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.nankai" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -2724,7 +2724,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_nankai"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_shiwaku_shu_leader_2" name="{=0KCQiQmk}Matazaemon of the Shiwaku-shu" voice="curt" age="24" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.nankai" occupation="Lord">
+	<NPCCharacter id="spc_shiwaku_shu_leader_2" name="{=0KCQiQmk}Matazaemon of the Shiwaku-shū" voice="curt" age="24" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.nankai" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -2743,7 +2743,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_nankai"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_shiwaku_shu_leader_3" name="{=fvYQ5nHm}Shirōzaemon of the Shiwaku-shu" voice="curt" age="24" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.nankai" occupation="Lord">
+	<NPCCharacter id="spc_shiwaku_shu_leader_3" name="{=fvYQ5nHm}Shirouzaemon of the Shiwaku-shū" voice="curt" age="24" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.nankai" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -2838,7 +2838,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_sanyo"/>
 		</Equipments>
 	</NPCCharacter>
-		<NPCCharacter id="spc_saika_shu_leader_0" name="{=RyLMu95p}Shigehide of the Saika-shu" voice="curt" age="35" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kinai" occupation="Lord">
+		<NPCCharacter id="spc_saika_shu_leader_0" name="{=RyLMu95p}Shigehide of the Saika-shū" voice="curt" age="35" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kinai" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -2857,7 +2857,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_kinai"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_saika_shu_leader_1" name="{=mCyE8J6q}Yoshinaga of the Saika-shu" voice="curt" age="30" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kinai" occupation="Lord">
+	<NPCCharacter id="spc_saika_shu_leader_1" name="{=mCyE8J6q}Yoshinaga of the Saika-shū" voice="curt" age="30" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kinai" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -2876,7 +2876,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_kinai"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_saika_shu_leader_2" name="{=hFpmPMVr}Masanaga of the Saika-shu" voice="curt" age="25" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kinai" occupation="Lord">
+	<NPCCharacter id="spc_saika_shu_leader_2" name="{=hFpmPMVr}Masanaga of the Saika-shū" voice="curt" age="25" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kinai" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -2895,7 +2895,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_kinai"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_saika_shu_leader_3" name="{=fa3anLu5}Tanetsugu of the Saika-shu" voice="curt" age="26" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kinai" occupation="Lord">
+	<NPCCharacter id="spc_saika_shu_leader_3" name="{=fa3anLu5}Tanetsugu of the Saika-shū" voice="curt" age="26" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kinai" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -2914,7 +2914,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_kinai"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_hakusan_shuto_leader_0" name="{=KWrYKrXN}Hoko-in of the Hakusan-shuto" voice="curt" age="29" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.hokuriku" occupation="Lord">
+	<NPCCharacter id="spc_hakusan_shuto_leader_0" name="{=KWrYKrXN}Hoko-in of the Hakusan-shūto" voice="curt" age="29" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.hokuriku" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -2933,7 +2933,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_hokuriku"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_hakusan_shuto_leader_1" name="{=ro5HIPkS}Daigaku-in of the Hakusan-shuto" voice="curt" age="41" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.hokuriku" occupation="Lord">
+	<NPCCharacter id="spc_hakusan_shuto_leader_1" name="{=ro5HIPkS}Daigaku-in of the Hakusan-shūto" voice="curt" age="41" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.hokuriku" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -2952,7 +2952,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_hokuriku"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_hakusan_shuto_leader_2" name="{=7PyHI5XI}Hoju-bo of the Hakusan-shuto" voice="curt" age="25" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.hokuriku" occupation="Lord">
+	<NPCCharacter id="spc_hakusan_shuto_leader_2" name="{=7PyHI5XI}Hoju-bo of the Hakusan-shūto" voice="curt" age="25" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.hokuriku" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -2971,7 +2971,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_hokuriku"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_hakusan_shuto_leader_3" name="{=n1AUVAjG}Daien-bo of the Hakusan-shuto" voice="curt" age="28" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.hokuriku" occupation="Lord">
+	<NPCCharacter id="spc_hakusan_shuto_leader_3" name="{=n1AUVAjG}Daien-bo of the Hakusan-shūto" voice="curt" age="28" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.hokuriku" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -2990,7 +2990,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_hokuriku"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_katsurayama_shu_leader_0" name="{=A34GSK7R}Yosuke of the Katsurayama-shu" voice="curt" age="21" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tosan" occupation="Lord">
+	<NPCCharacter id="spc_katsurayama_shu_leader_0" name="{=A34GSK7R}Yosuke of the Katsurayama-shū" voice="curt" age="21" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tosan" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -3009,7 +3009,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_tosan"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_katsurayama_shu_leader_1" name="{=pmRhqZjW}Genzaemon of the Katsurayama-shu" voice="curt" age="23" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tosan" occupation="Lord">
+	<NPCCharacter id="spc_katsurayama_shu_leader_1" name="{=pmRhqZjW}Genzaemon of the Katsurayama-shū" voice="curt" age="23" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tosan" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -3028,7 +3028,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_tosan"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_katsurayama_shu_leader_2" name="{=7JS920AH}Hikoshiro of the Katsurayama-shu" voice="curt" age="19" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tosan" occupation="Lord">
+	<NPCCharacter id="spc_katsurayama_shu_leader_2" name="{=7JS920AH}Hikoshiro of the Katsurayama-shū" voice="curt" age="19" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tosan" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -3047,7 +3047,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_tosan"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_katsurayama_shu_leader_3" name="{=0PMZzRqy}Tanzaemon of the Katsurayama-shu" voice="curt" age="22" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tosan" occupation="Lord">
+	<NPCCharacter id="spc_katsurayama_shu_leader_3" name="{=0PMZzRqy}Tanzaemon of the Katsurayama-shū" voice="curt" age="22" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tosan" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -3066,7 +3066,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_tosan"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_suruga_shu_leader_0" name="{=TIwhbX3R}Masakatsu of the Suruga-shu" voice="curt" age="46" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tokai" occupation="Lord">
+	<NPCCharacter id="spc_suruga_shu_leader_0" name="{=TIwhbX3R}Masakatsu of the Suruga-shū" voice="curt" age="46" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tokai" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -3085,7 +3085,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_tokai"/>
 		</Equipments>
 	</NPCCharacter>
-		<NPCCharacter id="spc_suruga_shu_leader_1" name="{=6OLny6KG}Sadatsuna of the Suruga-shu" voice="curt" age="35" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tokai" occupation="Lord">
+		<NPCCharacter id="spc_suruga_shu_leader_1" name="{=6OLny6KG}Sadatsuna of the Suruga-shū" voice="curt" age="35" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tokai" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -3104,7 +3104,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_tokai"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_suruga_shu_leader_2" name="{=sTlnXgkr}Masatsuna of the Suruga-shu" voice="curt" age="18" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tokai" occupation="Lord">
+	<NPCCharacter id="spc_suruga_shu_leader_2" name="{=sTlnXgkr}Masatsuna of the Suruga-shū" voice="curt" age="18" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tokai" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -3123,7 +3123,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_tokai"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_suruga_shu_leader_3" name="{=ghSClYDk}Kagetaka of the Suruga-shu" voice="curt" age="28" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tokai" occupation="Lord">
+	<NPCCharacter id="spc_suruga_shu_leader_3" name="{=ghSClYDk}Kagetaka of the Suruga-shū" voice="curt" age="28" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tokai" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -3142,7 +3142,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_tokai"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_kazama_shu_leader_0" name="{=ROAQ3r08}Kotaro of the Kazama-shu" voice="curt" age="24" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kanto" occupation="Lord">
+	<NPCCharacter id="spc_kazama_shu_leader_0" name="{=ROAQ3r08}Kotaro of the Kazama-shū" voice="curt" age="24" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kanto" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -3161,7 +3161,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_kanto"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_kazama_shu_leader_1" name="{=tDyOs33I}Shinzo of the Kazama-shu" voice="curt" age="29" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kanto" occupation="Lord">
+	<NPCCharacter id="spc_kazama_shu_leader_1" name="{=tDyOs33I}Shinzo of the Kazama-shū" voice="curt" age="29" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kanto" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -3180,7 +3180,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_kanto"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_kazama_shu_leader_2" name="{=4MEC7NCo}Tatsugoro of the Kazama-shu" voice="curt" age="31" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kanto" occupation="Lord">
+	<NPCCharacter id="spc_kazama_shu_leader_2" name="{=4MEC7NCo}Tatsugoro of the Kazama-shū" voice="curt" age="31" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kanto" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -3199,7 +3199,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_kanto"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_kazama_shu_leader_3" name="{=FAMP0ZXN}Gensuke of the Kazama-shu" voice="curt" age="25" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kanto" occupation="Lord">
+	<NPCCharacter id="spc_kazama_shu_leader_3" name="{=FAMP0ZXN}Gensuke of the Kazama-shū" voice="curt" age="25" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kanto" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -3218,7 +3218,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_kanto"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_kurohabaki_shu_leader_0" name="{=xw0Kltyn}Kurando of the Kurohabaki-shu" voice="curt" age="28" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ou" occupation="Lord">
+	<NPCCharacter id="spc_kurohabaki_shu_leader_0" name="{=xw0Kltyn}Kurando of the Kurohabaki-shū" voice="curt" age="28" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ou" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -3237,7 +3237,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_ou"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_kurohabaki_shu_leader_1" name="{=PBCfHu7Z}Tobei of the Kurohabaki-shu" voice="curt" age="18" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ou" occupation="Lord">
+	<NPCCharacter id="spc_kurohabaki_shu_leader_1" name="{=PBCfHu7Z}Tobei of the Kurohabaki-shū" voice="curt" age="18" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ou" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -3256,7 +3256,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_ou"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_kurohabaki_shu_leader_2" name="{=2hJS88Ov}Kinsuke of the Kurohabaki-shu" voice="curt" age="19" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ou" occupation="Lord">
+	<NPCCharacter id="spc_kurohabaki_shu_leader_2" name="{=2hJS88Ov}Kinsuke of the Kurohabaki-shū" voice="curt" age="19" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ou" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -3275,7 +3275,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_ou"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_kurohabaki_shu_leader_3" name="{=3bY5KuXN}Shunkai of the Kurohabaki-shu" voice="curt" age="21" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ou" occupation="Lord">
+	<NPCCharacter id="spc_kurohabaki_shu_leader_3" name="{=3bY5KuXN}Shunkai of the Kurohabaki-shū" voice="curt" age="21" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.ou" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>

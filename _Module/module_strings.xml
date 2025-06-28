@@ -2,114 +2,114 @@
 <strings>
   <string id="str_html_notification" text="{=!}&lt;img src=&quot;General\Icons\icon_story_quest_available&quot;&gt;"/>
   <!--culture-->
-  <string id="str_liege_title.saikai" text="{=tRwThwR8}Daimyo">
+  <string id="str_liege_title.saikai" text="{=tRwThwR8}Daimyou">
     <tags>
       <tag tag_name="SaikaiTag"/>
     </tags>
   </string>
-  <string id="str_liege_title.nankai" text="{=tRwThwR8}Daimyo">
+  <string id="str_liege_title.nankai" text="{=tRwThwR8}Daimyou">
     <tags>
       <tag tag_name="NankaiTag"/>
     </tags>
   </string>
-  <string id="str_liege_title.sanyo" text="{=tRwThwR8}Daimyo">
+  <string id="str_liege_title.sanyo" text="{=tRwThwR8}Daimyou">
     <tags>
       <tag tag_name="SanyoTag"/>
     </tags>
   </string>
-  <string id="str_liege_title.kinai" text="{=tRwThwR8}Daimyo">
+  <string id="str_liege_title.kinai" text="{=tRwThwR8}Daimyou">
     <tags>
       <tag tag_name="KinaiTag"/>
     </tags>
   </string>
-  <string id="str_liege_title.hokuriku" text="{=tRwThwR8}Daimyo">
+  <string id="str_liege_title.hokuriku" text="{=tRwThwR8}Daimyou">
     <tags>
       <tag tag_name="HokurikuTag"/>
     </tags>
   </string>
-  <string id="str_liege_title.tosan" text="{=tRwThwR8}Daimyo">
+  <string id="str_liege_title.tosan" text="{=tRwThwR8}Daimyou">
     <tags>
       <tag tag_name="TosanTag"/>
     </tags>
   </string>
-  <string id="str_liege_title.tokai" text="{=tRwThwR8}Daimyo">
+  <string id="str_liege_title.tokai" text="{=tRwThwR8}Daimyou">
     <tags>
       <tag tag_name="TokaiTag"/>
     </tags>
   </string>
-  <string id="str_liege_title.kanto" text="{=tRwThwR8}Daimyo">
+  <string id="str_liege_title.kanto" text="{=tRwThwR8}Daimyou">
     <tags>
       <tag tag_name="KantoTag"/>
     </tags>
   </string>
-  <string id="str_liege_title.ou" text="{=tRwThwR8}Daimyo">
+  <string id="str_liege_title.ou" text="{=tRwThwR8}Daimyou">
     <tags>
       <tag tag_name="OuTag"/>
     </tags>
   </string>
-  <string id="str_faction_ruler.saikai" text="{=tRwThwR8}Daimyo"/>
-  <string id="str_faction_ruler.nankai" text="{=tRwThwR8}Daimyo"/>
-  <string id="str_faction_ruler.sanyo" text="{=tRwThwR8}Daimyo"/>
-  <string id="str_faction_ruler.kinai" text="{=tRwThwR8}Daimyo"/>
-  <string id="str_faction_ruler.hokuriku" text="{=tRwThwR8}Daimyo"/>
-  <string id="str_faction_ruler.tosan" text="{=tRwThwR8}Daimyo"/>
-  <string id="str_faction_ruler.tokai" text="{=tRwThwR8}Daimyo"/>
-  <string id="str_faction_ruler.kanto" text="{=tRwThwR8}Daimyo"/>
-  <string id="str_faction_ruler.ou" text="{=tRwThwR8}Daimyo"/>
-  <string id="str_faction_official.saikai" text="{=tRwThwR8}Daimyo"/>
-  <string id="str_faction_official.nankai" text="{=tRwThwR8}Daimyo"/>
-  <string id="str_faction_official.sanyo" text="{=tRwThwR8}Daimyo"/>
-  <string id="str_faction_official.kinai" text="{=tRwThwR8}Daimyo"/>
-  <string id="str_faction_official.hokuriku" text="{=tRwThwR8}Daimyo"/>
-  <string id="str_faction_official.tosan" text="{=tRwThwR8}Daimyo"/>
-  <string id="str_faction_official.tokai" text="{=tRwThwR8}Daimyo"/>
-  <string id="str_faction_official.kanto" text="{=tRwThwR8}Daimyo"/>
-  <string id="str_faction_official.ou" text="{=tRwThwR8}Daimyo"/>
-  <string id="str_faction_ruler_name_with_title.saikai" text="{=tRwThwR8}Daimyo {RULER.NAME}"/>
+  <string id="str_faction_ruler.saikai" text="{=tRwThwR8}Daimyou"/>
+  <string id="str_faction_ruler.nankai" text="{=tRwThwR8}Daimyou"/>
+  <string id="str_faction_ruler.sanyo" text="{=tRwThwR8}Daimyou"/>
+  <string id="str_faction_ruler.kinai" text="{=tRwThwR8}Daimyou"/>
+  <string id="str_faction_ruler.hokuriku" text="{=tRwThwR8}Daimyou"/>
+  <string id="str_faction_ruler.tosan" text="{=tRwThwR8}Daimyou"/>
+  <string id="str_faction_ruler.tokai" text="{=tRwThwR8}Daimyou"/>
+  <string id="str_faction_ruler.kanto" text="{=tRwThwR8}Daimyou"/>
+  <string id="str_faction_ruler.ou" text="{=tRwThwR8}Daimyou"/>
+  <string id="str_faction_official.saikai" text="{=tRwThwR8}Daimyou"/>
+  <string id="str_faction_official.nankai" text="{=tRwThwR8}Daimyou"/>
+  <string id="str_faction_official.sanyo" text="{=tRwThwR8}Daimyou"/>
+  <string id="str_faction_official.kinai" text="{=tRwThwR8}Daimyou"/>
+  <string id="str_faction_official.hokuriku" text="{=tRwThwR8}Daimyou"/>
+  <string id="str_faction_official.tosan" text="{=tRwThwR8}Daimyou"/>
+  <string id="str_faction_official.tokai" text="{=tRwThwR8}Daimyou"/>
+  <string id="str_faction_official.kanto" text="{=tRwThwR8}Daimyou"/>
+  <string id="str_faction_official.ou" text="{=tRwThwR8}Daimyou"/>
+  <string id="str_faction_ruler_name_with_title.saikai" text="{=tRwThwR8}Daimyou {RULER.NAME}"/>
   <string id="str_faction_noble_name_with_title.saikai" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
-  <string id="str_faction_ruler_name_with_title.nankai" text="{=tRwThwR8}Daimyo {RULER.NAME}"/>
+  <string id="str_faction_ruler_name_with_title.nankai" text="{=tRwThwR8}Daimyou {RULER.NAME}"/>
   <string id="str_faction_noble_name_with_title.nankai" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
-  <string id="str_faction_ruler_name_with_title.sanyo" text="{=tRwThwR8}Daimyo {RULER.NAME}"/>
+  <string id="str_faction_ruler_name_with_title.sanyo" text="{=tRwThwR8}Daimyou {RULER.NAME}"/>
   <string id="str_faction_noble_name_with_title.sanyo" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
-  <string id="str_faction_ruler_name_with_title.kinai" text="{=tRwThwR8}Daimyo {RULER.NAME}"/>
+  <string id="str_faction_ruler_name_with_title.kinai" text="{=tRwThwR8}Daimyou {RULER.NAME}"/>
   <string id="str_faction_noble_name_with_title.kinai" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
-  <string id="str_faction_ruler_name_with_title.hokuriku" text="{=tRwThwR8}Daimyo {RULER.NAME}"/>
+  <string id="str_faction_ruler_name_with_title.hokuriku" text="{=tRwThwR8}Daimyou {RULER.NAME}"/>
   <string id="str_faction_noble_name_with_title.hokuriku" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
-  <string id="str_faction_ruler_name_with_title.tosan" text="{=tRwThwR8}Daimyo {RULER.NAME}"/>
+  <string id="str_faction_ruler_name_with_title.tosan" text="{=tRwThwR8}Daimyou {RULER.NAME}"/>
   <string id="str_faction_noble_name_with_title.tosan" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
-  <string id="str_faction_ruler_name_with_title.tokai" text="{=tRwThwR8}Daimyo {RULER.NAME}"/>
+  <string id="str_faction_ruler_name_with_title.tokai" text="{=tRwThwR8}Daimyou {RULER.NAME}"/>
   <string id="str_faction_noble_name_with_title.tokai" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
-  <string id="str_faction_ruler_name_with_title.kanto" text="{=tRwThwR8}Daimyo {RULER.NAME}"/>
+  <string id="str_faction_ruler_name_with_title.kanto" text="{=tRwThwR8}Daimyou {RULER.NAME}"/>
   <string id="str_faction_noble_name_with_title.kanto" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
-  <string id="str_faction_ruler_name_with_title.ou" text="{=tRwThwR8}Daimyo {RULER.NAME}"/>
+  <string id="str_faction_ruler_name_with_title.ou" text="{=tRwThwR8}Daimyou {RULER.NAME}"/>
   <string id="str_faction_noble_name_with_title.ou" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
   <string id="str_faction_informal_name_for_culture.saikai" text="{=shokuho10DfE28B}the Saikai"/>
   <string id="str_faction_informal_name_for_culture.nankai" text="{=shokuho043B3d04}the Nankai"/>
-  <string id="str_faction_informal_name_for_culture.sanyo" text="{=shokuho1a097ebC}the Sanyo"/>
+  <string id="str_faction_informal_name_for_culture.sanyo" text="{=shokuho1a097ebC}the San'you"/>
   <string id="str_faction_informal_name_for_culture.kinai" text="{=shokuho1Be51AbC}the Kinai"/>
   <string id="str_faction_informal_name_for_culture.hokuriku" text="{=shokuho0ae18622}the Hokuriku"/>
-  <string id="str_faction_informal_name_for_culture.tosan" text="{=shokuho400863F7}the Tosan"/>
-  <string id="str_faction_informal_name_for_culture.tokai" text="{=shokuhoE3F821c1}the Tokai"/>
-  <string id="str_faction_informal_name_for_culture.kanto" text="{=shokuho8e0aa2cA}the Kanto"/>
-  <string id="str_faction_informal_name_for_culture.ou" text="{=shokuho471d1bB4}the Ou"/>
+  <string id="str_faction_informal_name_for_culture.tosan" text="{=shokuho400863F7}the Tousan"/>
+  <string id="str_faction_informal_name_for_culture.tokai" text="{=shokuhoE3F821c1}the Toukai"/>
+  <string id="str_faction_informal_name_for_culture.kanto" text="{=shokuho8e0aa2cA}the Kantou"/>
+  <string id="str_faction_informal_name_for_culture.ou" text="{=shokuho471d1bB4}the Oou"/>
   <string id="str_neutral_term_for_culture.saikai" text="{=shokuho713B0151}Saikai"/>
   <string id="str_neutral_term_for_culture.nankai" text="{=shokuho38FC8307}Nankai"/>
-  <string id="str_neutral_term_for_culture.sanyo" text="{=shokuho7234Cbc9}Sanyo"/>
+  <string id="str_neutral_term_for_culture.sanyo" text="{=shokuho7234Cbc9}San'you"/>
   <string id="str_neutral_term_for_culture.kinai" text="{=shokuhof6Ba5A3F}Kinai"/>
   <string id="str_neutral_term_for_culture.hokuriku" text="{=shokuhoE1FC118D}Hokuriku"/>
-  <string id="str_neutral_term_for_culture.tosan" text="{=shokuho3BF32994}Tosan"/>
-  <string id="str_neutral_term_for_culture.tokai" text="{=shokuho94C6c62d}Tokai"/>
-  <string id="str_neutral_term_for_culture.kanto" text="{=shokuho004D70b3}Kanto"/>
-  <string id="str_neutral_term_for_culture.ou" text="{=shokuho69b922D6}Ou"/>
+  <string id="str_neutral_term_for_culture.tosan" text="{=shokuho3BF32994}Tousan"/>
+  <string id="str_neutral_term_for_culture.tokai" text="{=shokuho94C6c62d}Toukai"/>
+  <string id="str_neutral_term_for_culture.kanto" text="{=shokuho004D70b3}Kantou"/>
+  <string id="str_neutral_term_for_culture.ou" text="{=shokuho69b922D6}Oou"/>
   <string id="str_adjective_for_culture.saikai" text="{=shokuho713B0151}Saikai"/>
   <string id="str_adjective_for_culture.nankai" text="{=shokuho38FC8307}Nankai"/>
-  <string id="str_adjective_for_culture.sanyo" text="{=shokuho7234Cbc9}Sanyo"/>
+  <string id="str_adjective_for_culture.sanyo" text="{=shokuho7234Cbc9}San'you"/>
   <string id="str_adjective_for_culture.kinai" text="{=shokuhof6Ba5A3F}Kinai"/>
   <string id="str_adjective_for_culture.hokuriku" text="{=shokuhoE1FC118D}Hokuriku"/>
-  <string id="str_adjective_for_culture.tosan" text="{=shokuho3BF32994}Tosan"/>
-  <string id="str_adjective_for_culture.tokai" text="{=shokuho94C6c62d}Tokai"/>
-  <string id="str_adjective_for_culture.kanto" text="{=shokuho004D70b3}Kanto"/>
-  <string id="str_adjective_for_culture.ou" text="{=shokuho69b922D6}Ou"/>
+  <string id="str_adjective_for_culture.tosan" text="{=shokuho3BF32994}Tousan"/>
+  <string id="str_adjective_for_culture.tokai" text="{=shokuho94C6c62d}Toukai"/>
+  <string id="str_adjective_for_culture.kanto" text="{=shokuho004D70b3}Kantou"/>
+  <string id="str_adjective_for_culture.ou" text="{=shokuho69b922D6}Oou"/>
   <string id="str_faction_official.saikai" text="{=shokuho1cD356A3}a lord"/>
   <string id="str_faction_official.saikai_f" text="{=shokuho1cD356A3}a lord"/>
   <string id="str_faction_official.nankai" text="{=shokuho1cD356A3}a lord"/>
@@ -135,26 +135,26 @@
   <string id="str_faction_formal_name_for_culture.nankai" text="{=shokuho38FC8307}Nankai"/>
   <string id="str_culture_rich_name.nankai" text="{=shokuho38FC8307}Nankai"/>
   <string id="str_culture_description.sanyo" text="{=shokuho45bCEfCF}The San'yo people are native to the westernmost region of Honshu, whose challenging and mountainous terrain has driven them towards the coast, making the San'yo expert sailors who navigate the seas of Japan with ease and great agility. Thanks to their renowned maritime prowess, the San'yo home region has turned into a major trade hub, with large port cities such as Onomichi flourishing and yielding large tax revenues."/>
-  <string id="str_faction_formal_name_for_culture.sanyo" text="{=shokuho7234Cbc9}Sanyo"/>
-  <string id="str_culture_rich_name.sanyo" text="{=shokuho7234Cbc9}Sanyo"/>
+  <string id="str_faction_formal_name_for_culture.sanyo" text="{=shokuho7234Cbc9}San'you"/>
+  <string id="str_culture_rich_name.sanyo" text="{=shokuho7234Cbc9}San'you"/>
   <string id="str_culture_description.kinai" text="{=shokuho5CC2b741}The Kinki people reside in the central part of Honshu representing the cultural, economic, and political heart of Japan. The direct heirs of the potentates who once ruled over the entire country, the Kinki benefit from the power structures left behind by their forebears, making it easier for them to consolidate their control over the different regions of Japan. The poetic tradition that flourished around Kyoto contributes to a growing renown of victorious warlords who emulate the deeds of legendary heroes. Nevertheless, years of armed clashes and political scheming for power make it consistently difficult for the Kinki lords to put aside their differences and unite against a common enemy."/>
   <string id="str_faction_formal_name_for_culture.kinai" text="{=shokuhof6Ba5A3F}Kinai"/>
   <string id="str_culture_rich_name.kinai" text="{=shokuhof6Ba5A3F}Kinai"/>
-  <string id="str_culture_description.hokuriku" text="{=shokuhoB3B19D25}The Hokuriku people reside in the strategically vital mountain passes and fertile coastal plains of northern Honshu that have long been targeted by neighboring warlords to control their key position. Over time, the Hokuriku have developed exceptional skills in defending their territory, often bolstering their ranks with warrior monks thanks to their proximity to powerful Buddhist temples. However, the internal stability of the region is increasingly threatened by the rise of the Jōdo Shinshū Buddhist sect that is gaining popularity among the Hokuriku and the Ikko Ikki rebels, whose fervor and uprisings challenge the traditional power structures."/>
+  <string id="str_culture_description.hokuriku" text="{=shokuhoB3B19D25}The Hokuriku people reside in the strategically vital mountain passes and fertile coastal plains of northern Honshu that have long been targeted by neighboring warlords to control their key position. Over time, the Hokuriku have developed exceptional skills in defending their territory, often bolstering their ranks with warrior monks thanks to their proximity to powerful Buddhist temples. However, the internal stability of the region is increasingly threatened by the rise of the Joudo Shinshū Buddhist sect that is gaining popularity among the Hokuriku and the Ikko Ikki rebels, whose fervor and uprisings challenge the traditional power structures."/>
   <string id="str_faction_formal_name_for_culture.hokuriku" text="{=shokuhoE1FC118D}Hokuriku"/>
   <string id="str_culture_rich_name.hokuriku" text="{=shokuhoE1FC118D}Hokuriku"/>
-  <string id="str_culture_description.tosan" text="{=shokuho04DF3e9e}The people of Tosan reside in a region characterized by rugged mountainous terrain, which almost completely cuts off the local communities from the rest of the country, who have long become self-sufficient in order to survive the harsh climate. The Tosan have mastered the adverse terrain they traverse with surprising ease to reach timber and mineral deposits, and have developed a subsistence economy around the villages in the fertile valleys that allows them to sustain minimal growth and some excellences such as the renowned horses of the Kiso Valley."/>
-  <string id="str_faction_formal_name_for_culture.tosan" text="{=shokuho3BF32994}Tosan"/>
-  <string id="str_culture_rich_name.tosan" text="{=shokuho3BF32994}Tosan"/>
-  <string id="str_culture_description.tokai" text="{=shokuho6A9bAb37}The Tokai people hail from the fertile lowlands and coastlines of central-southern Honshu, which serves as the ideal boundary between west and east of the country. This has led the Tokai to develop a highly rural society based around sprawling village communities, while urban centers are limited to relatively small settlements unable to compete with the thriving towns of the rest of Japan. Despite the seemingly idyllic setting, such a strategic position makes the region a target for ambitious neighbours, and the Tokai have learnt the imperative of remaining united in arms in the face of external threats much longer than most normally would."/>
-  <string id="str_faction_formal_name_for_culture.tokai" text="{=shokuho94C6c62d}Tokai"/>
-  <string id="str_culture_rich_name.tokai" text="{=shokuho94C6c62d}Tokai"/>
-  <string id="str_culture_description.kanto" text="{=shokuhodcE9A558}The people of Kanto, the spiritual homeland of the samurai class, live in a predominantly flat region that is perfect for extensive agriculture and the breeding of its renowned battle steeds, which yield abundant harvests and allow Kanto to field and maintain cavalry forces more easily. Imbued with the secular martial tradition in which they have their roots, the lords of Kanto can more easily raise large armies to face their enemies, but their great emphasis on military preparedness makes it more expensive to pay the wages of their soldiers."/>
-  <string id="str_faction_formal_name_for_culture.kanto" text="{=shokuho004D70b3}Kanto"/>
-  <string id="str_culture_rich_name.kanto" text="{=shokuho004D70b3}Kanto"/>
-  <string id="str_culture_description.ou" text="{=shokuho1b8dC7b9}The Ou people, native to the harsh, snow-covered lands of northern Honshu, have adapted to their frosty environment with remarkable resilience. Skilled in traversing snowy terrain, the Ou navigate blizzards and icy conditions with ease, moving swiftly where others would struggle, and are accustomed to strict rationing when foraging is not possible, allowing them to endure longer in the snowy wastelands. However, the relentless winters take their toll, and their remote and rugged villages struggle to grow as rapidly as those in more temperate regions, limiting their expansion and development."/>
-  <string id="str_faction_formal_name_for_culture.ou" text="{=shokuho69b922D6}Ou"/>
-  <string id="str_culture_rich_name.ou" text="{=shokuho69b922D6}Ou"/>
+  <string id="str_culture_description.tosan" text="{=shokuho04DF3e9e}The people of Tousan reside in a region characterized by rugged mountainous terrain, which almost completely cuts off the local communities from the rest of the country, who have long become self-sufficient in order to survive the harsh climate. The Tousan have mastered the adverse terrain they traverse with surprising ease to reach timber and mineral deposits, and have developed a subsistence economy around the villages in the fertile valleys that allows them to sustain minimal growth and some excellences such as the renowned horses of the Kiso Valley."/>
+  <string id="str_faction_formal_name_for_culture.tosan" text="{=shokuho3BF32994}Tousan"/>
+  <string id="str_culture_rich_name.tosan" text="{=shokuho3BF32994}Tousan"/>
+  <string id="str_culture_description.tokai" text="{=shokuho6A9bAb37}The Toukai people hail from the fertile lowlands and coastlines of central-southern Honshu, which serves as the ideal boundary between west and east of the country. This has led the Toukai to develop a highly rural society based around sprawling village communities, while urban centers are limited to relatively small settlements unable to compete with the thriving towns of the rest of Japan. Despite the seemingly idyllic setting, such a strategic position makes the region a target for ambitious neighbours, and the Toukai have learnt the imperative of remaining united in arms in the face of external threats much longer than most normally would."/>
+  <string id="str_faction_formal_name_for_culture.tokai" text="{=shokuho94C6c62d}Toukai"/>
+  <string id="str_culture_rich_name.tokai" text="{=shokuho94C6c62d}Toukai"/>
+  <string id="str_culture_description.kanto" text="{=shokuhodcE9A558}The people of Kantou, the spiritual homeland of the samurai class, live in a predominantly flat region that is perfect for extensive agriculture and the breeding of its renowned battle steeds, which yield abundant harvests and allow Kantou to field and maintain cavalry forces more easily. Imbued with the secular martial tradition in which they have their roots, the lords of Kantou can more easily raise large armies to face their enemies, but their great emphasis on military preparedness makes it more expensive to pay the wages of their soldiers."/>
+  <string id="str_faction_formal_name_for_culture.kanto" text="{=shokuho004D70b3}Kantou"/>
+  <string id="str_culture_rich_name.kanto" text="{=shokuho004D70b3}Kantou"/>
+  <string id="str_culture_description.ou" text="{=shokuho1b8dC7b9}The Ouu people, native to the harsh, snow-covered lands of northern Honshu, have adapted to their frosty environment with remarkable resilience. Skilled in traversing snowy terrain, the Ouu navigate blizzards and icy conditions with ease, moving swiftly where others would struggle, and are accustomed to strict rationing when foraging is not possible, allowing them to endure longer in the snowy wastelands. However, the relentless winters take their toll, and their remote and rugged villages struggle to grow as rapidly as those in more temperate regions, limiting their expansion and development."/>
+  <string id="str_faction_formal_name_for_culture.ou" text="{=shokuho69b922D6}Oou"/>
+  <string id="str_culture_rich_name.ou" text="{=shokuho69b922D6}Oou"/>
   <string id="str_campaign_options_auto_save_value" text="{=irBV6UE4}{MINUTE} {?IS_PLURAL}minutes{?}minute{\?}"/>
   <string id="str_campaign_options_type.DifficultyPresets" text="{=4v3Lb6BU}Difficulty Presets"/>
   <string id="str_campaign_options_type.PlayerTroopsReceivedDamage" text="{=Oea9a5nY}Friendly Troops Received Damage"/>
@@ -244,7 +244,7 @@
   <string id="str_determine_difficulty" text="{=8eYtra7T}Determine the game difficulty"/>
   <string id="str_temple_menu_faithtext.zen" text="{=shokuho3dB46bFd}Zen school of Buddhism"/>
   <string id="str_temple_menu_faithtext.shingon" text="{=shokuho47F3E06c}Shingon school of Buddhism"/>
-  <string id="str_temple_menu_faithtext.shinto" text="{=shokuho0bCb9822}Shinto faith"/>
+  <string id="str_temple_menu_faithtext.shinto" text="{=shokuho0bCb9822}Shintou faith"/>
   <string id="str_crafting_template.SHO_Yari" text="{=shokuho7DF2Cd92}Yari"/>
   <string id="str_crafting_template.SHO_TwoHandedPolearm" text="{=shokuhoF10ea518}Naginata"/>
   <string id="str_crafting_template.SHO_Nagamaki" text="{=shokuho2744fd4b}Nagamaki"/>
@@ -253,7 +253,7 @@
   <string id="str_crafting_template.SHO_TwoHandedSword" text="{=shokuho7632Fb31}Katana"/>
   <string id="str_crafting_template.SHO_Kama" text="{=shokuhoBfBb4117}Kama"/>
   <string id="str_crafting_template.SHO_TwoHandedLargeSword" text="{=shokuho6Ca3ebbd}No-Dachi"/>
-  <string id="str_crafting_template.SHO_Kanasaibo" text="{=shokuho4A8ab2E4}Kanasaibo"/>
+  <string id="str_crafting_template.SHO_Kanasaibou" text="{=shokuho4A8ab2E4}Kanasaibou"/>
   <string id="str_crafting_template.SHO_TwoHandedAxe" text="{=shokuho3cB481D0}Axe"/>
   <string id="str_weapon_usage.SHO_Yari" text="{=t78atYqH}Two Handed"/>
   <string id="str_weapon_usage.SHO_Yari_Couch" text="{=MciIqod6}Couch Lance"/>
@@ -391,7 +391,7 @@
   <string id="str_xp_recruitment_tier7" text="{=shokuhob2D47D88}Your skill with a weapon is known throught the land, and your renown speaks for itself. You can start as our most well equipped troop."/>
   <string id="str_enlistment_high_clan_tier" text="{=shokuho8b5F8536}You want to join my army as a soldier? Are you sure? You're well known enough to join us as a vassal if you wish. That being said..."/>
   <string id="str_enlisted_upgrade_to_vassal_daimyo" text="{=shokuhoA3B906c8}Greeting {PLAYER.NAME}. You have served me well for quite some time as a loyal and skilled warrior. You have helped my clan achieve greatness, and I wish to return the favor. I am granting you the right to serve me as your own clan. You will become a vassal of the {LORD_FACTION}, with all the rights it entails, including the right to own land. What do you say?"/>
-  <string id="str_enlisted_upgrade_to_vassal_lord" text="{=shokuhoB7993230}Greeting {PLAYER.NAME}. I've just received a letter from {LORD_DAIMYO}, our Daimyo. It seems you have become well known in the {LORD_FACTION}, and our Daimyo wishes to offer you a position of vassalage. You will be able to advance your own clan from now on, and gain the right to own land. I must say I am envious. Very few people in your position ever achieve this right, but you have served the {LORD_FACTION} well. You should depart from the army and speak with {LORD_DAIMYO} immediately."/>
+  <string id="str_enlisted_upgrade_to_vassal_lord" text="{=shokuhoB7993230}Greeting {PLAYER.NAME}. I've just received a letter from {LORD_DAIMYO}, our Daimyou. It seems you have become well known in the {LORD_FACTION}, and our Daimyou wishes to offer you a position of vassalage. You will be able to advance your own clan from now on, and gain the right to own land. I must say I am envious. Very few people in your position ever achieve this right, but you have served the {LORD_FACTION} well. You should depart from the army and speak with {LORD_DAIMYO} immediately."/>
   <string id="str_enlisted_upgrade_to_vassal_agree_daimyo" text="{=shokuho5361140c}I would be honored to serve you, my lord."/>
   <string id="str_enlisted_upgrade_to_vassal_agree_lord" text="{=shokuho4877456A}I will speak with {LORD_DAIMYO} at once. Thank you."/>
   <string id="str_enlisted_lord_greeting_low" text="{=shokuhoE7651f6c}Soldier, speak and state your business"/>
@@ -435,12 +435,12 @@
   <!--new map bar button hint texts (camp and naval)-->
   <string id="str_camp" text="{=shokuho07607152}Camp"/>
   <string id="str_navy" text="{=shokuhoeaDDdEfD}Manage Navy"/>
-  <string id="str_player_father_name.saikai" text="{=shokuhoc61104ac}Sukesaburō"/>
-  <string id="str_player_father_name.nankai" text="{=shokuho1C3b2678}Tarō"/>
-  <string id="str_player_father_name.sanyo" text="{=shokuhoc0Ba6249}Ichirō"/>
-  <string id="str_player_father_name.kinai" text="{=shokuho7AEC00EF}Jirō"/>
-  <string id="str_player_father_name.hokuriku" text="{=shokuhoB3Ad0ed0}Saburō"/>
-  <string id="str_player_father_name.tosan" text="{=shokuho649d7729}Kangorō"/>
+  <string id="str_player_father_name.saikai" text="{=shokuhoc61104ac}Sukesaburou"/>
+  <string id="str_player_father_name.nankai" text="{=shokuho1C3b2678}Tarou"/>
+  <string id="str_player_father_name.sanyo" text="{=shokuhoc0Ba6249}Ichirou"/>
+  <string id="str_player_father_name.kinai" text="{=shokuho7AEC00EF}Jirou"/>
+  <string id="str_player_father_name.hokuriku" text="{=shokuhoB3Ad0ed0}Saburou"/>
+  <string id="str_player_father_name.tosan" text="{=shokuho649d7729}Kangorou"/>
   <string id="str_player_father_name.tokai" text="{=shokuhoF9307F18}Yosuke"/>
   <string id="str_player_father_name.kanto" text="{=shokuho326e9A01}Genzaemon"/>
   <string id="str_player_father_name.ou" text="{=shokuhof4F5F038}Magokichi"/>
@@ -671,7 +671,7 @@
   <string id="str_random_spectator_line.3" text="{=shokuho42aFfe28}Ouch, that much have hurt."/>
   <string id="str_random_spectator_line.4" text="{=shokuho3bA1d735}Put your legs into it!"/>
   <string id="str_kinai_vanguard_cost" text="{=shokuho33d2ac66}Kinai Ashigaru Vanguard additional cost"/>
-  <string id="str_tokai_hatamoto_cost" text="{=shokuhoB711f39e}Tokai Hatamoto additional cost"/>
+  <string id="str_tokai_hatamoto_cost" text="{=shokuhoB711f39e}Toukai Hatamoto additional cost"/>
   <string id="str_gunner_cost" text="{=shokuho0991e175}Gun troop additional cost"/>
   <!--Hideout Descriptions-->
   <string id="str_hideout_description.zoku" text="{=cu2cLT5r}You spy though the trees what seems to be a clearing in the forest with what appears to be the outlines of a camp."/>
@@ -681,7 +681,7 @@
   <string id="str_hideout_description.ochimusya" text="{=cu2cLT5r}You spy though the trees what seems to be a clearing in the forest with what appears to be the outlines of a camp."/>
   <string id="str_temple_donation_no_gold" text="{=shokuho7ED0Fa59}You do not have any money"/>
   <!--custom tips-->
-  <string id="str_game_tip.shokuho1" text="{=shokuhof27FAC88}Buddhist sects care more about their fellow temples opinion of you than Shinto shrines. "/>
+  <string id="str_game_tip.shokuho1" text="{=shokuhof27FAC88}Buddhist sects care more about their fellow temples opinion of you than Shintou shrines. "/>
   <string id="str_game_tip.shokuho2" text="{=shokuhof0B9C74F}Shokuho has its own set of options in the MCM. "/>
   <string id="str_game_tip.shokuho3" text="{=shokuho2B6ba661}Crouching while firing a gun improves your accuracy. "/>
   <string id="str_autofill" text="{=shokuhoDfCF0623}Autofill"/>

@@ -29,7 +29,7 @@
     <!--names for minor faction heroes are auto generated for some reason and overwrite any name in the npccharacter templates.-->
     <!--		initial_posX="530.0"
 		initial_posY="595.0"-->
-    <Faction id="yamakuguri_shu" banner_key="11.163.166.1528.1528.764.764.1.0.0.789.171.171.483.483.764.764.0.0.0" label_color="FF66CCFF" color="FF66CCFF" color2="FF66CCFF" alternative_color="FF66CCFF" alternative_color2="FF66CCFF" culture="Culture.saikai" default_party_template="PartyTemplate.kingdom_hero_party_saikai_template" settlement_banner_mesh="encounter_flag_f" is_minor_faction="true" is_clan_type_mercenary="true" name="{=6HH6w5ZG}Yamakuguri-shu" tier="4" text="{=PLkAXWwi}The Yamakuguri-shu are a mercenary company of mountain priests originating from Mount Kinpo. They act as shinobi to investigate and spy on enemies, and are a competent fighting force.">
+    <Faction id="yamakuguri_shu" banner_key="11.163.166.1528.1528.764.764.1.0.0.789.171.171.483.483.764.764.0.0.0" label_color="FF66CCFF" color="FF66CCFF" color2="FF66CCFF" alternative_color="FF66CCFF" alternative_color2="FF66CCFF" culture="Culture.saikai" default_party_template="PartyTemplate.kingdom_hero_party_saikai_template" settlement_banner_mesh="encounter_flag_f" is_minor_faction="true" is_clan_type_mercenary="true" name="{=6HH6w5ZG}Yamakuguri-shū" tier="4" text="{=PLkAXWwi}The Yamakuguri-shū are a mercenary company of mountain priests originating from Mount Kinpo. They act as shinobi to investigate and spy on enemies, and are a competent fighting force.">
         <minor_faction_character_templates>
             <template id="NPCCharacter.spc_yamakuguri_shu_leader_0"/>
             <template id="NPCCharacter.spc_yamakuguri_shu_leader_1"/>
@@ -37,7 +37,7 @@
             <template id="NPCCharacter.spc_yamakuguri_shu_leader_3"/>
         </minor_faction_character_templates>
     </Faction>
-    <Faction id="Shiwaku_shu" banner_key="11.163.166.1528.1528.764.764.1.0.0.792.171.171.483.483.764.764.0.0.0" label_color="FF66CCFF" color="FF66CCFF" color2="FF66CCFF" alternative_color="FF66CCFF" alternative_color2="FF66CCFF" culture="Culture.nankai" default_party_template="PartyTemplate.kingdom_hero_party_saikai_template" settlement_banner_mesh="encounter_flag_f" is_minor_faction="true" is_clan_type_mercenary="true" name="{=ejUONAWz}Shiwaku-shu" tier="4" text="{=jnVmfhDo}The Shiwaku-shu are a mercenary company consisting of mainly transport vessels. They have served many clans in their logistical efforts, but are not known for their military prowess.">
+    <Faction id="Shiwaku_shu" banner_key="11.163.166.1528.1528.764.764.1.0.0.792.171.171.483.483.764.764.0.0.0" label_color="FF66CCFF" color="FF66CCFF" color2="FF66CCFF" alternative_color="FF66CCFF" alternative_color2="FF66CCFF" culture="Culture.nankai" default_party_template="PartyTemplate.kingdom_hero_party_saikai_template" settlement_banner_mesh="encounter_flag_f" is_minor_faction="true" is_clan_type_mercenary="true" name="{=ejUONAWz}Shiwaku-shū" tier="4" text="{=jnVmfhDo}The Shiwaku-shū are a mercenary company consisting of mainly transport vessels. They have served many clans in their logistical efforts, but are not known for their military prowess.">
         <minor_faction_character_templates>
             <template id="NPCCharacter.spc_shiwaku_shu_leader_0"/>
             <template id="NPCCharacter.spc_shiwaku_shu_leader_1"/>
@@ -53,7 +53,7 @@
             <template id="NPCCharacter.spc_tango_kaizoku_leader_3"/>
         </minor_faction_character_templates>
     </Faction>
-    <Faction id="saika_shu" banner_key="11.163.166.1528.1528.764.764.1.0.0.796.171.171.483.483.764.764.0.0.0" label_color="FF66CCFF" color="FF66CCFF" color2="FF66CCFF" alternative_color="FF66CCFF" alternative_color2="FF66CCFF" culture="Culture.kinai" default_party_template="PartyTemplate.kingdom_hero_party_saikai_template" settlement_banner_mesh="encounter_flag_f" is_minor_faction="true" is_clan_type_mercenary="true" name="{=alnKa3Bg}Saika-shu" tier="4" text="{=zZCKPklj}The Saika-shu are a mercenary company consisting of teppo troops and jizamurai. They were quick to adopt the use of matchlocks and prove their effectiveness. Now they are known for their accurate and deadly use of guns.">
+    <Faction id="saika_shu" banner_key="11.163.166.1528.1528.764.764.1.0.0.796.171.171.483.483.764.764.0.0.0" label_color="FF66CCFF" color="FF66CCFF" color2="FF66CCFF" alternative_color="FF66CCFF" alternative_color2="FF66CCFF" culture="Culture.kinai" default_party_template="PartyTemplate.kingdom_hero_party_saikai_template" settlement_banner_mesh="encounter_flag_f" is_minor_faction="true" is_clan_type_mercenary="true" name="{=alnKa3Bg}Saika-shū" tier="4" text="{=zZCKPklj}The Saika-shū are a mercenary company consisting of teppo troops and jizamurai. They were quick to adopt the use of matchlocks and prove their effectiveness. Now they are known for their accurate and deadly use of guns.">
         <minor_faction_character_templates>
             <template id="NPCCharacter.spc_saika_shu_leader_0"/>
             <template id="NPCCharacter.spc_saika_shu_leader_1"/>
@@ -61,7 +61,7 @@
             <template id="NPCCharacter.spc_saika_shu_leader_3"/>
         </minor_faction_character_templates>
     </Faction>
-    <Faction id="hakusan_shuto" banner_key="11.163.166.1528.1528.764.764.1.0.0.800.171.171.483.483.764.764.0.0.0" label_color="FF66CCFF" color="FF66CCFF" color2="FF66CCFF" alternative_color="FF66CCFF" alternative_color2="FF66CCFF" culture="Culture.hokuriku" default_party_template="PartyTemplate.kingdom_hero_party_saikai_template" settlement_banner_mesh="encounter_flag_f" is_minor_faction="true" is_clan_type_mercenary="true" name="{=GPVvKObz}Hakusan-shuto" tier="4" text="{=XrdlGOOd}The Hakusan-shuto are a mercenary company of warrior monks. They worked closely with the Asakura clan and much of their strength is thanks to them. They come from the Hakusan Heisenji temple, and are a formidable group of warriors.">
+    <Faction id="hakusan_shuto" banner_key="11.163.166.1528.1528.764.764.1.0.0.800.171.171.483.483.764.764.0.0.0" label_color="FF66CCFF" color="FF66CCFF" color2="FF66CCFF" alternative_color="FF66CCFF" alternative_color2="FF66CCFF" culture="Culture.hokuriku" default_party_template="PartyTemplate.kingdom_hero_party_saikai_template" settlement_banner_mesh="encounter_flag_f" is_minor_faction="true" is_clan_type_mercenary="true" name="{=GPVvKObz}Hakusan-shūto" tier="4" text="{=XrdlGOOd}The Hakusan-shūto are a mercenary company of warrior monks. They worked closely with the Asakura clan and much of their strength is thanks to them. They come from the Hakusan Heisenji temple, and are a formidable group of warriors.">
         <minor_faction_character_templates>
             <template id="NPCCharacter.spc_hakusan_shuto_leader_0"/>
             <template id="NPCCharacter.spc_hakusan_shuto_leader_1"/>
@@ -69,7 +69,7 @@
             <template id="NPCCharacter.spc_hakusan_shuto_leader_3"/>
         </minor_faction_character_templates>
     </Faction>
-    <Faction id="katsurayama_shu" banner_key="11.163.166.1528.1528.764.764.1.0.0.802.171.171.483.483.764.764.0.0.0" label_color="FF66CCFF" color="FF66CCFF" color2="FF66CCFF" alternative_color="FF66CCFF" alternative_color2="FF66CCFF" culture="Culture.tosan" default_party_template="PartyTemplate.kingdom_hero_party_saikai_template" settlement_banner_mesh="encounter_flag_f" is_minor_faction="true" is_clan_type_mercenary="true" name="{=7RJeJS64}Katsurayama-shu" tier="4" text="{=JRiczAx9}The Katsurayama-shu are a mercenary company of former samurai turned monk. They are based on the mountains of Togakushi and Iizuna. They are known for their knowledge of mountain terrain and gun usage.">
+    <Faction id="katsurayama_shu" banner_key="11.163.166.1528.1528.764.764.1.0.0.802.171.171.483.483.764.764.0.0.0" label_color="FF66CCFF" color="FF66CCFF" color2="FF66CCFF" alternative_color="FF66CCFF" alternative_color2="FF66CCFF" culture="Culture.tosan" default_party_template="PartyTemplate.kingdom_hero_party_saikai_template" settlement_banner_mesh="encounter_flag_f" is_minor_faction="true" is_clan_type_mercenary="true" name="{=7RJeJS64}Katsurayama-shū" tier="4" text="{=JRiczAx9}The Katsurayama-shū are a mercenary company of former samurai turned monk. They are based on the mountains of Togakushi and Iizuna. They are known for their knowledge of mountain terrain and gun usage.">
         <minor_faction_character_templates>
             <template id="NPCCharacter.spc_katsurayama_shu_leader_0"/>
             <template id="NPCCharacter.spc_katsurayama_shu_leader_1"/>
@@ -77,7 +77,7 @@
             <template id="NPCCharacter.spc_katsurayama_shu_leader_3"/>
         </minor_faction_character_templates>
     </Faction>
-    <Faction id="suruga_shu" banner_key="11.163.166.1528.1528.764.764.1.0.0.803.171.171.483.483.764.764.0.0.0" label_color="FF66CCFF" color="FF66CCFF" color2="FF66CCFF" alternative_color="FF66CCFF" alternative_color2="FF66CCFF" culture="Culture.tokai" default_party_template="PartyTemplate.kingdom_hero_party_saikai_template" settlement_banner_mesh="encounter_flag_f" is_minor_faction="true" is_clan_type_mercenary="true" name="{=TjluN6ig}Suruga-shu" tier="4" text="{=U71vvdhm}The Suruga-shu are a mercenary company focused on naval warfare. They are known for logisitcal support in the southern Chubu region.">
+    <Faction id="suruga_shu" banner_key="11.163.166.1528.1528.764.764.1.0.0.803.171.171.483.483.764.764.0.0.0" label_color="FF66CCFF" color="FF66CCFF" color2="FF66CCFF" alternative_color="FF66CCFF" alternative_color2="FF66CCFF" culture="Culture.tokai" default_party_template="PartyTemplate.kingdom_hero_party_saikai_template" settlement_banner_mesh="encounter_flag_f" is_minor_faction="true" is_clan_type_mercenary="true" name="{=TjluN6ig}Suruga-shū" tier="4" text="{=U71vvdhm}The Suruga-shū are a mercenary company focused on naval warfare. They are known for logisitcal support in the southern Chubu region.">
         <minor_faction_character_templates>
             <template id="NPCCharacter.spc_suruga_shu_leader_0"/>
             <template id="NPCCharacter.spc_suruga_shu_leader_1"/>
@@ -85,7 +85,7 @@
             <template id="NPCCharacter.spc_suruga_shu_leader_3"/>
         </minor_faction_character_templates>
     </Faction>
-    <Faction id="kazama_shu" banner_key="11.163.166.1528.1528.764.764.1.0.0.805.171.171.483.483.764.764.0.0.0" label_color="FF66CCFF" color="FF66CCFF" color2="FF66CCFF" alternative_color="FF66CCFF" alternative_color2="FF66CCFF" culture="Culture.kanto" default_party_template="PartyTemplate.kingdom_hero_party_saikai_template" settlement_banner_mesh="encounter_flag_f" is_minor_faction="true" is_clan_type_mercenary="true" name="{=qX0hsHoS}Kazama-shu" tier="4" text="{=jycPZTp7}The Kazama-shu are a mercenary company focused on espionage and reconnaissance. They have a bad reputation due to their looting and theft, but are effective in combat.">
+    <Faction id="kazama_shu" banner_key="11.163.166.1528.1528.764.764.1.0.0.805.171.171.483.483.764.764.0.0.0" label_color="FF66CCFF" color="FF66CCFF" color2="FF66CCFF" alternative_color="FF66CCFF" alternative_color2="FF66CCFF" culture="Culture.kanto" default_party_template="PartyTemplate.kingdom_hero_party_saikai_template" settlement_banner_mesh="encounter_flag_f" is_minor_faction="true" is_clan_type_mercenary="true" name="{=qX0hsHoS}Kazama-shū" tier="4" text="{=jycPZTp7}The Kazama-shū are a mercenary company focused on espionage and reconnaissance. They have a bad reputation due to their looting and theft, but are effective in combat.">
         <minor_faction_character_templates>
             <template id="NPCCharacter.spc_kazama_shu_leader_0"/>
             <template id="NPCCharacter.spc_kazama_shu_leader_1"/>
@@ -93,7 +93,7 @@
             <template id="NPCCharacter.spc_kazama_shu_leader_3"/>
         </minor_faction_character_templates>
     </Faction>
-    <Faction id="kurohabaki_shu" banner_key="11.163.166.1528.1528.764.764.1.0.0.807.171.171.483.483.764.764.0.0.0" label_color="FF66CCFF" color="FF66CCFF" color2="FF66CCFF" alternative_color="FF66CCFF" alternative_color2="FF66CCFF" culture="Culture.ou" default_party_template="PartyTemplate.kingdom_hero_party_saikai_template" settlement_banner_mesh="encounter_flag_f" is_minor_faction="true" is_clan_type_mercenary="true" name="{=kEoddDyL}Kurohabaki-shu" tier="4" text="{=bgA6na9m}The Kurohabaki-shu are a mercenary company focused on espionage and sabotage. They are known for their unconvential and disruptive tactics.">
+    <Faction id="kurohabaki_shu" banner_key="11.163.166.1528.1528.764.764.1.0.0.807.171.171.483.483.764.764.0.0.0" label_color="FF66CCFF" color="FF66CCFF" color2="FF66CCFF" alternative_color="FF66CCFF" alternative_color2="FF66CCFF" culture="Culture.ou" default_party_template="PartyTemplate.kingdom_hero_party_saikai_template" settlement_banner_mesh="encounter_flag_f" is_minor_faction="true" is_clan_type_mercenary="true" name="{=kEoddDyL}Kurohabaki-shū" tier="4" text="{=bgA6na9m}The Kurohabaki-shū are a mercenary company focused on espionage and sabotage. They are known for their unconvential and disruptive tactics.">
         <minor_faction_character_templates>
             <template id="NPCCharacter.spc_kurohabaki_shu_leader_0"/>
             <template id="NPCCharacter.spc_kurohabaki_shu_leader_1"/>

@@ -336,19 +336,19 @@
     </ItemComponent>
     <Flags UseTeamColor="true"/>
   </Item>
-  <Item id="sho_samurai_gear_a" name="{=vDXmF9nx}Ronin Robes" subtype="body_armor" mesh="sho_samurai_gear_a" weight="0.9" difficulty="0" appearance="1.6" Type="BodyArmor">
+  <Item id="sho_samurai_gear_a" name="{=vDXmF9nx}Rounin Robes" subtype="body_armor" mesh="sho_samurai_gear_a" weight="0.9" difficulty="0" appearance="1.6" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="6" leg_armor="2" arm_armor="2" has_gender_variations="false" covers_body="true" modifier_group="cloth_unarmored" material_type="Cloth"/>
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
-  <Item id="sho_samurai_gear_b" name="{=vDXmF9nx}Ronin Robes" subtype="body_armor" mesh="sho_samurai_gear_b" weight="0.9" difficulty="0" appearance="1.6" Type="BodyArmor">
+  <Item id="sho_samurai_gear_b" name="{=vDXmF9nx}Rounin Robes" subtype="body_armor" mesh="sho_samurai_gear_b" weight="0.9" difficulty="0" appearance="1.6" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="6" leg_armor="2" arm_armor="2" has_gender_variations="false" covers_body="true" modifier_group="cloth_unarmored" material_type="Cloth"/>
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
-  <Item id="sho_samurai_gear_c" name="{=vDXmF9nx}Ronin Robes" subtype="body_armor" mesh="sho_samurai_gear_c" weight="0.9" difficulty="0" appearance="1.6" Type="BodyArmor">
+  <Item id="sho_samurai_gear_c" name="{=vDXmF9nx}Rounin Robes" subtype="body_armor" mesh="sho_samurai_gear_c" weight="0.9" difficulty="0" appearance="1.6" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="6" leg_armor="2" arm_armor="2" has_gender_variations="false" covers_body="false" modifier_group="cloth_unarmored" material_type="Cloth"/>
     </ItemComponent>

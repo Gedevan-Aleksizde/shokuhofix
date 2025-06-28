@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Heroes>
 	<!--mori kingdom-->
-	<!--Mori clan-->
+	<!--Mouri clan-->
 	<Hero id="lord_1_mori"
 		  faction="Faction.clan_mori_1"
 		  father="Hero.lord_1_mori_3"
 		  mother="Hero.lord_1_mori_4"
-		  text="{=niI9dpuu}Mori Terumoto." />
+		  text="{=niI9dpuu}Mouri Terumoto." />
 	<Hero id="lord_1_mori_1"
 		  faction="Faction.clan_mori_1"
 		  spouse="Hero.lord_1_mori_2"
-		  text="{=niI9dpuu}Mori Motonari." />
+		  text="{=niI9dpuu}Mouri Motonari." />
 	<Hero id="lord_1_mori_2"
 		  alive="false"
 		  faction="Faction.clan_mori_1"
 		  spouse="Hero.lord_1_mori_1"
-		  text="{=niI9dpuu}Mori Myokyu." />
+		  text="{=niI9dpuu}Mouri Myokyu." />
 	<Hero id="lord_1_mori_3"
 		  alive="false"
 		  faction="Faction.clan_mori_1"
 		  spouse="Hero.lord_1_mori_4"
 		  father="Hero.lord_1_mori_1"
 		  mother="Hero.lord_1_mori_2"
-		  text="{=niI9dpuu}Mori Takamoto." />
+		  text="{=niI9dpuu}Mouri Takamoto." />
 	<Hero id="lord_1_mori_4"
 		  faction="Faction.clan_mori_1"
 		  spouse="Hero.lord_1_mori_3"
-		  text="{=niI9dpuu}Mori Ayaya." />
+		  text="{=niI9dpuu}Mouri Ayaya." />
 	<Hero id="lord_1_mori_5"
 		  faction="Faction.clan_mori_1"
 		  father="Hero.lord_1_mori_1"
 		  mother="Hero.lord_1_mori_2"
-		  text="{=niI9dpuu}Mori Motoaki." />
+		  text="{=niI9dpuu}Mouri Motoaki." />
 	<Hero id="lord_1_mori_6"
 		  faction="Faction.clan_mori_1"
 		  father="Hero.lord_1_mori_1"
 		  mother="Hero.lord_1_mori_2"
-		  text="{=niI9dpuu}Mori Hidekane." />
+		  text="{=niI9dpuu}Mouri Hidekane." />
 	<!--kobayakawa clan-->
 	<Hero id="lord_1_kobayakawa"
 		  faction="Faction.clan_kobayakawa_1"
@@ -45,7 +45,7 @@
 	<Hero id="lord_1_kobayakawa_1"
 		  faction="Faction.clan_kobayakawa_1"
 		  spouse="Hero.lord_1_kobayakawa"
-		  text="{=niI9dpuu}Kobayakawa Toida no ookata ." />
+		  text="{=niI9dpuu}Kobayakawa Toida No Ōkata ." />
 	<!--kikkawa clan-->
 	<Hero id="lord_1_kikkawa"
 		  faction="Faction.clan_kikkawa_1"

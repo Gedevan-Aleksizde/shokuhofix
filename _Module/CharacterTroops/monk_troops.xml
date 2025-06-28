@@ -638,7 +638,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="monk_teppo" default_group="Ranged" level="21" occupation="Soldier" culture="Culture.buddhists" name="{=YwKqWFL9}Teppo Monk">
+  <NPCCharacter id="monk_teppo" default_group="Ranged" level="21" occupation="Soldier" culture="Culture.buddhists" name="{=YwKqWFL9}Teppou Monk">
     <face>
       <face_key_template value="BodyProperty.fighter_m_monk"/>
     </face>
@@ -712,7 +712,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="monk_teppo_marksman" default_group="Ranged" level="26" occupation="Soldier" culture="Culture.buddhists" name="{=ebETdZyJ}Teppo Monk Marksman">
+  <NPCCharacter id="monk_teppo_marksman" default_group="Ranged" level="26" occupation="Soldier" culture="Culture.buddhists" name="{=ebETdZyJ}Teppou Monk Marksman">
     <face>
       <face_key_template value="BodyProperty.fighter_m_monk"/>
     </face>

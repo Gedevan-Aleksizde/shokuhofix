@@ -834,7 +834,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="saikai_teppo_samurai" default_group="Ranged" level="21" occupation="Soldier" culture="Culture.saikai" name="{=xygN2d0a}Saikai Teppo Samurai">
+  <NPCCharacter id="saikai_teppo_samurai" default_group="Ranged" level="21" occupation="Soldier" culture="Culture.saikai" name="{=xygN2d0a}Saikai Teppou Samurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -955,7 +955,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="skilled_saikai_teppo_samurai" default_group="Ranged" level="26" occupation="Soldier" culture="Culture.saikai" name="{=jOPEyttO}Skilled Saikai Teppo Samurai">
+  <NPCCharacter id="skilled_saikai_teppo_samurai" default_group="Ranged" level="26" occupation="Soldier" culture="Culture.saikai" name="{=jOPEyttO}Skilled Saikai Teppou Samurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>

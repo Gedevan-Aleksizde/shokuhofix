@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <NPCCharacters>
-  <NPCCharacter id="tosan_militia_peasant" default_group="Infantry" level="1" occupation="Soldier" is_basic_troop="true" culture="Culture.tosan" name="{=fjAyuw5W}Tosan Militia Peasant">
+  <NPCCharacter id="tosan_militia_peasant" default_group="Infantry" level="1" occupation="Soldier" is_basic_troop="true" culture="Culture.tosan" name="{=fjAyuw5W}Tousan Militia Peasant">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -102,7 +102,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="tosan_hunter" default_group="Ranged" level="6" occupation="Soldier" culture="Culture.tosan" name="{=CIunBP5V}Tosan Hunter">
+  <NPCCharacter id="tosan_hunter" default_group="Ranged" level="6" occupation="Soldier" culture="Culture.tosan" name="{=CIunBP5V}Tousan Hunter">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -171,7 +171,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="tosan_tracker" default_group="Ranged" level="11" occupation="Soldier" culture="Culture.tosan" name="{=E3Kn41Ev}Tosan Tracker">
+  <NPCCharacter id="tosan_tracker" default_group="Ranged" level="11" occupation="Soldier" culture="Culture.tosan" name="{=E3Kn41Ev}Tousan Tracker">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -263,7 +263,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="seasoned_tosan_tracker" default_group="Ranged" level="16" occupation="Soldier" culture="Culture.tosan" name="{=T4m1UWNv}Seasoned Tosan Tracker">
+  <NPCCharacter id="seasoned_tosan_tracker" default_group="Ranged" level="16" occupation="Soldier" culture="Culture.tosan" name="{=T4m1UWNv}Seasoned Tousan Tracker">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -371,7 +371,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="tosan_jizamurai" default_group="Infantry" level="11" occupation="Soldier" is_basic_troop="true" culture="Culture.tosan" name="{=i2EJ4DOA}Tosan Jizamurai">
+  <NPCCharacter id="tosan_jizamurai" default_group="Infantry" level="11" occupation="Soldier" is_basic_troop="true" culture="Culture.tosan" name="{=i2EJ4DOA}Tousan Jizamurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -492,7 +492,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="tosan_mounted_samurai" default_group="Cavalry" level="16" occupation="Soldier" culture="Culture.tosan" name="{=fmEcCNcn}Tosan Mounted Samurai">
+  <NPCCharacter id="tosan_mounted_samurai" default_group="Cavalry" level="16" occupation="Soldier" culture="Culture.tosan" name="{=fmEcCNcn}Tousan Mounted Samurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -612,7 +612,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="tosan_heavy_cavalry" default_group="Cavalry" level="21" occupation="Soldier" culture="Culture.tosan" name="{=LUaZPhju}Tosan Heavy Cavalry">
+  <NPCCharacter id="tosan_heavy_cavalry" default_group="Cavalry" level="21" occupation="Soldier" culture="Culture.tosan" name="{=LUaZPhju}Tousan Heavy Cavalry">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -729,7 +729,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="tosan_yumi_samurai" default_group="Ranged" level="16" occupation="Soldier" is_basic_troop="false" culture="Culture.tosan" name="{=gukow8sw}Tosan Yumi Samurai">
+  <NPCCharacter id="tosan_yumi_samurai" default_group="Ranged" level="16" occupation="Soldier" is_basic_troop="false" culture="Culture.tosan" name="{=gukow8sw}Tousan Yumi Samurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -850,7 +850,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="skilled_tosan_yumi_samurai" default_group="Ranged" level="21" occupation="Soldier" is_basic_troop="false" culture="Culture.tosan" name="{=q2d4SJ8F}Skilled Tosan Yumi Samurai">
+  <NPCCharacter id="skilled_tosan_yumi_samurai" default_group="Ranged" level="21" occupation="Soldier" is_basic_troop="false" culture="Culture.tosan" name="{=q2d4SJ8F}Skilled Tousan Yumi Samurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -967,7 +967,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="tosan_teppo_samurai" default_group="Ranged" level="21" occupation="Soldier" culture="Culture.tosan" name="{=f2Qvr2Zq}Tosan Teppo Samurai">
+  <NPCCharacter id="tosan_teppo_samurai" default_group="Ranged" level="21" occupation="Soldier" culture="Culture.tosan" name="{=f2Qvr2Zq}Tousan Teppou Samurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -1084,7 +1084,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="tosan_yari_samurai" default_group="Infantry" level="16" occupation="Soldier" culture="Culture.tosan" name="{=L3Ob42St}Tosan Yari Samurai">
+  <NPCCharacter id="tosan_yari_samurai" default_group="Infantry" level="16" occupation="Soldier" culture="Culture.tosan" name="{=L3Ob42St}Tousan Yari Samurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -1184,7 +1184,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="skilled_tosan_yari" default_group="Infantry" level="21" occupation="Soldier" culture="Culture.tosan" name="{=pupkjMFv}Skilled Tosan Yari Samurai">
+  <NPCCharacter id="skilled_tosan_yari" default_group="Infantry" level="21" occupation="Soldier" culture="Culture.tosan" name="{=pupkjMFv}Skilled Tousan Yari Samurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -1281,7 +1281,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="tosan_axe_samurai" default_group="Infantry" level="21" occupation="Soldier" culture="Culture.tosan" name="{=fvsCjYvj}Tosan Axe Samurai">
+  <NPCCharacter id="tosan_axe_samurai" default_group="Infantry" level="21" occupation="Soldier" culture="Culture.tosan" name="{=fvsCjYvj}Tousan Axe Samurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -1381,7 +1381,7 @@
     </Equipments>
   </NPCCharacter>
   <!--TODO: give them kanasaibo -->
-  <NPCCharacter id="tosan_kanasaibo_samurai" default_group="Infantry" level="16" occupation="Soldier" culture="Culture.tosan" name="{=rs3Rowmx}Tosan Kanasaibo Samurai">
+  <NPCCharacter id="tosan_kanasaibo_samurai" default_group="Infantry" level="16" occupation="Soldier" culture="Culture.tosan" name="{=rs3Rowmx}Tousan Kanasaibou Samurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -1482,7 +1482,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="skilled_tosan_kanasaibo_samurai" default_group="Infantry" level="21" occupation="Soldier" culture="Culture.tosan" name="{=GOnu4MZv}Skilled Tosan Kanasaibo Samurai">
+  <NPCCharacter id="skilled_tosan_kanasaibo_samurai" default_group="Infantry" level="21" occupation="Soldier" culture="Culture.tosan" name="{=GOnu4MZv}Skilled Tousan Kanasaibou Samurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>

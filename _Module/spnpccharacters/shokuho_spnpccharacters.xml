@@ -190,7 +190,7 @@
         </Equipments>
     </NPCCharacter>
     <!--Sanyo-->
-    <NPCCharacter id="caravan_master_sanyo" default_group="Infantry" level="26" name="{=nDoENDqD}Sanyo Caravan Master" occupation="CaravanGuard" culture="Culture.sanyo" skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
+    <NPCCharacter id="caravan_master_sanyo" default_group="Infantry" level="26" name="{=nDoENDqD}San'you Caravan Master" occupation="CaravanGuard" culture="Culture.sanyo" skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>
@@ -277,7 +277,7 @@
         </Equipments>
     </NPCCharacter>
     <!--Tosan-->
-    <NPCCharacter id="caravan_master_tosan" default_group="Infantry" level="26" name="{=SAZxQxZ3}Tosan Caravan Master" occupation="CaravanGuard" culture="Culture.tosan" skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
+    <NPCCharacter id="caravan_master_tosan" default_group="Infantry" level="26" name="{=SAZxQxZ3}Tousan Caravan Master" occupation="CaravanGuard" culture="Culture.tosan" skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>
@@ -306,7 +306,7 @@
         </Equipments>
     </NPCCharacter>
     <!--tokai-->
-    <NPCCharacter id="caravan_master_tokai" default_group="Infantry" level="26" name="{=f0dGru9x}Tokai Caravan Master" occupation="CaravanGuard" culture="Culture.tokai" skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
+    <NPCCharacter id="caravan_master_tokai" default_group="Infantry" level="26" name="{=f0dGru9x}Toukai Caravan Master" occupation="CaravanGuard" culture="Culture.tokai" skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>
@@ -335,7 +335,7 @@
         </Equipments>
     </NPCCharacter>
     <!--kanto-->
-    <NPCCharacter id="caravan_master_kanto" default_group="Infantry" level="26" name="{=PHy6bqmI}Kanto Caravan Master" occupation="CaravanGuard" culture="Culture.kanto" skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
+    <NPCCharacter id="caravan_master_kanto" default_group="Infantry" level="26" name="{=PHy6bqmI}Kantou Caravan Master" occupation="CaravanGuard" culture="Culture.kanto" skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>
@@ -364,7 +364,7 @@
         </Equipments>
     </NPCCharacter>
     <!--ou-->
-    <NPCCharacter id="caravan_master_ou" default_group="Infantry" level="26" name="{=SRtabgmr}Ou Caravan Master" occupation="CaravanGuard" culture="Culture.ou" skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
+    <NPCCharacter id="caravan_master_ou" default_group="Infantry" level="26" name="{=SRtabgmr}Ouu Caravan Master" occupation="CaravanGuard" culture="Culture.ou" skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>

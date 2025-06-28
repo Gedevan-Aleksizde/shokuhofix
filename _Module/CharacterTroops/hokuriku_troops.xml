@@ -651,7 +651,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="hokuriku_teppo_samurai" default_group="Ranged" level="21" occupation="Soldier" culture="Culture.hokuriku" name="{=uxCW6mzI}Hokuriku Teppo Samurai">
+  <NPCCharacter id="hokuriku_teppo_samurai" default_group="Ranged" level="21" occupation="Soldier" culture="Culture.hokuriku" name="{=uxCW6mzI}Hokuriku Teppou Samurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>

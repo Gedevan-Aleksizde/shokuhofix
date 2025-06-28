@@ -965,7 +965,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!--kanto-->
-	<NPCCharacter id="lord_template_kanto_male" name="{=azCSz9QH}Kanto Lord Male" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kanto" occupation="Lord">
+	<NPCCharacter id="lord_template_kanto_male" name="{=azCSz9QH}Kantou Lord Male" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kanto" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -985,7 +985,7 @@
 			<EquipmentSet id="kanto_civ_template_default_male" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="lord_template_kanto_female" name="{=azCSz9QH}Kanto Lord Female" voice="softspoken" is_female="true" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kanto" occupation="Lord">
+	<NPCCharacter id="lord_template_kanto_female" name="{=azCSz9QH}Kantou Lord Female" voice="softspoken" is_female="true" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kanto" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townswoman_saikai"/>
 		</face>

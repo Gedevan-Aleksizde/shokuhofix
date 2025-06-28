@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Items>
     <CraftedItem id="kanasaibo_a"
-                 name="Kanasaibo"
+                 name="Kanasaibou"
                  crafting_template="SHO_Kanasaibo"
                  modifier_group="polearm">
         <Pieces>
@@ -15,7 +15,7 @@
     </CraftedItem>
 
     <!--<Item id="kanasaibo"
-          name="{=yy7RvQKN}Kanasaibo"
+          name="{=yy7RvQKN}Kanasaibou"
           is_merchandise="false"
           body_name="bo_sho_bokken_staff"
           recalculate_body="true"

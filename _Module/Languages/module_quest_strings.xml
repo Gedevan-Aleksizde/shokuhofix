@@ -173,11 +173,11 @@
 		<string id="K5OZ8bNc" text="I will follow them right away"/>
 		<string id="WwzSY2T7" text="Can I help you?"/>
 		<string id="JKRwgBV1" text="No, sorry. Goodbye."/>
-		<string id="dy8yTB9S" text="Who let the wannabe ronin in here?[ib:closed2][if:convo_predatory]"/>
+		<string id="dy8yTB9S" text="Who let the wannabe rounin in here?[ib:closed2][if:convo_predatory]"/>
 		<string id="dMjOvZSc" text="Can I help you?[ib:nervous][if:convo_nervous]"/>
 		<string id="BMdt4vXL" text="My name is {PLAYER.NAME}, I was sent by {QUEST_GIVER.LINK} to follow you, and to make sure you weren't pocketing any of the money made from selling your father's swords. From the looks of this, it appears you're doing much worse than that."/>
 		<string id="wuzYXZpK" text="What? My father sent you? No...This is all just a big misunderstanding. These are just my business associates. This is a simple business transaction. Just ordinary business here, nothing suspicious at all.[ib:normal2][if:convo_shocked]"/>
-		<string id="jUFAoFsl" text="You insult the wannabe ronin. They clearly don’t believe you. How about you confess your dishonor like a man?[ib:closed2][if:convo_predatory]"/>
+		<string id="jUFAoFsl" text="You insult the wannabe rounin. They clearly don’t believe you. How about you confess your dishonor like a man?[ib:closed2][if:convo_predatory]"/>
 		<string id="WFzSDQlu" text="It was not supposed to go like this. Alright fine. What if I offer you a handcrafted sword from my father, a renowned swordsmith? It’s worth more than whatever reward you’re expecting to get from bringing me back.[ib:normal2][if:convo_calm_friendly]"/>
 		<string id="03QWXapc" text="Hmm, alright, I’ll take your sword, and I'll tell your father there's nothing going on."/>
 		<string id="aQ79mJ3i" text="Thank you stranger. I'll never do this again I swear. I owe you a great deal.[ib:closed2][if:convo_focused_happy]"/>
@@ -187,7 +187,7 @@
 		<string id="rgkY2ONa" text="Thank you stranger. I'll never do this again I swear. I owe you a great deal.[ib:closed2][if:convo_focused_happy]"/>
 		<string id="uqE6185I" text="Your offer isn’t good enough. I’m taking this shipment for myself."/>
 		<string id="PZVuyq6n" text="Help me and you can have half the swords![ib:normal][if:terrified]"/>
-		<string id="m6hKrxzX" text="Hmm, not a bad trade. Alright ronin, let’s dance.[ib:warrior][if:convo_evil_smile]"/>
+		<string id="m6hKrxzX" text="Hmm, not a bad trade. Alright rounin, let’s dance.[ib:warrior][if:convo_evil_smile]"/>
 		<string id="BeCaKuHe" text="Let's go (starts combat)"/>
 		<string id="p5XDtNUT" text="Wait, I don’t want to fight, I’m leaving."/>
 		<string id="yaN5XZg3" text="The whole shipment? Ah, fine, I guess I don’t have a choice. Take it and get out of my sight.[ib:normal2][if:convo_dismayed]"/>
@@ -200,7 +200,7 @@
 		<string id="YRbnlLvr" text="I’d like to see you try. (starts combat)"/>
 		<string id="qHklHJpQ" text="No. I will not accept your pitiful bribe. You're coming with me."/>
 		<string id="SrdUhhC0" text="Help me and you can have the swords![ib:normal][if:terrified]"/>
-		<string id="yGJf5A2s" text="Hmm, not a bad trade. Alright ronin, let’s dance.[ib:warrior][if:convo_evil_smile]"/>
+		<string id="yGJf5A2s" text="Hmm, not a bad trade. Alright rounin, let’s dance.[ib:warrior][if:convo_evil_smile]"/>
 		<string id="Dr2oViaJ" text="You will regret this. (starts combat)"/>
 		<string id="M0NcJRId" text="Have you followed my son and uncovered if he's pocketing extra money? [ib:closed][if:convo_innocent_smile]"/>
 		<string id="iJ3EniNf" text="I have. Your son is not stealing from you. I found no evidence of theft."/>
@@ -341,7 +341,7 @@
 		<string id="ctB8EbvQ" text="Thanks to your actions, the security of all towns under your liege has slightly increased."/>
 		<string id="WXMAztHl" text="Thanks to your actions, your army is a more cohesive."/>
 		<string id="P144idVc" text="Samurai"/>
-		<string id="tRwThwR8" text="Daimyo"/>
+		<string id="tRwThwR8" text="Daimyou"/>
 		<string id="UdiPb3xt" text="Lord"/>
 	</strings>
 </base>

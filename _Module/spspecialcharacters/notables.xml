@@ -3533,7 +3533,7 @@
 			<EquipmentSet id="spc_notable_kanto_1"/>
 		</Equipments>
 	</NPCCharacter>
-	<!--Ou-->
+	<!--Ouu-->
 	<NPCCharacter id="spc_notable_ou_0" name="{=Mc4JptO8}Cautious imperial merchant" is_template="true" voice="ironic" default_group="Infantry" is_hero="false" culture="Culture.ou" occupation="Merchant">
 		<face>
 			<face_key_template value="BodyProperty.villager_ou"/>

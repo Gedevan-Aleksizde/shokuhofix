@@ -36,7 +36,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_CHU1" name="{=UvTpCUpH}Kushizaki" owner="Faction.clan_naito_1" posX="368.326" posY="494.754" culture="Culture.sanyo" gate_posX="365.8205" gate_posY="497.0557" text="{=BDnW3J67}Strategically located in the westernmost part of the San'yō region, near the Kanmon Straits that separate Honshu from Kyushu, Kushizaki is a port castle town originally by the Naitō clan, from which it is possible to control the sea and the flow of trade and people across the western provinces.">
+  <Settlement id="town_CHU1" name="{=UvTpCUpH}Kushizaki" owner="Faction.clan_naito_1" posX="368.326" posY="494.754" culture="Culture.sanyo" gate_posX="365.8205" gate_posY="497.0557" text="{=BDnW3J67}Strategically located in the westernmost part of the San'you region, near the Kanmon Straits that separate Honshu from Kyushu, Kushizaki is a port castle town originally by the Naitou clan, from which it is possible to control the sea and the flow of trade and people across the western provinces.">
     <Components>
       <Town id="town_comp_CHU1" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1960"/>
     </Components>
@@ -154,7 +154,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_CHU3" name="{=NSAkQv1M}Yoshida-Koriyama" owner="Faction.clan_mori_1" posX="531.713" posY="572.339" culture="Culture.sanyo" gate_posX="534.986" gate_posY="573.268" text="{=mW8IM8PG}Originally built as a small fortified residence for the Mōri clan this coastal castle town grew in importance along with the expansion of its inhabitants' power, while its hilltop location ensures control over the surrounding territories and sea routes.">
+  <Settlement id="town_CHU3" name="{=NSAkQv1M}Yoshida-Koriyama" owner="Faction.clan_mori_1" posX="531.713" posY="572.339" culture="Culture.sanyo" gate_posX="534.986" gate_posY="573.268" text="{=mW8IM8PG}Originally built as a small fortified residence for the Mouri clan this coastal castle town grew in importance along with the expansion of its inhabitants' power, while its hilltop location ensures control over the surrounding territories and sea routes.">
     <Components>
       <Town id="town_comp_CHU3" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="2080"/>
     </Components>
@@ -213,7 +213,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_CHU4" name="{=ihU3yZM0}Iwami" owner="Faction.clan_kikkawa_1" posX="524.952" posY="618.077" culture="Culture.sanyo" gate_posX="526.2529" gate_posY="614.9333" text="{=GYTyXmZN}Iwami is famed for its rich silver mines, which have made it one of the most valuable settlements in Japan. The most powerful daimyos of the region have long battled for control of the Iwami ginzan, which has most recently fallen to the Mōri clan.">
+  <Settlement id="town_CHU4" name="{=ihU3yZM0}Iwami" owner="Faction.clan_kikkawa_1" posX="524.952" posY="618.077" culture="Culture.sanyo" gate_posX="526.2529" gate_posY="614.9333" text="{=GYTyXmZN}Iwami is famed for its rich silver mines, which have made it one of the most valuable settlements in Japan. The most powerful daimyos of the region have long battled for control of the Iwami ginzan, which has most recently fallen to the Mouri clan.">
     <Components>
       <Town id="town_comp_CHU4" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1680"/>
     </Components>
@@ -272,7 +272,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_CHU5" name="{=5CN8ewVp}Gassantoda" owner="Faction.clan_amano_1" posX="611.402" posY="658.955" culture="Culture.sanyo" gate_posX="612.7092" gate_posY="655.8139" text="{=eDhJwiwf}Gassantoda is a castle town in San'in that traces its origins back to the Kamakura period and before that to the Heian period when a fortress was built to protect trade routes and the renowned local steel production. More recently, Gassantoda became the stage for the last stand of the once dominant Amago clan against the ascendant Ōuchi and Mōri clans, with the conquest by Mōri Motonari marking the definitive shift of power in the region.">
+  <Settlement id="town_CHU5" name="{=5CN8ewVp}Gassantoda" owner="Faction.clan_amano_1" posX="611.402" posY="658.955" culture="Culture.sanyo" gate_posX="612.7092" gate_posY="655.8139" text="{=eDhJwiwf}Gassantoda is a castle town in San'in that traces its origins back to the Kamakura period and before that to the Heian period when a fortress was built to protect trade routes and the renowned local steel production. More recently, Gassantoda became the stage for the last stand of the once dominant Amago clan against the ascendant Ōuchi and Mouri clans, with the conquest by Mouri Motonari marking the definitive shift of power in the region.">
     <Components>
       <Town id="town_comp_CHU5" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1679"/>
     </Components>
@@ -1438,7 +1438,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_CHUB9" name="{=o7IPA6R2}Hamamatsu" owner="Faction.clan_tokugawa_1" posX="1138.858" posY="577.311" culture="Culture.tokai" gate_posX="1138.445" gate_posY="580.688" text="{=Bt4eiXyI}Hamamatsu is a castle town in Tokai, built by the Imagawa clan to guard the access the access to the vital Tōkaidō highway, it was then taken over by the rising Tokugawa Ieyasu in the aftermath of the battle of Okehazama.">
+  <Settlement id="town_CHUB9" name="{=o7IPA6R2}Hamamatsu" owner="Faction.clan_tokugawa_1" posX="1138.858" posY="577.311" culture="Culture.tokai" gate_posX="1138.445" gate_posY="580.688" text="{=Bt4eiXyI}Hamamatsu is a castle town in Toukai, built by the Imagawa clan to guard the access the access to the vital Tōkaidō highway, it was then taken over by the rising Tokugawa Ieyasu in the aftermath of the battle of Okehazama.">
     <Components>
       <Town id="town_comp_CHUB9" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1560"/>
     </Components>
@@ -1674,7 +1674,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_CHUB13" name="{=2TMu4lC2}Gifu" owner="Faction.clan_oda_1" posX="1048.763" posY="667.356" culture="Culture.tosan" gate_posX="1048.333" gate_posY="663.981" text="{=zIIebF6g}“The one who controls Gifu controls Japan” is a common saying that emphasises the strategic location of this castle town. Once a possession of the Saitō clan and recently seized by Oda Nobunaga, who chose to rename it after the legendary mountain where most of ancient china was unified and the birthplace of Confucious, signalling to everyone his intention to unify the whole of Japan.">
+  <Settlement id="town_CHUB13" name="{=2TMu4lC2}Gifu" owner="Faction.clan_oda_1" posX="1048.763" posY="667.356" culture="Culture.tosan" gate_posX="1048.333" gate_posY="663.981" text="{=zIIebF6g}“The one who controls Gifu controls Japan” is a common saying that emphasises the strategic location of this castle town. Once a possession of the Saitou clan and recently seized by Oda Nobunaga, who chose to rename it after the legendary mountain where most of ancient china was unified and the birthplace of Confucious, signalling to everyone his intention to unify the whole of Japan.">
     <Components>
       <Town id="town_comp_CHUB13" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1159"/>
     </Components>
@@ -2957,7 +2957,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_KA1" name="{=6JVWOV78}Odawara" owner="Faction.clan_hojo_1" posX="1278.193" posY="653.488" culture="Culture.kanto" gate_posX="1275.46" gate_posY="655.5144" text="{=Kpqqt4hJ}A Odawara, the stronghold of the powerful Hojo clan, stands as an impregnable fortress in the Kanto region. With its vast network of walls, moats, and outlying fortifications, it is considered one of the most well-defended castles in Japan. The city below is a thriving center of trade, with merchants, farmers, and artisans benefiting from Hojo governance. Odawara’s strategic location allows the Hojo to control access to eastern Japan, ensuring their dominance over the region.">
+  <Settlement id="town_KA1" name="{=6JVWOV78}Odawara" owner="Faction.clan_hojo_1" posX="1278.193" posY="653.488" culture="Culture.kanto" gate_posX="1275.46" gate_posY="655.5144" text="{=Kpqqt4hJ}A Odawara, the stronghold of the powerful Hojo clan, stands as an impregnable fortress in the Kantou region. With its vast network of walls, moats, and outlying fortifications, it is considered one of the most well-defended castles in Japan. The city below is a thriving center of trade, with merchants, farmers, and artisans benefiting from Hojo governance. Odawara’s strategic location allows the Hojo to control access to eastern Japan, ensuring their dominance over the region.">
     <Components>
       <Town id="town_comp_KA1" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="3400"/>
     </Components>
@@ -5668,7 +5668,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_KY3" name="{=9w6vlX8J}Sadowara" owner="Faction.clan_ito_1" posX="416.757" posY="247.892" culture="Culture.saikai" gate_posX="413.4588" gate_posY="247.0569" text="{=7zKX3k7y}The castle town of Sadowara, located in the southern portion of Kyushu, has served as the seat of the Itō clan for generations. Benefiting from fertile plains and proximity to maritime routes, Sadowara has flourished as both an administrative and agricultural center becoming the epicenter of the Itō clan's expansion attempts in the region.">
+  <Settlement id="town_KY3" name="{=9w6vlX8J}Sadowara" owner="Faction.clan_ito_1" posX="416.757" posY="247.892" culture="Culture.saikai" gate_posX="413.4588" gate_posY="247.0569" text="{=7zKX3k7y}The castle town of Sadowara, located in the southern portion of Kyushu, has served as the seat of the Itou clan for generations. Benefiting from fertile plains and proximity to maritime routes, Sadowara has flourished as both an administrative and agricultural center becoming the epicenter of the Itou clan's expansion attempts in the region.">
     <Components>
       <Town id="town_comp_KY3" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.808" prosperity="2520"/>
     </Components>
@@ -7490,7 +7490,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_SHI5" name="{=BkQ18hKt}Okou" owner="Faction.clan_chosokabe_1" posX="660.773" posY="435.138" culture="Culture.nankai" gate_posX="663.0652" gate_posY="437.6523" text="{=wWXECumA}Okou is a castle town located in a a key strategic location in the southern part of Shikoku, that has been serving as the ancestral seat of the Chōsokabe clan since the Kamakura period. Okou recently played a crucial role in the consolidation of power by Chōsokabe Motochika.">
+  <Settlement id="town_SHI5" name="{=BkQ18hKt}Okou" owner="Faction.clan_chosokabe_1" posX="660.773" posY="435.138" culture="Culture.nankai" gate_posX="663.0652" gate_posY="437.6523" text="{=wWXECumA}Okou is a castle town located in a a key strategic location in the southern part of Shikoku, that has been serving as the ancestral seat of the Chousokabe clan since the Kamakura period. Okou recently played a crucial role in the consolidation of power by Chousokabe Motochika.">
     <Components>
       <Town id="town_comp_SHI5" is_castle="false" level="2" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.638" prosperity="2280"/>
     </Components>

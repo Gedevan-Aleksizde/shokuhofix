@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <NPCCharacters>
-  <NPCCharacter id="tokai_militia_peasant" default_group="Infantry" level="1" occupation="Soldier" is_basic_troop="true" culture="Culture.tokai" name="{=32rPLbMS}Tokai Militia Peasant">
+  <NPCCharacter id="tokai_militia_peasant" default_group="Infantry" level="1" occupation="Soldier" is_basic_troop="true" culture="Culture.tokai" name="{=32rPLbMS}Toukai Militia Peasant">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -286,7 +286,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="tokai_hatamoto" default_group="Infantry" level="26" occupation="Soldier" is_basic_troop="true" culture="Culture.tokai" name="{=3FE5lRBn}Tokai Hatamoto">
+  <NPCCharacter id="tokai_hatamoto" default_group="Infantry" level="26" occupation="Soldier" is_basic_troop="true" culture="Culture.tokai" name="{=3FE5lRBn}Toukai Hatamoto">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -390,7 +390,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="tokai_veteran_teppo_hatamoto" default_group="Ranged" level="31" occupation="Soldier" culture="Culture.tokai" name="{=v7URckR6}Veteran Teppo Hatamoto">
+  <NPCCharacter id="tokai_veteran_teppo_hatamoto" default_group="Ranged" level="31" occupation="Soldier" culture="Culture.tokai" name="{=v7URckR6}Veteran Teppou Hatamoto">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>

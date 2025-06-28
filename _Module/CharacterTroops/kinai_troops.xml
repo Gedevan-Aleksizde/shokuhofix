@@ -629,7 +629,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="kinai_teppo_samurai" default_group="Ranged" level="21" occupation="Soldier" culture="Culture.kinai" name="{=gR66eaD5}Kinai Teppo Samurai">
+  <NPCCharacter id="kinai_teppo_samurai" default_group="Ranged" level="21" occupation="Soldier" culture="Culture.kinai" name="{=gR66eaD5}Kinai Teppou Samurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>

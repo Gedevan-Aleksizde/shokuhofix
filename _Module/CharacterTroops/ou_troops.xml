@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <NPCCharacters>
-  <NPCCharacter id="ou_militia_peasant" default_group="Infantry" level="1" occupation="Soldier" is_basic_troop="true" culture="Culture.ou" name="{=7dRBOAtr}Ou Militia Peasant">
+  <NPCCharacter id="ou_militia_peasant" default_group="Infantry" level="1" occupation="Soldier" is_basic_troop="true" culture="Culture.ou" name="{=7dRBOAtr}Ouu Militia Peasant">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -102,7 +102,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="ou_woodsman" default_group="Ranged" level="6" occupation="Soldier" is_basic_troop="true" culture="Culture.ou" name="{=BpQ3JdPJ}Ou Woodsman">
+  <NPCCharacter id="ou_woodsman" default_group="Ranged" level="6" occupation="Soldier" is_basic_troop="true" culture="Culture.ou" name="{=BpQ3JdPJ}Ouu Woodsman">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -171,7 +171,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="ou_ranger" default_group="Ranged" level="11" occupation="Soldier" is_basic_troop="true" culture="Culture.ou" name="{=kjXrpdwY}Ou Ranger">
+  <NPCCharacter id="ou_ranger" default_group="Ranged" level="11" occupation="Soldier" is_basic_troop="true" culture="Culture.ou" name="{=kjXrpdwY}Ouu Ranger">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -263,7 +263,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="ou_seasoned_ranger" default_group="Ranged" level="16" occupation="Soldier" is_basic_troop="true" culture="Culture.ou" name="{=PR8BaAnN}Seasoned Ou Ranger">
+  <NPCCharacter id="ou_seasoned_ranger" default_group="Ranged" level="16" occupation="Soldier" is_basic_troop="true" culture="Culture.ou" name="{=PR8BaAnN}Seasoned Ouu Ranger">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -371,7 +371,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="ou_jizamurai" default_group="Infantry" level="11" occupation="Soldier" is_basic_troop="true" culture="Culture.ou" name="{=n4NdIRr7}Ou Jizamurai">
+  <NPCCharacter id="ou_jizamurai" default_group="Infantry" level="11" occupation="Soldier" is_basic_troop="true" culture="Culture.ou" name="{=n4NdIRr7}Ouu Jizamurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -491,7 +491,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="ou_yumi_samurai" default_group="Ranged" level="16" occupation="Soldier" is_basic_troop="false" culture="Culture.ou" name="{=R7qDYYLt}Ou Yumi Samurai">
+  <NPCCharacter id="ou_yumi_samurai" default_group="Ranged" level="16" occupation="Soldier" is_basic_troop="false" culture="Culture.ou" name="{=R7qDYYLt}Ouu Yumi Samurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -612,7 +612,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="skilled_ou_yumi_samurai" default_group="Ranged" level="21" occupation="Soldier" is_basic_troop="false" culture="Culture.ou" name="{=sB1vizX4}Skilled Ou Yumi Samurai">
+  <NPCCharacter id="skilled_ou_yumi_samurai" default_group="Ranged" level="21" occupation="Soldier" is_basic_troop="false" culture="Culture.ou" name="{=sB1vizX4}Skilled Ouu Yumi Samurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -729,7 +729,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="ou_samurai_infantry" default_group="Infantry" level="16" occupation="Soldier" culture="Culture.ou" name="{=vV8NvH9X}Ou Samurai Infantry">
+  <NPCCharacter id="ou_samurai_infantry" default_group="Infantry" level="16" occupation="Soldier" culture="Culture.ou" name="{=vV8NvH9X}Ouu Samurai Infantry">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -830,7 +830,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="skilled_ou_infantry" default_group="Infantry" level="21" occupation="Soldier" culture="Culture.ou" name="{=ytt81yez}Skilled Ou Infantry">
+  <NPCCharacter id="skilled_ou_infantry" default_group="Infantry" level="21" occupation="Soldier" culture="Culture.ou" name="{=ytt81yez}Skilled Ouu Infantry">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -927,7 +927,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="ou_kanasaibo_samurai" default_group="Infantry" level="16" occupation="Soldier" culture="Culture.ou" name="{=upBcYVET}Ou Kanasaibo Samurai">
+  <NPCCharacter id="ou_kanasaibo_samurai" default_group="Infantry" level="16" occupation="Soldier" culture="Culture.ou" name="{=upBcYVET}Ouu Kanasaibou Samurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -1027,7 +1027,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="skilled_ou_kansaibo" default_group="Infantry" level="21" occupation="Soldier" culture="Culture.ou" name="{=vmEtech4}Skilled Ou Kanasaibo">
+  <NPCCharacter id="skilled_ou_kansaibo" default_group="Infantry" level="21" occupation="Soldier" culture="Culture.ou" name="{=vmEtech4}Skilled Ouu Kanasaibou">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -1124,7 +1124,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="ou_mounted_samurai" default_group="Cavalry" level="21" occupation="Soldier" culture="Culture.ou" name="{=hhyHshW6}Ou Mounted Samurai" upgrade_requires="ItemCategory.horse">
+  <NPCCharacter id="ou_mounted_samurai" default_group="Cavalry" level="21" occupation="Soldier" culture="Culture.ou" name="{=hhyHshW6}Ouu Mounted Samurai" upgrade_requires="ItemCategory.horse">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -1283,7 +1283,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="ou_horse_archer_samurai" default_group="HorseArcher" level="21" occupation="Soldier" culture="Culture.ou" name="{=TjQVvFXH}Ou Horse Archer Samurai" upgrade_requires="ItemCategory.horse">
+  <NPCCharacter id="ou_horse_archer_samurai" default_group="HorseArcher" level="21" occupation="Soldier" culture="Culture.ou" name="{=TjQVvFXH}Ouu Horse Archer Samurai" upgrade_requires="ItemCategory.horse">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -1468,7 +1468,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="veteran_ou_horse_archer_samurai" default_group="HorseArcher" level="26" occupation="Soldier" culture="Culture.ou" name="{=sjAMJHX5}Veteran Ou Horse Archer Samurai" upgrade_requires="ItemCategory.war_horse">
+  <NPCCharacter id="veteran_ou_horse_archer_samurai" default_group="HorseArcher" level="26" occupation="Soldier" culture="Culture.ou" name="{=sjAMJHX5}Veteran Ouu Horse Archer Samurai" upgrade_requires="ItemCategory.war_horse">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -1668,7 +1668,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="legendary_ou_horse_archer" default_group="HorseArcher" level="31" occupation="Soldier" culture="Culture.ou" name="{=ynb5jwnS}Elite Ou Horse Archer Samurai">
+  <NPCCharacter id="legendary_ou_horse_archer" default_group="HorseArcher" level="31" occupation="Soldier" culture="Culture.ou" name="{=ynb5jwnS}Elite Ouu Horse Archer Samurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>

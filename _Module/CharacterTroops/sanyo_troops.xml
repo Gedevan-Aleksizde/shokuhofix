@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <NPCCharacters>
-  <NPCCharacter id="sanyo_militia_peasant" default_group="Infantry" level="1" occupation="Soldier" is_basic_troop="true" culture="Culture.sanyo" name="{=g1aUdHN7}Sanyo Militia Peasant">
+  <NPCCharacter id="sanyo_militia_peasant" default_group="Infantry" level="1" occupation="Soldier" is_basic_troop="true" culture="Culture.sanyo" name="{=g1aUdHN7}San'you Militia Peasant">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -102,7 +102,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="sanyo_deckhand" default_group="Infantry" level="6" occupation="Soldier" culture="Culture.sanyo" name="{=la4EPVHN}Sanyo Deckhand">
+  <NPCCharacter id="sanyo_deckhand" default_group="Infantry" level="6" occupation="Soldier" culture="Culture.sanyo" name="{=la4EPVHN}San'you Deckhand">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -152,7 +152,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="sanyo_sea_raider" default_group="Infantry" level="11" occupation="Soldier" is_basic_troop="true" culture="Culture.sanyo" name="{=XWnpbrAT}Sanyo Sea Raider">
+  <NPCCharacter id="sanyo_sea_raider" default_group="Infantry" level="11" occupation="Soldier" is_basic_troop="true" culture="Culture.sanyo" name="{=XWnpbrAT}San'you Sea Raider">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -462,7 +462,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="sanyo_jizamurai" default_group="Infantry" level="11" occupation="Soldier" is_basic_troop="true" culture="Culture.sanyo" name="{=KFHZaIxh}Sanyo Jizamurai">
+  <NPCCharacter id="sanyo_jizamurai" default_group="Infantry" level="11" occupation="Soldier" is_basic_troop="true" culture="Culture.sanyo" name="{=KFHZaIxh}San'you Jizamurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -582,7 +582,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="sanyo_yumi_samurai" default_group="Ranged" level="16" occupation="Soldier" is_basic_troop="false" culture="Culture.sanyo" name="{=qvhtYNHH}Sanyo Yumi Samurai">
+  <NPCCharacter id="sanyo_yumi_samurai" default_group="Ranged" level="16" occupation="Soldier" is_basic_troop="false" culture="Culture.sanyo" name="{=qvhtYNHH}San'you Yumi Samurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -820,7 +820,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="sanyo_teppo_samurai" default_group="Ranged" level="21" occupation="Soldier" culture="Culture.sanyo" name="{=2LNvtWzI}Sanyo Teppo Samurai">
+  <NPCCharacter id="sanyo_teppo_samurai" default_group="Ranged" level="21" occupation="Soldier" culture="Culture.sanyo" name="{=2LNvtWzI}San'you Teppou Samurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -1038,7 +1038,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="sanyo_samurai_infantry" default_group="Infantry" level="16" occupation="Soldier" culture="Culture.sanyo" name="{=Mi02lR76}Sanyo Samurai Infantry">
+  <NPCCharacter id="sanyo_samurai_infantry" default_group="Infantry" level="16" occupation="Soldier" culture="Culture.sanyo" name="{=Mi02lR76}San'you Samurai Infantry">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -1246,7 +1246,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="sanyo_mounted_samurai" default_group="Cavalry" level="16" occupation="Soldier" culture="Culture.sanyo" upgrade_requires="ItemCategory.horse" name="{=t0TZ3Og3}Sanyo Mounted Samurai">
+  <NPCCharacter id="sanyo_mounted_samurai" default_group="Cavalry" level="16" occupation="Soldier" culture="Culture.sanyo" upgrade_requires="ItemCategory.horse" name="{=t0TZ3Og3}San'you Mounted Samurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>

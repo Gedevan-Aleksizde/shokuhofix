@@ -5,7 +5,7 @@
   <!--some dead-->
   <!--leader-->
   <!--he made older-->
-  <NPCCharacter id="lord_1_mori" name="{=shokuhod4057022}Mori Terumoto" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_mori" name="{=shokuhod4057022}Mouri Terumoto" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.557" build="0.4302" key="0024D40EC0000183957966D8B8C77A3992774935A7EA46A8C53B476548A999980676866707B6B247000000000000000000000000000000000000000016EC0100"/>
     </face>
@@ -26,7 +26,7 @@
     </Equipments>
   </NPCCharacter>
   <!--grandfather-->
-  <NPCCharacter id="lord_1_mori_1" name="{=shokuhobe420096}Mori Motonari" age="71" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_mori_1" name="{=shokuhobe420096}Mouri Motonari" age="71" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="71.00" weight="0.6958" build="0.3636" key="002ECC0EC0000082876875C8B6A5793B62798948599C446BD43C5D755899C9880075A6030798A289000000000000000000000000000000000000000054E40102"/>
     </face>
@@ -46,7 +46,7 @@
       <EquipmentSet id="sanyo_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_mori_2" name="{=shokuhoFb94a0b3}Mori Myokyu" age="47" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_mori_2" name="{=shokuhoFb94a0b3}Mouri Myokyu" age="47" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="47.00" weight="0.0548" build="0.6635" key="0023DC0E000000053B816954BD470576F6B48120263C4751547E7DF68605DEDE023A162403354175000000000000000000000000000000000000000036642100"/>
     </face>
@@ -64,7 +64,7 @@
     </Equipments>
   </NPCCharacter>
   <!--father-->
-  <NPCCharacter id="lord_1_mori_3" name="{=shokuho2Ac04dce}Mori Takamoto" age="41" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_mori_3" name="{=shokuho2Ac04dce}Mouri Takamoto" age="41" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="41.00" weight="0.1886" build="0.5134" key="0030F00EC00007818470789885B5585CA1685A55AADA38B8C3384DA538999C880078360307A77288000000000000000000000000000000000000000076EC0040"/>
     </face>
@@ -84,7 +84,7 @@
       <EquipmentSet id="sanyo_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_mori_4" name="{=shokuho5DF2Ab37}Mori Ayaya" age="41" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_mori_4" name="{=shokuho5DF2Ab37}Mouri Ayaya" age="41" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="41.00" weight="0.2585" build="0.461" key="0010E80DC0000005038A56824C7BF042A1C4857BA493132772CCE41682C866DE08374689035364460000000000000000000000000000000000000000126C30C0"/>
     </face>
@@ -102,7 +102,7 @@
     </Equipments>
   </NPCCharacter>
   <!--uncles-->
-  <NPCCharacter id="lord_1_mori_5" name="{=shokuho4A9fD8C5}Mori Motoaki" age="16" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_mori_5" name="{=shokuho4A9fD8C5}Mouri Motoaki" age="16" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="16.00" weight="0.8311" build="0.823" key="0029CC0E80000283B6787BB8ACB5565982795B69977A457BC53A567558A98C88027CC62407D79399000000000000000000000000000000000000000042EC0102"/>
     </face>
@@ -122,7 +122,7 @@
       <EquipmentSet id="sanyo_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_mori_6" name="{=shokuho32223549}Mori Hidekane" age="1" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_mori_6" name="{=shokuho32223549}Mouri Hidekane" age="1" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="1.00" weight="0.2796" build="0.128" key="0030D80EC000010386657A5899C56B6B62754A37588C398AD62896755889A9780662466806A6C397000000000000000000000000000000000000000024D40080"/>
     </face>
@@ -164,7 +164,7 @@
       <EquipmentSet id="sanyo_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_kobayakawa_1" name="{=shokuho089FAA01}Kobayakawa Toida no ookata" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kobayakawa_1" name="{=shokuho089FAA01}Kobayakawa Toida No Ōkata" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="38.00" weight="0.4363" build="0.5772" key="0009DC0C40000003C78C3CAEDD77D88083C184A8A693152D92EB147B82702C6A0869768906661331000000000000000000000000000000000000000036BC2080"/>
     </face>

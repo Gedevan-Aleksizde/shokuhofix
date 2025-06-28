@@ -19,20 +19,20 @@
 	<string id="prebackstory.spc_wanderer_saikai_0" text="{=GNP9jLDo}I can share my story with you, if you have the time." />
 	<string id="backstory_a.spc_wanderer_saikai_0" text="{=axVcadKQ}I come from a lengthy line of stonemasons who built walls and roads across the countryside for generations. During my apprenticeship, my father noticed that while my brothers hated tearing down the hollowed structures and foundations, I reveled in it." />
 	<string id="backstory_b.spc_wanderer_saikai_0" text="{=Kaz4NbDN}My father, being as wise as he is, understood that stronger walls will need more powerful tools to bring them down. He sent me off to learn carpentry and siegecraft on my own." />
-	<string id="backstory_c.spc_wanderer_saikai_0" text="{=YLn5hxVB}Now, before the Onin war, if a man apprenticed in siegecraft went to work for another master, it meant a very painful death if he was recaptured. But times have changed. The richest of Japan's castles have fallen, and they build their walls higher than they once did. The saikai lords pay less for a siegemaster, and that pay is often late. So I am up to taking other employment, if it is offered." />
+	<string id="backstory_c.spc_wanderer_saikai_0" text="{=YLn5hxVB}Now, before the Ounin war, if a man apprenticed in siegecraft went to work for another master, it meant a very painful death if he was recaptured. But times have changed. The richest of Japan's castles have fallen, and they build their walls higher than they once did. The saikai lords pay less for a siegemaster, and that pay is often late. So I am up to taking other employment, if it is offered." />
 	<string id="response_1.spc_wanderer_saikai_0" text="{=HSHRP59J}Of course, of course. A good engineer deserves his pay." />
 	<string id="response_2.spc_wanderer_saikai_0" text="{=cPpWwCU9}How virtue has crumbled since the old days." />
 	<string id="backstory_d.spc_wanderer_saikai_0" text="{=l0OCTrl9}Indeed... Well, at any rate, if you find there is an inconvenient wall between you and the object of your desire, and you wish it reduced to rubble, you know where to find me." />
 	<string id="generic_backstory.spc_wanderer_saikai_0" text="{=SkUwSwLZ}My father was one of the men that Ashikaga Yoshiteru had trained by captured engineers. Our people knew little of siegecraft in those days. Well, he was not allowed to work for anyone but the Ashikaga Shogun, or he would be killed in a very unpleasant way. But he taught me, his son, what he knew, and in this generation things are a little more lenient. So I can work for whom I please." />
 	<!-- the hawk, curt voice. Rural clan nemesis -->
 	<string id="prebackstory.spc_wanderer_saikai_1" text="{=RYWoN1qp}You know, you'd think this place could serve proper sake, instead of this piss... Sorry, where were we? Ah yes, my story." />
-	<string id="backstory_a.spc_wanderer_saikai_1" text="{=QEO5Wo1m}I rode for years behind Ryūzōji Takanobu. I had good name and a good sum of money. There was a girl in a neighboring village, quiet thing but good childbearing hips, who I thought would make a good bride." />
+	<string id="backstory_a.spc_wanderer_saikai_1" text="{=QEO5Wo1m}I rode for years behind Ryūzouji Takanobu. I had good name and a good sum of money. There was a girl in a neighboring village, quiet thing but good childbearing hips, who I thought would make a good bride." />
 	<string id="backstory_b.spc_wanderer_saikai_1" text="{=X9IcvNnc}So I went to her brother, and offered him 20 horses - a good price. But he said he wasn't giving his sister to a 'man like me.' Asked him what he meant by that, and he didn't answer, so I gave him a good punch. Maybe a couple punches - no more. Shouldn't have hurt a real man, but this little whelp died on me." />
 	<string id="backstory_c.spc_wanderer_saikai_1" text="{=jwGsuWlN}Well, you know how these things go - his kin came to our village looking for my blood. They didn't find me, but wounded one of my cousins. It was time to teach them a lesson, but my brothers had a fit of cowardice. So they brokered a deal, and I was forced to leave. How do you like that?" />
 	<string id="response_1.spc_wanderer_saikai_1" text="{=bMHFQgVE}Aye, real honor is as scarce as hen's teeth these days." />
 	<string id="response_2.spc_wanderer_saikai_1" text="{=xpENowWf}Strange thing, how people don't wish to die in someone else's quarrel." />
 	<string id="backstory_d.spc_wanderer_saikai_1" text="{=rSwj5KBb}Let me tell you something - I'm sick of cowardice, sick of those who don't stand by their comrades and their kin." />
-	<string id="generic_backstory.spc_wanderer_saikai_1" text="{=F1hLRHDo}I rode behind the banner of the Ryūzōji Takanobu for years. I should have had a place of honor in his court. But I killed a man from a richer clan over an insult, and he had too many kinfolk for me to linger anymore." />
+	<string id="generic_backstory.spc_wanderer_saikai_1" text="{=F1hLRHDo}I rode behind the banner of the Ryūzouji Takanobu for years. I should have had a place of honor in his court. But I killed a man from a richer clan over an insult, and he had too many kinfolk for me to linger anymore." />
 	<!-- the fatherless -->
 	<string id="prebackstory.spc_wanderer_saikai_2" text="{=LWjvkvyj}I am from one of the highland clans, in the far north. I do not know if you are familiar with their ways. I will try to explain." />
 	<string id="backstory_a.spc_wanderer_saikai_2" text="{=IUbGYeJV}A man of another clan slew my father. My father had slain his uncle many years before. It was my job to avenge my father, but the plague carried off his killer first. So I would be expected to kill his brother instead. This is how it is with us." />
@@ -226,7 +226,7 @@
 	<string id="backstory_b.spc_wanderer_nankai_0"
 			text="{=Kaz4NbDN}My father, being as wise as he is, understood that stronger walls will need more powerful tools to bring them down. He sent me off to learn carpentry and siegecraft on my own." />
 	<string id="backstory_c.spc_wanderer_nankai_0"
-			text="{=YLn5hxVB}Now, before the Onin war, if a man apprenticed in siegecraft went to work for another master, it meant a very painful death if he was recaptured. But times have changed. The richest mandarins of the Japan's cities have fallen, and they build their walls higher than they once did. The nankai lords pay less for a siegemaster, and that pay is often late. So I am up to taking other employment, if it is offered." />
+			text="{=YLn5hxVB}Now, before the Ounin war, if a man apprenticed in siegecraft went to work for another master, it meant a very painful death if he was recaptured. But times have changed. The richest mandarins of the Japan's cities have fallen, and they build their walls higher than they once did. The nankai lords pay less for a siegemaster, and that pay is often late. So I am up to taking other employment, if it is offered." />
 	<string id="response_1.spc_wanderer_nankai_0"
 			text="{=HSHRP59J}Of course, of course. A good engineer deserves his pay." />
 	<string id="response_2.spc_wanderer_nankai_0"
@@ -239,7 +239,7 @@
 	<string id="prebackstory.spc_wanderer_nankai_1"
 			text="{=RYWoN1qp}You know, you'd think this place could serve proper sake, instead of this piss... Sorry, where were we? Ah yes, my story." />
 	<string id="backstory_a.spc_wanderer_nankai_1"
-			text="{=QEO5Wo1m}I rode for years behind Ryūzōji Takanobu. I had good name and a good sum of money. There was a girl in a neighboring village, quiet thing but good childbearing hips, who I thought would make a good bride." />
+			text="{=QEO5Wo1m}I rode for years behind Ryūzouji Takanobu. I had good name and a good sum of money. There was a girl in a neighboring village, quiet thing but good childbearing hips, who I thought would make a good bride." />
 	<string id="backstory_b.spc_wanderer_nankai_1"
 			text="{=X9IcvNnc}So I went to her brother, and offered him 20 horses - a good price. But he said he wasn't giving his sister to a 'man like me.' Asked him what he meant by that, and he didn't answer, so I gave him a good punch. Maybe a couple punches - no more. Shouldn't have hurt a real man, but this little whelp died on me." />
 	<string id="backstory_c.spc_wanderer_nankai_1"
@@ -251,7 +251,7 @@
 	<string id="backstory_d.spc_wanderer_nankai_1"
 			text="{=rSwj5KBb}Let me tell you something - I'm sick of cowardice, sick of those who don't stand by their comrades and their kin." />
 	<string id="generic_backstory.spc_wanderer_nankai_1"
-			text="{=F1hLRHDo}I rode behind the banner of the Ryūzōji Takanobu for years. I should have had a place of honor in his court. But I killed a man from a richer clan over an insult, and he had too many kinfolk for me to linger anymore." />
+			text="{=F1hLRHDo}I rode behind the banner of the Ryūzouji Takanobu for years. I should have had a place of honor in his court. But I killed a man from a richer clan over an insult, and he had too many kinfolk for me to linger anymore." />
 	<!-- the fatherless -->
 	<string id="prebackstory.spc_wanderer_nankai_2"
 			text="{=LWjvkvyj}I am from one of the highland clans, in the far north. I do not know if you are familiar with their ways. I will try to explain." />
@@ -493,7 +493,7 @@
 	<string id="backstory_b.spc_wanderer_sanyo_0"
 			text="{=Kaz4NbDN}My father, being as wise as he is, understood that stronger walls will need more powerful tools to bring them down. He sent me off to learn carpentry and siegecraft on my own." />
 	<string id="backstory_c.spc_wanderer_sanyo_0"
-			text="{=YLn5hxVB}Now, before the Onin war, if a man apprenticed in siegecraft went to work for another master, it meant a very painful death if he was recaptured. But times have changed. The richest mandarins of the Japan's cities have fallen, and they build their walls higher than they once did. The sanyo lords pay less for a siegemaster, and that pay is often late. So I am up to taking other employment, if it is offered." />
+			text="{=YLn5hxVB}Now, before the Ounin war, if a man apprenticed in siegecraft went to work for another master, it meant a very painful death if he was recaptured. But times have changed. The richest mandarins of the Japan's cities have fallen, and they build their walls higher than they once did. The sanyo lords pay less for a siegemaster, and that pay is often late. So I am up to taking other employment, if it is offered." />
 	<string id="response_1.spc_wanderer_sanyo_0"
 			text="{=HSHRP59J}Of course, of course. A good engineer deserves his pay." />
 	<string id="response_2.spc_wanderer_sanyo_0"
@@ -506,7 +506,7 @@
 	<string id="prebackstory.spc_wanderer_sanyo_1"
 			text="{=RYWoN1qp}You know, you'd think this place could serve proper sake, instead of this piss... Sorry, where were we? Ah yes, my story." />
 	<string id="backstory_a.spc_wanderer_sanyo_1"
-			text="{=QEO5Wo1m}I rode for years behind Ryūzōji Takanobu. I had good name and a good sum of money. There was a girl in a neighboring village, quiet thing but good childbearing hips, who I thought would make a good bride." />
+			text="{=QEO5Wo1m}I rode for years behind Ryūzouji Takanobu. I had good name and a good sum of money. There was a girl in a neighboring village, quiet thing but good childbearing hips, who I thought would make a good bride." />
 	<string id="backstory_b.spc_wanderer_sanyo_1"
 			text="{=X9IcvNnc}So I went to her brother, and offered him 20 horses - a good price. But he said he wasn't giving his sister to a 'man like me.' Asked him what he meant by that, and he didn't answer, so I gave him a good punch. Maybe a couple punches - no more. Shouldn't have hurt a real man, but this little whelp died on me." />
 	<string id="backstory_c.spc_wanderer_sanyo_1"
@@ -518,7 +518,7 @@
 	<string id="backstory_d.spc_wanderer_sanyo_1"
 			text="{=rSwj5KBb}Let me tell you something - I'm sick of cowardice, sick of those who don't stand by their comrades and their kin." />
 	<string id="generic_backstory.spc_wanderer_sanyo_1"
-			text="{=F1hLRHDo}I rode behind the banner of the Ryūzōji Takanobu for years. I should have had a place of honor in his court. But I killed a man from a richer clan over an insult, and he had too many kinfolk for me to linger anymore." />
+			text="{=F1hLRHDo}I rode behind the banner of the Ryūzouji Takanobu for years. I should have had a place of honor in his court. But I killed a man from a richer clan over an insult, and he had too many kinfolk for me to linger anymore." />
 	<!-- the fatherless -->
 	<string id="prebackstory.spc_wanderer_sanyo_2"
 			text="{=LWjvkvyj}I am from one of the highland clans, in the far north. I do not know if you are familiar with their ways. I will try to explain." />
@@ -761,7 +761,7 @@
 	<string id="backstory_b.spc_wanderer_kinai_0"
 			text="{=Kaz4NbDN}My father, being as wise as he is, understood that stronger walls will need more powerful tools to bring them down. He sent me off to learn carpentry and siegecraft on my own." />
 	<string id="backstory_c.spc_wanderer_kinai_0"
-			text="{=YLn5hxVB}Now, before the Onin war, if a man apprenticed in siegecraft went to work for another master, it meant a very painful death if he was recaptured. But times have changed. The richest mandarins of the Japan's cities have fallen, and they build their walls higher than they once did. The kinai lords pay less for a siegemaster, and that pay is often late. So I am up to taking other employment, if it is offered." />
+			text="{=YLn5hxVB}Now, before the Ounin war, if a man apprenticed in siegecraft went to work for another master, it meant a very painful death if he was recaptured. But times have changed. The richest mandarins of the Japan's cities have fallen, and they build their walls higher than they once did. The kinai lords pay less for a siegemaster, and that pay is often late. So I am up to taking other employment, if it is offered." />
 	<string id="response_1.spc_wanderer_kinai_0"
 			text="{=HSHRP59J}Of course, of course. A good engineer deserves his pay." />
 	<string id="response_2.spc_wanderer_kinai_0"
@@ -774,7 +774,7 @@
 	<string id="prebackstory.spc_wanderer_kinai_1"
 			text="{=RYWoN1qp}You know, you'd think this place could serve proper sake, instead of this piss... Sorry, where were we? Ah yes, my story." />
 	<string id="backstory_a.spc_wanderer_kinai_1"
-			text="{=QEO5Wo1m}I rode for years behind Ryūzōji Takanobu. I had good name and a good sum of money. There was a girl in a neighboring village, quiet thing but good childbearing hips, who I thought would make a good bride." />
+			text="{=QEO5Wo1m}I rode for years behind Ryūzouji Takanobu. I had good name and a good sum of money. There was a girl in a neighboring village, quiet thing but good childbearing hips, who I thought would make a good bride." />
 	<string id="backstory_b.spc_wanderer_kinai_1"
 			text="{=X9IcvNnc}So I went to her brother, and offered him 20 horses - a good price. But he said he wasn't giving his sister to a 'man like me.' Asked him what he meant by that, and he didn't answer, so I gave him a good punch. Maybe a couple punches - no more. Shouldn't have hurt a real man, but this little whelp died on me." />
 	<string id="backstory_c.spc_wanderer_kinai_1"
@@ -786,7 +786,7 @@
 	<string id="backstory_d.spc_wanderer_kinai_1"
 			text="{=rSwj5KBb}Let me tell you something - I'm sick of cowardice, sick of those who don't stand by their comrades and their kin." />
 	<string id="generic_backstory.spc_wanderer_kinai_1"
-			text="{=F1hLRHDo}I rode behind the banner of the Ryūzōji Takanobu for years. I should have had a place of honor in his court. But I killed a man from a richer clan over an insult, and he had too many kinfolk for me to linger anymore." />
+			text="{=F1hLRHDo}I rode behind the banner of the Ryūzouji Takanobu for years. I should have had a place of honor in his court. But I killed a man from a richer clan over an insult, and he had too many kinfolk for me to linger anymore." />
 	<!-- the fatherless -->
 	<string id="prebackstory.spc_wanderer_kinai_2"
 			text="{=LWjvkvyj}I am from one of the highland clans, in the far north. I do not know if you are familiar with their ways. I will try to explain." />
@@ -1029,7 +1029,7 @@
 	<string id="backstory_b.spc_wanderer_hokuriku_0"
 			text="{=Kaz4NbDN}My father, being as wise as he is, understood that stronger walls will need more powerful tools to bring them down. He sent me off to learn carpentry and siegecraft on my own." />
 	<string id="backstory_c.spc_wanderer_hokuriku_0"
-			text="{=YLn5hxVB}Now, before the Onin war, if a man apprenticed in siegecraft went to work for another master, it meant a very painful death if he was recaptured. But times have changed. The richest mandarins of the Japan's cities have fallen, and they build their walls higher than they once did. The hokuriku lords pay less for a siegemaster, and that pay is often late. So I am up to taking other employment, if it is offered." />
+			text="{=YLn5hxVB}Now, before the Ounin war, if a man apprenticed in siegecraft went to work for another master, it meant a very painful death if he was recaptured. But times have changed. The richest mandarins of the Japan's cities have fallen, and they build their walls higher than they once did. The hokuriku lords pay less for a siegemaster, and that pay is often late. So I am up to taking other employment, if it is offered." />
 	<string id="response_1.spc_wanderer_hokuriku_0"
 			text="{=HSHRP59J}Of course, of course. A good engineer deserves his pay." />
 	<string id="response_2.spc_wanderer_hokuriku_0"
@@ -1042,7 +1042,7 @@
 	<string id="prebackstory.spc_wanderer_hokuriku_1"
 			text="{=RYWoN1qp}You know, you'd think this place could serve proper sake, instead of this piss... Sorry, where were we? Ah yes, my story." />
 	<string id="backstory_a.spc_wanderer_hokuriku_1"
-			text="{=QEO5Wo1m}I rode for years behind Ryūzōji Takanobu. I had good name and a good sum of money. There was a girl in a neighboring village, quiet thing but good childbearing hips, who I thought would make a good bride." />
+			text="{=QEO5Wo1m}I rode for years behind Ryūzouji Takanobu. I had good name and a good sum of money. There was a girl in a neighboring village, quiet thing but good childbearing hips, who I thought would make a good bride." />
 	<string id="backstory_b.spc_wanderer_hokuriku_1"
 			text="{=X9IcvNnc}So I went to her brother, and offered him 20 horses - a good price. But he said he wasn't giving his sister to a 'man like me.' Asked him what he meant by that, and he didn't answer, so I gave him a good punch. Maybe a couple punches - no more. Shouldn't have hurt a real man, but this little whelp died on me." />
 	<string id="backstory_c.spc_wanderer_hokuriku_1"
@@ -1054,7 +1054,7 @@
 	<string id="backstory_d.spc_wanderer_hokuriku_1"
 			text="{=rSwj5KBb}Let me tell you something - I'm sick of cowardice, sick of those who don't stand by their comrades and their kin." />
 	<string id="generic_backstory.spc_wanderer_hokuriku_1"
-			text="{=F1hLRHDo}I rode behind the banner of the Ryūzōji Takanobu for years. I should have had a place of honor in his court. But I killed a man from a richer clan over an insult, and he had too many kinfolk for me to linger anymore." />
+			text="{=F1hLRHDo}I rode behind the banner of the Ryūzouji Takanobu for years. I should have had a place of honor in his court. But I killed a man from a richer clan over an insult, and he had too many kinfolk for me to linger anymore." />
 	<!-- the fatherless -->
 	<string id="prebackstory.spc_wanderer_hokuriku_2"
 			text="{=LWjvkvyj}I am from one of the highland clans, in the far north. I do not know if you are familiar with their ways. I will try to explain." />
@@ -1296,7 +1296,7 @@
 	<string id="backstory_b.spc_wanderer_tosan_0"
 			text="{=Kaz4NbDN}My father, being as wise as he is, understood that stronger walls will need more powerful tools to bring them down. He sent me off to learn carpentry and siegecraft on my own." />
 	<string id="backstory_c.spc_wanderer_tosan_0"
-			text="{=YLn5hxVB}Now, before the Onin war, if a man apprenticed in siegecraft went to work for another master, it meant a very painful death if he was recaptured. But times have changed. The richest mandarins of the Japan's cities have fallen, and they build their walls higher than they once did. The tosan lords pay less for a siegemaster, and that pay is often late. So I am up to taking other employment, if it is offered." />
+			text="{=YLn5hxVB}Now, before the Ounin war, if a man apprenticed in siegecraft went to work for another master, it meant a very painful death if he was recaptured. But times have changed. The richest mandarins of the Japan's cities have fallen, and they build their walls higher than they once did. The tosan lords pay less for a siegemaster, and that pay is often late. So I am up to taking other employment, if it is offered." />
 	<string id="response_1.spc_wanderer_tosan_0"
 			text="{=HSHRP59J}Of course, of course. A good engineer deserves his pay." />
 	<string id="response_2.spc_wanderer_tosan_0"
@@ -1309,7 +1309,7 @@
 	<string id="prebackstory.spc_wanderer_tosan_1"
 			text="{=RYWoN1qp}You know, you'd think this place could serve proper sake, instead of this piss... Sorry, where were we? Ah yes, my story." />
 	<string id="backstory_a.spc_wanderer_tosan_1"
-			text="{=QEO5Wo1m}I rode for years behind Ryūzōji Takanobu. I had good name and a good sum of money. There was a girl in a neighboring village, quiet thing but good childbearing hips, who I thought would make a good bride." />
+			text="{=QEO5Wo1m}I rode for years behind Ryūzouji Takanobu. I had good name and a good sum of money. There was a girl in a neighboring village, quiet thing but good childbearing hips, who I thought would make a good bride." />
 	<string id="backstory_b.spc_wanderer_tosan_1"
 			text="{=X9IcvNnc}So I went to her brother, and offered him 20 horses - a good price. But he said he wasn't giving his sister to a 'man like me.' Asked him what he meant by that, and he didn't answer, so I gave him a good punch. Maybe a couple punches - no more. Shouldn't have hurt a real man, but this little whelp died on me." />
 	<string id="backstory_c.spc_wanderer_tosan_1"
@@ -1321,7 +1321,7 @@
 	<string id="backstory_d.spc_wanderer_tosan_1"
 			text="{=rSwj5KBb}Let me tell you something - I'm sick of cowardice, sick of those who don't stand by their comrades and their kin." />
 	<string id="generic_backstory.spc_wanderer_tosan_1"
-			text="{=F1hLRHDo}I rode behind the banner of the Ryūzōji Takanobu for years. I should have had a place of honor in his court. But I killed a man from a richer clan over an insult, and he had too many kinfolk for me to linger anymore." />
+			text="{=F1hLRHDo}I rode behind the banner of the Ryūzouji Takanobu for years. I should have had a place of honor in his court. But I killed a man from a richer clan over an insult, and he had too many kinfolk for me to linger anymore." />
 	<!-- the fatherless -->
 	<string id="prebackstory.spc_wanderer_tosan_2"
 			text="{=LWjvkvyj}I am from one of the highland clans, in the far north. I do not know if you are familiar with their ways. I will try to explain." />
@@ -1563,7 +1563,7 @@
 	<string id="backstory_b.spc_wanderer_tokai_0"
 			text="{=Kaz4NbDN}My father, being as wise as he is, understood that stronger walls will need more powerful tools to bring them down. He sent me off to learn carpentry and siegecraft on my own." />
 	<string id="backstory_c.spc_wanderer_tokai_0"
-			text="{=YLn5hxVB}Now, before the Onin war, if a man apprenticed in siegecraft went to work for another master, it meant a very painful death if he was recaptured. But times have changed. The richest mandarins of the Japan's cities have fallen, and they build their walls higher than they once did. The tokai lords pay less for a siegemaster, and that pay is often late. So I am up to taking other employment, if it is offered." />
+			text="{=YLn5hxVB}Now, before the Ounin war, if a man apprenticed in siegecraft went to work for another master, it meant a very painful death if he was recaptured. But times have changed. The richest mandarins of the Japan's cities have fallen, and they build their walls higher than they once did. The tokai lords pay less for a siegemaster, and that pay is often late. So I am up to taking other employment, if it is offered." />
 	<string id="response_1.spc_wanderer_tokai_0"
 			text="{=HSHRP59J}Of course, of course. A good engineer deserves his pay." />
 	<string id="response_2.spc_wanderer_tokai_0"
@@ -1576,7 +1576,7 @@
 	<string id="prebackstory.spc_wanderer_tokai_1"
 			text="{=RYWoN1qp}You know, you'd think this place could serve proper sake, instead of this piss... Sorry, where were we? Ah yes, my story." />
 	<string id="backstory_a.spc_wanderer_tokai_1"
-			text="{=QEO5Wo1m}I rode for years behind Ryūzōji Takanobu. I had good name and a good sum of money. There was a girl in a neighboring village, quiet thing but good childbearing hips, who I thought would make a good bride." />
+			text="{=QEO5Wo1m}I rode for years behind Ryūzouji Takanobu. I had good name and a good sum of money. There was a girl in a neighboring village, quiet thing but good childbearing hips, who I thought would make a good bride." />
 	<string id="backstory_b.spc_wanderer_tokai_1"
 			text="{=X9IcvNnc}So I went to her brother, and offered him 20 horses - a good price. But he said he wasn't giving his sister to a 'man like me.' Asked him what he meant by that, and he didn't answer, so I gave him a good punch. Maybe a couple punches - no more. Shouldn't have hurt a real man, but this little whelp died on me." />
 	<string id="backstory_c.spc_wanderer_tokai_1"
@@ -1588,7 +1588,7 @@
 	<string id="backstory_d.spc_wanderer_tokai_1"
 			text="{=rSwj5KBb}Let me tell you something - I'm sick of cowardice, sick of those who don't stand by their comrades and their kin." />
 	<string id="generic_backstory.spc_wanderer_tokai_1"
-			text="{=F1hLRHDo}I rode behind the banner of the Ryūzōji Takanobu for years. I should have had a place of honor in his court. But I killed a man from a richer clan over an insult, and he had too many kinfolk for me to linger anymore." />
+			text="{=F1hLRHDo}I rode behind the banner of the Ryūzouji Takanobu for years. I should have had a place of honor in his court. But I killed a man from a richer clan over an insult, and he had too many kinfolk for me to linger anymore." />
 	<!-- the fatherless -->
 	<string id="prebackstory.spc_wanderer_tokai_2"
 			text="{=LWjvkvyj}I am from one of the highland clans, in the far north. I do not know if you are familiar with their ways. I will try to explain." />
@@ -1826,20 +1826,20 @@
 	<string id="prebackstory.spc_wanderer_kanto_0" text="{=GNP9jLDo}I can share my story with you, if you have the time." />
 	<string id="backstory_a.spc_wanderer_kanto_0" text="{=axVcadKQ}I come from a lengthy line of stonemasons who built walls and roads across the countryside for generations. During my apprenticeship, my father noticed that while my brothers hated tearing down the hollowed structures and foundations, I reveled in it." />
 	<string id="backstory_b.spc_wanderer_kanto_0" text="{=Kaz4NbDN}My father, being as wise as he is, understood that stronger walls will need more powerful tools to bring them down. He sent me off to learn carpentry and siegecraft on my own." />
-	<string id="backstory_c.spc_wanderer_kanto_0" text="{=YLn5hxVB}Now, before the Onin war, if a man apprenticed in siegecraft went to work for another master, it meant a very painful death if he was recaptured. But times have changed. The richest mandarins of the Japan's cities have fallen, and they build their walls higher than they once did. The kanto lords pay less for a siegemaster, and that pay is often late. So I am up to taking other employment, if it is offered." />
+	<string id="backstory_c.spc_wanderer_kanto_0" text="{=YLn5hxVB}Now, before the Ounin war, if a man apprenticed in siegecraft went to work for another master, it meant a very painful death if he was recaptured. But times have changed. The richest mandarins of the Japan's cities have fallen, and they build their walls higher than they once did. The kanto lords pay less for a siegemaster, and that pay is often late. So I am up to taking other employment, if it is offered." />
 	<string id="response_1.spc_wanderer_kanto_0" text="{=HSHRP59J}Of course, of course. A good engineer deserves his pay." />
 	<string id="response_2.spc_wanderer_kanto_0" text="{=cPpWwCU9}How virtue has crumbled since the old days." />
 	<string id="backstory_d.spc_wanderer_kanto_0" text="{=l0OCTrl9}Indeed... Well, at any rate, if you find there is an inconvenient wall between you and the object of your desire, and you wish it reduced to rubble, you know where to find me." />
 	<string id="generic_backstory.spc_wanderer_kanto_0" text="{=SkUwSwLZ}My father was one of the men that Ashikaga Yoshiteru had trained by captured engineers. Our people knew little of siegecraft in those days. Well, he was not allowed to work for anyone but the Ashikaga Shogun, or he would be killed in a very unpleasant way. But he taught me, his son, what he knew, and in this generation things are a little more lenient. So I can work for whom I please." />
 	<!-- the hawk, curt voice. Rural clan nemesis -->
 	<string id="prebackstory.spc_wanderer_kanto_1" text="{=RYWoN1qp}You know, you'd think this place could serve proper sake, instead of this piss... Sorry, where were we? Ah yes, my story." />
-	<string id="backstory_a.spc_wanderer_kanto_1" text="{=QEO5Wo1m}I rode for years behind Ryūzōji Takanobu. I had good name and a good sum of money. There was a girl in a neighboring village, quiet thing but good childbearing hips, who I thought would make a good bride." />
+	<string id="backstory_a.spc_wanderer_kanto_1" text="{=QEO5Wo1m}I rode for years behind Ryūzouji Takanobu. I had good name and a good sum of money. There was a girl in a neighboring village, quiet thing but good childbearing hips, who I thought would make a good bride." />
 	<string id="backstory_b.spc_wanderer_kanto_1" text="{=X9IcvNnc}So I went to her brother, and offered him 20 horses - a good price. But he said he wasn't giving his sister to a 'man like me.' Asked him what he meant by that, and he didn't answer, so I gave him a good punch. Maybe a couple punches - no more. Shouldn't have hurt a real man, but this little whelp died on me." />
 	<string id="backstory_c.spc_wanderer_kanto_1" text="{=jwGsuWlN}Well, you know how these things go - his kin came to our village looking for my blood. They didn't find me, but wounded one of my cousins. It was time to teach them a lesson, but my brothers had a fit of cowardice. So they brokered a deal, and I was forced to leave. How do you like that?" />
 	<string id="response_1.spc_wanderer_kanto_1" text="{=bMHFQgVE}Aye, real honor is as scarce as hen's teeth these days." />
 	<string id="response_2.spc_wanderer_kanto_1" text="{=xpENowWf}Strange thing, how people don't wish to die in someone else's quarrel." />
 	<string id="backstory_d.spc_wanderer_kanto_1" text="{=rSwj5KBb}Let me tell you something - I'm sick of cowardice, sick of those who don't stand by their comrades and their kin." />
-	<string id="generic_backstory.spc_wanderer_kanto_1" text="{=F1hLRHDo}I rode behind the banner of the Ryūzōji Takanobu for years. I should have had a place of honor in his court. But I killed a man from a richer clan over an insult, and he had too many kinfolk for me to linger anymore." />
+	<string id="generic_backstory.spc_wanderer_kanto_1" text="{=F1hLRHDo}I rode behind the banner of the Ryūzouji Takanobu for years. I should have had a place of honor in his court. But I killed a man from a richer clan over an insult, and he had too many kinfolk for me to linger anymore." />
 	<!-- the fatherless -->
 	<string id="prebackstory.spc_wanderer_kanto_2" text="{=LWjvkvyj}I am from one of the highland clans, in the far north. I do not know if you are familiar with their ways. I will try to explain." />
 	<string id="backstory_a.spc_wanderer_kanto_2" text="{=IUbGYeJV}A man of another clan slew my father. My father had slain his uncle many years before. It was my job to avenge my father, but the plague carried off his killer first. So I would be expected to kill his brother instead. This is how it is with us." />
@@ -2031,7 +2031,7 @@
 	<string id="backstory_b.spc_wanderer_ou_0"
 			text="{=Kaz4NbDN}My father, being as wise as he is, understood that stronger walls will need more powerful tools to bring them down. He sent me off to learn carpentry and siegecraft on my own." />
 	<string id="backstory_c.spc_wanderer_ou_0"
-			text="{=YLn5hxVB}Now, before the Onin war, if a man apprenticed in siegecraft went to work for another master, it meant a very painful death if he was recaptured. But times have changed. The richest mandarins of the Japan's cities have fallen, and they build their walls higher than they once did. The ou lords pay less for a siegemaster, and that pay is often late. So I am up to taking other employment, if it is offered." />
+			text="{=YLn5hxVB}Now, before the Ounin war, if a man apprenticed in siegecraft went to work for another master, it meant a very painful death if he was recaptured. But times have changed. The richest mandarins of the Japan's cities have fallen, and they build their walls higher than they once did. The ou lords pay less for a siegemaster, and that pay is often late. So I am up to taking other employment, if it is offered." />
 	<string id="response_1.spc_wanderer_ou_0"
 			text="{=HSHRP59J}Of course, of course. A good engineer deserves his pay." />
 	<string id="response_2.spc_wanderer_ou_0"
@@ -2044,7 +2044,7 @@
 	<string id="prebackstory.spc_wanderer_ou_1"
 			text="{=RYWoN1qp}You know, you'd think this place could serve proper sake, instead of this piss... Sorry, where were we? Ah yes, my story." />
 	<string id="backstory_a.spc_wanderer_ou_1"
-			text="{=QEO5Wo1m}I rode for years behind Ryūzōji Takanobu. I had good name and a good sum of money. There was a girl in a neighboring village, quiet thing but good childbearing hips, who I thought would make a good bride." />
+			text="{=QEO5Wo1m}I rode for years behind Ryūzouji Takanobu. I had good name and a good sum of money. There was a girl in a neighboring village, quiet thing but good childbearing hips, who I thought would make a good bride." />
 	<string id="backstory_b.spc_wanderer_ou_1"
 			text="{=X9IcvNnc}So I went to her brother, and offered him 20 horses - a good price. But he said he wasn't giving his sister to a 'man like me.' Asked him what he meant by that, and he didn't answer, so I gave him a good punch. Maybe a couple punches - no more. Shouldn't have hurt a real man, but this little whelp died on me." />
 	<string id="backstory_c.spc_wanderer_ou_1"
@@ -2056,7 +2056,7 @@
 	<string id="backstory_d.spc_wanderer_ou_1"
 			text="{=rSwj5KBb}Let me tell you something - I'm sick of cowardice, sick of those who don't stand by their comrades and their kin." />
 	<string id="generic_backstory.spc_wanderer_ou_1"
-			text="{=F1hLRHDo}I rode behind the banner of the Ryūzōji Takanobu for years. I should have had a place of honor in his court. But I killed a man from a richer clan over an insult, and he had too many kinfolk for me to linger anymore." />
+			text="{=F1hLRHDo}I rode behind the banner of the Ryūzouji Takanobu for years. I should have had a place of honor in his court. But I killed a man from a richer clan over an insult, and he had too many kinfolk for me to linger anymore." />
 	<!-- the fatherless -->
 	<string id="prebackstory.spc_wanderer_ou_2"
 			text="{=LWjvkvyj}I am from one of the highland clans, in the far north. I do not know if you are familiar with their ways. I will try to explain." />

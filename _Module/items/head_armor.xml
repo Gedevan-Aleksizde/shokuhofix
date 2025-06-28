@@ -262,7 +262,7 @@
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
-    <Item id="sho_roningasa_hat" name="{=Trz6pkzv}Roningasa" subtype="head_armor" mesh="sho_roningasa_hat" weight="0.4" difficulty="0" appearance="1" Type="HeadArmor">
+    <Item id="sho_roningasa_hat" name="{=Trz6pkzv}Rouningasa" subtype="head_armor" mesh="sho_roningasa_hat" weight="0.4" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
             <Armor head_armor="6" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type4"/>
         </ItemComponent>

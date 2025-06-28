@@ -599,7 +599,7 @@
                    hex="0xff2c466b"
                    player_can_choose_for_sigil="true"
                    player_can_choose_for_background="true"/>
-			<!--Soto Buddhist background-->
+			<!--Soutou Buddhist background-->
             <Color id="258"
                    hex="0xff6c7543"
                    player_can_choose_for_sigil="true"

@@ -5,8 +5,8 @@
         <Benefit skill="Skill.OneHanded" exp="40000" finalExp="4000" addFocus="true"/>
         <Benefit skill="Skill.TwoHanded" exp="40000" finalExp="4000" addFocus="true"/>
     </Book>
-    <!--Shintō-ryū Gokui kaidensho-->
-    <Book id="book_2" item="Item.book_2" length="216" rarity="unique" desc="{=LZgp1XsH}A scroll detailing the techniques of the Shintō-ryū style, a school of swordsmanship founded by Iizasa Ienao and now counted among the three main origins of the martial arts." addFreeFocus="true">
+    <!--Shintou-ryū Gokui kaidensho-->
+    <Book id="book_2" item="Item.book_2" length="216" rarity="unique" desc="{=LZgp1XsH}A scroll detailing the techniques of the Shintou-ryū style, a school of swordsmanship founded by Iizasa Ienao and now counted among the three main origins of the martial arts." addFreeFocus="true">
         <Benefit skill="Skill.OneHanded" exp="35000" finalExp="3200" addFocus="true"/>
         <Benefit skill="Skill.TwoHanded" exp="35000" finalExp="3200" addFocus="true"/>
         <Benefit skill="Skill.Polearm" exp="28000" finalExp="2000" addFocus="false"/>
@@ -24,18 +24,18 @@
         <Benefit skill="Skill.Throwing" exp="25000" finalExp="1650" addFocus="false"/>
     </Book>
     <!--Toda-ryū Hidennosho-->
-    <Book id="book_5" item="Item.book_5" length="216" rarity="unique" desc="{=43Qyl6a1}A scroll that describes the techniques of the Toda-ryū style of swordsmanship, a school founded by Itō Kagehisa after visiting Kanemaki Michimune, a master of the Nakajō-ryū style" addFreeFocus="true">
+    <Book id="book_5" item="Item.book_5" length="216" rarity="unique" desc="{=43Qyl6a1}A scroll that describes the techniques of the Toda-ryū style of swordsmanship, a school founded by Itou Kagehisa after visiting Kanemaki Michimune, a master of the Nakajou-ryū style" addFreeFocus="true">
         <Benefit skill="Skill.OneHanded" exp="35000" finalExp="3200" addFocus="true"/>
         <Benefit skill="Skill.TwoHanded" exp="35000" finalExp="3200" addFocus="true"/>
         <Benefit skill="Skill.Polearm" exp="28000" finalExp="2000" addFocus="false"/>
     </Book>
     <!--Marumeshinkage-ryū mokuroku-->
-    <Book id="book_6" item="Item.book_6" length="124" rarity="unique" desc="{=Q4dwDikE}This scroll contains the teachings of Marume Nagayoshi, a disciple of the Shintō-ryū style and founder of the Marumeshinkage-ryū school of swordsmanship." addFreeFocus="true">
+    <Book id="book_6" item="Item.book_6" length="124" rarity="unique" desc="{=Q4dwDikE}This scroll contains the teachings of Marume Nagayoshi, a disciple of the Shintou-ryū style and founder of the Marumeshinkage-ryū school of swordsmanship." addFreeFocus="true">
         <Benefit skill="Skill.OneHanded" exp="40000" finalExp="4000" addFocus="true"/>
         <Benefit skill="Skill.TwoHanded" exp="40000" finalExp="4000" addFocus="true"/>
     </Book>
-    <!--Hōzōin-ryū Hyōhōmokuroku-->
-    <Book id="book_7" item="Item.book_7" length="160" rarity="unique" desc="{=YDassFgV}A scroll depicting the techniques of Hōzōin-ryū school, a spear martial arts specialised in the use of the Jumonji sickle spear to enable diverse offensive and defensive techniques." addFreeFocus="true">
+    <!--Houzouin-ryū Hyouhoumokuroku-->
+    <Book id="book_7" item="Item.book_7" length="160" rarity="unique" desc="{=YDassFgV}A scroll depicting the techniques of Houzouin-ryū school, a spear martial arts specialised in the use of the Jumonji sickle spear to enable diverse offensive and defensive techniques." addFreeFocus="true">
         <Benefit skill="Skill.Polearm" exp="45000" finalExp="4500" addFocus="true"/>
     </Book>
     <!--Sharaishiki-->
@@ -66,7 +66,7 @@
         <Benefit skill="Skill.Medicine" exp="22000" finalExp="2200" addFocus="false"/>
     </Book>
     <!--Tazuna no koto-->
-    <Book id="book_14" item="Item.book_14" length="130" rarity="unique" desc="{=VNF4HoAS}A book containing the teachings of Hachijō Fusashige, founder of the Hachijo-ryu school of horsemanship." addFreeFocus="true">
+    <Book id="book_14" item="Item.book_14" length="130" rarity="unique" desc="{=VNF4HoAS}A book containing the teachings of Hachijou Fusashige, founder of the Hachijo-ryu school of horsemanship." addFreeFocus="true">
         <Benefit skill="Skill.Riding" exp="40000" finalExp="5000" addFocus="true"/>
     </Book>
     <!--Yabusame shidai-->
@@ -85,7 +85,7 @@
         <Benefit skill="Skill.Bow" exp="19000" finalExp="2000" addFocus="false"/>
     </Book>
     <!--Teppō yakunokata narabini chōgōshidai-->
-    <Book id="book_18" item="Item.book_18" length="76" rarity="rare" desc="{=OyqAdyhX}This scroll contains a secret gunpowder recipe, originally sent by Ōtomo Sōrin, and describes the method of preparation, precautions and proportions of ingredients." addFreeFocus="false">
+    <Book id="book_18" item="Item.book_18" length="76" rarity="rare" desc="{=OyqAdyhX}This scroll contains a secret gunpowder recipe, originally sent by Ōtomo Sourin, and describes the method of preparation, precautions and proportions of ingredients." addFreeFocus="false">
         <Benefit skill="Skill.Crossbow" exp="23000" finalExp="2500" addFocus="true"/>
     </Book>
     <!--Tamagusuru chōgōshidai-->
@@ -133,7 +133,7 @@
         <Benefit skill="Skill.Crafting" exp="24000" finalExp="2500" addFocus="false"/>
     </Book>
     <!--Oujyakushū-->
-    <Book id="book_30" item="Item.book_30" length="106" rarity="common" desc="{=b5wKRFvG}A book finished by Saitō Toshimasa, started by his father, that covers around eight hundred forty Katana. Includes Katana from Awataguchi, Soshu, Chugoku-Shikoku, Hokuriku, Bizen-Bicchu, and Kyushu." addFreeFocus="false">
+    <Book id="book_30" item="Item.book_30" length="106" rarity="common" desc="{=b5wKRFvG}A book finished by Saitou Toshimasa, started by his father, that covers around eight hundred forty Katana. Includes Katana from Awataguchi, Soshu, Chugoku-Shikoku, Hokuriku, Bizen-Bicchu, and Kyushu." addFreeFocus="false">
         <Benefit skill="Skill.Crafting" exp="21000" finalExp="2300" addFocus="false"/>
     </Book>
     <!--Eiroku meizukushi-->
@@ -215,7 +215,7 @@
         <Benefit skill="Skill.Charm" exp="24000" finalExp="2500" addFocus="false"/>
     </Book>
     <!--Shinsen tsukubashū-->
-    <Book id="book_50" item="Item.book_50" length="188" rarity="rare" desc="{=19KEPyJH}This book is a collection of two thousand fifty-two renga poems, many written by samurai. Compiled by Ichijō Fuyuyoshi, Sanjōnishi Sanetaka, Sōgi and others." addFreeFocus="false">
+    <Book id="book_50" item="Item.book_50" length="188" rarity="rare" desc="{=19KEPyJH}This book is a collection of two thousand fifty-two renga poems, many written by samurai. Compiled by Ichijou Fuyuyoshi, Sanjōnishi Sanetaka, Sōgi and others." addFreeFocus="false">
         <Benefit skill="Skill.Charm" exp="26000" finalExp="2500" addFocus="true"/>
     </Book>
     <!--Teikinōrai-->
@@ -225,7 +225,7 @@
         <Benefit skill="Skill.Trade" exp="11000" finalExp="1000" addFocus="false"/>
     </Book>
     <!--Sekisoōrai-->
-    <Book id="book_52" item="Item.book_52" length="232" rarity="unique" desc="{=hKNscAQA}Written by the nobleman Ichijō Kaneyoshi, this book is an assortment of miscellaneous information. Includes details on the social life of samurai and court nobles, horses, armor, blacksmithing, temples, famous painters, alcoholic beverages, landmarks, memorial services, teas, and much more." addFreeFocus="true">
+    <Book id="book_52" item="Item.book_52" length="232" rarity="unique" desc="{=hKNscAQA}Written by the nobleman Ichijou Kaneyoshi, this book is an assortment of miscellaneous information. Includes details on the social life of samurai and court nobles, horses, armor, blacksmithing, temples, famous painters, alcoholic beverages, landmarks, memorial services, teas, and much more." addFreeFocus="true">
         <Benefit skill="Skill.Steward" exp="30000" finalExp="3000" addFocus="true"/>
         <Benefit skill="Skill.Charm" exp="19000" finalExp="1600" addFocus="false"/>
         <Benefit skill="Skill.Trade" exp="15000" finalExp="1500" addFocus="false"/>
@@ -234,7 +234,7 @@
         <Benefit skill="Skill.Engineering" exp="8000" finalExp="800" addFocus="false"/>
     </Book>
     <!--Gyokuenkisho-->
-    <Book id="book_53" item="Item.book_53" length="154" rarity="rare" desc="{=HwMZdP7F}Written by the nobleman Ichijō Kaneyoshi, this book is a compilation of Shinto and Buddhist Rituals, worship, processions, events, clothing, secret banquets, bad luck rites, imperial edicts, and other miscellaneous writings." addFreeFocus="false">
+    <Book id="book_53" item="Item.book_53" length="154" rarity="rare" desc="{=HwMZdP7F}Written by the nobleman Ichijou Kaneyoshi, this book is a compilation of Shintou and Buddhist Rituals, worship, processions, events, clothing, secret banquets, bad luck rites, imperial edicts, and other miscellaneous writings." addFreeFocus="false">
         <Benefit skill="Skill.Charm" exp="28000" finalExp="2600" addFocus="false"/>
     </Book>
     <!--Jōshōgusō-->
@@ -325,7 +325,7 @@
     <Book id="book_73" item="Item.book_73" length="98" rarity="common" desc="{=peUDJ52f}A medical treatise compiled by Izumo no Hirosada from the Heian period, sporting a collection of medicinal herbs across the region." addFreeFocus="false">
         <Benefit skill="Skill.Medicine" exp="14000" finalExp="1200" addFocus="false"/>
     </Book>
-    <!--Ishinopō-->
+    <!--Ishinpou-->
     <Book id="book_74" item="Item.book_74" length="112" rarity="rare" desc="{=16fh1qth}A medical treatise compiled by Tamba Yasuyori, a doctor of acupuncture who served as court physician during the Heian period. It compiled into thirty volumes and consists of doctors' ethics, general medical theory, therapies for various diseases, health and hygiene regimen, medical techniques and medical thought." addFreeFocus="false">
         <Benefit skill="Skill.Medicine" exp="21000" finalExp="2000" addFocus="false"/>
     </Book>
@@ -333,7 +333,7 @@
     <Book id="book_75" item="Item.book_75" length="166" rarity="unique" desc="{=vq0zLdDx}A leading medical treatise of the Kamakura period, compiled by the physician Kajiwara Shōzen. Kajiwara utilized his knowledge of medicine and references from the latest Chinese Medical texts of the period to assemble this set of volumes. Includes details on vast amount of illnesses and diagrams of internal organs." addFreeFocus="false">
         <Benefit skill="Skill.Medicine" exp="38000" finalExp="4000" addFocus="true"/>
     </Book>
-    <!--Man'anpō-->
+    <!--Man'anpōu-->
     <Book id="book_76" item="Item.book_76" length="300" rarity="unique" desc="{=irBHhwiz}Kajiwara Shōzen’s medical treatise written around 1313 and entirely in Chinese. Intended to transmit and preserve the art of medicine." addFreeFocus="false">
         <Benefit skill="Skill.Medicine" exp="36000" finalExp="3500" addFocus="true"/>
     </Book>

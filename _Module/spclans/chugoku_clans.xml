@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Factions>
   <!--mori kingdom-->
-  <Faction id="clan_mori_1" is_noble="true" name="{=shokuho27cb48eF}Mori-shi" tier="6" owner="Hero.lord_1_mori" culture="Culture.sanyo" super_faction="Kingdom.mori" banner_key="11.163.166.1528.1528.764.764.1.0.0.648.171.171.483.483.764.764.0.0.0"/>
+  <Faction id="clan_mori_1" is_noble="true" name="{=shokuho27cb48eF}Mouri-shi" tier="6" owner="Hero.lord_1_mori" culture="Culture.sanyo" super_faction="Kingdom.mori" banner_key="11.163.166.1528.1528.764.764.1.0.0.648.171.171.483.483.764.764.0.0.0"/>
   <Faction id="clan_kobayakawa_1" is_noble="true" name="{=shokuhoa4FB245B}Kobayakawa-shi" tier="4" owner="Hero.lord_1_kobayakawa" culture="Culture.sanyo" super_faction="Kingdom.mori" banner_key="11.163.166.1528.1528.764.764.1.0.0.647.171.171.483.483.764.764.0.0.0"/>
   <Faction id="clan_kikkawa_1" is_noble="true" name="{=shokuho690da309}Kikkawa-shi" tier="4" owner="Hero.lord_1_kikkawa" culture="Culture.sanyo" super_faction="Kingdom.mori" banner_key="11.163.166.1528.1528.764.764.1.0.0.646.171.171.483.483.764.764.0.0.0"/>
   <Faction id="clan_yoshimi_1" is_noble="true" name="{=shokuhoDbF73Dec}Yoshimi-shi" tier="3" owner="Hero.lord_1_yoshimi" culture="Culture.sanyo" super_faction="Kingdom.mori" banner_key="11.163.166.1528.1528.764.764.1.0.0.645.171.171.483.483.764.764.0.0.0"/>

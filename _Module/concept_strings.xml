@@ -79,11 +79,11 @@
 	<Concept title="{=niQJr7Gr}Enlistment" id="str_enlistment" group="Shokuho" link_id="ENLISTMENT_LINK" text="{=ciELdzfe}The enlistment feature lets you enlist with a lord as a normal troop, much like troops do with the player’s party. To enlist in a lord’s party, simply choose the “I wish to enlist in your army” dialogue option. You will follow the lord’s army and engage in battles they engage in. Over time you will earn XP and promote to the next unit. You will be given equipment based on your troop, or you can equip your own equipment that you find if you prefer that. When at peace time, your lord may order a mock battle to take place between two sides of the lord’s party. This is a way for you to gain valuable experience without being at war. Once you reach the noble tier of troops (tier 4), you will start receiving tasks from your lord, where you will be asked to leave the party and complete them. Such tasks include scouting enemy settlements, picking up supplies from towns, engaging enemy parties, or when at peace, dealing with looters. Once you reach the max tier of troop and gain enough XP, it will be possible to become a direct vassal of the clan you are enlisted with, even if your renown is lower than normally possible to become a vassal."/>
 
 	<!--Religions-->
-    <Concept title="{=N6rT0EFe}Shintoism" id="str_religion_shinto" group="Religions" link_id="SHINTO_LINK" text="{=N6rT0EFe}Shintoism"/>
+    <Concept title="{=N6rT0EFe}Shintouism" id="str_religion_shinto" group="Religions" link_id="SHINTO_LINK" text="{=N6rT0EFe}Shintouism"/>
     <Concept title="{=H2nZxMg6}Rinzai Sect Buddhism" id="str_religion_rinzai" group="Religions" link_id="RINZAI_LINK" text="{=H2nZxMg6}Rinzai Sect Buddhism"/>
     <Concept title="{=uDmgp8Hy}Shingon Sect Buddhism" id="str_religion_shingon" group="Religions" link_id="SHINGON_LINK" text="{=uDmgp8Hy}Shingon Sect Buddhism"/>
     <Concept title="{=yw6hLM21}Tendai Sect Buddhism" id="str_religion_tendai" group="Religions" link_id="TENDAI_LINK" text="{=yw6hLM21}Tendai Sect Buddhism"/>
-    <Concept title="{=pDRw90Ji}Soto Sect Buddhism" id="str_religion_soto" group="Religions" link_id="SOTO_LINK" text="{=pDRw90Ji}Soto Sect Buddhism"/>
+    <Concept title="{=pDRw90Ji}Soutou Sect Buddhism" id="str_religion_soto" group="Religions" link_id="SOTO_LINK" text="{=pDRw90Ji}Soutou Sect Buddhism"/>
     <Concept title="{=B1muhS5n}Shin Sect Buddhism" id="str_religion_shin" group="Religions" link_id="SHIN_LINK" text="{=B1muhS5n}Shin Sect Buddhism"/>
 
 </Concepts>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <NPCCharacters>
-  <NPCCharacter id="kanto_militia_peasant" default_group="Infantry" level="1" occupation="Soldier" is_basic_troop="true" culture="Culture.kanto" name="{=khXGTo7V}Kanto Militia Peasant">
+  <NPCCharacter id="kanto_militia_peasant" default_group="Infantry" level="1" occupation="Soldier" is_basic_troop="true" culture="Culture.kanto" name="{=khXGTo7V}Kantou Militia Peasant">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -217,7 +217,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="kanto_mounted_ashigaru_scout" default_group="Cavalry" level="16" occupation="Soldier" is_basic_troop="true" culture="Culture.kanto" name="{=NFCowZVV}Kanto Mounted Scout" upgrade_requires="ItemCategory.horse">
+  <NPCCharacter id="kanto_mounted_ashigaru_scout" default_group="Cavalry" level="16" occupation="Soldier" is_basic_troop="true" culture="Culture.kanto" name="{=NFCowZVV}Kantou Mounted Scout" upgrade_requires="ItemCategory.horse">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -299,7 +299,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="kanto_jizamurai" default_group="Infantry" level="11" occupation="Soldier" is_basic_troop="true" culture="Culture.kanto" name="{=PsPqc0XB}Kanto Jizamurai">
+  <NPCCharacter id="kanto_jizamurai" default_group="Infantry" level="11" occupation="Soldier" is_basic_troop="true" culture="Culture.kanto" name="{=PsPqc0XB}Kantou Jizamurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -419,7 +419,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="kanto_yumi_samurai" default_group="Ranged" level="16" occupation="Soldier" is_basic_troop="false" culture="Culture.kanto" name="{=Lu2H5IpT}Kanto Yumi Samurai">
+  <NPCCharacter id="kanto_yumi_samurai" default_group="Ranged" level="16" occupation="Soldier" is_basic_troop="false" culture="Culture.kanto" name="{=Lu2H5IpT}Kantou Yumi Samurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -540,7 +540,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="skilled_kanto_yumi_samurai" default_group="Ranged" level="21" occupation="Soldier" is_basic_troop="false" culture="Culture.kanto" name="{=3FKUeXTE}Skilled Kanto Yumi Samurai">
+  <NPCCharacter id="skilled_kanto_yumi_samurai" default_group="Ranged" level="21" occupation="Soldier" is_basic_troop="false" culture="Culture.kanto" name="{=3FKUeXTE}Skilled Kantou Yumi Samurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -657,7 +657,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="kanto_teppo_samurai" default_group="Ranged" level="21" occupation="Soldier" culture="Culture.kanto" name="{=pPIGQxFx}Kanto Teppo Samurai">
+  <NPCCharacter id="kanto_teppo_samurai" default_group="Ranged" level="21" occupation="Soldier" culture="Culture.kanto" name="{=pPIGQxFx}Kantou Teppou Samurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -774,7 +774,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="kanto_samurai_infantry" default_group="Infantry" level="16" occupation="Soldier" culture="Culture.kanto" name="{=Vi8qF6id}Kanto Samurai Infantry">
+  <NPCCharacter id="kanto_samurai_infantry" default_group="Infantry" level="16" occupation="Soldier" culture="Culture.kanto" name="{=Vi8qF6id}Kantou Samurai Infantry">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -874,7 +874,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="skilled_kanto_infantry" default_group="Infantry" level="21" occupation="Soldier" culture="Culture.kanto" name="{=IfOBf8B4}Skilled Kanto Infantry">
+  <NPCCharacter id="skilled_kanto_infantry" default_group="Infantry" level="21" occupation="Soldier" culture="Culture.kanto" name="{=IfOBf8B4}Skilled Kantou Infantry">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -971,7 +971,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="kanto_mounted_samurai" default_group="Cavalry" level="16" occupation="Soldier" culture="Culture.kanto" name="{=zbREA4Pu}Kanto Mounted Samurai" upgrade_requires="ItemCategory.horse">
+  <NPCCharacter id="kanto_mounted_samurai" default_group="Cavalry" level="16" occupation="Soldier" culture="Culture.kanto" name="{=zbREA4Pu}Kantou Mounted Samurai" upgrade_requires="ItemCategory.horse">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -1131,7 +1131,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="kanto_heavy_cavalry" default_group="Cavalry" level="21" occupation="Soldier" culture="Culture.kanto" name="{=tj5lmhCW}Kanto Heavy Cavalry">
+  <NPCCharacter id="kanto_heavy_cavalry" default_group="Cavalry" level="21" occupation="Soldier" culture="Culture.kanto" name="{=tj5lmhCW}Kantou Heavy Cavalry">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -1251,7 +1251,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="skilled_kanto_heavy_cavalry" default_group="Cavalry" level="26" occupation="Soldier" culture="Culture.kanto" name="{=OzZSiIOw}Skilled Kanto Heavy Cavalry" upgrade_requires="ItemCategory.war_horse">
+  <NPCCharacter id="skilled_kanto_heavy_cavalry" default_group="Cavalry" level="26" occupation="Soldier" culture="Culture.kanto" name="{=OzZSiIOw}Skilled Kantou Heavy Cavalry" upgrade_requires="ItemCategory.war_horse">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>
@@ -1371,7 +1371,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="kanto_elite_cavalry" default_group="Cavalry" level="31" occupation="Soldier" culture="Culture.kanto" name="{=ckFpyMVK}Kanto Elite Cavalry">
+  <NPCCharacter id="kanto_elite_cavalry" default_group="Cavalry" level="31" occupation="Soldier" culture="Culture.kanto" name="{=ckFpyMVK}Kantou Elite Cavalry">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>

@@ -86,7 +86,7 @@
         </ShipPrefabs>
     </Ship>
 	<Ship id="ship_oatake_bune"
-		  name="Oatake Bune"
+		  name="Ōatake Bune"
 		  troopCapacity="150"
 		  upkeep="1000"
 		  buildTime="504"
@@ -98,13 +98,13 @@
 		  weight="1"
 		  sailors="1"
 		  healthPoints="1"
-		  desc="The Oatake Bune is a very large troop transport, designed to dominate the the seas. These ships have a built in mansion, and are perfect for a daimyo to display his authority to the ocean.">
+		  desc="The Ōatake Bune is a very large troop transport, designed to dominate the the seas. These ships have a built in mansion, and are perfect for a daimyo to display his authority to the ocean.">
         <ShipPrefabs>
             <ShipPrefab id ="temp"/>
         </ShipPrefabs>
     </Ship>
 	<Ship id="ship_tekko_sen"
-		  name="Tekko Sen"
+		  name="Tekkou Sen"
 		  troopCapacity="100"
 		  upkeep="5000"
 		  buildTime="720"
@@ -116,7 +116,7 @@
 		  weight="1"
 		  sailors="1"
 		  healthPoints="1"
-		  desc="The Tekko Sen is an enourmous ship dwarfing even the Oatake Bune. It's artillery and steel plates ensure it's domination on the battlefield. Any daimyo with one of these, will surely be a force to be reckoned with.">
+		  desc="The Tekkou Sen is an enourmous ship dwarfing even the Ōatake Bune. It's artillery and steel plates ensure it's domination on the battlefield. Any daimyo with one of these, will surely be a force to be reckoned with.">
         <ShipPrefabs>
             <ShipPrefab id ="temp"/>
         </ShipPrefabs>
