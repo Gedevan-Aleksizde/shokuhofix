@@ -10,10 +10,10 @@
 	<Hero id="dead_lord_1_saionji_1" alive="false" faction="Faction.clan_saionji_1" spouse="Hero.dead_lord_1_saionji_2" text="{=gTFSsjbm}Saionji Kinnobu"/>
 	<Hero id="dead_lord_1_saionji_2" alive="false" faction="Faction.clan_saionji_1" spouse="Hero.dead_lord_1_saionji_1" text="{=qwJbUUQV}Saionji Seiko-in"/>
 	<!--kashuji clan-->
-	<Hero id="lord_1_kashuji" faction="Faction.clan_kashuji_1" spouse="Hero.lord_1_kashuji_1" text="{=RzWxJC41}Kashuji Motoaki"/>
-	<Hero id="lord_1_kashuji_1" faction="Faction.clan_kashuji_1" spouse="Hero.lord_1_kashuji" text="{=vT8u3noP}Kashuji Fuki"/>
-	<Hero id="lord_1_kashuji_2" faction="Faction.clan_kashuji_1" spouse="Hero.lord_1_kashuji_3" father="Hero.lord_1_kashuji" mother="Hero.lord_1_kashuji_1" text="{=GZEDDxOG}Kashuji Motonori"/>
-	<Hero id="lord_1_kashuji_3" faction="Faction.clan_kashuji_1" spouse="Hero.lord_1_kashuji_2" text="{=KDfcebZ7}Kashuji Sayuri"/>
+	<Hero id="lord_1_kashuji" faction="Faction.clan_kashuji_1" spouse="Hero.lord_1_kashuji_1" text="{=RzWxJC41}Kajūji Motoaki"/>
+	<Hero id="lord_1_kashuji_1" faction="Faction.clan_kashuji_1" spouse="Hero.lord_1_kashuji" text="{=vT8u3noP}Kajūji Fuki"/>
+	<Hero id="lord_1_kashuji_2" faction="Faction.clan_kashuji_1" spouse="Hero.lord_1_kashuji_3" father="Hero.lord_1_kashuji" mother="Hero.lord_1_kashuji_1" text="{=GZEDDxOG}Kajūji Motonori"/>
+	<Hero id="lord_1_kashuji_3" faction="Faction.clan_kashuji_1" spouse="Hero.lord_1_kashuji_2" text="{=KDfcebZ7}Kajūji Sayuri"/>
 	<!--hoketsu clan-->
 	<Hero id="lord_1_hoketsu" faction="Faction.clan_hoketsu_1" spouse="Hero.lord_1_hoketsu_1" text="{=gSncZATa}Hoketsu Norinobu"/>
 	<Hero id="lord_1_hoketsu_1" faction="Faction.clan_hoketsu_1" spouse="Hero.lord_1_hoketsu" text="{=GCLn5ECy}Hoketsu Hama"/>
@@ -41,31 +41,31 @@
 	<Hero id="lord_1_tsuno_1" faction="Faction.clan_tsuno_1" spouse="Hero.lord_1_tsuno" text="{=q7dRw8dj}Tsuno Sumi"/>
 	<Hero id="lord_1_tsuno_2" faction="Faction.clan_tsuno_1" father="Hero.lord_1_tsuno" mother="Hero.lord_1_tsuno_1" text="{=Pi1K6Dyu}Tsuno Katsuoki"/>
 	<Hero id="lord_1_tsuno_3" faction="Faction.clan_tsuno_1" father="Hero.lord_1_tsuno" mother="Hero.lord_1_tsuno_1" text="{=Q5L1Tq9A}Tsuno Tomo"/>
-	<!--Chosokabe kingdom-->
-	<!--Chosokabe clan-->
-	<Hero id="lord_1_chosokabe" faction="Faction.clan_chosokabe_1" spouse="Hero.lord_1_chosokabe_1" text="{=EFVk0L5h}Chosokabe Motochika"/>
-	<Hero id="lord_1_chosokabe_1" faction="Faction.clan_chosokabe_1" spouse="Hero.lord_1_chosokabe" text="{=6CK8HDZR}Chosokabe Amane"/>
-	<Hero id="lord_1_chosokabe_2" faction="Faction.clan_chosokabe_1" father="Hero.lord_1_chosokabe" mother="Hero.lord_1_chosokabe_1" text="{=s6nTS5jf}Chosokabe Nobuchika"/>
-	<Hero id="lord_1_chosokabe_3" faction="Faction.clan_chosokabe_1" father="Hero.lord_1_chosokabe" mother="Hero.lord_1_chosokabe_1" text="{=OdLEdQd3}Chosokabe Chikakazu"/>
-	<Hero id="lord_1_chosokabe_4" faction="Faction.clan_chosokabe_1" father="Hero.lord_1_chosokabe" mother="Hero.lord_1_chosokabe_1" text="{=JVEOWyAi}Chosokabe Suzu"/>
-	<Hero id="lord_1_chosokabe_5" faction="Faction.clan_chosokabe_1" father="Hero.lord_1_chosokabe" mother="Hero.lord_1_chosokabe_1" text="{=MgtskN05}Chosokabe Honoka"/>
-	<Hero id="lord_1_chosokabe_6" faction="Faction.clan_chosokabe_1" father="Hero.lord_1_chosokabe" mother="Hero.lord_1_chosokabe_1" text="{=ufdDL1IS}Chosokabe Ako"/>
-	<!--Kosokabe clan-->
-	<Hero id="lord_1_kosokabe" faction="Faction.clan_kosokabe_1" spouse="Hero.lord_1_kosokabe_1" text="{=U9RsqAwX}Kosokabe Chikayasu"/>
-	<Hero id="lord_1_kosokabe_1" faction="Faction.clan_kosokabe_1" spouse="Hero.lord_1_kosokabe" text="{=RySY5fQu}Kosokabe Yuzuha"/>
+	<!--Chousokabe kingdom-->
+	<!--Chousokabe clan-->
+	<Hero id="lord_1_chosokabe" faction="Faction.clan_chosokabe_1" spouse="Hero.lord_1_chosokabe_1" text="{=EFVk0L5h}Chousokabe Motochika"/>
+	<Hero id="lord_1_chosokabe_1" faction="Faction.clan_chosokabe_1" spouse="Hero.lord_1_chosokabe" text="{=6CK8HDZR}Chousokabe Amane"/>
+	<Hero id="lord_1_chosokabe_2" faction="Faction.clan_chosokabe_1" father="Hero.lord_1_chosokabe" mother="Hero.lord_1_chosokabe_1" text="{=s6nTS5jf}Chousokabe Nobuchika"/>
+	<Hero id="lord_1_chosokabe_3" faction="Faction.clan_chosokabe_1" father="Hero.lord_1_chosokabe" mother="Hero.lord_1_chosokabe_1" text="{=OdLEdQd3}Chousokabe Chikakazu"/>
+	<Hero id="lord_1_chosokabe_4" faction="Faction.clan_chosokabe_1" father="Hero.lord_1_chosokabe" mother="Hero.lord_1_chosokabe_1" text="{=JVEOWyAi}Chousokabe Suzu"/>
+	<Hero id="lord_1_chosokabe_5" faction="Faction.clan_chosokabe_1" father="Hero.lord_1_chosokabe" mother="Hero.lord_1_chosokabe_1" text="{=MgtskN05}Chousokabe Honoka"/>
+	<Hero id="lord_1_chosokabe_6" faction="Faction.clan_chosokabe_1" father="Hero.lord_1_chosokabe" mother="Hero.lord_1_chosokabe_1" text="{=ufdDL1IS}Chousokabe Ako"/>
+	<!--Kousokabe clan-->
+	<Hero id="lord_1_kosokabe" faction="Faction.clan_kosokabe_1" spouse="Hero.lord_1_kosokabe_1" text="{=U9RsqAwX}Kousokabe Chikayasu"/>
+	<Hero id="lord_1_kosokabe_1" faction="Faction.clan_kosokabe_1" spouse="Hero.lord_1_kosokabe" text="{=RySY5fQu}Kousokabe Yuzuha"/>
 	<!--kira clan-->
 	<Hero id="lord_1_kira" faction="Faction.clan_kira_1" spouse="Hero.lord_1_kira_1" text="{=hvyaWDgX}Kira Chikasada"/>
 	<Hero id="lord_1_kira_1" faction="Faction.clan_kira_1" spouse="Hero.lord_1_kira" text="{=DeCbQeHC}Kira Yumi"/>
 	<Hero id="lord_1_kira_2" faction="Faction.clan_kira_1" father="Hero.lord_1_kira" mother="Hero.lord_1_kira_1" text="{=1YCmAvvP}Kira Chikazane"/>
 	<Hero id="lord_1_kira_3" faction="Faction.clan_kira_1" father="Hero.lord_1_kira" mother="Hero.lord_1_kira_1" text="{=FXZNXucw}Kira Joen"/>
 	<Hero id="lord_1_kira_4" faction="Faction.clan_kira_1" father="Hero.lord_1_kira" mother="Hero.lord_1_kira_1" text="{=zcC4TL48}Kira Chikamasa"/>
-	<!--Hisatake clan-->
-	<Hero id="lord_1_hisatake" faction="Faction.clan_hisatake_1" spouse="Hero.lord_1_hisatake_1" father="Hero.dead_lord_1_hisatake_2" mother="Hero.dead_lord_1_hisatake_3" text="{=pGrd03pI}Hisatake Chikanobu"/>
-	<Hero id="lord_1_hisatake_1" faction="Faction.clan_hisatake_1" spouse="Hero.lord_1_hisatake" text="{=kKdyVFsm}Hisatake En"/>
-	<Hero id="dead_lord_1_hisatake_2" faction="Faction.clan_hisatake_1" spouse="Hero.dead_lord_1_hisatake_3" text="{=Uk8wWxBw}Hisatake Shogen"/>
-	<Hero id="dead_lord_1_hisatake_3" faction="Faction.clan_hisatake_1" spouse="Hero.dead_lord_1_hisatake_2" text="{=gswXQDd7}Hisatake Mugi"/>
-	<Hero id="lord_1_hisatake_4" faction="Faction.clan_hisatake_1" spouse="Hero.lord_1_hisatake_5" father="Hero.dead_lord_1_hisatake_2" mother="Hero.dead_lord_1_hisatake_3" text="{=KwL2BhJu}Hisatake Chikanao"/>
-	<Hero id="lord_1_hisatake_5" faction="Faction.clan_hisatake_1" spouse="Hero.lord_1_hisatake_4" text="{=NMjVGI7u}Hisatake Taka"/>
+	<!--HiSatake clan-->
+	<Hero id="lord_1_hisatake" faction="Faction.clan_hisatake_1" spouse="Hero.lord_1_hisatake_1" father="Hero.dead_lord_1_hisatake_2" mother="Hero.dead_lord_1_hisatake_3" text="{=pGrd03pI}HiSatake Chikanobu"/>
+	<Hero id="lord_1_hisatake_1" faction="Faction.clan_hisatake_1" spouse="Hero.lord_1_hisatake" text="{=kKdyVFsm}HiSatake En"/>
+	<Hero id="dead_lord_1_hisatake_2" faction="Faction.clan_hisatake_1" spouse="Hero.dead_lord_1_hisatake_3" text="{=Uk8wWxBw}HiSatake Shogen"/>
+	<Hero id="dead_lord_1_hisatake_3" faction="Faction.clan_hisatake_1" spouse="Hero.dead_lord_1_hisatake_2" text="{=gswXQDd7}HiSatake Mugi"/>
+	<Hero id="lord_1_hisatake_4" faction="Faction.clan_hisatake_1" spouse="Hero.lord_1_hisatake_5" father="Hero.dead_lord_1_hisatake_2" mother="Hero.dead_lord_1_hisatake_3" text="{=KwL2BhJu}HiSatake Chikanao"/>
+	<Hero id="lord_1_hisatake_5" faction="Faction.clan_hisatake_1" spouse="Hero.lord_1_hisatake_4" text="{=NMjVGI7u}HiSatake Taka"/>
 	<!--Yoshida clan-->
 	<Hero id="lord_1_yoshida" faction="Faction.clan_yoshida_1" spouse="Hero.lord_1_yoshida_1" father="Hero.dead_lord_1_yoshida_2" mother="Hero.dead_lord_1_yoshida_3" text="{=m3YajwyO}Yoshida Shigetoshi"/>
 	<Hero id="lord_1_yoshida_1" faction="Faction.clan_yoshida_1" spouse="Hero.lord_1_yoshida" text="{=uht0Icck}Yoshida Hisa"/>

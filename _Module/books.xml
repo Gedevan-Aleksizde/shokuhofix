@@ -66,7 +66,7 @@
         <Benefit skill="Skill.Medicine" exp="22000" finalExp="2200" addFocus="false"/>
     </Book>
     <!--Tazuna no koto-->
-    <Book id="book_14" item="Item.book_14" length="130" rarity="unique" desc="{=VNF4HoAS}A book containing the teachings of Hachijou Fusashige, founder of the Hachijo-ryu school of horsemanship." addFreeFocus="true">
+    <Book id="book_14" item="Item.book_14" length="130" rarity="unique" desc="{=VNF4HoAS}A book containing the teachings of Hachijou Fusashige, founder of the Hachijou-ryū school of horsemanship." addFreeFocus="true">
         <Benefit skill="Skill.Riding" exp="40000" finalExp="5000" addFocus="true"/>
     </Book>
     <!--Yabusame shidai-->
@@ -109,11 +109,11 @@
         <Benefit skill="Skill.Athletics" exp="40000" finalExp="5000" addFocus="true"/>
     </Book>
     <!--Asabashō-->
-    <Book id="book_24" item="Item.book_24" length="270" rarity="unique" desc="{=RuQ4TZhh}A scroll containing the different scholastic and oral traditions from various schools of esoteric Buddhism, organized into two hundred twenty-eight volumes. Organized by Gokurakubō Jōchō, taking over thirty years to compile." addFreeFocus="true">
+    <Book id="book_24" item="Item.book_24" length="270" rarity="unique" desc="{=RuQ4TZhh}A scroll containing the different scholastic and oral traditions from various schools of esoteric Buddhism, organized into two hundred twenty-eight volumes. Organized by Gokurakubou Jouchou, taking over thirty years to compile." addFreeFocus="true">
         <Benefit skill="Skill.Athletics" exp="40000" finalExp="5000" addFocus="true"/>
     </Book>
     <!--Keiranshūyoshū-->
-    <Book id="book_25" item="Item.book_25" length="268" rarity="unique" desc="{=OBbYaTVr}A scroll containing the oral traditions, events, and manners from various schools of esoteric Buddhism. Organized by Sōkushoin Koshu, a learned monk of the Tendai sect, who ascended Mount Hiei to study the unique sects of Buddhism." addFreeFocus="true">
+    <Book id="book_25" item="Item.book_25" length="268" rarity="unique" desc="{=OBbYaTVr}A scroll containing the oral traditions, events, and manners from various schools of esoteric Buddhism. Organized by Sōkushoin Koushū, a learned monk of the Tendai sect, who ascended Mount Hiei to study the unique sects of Buddhism." addFreeFocus="true">
         <Benefit skill="Skill.Athletics" exp="40000" finalExp="5000" addFocus="true"/>
     </Book>
     <!--Sanbusōjō hossokumikki-->
@@ -125,7 +125,7 @@
         <Benefit skill="Skill.Athletics" exp="40000" finalExp="5000" addFocus="true"/>
     </Book>
     <!--Hidanshō-->
-    <Book id="book_28" item="Item.book_28" length="103" rarity="rare" desc="{=AYhzKPj2}Five volumes authored by, Utsunomiya Sadamune,an officer in charge of managing the Katana of the Shogun Ashikaga Yoshimitsu. He categorized katana by period and presented a genealogy of katana smiths, as well as famous swords and their measurements." addFreeFocus="false">
+    <Book id="book_28" item="Item.book_28" length="103" rarity="rare" desc="{=AYhzKPj2}Five volumes authored by, Utsunomiya Mikawa-nyūdou, an officer in charge of managing the Katana of the Shogun Ashikaga Yoshimitsu. He categorized katana by period and presented a genealogy of katana smiths, as well as famous swords and their measurements." addFreeFocus="false">
         <Benefit skill="Skill.Crafting" exp="32000" finalExp="3500" addFocus="true"/>
     </Book>
     <!--Kaji myojikō-->
@@ -133,7 +133,7 @@
         <Benefit skill="Skill.Crafting" exp="24000" finalExp="2500" addFocus="false"/>
     </Book>
     <!--Oujyakushū-->
-    <Book id="book_30" item="Item.book_30" length="106" rarity="common" desc="{=b5wKRFvG}A book finished by Saitou Toshimasa, started by his father, that covers around eight hundred forty Katana. Includes Katana from Awataguchi, Soshu, Chugoku-Shikoku, Hokuriku, Bizen-Bicchu, and Kyushu." addFreeFocus="false">
+    <Book id="book_30" item="Item.book_30" length="106" rarity="common" desc="{=b5wKRFvG}A book finished by Saitou Toshimasa, started by his father, that covers around eight hundred forty Katana. Includes Katana from Awataguchi, Soushū, Chūgoku-Shikoku, Hokuriku, Bizen-Bitchū, and Kyushu." addFreeFocus="false">
         <Benefit skill="Skill.Crafting" exp="21000" finalExp="2300" addFocus="false"/>
     </Book>
     <!--Eiroku meizukushi-->
@@ -179,11 +179,11 @@
         <Benefit skill="Skill.Tactics" exp="19000" finalExp="2000" addFocus="false"/>
     </Book>
     <!--Sonshi-->
-    <Book id="book_41" item="Item.book_41" length="100" rarity="unique" desc="{=YligB2sz}This book is revered as one of China's major military strategy books, written by Sonshi. With advances in organized conflict, this text has become increasingly important for strategists across Japan. Utilized as a source for the writings of Takeda Shingen." addFreeFocus="false">
+    <Book id="book_41" item="Item.book_41" length="100" rarity="unique" desc="This book, is revered as one of China's major military strategy books, also known as The Art of War, written by Sonshi (Sun Tzu). With advances in organized conflict, this text has become increasingly important for strategists across Japan. Utilized as a source for the writings of Takeda Shingen." addFreeFocus="false">
         <Benefit skill="Skill.Tactics" exp="30000" finalExp="3000" addFocus="true"/>
     </Book>
     <!--Goshi-->
-    <Book id="book_42" item="Item.book_42" length="100" rarity="unique" desc="{=SPfjkxAC}This book is revered as one of China's major military strategy books, written by Goshi. With advances in organized conflict, this text has become increasingly important for strategists across Japan." addFreeFocus="false">
+    <Book id="book_42" item="Item.book_42" length="100" rarity="unique" desc="{=SPfjkxAC}This book is revered as one of China's major military strategy books, written by Goshi (Wu Qi). With advances in organized conflict, this text has become increasingly important for strategists across Japan." addFreeFocus="false">
         <Benefit skill="Skill.Tactics" exp="30000" finalExp="3000" addFocus="true"/>
     </Book>
     <!--Utsuryōshi-->
@@ -254,7 +254,7 @@
         <Benefit skill="Skill.Leadership" exp="25000" finalExp="2500" addFocus="true"/>
     </Book>
     <!--Sogamonogatari-->
-    <Book id="book_58" item="Item.book_58" length="122" rarity="common" desc="{=eT7w6xyJ}A Kamukura period biographical story based on the revenge of the Soga brothers in Fujino. Written in the style of a military history treatise." addFreeFocus="false">
+    <Book id="book_58" item="Item.book_58" length="122" rarity="common" desc="{=eT7w6xyJ}A Kamakura period biographical story based on the revenge of the Soga brothers in Fujino. Written in the style of a military history treatise." addFreeFocus="false">
         <Benefit skill="Skill.Leadership" exp="19500" finalExp="2000" addFocus="false"/>
     </Book>
     <!--Shisho-gokyō (4 books and 5 classics, might need extra benefits-->
@@ -314,7 +314,7 @@
         <Benefit skill="Skill.Steward" exp="31500" finalExp="3000" addFocus="false"/>
     </Book>
     <!--Kōshū Hattonoshidai-->
-    <Book id="book_71" item="Item.book_71" length="151" rarity="unique" desc="{=3ybFlk33}A set of laws written by Harunobu Takeda for the realms under the control of the Takeda Clan. A total of fifty-five articles, It stipulates the prohibition of private wars, the regulation of letters to other domains, the prohibition of sectarian disputes, and the prohibition of private alliances." addFreeFocus="false">
+    <Book id="book_71" item="Item.book_71" length="151" rarity="unique" desc="{=3ybFlk33}A set of laws written by  Takeda Harunobu (Shingen) for the realms under the control of the Takeda Clan. A total of fifty-five articles, It stipulates the prohibition of private wars, the regulation of letters to other domains, the prohibition of sectarian disputes, and the prohibition of private alliances." addFreeFocus="false">
         <Benefit skill="Skill.Steward" exp="29000" finalExp="2500" addFocus="false"/>
     </Book>
     <!--Sagarashi Hatto-->
@@ -326,19 +326,19 @@
         <Benefit skill="Skill.Medicine" exp="14000" finalExp="1200" addFocus="false"/>
     </Book>
     <!--Ishinpou-->
-    <Book id="book_74" item="Item.book_74" length="112" rarity="rare" desc="{=16fh1qth}A medical treatise compiled by Tamba Yasuyori, a doctor of acupuncture who served as court physician during the Heian period. It compiled into thirty volumes and consists of doctors' ethics, general medical theory, therapies for various diseases, health and hygiene regimen, medical techniques and medical thought." addFreeFocus="false">
+    <Book id="book_74" item="Item.book_74" length="112" rarity="rare" desc="{=16fh1qth}A medical treatise compiled by Tanba Yasuyori, a doctor of acupuncture who served as court physician during the Heian period. It compiled into thirty volumes and consists of doctors' ethics, general medical theory, therapies for various diseases, health and hygiene regimen, medical techniques and medical thought." addFreeFocus="false">
         <Benefit skill="Skill.Medicine" exp="21000" finalExp="2000" addFocus="false"/>
     </Book>
     <!--Ton'ishō-->
-    <Book id="book_75" item="Item.book_75" length="166" rarity="unique" desc="{=vq0zLdDx}A leading medical treatise of the Kamakura period, compiled by the physician Kajiwara Shōzen. Kajiwara utilized his knowledge of medicine and references from the latest Chinese Medical texts of the period to assemble this set of volumes. Includes details on vast amount of illnesses and diagrams of internal organs." addFreeFocus="false">
+    <Book id="book_75" item="Item.book_75" length="166" rarity="unique" desc="{=vq0zLdDx}A leading medical treatise of the Kamakura period, compiled by the physician Kajiwara Shouzen. Kajiwara utilized his knowledge of medicine and references from the latest Chinese Medical texts of the period to assemble this set of volumes. Includes details on vast amount of illnesses and diagrams of internal organs." addFreeFocus="false">
         <Benefit skill="Skill.Medicine" exp="38000" finalExp="4000" addFocus="true"/>
     </Book>
     <!--Man'anpōu-->
-    <Book id="book_76" item="Item.book_76" length="300" rarity="unique" desc="{=irBHhwiz}Kajiwara Shōzen’s medical treatise written around 1313 and entirely in Chinese. Intended to transmit and preserve the art of medicine." addFreeFocus="false">
+    <Book id="book_76" item="Item.book_76" length="300" rarity="unique" desc="{=irBHhwiz}Kajiwara Shouzen’s medical treatise written around 1313 and entirely in Chinese. Intended to transmit and preserve the art of medicine." addFreeFocus="false">
         <Benefit skill="Skill.Medicine" exp="36000" finalExp="3500" addFocus="true"/>
     </Book>
     <!--Ishotaizen-->
-    <Book id="book_77" item="Item.book_77" length="173" rarity="unique" desc="{=WOuDgTfK}Ten volumes of Yū Sōritsu’s Ming dynasty medical texts reprinted and published by Asaino Sōzui, a merchant in Sakai. Intended for en-masse sale, this collection is vital for spreading knowledge on a plethora of ailments." addFreeFocus="false">
+    <Book id="book_77" item="Item.book_77" length="173" rarity="unique" desc="{=WOuDgTfK}Ten volumes of Yū Souritsu’s Ming dynasty medical texts reprinted and published by Asaino Sōzui, a merchant in Sakai. Intended for en-masse sale, this collection is vital for spreading knowledge on a plethora of ailments." addFreeFocus="false">
         <Benefit skill="Skill.Medicine" exp="32000" finalExp="3000" addFocus="true"/>
     </Book>
     <!--Keitekishu-->

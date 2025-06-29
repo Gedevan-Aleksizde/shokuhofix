@@ -141,14 +141,14 @@
 	<Hero id="lord_1_naito"
 		  faction="Faction.clan_naito_1"
 		  spouse="Hero.lord_1_naito_1"
-		  text="{=niI9dpuu}Naito Takaharu." />
+		  text="{=niI9dpuu}Naitou Takaharu." />
 	<Hero id="lord_1_naito_1"
 		  faction="Faction.clan_naito_1"
 		  spouse="Hero.lord_1_naito"
-		  text="{=niI9dpuu}Naito Hisagi." />
+		  text="{=niI9dpuu}Naitou Hisagi." />
 	<Hero id="lord_1_naito_2"
 		  faction="Faction.clan_naito_1"
-		  text="{=niI9dpuu}Naito Motoyasu." />
+		  text="{=niI9dpuu}Naitou Motoyasu." />
 	<!--Nanjou clan-->
 	<Hero id="lord_1_nanjo"
 		  faction="Faction.clan_nanjo_1"
@@ -425,7 +425,7 @@
 		  alive="false"
 		  faction="Faction.clan_ukita_1"
 		  spouse="Hero.dead_lord_1_ukita_1"
-		  text="{=niI9dpuu}Ukita Zenjo-in." />
+		  text="{=niI9dpuu}Ukita Zenjou-in." />
 	<!--akashi clan-->
 	<Hero id="lord_1_akashi"
 		  faction="Faction.clan_akashi_1"

@@ -118,7 +118,7 @@
   </NPCCharacter>
   <!--kashuji clan-->
   <!--leader-->
-  <NPCCharacter id="lord_1_kashuji" name="{=RzWxJC41}Kashuji Motoaki" age="38" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kashuji" name="{=RzWxJC41}Kajūji Motoaki" age="38" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="38.00" weight="0.3629" build="0.1046" key="0038D40EC00007C3A578764747B6642972658A59488B47A9D54B77D54889C8880072560307CAC27A00000000000000000000000000000000000000004CE40040" />
     </face>
@@ -138,7 +138,7 @@
       <EquipmentSet id="nankai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_kashuji_1" name="{=vT8u3noP}Kashuji Fuki" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kashuji_1" name="{=vT8u3noP}Kajūji Fuki" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="38.00" weight="0.3632" build="0.5092" key="0012F40EC00000040F8198932C2C84A4BCD38778EB367CB60E57257B821D886E00385603036412AE00000000000000000000000000000000000000004E641101" />
     </face>
@@ -156,7 +156,7 @@
     </Equipments>
   </NPCCharacter>
   <!--son-->
-  <NPCCharacter id="lord_1_kashuji_2" name="{=GZEDDxOG}Kashuji Motonori" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kashuji_2" name="{=GZEDDxOG}Kajūji Motonori" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.7578" build="0.7322" key="001BD80EC0000142866767A735B46A6A42766A568BC945BAC62C47A56899BD88057BB65707C9C359000000000000000000000000000000000000000024EC0101" />
     </face>
@@ -176,7 +176,7 @@
       <EquipmentSet id="nankai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_kashuji_3" name="{=KDfcebZ7}Kashuji Sayuri" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kashuji_3" name="{=KDfcebZ7}Kajūji Sayuri" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.5393" build="0.2474" key="0015EC0E000000065D85EA91114311663AF4851F93B6B0541CA4B9778E7856EC0C6486C20970208B000000000000000000000000000000000000000000D42040" />
     </face>
@@ -611,7 +611,7 @@
   <!--chosokabe clan-->
   <!--parents-->
   <!--Leader-->
-  <NPCCharacter id="lord_1_chosokabe" name="{=EFVk0L5h}Chosokabe Motochika" age="29" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_chosokabe" name="{=EFVk0L5h}Chousokabe Motochika" age="29" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="29.00" weight="0.1478" build="0.2865" key="0023C80E800000C49461698776C75389C267798759FC48BBC23B8D755889DDA80464264606B69348000000000000000000000000000000000000000040CC0082" />
     </face>
@@ -631,7 +631,7 @@
       <EquipmentSet id="nankai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_chosokabe_1" name="{=6CK8HDZR}Chosokabe Amane" age="30" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_chosokabe_1" name="{=6CK8HDZR}Chousokabe Amane" age="30" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="30.00" weight="0.0818" build="0.2501" key="001EDC0B00000005A685C8DA6DD3EDBE6FE0845ACE1536ED4D8E1887875B0CCE03241635021373C20000000000000000000000000000000000000000483C1041" />
     </face>
@@ -649,7 +649,7 @@
     </Equipments>
   </NPCCharacter>
   <!--children-->
-  <NPCCharacter id="lord_1_chosokabe_2" name="{=s6nTS5jf}Chosokabe Nobuchika" age="3" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_chosokabe_2" name="{=s6nTS5jf}Chousokabe Nobuchika" age="3" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="3.00" weight="0.3227" build="0.3066" key="0025D40EC0000601B77277A88DC7693A52657A69B9CD4758C5288B953889CC780765567806C6937B000000000000000000000000000000000000000044DC0081" />
     </face>
@@ -669,7 +669,7 @@
       <EquipmentSet id="nankai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_chosokabe_3" name="{=OdLEdQd3}Chosokabe Chikakazu" age="1" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_chosokabe_3" name="{=OdLEdQd3}Chousokabe Chikakazu" age="1" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="1.00" weight="0.7042" build="0.6889" key="001DF40EC00007019761655788A7574BA27879684BED469AC526AA356899CD88087AB6890797825A00000000000000000000000000000000000000001ADC0103" />
     </face>
@@ -689,7 +689,7 @@
       <EquipmentSet id="nankai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_chosokabe_4" name="{=JVEOWyAi}Chosokabe Suzu" age="2" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_chosokabe_4" name="{=JVEOWyAi}Chousokabe Suzu" age="2" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="2.00" weight="0.4125" build="0.9288" key="0020E00D800000044683D6529D88BD20DFE6848987D41245C07688E78938765B072E6679021558E300000000000000000000000000000000000000001A4C30C1" />
     </face>
@@ -706,7 +706,7 @@
       <EquipmentSet id="nankai_civ_template_default_female" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_chosokabe_5" name="{=MgtskN05}Chosokabe Honoka" age="4" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_chosokabe_5" name="{=MgtskN05}Chousokabe Honoka" age="4" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="4.00" weight="0.2151" build="0.8576" key="0014E00F000000059C8D673A72773E30F8F183745D6D23158C6136AD812D85CF061D36680121672D000000000000000000000000000000000000000054242000" />
     </face>
@@ -723,7 +723,7 @@
       <EquipmentSet id="nankai_civ_template_default_female" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_chosokabe_6" name="{=ufdDL1IS}Chosokabe Ako" age="2" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_chosokabe_6" name="{=ufdDL1IS}Chousokabe Ako" age="2" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="2.00" weight="0.1912" build="0.5458" key="0012E00F80000001158C316B3A563BCEE3D3815D73D7399783928BEE8A8876BE017836130713198A000000000000000000000000000000000000000012EC1100" />
     </face>
@@ -742,7 +742,7 @@
   </NPCCharacter>
   <!--kosokabe clan-->
   <!--Leader-->
-  <NPCCharacter id="lord_1_kosokabe" name="{=U9RsqAwX}Kosokabe Chikayasu" age="25" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kosokabe" name="{=U9RsqAwX}Kousokabe Chikayasu" age="25" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="25.00" weight="0.5028" build="0.5505" key="0031D40E400001038574758687B6775A82786A7A6BBA388AC34958C53889DA980278862407C7A387000000000000000000000000000000000000000046DC00C1" />
     </face>
@@ -762,7 +762,7 @@
       <EquipmentSet id="nankai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_kosokabe_1" name="{=RySY5fQu}Kosokabe Yuzuha" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kosokabe_1" name="{=RySY5fQu}Kousokabe Yuzuha" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="28.00" weight="0.4148" build="0.8916" key="001DE00D800000043B8567DC34E74C5F32C28464AD61678E9D689CD68D92489B048D6645081407A800000000000000000000000000000000000000006B1430C0" />
     </face>
@@ -879,9 +879,9 @@
       <EquipmentSet id="nankai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <!--Hisatake clan-->
+  <!--HiSatake clan-->
   <!--Leader-->
-  <NPCCharacter id="lord_1_hisatake" name="{=pGrd03pI}Hisatake Chikanobu" age="33" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hisatake" name="{=pGrd03pI}HiSatake Chikanobu" age="33" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="33.00" weight="0.2036" build="0.1589" key="0038C40E80000382A663749839B4625981786A796D8E35BBC43BA7753889C9680872368907B8828B000000000000000000000000000000000000000058DC0080" />
     </face>
@@ -902,7 +902,7 @@
     </Equipments>
   </NPCCharacter>
   <!--spouse-->
-  <NPCCharacter id="lord_1_hisatake_1" name="{=kKdyVFsm}Hisatake En" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hisatake_1" name="{=kKdyVFsm}HiSatake En" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="38.00" weight="0.2052" build="0.3876" key="001ED80AC0000004AB8D8E962E35217B6293824201DD3E789BDF40CC88F1D49C07463678042616BD00000000000000000000000000000000000000003E9410C1" />
     </face>
@@ -920,7 +920,7 @@
     </Equipments>
   </NPCCharacter>
   <!--father-->
-  <NPCCharacter id="dead_lord_1_hisatake_2" name="{=Uk8wWxBw}Hisatake Shogen" age="30" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_hisatake_2" name="{=Uk8wWxBw}HiSatake Shogen" age="30" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="30.00" weight="0.5801" build="0.564" key="0039D40E4000014196626558BCB464897278694997F946B8C5394AB56899DE780678966707A8A259000000000000000000000000000000000000000032E40083" />
     </face>
@@ -941,7 +941,7 @@
     </Equipments>
   </NPCCharacter>
   <!--mother-->
-  <NPCCharacter id="dead_lord_1_hisatake_3" name="{=gswXQDd7}Hisatake Mugi" age="43" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_hisatake_3" name="{=gswXQDd7}HiSatake Mugi" age="43" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="43.00" weight="0.2342" build="0.4773" key="0003E40D40000005DB8B678D3775748B2CE682EE91C4EE9D1986B1E788D2A489034746350437739B000000000000000000000000000000000000000028941001" />
     </face>
@@ -959,7 +959,7 @@
     </Equipments>
   </NPCCharacter>
   <!--brother-->
-  <NPCCharacter id="lord_1_hisatake_4" name="{=KwL2BhJu}Hisatake Chikanao" age="28" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hisatake_4" name="{=KwL2BhJu}HiSatake Chikanao" age="28" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="28.00" weight="0.2093" build="0.4519" key="001ADC0E80000382887758B8CCA8739A62758B364D993947D23CB9556899BA880177361307B89347000000000000000000000000000000000000000010DC0043" />
     </face>
@@ -980,7 +980,7 @@
     </Equipments>
   </NPCCharacter>
   <!--brother wife-->
-  <NPCCharacter id="lord_1_hisatake_5" name="{=NMjVGI7u}Hisatake Taka" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hisatake_5" name="{=NMjVGI7u}HiSatake Taka" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="23.00" weight="0.1203" build="0.6852" key="003ED80F00000003CA8184A9942C6BB9FEA5813934AE35754047C48F833159AA037A263507747885000000000000000000000000000000000000000066EC00C1" />
     </face>

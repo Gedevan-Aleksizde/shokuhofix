@@ -2016,9 +2016,9 @@
       <EquipmentSet id="kinai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <!-- Ganshoji Clan -->
+  <!-- Ganshouji Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_ganshoji" name="{=CGMTB5IR}Ganshoji Syoui" age="31" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ganshoji" name="{=CGMTB5IR}Ganshouji Syoui" age="31" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="31.00" weight="0.5428" build="0.6778" key="003CEC0EC000000086607859C7A7744B53687A46597D4997D62A7A953899AD98017A861407D8937900000000000000000000000000000000000000003CEC00C0" />
     </face>
@@ -2039,7 +2039,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_ganshoji_1" name="{=RqrjjOwd}Ganshoji Shomyo-in" age="26" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ganshoji_1" name="{=RqrjjOwd}Ganshouji Shoumyou-in" age="26" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="26.00" weight="0.1216" build="0.7535" key="0035D80B00000003B98C668D651907A667B685B10B3968566C2BC585899BA9EE017B26140772219D00000000000000000000000000000000000000005CF42081" />
     </face>
@@ -2057,7 +2057,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son -->
-  <NPCCharacter id="lord_1_ganshoji_2" name="{=dcTmgzR2}Ganshoji Ken'nin" age="8" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ganshoji_2" name="{=dcTmgzR2}Ganshouji Ken'nin" age="8" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="8.00" weight="0.4815" build="0.669" key="0025C80E40000000A76768783CA6527B92798B79ACF948ABD53C6B5548A9CB78006A760306A7B38700000000000000000000000000000000000000006ECC0081" />
     </face>
@@ -2435,9 +2435,9 @@
       <EquipmentSet id="kinai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <!-- Todo Clan -->
+  <!-- Toudou Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_todo" name="{=A73fNqDB}Todo Torataka" age="52" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_todo" name="{=A73fNqDB}Toudou Torataka" age="52" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="52.00" weight="0.6092" build="0.6827" key="0028D00E40000001A6716878CBC75589D2687A765DCC44AAC54C465548999D98027A962407B9C28A00000000000000000000000000000000000000002AE40081" />
     </face>
@@ -2458,7 +2458,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_todo_1" name="{=wATMO4SF}Todo Ayame" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_todo_1" name="{=wATMO4SF}Toudou Ayame" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="48.00" weight="0.2809" build="0.8575" key="0006D80BC0000005D286EB97E2DE282A9FB08235A8D3483DBA3151E58B4CD5CE062D466702433979000000000000000000000000000000000000000050443040" />
     </face>
@@ -2476,7 +2476,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son 	This son has a wife but hes 12 and shes 13, im skipping her because the game can't do that i think. -->
-  <NPCCharacter id="lord_1_todo_2" name="{=ZkYr4Q04}Todo Takatora" age="12" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_todo_2" name="{=ZkYr4Q04}Toudou Takatora" age="12" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="12.00" weight="0.171" build="0.7415" key="0035C80E40000143957356A7ACC8673A6367799A6D8A45A7C44C56956899D988007B360207B9B287000000000000000000000000000000000000000008EC00C3" />
     </face>
@@ -2497,7 +2497,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son 2 (might not be heir?) -->
-  <NPCCharacter id="lord_1_todo_3" name="{=MRwSxq1k}Todo Takanori" age="19" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_todo_3" name="{=MRwSxq1k}Toudou Takanori" age="19" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="19.00" weight="0.5558" build="0.3584" key="001AC40E40000342966856D646B5769CA2683987A6BE4587D43AAC555899BC680175861407D9834800000000000000000000000000000000000000005EE40081" />
     </face>
@@ -2518,7 +2518,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Daughter -->
-  <NPCCharacter id="lord_1_todo_4" name="{=6F2ikYXs}Todo Fuji" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_todo_4" name="{=6F2ikYXs}Toudou Fuji" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="28.00" weight="0.1579" build="0.2232" key="0019F00E00000004D1843D50F12BFC9F83B683A7C43D54BE956B6E1F88FD298C030326350044745C0000000000000000000000000000000000000000040420C1" />
     </face>
@@ -2536,7 +2536,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Daughter 2 -->
-  <NPCCharacter id="lord_1_todo_5" name="{=VejCmIYn}Todo Tsuta" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_todo_5" name="{=VejCmIYn}Toudou Tsuta" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.2316" build="0.8875" key="001AE00E000000021C85CC35E68E7847D6F187C4C7165598A5945E978D556AEA068D366808463388000000000000000000000000000000000000000073141001" />
     </face>
@@ -2637,7 +2637,7 @@
   </NPCCharacter>
   <!-- Akao Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_akao" name="{=WvVFYg9z}Akao Kiyotsuma" age="54" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_akao" name="{=WvVFYg9z}Akao Kiyotsuna" age="54" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="54.00" weight="0.8008" build="0.8663" key="0023DC0EC00001C2877168968CC8777BB3696A96A78B469BD239888538A99E88057DC65607D9739A000000000000000000000000000000000000000058EC00C0" />
     </face>

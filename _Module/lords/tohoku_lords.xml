@@ -401,9 +401,9 @@
       <EquipmentSet id="ou_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <!-- Nikaido Clan -->
+  <!-- Nikaidou Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_nikaido" name="{=9WmlolIC}Nikaido Moriyoshi" age="24" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_nikaido" name="{=9WmlolIC}Nikaidou Moriyoshi" age="24" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="24.00" weight="0.3948" build="0.5639" key="003DCC0E40000002B668799836C55A5B92674A387CF93879D6395C5548A99D88037866350797B34B000000000000000000000000000000000000000076E40143" />
     </face>
@@ -424,7 +424,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_nikaido_1" name="{=foAJh4Aw}Nikaido Onami" age="27" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_nikaido_1" name="{=foAJh4Aw}Nikaidou Onami" age="27" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="27.00" weight="0.2354" build="0.2043" key="002EF00DC00000019588423521A7D1C3A8E5859C7D94067C83C84D2B818DEEFA06934667092289720000000000000000000000000000000000000000031C0041" />
     </face>
@@ -442,7 +442,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son -->
-  <NPCCharacter id="lord_1_nikaido_2" name="{=4gtrnix8}Nikaido Moritaka" age="7" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_nikaido_2" name="{=4gtrnix8}Nikaidou Moritaka" age="7" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="7.00" weight="0.1739" build="0.5702" key="003AD00E40000001A462679779B57639A3794B3848BA3989D3377A555899CC780A7936A208A6926A000000000000000000000000000000000000000002E40003" />
     </face>
@@ -825,7 +825,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Mother (dead) -->
-  <NPCCharacter id="dead_lord_1_okada_3" name="{=yi11OrT2}Okada Myokei-in" age="63" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_okada_3" name="{=yi11OrT2}Okada Myoukei-in" age="63" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="63.00" weight="0.215" build="0.8199" key="0004EC0CC0000005468DACC982B7754972C1814A6B3A325F9FB26D458684BA9D038C36350820504B0000000000000000000000000000000000000000491C40C1" />
     </face>
@@ -2292,9 +2292,9 @@
     </Equipments>
   </NPCCharacter>
   <!-- Honjou Faction -->
-  <!-- Daihoji Clan -->
+  <!-- Daihouji Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_daihoji" name="{=XUP0oREf}Daihoji Yoshimasu" age="46" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_daihoji" name="{=XUP0oREf}Daihouji Yoshimasu" age="46" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="46.00" weight="0.2707" build="0.4569" key="003AF00E800001C28675689699B4668A61794B6679ED388AD2276A856889CE980667466806C8927B00000000000000000000000000000000000000005ED40140" />
     </face>
@@ -2315,7 +2315,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_daihoji_1" name="{=jg1L0wFo}Daihoji One" age="45" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_daihoji_1" name="{=jg1L0wFo}Daihouji One" age="45" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="45.00" weight="0.3495" build="0.9149" key="0011F40A80000003CE862546357AF2183AA483D0E95880CD23C9B1CD8D7076CA071E56790116324300000000000000000000000000000000000000002E241080" />
     </face>
@@ -2333,7 +2333,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son (aged up from 17 because married) -->
-  <NPCCharacter id="lord_1_daihoji_2" name="{=p4t1iXm5}Daihoji Yoshiuji" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_daihoji_2" name="{=p4t1iXm5}Daihouji Yoshiuji" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.1744" build="0.11" key="0037E00E80000481A66856585BA4586CA3764A7A8BBB377AD62A86C54899BC980572365707B8733A000000000000000000000000000000000000000018E40101" />
     </face>
@@ -2354,7 +2354,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son Spouse -->
-  <NPCCharacter id="lord_1_daihoji_3" name="{=8hFeGd0I}Daihoji Yumi" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_daihoji_3" name="{=8hFeGd0I}Daihouji Yumi" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.4752" build="0.4206" key="002BF00C80000003A285741B816B798995E387642C5017BA77B18A4B8E408CFA002676030271492400000000000000000000000000000000000000002E3C1041" />
     </face>
@@ -2372,7 +2372,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son 2 -->
-  <NPCCharacter id="lord_1_daihoji_4" name="{=RhHRQkPQ}Daihoji Yoshioki" age="14" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_daihoji_4" name="{=RhHRQkPQ}Daihouji Yoshioki" age="14" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="14.00" weight="0.4601" build="0.3389" key="0037D80E8000068196617A8796A4776B82785966698C4668D43A58655899D9980675766707C9A25900000000000000000000000000000000000000000CDC0102" />
     </face>

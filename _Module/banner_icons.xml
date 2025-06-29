@@ -146,7 +146,7 @@
 			<Icon id="814" material_name="sho_cl_mon_chugoku_2" texture_index="3" is_reserved ="true" />
 			<Icon id="815" material_name="sho_cl_mon_chugoku_2" texture_index="4" is_reserved ="true" />
 			<Icon id="816" material_name="sho_cl_mon_chugoku_2" texture_index="5" is_reserved ="true" />
-			<!--Chugoku-->
+			<!--Chūgoku-->
 			<Icon id="633" material_name="sho_cl_mon_chugoku_1" texture_index="0" is_reserved ="true" />
 			<Icon id="634" material_name="sho_cl_mon_chugoku_1" texture_index="1" is_reserved ="true" />
 			<Icon id="635" material_name="sho_cl_mon_chugoku_1" texture_index="2" is_reserved ="true" />
@@ -371,7 +371,7 @@
 			<Color id="205" hex="0xff9b1414" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
 			<!--Aso Yellow-->
 			<Color id="206" hex="0xffc7bc34" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
-			<!--Chosokabe/Aso Black Background-->
+			<!--Chousokabe/Aso Black Background-->
 			<Color id="207" hex="0xff181818" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
 			<!--Miyoshi Green-->
 			<Color id="208" hex="0xff3F7D20" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>

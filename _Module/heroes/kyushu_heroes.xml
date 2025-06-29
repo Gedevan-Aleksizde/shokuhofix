@@ -41,11 +41,11 @@
 	<Hero id="lord_1_sagara_7" faction="Faction.clan_sagara_1" father="Hero.lord_1_sagara_5" mother="Hero.lord_1_sagara_6" text="{=bbvlOOs5}Sagara Umigiri"/>
 	<Hero id="dead_lord_1_sagara_1" alive="false" faction="Faction.clan_sagara_1" spouse="Hero.dead_lord_1_sagara_2" text="{=YNU67geV}Sagara Haruhiro"/>
 	<Hero id="dead_lord_1_sagara_2" alive="false" faction="Faction.clan_sagara_1" spouse="Hero.dead_lord_1_sagara_1" text="{=916pH86X}Sagara Uchijo"/>
-	<!--Indo Clan 6 ids-->
-	<Hero id="lord_1_indo" faction="Faction.clan_indo_1" spouse="Hero.lord_1_indo_1" text="{=dKC0bSr2}Indo Yoriyasu"/>
-	<Hero id="lord_1_indo_1" faction="Faction.clan_indo_1" spouse="Hero.lord_1_indo" text="{=0K6M8tdY}Indo Myokei-ni"/>
-	<Hero id="lord_1_indo_2" faction="Faction.clan_indo_1" father="Hero.lord_1_indo" mother="Hero.lord_1_indo_1" text="{=EmtnyFBl}Indo Yorimori"/>
-	<Hero id="lord_1_indo_3" faction="Faction.clan_indo_1" father="Hero.lord_1_indo" mother="Hero.lord_1_indo_1" text="{=MSsRSBtV}Indo Yusura"/>
+	<!--Indou Clan 6 ids-->
+	<Hero id="lord_1_indo" faction="Faction.clan_indo_1" spouse="Hero.lord_1_indo_1" text="{=dKC0bSr2}Indou Yoriyasu"/>
+	<Hero id="lord_1_indo_1" faction="Faction.clan_indo_1" spouse="Hero.lord_1_indo" text="{=0K6M8tdY}Indou Myoukei-ni"/>
+	<Hero id="lord_1_indo_2" faction="Faction.clan_indo_1" father="Hero.lord_1_indo" mother="Hero.lord_1_indo_1" text="{=EmtnyFBl}Indou Yorimori"/>
+	<Hero id="lord_1_indo_3" faction="Faction.clan_indo_1" father="Hero.lord_1_indo" mother="Hero.lord_1_indo_1" text="{=MSsRSBtV}Indou Yusura"/>
 	<!--Amakusa Clan 9 ids-->
 	<Hero id="lord_1_amakusa" faction="Faction.clan_amakusa_1" spouse="Hero.lord_1_amakusa_1" text="{=nnG2BZn7}Amakusa Shigenao"/>
 	<Hero id="lord_1_amakusa_1" faction="Faction.clan_amakusa_1" spouse="Hero.lord_1_amakusa" text="{=L9k5QuOT}Amakusa Chidori"/>
@@ -118,7 +118,7 @@
 	<Hero id="lord_1_kai_3" faction="Faction.clan_kai_1" father="Hero.lord_1_kai" mother="Hero.lord_1_kai_1" text="{=0dn4iBEk}Kai Chikamasa"/>
 	<Hero id="lord_1_kai_4" faction="Faction.clan_kai_1" father="Hero.lord_1_kai" mother="Hero.lord_1_kai_1" text="{=1erzaD8X}Kai Nobunari"/>
 	<!--nawa_clan 7 ids-->
-	<Hero id="lord_1_nawa" faction="Faction.clan_nawa_1" spouse="Hero.lord_1_nawa_1" text="{=nCvG3JeX}nawa Yukinao"/>
+	<Hero id="lord_1_nawa" faction="Faction.clan_nawa_1" spouse="Hero.lord_1_nawa_1" text="{=nCvG3JeX}Nawa Yukinao"/>
 	<Hero id="lord_1_nawa_1" faction="Faction.clan_nawa_1" spouse="Hero.lord_1_nawa" text="{=ZQpSL7UA}Nawa Anzu"/>
 	<Hero id="lord_1_nawa_2" faction="Faction.clan_nawa_1" father="Hero.lord_1_nawa" mother="Hero.lord_1_nawa_1" text="{=SQP2yZeu}Nawa Akitaka"/>
 	<Hero id="lord_1_nawa_3" faction="Faction.clan_nawa_1" father="Hero.lord_1_nawa" mother="Hero.lord_1_nawa_1" text="{=KrF8FmSs}Nawa Akiteru"/>
@@ -237,26 +237,26 @@
 	<Hero id="lord_1_shimazu_10" faction="Faction.clan_shimazu_1" spouse="Hero.lord_1_shimazu_9" text="{=LvRRedWW}Shimazu Nagi"/>
 	<Hero id="lord_1_shimazu_11" faction="Faction.clan_shimazu_1" text="{=X2sLljXc}Shimazu Takahisa"/>
 	<Hero id="dead_lord_1_shimazu_2" alive="false" faction="Faction.clan_shimazu_1" text="{=hShr91A7}Shimazu Lady Sesso"/>
-	<!--Clan Ijuin 11 ids-->
-	<Hero id="lord_1_ijuin" faction="Faction.clan_ijuin_1" spouse="Hero.lord_1_ijuin_1" father="Hero.lord_1_ijuin_10" mother="Hero.lord_1_ijuin_11" text="{=UdtsY26m}Ijuin Tadaao"/>
-	<Hero id="lord_1_ijuin_1" faction="Faction.clan_ijuin_1" spouse="Hero.lord_1_ijuin" text="{=a5ytpM6f}Ijuin Shizuku"/>
-	<Hero id="lord_1_ijuin_2" faction="Faction.clan_ijuin_1" spouse="Hero.lord_1_ijuin_3" father="Hero.lord_1_ijuin" mother="Hero.lord_1_ijuin_1" text="{=gJxQjIhn}Ijuin Tadamune"/>
-	<Hero id="lord_1_ijuin_3" faction="Faction.clan_ijuin_1" spouse="Hero.lord_1_ijuin_2" text="{=60Aeo2HK}Ijuin Kusafuji"/>
-	<Hero id="lord_1_ijuin_4" faction="Faction.clan_ijuin_1" father="Hero.lord_1_ijuin" mother="Hero.lord_1_ijuin_1" text="{=t99JjHho}Ijuin Harunari"/>
-	<Hero id="lord_1_ijuin_5" faction="Faction.clan_ijuin_1" spouse="Hero.lord_1_ijuin_6" father="Hero.lord_1_ijuin_10" mother="Hero.lord_1_ijuin_11" text="{=YiDzP43I}Ijuin Tadatane"/>
-	<Hero id="lord_1_ijuin_6" faction="Faction.clan_ijuin_1" spouse="Hero.lord_1_ijuin_5" text="{=ltdCwtlK}Ijuin Hikari"/>
-	<Hero id="lord_1_ijuin_7" faction="Faction.clan_ijuin_1" spouse="Hero.lord_1_ijuin_8" father="Hero.lord_1_ijuin_5" mother="Hero.lord_1_ijuin_6" text="{=CtPTpklz}Ijuin Hisanobu"/>
-	<Hero id="lord_1_ijuin_8" faction="Faction.clan_ijuin_1" spouse="Hero.lord_1_ijuin_7" text="{=0PAYYOYo}Ijuin Sasayuri"/>
-	<Hero id="lord_1_ijuin_9" faction="Faction.clan_ijuin_1" father="Hero.lord_1_ijuin_2" mother="Hero.lord_1_ijuin_3" text="{=t99JjHho}Ijuin Harunari"/>
-	<Hero id="lord_1_ijuin_10" faction="Faction.clan_ijuin_1" spouse="Hero.lord_1_ijuin_11" text="{=xTIL6Lf0}Ijuin Tadaaki"/>
-	<Hero id="lord_1_ijuin_11" faction="Faction.clan_ijuin_1" spouse="Hero.lord_1_ijuin_10" text="{=j5q1b0ZO}Ijuin Murasaki"/>
-	<!--Clan Hongo 6 ids-->
-	<Hero id="lord_1_hongo" faction="Faction.clan_hongo_1" spouse="Hero.lord_1_hongo_1" father="Hero.lord_1_hongo_4" mother="Hero.lord_1_hongo_5" text="{=a7Bus3qz}Hongo Tokihisa"/>
-	<Hero id="lord_1_hongo_1" faction="Faction.clan_hongo_1" spouse="Hero.lord_1_hongo" text="{=YBDz0cMr}Hongo Higiri"/>
-	<Hero id="lord_1_hongo_2" faction="Faction.clan_hongo_1" father="Hero.lord_1_hongo" mother="Hero.lord_1_hongo_1" text="{=SpjpkISo}Hongo Sukehisa"/>
-	<Hero id="lord_1_hongo_3" faction="Faction.clan_hongo_1" father="Hero.lord_1_hongo" mother="Hero.lord_1_hongo_1" text="{=jp7XzhCN}Hongo Tadatora"/>
-	<Hero id="lord_1_hongo_4" faction="Faction.clan_hongo_1" spouse="Hero.lord_1_hongo_5" text="{=9j0CtAEy}Hongo Tadachika"/>
-	<Hero id="lord_1_hongo_5" faction="Faction.clan_hongo_1" spouse="Hero.lord_1_hongo_4" text="{=Fm7HitzI}Hongo Hasu"/>
+	<!--Clan Ijūin 11 ids-->
+	<Hero id="lord_1_ijuin" faction="Faction.clan_ijuin_1" spouse="Hero.lord_1_ijuin_1" father="Hero.lord_1_ijuin_10" mother="Hero.lord_1_ijuin_11" text="{=UdtsY26m}Ijūin Tadaao"/>
+	<Hero id="lord_1_ijuin_1" faction="Faction.clan_ijuin_1" spouse="Hero.lord_1_ijuin" text="{=a5ytpM6f}Ijūin Shizuku"/>
+	<Hero id="lord_1_ijuin_2" faction="Faction.clan_ijuin_1" spouse="Hero.lord_1_ijuin_3" father="Hero.lord_1_ijuin" mother="Hero.lord_1_ijuin_1" text="{=gJxQjIhn}Ijūin Tadamune"/>
+	<Hero id="lord_1_ijuin_3" faction="Faction.clan_ijuin_1" spouse="Hero.lord_1_ijuin_2" text="{=60Aeo2HK}Ijūin Kusafuji"/>
+	<Hero id="lord_1_ijuin_4" faction="Faction.clan_ijuin_1" father="Hero.lord_1_ijuin" mother="Hero.lord_1_ijuin_1" text="{=t99JjHho}Ijūin Harunari"/>
+	<Hero id="lord_1_ijuin_5" faction="Faction.clan_ijuin_1" spouse="Hero.lord_1_ijuin_6" father="Hero.lord_1_ijuin_10" mother="Hero.lord_1_ijuin_11" text="{=YiDzP43I}Ijūin Tadatane"/>
+	<Hero id="lord_1_ijuin_6" faction="Faction.clan_ijuin_1" spouse="Hero.lord_1_ijuin_5" text="{=ltdCwtlK}Ijūin Hikari"/>
+	<Hero id="lord_1_ijuin_7" faction="Faction.clan_ijuin_1" spouse="Hero.lord_1_ijuin_8" father="Hero.lord_1_ijuin_5" mother="Hero.lord_1_ijuin_6" text="{=CtPTpklz}Ijūin Hisanobu"/>
+	<Hero id="lord_1_ijuin_8" faction="Faction.clan_ijuin_1" spouse="Hero.lord_1_ijuin_7" text="{=0PAYYOYo}Ijūin Sasayuri"/>
+	<Hero id="lord_1_ijuin_9" faction="Faction.clan_ijuin_1" father="Hero.lord_1_ijuin_2" mother="Hero.lord_1_ijuin_3" text="{=t99JjHho}Ijūin Harunari"/>
+	<Hero id="lord_1_ijuin_10" faction="Faction.clan_ijuin_1" spouse="Hero.lord_1_ijuin_11" text="{=xTIL6Lf0}Ijūin Tadaaki"/>
+	<Hero id="lord_1_ijuin_11" faction="Faction.clan_ijuin_1" spouse="Hero.lord_1_ijuin_10" text="{=j5q1b0ZO}Ijūin Murasaki"/>
+	<!--Clan Hongou 6 ids-->
+	<Hero id="lord_1_hongo" faction="Faction.clan_hongo_1" spouse="Hero.lord_1_hongo_1" father="Hero.lord_1_hongo_4" mother="Hero.lord_1_hongo_5" text="{=a7Bus3qz}Hongou Tokihisa"/>
+	<Hero id="lord_1_hongo_1" faction="Faction.clan_hongo_1" spouse="Hero.lord_1_hongo" text="{=YBDz0cMr}Hongou Higiri"/>
+	<Hero id="lord_1_hongo_2" faction="Faction.clan_hongo_1" father="Hero.lord_1_hongo" mother="Hero.lord_1_hongo_1" text="{=SpjpkISo}Hongou Sukehisa"/>
+	<Hero id="lord_1_hongo_3" faction="Faction.clan_hongo_1" father="Hero.lord_1_hongo" mother="Hero.lord_1_hongo_1" text="{=jp7XzhCN}Hongou Tadatora"/>
+	<Hero id="lord_1_hongo_4" faction="Faction.clan_hongo_1" spouse="Hero.lord_1_hongo_5" text="{=9j0CtAEy}Hongou Tadachika"/>
+	<Hero id="lord_1_hongo_5" faction="Faction.clan_hongo_1" spouse="Hero.lord_1_hongo_4" text="{=Fm7HitzI}Hongou Hasu"/>
 	<!--kimotsuki clan 8 ids-->
 	<Hero id="lord_1_kimotsuki" faction="Faction.clan_kimotsuki_1" spouse="Hero.lord_1_kimotsuki_1" father="Hero.dead_lord_1_kimotsuki_1" mother="Hero.lord_1_kimotsuki_6" text="{=J1KrYoB2}Kimotsuki Yoshikane"/>
 	<Hero id="lord_1_kimotsuki_1" faction="Faction.clan_kimotsuki_1" spouse="Hero.lord_1_kimotsuki" text="{=blCzYNBm}Kimotsuki Takashiro"/>

@@ -401,7 +401,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_hojo_1" name="{=RSvvwQuG}Houjou Hosho-in" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hojo_1" name="{=RSvvwQuG}Houjou Housho-in" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="28.00" weight="0.4723" build="0.9505" key="0015F40DC0000004B981EA392851C57DA4B482DAD5BB3B5EB77170A8896F628C088E768908616790000000000000000000000000000000000000000076FC0080" />
     </face>
@@ -1242,7 +1242,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Grandmother (Dead) -->
-  <NPCCharacter id="dead_lord_1_narita_5" name="{=PiGMjXxP}Narita Myoko-in" age="73" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_narita_5" name="{=PiGMjXxP}Narita Myuokou-in" age="73" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="73.00" weight="0.2941" build="0.8648" key="0014DC0E000000063A8D09E69EEAF8B1A4B5812762465157BC9DA5CD895C9CBD016D461306152268000000000000000000000000000000000000000022D44040" />
     </face>

@@ -10,7 +10,7 @@
 	<Hero id="lord_1_yamazaki" faction="Faction.clan_yamazaki_1" spouse="Hero.lord_1_yamazaki_1" father="Hero.dead_lord_1_yamazaki_2" mother="Hero.dead_lord_1_yamazaki_3" text="{=zHzGUOYl}Yamazaki Yoshiie"/>
 	<Hero id="lord_1_yamazaki_1" faction="Faction.clan_yamazaki_1" spouse="Hero.lord_1_yamazaki" text="{=nTqCvCWT}Yamazaki Icho"/>
 	<Hero id="dead_lord_1_yamazaki_2" alive="false" faction="Faction.clan_yamazaki_1" spouse="Hero.dead_lord_1_yamazaki_3" text="{=byu8D8HC}Yamazaki Nagayoshi"/>
-	<Hero id="dead_lord_1_yamazaki_3" alive="false" faction="Faction.clan_yamazaki_1" spouse="Hero.dead_lord_1_yamazaki_2" text="{=maSOGXrZ}Yamazaki Shomyo-in"/>
+	<Hero id="dead_lord_1_yamazaki_3" alive="false" faction="Faction.clan_yamazaki_1" spouse="Hero.dead_lord_1_yamazaki_2" text="{=maSOGXrZ}Yamazaki Shoumyou-in"/>
 	<Hero id="lord_1_yamazaki_4" faction="Faction.clan_yamazaki_1" father="Hero.lord_1_yamazaki" mother="Hero.lord_1_yamazaki_1" text="{=MxewE2UB}Yamazaki Yoshitake"/>
 	<Hero id="lord_1_yamazaki_5" faction="Faction.clan_yamazaki_1" spouse="Hero.lord_1_yamazaki_6" father="Hero.dead_lord_1_yamazaki_2" mother="Hero.dead_lord_1_yamazaki_3" text="{=X5qVfju7}Yamazaki Yoshinobu"/>
 	<Hero id="lord_1_yamazaki_6" faction="Faction.clan_yamazaki_1" spouse="Hero.lord_1_yamazaki_5" text="{=K5vrtqxW}Yamazaki Kogiku"/>
@@ -87,7 +87,7 @@
 	<Hero id="dead_lord_1_notohatakeyama_3" alive="false" faction="Faction.clan_notohatakeyama_1" spouse="Hero.dead_lord_1_notohatakeyama_2" text="{=L7cUrjNA}Noto-Hatakeyama Keisei-in"/>
 	<Hero id="lord_1_notohatakeyama_4" faction="Faction.clan_notohatakeyama_1" father="Hero.dead_lord_1_notohatakeyama_2" mother="Hero.dead_lord_1_notohatakeyama_3" text="{=MzeRfL4G}Noto-Hatakeyama Yoshitaka"/>
 	<!--Cho Clan-->
-	<Hero id="lord_1_cho" faction="Faction.clan_cho_1" spouse="Hero.lord_1_cho_1" text="{=Ykm1ZcKt}Cho Tsugutura"/>
+	<Hero id="lord_1_cho" faction="Faction.clan_cho_1" spouse="Hero.lord_1_cho_1" text="{=Ykm1ZcKt}Cho Tsugutsura"/>
 	<Hero id="lord_1_cho_1" faction="Faction.clan_cho_1" spouse="Hero.lord_1_cho" text="{=54P6AoCQ}Cho Kine"/>
 	<Hero id="lord_1_cho_2" faction="Faction.clan_cho_1" spouse="Hero.lord_1_cho_3" father="Hero.lord_1_cho" mother="Hero.lord_1_cho_1" text="{=BH4qApyf}Cho Tsunatsura"/>
 	<Hero id="lord_1_cho_3" faction="Faction.clan_cho_1" spouse="Hero.lord_1_cho_2" text="{=mxxEQmKL}Cho Chiho"/>
@@ -210,9 +210,9 @@
 	Uesugi Clan-->
 	<Hero id="lord_1_uesugi" faction="Faction.clan_uesugi_1" father="Hero.dead_lord_1_uesugi_1" mother="Hero.lord_1_uesugi_2" text="{=qNbyhQaj}Uesugi Kenshin"/>
 	<!--Step dad because Kenshin was adopted, but bannerlord can't do that so congratulations they're your real parents now.-->
-	<Hero id="dead_lord_1_uesugi_1" alive="false" faction="Faction.clan_uesugi_1" spouse="Hero.lord_1_uesugi_2" text="{=6etIEETB}uesugi Tamekage"/>
+	<Hero id="dead_lord_1_uesugi_1" alive="false" faction="Faction.clan_uesugi_1" spouse="Hero.lord_1_uesugi_2" text="{=6etIEETB}Uesugi Tamekage"/>
 	<!--can they be married to a dead guy? might need to remove-->
-	<Hero id="lord_1_uesugi_2" faction="Faction.clan_uesugi_1" spouse="Hero.dead_lord_1_uesugi_1" text="{=Weis43hU}uesugi Seigan-in"/>
+	<Hero id="lord_1_uesugi_2" faction="Faction.clan_uesugi_1" spouse="Hero.dead_lord_1_uesugi_1" text="{=Weis43hU}Uesugi Seigan-in"/>
 	<Hero id="lord_1_uesugi_3" faction="Faction.clan_uesugi_1" spouse="Hero.dead_lord_1_uesugi_4" father="Hero.dead_lord_1_uesugi_1" mother="Hero.lord_1_uesugi_2" text="{=8Iv9ecNC}Uesugi Aya"/>
 	<!--another dead guy marriage-->
 	<Hero id="dead_lord_1_uesugi_4" alive="false" faction="Faction.clan_uesugi_1" spouse="Hero.lord_1_uesugi_3" text="{=8Iv9ecNC}Uesugi Aya"/>

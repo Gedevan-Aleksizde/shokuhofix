@@ -23,7 +23,7 @@
 	<Faction id="clan_utsunomiya_1" is_noble="true" name="{=2u6WvxxW}Utsunomiya-shi" tier="5" owner="Hero.lord_1_utsunomiya" culture="Culture.kanto" super_faction="Kingdom.utsunomiya" banner_key="11.163.166.1528.1528.764.764.1.0.0.617.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_haga_1" is_noble="true" name="{=9zQ8kYAR}Haga-shi" tier="4" owner="Hero.lord_1_haga" culture="Culture.kanto" super_faction="Kingdom.utsunomiya" banner_key="11.163.166.1528.1528.764.764.1.0.0.617.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_kasama_1" is_noble="true" name="{=3cIhQHtN}Kasama-shi" tier="4" owner="Hero.lord_1_kasama" culture="Culture.kanto" super_faction="Kingdom.utsunomiya" banner_key="11.163.166.1528.1528.764.764.1.0.0.735.171.171.483.483.764.764.0.0.0"/>
-	<!--satake Faction-->
+	<!--Satake Faction-->
 	<Faction id="clan_satake_1" is_noble="true" name="{=DOFvDvMn}Satake-shi" tier="6" owner="Hero.lord_1_satake" culture="Culture.kanto" super_faction="Kingdom.satake" banner_key="11.163.166.1528.1528.764.764.1.0.0.736.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_edo_1" is_noble="true" name="{=L1YBjtAz}Edo-shi" tier="5" owner="Hero.lord_1_edo" culture="Culture.kanto" super_faction="Kingdom.satake" banner_key="11.163.166.1528.1528.764.764.1.0.0.737.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_daijo_1" is_noble="true" name="{=M0xrXK9O}Daijo-shi" tier="4" owner="Hero.lord_1_daijo" culture="Culture.kanto" super_faction="Kingdom.satake" banner_key="11.163.166.1528.1528.764.764.1.0.0.738.171.171.483.483.764.764.0.0.0"/>

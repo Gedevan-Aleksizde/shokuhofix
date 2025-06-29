@@ -537,7 +537,7 @@
     </Equipments>
   </NPCCharacter>
   <!--naito clan-->
-  <NPCCharacter id="lord_1_naito" name="{=shokuho7FD2A41a}Naito Masayori" age="55" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_naito" name="{=shokuho7FD2A41a}Naitou Masayori" age="55" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="55.00" weight="0.214" build="0.4432" key="003EE00E40000783A67468B737C6666AA1767977A8784A59D33D9575588999980367363506A7923A000000000000000000000000000000000000000050CC00C1"/>
     </face>
@@ -557,7 +557,7 @@
       <EquipmentSet id="sanyo_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_naito_1" name="{=shokuhoE7F4EAa9}Naito omiya" age="55" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_naito_1" name="{=shokuhoE7F4EAa9}Naitou omiya" age="55" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="55.00" weight="0.2351" build="0.9472" key="001FDC0E000000022484F26664ED896DFB9383E024D4D15BAF2649B888603CCD046E46450605485600000000000000000000000000000000000000003AC41100"/>
     </face>
@@ -575,7 +575,7 @@
     </Equipments>
   </NPCCharacter>
   <!--relative-->
-  <NPCCharacter id="lord_1_naito_2" name="{=shokuho6Da0dc87}Naito Motoyasu" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_naito_2" name="{=shokuho6Da0dc87}Naitou Motoyasu" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.593" build="0.2978" key="0029EC0E40000602B4637676ABB7592BC2655A3AA97D359AC3277BC558A988880264962406C89288000000000000000000000000000000000000000074CC0000"/>
     </face>
@@ -1432,7 +1432,7 @@
       <EquipmentSet id="sanyo_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="dead_lord_1_ukita_2" name="{=shokuho5984fb0E}Ukita Zenjo-in" age="46" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_ukita_2" name="{=shokuho5984fb0E}Ukita Zenjou-in" age="46" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="46.00" weight="0.5312" build="0.3081" key="0018DC0F80000001BA81A34D3865802086F481DA31013BCF5F2D57598A1C45EC07058678007061640000000000000000000000000000000000000000420C1000"/>
     </face>

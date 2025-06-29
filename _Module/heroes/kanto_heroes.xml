@@ -26,7 +26,7 @@
 	<!--Houjou Faction-->
 	<!--Houjou Clan-->
 	<Hero id="lord_1_hojo" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo_1" father="Hero.lord_1_hojo_2" mother="Hero.lord_1_hojo_3" text="{=P3zTiZCm}Houjou Ujimasa"/>
-	<Hero id="lord_1_hojo_1" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo" text="{=RSvvwQuG}Houjou Hosho-in"/>
+	<Hero id="lord_1_hojo_1" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo" text="{=RSvvwQuG}Houjou Housho-in"/>
 	<Hero id="lord_1_hojo_2" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo_3" text="{=fpxfCA95}Houjou Ujiyasu"/>
 	<Hero id="lord_1_hojo_3" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo_2" text="{=w54S5I3N}Houjou Zuikei-in"/>
 	<Hero id="lord_1_hojo_4" faction="Faction.clan_hojo_1" father="Hero.lord_1_hojo" mother="Hero.lord_1_hojo_1" text="{=pizr75r3}Houjou Ujinao"/>
@@ -66,13 +66,13 @@
 	<Hero id="lord_1_didoji_1" faction="Faction.clan_didoji_1" spouse="Hero.lord_1_didoji" text="{=HxDyc3ql}Daidouji Shino"/>
 	<Hero id="lord_1_didoji_2" faction="Faction.clan_didoji_1" father="Hero.lord_1_didoji" mother="Hero.lord_1_didoji_1" text="{=nDpdaTzx}Daidouji Naohide"/>
 	<Hero id="lord_1_didoji_3" faction="Faction.clan_didoji_1" father="Hero.lord_1_didoji" mother="Hero.lord_1_didoji_1" text="{=Id4pOfky}Daidouji Naoshige"/>
-	<!--narita Clan-->
+	<!--Narita Clan-->
 	<Hero id="lord_1_narita" faction="Faction.clan_narita_1" spouse="Hero.lord_1_narita_1" father="Hero.lord_1_narita_2" mother="Hero.lord_1_narita_3" text="{=SwQ02lSF}Narita Ujinaga"/>
 	<Hero id="lord_1_narita_1" faction="Faction.clan_narita_1" spouse="Hero.lord_1_narita" text="{=Vm16qd8L}Narita Araragi"/>
 	<Hero id="lord_1_narita_2" faction="Faction.clan_narita_1" spouse="Hero.lord_1_narita_3" father="Hero.dead_lord_1_narita_4" mother="Hero.dead_lord_1_narita_5" text="{=SwQ02lSF}Narita Ujinaga"/>
 	<Hero id="lord_1_narita_3" faction="Faction.clan_narita_1" spouse="Hero.lord_1_narita_2" text="{=Vm16qd8L}Narita Araragi"/>
-	<Hero id="dead_lord_1_narita_4" alive="false" faction="Faction.clan_narita_1" spouse="Hero.dead_lord_1_narita_5" text="{=HvKdwFFQ}narita Chikayasu"/>
-	<Hero id="dead_lord_1_narita_5" alive="false" faction="Faction.clan_narita_1" spouse="Hero.dead_lord_1_narita_4" text="{=ZDygI93n}narita Myoko-in"/>
+	<Hero id="dead_lord_1_narita_4" alive="false" faction="Faction.clan_narita_1" spouse="Hero.dead_lord_1_narita_5" text="{=HvKdwFFQ}Narita Chikayasu"/>
+	<Hero id="dead_lord_1_narita_5" alive="false" faction="Faction.clan_narita_1" spouse="Hero.dead_lord_1_narita_4" text="{=ZDygI93n}Narita Myuokou-in"/>
 	<Hero id="lord_1_narita_6" faction="Faction.clan_narita_1" father="Hero.lord_1_narita" mother="Hero.lord_1_narita_1" text="{=QWiufJBx}Narita Kai"/>
 	<Hero id="lord_1_narita_7" faction="Faction.clan_narita_1" spouse="Hero.lord_1_narita_8" father="Hero.lord_1_narita_2" mother="Hero.lord_1_narita_3" text="{=z0hkNFGC}Narita Yasuchika"/>
 	<Hero id="lord_1_narita_8" faction="Faction.clan_narita_1" spouse="Hero.lord_1_narita_7" text="{=l0dKAD1a}Narita Futaba"/>
@@ -110,7 +110,7 @@
 	<Hero id="dead_lord_1_kogakubo_3" alive="false" faction="Faction.clan_kogakubo_1" spouse="Hero.dead_lord_1_kogakubo_2" text="{=MsX1Hln6}kogakubo Hoshun-in"/>
 	<Hero id="lord_1_kogakubo_4" faction="Faction.clan_kogakubo_1" father="Hero.dead_lord_1_kogakubo_2" mother="Hero.dead_lord_1_kogakubo_3" text="{=9zqTKcqA}Koga-Kubo Fujimasa"/>
 	<Hero id="lord_1_kogakubo_5" faction="Faction.clan_kogakubo_1" father="Hero.dead_lord_1_kogakubo_2" mother="Hero.dead_lord_1_kogakubo_3" text="{=2cUjpzfQ}Koga-Kubo Teruuji"/>
-	<Hero id="lord_1_kogakubo_6" faction="Faction.clan_kogakubo_1" father="Hero.dead_lord_1_kogakubo_2" mother="Hero.dead_lord_1_kogakubo_3" text="{=F9XMsCHI}Koga-Kubo Iekunnu"/>
+	<Hero id="lord_1_kogakubo_6" faction="Faction.clan_kogakubo_1" father="Hero.dead_lord_1_kogakubo_2" mother="Hero.dead_lord_1_kogakubo_3" text="{=F9XMsCHI}Koga-Kubo Iekuni"/>
 	<Hero id="lord_1_kogakubo_7" faction="Faction.clan_kogakubo_1" father="Hero.dead_lord_1_kogakubo_2" mother="Hero.dead_lord_1_kogakubo_3" text="{=olSVCZmf}Koga-Kubo Sato"/>
 	<!--sano Clan-->
 	<Hero id="lord_1_sano" faction="Faction.clan_sano_1" spouse="Hero.lord_1_sano_1" father="Hero.dead_lord_1_sano_2" mother="Hero.dead_lord_1_sano_3" text="{=lVNG6nvY}Sano Masatsuna"/>
@@ -180,11 +180,11 @@
 	<Hero id="lord_1_kasama_2" faction="Faction.clan_kasama_1" spouse="Hero.lord_1_kasama_3" father="Hero.lord_1_kasama" mother="Hero.lord_1_kasama_1" text="{=GhX1cQFn}Kasama Tsunaie"/>
 	<Hero id="lord_1_kasama_3" faction="Faction.clan_kasama_1" spouse="Hero.lord_1_kasama_2" text="{=u6pL0K8t}Kasama Kiku"/>
 	<Hero id="lord_1_kasama_4" faction="Faction.clan_kasama_1" father="Hero.lord_1_kasama" mother="Hero.lord_1_kasama_1" text="{=qs5YLGCM}Kasama Sakon"/>
-	<!--satake Clan-->
+	<!--Satake Clan-->
 	<Hero id="lord_1_satake" faction="Faction.clan_satake_1" spouse="Hero.lord_1_satake_1" father="Hero.dead_lord_1_satake_2" mother="Hero.dead_lord_1_satake_3" text="{=IpGWXGXO}Satake Yoshishige"/>
 	<Hero id="lord_1_satake_1" faction="Faction.clan_satake_1" spouse="Hero.lord_1_satake" text="{=lTEN0uBO}Satake Hoju-in"/>
 	<Hero id="dead_lord_1_satake_2" alive="false" faction="Faction.clan_satake_1" spouse="Hero.dead_lord_1_satake_3" text="{=lEBzZaFW}Satake Yoshiaki"/>
-	<Hero id="dead_lord_1_satake_3" alive="false" faction="Faction.clan_satake_1" spouse="Hero.dead_lord_1_satake_2" text="{=NGUNB04b}satake Kotoku-in"/>
+	<Hero id="dead_lord_1_satake_3" alive="false" faction="Faction.clan_satake_1" spouse="Hero.dead_lord_1_satake_2" text="{=NGUNB04b}Satake Koutoku-in"/>
 	<Hero id="lord_1_satake_4" faction="Faction.clan_satake_1" spouse="Hero.lord_1_satake_5" father="Hero.dead_lord_1_satake_2" mother="Hero.dead_lord_1_satake_3" text="{=cS0BYmEj}Satake Yoshihisa"/>
 	<Hero id="lord_1_satake_5" faction="Faction.clan_satake_1" spouse="Hero.lord_1_satake_4" text="{=O91iIET8}Satake Akane"/>
 	<Hero id="lord_1_satake_6" faction="Faction.clan_satake_1" father="Hero.lord_1_satake_4" mother="Hero.lord_1_satake_5" text="{=TO3KcPYq}Satake Yoshitane"/>

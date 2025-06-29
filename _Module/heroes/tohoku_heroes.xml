@@ -25,10 +25,10 @@
 	<Hero id="lord_1_matsumoto" faction="Faction.clan_matsumoto_1" spouse="Hero.lord_1_matsumoto_1" text="{=PBI1pb9J}Matsumoto Ujisuke"/>
 	<Hero id="lord_1_matsumoto_1" faction="Faction.clan_matsumoto_1" spouse="Hero.lord_1_matsumoto" text="{=VtEfOh9T}Matsumoto Hama"/>
 	<Hero id="lord_1_matsumoto_2" faction="Faction.clan_matsumoto_1" father="Hero.lord_1_matsumoto" mother="Hero.lord_1_matsumoto_1" text="{=wnmhSjVG}Matsumoto Yukisuke"/>
-	<!--Nikaido Clan-->
-	<Hero id="lord_1_nikaido" faction="Faction.clan_nikaido_1" spouse="Hero.lord_1_nikaido_1" text="{=9WmlolIC}Nikaido Moriyoshi"/>
-	<Hero id="lord_1_nikaido_1" faction="Faction.clan_nikaido_1" spouse="Hero.lord_1_nikaido" text="{=foAJh4Aw}Nikaido Onami"/>
-	<Hero id="lord_1_nikaido_2" faction="Faction.clan_nikaido_1" father="Hero.lord_1_nikaido" mother="Hero.lord_1_nikaido_1" text="{=4gtrnix8}Nikaido Moritaka"/>
+	<!--Nikaidou Clan-->
+	<Hero id="lord_1_nikaido" faction="Faction.clan_nikaido_1" spouse="Hero.lord_1_nikaido_1" text="{=9WmlolIC}Nikaidou Moriyoshi"/>
+	<Hero id="lord_1_nikaido_1" faction="Faction.clan_nikaido_1" spouse="Hero.lord_1_nikaido" text="{=foAJh4Aw}Nikaidou Onami"/>
+	<Hero id="lord_1_nikaido_2" faction="Faction.clan_nikaido_1" father="Hero.lord_1_nikaido" mother="Hero.lord_1_nikaido_1" text="{=4gtrnix8}Nikaidou Moritaka"/>
 	<!--Souma Faction-->
 	<!--Souma Clan-->
 	<Hero id="lord_1_soma" faction="Faction.clan_soma_1" spouse="Hero.lord_1_soma_1" text="{=CrgYCr35}Souma Moritane"/>
@@ -56,7 +56,7 @@
 	<Hero id="lord_1_okada" faction="Faction.clan_okada_1" spouse="Hero.lord_1_okada_1" father="Hero.dead_lord_1_okada_2" mother="Hero.dead_lord_1_okada_3" text="{=AabIiWIA}Okada Shigetane"/>
 	<Hero id="lord_1_okada_1" faction="Faction.clan_okada_1" spouse="Hero.lord_1_okada" text="{=o5Zq7Oek}Okada Kai"/>
 	<Hero id="dead_lord_1_okada_2" alive="false" faction="Faction.clan_okada_1" spouse="Hero.dead_lord_1_okada_3" text="{=MCup3o6i}Okada Yoshitane"/>
-	<Hero id="dead_lord_1_okada_3" alive="false" faction="Faction.clan_okada_1" spouse="Hero.dead_lord_1_okada_2" text="{=yi11OrT2}Okada Myokei-in"/>
+	<Hero id="dead_lord_1_okada_3" alive="false" faction="Faction.clan_okada_1" spouse="Hero.dead_lord_1_okada_2" text="{=yi11OrT2}Okada Myoukei-in"/>
 	<Hero id="lord_1_okada_4" faction="Faction.clan_okada_1" father="Hero.lord_1_okada" mother="Hero.lord_1_okada_1" text="{=nMadfoql}Okada Naotane"/>
 	<Hero id="lord_1_okada_5" faction="Faction.clan_okada_1" father="Hero.lord_1_okada" mother="Hero.lord_1_okada_1" text="{=fELklkpF}Okada Tanekage"/>
 	<Hero id="lord_1_okada_6" faction="Faction.clan_okada_1" father="Hero.lord_1_okada" mother="Hero.lord_1_okada_1" text="{=AhCQLCtb}Okada Kiyotane"/>
@@ -145,11 +145,11 @@
 	<Hero id="lord_1_tateoka_3" faction="Faction.clan_tateoka_1" father="Hero.lord_1_tateoka" mother="Hero.lord_1_tateoka_1" text="{=vktTGyQq}Tateoka Mitsuhiro"/>
 	<!--Honjou Faction-->
 	<!--daihoji Clan-->
-	<Hero id="lord_1_daihoji" faction="Faction.clan_daihoji_1" spouse="Hero.lord_1_daihoji_1" text="{=XUP0oREf}Daihoji Yoshimasu"/>
-	<Hero id="lord_1_daihoji_1" faction="Faction.clan_daihoji_1" spouse="Hero.lord_1_daihoji" text="{=jg1L0wFo}Daihoji One"/>
-	<Hero id="lord_1_daihoji_2" faction="Faction.clan_daihoji_1" father="Hero.lord_1_daihoji_3" mother="Hero.lord_1_daihoji_1" text="{=p4t1iXm5}Daihoji Yoshiuji"/>
-	<Hero id="lord_1_daihoji_3" faction="Faction.clan_daihoji_1" spouse="Hero.lord_1_daihoji_2" text="{=8hFeGd0I}Daihoji Yumi"/>
-	<Hero id="lord_1_daihoji_4" faction="Faction.clan_daihoji_1" father="Hero.lord_1_daihoji" mother="Hero.lord_1_daihoji_1" text="{=RhHRQkPQ}Daihoji Yoshioki"/>
+	<Hero id="lord_1_daihoji" faction="Faction.clan_daihoji_1" spouse="Hero.lord_1_daihoji_1" text="{=XUP0oREf}Daihouji Yoshimasu"/>
+	<Hero id="lord_1_daihoji_1" faction="Faction.clan_daihoji_1" spouse="Hero.lord_1_daihoji" text="{=jg1L0wFo}Daihouji One"/>
+	<Hero id="lord_1_daihoji_2" faction="Faction.clan_daihoji_1" father="Hero.lord_1_daihoji_3" mother="Hero.lord_1_daihoji_1" text="{=p4t1iXm5}Daihouji Yoshiuji"/>
+	<Hero id="lord_1_daihoji_3" faction="Faction.clan_daihoji_1" spouse="Hero.lord_1_daihoji_2" text="{=8hFeGd0I}Daihouji Yumi"/>
+	<Hero id="lord_1_daihoji_4" faction="Faction.clan_daihoji_1" father="Hero.lord_1_daihoji" mother="Hero.lord_1_daihoji_1" text="{=RhHRQkPQ}Daihouji Yoshioki"/>
 	<!--Onodera Clan-->
 	<Hero id="lord_1_onodera" faction="Faction.clan_onodera_1" spouse="Hero.lord_1_onodera_1" text="{=M12NsVpR}Onodera Kagemichi"/>
 	<Hero id="lord_1_onodera_1" faction="Faction.clan_onodera_1" spouse="Hero.lord_1_onodera" text="{=WkEGfvdg}Onodera Sen"/>

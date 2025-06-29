@@ -141,7 +141,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Mother (dead) -->
-  <NPCCharacter id="dead_lord_1_yamazaki_3" name="{=maSOGXrZ}Yamazaki Shomyo-in" age="70" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_yamazaki_3" name="{=maSOGXrZ}Yamazaki Shoumyou-in" age="70" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="70.00" weight="0.195" build="0.7799" key="001ADC0B400000021A8D8386E86AC3CFBEB286390BD12D617E9B5BAE89EA8AE9011C3613017284F300000000000000000000000000000000000000006E2C20C0" />
     </face>
@@ -1374,7 +1374,7 @@
   </NPCCharacter>
   <!-- Cho Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_cho" name="{=Ykm1ZcKt}Cho Tsugutura" age="43" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_cho" name="{=Ykm1ZcKt}Cho Tsugutsura" age="43" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="43.00" weight="0.8282" build="0.8943" key="0031D40E40000444A56566B8CDB6675A92665A8A8CAD467BC33A4B655899CC78066DC66806CA827A00000000000000000000000000000000000000006ECC00C1" />
     </face>

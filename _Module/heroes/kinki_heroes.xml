@@ -129,10 +129,10 @@
 	<Hero id="lord_1_honganji_1" faction="Faction.clan_honganji_1" spouse="Hero.lord_1_honganji" text="{=uhGVlVcb}Honganji Nyosyun-ni"/>
 	<Hero id="lord_1_honganji_2" faction="Faction.clan_honganji_1" father="Hero.lord_1_honganji" mother="Hero.lord_1_honganji_1" text="{=ZHgHiq5g}Honganji Kyonyo"/>
 	<Hero id="lord_1_honganji_3" faction="Faction.clan_honganji_1" father="Hero.lord_1_honganji" mother="Hero.lord_1_honganji_1" text="{=dLk4Mfmb}Honganji Kenson"/>
-	<!-- Ganshoji Clan -->
-	<Hero id="lord_1_ganshoji" faction="Faction.clan_ganshoji_1" spouse="Hero.lord_1_ganshoji_1" text="{=CGMTB5IR}Ganshoji Syoui"/>
-	<Hero id="lord_1_ganshoji_1" faction="Faction.clan_ganshoji_1" spouse="Hero.lord_1_ganshoji" text="{=RqrjjOwd}Ganshoji Shomyo-in"/>
-	<Hero id="lord_1_ganshoji_2" faction="Faction.clan_ganshoji_1" spouse="Hero.lord_1_ganshoji" father="Hero.lord_1_ganshoji" mother="Hero.lord_1_ganshoji_1" text="{=dcTmgzR2}Ganshoji Ken'nin"/>
+	<!-- Ganshouji Clan -->
+	<Hero id="lord_1_ganshoji" faction="Faction.clan_ganshoji_1" spouse="Hero.lord_1_ganshoji_1" text="{=CGMTB5IR}Ganshouji Syoui"/>
+	<Hero id="lord_1_ganshoji_1" faction="Faction.clan_ganshoji_1" spouse="Hero.lord_1_ganshoji" text="{=RqrjjOwd}Ganshouji Shoumyou-in"/>
+	<Hero id="lord_1_ganshoji_2" faction="Faction.clan_ganshoji_1" spouse="Hero.lord_1_ganshoji" father="Hero.lord_1_ganshoji" mother="Hero.lord_1_ganshoji_1" text="{=dcTmgzR2}Ganshouji Ken'nin"/>
 	<!-- Rokkaku Faction -->
 	<!-- Rokkaku Clan -->
 	<Hero id="lord_1_rokkaku" faction="Faction.clan_rokkaku_1" spouse="Hero.lord_1_rokkaku_1" text="{=KyBM4EGe}Rokkaku Yoshikata"/>
@@ -156,20 +156,20 @@
 	<Hero id="lord_1_azai_3" faction="Faction.clan_azai_1" spouse="Hero.lord_1_azai_2" text="{=RF8JjIdu}Azai Ako"/>
 	<Hero id="lord_1_azai_4" faction="Faction.clan_azai_1" father="Hero.lord_1_azai_2" mother="Hero.lord_1_azai_3" text="{=Av28pOpi}Azai Masamoto"/>
 	<Hero id="lord_1_azai_5" faction="Faction.clan_azai_1" father="Hero.lord_1_azai_2" mother="Hero.lord_1_azai_3" text="{=VBrMcD42}Azai Masayuki"/>
-	<!--Todo Clan-->
-	<Hero id="lord_1_todo" faction="Faction.clan_todo_1" spouse="Hero.lord_1_todo_1" text="{=A73fNqDB}Todo Torataka"/>
-	<Hero id="lord_1_todo_1" faction="Faction.clan_todo_1" spouse="Hero.lord_1_todo" text="{=wATMO4SF}Todo Ayame"/>
-	<Hero id="lord_1_todo_2" faction="Faction.clan_todo_1" father="Hero.lord_1_todo" mother="Hero.lord_1_todo_1" text="{=ZkYr4Q04}Todo Takatora"/>
-	<Hero id="lord_1_todo_3" faction="Faction.clan_todo_1" father="Hero.lord_1_todo" mother="Hero.lord_1_todo_1" text="{=MRwSxq1k}Todo Takanori"/>
-	<Hero id="lord_1_todo_4" faction="Faction.clan_todo_1" father="Hero.lord_1_todo" mother="Hero.lord_1_todo_1" text="{=6F2ikYXs}Todo Fuji"/>
-	<Hero id="lord_1_todo_5" faction="Faction.clan_todo_1" father="Hero.lord_1_todo" mother="Hero.lord_1_todo_1" text="{=VejCmIYn}Todo Tsuta"/>
+	<!--Toudou Clan-->
+	<Hero id="lord_1_todo" faction="Faction.clan_todo_1" spouse="Hero.lord_1_todo_1" text="{=A73fNqDB}Toudou Torataka"/>
+	<Hero id="lord_1_todo_1" faction="Faction.clan_todo_1" spouse="Hero.lord_1_todo" text="{=wATMO4SF}Toudou Ayame"/>
+	<Hero id="lord_1_todo_2" faction="Faction.clan_todo_1" father="Hero.lord_1_todo" mother="Hero.lord_1_todo_1" text="{=ZkYr4Q04}Toudou Takatora"/>
+	<Hero id="lord_1_todo_3" faction="Faction.clan_todo_1" father="Hero.lord_1_todo" mother="Hero.lord_1_todo_1" text="{=MRwSxq1k}Toudou Takanori"/>
+	<Hero id="lord_1_todo_4" faction="Faction.clan_todo_1" father="Hero.lord_1_todo" mother="Hero.lord_1_todo_1" text="{=6F2ikYXs}Toudou Fuji"/>
+	<Hero id="lord_1_todo_5" faction="Faction.clan_todo_1" father="Hero.lord_1_todo" mother="Hero.lord_1_todo_1" text="{=VejCmIYn}Toudou Tsuta"/>
 	<!--Isono Clan-->
 	<Hero id="lord_1_isono" faction="Faction.clan_isono_1" spouse="Hero.lord_1_isono_1" text="{=kHIiTY6k}Isono Kazumasa"/>
 	<Hero id="lord_1_isono_1" faction="Faction.clan_isono_1" spouse="Hero.lord_1_isono" text="{=aNr0aTAb}Isono Ayame"/>
 	<Hero id="lord_1_isono_2" faction="Faction.clan_isono_1" father="Hero.lord_1_isono" mother="Hero.lord_1_isono_1" text="{=5wrVt0wH}Isono Yukinobu"/>
 	<Hero id="lord_1_isono_3" faction="Faction.clan_isono_1" father="Hero.lord_1_isono" mother="Hero.lord_1_isono_1" text="{=BzIGHgCx}Isono Masanaga"/>
 	<!-- Akao Clan -->
-	<Hero id="lord_1_akao" faction="Faction.clan_akao_1" spouse="Hero.lord_1_akao_1" text="{=WvVFYg9z}Akao Kiyotsuma"/>
+	<Hero id="lord_1_akao" faction="Faction.clan_akao_1" spouse="Hero.lord_1_akao_1" text="{=WvVFYg9z}Akao Kiyotsuna"/>
 	<Hero id="lord_1_akao_1" faction="Faction.clan_akao_1" spouse="Hero.lord_1_akao" text="{=eqrjET0Q}Akao Kiru"/>
 	<Hero id="lord_1_akao_2" faction="Faction.clan_akao_1" father="Hero.lord_1_akao" mother="Hero.lord_1_akao_1" spouse="Hero.lord_1_akao_3" text="{=HGBst1md}Akao Kiyofuyu"/>
 	<Hero id="lord_1_akao_3" faction="Faction.clan_akao_1" spouse="Hero.lord_1_akao_2" text="{=quPWUb7d}Akao Yuki"/>

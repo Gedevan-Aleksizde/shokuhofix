@@ -245,9 +245,9 @@
       <EquipmentSet id="saikai_civ_template_default_female" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <!--Clan Ijuin 11 ids-->
+  <!--Clan Ijūin 11 ids-->
   <!--Parents-->
-  <NPCCharacter id="lord_1_ijuin_10" name="{=xTIL6Lf0}Ijuin Tadaaki" age="68" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ijuin_10" name="{=xTIL6Lf0}Ijūin Tadaaki" age="68" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="68.00" weight="0.2786" build="0.8238" key="0021E40EC00006419671798788A7542AA2767A85BAC9366BC54B379538998C88046C46450698836900000000000000000000000000000000000000001AD40101" />
     </face>
@@ -267,7 +267,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_ijuin_11" name="{=j5q1b0ZO}Ijuin Murasaki" age="68" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ijuin_11" name="{=j5q1b0ZO}Ijūin Murasaki" age="68" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="68.00" weight="0.3439" build="0.2615" key="0010F40F800000046988B6731ECE1E1E6CF384A2D8A79DB9694D8543883F57AE014456130476717500000000000000000000000000000000000000001A7C40C0" />
     </face>
@@ -285,7 +285,7 @@
     </Equipments>
   </NPCCharacter>
   <!--Leader-->
-  <NPCCharacter id="lord_1_ijuin" name="{=UdtsY26m}Ijuin Tadaao" age="48" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ijuin" name="{=UdtsY26m}Ijūin Tadaao" age="48" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="48.00" weight="0.6563" build="0.4935" key="003BE80E40000742957166C99BC5695B73656A3588AC3ABBD53AAC853899BA880767A67806A7836A000000000000000000000000000000000000000050D400C2" />
     </face>
@@ -305,7 +305,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_ijuin_1" name="{=a5ytpM6f}Ijuin Shizuku" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ijuin_1" name="{=a5ytpM6f}Ijūin Shizuku" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="48.00" weight="0.104" build="0.2093" key="0033E80F80000003538D53ABDA0CBD8B8EE5854494D3B1B9D2C22DBB80875EEC0633266703214716000000000000000000000000000000000000000062544000" />
     </face>
@@ -322,7 +322,7 @@
       <EquipmentSet id="saikai_civ_template_default_female" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_ijuin_2" name="{=gJxQjIhn}Ijuin Tadamune" age="27" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ijuin_2" name="{=gJxQjIhn}Ijūin Tadamune" age="27" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="27.00" weight="0.1582" build="0.2705" key="001DF00E40000142B77978C676C56A89C1775B495AEB3A7BD228BB454899ABA80274262507C6C37A00000000000000000000000000000000000000000CDC0042" />
     </face>
@@ -342,7 +342,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_ijuin_3" name="{=60Aeo2HK}Ijuin Kusafuji" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ijuin_3" name="{=60Aeo2HK}Ijūin Kusafuji" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="28.00" weight="0.2021" build="0.3428" key="0008F00B800000031980B8873C592EFF2895851698134145CC86764785B0B6FC0265362406465028000000000000000000000000000000000000000042CC0081" />
     </face>
@@ -359,7 +359,7 @@
       <EquipmentSet id="saikai_civ_template_default_female" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_ijuin_4" name="{=t99JjHho}Ijuin Harunari" age="23" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ijuin_4" name="{=t99JjHho}Ijūin Harunari" age="23" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="23.00" weight="0.8893" build="0.6889" key="001FEC0EC00004008774856948A6562B71754A4677D949ABC3383A5548A98B88047AD64507A9C28900000000000000000000000000000000000000004EE40142" />
     </face>
@@ -380,7 +380,7 @@
     </Equipments>
   </NPCCharacter>
   <!--Relatives-->
-  <NPCCharacter id="lord_1_ijuin_5" name="{=YiDzP43I}Ijuin Tadatane" age="43" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ijuin_5" name="{=YiDzP43I}Ijūin Tadatane" age="43" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="43.00" weight="0.3619" build="0.3527" key="0038F40E80000582B4756B3938A7573982653B688DF9494BC64BA8B538A9AB980365563506C8C38800000000000000000000000000000000000000003ED40082" />
     </face>
@@ -400,7 +400,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_ijuin_6" name="{=ltdCwtlK}Ijuin Hikari" age="43" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ijuin_6" name="{=ltdCwtlK}Ijūin Hikari" age="43" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="43.00" weight="0.2184" build="0.1771" key="001CF40D000000037D84C6E34128948B11A58039D78C1296BC49BF5983C8CA7E04333646031661A10000000000000000000000000000000000000000765C10C1" />
     </face>
@@ -417,7 +417,7 @@
       <EquipmentSet id="saikai_civ_template_default_female" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_ijuin_7" name="{=CtPTpklz}Ijuin Hisanobu" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ijuin_7" name="{=CtPTpklz}Ijūin Hisanobu" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.3058" build="0.2764" key="0034C80E8000014197768BB85BB87889B2755A6557A84AB9D5297AC53889BC780274562407D7B38700000000000000000000000000000000000000004EE40100" />
     </face>
@@ -437,7 +437,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_ijuin_8" name="{=0PAYYOYo}Ijuin Sasayuri" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ijuin_8" name="{=0PAYYOYo}Ijūin Sasayuri" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.0634" build="0.4124" key="001FE80F4000000346873C344065BBA1E1E1812E651BE5C8499B90CA83E7A18D07161678016641EA000000000000000000000000000000000000000072143080" />
     </face>
@@ -454,7 +454,7 @@
       <EquipmentSet id="saikai_civ_template_default_female" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_ijuin_9" name="{=t99JjHho}Ijuin Harunari" age="0" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ijuin_9" name="{=t99JjHho}Ijūin Harunari" age="0" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="0.00" weight="0.7059" build="0.2002" key="0036F00E40000481877777796BB4697B42764A867BED36ABD63A365558A9B9A80163B61306B7C33B00000000000000000000000000000000000000000ACC0002" />
     </face>
@@ -474,9 +474,9 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <!--Clan Hongo 6 ids-->
+  <!--Clan Hongou 6 ids-->
   <!--Parents-->
-  <NPCCharacter id="lord_1_hongo_4" name="{=9j0CtAEy}Hongo Tadachika" age="56" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hongo_4" name="{=9j0CtAEy}Hongou Tadachika" age="56" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="56.00" weight="0.8043" build="0.2413" key="0032E40E80000381866478775CC56399A3774A695ADD46ACD43BA77548999CA80174C61307C9A38B000000000000000000000000000000000000000032E40040" />
     </face>
@@ -496,7 +496,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_hongo_5" name="{=Fm7HitzI}Hongo Hasu" age="58" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hongo_5" name="{=Fm7HitzI}Hongou Hasu" age="58" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="58.00" weight="0.0737" build="0.8087" key="001BF00DC00000041A841399B67105C5D6A2815F5794775CB781E8CE88B9B1EC048C1646085153D700000000000000000000000000000000000000006D0420C0" />
     </face>
@@ -514,7 +514,7 @@
     </Equipments>
   </NPCCharacter>
   <!--Leader-->
-  <NPCCharacter id="lord_1_hongo" name="{=a7Bus3qz}Hongo Tokihisa" age="38" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hongo" name="{=a7Bus3qz}Hongou Tokihisa" age="38" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="38.00" weight="0.4314" build="0.6731" key="002DF40E40000184A7687A869CA6662A52778A889D9B3968C42A76755899AC88077A667807C78289000000000000000000000000000000000000000002EC00C1" />
     </face>
@@ -534,7 +534,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_hongo_1" name="{=YBDz0cMr}Hongo Higiri" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hongo_1" name="{=YBDz0cMr}Hongou Higiri" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="38.00" weight="0.5536" build="0.262" key="0030F40F40000005638797CE56315416C1B285E3529DB7BACBDA74A7868F98DB070486790046619300000000000000000000000000000000000000001C043081" />
     </face>
@@ -551,7 +551,7 @@
       <EquipmentSet id="saikai_civ_template_default_female" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_hongo_2" name="{=SpjpkISo}Hongo Sukehisa" age="14" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hongo_2" name="{=SpjpkISo}Hongou Sukehisa" age="14" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="14.00" weight="0.3911" build="0.5909" key="0031E40E8000050295647AB695A8644BC2765A365BCA365AC33C56554899AA880179661407B77378000000000000000000000000000000000000000004EC0040" />
     </face>
@@ -571,7 +571,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_hongo_3" name="{=jp7XzhCN}Hongo Tadatora" age="12" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hongo_3" name="{=jp7XzhCN}Hongou Tadatora" age="12" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="12.00" weight="0.7338" build="0.5949" key="001FD40E400002C29867654835A6759BD3797946687D3669C54849554889BB880379B6350798A23A00000000000000000000000000000000000000002EDC0001" />
     </face>
@@ -4562,7 +4562,7 @@
   <!--indo clan 6 ids-->
   <!--Parents-->
   <!--leader-->
-  <NPCCharacter id="lord_1_indo" name="{=dKC0bSr2}Indo Yoriyasu" age="47" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_indo" name="{=dKC0bSr2}Indou Yoriyasu" age="47" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="47.00" weight="0.3331" build="0.4642" key="0021C80E400005C2B8736527ADB4675B71675A858CAD397BC53687754899BC880867568906D6C24A00000000000000000000000000000000000000003ECC0080" />
     </face>
@@ -4582,7 +4582,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_indo_1" name="{=0K6M8tdY}Indo Myokei-ni" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_indo_1" name="{=0K6M8tdY}Indou Myoukei-ni" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="48.00" weight="0.1161" build="0.4868" key="002BE00D000000038C827A2EBA5CDC9CE2A486AC3F74B5C250C8441A800575BC05072657004670D8000000000000000000000000000000000000000000041100" />
     </face>
@@ -4600,7 +4600,7 @@
     </Equipments>
   </NPCCharacter>
   <!--children leader-->
-  <NPCCharacter id="lord_1_indo_2" name="{=EmtnyFBl}Indo Yorimori" age="0" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_indo_2" name="{=EmtnyFBl}Indou Yorimori" age="0" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="0.00" weight="0.7404" build="0.3551" key="0025D00EC00001808478567965A8577C63785B788BBC4889D32A488538A9DE980175B61407D8A29A000000000000000000000000000000000000000034EC0043" />
     </face>
@@ -4620,7 +4620,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_indo_3" name="{=MSsRSBtV}Indo Yusura" age="3" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_indo_3" name="{=MSsRSBtV}Indou Yusura" age="3" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="3.00" weight="0.2926" build="0.2322" key="0015DC0C400000068A8746454EE20991E9B6822E9BA1293528EF3CCD81AC93DC082346890255381C00000000000000000000000000000000000000000C443040" />
     </face>
