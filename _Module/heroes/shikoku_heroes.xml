@@ -8,7 +8,7 @@
 	<Hero id="lord_1_saionji_2" faction="Faction.clan_saionji_1" spouse="Hero.lord_1_saionji_3" father="Hero.dead_lord_1_saionji_1" mother="Hero.dead_lord_1_saionji_2" text="{=kHOJ0Awe}Saionji Nobuhisa"/>
 	<Hero id="lord_1_saionji_3" faction="Faction.clan_saionji_1" spouse="Hero.lord_1_saionji_2" text="{=Jb6FawOB}Saionji Hisa"/>
 	<Hero id="dead_lord_1_saionji_1" alive="false" faction="Faction.clan_saionji_1" spouse="Hero.dead_lord_1_saionji_2" text="{=gTFSsjbm}Saionji Kinnobu"/>
-	<Hero id="dead_lord_1_saionji_2" alive="false" faction="Faction.clan_saionji_1" spouse="Hero.dead_lord_1_saionji_1" text="{=qwJbUUQV}Saionji Seiko-in"/>
+	<Hero id="dead_lord_1_saionji_2" alive="false" faction="Faction.clan_saionji_1" spouse="Hero.dead_lord_1_saionji_1" text="{=qwJbUUQV}Saionji Seikou-in"/>
 	<!--kashuji clan-->
 	<Hero id="lord_1_kashuji" faction="Faction.clan_kashuji_1" spouse="Hero.lord_1_kashuji_1" text="{=RzWxJC41}Kajūji Motoaki"/>
 	<Hero id="lord_1_kashuji_1" faction="Faction.clan_kashuji_1" spouse="Hero.lord_1_kashuji" text="{=vT8u3noP}Kajūji Fuki"/>

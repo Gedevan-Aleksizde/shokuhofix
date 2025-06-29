@@ -129,7 +129,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_shimazu_5" name="{=8fj2kDNi}Shimazu Kocho" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_shimazu_5" name="{=8fj2kDNi}Shimazu Kochou" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="28.00" weight="0.1923" build="0.3286" key="0011F00B400000068586580D4B47519649B687E759837A8E9CBED93980361189025536240536896400000000000000000000000000000000000000004EB41040"/>
     </face>
@@ -1755,7 +1755,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_ryuzoji_14" name="{=uPz1Xvdn}Ryūzouji Kikyo" age="3" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ryuzoji_14" name="{=uPz1Xvdn}Ryūzouji Kikyou" age="3" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="3.00" weight="0.4004" build="0.8256" key="003EE80E80000005A78AD53B51DF19B59CD383A0D273A783497466C183F7E7CD028C6624086274360000000000000000000000000000000000000000671C1081"/>
     </face>
@@ -1772,7 +1772,7 @@
       <EquipmentSet id="saikai_civ_template_default_female" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_ryuzoji_15" name="{=UOIYnsPP}Ryūzouji Shinko-in" age="1" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ryuzoji_15" name="{=UOIYnsPP}Ryūzouji Shinkou-in" age="1" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="1.00" weight="0.0582" build="0.4451" key="002EE80C00000006A48571112376D453D0D48573C371325D7E5BE82A821E638D06271667023477FB0000000000000000000000000000000000000000304C4081"/>
     </face>

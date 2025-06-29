@@ -110,7 +110,7 @@
       <TempleLocationComponent id="temple_location_id_24" religion="Religion.tendai" prosperity="305" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_25" name="{=J45GVL0N}Seishu-ji Temple" posX="996.276" posY="618.947" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_25" name="{=J45GVL0N}Seishū-ji Temple" posX="996.276" posY="618.947" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_25" religion="Religion.shingon" prosperity="187" />
     </Components>
@@ -275,7 +275,7 @@
       <TempleLocationComponent id="temple_location_id_58" religion="Religion.shinto" prosperity="248" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_59" name="{=0HlO0Dos}Zenju-ji Temple" posX="1420.024" posY="772.168" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_59" name="{=0HlO0Dos}Zenjü-ji Temple" posX="1420.024" posY="772.168" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_59" religion="Religion.shin" prosperity="182" />
     </Components>
@@ -325,7 +325,7 @@
       <TempleLocationComponent id="temple_location_id_68" religion="Religion.shingon" prosperity="129" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_69" name="{=0UCCvP98}Towan-ji Temple" posX="1456.948" posY="1304.562" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_69" name="{=0UCCvP98}Touwan-ji Temple" posX="1456.948" posY="1304.562" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_69" religion="Religion.shingon" prosperity="182" />
     </Components>

@@ -21,7 +21,7 @@
       <EquipmentSet id="nankai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="dead_lord_1_saionji_2" name="{=qwJbUUQV}Saionji Seiko-in" age="50" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_saionji_2" name="{=qwJbUUQV}Saionji Seikou-in" age="50" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="50.00" weight="0.2728" build="0.8005" key="0033F00EC0000005778C841B4483053DE5C585D5F7466C421AA146D286E4D8CA051C46570103523400000000000000000000000000000000000000006E343101"/>
     </face>

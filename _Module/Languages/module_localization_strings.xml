@@ -1068,8 +1068,6 @@
 				text="Plain F (Shokuho)"/>
 		<string id="unjLZ2wl"
 				text="Plain G (Shokuho)"/>
-		<string id="SHqEzRa9"
-				text="Plain H (Shokuho)"/>
 		<string id="lBWkMM5N"
 				text="Plain I (Shokuho)"/>
 		<string id="jd8T9XYw"
@@ -3109,7 +3107,7 @@
 		<string id="5XYyFXoo"
 				text="Enryaku-ji Temple"/>
 		<string id="J45GVL0N"
-				text="Seishu-ji Temple"/>
+				text="Seishū-ji Temple"/>
 		<string id="3jL1K7Kl"
 				text="Sangaku-ji Temple"/>
 		<string id="460iveMd"
@@ -3175,7 +3173,7 @@
 		<string id="Cp3EojqA"
 				text="Kashima-jingu Shrine"/>
 		<string id="0HlO0Dos"
-				text="Zenju-ji Temple"/>
+				text="Zenjü-ji Temple"/>
 		<string id="ydJ6Rh2V"
 				text="Isasumi-jinjya Shrine"/>
 		<string id="9YK5P3zV"
@@ -3195,7 +3193,7 @@
 		<string id="F3HACKlw"
 				text="Hyakutaku-ji Temple"/>
 		<string id="0UCCvP98"
-				text="Towan-ji Temple"/>
+				text="Touwan-ji Temple"/>
 		<string id="BqiXh4Ub"
 				text="Chuson-ji Temple"/>
 		<string id="bBB5fI4t"
@@ -5953,9 +5951,9 @@
 		<string id="oKY3txxT"
 				text="Ryūzouji Yasutoshi"/>
 		<string id="uPz1Xvdn"
-				text="Ryūzouji Kikyo"/>
+				text="Ryūzouji Kikyou"/>
 		<string id="UOIYnsPP"
-				text="Ryūzouji Shinko-in"/>
+				text="Ryūzouji Shinkou-in"/>
 		<string id="IuaPQ3Jf"
 				text="Matsuura Takanobu"/>
 		<string id="8SJ7vUnX"
@@ -6025,7 +6023,7 @@
 		<string id="p9NeUjUw"
 				text="Shimazu Yoshihiro"/>
 		<string id="8fj2kDNi"
-				text="Shimazu Kocho"/>
+				text="Shimazu Kochou"/>
 		<string id="vI3iTRAa"
 				text="Shimazu Yachi"/>
 		<string id="PRLxNKTC"
@@ -6181,7 +6179,7 @@
 		<string id="gTFSsjbm"
 				text="Saionji Kinnobu"/>
 		<string id="qwJbUUQV"
-				text="Saionji Seiko-in"/>
+				text="Saionji Seikou-in"/>
 		<string id="RzWxJC41"
 				text="Kajūji Motoaki"/>
 		<string id="vT8u3noP"

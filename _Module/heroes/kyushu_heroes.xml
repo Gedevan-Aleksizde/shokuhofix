@@ -186,8 +186,8 @@
 	<Hero id="lord_1_ryuzoji_11" faction="Faction.clan_ryuzoji_1" spouse="Hero.lord_1_ryuzoji_12" father="Hero.dead_lord_1_ryuzoji_1" mother="Hero.lord_1_ryuzoji_2" text="{=tITu2Ofm}Ryūzouji Naganobu"/>
 	<Hero id="lord_1_ryuzoji_12" faction="Faction.clan_ryuzoji_1" spouse="Hero.lord_1_ryuzoji_11" text="{=jmFzBD6r}Ryūzouji Satsuki"/>
 	<Hero id="lord_1_ryuzoji_13" faction="Faction.clan_ryuzoji_1" father="Hero.lord_1_ryuzoji_11" mother="Hero.lord_1_ryuzoji_12" text="{=oKY3txxT}Ryūzouji Yasutoshi"/>
-	<Hero id="lord_1_ryuzoji_14" faction="Faction.clan_ryuzoji_1" father="Hero.lord_1_ryuzoji_11" mother="Hero.lord_1_ryuzoji_12" text="{=uPz1Xvdn}Ryūzouji Kikyo"/>
-	<Hero id="lord_1_ryuzoji_15" faction="Faction.clan_ryuzoji_1" father="Hero.lord_1_ryuzoji_11" mother="Hero.lord_1_ryuzoji_12" text="{=UOIYnsPP}Ryūzouji Shinko-in"/>
+	<Hero id="lord_1_ryuzoji_14" faction="Faction.clan_ryuzoji_1" father="Hero.lord_1_ryuzoji_11" mother="Hero.lord_1_ryuzoji_12" text="{=uPz1Xvdn}Ryūzouji Kikyou"/>
+	<Hero id="lord_1_ryuzoji_15" faction="Faction.clan_ryuzoji_1" father="Hero.lord_1_ryuzoji_11" mother="Hero.lord_1_ryuzoji_12" text="{=UOIYnsPP}Ryūzouji Shinkou-in"/>
 	<!--Matsuura clan 10 ids-->
 	<Hero id="lord_1_matsuura" faction="Faction.clan_matsuura_1" spouse="Hero.lord_1_matsuura_1" text="{=IuaPQ3Jf}Matsuura Takanobu"/>
 	<Hero id="lord_1_matsuura_1" faction="Faction.clan_matsuura_1" spouse="Hero.lord_1_matsuura" text="{=8SJ7vUnX}Matsuura Suiran"/>
@@ -229,7 +229,7 @@
 	<Hero id="lord_1_shimazu_2" faction="Faction.clan_shimazu_1" father="Hero.lord_1_shimazu" mother="Hero.lord_1_shimazu_1" text="{=czGM0U4X}Shimazu Ohira"/>
 	<Hero id="lord_1_shimazu_3" faction="Faction.clan_shimazu_1" father="Hero.lord_1_shimazu" mother="Hero.lord_1_shimazu_1" text="{=yquLAovd}Shimazu Shinjo"/>
 	<Hero id="lord_1_shimazu_4" faction="Faction.clan_shimazu_1" spouse="Hero.lord_1_shimazu_5" father="Hero.lord_1_shimazu_11" mother="Hero.dead_lord_1_shimazu_2" text="{=p9NeUjUw}Shimazu Yoshihiro"/>
-	<Hero id="lord_1_shimazu_5" faction="Faction.clan_shimazu_1" spouse="Hero.lord_1_shimazu_4" text="{=8fj2kDNi}Shimazu Kocho"/>
+	<Hero id="lord_1_shimazu_5" faction="Faction.clan_shimazu_1" spouse="Hero.lord_1_shimazu_4" text="{=8fj2kDNi}Shimazu Kochou"/>
 	<Hero id="lord_1_shimazu_6" faction="Faction.clan_shimazu_1" father="Hero.lord_1_shimazu_4" mother="Hero.lord_1_shimazu_5" text="{=vI3iTRAa}Shimazu Yachi"/>
 	<Hero id="lord_1_shimazu_7" faction="Faction.clan_shimazu_1" spouse="Hero.lord_1_shimazu_8" father="Hero.lord_1_shimazu_11" mother="Hero.dead_lord_1_shimazu_2" text="{=PRLxNKTC}Shimazu Toshihisa"/>
 	<Hero id="lord_1_shimazu_8" faction="Faction.clan_shimazu_1" spouse="Hero.lord_1_shimazu_7" text="{=BgW75GXX}Shimazu Lady Ume"/>
