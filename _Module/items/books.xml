@@ -38,7 +38,7 @@
         sho_scroll_a_2
         sho_scroll_a_3
         sho_scroll_a_4-->
-    <Item id="book_1" name="{=7HHrUYJL}Aisukageno-ryū Mokuroku" mesh="sho_scroll_a_1" item_category="sho_book" is_merchandise="false" value="132000" weight="1" Type="Book">
+    <Item id="book_1" name="{=7HHrUYJL}Aisu Kageno-ryū Mokuroku" mesh="sho_scroll_a_1" item_category="sho_book" is_merchandise="false" value="132000" weight="1" Type="Book">
 
 
     </Item>
@@ -74,7 +74,7 @@
 
 
     </Item>
-    <Item id="book_10" name="{=je3n5qAB}Shishiashi No Shdai" mesh="sho_book_a_3" item_category="sho_book" is_merchandise="false" value="38250" weight="1" Type="Book">
+    <Item id="book_10" name="{=je3n5qAB}Shishiashi No Shidai" mesh="sho_book_a_3" item_category="sho_book" is_merchandise="false" value="38250" weight="1" Type="Book">
 
 
     </Item>
@@ -110,7 +110,7 @@
 
 
     </Item>
-    <Item id="book_19" name="{=8qvAXz9z}Tamagusuru Chougou Shidai" mesh="sho_scroll_a_2" item_category="sho_book" is_merchandise="false" value="34800" weight="1" Type="Book">
+    <Item id="book_19" name="{=8qvAXz9z}Tamagusuri Chougou Shidai" mesh="sho_scroll_a_2" item_category="sho_book" is_merchandise="false" value="34800" weight="1" Type="Book">
 
 
     </Item>
@@ -190,7 +190,7 @@
 
 
     </Item>
-    <Item id="book_39" name="{=XVSN8760}Kaitō Shokokuki" mesh="sho_book_a_1" item_category="sho_book" is_merchandise="false" value="75050" weight="1" Type="Book">
+    <Item id="book_39" name="{=XVSN8760}Kaitou Shokokuki" mesh="sho_book_a_1" item_category="sho_book" is_merchandise="false" value="75050" weight="1" Type="Book">
 
 
     </Item>

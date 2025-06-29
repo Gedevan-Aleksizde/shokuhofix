@@ -14,7 +14,7 @@
     </string>
     <string id="str_liege_title.sanyo" text="{=tRwThwR8}Daimyou">
       <tags>
-        <tag tag_name="SanyoTag"/>
+        <tag tag_name="San'youTag"/>
       </tags>
     </string>
     <string id="str_liege_title.kinai" text="{=tRwThwR8}Daimyou">

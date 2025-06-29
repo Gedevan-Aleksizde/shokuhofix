@@ -332,7 +332,7 @@
 			<EquipmentSet id="nankai_bat_template_medium_female"/>
 		</Equipments>
 	</NPCCharacter>
-	<!--Sanyo-->
+	<!--San'you-->
 	<NPCCharacter id="sanyo_bat_template_medium_male" default_group="Infantry" is_hero="false" level="16" name="{=t7PimHDx}sanyo_lord_male_medium" culture="Culture.sanyo" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
 			<face_key_template value="BodyProperty.fighter_m_saikai"/>
@@ -542,7 +542,7 @@
 			<EquipmentSet id="nankai_civ_template_default_female"/>
 		</Equipments>
 	</NPCCharacter>
-	<!--Sanyo-->
+	<!--San'you-->
 	<NPCCharacter id="sanyo_civ_template_default_male" default_group="Infantry" is_hero="false" level="16" name="{=7atyprrF}sanyo_lord_male_noncom" culture="Culture.sanyo" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
 			<face_key_template value="BodyProperty.fighter_m_saikai"/>
@@ -759,7 +759,7 @@
 			<EquipmentSet id="nankai_civ_template_default_female" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<!--Sanyo-->
+	<!--San'you-->
 	<NPCCharacter id="lord_template_sanyo_male" name="{=azCSz9QH}sanyo Lord Male" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.sanyo" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
@@ -1089,7 +1089,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_nankai"/>
 		</Equipments>
 	</NPCCharacter>
-	<!--Sanyo-->
+	<!--San'you-->
 	<NPCCharacter id="npc_wanderer_equipment_template_sanyo" default_group="Infantry" is_hero="false" level="16" name="{=iuUFimFm}wanderer_equipment" culture="Culture.sanyo" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
 			<face_key_template value="BodyProperty.fighter_m_saikai"/>

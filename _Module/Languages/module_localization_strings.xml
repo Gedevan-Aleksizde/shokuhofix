@@ -6,7 +6,7 @@
 	</tags>
 	<strings>
 		<string id="eyYSXAYZ" text="On Water" />		
-		<string id="yULrgzDc" text="Sanyo water bonus" />		
+		<string id="yULrgzDc" text="San'you water bonus" />		
 		<string id="O4taxYRX" text="Tousan terrain bonus" />		
 		<string id="URx8JRet" text="The rules of the tournament are standard across Japan. We match the fighters up by drawing lots. Sometimes you're part of a team, and sometimes you fight by yourself." />		
 		<string id="EyRAR9Kg" text="As well you might! They're a grand old custom that's now spread all over Japan. Back in the old days, they'd give a hundred condemned criminals swords and have them slash at each other until the sands were drenched in blood![if:convo_merry]" />		
@@ -245,9 +245,9 @@
 		<string id="FqZHKqCA"
 				text="Road" />
 		<string id="bZnuyRtJ"
-				text="Sanyo culture" />
+				text="San'you culture" />
 		<string id="IpGnHz35"
-				text="Sanyo culture" />
+				text="San'you culture" />
 		<string id="JkVr31bc"
 				text="Port" />
 		<string id="VHL5RrsC"
@@ -571,7 +571,7 @@
 		<string id="T0EhRlNg"
 				text="Your lord expects you to participate in this battle." />
 		<string id="ncTf9uAU"
-				text="Kyoto" />
+				text="Rakuchū" />
 		<string id="jcnbxDop"
 				text="The battlefield has been picked clean" />
 		<string id="f52QW5gI"
@@ -851,9 +851,9 @@
 		<string id="ZTWHS0RH"
 				text="A Japanese book on the military strategy established at the end of the Heian period. It was created as a supplementary military book to the writings of Sun Tzu."/>
 		<string id="YligB2sz"
-				text="This book is revered as one of China's major military strategy books, written by Sonshi. With advances in organized conflict, this text has become increasingly important for strategists across Japan. Utilized as a source for the writings of Takeda Shingen."/>
+				text="This book is revered as one of China's major military strategy books, also known as The Art of War, written by Sonshi (Sun Tzu). With advances in organized conflict, this text has become increasingly important for strategists across Japan. Utilized as a source for the writings of Takeda Shingen."/>
 		<string id="SPfjkxAC"
-				text="This book is revered as one of China's major military strategy books, written by Goshi. With advances in organized conflict, this text has become increasingly important for strategists across Japan."/>
+				text="This book is revered as one of China's major military strategy books, written by Goshi (Wu Qi). With advances in organized conflict, this text has become increasingly important for strategists across Japan."/>
 		<string id="JQq34w3V"
 				text="Revered as one of China's major military strategy books. With advances in organized conflict, this text has become increasingly important for strategists across Japan."/>
 		<string id="6R5Bg134"
@@ -1141,7 +1141,7 @@
 		<string id="oCxs6toP"
 				text="Port Location"/>
 		<string id="dmNn1iRw"
-				text="Port Niushima"/>
+				text="Port Niujima"/>
 		<string id="zEXjYqDm"
 				text="This is the port."/>
 		<string id="ei2gsY4H"
@@ -1313,7 +1313,7 @@
 		<string id="GxkGnl8i"
 				text="Mikazura"/>
 		<string id="NSAkQv1M"
-				text="Yoshida-Koriyama"/>
+				text="Yoshida-Kōriyama"/>
 		<string id="mW8IM8PG"
 				text="Originally built as a small fortified residence for the Mouri clan this coastal castle town grew in importance along with the expansion of its inhabitants' power, while its hilltop location ensures control over the surrounding territories and sea routes."/>
 		<string id="ntbMy243"
@@ -1463,7 +1463,7 @@
 		<string id="lVVZzX8n"
 				text="Originally established as a humble supply post at the edge of fertile plains, Oyama has evolved into a bustling castle town along eastern Japan's trade routes and a vital military outpost at the crossroads of the competing Uesugi and Houjou clans."/>
 		<string id="JyG9eqDR"
-				text="Byakusan"/>
+				text="Hakusan"/>
 		<string id="6HTGkGwu"
 				text="Ataka"/>
 		<string id="VPbrsyV3"
@@ -1509,7 +1509,7 @@
 		<string id="jewHO3R5"
 				text="Suwa"/>
 		<string id="za4xFjbt"
-				text="Kofu"/>
+				text="Koufu"/>
 		<string id="G1Gwql28"
 				text="Kōfu, a castle town in the heart of Kai Province in the southern part of the Tōsan region, has been the home of the Takena clan since its beginnings, but has only recently grown considerably thanks to Takeda Shingen, who has made it the centre of his expanding domain and undertaken major flood control projects to increase agricultural production and quality of life"/>
 		<string id="9ZpFMf9j"
@@ -1545,7 +1545,7 @@
 		<string id="DDYwxAgB"
 				text="Utsumi"/>
 		<string id="Unk1zUdF"
-				text="Ohama"/>
+				text="Ōhama"/>
 		<string id="yXgoIejT"
 				text="Kariya"/>
 		<string id="7o6576n8"
@@ -2019,7 +2019,7 @@
 		<string id="Rfd9cOAd"
 				text="Once the great imperial capital of Japan, Nara remains a center of Buddhist influence and cultural heritage. The massive temples of Tōdaiji and Kōfukuji stand as reminders of its former glory, housing powerful monastic factions."/>
 		<string id="YJwLUC98"
-				text="Koriyama"/>
+				text="Kōriyama"/>
 		<string id="HPJqbRGp"
 				text="Ikaruga"/>
 		<string id="kEOZW3MW"
@@ -2237,9 +2237,9 @@
 		<string id="5eaNziO9"
 				text="Yamada"/>
 		<string id="sgEq01Iv"
-				text="Niushima"/>
+				text="Niujima"/>
 		<string id="1OHDyEtH"
-				text="Benefiting from its position along key maritime trade routes and its proximity to the island’s northern provinces, Niushima has grown into a prosperous castle town, also thanks to the influence of the Ōtomo clan, that has promoted the town as a center of local governance."/>
+				text="Benefiting from its position along key maritime trade routes and its proximity to the island’s northern provinces, Niujima has grown into a prosperous castle town, also thanks to the influence of the Ōtomo clan, that has promoted the town as a center of local governance."/>
 		<string id="ffcYS6qW"
 				text="Hikiji"/>
 		<string id="sRoPcqQk"
@@ -2389,7 +2389,7 @@
 		<string id="RnY20xbi"
 				text="Kume"/>
 		<string id="xRmEtOTl"
-				text="Okuchi Castle"/>
+				text="Ōkuchi Castle"/>
 		<string id="7CLX8g0B"
 				text="Hatsuki"/>
 		<string id="UiKJPgNh"
@@ -2743,7 +2743,7 @@
 		<string id="ZwoRpuj0"
 				text="Watari"/>
 		<string id="oaO9LGPD"
-				text="Tendo Castle"/>
+				text="Tendou Castle"/>
 		<string id="bK3dj8lF"
 				text="Shiraiwa"/>
 		<string id="gBu1s21m"
@@ -3523,11 +3523,11 @@
 		<string id="8RiGNJ8B"
 				text="Skilled Saikai Horse Gunner Cavalry"/>
 		<string id="g1aUdHN7"
-				text="Sanyo Militia Peasant"/>
+				text="San'you Militia Peasant"/>
 		<string id="la4EPVHN"
-				text="Sanyo Deckhand"/>
+				text="San'you Deckhand"/>
 		<string id="XWnpbrAT"
-				text="Sanyo Sea Raider"/>
+				text="San'you Sea Raider"/>
 		<string id="Y39BL4ai"
 				text="Hardened Sea Raider"/>
 		<string id="w7c6o7rJ"
@@ -3535,25 +3535,25 @@
 		<string id="5WHqZSAf"
 				text="Sea Raider Gunner"/>
 		<string id="KFHZaIxh"
-				text="Sanyo Jizamurai"/>
+				text="San'you Jizamurai"/>
 		<string id="qvhtYNHH"
-				text="Sanyo Yumi Samurai"/>
+				text="San'you Yumi Samurai"/>
 		<string id="16t7nHvG"
-				text="Skilled Sanyo Yumi Samurai"/>
+				text="Skilled San'you Yumi Samurai"/>
 		<string id="2LNvtWzI"
-				text="Sanyo Teppou Samurai"/>
+				text="San'you Teppou Samurai"/>
 		<string id="Kog3vrbq"
-				text="Skilled Sanyo Yari Samurai"/>
+				text="Skilled San'you Yari Samurai"/>
 		<string id="Mi02lR76"
-				text="Sanyo Samurai Infantry"/>
+				text="San'you Samurai Infantry"/>
 		<string id="wrcZ4lcA"
-				text="Skilled Sanyo Katana Samurai"/>
+				text="Skilled San'you Katana Samurai"/>
 		<string id="t0TZ3Og3"
-				text="Sanyo Mounted Samurai"/>
+				text="San'you Mounted Samurai"/>
 		<string id="TTa9vEfF"
-				text="Skilled Sanyo Horse Archer Samurai"/>
+				text="Skilled San'you Horse Archer Samurai"/>
 		<string id="6EjDXBuK"
-				text="Skilled Sanyo Mounted Samurai"/>
+				text="Skilled San'you Mounted Samurai"/>
 		<string id="32rPLbMS"
 				text="Toukai Militia Peasant"/>
 		<string id="nY1m9kWA"
@@ -6843,7 +6843,7 @@
 		<string id="FBLYEYkh"
 				text="Kishahishou"/>
 		<string id="3qyIiLlH"
-				text="Teppou yakunokata Narabini Chougou Shidai"/>
+				text="Teppou Yakunokata Narabini Chougou Shidai"/>
 		<string id="8qvAXz9z"
 				text="Tamagusuri Chougou Shidai"/>
 		<string id="zHV5iFpv"
@@ -6865,7 +6865,7 @@
 		<string id="C1r69eSR"
 				text="Hidanshou"/>
 		<string id="ocT1p1U6"
-				text="Kaji Myojikou"/>
+				text="Kaji Myoujikou"/>
 		<string id="9ur29XYx"
 				text="Oujyakushū"/>
 		<string id="SAucissd"
@@ -6891,7 +6891,7 @@
 		<string id="wtuE6Ll9"
 				text="Sonshi"/>
 		<string id="yt7Uv0U9"
-				text="sho_book_a_2"/>
+				text="Goshi"/>
 		<string id="GXle1JL8"
 				text="Utsuryoushi"/>
 		<string id="M6t6WQ51"
@@ -6909,11 +6909,11 @@
 		<string id="byz0t5lF"
 				text="Shinsen Tsukubashū"/>
 		<string id="AUqLkz89"
-				text="Teikin'Ourai"/>
+				text="Teikin'ourai"/>
 		<string id="Do2iFyeg"
 				text="Sekisoourai"/>
 		<string id="cvVFMBpA"
-				text="Gyokuenkisho"/>
+				text="Gyokuenkishou"/>
 		<string id="OZkvtG5H"
 				text="Joushougusou"/>
 		<string id="vCxWE1Mz"
@@ -6925,9 +6925,9 @@
 		<string id="sPKN0rSw"
 				text="Sogamonogatari"/>
 		<string id="66235LB1"
-				text="Shisho-gokyou"/>
+				text="Shisho-Gokyou"/>
 		<string id="GzpOzopK"
-				text="Wamyou ruijushou"/>
+				text="Wamyou Ruijushou"/>
 		<string id="iWBtmfhY"
 				text="Chiribukuro"/>
 		<string id="VEuXwb4n"
@@ -6963,9 +6963,9 @@
 		<string id="RZNHzUvJ"
 				text="Ishotaizen"/>
 		<string id="TIBuEAb7"
-				text="Keitekishu"/>
+				text="Keitekishū"/>
 		<string id="gQb6YCnw"
-				text="Chikujyouki"/>
+				text="Chikujouki"/>
 		<string id="vlCFfp1l"
 				text="Bukeisouyou"/>
 		<string id="c6TFxi8r"
@@ -9581,7 +9581,7 @@
 		<string id="BsUY9ZLW"
 				text="Niu"/>
 		<string id="NFOJEwiL"
-				text="Sanyo"/>
+				text="San'you"/>
 		<string id="kzv0BtxU"
 				text="Hanafusa"/>
 		<string id="P1I5mIT8"
@@ -10399,7 +10399,7 @@
 		<string id="cExrGOdl"
 				text="Nankai Caravan Master"/>
 		<string id="6TqLlctU"
-				text="Sanyo Caravan Master"/>
+				text="San'you Caravan Master"/>
 		<string id="0XbH81fA"
 				text="Duelist"/>
 		<string id="KznUzEjy"
@@ -10407,7 +10407,7 @@
 		<string id="k7visbnX"
 				text="the Nankai"/>
 		<string id="9TCedFd1"
-				text="the Sanyo"/>
+				text="the San'you"/>
 		<string id="A3gpkcGa"
 				text="the Kinai"/>
 		<string id="ueigSlGB"
@@ -10425,7 +10425,7 @@
 		<string id="mJR7iyKD"
 				text="Nankai"/>
 		<string id="LiAaSgTz"
-				text="Sanyo"/>
+				text="San'you"/>
 		<string id="zLq9CzcD"
 				text="Kinai"/>
 		<string id="un53UjDH"
@@ -10985,7 +10985,7 @@
 		<string id="rP3o1jH3"
 				text="{FIRSTNAME} the Wallbreaker"/>
 		<string id="Q6uJcuFa"
-				text="{FIRSTNAME} the Ronin"/>
+				text="{FIRSTNAME} the Rounin"/>
 		<string id="SUJMCSnx"
 				text="{FIRSTNAME} the Gatekeeper"/>
 		<string id="ZIiXw5G9"
@@ -11039,9 +11039,9 @@
 		<string id="givYhaly"
 				text="10% faster campaign movement on water." />
 		<string id="bo8sZ7gY"
-				text="20% more tax income from towns connected to ports owned by Sanyo leaders." />
+				text="20% more tax income from towns connected to ports owned by San'you leaders." />
 		<string id="7CbRvVSz"
-				text="20% less tax income from towns not connected to ports owned by Sanyo leaders." />
+				text="20% less tax income from towns not connected to ports owned by San'you leaders." />
 		<string id="NQt2a6sQ"
 				text="Units have 20% less movement speed penalty in all adverse terrain." />
 		<string id="b2AGYw9j"

@@ -1497,7 +1497,7 @@
 						  civilian ="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<!--Sanyo-->
+	<!--San'you-->
 	<NPCCharacter id="spc_notable_sanyo_0"
 				  name="{=Mc4JptO8}Cautious imperial merchant"
 				  is_template="true"

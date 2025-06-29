@@ -2656,7 +2656,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_CHUB26_2" name="{=gVfxpn0b}Yoro" posX="1002.321" posY="651.114" culture="Culture.tosan" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_CHUB26_2" name="{=gVfxpn0b}Yourou" posX="1002.321" posY="651.114" culture="Culture.tosan" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_CHUB26_2" village_type="VillageType.rice_farm" hearth="200" gate_rotation="0.008" bound="Settlement.castle_CHUB26" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5079,7 +5079,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KIN12_1" name="{=H96dzZca}Kyuhouji" posX="884.898" posY="562.134" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_KIN12_1" name="{=H96dzZca}Kyūhouji" posX="884.898" posY="562.134" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_KIN12_1" village_type="VillageType.rice_farm" hearth="200" gate_rotation="0.008" bound="Settlement.castle_KIN12" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6701,7 +6701,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_KY16" name="{=xRmEtOTl}Okuchi Castle" owner="Faction.clan_indo_1" posX="317.453" posY="229.405" culture="Culture.saikai" gate_posX="319.3667" gate_posY="230.4098">
+  <Settlement id="castle_KY16" name="{=xRmEtOTl}Ōkuchi Castle" owner="Faction.clan_indo_1" posX="317.453" posY="229.405" culture="Culture.saikai" gate_posX="319.3667" gate_posY="230.4098">
     <Components>
       <Town id="castle_comp_KY16" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_town" gate_rotation="0.908" prosperity="504"/>
     </Components>
@@ -8882,7 +8882,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_TOHO11" name="{=oaO9LGPD}Tendō Castle" owner="Faction.clan_tendo_1" posX="1428.32" posY="1054.34" culture="Culture.ou" gate_posX="1427.292" gate_posY="1052.514">
+  <Settlement id="castle_TOHO11" name="{=oaO9LGPD}Tendou Castle" owner="Faction.clan_tendo_1" posX="1428.32" posY="1054.34" culture="Culture.ou" gate_posX="1427.292" gate_posY="1052.514">
     <Components>
       <Town id="castle_comp_TOHO11" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="721"/>
     </Components>

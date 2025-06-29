@@ -314,7 +314,7 @@
 				civilian="true" />
 		</Equipments>
 	</NPCCharacter>
-<!--Sanyo children-->
+<!--San'you children-->
 <NPCCharacter id= "child_education_templates_stage_2_page_0_branch_0_sanyo"
 			  name = "{=!}stage_2_page_0_branch_0_sanyo"
 			  age = "45"

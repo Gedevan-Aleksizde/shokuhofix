@@ -314,7 +314,7 @@
         <Benefit skill="Skill.Steward" exp="31500" finalExp="3000" addFocus="false"/>
     </Book>
     <!--Kōshū Hattonoshidai-->
-    <Book id="book_71" item="Item.book_71" length="151" rarity="unique" desc="{=3ybFlk33}A set of laws written by  Takeda Harunobu (Shingen) for the realms under the control of the Takeda Clan. A total of fifty-five articles, It stipulates the prohibition of private wars, the regulation of letters to other domains, the prohibition of sectarian disputes, and the prohibition of private alliances." addFreeFocus="false">
+    <Book id="book_71" item="Item.book_71" length="151" rarity="unique" desc="{=3ybFlk33}A set of laws written by Takeda Harunobu (Shingen) for the realms under the control of the Takeda Clan. A total of fifty-five articles, It stipulates the prohibition of private wars, the regulation of letters to other domains, the prohibition of sectarian disputes, and the prohibition of private alliances." addFreeFocus="false">
         <Benefit skill="Skill.Steward" exp="29000" finalExp="2500" addFocus="false"/>
     </Book>
     <!--Sagarashi Hatto-->

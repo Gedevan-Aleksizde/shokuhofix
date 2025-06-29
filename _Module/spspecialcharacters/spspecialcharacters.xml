@@ -22,8 +22,8 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_engineer_saikai"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- the hawk : the Ronin, feined death and escaped service of his lord (Ronin/Duelist)-->
-	<NPCCharacter id="spc_wanderer_saikai_1" name="{=Q6uJcuFa}{FIRSTNAME} the Ronin" voice="softspoken" age="27" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.saikai" occupation="Wanderer">
+	<!-- the hawk : the Rounin, feined death and escaped service of his lord (Rounin/Duelist)-->
+	<NPCCharacter id="spc_wanderer_saikai_1" name="{=Q6uJcuFa}{FIRSTNAME} the Rounin" voice="softspoken" age="27" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.saikai" occupation="Wanderer">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -522,7 +522,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_nankai"/>
 		</Equipments>
 	</NPCCharacter>
-	<!--WANDERERS OF Sanyo -->
+	<!--WANDERERS OF San'you -->
 	<!--engineer, sent to learn trade -->
 	<NPCCharacter id="spc_wanderer_sanyo_0" name="{=sdzaip5J}{FIRSTNAME} the Knowing" voice="softspoken" age="29" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.sanyo" occupation="Wanderer">
 		<face>

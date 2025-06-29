@@ -184,7 +184,7 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-    <!--Sanyo-->
+    <!--San'you-->
     <NPCCharacter id="caravan_master_sanyo" default_group="Infantry" level="26" name="{=6TqLlctU}San'you Caravan Master" occupation="CaravanGuard" culture="Culture.sanyo" skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
@@ -1156,7 +1156,7 @@
             <EquipmentSet id="npc_armed_wanderer_equipment_template_nankai" civilian="true"/>
         </Equipments>
     </NPCCharacter>
-    <!--Sanyo-->
+    <!--San'you-->
     <NPCCharacter id="gear_practice_dummy_sanyo" default_group="Infantry" is_hero="false" occupation="Special" culture="Culture.sanyo" name="{=tvPacBBE}Gear Dummy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
         <face>
             <face_key_template value="BodyProperty.guard"/>
@@ -1788,7 +1788,7 @@
             <EquipmentSet id="npc_armed_wanderer_equipment_template_nankai" civilian="true"/>
         </Equipments>
     </NPCCharacter>
-    <!--Sanyo-->
+    <!--San'you-->
     <NPCCharacter id="tournament_template_sanyo_one_participant_set_v1" default_group="Infantry" level="6" name="{=xGrcB7wX}tournament_template_sanyo_one_participant_set_v1" culture="Culture.sanyo" skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
