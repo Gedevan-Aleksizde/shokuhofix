@@ -5,11 +5,11 @@
                    tier="4"
                    piece_type="Blade"
                    mesh="sho_kanasaibo_a"
-                   length="130"
-                   weight="5.62">
+                   length="160"
+                   weight="3.89">
         <BladeData stack_amount="3"
                    physics_material="wood_weapon"
-                   body_name="bo_sho_bokken_staff">
+                   body_name="bo_sho_kanasaibo_a">
             <Swing damage_type="Blunt"
                    damage_factor="3.8"/>
         </BladeData>

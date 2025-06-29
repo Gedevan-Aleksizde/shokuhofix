@@ -1212,9 +1212,9 @@
 
                 <hair_mesh
                     name="sho_samurai_knot_a"
-                    cover_type1="sho_samurai_knot_a"
-                    cover_type2="sho_samurai_knot_a"
-                    cover_type3="sho_samurai_knot_a"
+                    cover_type1="sho_samurai_knot_a_type1"
+                    cover_type2="sho_samurai_knot_a_type3"
+                    cover_type3="sho_samurai_knot_a_type4"
                     cover_type4="sho_samurai_knot_a">
                     <style_tags>
                         <style_tag
@@ -1224,9 +1224,9 @@
 
                 <hair_mesh
                     name="sho_samurai_knot_b"
-                    cover_type1="sho_samurai_knot_b"
-                    cover_type2="sho_samurai_knot_b"
-                    cover_type3="sho_samurai_knot_b"
+                    cover_type1="sho_samurai_knot_b_type1"
+                    cover_type2="sho_samurai_knot_b_type3"
+                    cover_type3="sho_samurai_knot_b_type4"
                     cover_type4="sho_samurai_knot_b">
                     <style_tags>
                         <style_tag
@@ -1236,9 +1236,9 @@
 
                 <hair_mesh
                     name="sho_messy_bun"
-                    cover_type1="sho_messy_bun"
-                    cover_type2="sho_messy_bun"
-                    cover_type3="sho_messy_bun"
+                    cover_type1="sho_messy_bun_type1"
+                    cover_type2="sho_messy_bun_type3"
+                    cover_type3="sho_messy_bun_type4"
                     cover_type4="sho_messy_bun">
                     <style_tags>
                         <style_tag
@@ -1248,15 +1248,64 @@
 
 				<hair_mesh
 									name="sho_messy_bun_2"
-									cover_type1="sho_messy_bun_2"
-									cover_type2="sho_messy_bun_2"
-									cover_type3="sho_messy_bun_2"
+									cover_type1="sho_messy_bun_2_type1"
+									cover_type2="sho_messy_bun_2_type3"
+									cover_type3="sho_messy_bun_2_type4"
 									cover_type4="sho_messy_bun_2">
 					<style_tags>
 						<style_tag
                             name="Samurai Bun" />
 					</style_tags>
 				</hair_mesh>
+
+				<!--<hair_mesh
+									name="sho_back_bun"
+									cover_type1="sho_back_bun"
+									cover_type2="sho_back_bun"
+									cover_type3="sho_back_bun"
+									cover_type4="sho_back_bun">
+					<style_tags>
+						<style_tag
+                            name="Samurai Bun" />
+					</style_tags>
+				</hair_mesh>
+
+				<hair_mesh
+									name="sho_double_bun"
+									cover_type1="sho_double_bun"
+									cover_type2="sho_double_bun"
+									cover_type3="sho_double_bun"
+									cover_type4="sho_double_bun">
+					<style_tags>
+						<style_tag
+                            name="Samurai Bun" />
+					</style_tags>
+				</hair_mesh>
+
+
+				<hair_mesh
+									name="sho_messy_hair"
+									cover_type1="sho_messy_hair"
+									cover_type2="sho_messy_hair"
+									cover_type3="sho_messy_hair"
+									cover_type4="sho_messy_hair">
+					<style_tags>
+						<style_tag
+                            name="Samurai Bun" />
+					</style_tags>
+				</hair_mesh>
+
+				<hair_mesh
+									name="sho_messy_top_bun"
+									cover_type1="sho_messy_top_bun"
+									cover_type2="sho_messy_top_bun"
+									cover_type3="sho_messy_top_bun"
+									cover_type4="sho_messy_top_bun">
+					<style_tags>
+						<style_tag
+                            name="Samurai Bun" />
+					</style_tags>
+				</hair_mesh>-->
 
             </hair_meshes>
             <eyebrow_meshes>
@@ -5101,10 +5150,10 @@
 
 				<hair_mesh
                     name="sho_samurai_knot_a"
-                    cover_type1="sho_samurai_knot_a"
-                    cover_type2="sho_samurai_knot_a"
-                    cover_type3="sho_samurai_knot_a"
-                    cover_type4="sho_samurai_knot_a">
+                    cover_type1="sho_samurai_knot_a_type1"
+                    cover_type2="sho_samurai_knot_a_type2"
+                    cover_type3="sho_samurai_knot_a_type3"
+                    cover_type4="sho_samurai_knot_a_type4">
 					<style_tags>
 						<style_tag
                             name="Samurai Knot A" />
@@ -5113,10 +5162,10 @@
 
 				<hair_mesh
                     name="sho_samurai_knot_b"
-                    cover_type1="sho_samurai_knot_b"
-                    cover_type2="sho_samurai_knot_b"
-                    cover_type3="sho_samurai_knot_b"
-                    cover_type4="sho_samurai_knot_b">
+                    cover_type1="sho_samurai_knot_b_type1"
+                    cover_type2="sho_samurai_knot_b_type2"
+                    cover_type3="sho_samurai_knot_b_type3"
+                    cover_type4="sho_samurai_knot_b_type4">
 					<style_tags>
 						<style_tag
                             name="Samurai Knot B" />
@@ -5125,10 +5174,10 @@
 
 				<hair_mesh
                     name="sho_messy_bun"
-                    cover_type1="sho_messy_bun"
-                    cover_type2="sho_messy_bun"
-                    cover_type3="sho_messy_bun"
-                    cover_type4="sho_messy_bun">
+                    cover_type1="sho_messy_bun_type1"
+                    cover_type2="sho_messy_bun_type2"
+                    cover_type3="sho_messy_bun_type3"
+                    cover_type4="sho_messy_bun_type4">
 					<style_tags>
 						<style_tag
                             name="Samurai Bun" />
@@ -5137,10 +5186,10 @@
 
 				<hair_mesh
 									name="sho_messy_bun_2"
-									cover_type1="sho_messy_bun_2"
-									cover_type2="sho_messy_bun_2"
-									cover_type3="sho_messy_bun_2"
-									cover_type4="sho_messy_bun_2">
+									cover_type1="sho_messy_bun_2_type1"
+									cover_type2="sho_messy_bun_2_type2"
+									cover_type3="sho_messy_bun_2_type3"
+									cover_type4="sho_messy_bun_2_type4">
 					<style_tags>
 						<style_tag
                             name="Samurai Bun" />

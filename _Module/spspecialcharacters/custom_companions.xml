@@ -37,17 +37,17 @@
 		</Traits>
 		<Equipments>
 			<EquipmentRoster>
-				<Equipment slot="Item0"
+				<equipment slot="Item0"
 						   id="Item.tanegashima_musket" />
-				<Equipment slot="Item1"
+				<equipment slot="Item1"
 						   id="Item.sho_katana_24" />
-				<Equipment slot="Item2"
+				<equipment slot="Item2"
 						   id="Item.teppo_ammo" />
-				<Equipment slot="Body"
+				<equipment slot="Body"
 						   id="Item.sho_simple_okegawa_7" />
-				<Equipment slot="Leg"
+				<equipment slot="Leg"
 						   id="Item.sho_low_tier_suneate_a_8" />
-				<Equipment slot="Gloves"
+				<equipment slot="Gloves"
 						   id="Item.sho_tier_1_kote_a_5" />
 			</EquipmentRoster>
 		</Equipments>
@@ -92,17 +92,17 @@
 		</Traits>
 		<Equipments>
 			<EquipmentRoster>
-				<Equipment slot="Item0"
+				<equipment slot="Item0"
 						   id="Item.tanegashima_musket" />
-				<Equipment slot="Item1"
+				<equipment slot="Item1"
 						   id="Item.sho_katana_24" />
-				<Equipment slot="Item2"
+				<equipment slot="Item2"
 						   id="Item.teppo_ammo" />
-				<Equipment slot="Body"
+				<equipment slot="Body"
 						   id="Item.sho_simple_okegawa_7" />
-				<Equipment slot="Leg"
+				<equipment slot="Leg"
 						   id="Item.sho_low_tier_suneate_a_8" />
-				<Equipment slot="Gloves"
+				<equipment slot="Gloves"
 						   id="Item.sho_tier_1_kote_a_5" />
 			</EquipmentRoster>
 		</Equipments>

@@ -1027,7 +1027,7 @@
 					   id="Item.sho_wakizashi_10" />
 			<Equipment slot="Body"
 					   id="Item.sho_peasant_pants_f" />
-			<equipment slot="Leg"
+			<Equipment slot="Leg"
 					   id="Item.sho_waraji_a" />
 		</EquipmentSet>
 		<EquipmentSet
@@ -1047,7 +1047,7 @@
 					   id="Item.sho_wakizashi_10" />
 			<Equipment slot="Body"
 					   id="Item.sho_peasant_pants_f" />
-			<equipment slot="Leg"
+			<Equipment slot="Leg"
 					   id="Item.sho_waraji_a" />
 		</EquipmentSet>
 		<EquipmentSet
@@ -1068,7 +1068,7 @@
 					   id="Item.throwing_stone" />
 			<Equipment slot="Body"
 					   id="Item.sho_peasant_pants_e" />
-			<equipment slot="Leg"
+			<Equipment slot="Leg"
 					   id="Item.sho_waraji_a" />
 		</EquipmentSet>
 		<EquipmentSet
@@ -1090,7 +1090,7 @@
 					   id="Item.throwing_stone" />
 			<Equipment slot="Body"
 					   id="Item.sho_peasant_pants_e" />
-			<equipment slot="Leg"
+			<Equipment slot="Leg"
 					   id="Item.sho_waraji_a" />
 		</EquipmentSet>
 		<EquipmentSet

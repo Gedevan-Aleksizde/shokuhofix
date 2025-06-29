@@ -729,6 +729,7 @@
 			<WeaponFlag value="MeleeWeapon"/>
 			<WeaponFlag value="WideGrip"/>
 			<WeaponFlag value="TwoHandIdleOnMount"/>
+			<WeaponFlag value="CanCrushThrough"/>
 		</WeaponFlags>
 		<AvailablePieces>
 			<AvailablePiece id="sho_yari_guard_1"/>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Items>
     <CraftedItem id="kanasaibo_a"
-                 name="Kanasaibou"
+                 name="{=BCuRcqLL}Kanasaibou"
                  crafting_template="SHO_Kanasaibo"
                  modifier_group="polearm">
         <Pieces>

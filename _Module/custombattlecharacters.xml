@@ -1,275 +1,524 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <NPCCharacters>
-  <NPCCharacter id="commander_13" name="{=shokuho847F9Fd3}Farmer Samurai" age="35" voice="curt" default_group="cavalry" culture="Culture.nankai" occupation="Lord" skill_template="SkillSet.custombattle_commander_3_template_skills" is_hero="true">
-    <face>
-      <face_key_template value="BodyProperty.townsman_saikai"/>
-    </face>
-    <Traits>
-      <Trait id="HuscarlFightingSkills" value="7"/>
-      <Trait id="Commander" value="7"/>
-      <Trait id="Politician" value="7"/>
-      <Trait id="Manager" value="5"/>
-      <Trait id="Valor" value="1"/>
-      <Trait id="Generosity" value="1"/>
-      <Trait id="Mercy" value="1"/>
-      <Trait id="Honor" value="2"/>
-      <Trait id="Calculating" value="3"/>
-    </Traits>
-    <Equipments>
-      <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_21"/>
-        <Equipment slot="Item1" id="Item.sho_katana_22"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_4_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_a_2_kimono_a"/>
-        <Equipment slot="Leg" id="Item.sho_tsutsu_suneate_b_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_8"/>
-        <Equipment slot="Cape" id="Item.sho_minko_cape"/>
-      </EquipmentRoster>
-    </Equipments>
-  </NPCCharacter>
-  <NPCCharacter id="commander_14" name="{=shokuho52a9af09}Inland Sea Samurai" age="35" voice="curt" is_female="false" default_group="cavalry" culture="Culture.sanyo" occupation="Lord" skill_template="SkillSet.custombattle_commander_3_template_skills" is_hero="true">
-    <face>
-      <face_key_template value="BodyProperty.fighter_f_saikai"/>
-    </face>
-    <Traits>
-      <Trait id="HuscarlFightingSkills" value="7"/>
-      <Trait id="Commander" value="7"/>
-      <Trait id="Politician" value="7"/>
-      <Trait id="Manager" value="5"/>
-      <Trait id="Valor" value="1"/>
-      <Trait id="Generosity" value="1"/>
-      <Trait id="Mercy" value="1"/>
-      <Trait id="Honor" value="1"/>
-      <Trait id="Calculating" value="1"/>
-    </Traits>
-    <Equipments>
-      <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_10"/>
-        <Equipment slot="Item1" id="Item.sho_wakizashi_27"/>
-        <Equipment slot="Head" id="Item.sho_momonari_kabuto_a"/>
-        <Equipment slot="Body" id="Item.sho_dangae_do_b"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_7_kote_a_8"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-      </EquipmentRoster>
-    </Equipments>
-  </NPCCharacter>
-  <NPCCharacter id="commander_16" name="{=shokuhoee1ff0cA}Long Spear Officer" age="35" voice="curt" is_female="false" default_group="cavalry" culture="Culture.tokai" occupation="Lord" skill_template="SkillSet.custombattle_commander_3_template_skills" is_hero="true">
-    <face>
-      <face_key_template value="BodyProperty.fighter_f_saikai"/>
-    </face>
-    <Traits>
-      <Trait id="HuscarlFightingSkills" value="7"/>
-      <Trait id="Commander" value="7"/>
-      <Trait id="Politician" value="7"/>
-      <Trait id="Manager" value="5"/>
-      <Trait id="Valor" value="1"/>
-      <Trait id="Generosity" value="1"/>
-      <Trait id="Mercy" value="1"/>
-      <Trait id="Honor" value="1"/>
-      <Trait id="Calculating" value="1"/>
-    </Traits>
-    <Equipments>
-      <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_31"/>
-        <Equipment slot="Head" id="Item.sho_akoka_nari_c"/>
-        <Equipment slot="Body" id="Item.sho_new_kozane_h"/>
-        <Equipment slot="Leg" id="Item.sho_tsutsu_suneate_b_7"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_7_kote_a_5"/>
-        <Equipment slot="Cape" id="Item.sho_new_osode_pattern_4"/>
-      </EquipmentRoster>
-    </Equipments>
-  </NPCCharacter>
-  <NPCCharacter id="commander_15" name="{=shokuho2B41a70d}The Fencer" age="35" voice="curt" default_group="cavalry" culture="Culture.saikai" occupation="Lord" skill_template="SkillSet.custombattle_commander_3_template_skills" is_hero="true">
-    <face>
-      <face_key_template value="BodyProperty.european"/>
-    </face>
-    <Traits>
-      <Trait id="HuscarlFightingSkills" value="7"/>
-      <Trait id="Commander" value="7"/>
-      <Trait id="Politician" value="2"/>
-      <Trait id="Manager" value="5"/>
-      <Trait id="Valor" value="1"/>
-      <Trait id="Generosity" value="1"/>
-      <Trait id="Mercy" value="1"/>
-      <Trait id="Honor" value="1"/>
-      <Trait id="Calculating" value="1"/>
-    </Traits>
-    <Equipments>
-      <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_euro_sword_2"/>
-        <Equipment slot="Item1" id="Item.sho_pistol_teppo_g"/>
-        <Equipment slot="Item2" id="Item.teppo_ammo"/>
-        <Equipment slot="Body" id="Item.sho_spanish_armor_gold_a"/>
-        <Equipment slot="Leg" id="Item.sho_riding_boots_black"/>
-      </EquipmentRoster>
-    </Equipments>
-  </NPCCharacter>
-  <NPCCharacter id="commander_17" name="{=shokuho851538a2}Nodachi Noble" age="35" voice="curt" is_female="false" default_group="cavalry" culture="Culture.kinai" occupation="Lord" skill_template="SkillSet.custombattle_commander_3_template_skills" is_hero="true">
-    <face>
-      <face_key_template value="BodyProperty.fighter_f_saikai"/>
-    </face>
-    <Traits>
-      <Trait id="HuscarlFightingSkills" value="7"/>
-      <Trait id="Commander" value="7"/>
-      <Trait id="Politician" value="7"/>
-      <Trait id="Manager" value="5"/>
-      <Trait id="Valor" value="1"/>
-      <Trait id="Generosity" value="1"/>
-      <Trait id="Mercy" value="1"/>
-      <Trait id="Honor" value="1"/>
-      <Trait id="Calculating" value="1"/>
-    </Traits>
-    <Equipments>
-      <EquipmentRoster>
-        <equipment slot="Item0" id="Item.sho_nodachi_8"/>
-        <equipment slot="Head" id="Item.sho_hineno_zunari_2_a"/>
-        <equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_1_3"/>
-        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_7"/>
-        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-      </EquipmentRoster>
-    </Equipments>
-  </NPCCharacter>
-  <NPCCharacter id="commander_18" name="{=shokuho0b2300eb}Armored Cavalry Officer" age="35" voice="curt" is_female="false" default_group="cavalry" culture="Culture.kanto" occupation="Lord" skill_template="SkillSet.custombattle_commander_3_template_skills" is_hero="true">
-    <face>
-      <face_key_template value="BodyProperty.fighter_f_saikai"/>
-    </face>
-    <Traits>
-      <Trait id="HuscarlFightingSkills" value="7"/>
-      <Trait id="Commander" value="7"/>
-      <Trait id="Politician" value="7"/>
-      <Trait id="Manager" value="5"/>
-      <Trait id="Valor" value="1"/>
-      <Trait id="Generosity" value="1"/>
-      <Trait id="Mercy" value="1"/>
-      <Trait id="Honor" value="1"/>
-      <Trait id="Calculating" value="1"/>
-    </Traits>
-    <Equipments>
-      <EquipmentRoster>
-        <equipment slot="Item0" id="Item.sho_yari_19"/>
-        <equipment slot="Item1" id="Item.sho_tachi_tiger"/>
-        <equipment slot="Head" id="Item.sho_saiga_kabuto_b_8_menpo"/>
-        <equipment slot="Body" id="Item.sho_dangae_do_c"/>
-        <equipment slot="Leg" id="Item.sho_tsutsu_suneate_c_6"/>
-        <equipment slot="Gloves" id="Item.sho_tier_7_kote_a_7"/>
-        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
-        <equipment slot="Horse" id="Item.sho_horse_oni_10"/>
-        <equipment slot="HorseHarness" id="Item.sho_horse_armor_a_mask_a"/>
-      </EquipmentRoster>
-    </Equipments>
-  </NPCCharacter>
-  <NPCCharacter id="commander_19" name="{=shokuho78592860}Onnamusha" age="35" voice="curt" is_female="true" default_group="cavalry" culture="Culture.buddhists" occupation="Lord" skill_template="SkillSet.custombattle_commander_3_template_skills" is_hero="true">
-    <face>
-      <face_key_template value="BodyProperty.fighter_f_saikai"/>
-    </face>
-    <Traits>
-      <Trait id="HuscarlFightingSkills" value="7"/>
-      <Trait id="Commander" value="7"/>
-      <Trait id="Politician" value="7"/>
-      <Trait id="Manager" value="5"/>
-      <Trait id="Valor" value="1"/>
-      <Trait id="Generosity" value="1"/>
-      <Trait id="Mercy" value="1"/>
-      <Trait id="Honor" value="1"/>
-      <Trait id="Calculating" value="1"/>
-    </Traits>
-    <Equipments>
-      <EquipmentRoster>
-        <equipment slot="Item0" id="Item.sho_new_yumi_3_short_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_tachi_tiger"/>
-        <equipment slot="Item2" id="Item.sho_ebira_piercing"/>
-        <equipment slot="Head" id="Item.sho_eboshi_hat_a"/>
-        <equipment slot="Body" id="Item.sho_oyoroi_c"/>
-        <equipment slot="Leg" id="Item.sho_tsutsu_suneate_c_8"/>
-        <equipment slot="Gloves" id="Item.sho_oyoroi_kote_a"/>
-        <equipment slot="Cape" id="Item.sho_new_osode_c"/>
-        <equipment slot="Horse" id="Item.sho_horse_oni_1"/>
-        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_a"/>
-      </EquipmentRoster>
-    </Equipments>
-  </NPCCharacter>
-  <NPCCharacter id="commander_20" name="{=shokuhoA5E761b3}Archer Troop" age="35" voice="curt" is_female="false" default_group="cavalry" culture="Culture.hokuriku" occupation="Lord" skill_template="SkillSet.custombattle_commander_3_template_skills" is_hero="true">
-    <face>
-      <face_key_template value="BodyProperty.fighter_f_saikai"/>
-    </face>
-    <Traits>
-      <Trait id="HuscarlFightingSkills" value="7"/>
-      <Trait id="Commander" value="7"/>
-      <Trait id="Politician" value="7"/>
-      <Trait id="Manager" value="5"/>
-      <Trait id="Valor" value="1"/>
-      <Trait id="Generosity" value="1"/>
-      <Trait id="Mercy" value="1"/>
-      <Trait id="Honor" value="1"/>
-      <Trait id="Calculating" value="1"/>
-    </Traits>
-    <Equipments>
-      <EquipmentRoster>
-        <equipment slot="Item0" id="Item.sho_new_yumi_4"/>
-        <equipment slot="Item1" id="Item.sho_wakizashi_6"/>
-        <equipment slot="Item2" id="Item.sho_utsubo_a_piercing"/>
-        <equipment slot="Head" id="Item.sho_ensui_jingasa_2"/>
-        <equipment slot="Body" id="Item.sho_ashi_2_kozane_d"/>
-        <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_14"/>
-        <equipment slot="Gloves" id="Item.sho_tier_2_kote_a_4"/>
-      </EquipmentRoster>
-    </Equipments>
-  </NPCCharacter>
-  <NPCCharacter id="commander_21" name="{=shokuhoC50beee8}Oni Duelist" age="35" voice="curt" is_female="false" default_group="cavalry" culture="Culture.tosan" occupation="Lord" skill_template="SkillSet.custombattle_commander_3_template_skills" is_hero="true">
-    <face>
-      <face_key_template value="BodyProperty.fighter_f_saikai"/>
-    </face>
-    <Traits>
-      <Trait id="HuscarlFightingSkills" value="7"/>
-      <Trait id="Commander" value="7"/>
-      <Trait id="Politician" value="7"/>
-      <Trait id="Manager" value="5"/>
-      <Trait id="Valor" value="1"/>
-      <Trait id="Generosity" value="1"/>
-      <Trait id="Mercy" value="1"/>
-      <Trait id="Honor" value="1"/>
-      <Trait id="Calculating" value="1"/>
-    </Traits>
-    <Equipments>
-      <EquipmentRoster>
-        <Equipment slot="Item1" id="Item.kanasaibo_a"/>
-        <Equipment slot="Item2" id="Item.sho_tachi_bear"/>
-        <Equipment slot="Head" id="Item.sho_noh_mask_c"/>
-        <Equipment slot="Body" id="Item.sho_yukinoshita_rework_b"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_7"/>
-      </EquipmentRoster>
-    </Equipments>
-  </NPCCharacter>
-  <NPCCharacter id="commander_22" name="{=shokuhoc8E36bf1}Recruited Monk Gunner" age="35" voice="curt" is_female="false" default_group="cavalry" culture="Culture.buddhists" occupation="Lord" skill_template="SkillSet.custombattle_commander_3_template_skills" is_hero="true">
-    <face>
-      <face_key_template value="BodyProperty.fighter_f_saikai"/>
-    </face>
-    <Traits>
-      <Trait id="HuscarlFightingSkills" value="7"/>
-      <Trait id="Commander" value="7"/>
-      <Trait id="Politician" value="7"/>
-      <Trait id="Manager" value="5"/>
-      <Trait id="Valor" value="1"/>
-      <Trait id="Generosity" value="1"/>
-      <Trait id="Mercy" value="1"/>
-      <Trait id="Honor" value="1"/>
-      <Trait id="Calculating" value="1"/>
-    </Traits>
-    <Equipments>
-      <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_tanegashima_musket_3"/>
-        <Equipment slot="Item1" id="Item.sho_katana_14"/>
-        <Equipment slot="Item2" id="Item.teppo_ammo"/>
-        <Equipment slot="Head" id="Item.sho_monk_headwrap_a_1"/>
-        <Equipment slot="Body" id="Item.sho_ashi_2_mogami_l"/>
-        <Equipment slot="Leg" id="Item.sho_low_tier_suneate_a_13"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_3_kote_a_4"/>
-        <Equipment slot="Cape" id="Item.sho_tosei_sode_1"/>
-      </EquipmentRoster>
-    </Equipments>
-  </NPCCharacter>
-  <!--Trailer Custom Battle Lords-->
+	<NPCCharacter id="commander_13"
+				  name="Farmer Samurai"
+				  age="35"
+				  voice="curt"
+				  default_group="cavalry"
+				  culture="Culture.nankai"
+				  occupation="Lord"
+				  skill_template="SkillSet.custombattle_commander_3_template_skills"
+				  is_hero="true">
+		<face>
+			<face_key_template value="BodyProperty.townsman_saikai" />
+		</face>
+		<Traits>
+			<Trait id="HuscarlFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="7" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="5" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Mercy"
+				   value="1" />
+			<Trait id="Honor"
+				   value="2" />
+			<Trait id="Calculating"
+				   value="3" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0"
+						   id="Item.sho_yari_21" />
+				<equipment slot="Item1"
+						   id="Item.sho_katana_22" />
+				<equipment slot="Head"
+						   id="Item.sho_hineno_zunari_4_a" />
+				<equipment slot="Body"
+						   id="Item.sho_okegawa_do_a_2_kimono_a" />
+				<equipment slot="Leg"
+						   id="Item.sho_tsutsu_suneate_b_3" />
+				<equipment slot="Gloves"
+						   id="Item.sho_tier_6_kote_a_8" />
+				<equipment slot="Cape"
+						   id="Item.sho_minko_cape" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="commander_14"
+				  name="Inland Sea Samurai"
+				  age="35"
+				  voice="curt"
+				  is_female ="false"
+				  default_group="cavalry"
+				  culture="Culture.sanyo"
+				  occupation="Lord"
+				  skill_template="SkillSet.custombattle_commander_3_template_skills"
+				  is_hero="true">
+		<face>
+			<face_key_template value="BodyProperty.fighter_f_saikai" />
+		</face>
+		<Traits>
+			<Trait id="HuscarlFightingSkills"
+				   value="20" />
+			<Trait id="Commander"
+				   value="7" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="5" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Mercy"
+				   value="1" />
+			<Trait id="Honor"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0"
+						   id="Item.sho_yari_10" />
+				<equipment slot="Item1"
+						   id="Item.sho_wakizashi_27" />
+				<equipment slot="Head"
+						   id="Item.sho_momonari_kabuto_a" />
+				<equipment slot="Body"
+						   id="Item.sho_dangae_do_b" />
+				<equipment slot="Leg"
+						   id="Item.sho_shino_suneate_a_3" />
+				<equipment slot="Gloves"
+						   id="Item.sho_tier_7_kote_a_8" />
+				<equipment slot="Cape"
+						   id="Item.sho_mogami_sode_b" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>	
+	<NPCCharacter id="commander_16"
+				  name="Long Spear Officer"
+				  age="35"
+				  voice="curt"
+				  is_female ="false"
+				  default_group="cavalry"
+				  culture="Culture.tokai"
+				  occupation="Lord"
+				  skill_template="SkillSet.custombattle_commander_3_template_skills"
+				  is_hero="true">
+		<face>
+			<face_key_template value="BodyProperty.fighter_f_saikai" />
+		</face>
+		<Traits>
+			<Trait id="HuscarlFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="7" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="5" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Mercy"
+				   value="1" />
+			<Trait id="Honor"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0"
+						   id="Item.sho_yari_31" />
+				<equipment slot="Head"
+						   id="Item.sho_akoka_nari_c" />
+				<equipment slot="Body"
+						   id="Item.sho_new_kozane_h" />
+				<equipment slot="Leg"
+						   id="Item.sho_tsutsu_suneate_b_7" />
+				<equipment slot="Gloves"
+						   id="Item.sho_tier_7_kote_a_5" />
+				<equipment slot="Cape"
+						   id="Item.sho_new_osode_pattern_4" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="commander_15"
+				  name="The Fencer"
+				  age="35"
+				  voice="curt"
+				  default_group="cavalry"
+				  culture="Culture.saikai"
+				  occupation="Lord"
+				  skill_template="SkillSet.custombattle_commander_3_template_skills"
+				  is_hero="true">
+		<face>
+			<face_key_template value="BodyProperty.european" />
+		</face>
+		<Traits>
+			<Trait id="HuscarlFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="7" />
+			<Trait id="Politician"
+				   value="2" />
+			<Trait id="Manager"
+				   value="5" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Mercy"
+				   value="1" />
+			<Trait id="Honor"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0"
+						   id="Item.sho_euro_sword_2" />
+				<equipment slot="Item1"
+						   id="Item.sho_pistol_teppo_g" />
+				<equipment slot="Item2"
+						   id="Item.teppo_ammo" />
+				<equipment slot="Body"
+						   id="Item.sho_spanish_armor_gold_a" />
+				<equipment slot="Leg"
+						   id="Item.sho_riding_boots_black" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="commander_17"
+				  name="Nodachi Noble"
+				  age="35"
+				  voice="curt"
+				  is_female ="false"
+				  default_group="cavalry"
+				  culture="Culture.kinai"
+				  occupation="Lord"
+				  skill_template="SkillSet.custombattle_commander_3_template_skills"
+				  is_hero="true">
+		<face>
+			<face_key_template value="BodyProperty.fighter_f_saikai" />
+		</face>
+		<Traits>
+			<Trait id="HuscarlFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="7" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="5" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Mercy"
+				   value="1" />
+			<Trait id="Honor"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0"
+						   id="Item.sho_nodachi_8"/>
+				<equipment slot="Head"
+						   id="Item.sho_hineno_zunari_2_a"/>
+				<equipment slot="Body"
+						   id="Item.sho_okegawa_do_a_kimono_a_haidate_a_1_3"/>
+				<equipment slot="Leg"
+						   id="Item.sho_shino_suneate_a_4"/>
+				<equipment slot="Gloves"
+						   id="Item.sho_tier_6_kote_a_7"/>
+				<equipment slot="Cape"
+						   id="Item.sho_mogami_sode_b"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="commander_18"
+				  name="Armored Cavalry Officer"
+				  age="35"
+				  voice="curt"
+				  is_female ="false"
+				  default_group="cavalry"
+				  culture="Culture.kanto"
+				  occupation="Lord"
+				  skill_template="SkillSet.custombattle_commander_3_template_skills"
+				  is_hero="true">
+		<face>
+			<face_key_template value="BodyProperty.fighter_f_saikai" />
+		</face>
+		<Traits>
+			<Trait id="HuscarlFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="7" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="5" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Mercy"
+				   value="1" />
+			<Trait id="Honor"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0"
+						   id="Item.sho_yari_19"/>
+				<equipment slot="Item1"
+						   id="Item.sho_tachi_tiger" />
+				<equipment slot="Head"
+						   id="Item.sho_saiga_kabuto_b_8_menpo"/>
+				<equipment slot="Body"
+						   id="Item.sho_dangae_do_c"/>
+				<equipment slot="Leg"
+						   id="Item.sho_tsutsu_suneate_c_6"/>
+				<equipment slot="Gloves"
+						   id="Item.sho_tier_7_kote_a_7"/>
+				<equipment slot="Cape"
+						   id="Item.sho_mogami_sode_a"/>
+				<equipment slot="Horse"
+						   id="Item.sho_horse_oni_10"/>
+				<equipment slot="HorseHarness"
+						   id="Item.sho_horse_armor_a_mask_a"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>	
+	<NPCCharacter id="commander_19"
+				  name="Onnamusha"
+				  age="35"
+				  voice="curt"
+				  is_female ="true"
+				  default_group="cavalry"
+				  culture="Culture.buddhists"
+				  occupation="Lord"
+				  skill_template="SkillSet.custombattle_commander_3_template_skills"
+				  is_hero="true">
+		<face>
+			<face_key_template value="BodyProperty.fighter_f_saikai" />
+		</face>
+		<Traits>
+			<Trait id="HuscarlFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="7" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="5" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Mercy"
+				   value="1" />
+			<Trait id="Honor"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0"
+						   id="Item.sho_new_yumi_3_short_war_bow" />
+				<equipment slot="Item1"
+						   id="Item.sho_tachi_tiger" />
+				<equipment slot="Item2"
+						   id="Item.sho_ebira_piercing" />
+				<equipment slot="Head"
+						   id="Item.sho_eboshi_hat_a" />
+				<equipment slot="Body"
+						   id="Item.sho_oyoroi_c" />
+				<equipment slot="Leg"
+						   id="Item.sho_tsutsu_suneate_c_8" />
+				<equipment slot="Gloves"
+						   id="Item.sho_oyoroi_kote_a" />
+				<equipment slot="Cape"
+						   id="Item.sho_new_osode_c" />
+				<equipment slot="Horse"
+						   id="Item.sho_horse_oni_1" />
+				<equipment slot="HorseHarness"
+						   id="Item.sho_uma_yoroi_a" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="commander_20"
+				  name="Archer Troop"
+				  age="35"
+				  voice="curt"
+				  is_female ="false"
+				  default_group="cavalry"
+				  culture="Culture.hokuriku"
+				  occupation="Lord"
+				  skill_template="SkillSet.custombattle_commander_3_template_skills"
+				  is_hero="true">
+		<face>
+			<face_key_template value="BodyProperty.fighter_f_saikai" />
+		</face>
+		<Traits>
+			<Trait id="HuscarlFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="7" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="5" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Mercy"
+				   value="1" />
+			<Trait id="Honor"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0"
+						   id="Item.sho_new_yumi_4"/>
+				<equipment slot="Item1"
+						   id="Item.sho_wakizashi_6"/>
+				<equipment slot="Item2"
+						   id="Item.sho_utsubo_a_piercing"/>
+				<equipment slot="Head"
+						   id="Item.sho_ensui_jingasa_2"/>
+				<equipment slot="Body"
+						   id="Item.sho_ashi_2_kozane_d"/>
+				<equipment slot="Leg"
+						   id="Item.sho_low_tier_suneate_a_14"/>
+				<equipment slot="Gloves"
+						   id="Item.sho_tier_2_kote_a_4"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>	
+	<NPCCharacter id="commander_21"
+				  name="Oni Duelist"
+				  age="35"
+				  voice="curt"
+				  is_female ="false"
+				  default_group="cavalry"
+				  culture="Culture.tosan"
+				  occupation="Lord"
+				  skill_template="SkillSet.custombattle_commander_3_template_skills"
+				  is_hero="true">
+		<face>
+			<face_key_template value="BodyProperty.fighter_f_saikai" />
+		</face>
+		<Traits>
+			<Trait id="HuscarlFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="7" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="5" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Mercy"
+				   value="1" />
+			<Trait id="Honor"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item1"
+						   id="Item.kanasaibo_a"/>
+				<equipment slot="Item2"
+						   id="Item.sho_tachi_bear"/>
+				<equipment slot="Head"
+						   id="Item.sho_noh_mask_c" />
+				<equipment slot="Body"
+						   id="Item.sho_yukinoshita_rework_b" />
+				<equipment slot="Leg"
+						   id="Item.sho_shino_suneate_a_2" />
+				<equipment slot="Gloves"
+						   id="Item.sho_tier_5_kote_a_7" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="commander_22"
+				  name="Recruited Monk Gunner"
+				  age="35"
+				  voice="curt"
+				  is_female ="false"
+				  default_group="cavalry"
+				  culture="Culture.buddhists"
+				  occupation="Lord"
+				  skill_template="SkillSet.custombattle_commander_3_template_skills"
+				  is_hero="true">
+		<face>
+			<face_key_template value="BodyProperty.fighter_f_saikai" />
+		</face>
+		<Traits>
+			<Trait id="HuscarlFightingSkills"
+				   value="7" />
+			<Trait id="Commander"
+				   value="7" />
+			<Trait id="Politician"
+				   value="7" />
+			<Trait id="Manager"
+				   value="5" />
+			<Trait id="Valor"
+				   value="1" />
+			<Trait id="Generosity"
+				   value="1" />
+			<Trait id="Mercy"
+				   value="1" />
+			<Trait id="Honor"
+				   value="1" />
+			<Trait id="Calculating"
+				   value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0"
+						   id="Item.sho_tanegashima_musket_3" />
+				<equipment slot="Item1"
+						   id="Item.sho_katana_14" />
+				<equipment slot="Item2"
+						   id="Item.teppo_ammo" />
+				<equipment slot="Head"
+						   id="Item.sho_monk_headwrap_a_1" />
+				<equipment slot="Body"
+						   id="Item.sho_ashi_2_mogami_l" />
+				<equipment slot="Leg"
+						   id="Item.sho_low_tier_suneate_a_13" />
+				<equipment slot="Gloves"
+						   id="Item.sho_tier_3_kote_a_4" />
+				<equipment slot="Cape"
+						   id="Item.sho_tosei_sode_1" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+<!--Trailer Custom Battle Lords-->
 </NPCCharacters>

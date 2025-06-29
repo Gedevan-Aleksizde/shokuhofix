@@ -5,9 +5,9 @@
       <Town id="castle_comp_AMA1" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="656"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_k" scene_name_2="sho_castle_map_k" scene_name_3="sho_castle_map_k"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_k" scene_name_2="sho_castle_map_k" scene_name_3="sho_castle_map_k" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_AMA1_1" name="{=k1yojJ4A}Nishino" posX="594.486" posY="751.712" culture="Culture.sanyo" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -41,14 +41,14 @@
       <Town id="town_comp_CHU1" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1960"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=stpD675i}Backstreet"/>
@@ -100,14 +100,14 @@
       <Town id="town_comp_CHU2" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="2000"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name_1="sho_town_b" scene_name_2="sho_town_b" scene_name_3="sho_town_b"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name_1="sho_town_b" scene_name_2="sho_town_b" scene_name_3="sho_town_b" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=stpD675i}Backstreet"/>
@@ -218,14 +218,14 @@
       <Town id="town_comp_CHU4" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1680"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=stpD675i}Backstreet"/>
@@ -277,14 +277,14 @@
       <Town id="town_comp_CHU5" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1679"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=stpD675i}Backstreet"/>
@@ -336,14 +336,14 @@
       <Town id="town_comp_CHU6" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1440"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=stpD675i}Backstreet"/>
@@ -431,9 +431,9 @@
       <Town id="castle_comp_CHU2" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="883"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_CHU2_1" name="{=hYa3ko4i}Mitajiri" posX="418.504" posY="492.452" culture="Culture.sanyo" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -467,9 +467,9 @@
       <Town id="castle_comp_CHU3" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="627"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_CHU3_1" name="{=ScnAHUPM}Susa" posX="429.74" posY="555.002" culture="Culture.sanyo" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -539,9 +539,9 @@
       <Town id="castle_comp_CHU5" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="551"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_c" scene_name_2="sho_castle_map_c" scene_name_3="sho_castle_map_c"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_c" scene_name_2="sho_castle_map_c" scene_name_3="sho_castle_map_c" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_CHU5_1" name="{=OPAS78bG}Kuba" posX="493.217" posY="520.578" culture="Culture.sanyo" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -575,9 +575,9 @@
       <Town id="castle_comp_CHU6" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="746"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_h" scene_name_2="sho_castle_map_h" scene_name_3="sho_castle_map_h"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_h" scene_name_2="sho_castle_map_h" scene_name_3="sho_castle_map_h" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_CHU6_1" name="{=1nlzOWW9}Misumiminato" posX="463.389" posY="573.463" culture="Culture.sanyo" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -647,9 +647,9 @@
       <Town id="castle_comp_CHU8" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="706"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_j" scene_name_2="sho_castle_map_j" scene_name_3="sho_castle_map_j"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_j" scene_name_2="sho_castle_map_j" scene_name_3="sho_castle_map_j" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_CHU8_1" name="{=dYC6hZpp}Takehara" posX="578.255" posY="533.715" culture="Culture.sanyo" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -719,9 +719,9 @@
       <Town id="castle_comp_CHU10" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="762"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_k" scene_name_2="sho_castle_map_k" scene_name_3="sho_castle_map_k"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_k" scene_name_2="sho_castle_map_k" scene_name_3="sho_castle_map_k" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_CHU10_1" name="{=i2U342nt}Oji" posX="590.159" posY="516.217" culture="Culture.sanyo" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -791,9 +791,9 @@
       <Town id="castle_comp_CHU12" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="986"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_h" scene_name_2="sho_castle_map_h" scene_name_3="sho_castle_map_h"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_h" scene_name_2="sho_castle_map_h" scene_name_3="sho_castle_map_h" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_CHU12_1" name="{=E9fVF5iD}Onomichi" posX="617.559" posY="541.832" culture="Culture.sanyo" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -863,9 +863,9 @@
       <Town id="castle_comp_CHU14" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="944"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_CHU14_1" name="{=v81uLwPi}Ushimado" posX="722.582" posY="573.781" culture="Culture.sanyo" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -935,9 +935,9 @@
       <Town id="castle_comp_CHU16" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="672"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_CHU16_1" name="{=0WX9hA8s}Hashizu" posX="669.597" posY="671.345" culture="Culture.sanyo" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -1030,14 +1030,14 @@
       <Town id="town_comp_CHUB2" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="3200"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=stpD675i}Backstreet"/>
@@ -1148,14 +1148,14 @@
       <Town id="town_comp_CHUB4" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1120"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=stpD675i}Backstreet"/>
@@ -1266,14 +1266,14 @@
       <Town id="town_comp_CHUB6" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="2800"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name_1="sho_town_c" scene_name_2="sho_town_c" scene_name_3="sho_town_c"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name_1="sho_town_c" scene_name_2="sho_town_c" scene_name_3="sho_town_c" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=stpD675i}Backstreet"/>
@@ -1384,14 +1384,14 @@
       <Town id="town_comp_CHUB8" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="800"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name_1="sho_town_c" scene_name_2="sho_town_c" scene_name_3="sho_town_c"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name_1="sho_town_c" scene_name_2="sho_town_c" scene_name_3="sho_town_c" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=stpD675i}Backstreet"/>
@@ -1502,14 +1502,14 @@
       <Town id="town_comp_CHUB10" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1680"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name_1="sho_town_b" scene_name_2="sho_town_b" scene_name_3="sho_town_b"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name_1="sho_town_b" scene_name_2="sho_town_b" scene_name_3="sho_town_b" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=stpD675i}Backstreet"/>
@@ -1620,14 +1620,14 @@
       <Town id="town_comp_CHUB12" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1440"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name_1="sho_town_c" scene_name_2="sho_town_c" scene_name_3="sho_town_c"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name_1="sho_town_c" scene_name_2="sho_town_c" scene_name_3="sho_town_c" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=stpD675i}Backstreet"/>
@@ -1738,9 +1738,9 @@
       <Town id="castle_comp_CHUB1" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="597"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_CHUB1_1" name="{=BdXzJLer}Tsuruga" posX="928.83" posY="688.644" culture="Culture.hokuriku" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -1810,9 +1810,9 @@
       <Town id="castle_comp_CHUB3" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="677"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_CHUB3_1" name="{=P5SW4Or6}Mikuniminato" posX="939.296" posY="755.135" culture="Culture.hokuriku" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -1882,9 +1882,9 @@
       <Town id="castle_comp_CHUB5" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="661"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_c" scene_name_2="sho_castle_map_c" scene_name_3="sho_castle_map_c"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_c" scene_name_2="sho_castle_map_c" scene_name_3="sho_castle_map_c" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_CHUB5_1" name="{=y0hE60ln}Houjouzu" posX="1042.865" posY="831.268" culture="Culture.hokuriku" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -1954,9 +1954,9 @@
       <Town id="castle_comp_CHUB7" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="569"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_CHUB7_1" name="{=5rC2HuFe}Oumi" posX="1113.341" posY="859.149" culture="Culture.hokuriku" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -2026,9 +2026,9 @@
       <Town id="castle_comp_CHUB9" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="515"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_CHUB9_1" name="{=vcwfVYcz}Izumosaki" posX="1228.27" posY="931.331" culture="Culture.hokuriku" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -2098,9 +2098,9 @@
       <Town id="castle_comp_CHUB11" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="650"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_CHUB11_1" name="{=8qvbF7TU}Hirabayashi" posX="1301.596" posY="997.571" culture="Culture.hokuriku" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -2170,9 +2170,9 @@
       <Town id="castle_comp_CHUB13" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="500"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_CHUB13_1" name="{=n7NdjTwb}Zaodo" posX="1248.173" posY="884.028" culture="Culture.hokuriku" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -2242,9 +2242,9 @@
       <Town id="castle_comp_CHUB15" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1096"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_j" scene_name_2="sho_castle_map_j" scene_name_3="sho_castle_map_j"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_j" scene_name_2="sho_castle_map_j" scene_name_3="sho_castle_map_j" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_CHUB15_1" name="{=ESwxpHkr}Imoi" posX="1154.656" posY="791.254" culture="Culture.tosan" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -2273,7 +2273,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_CHUB16" name="{=cRX7KAze}Ueda Castle" owner="Faction.clan_sanada_1" posX="1188.316" posY="790.4949" culture="Culture.tosan" gate_posX="1186.698" gate_posY="789.1625">
+  <Settlement id="castle_CHUB16" name="{=cRX7KAze}Ueda Castle" owner="Faction.clan_sanada_1" posX="1188.316" posY="790.495" culture="Culture.tosan" gate_posX="1186.699" gate_posY="789.1623">
     <Components>
       <Town id="castle_comp_CHUB16" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="825"/>
     </Components>
@@ -2283,7 +2283,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_CHUB16_1" name="{=Hu5KORDr}Sakaki" posX="1172.262" posY="795.3044" culture="Culture.tosan" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_CHUB16_1" name="{=Hu5KORDr}Sakaki" posX="1172.262" posY="795.304" culture="Culture.tosan" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_CHUB16_1" village_type="VillageType.logger" hearth="200" gate_rotation="0.008" bound="Settlement.castle_CHUB16" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -2296,7 +2296,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_CHUB16_2" name="{=whinybNk}Yamabe" posX="1200.26" posY="788.3745" culture="Culture.tosan" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_CHUB16_2" name="{=whinybNk}Yamabe" posX="1200.26" posY="788.375" culture="Culture.tosan" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_CHUB16_2" village_type="VillageType.trapper" hearth="200" gate_rotation="0.008" bound="Settlement.castle_CHUB16" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -2314,12 +2314,12 @@
       <Town id="castle_comp_CHUB17" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="641"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_e" scene_name_2="sho_castle_map_e" scene_name_3="sho_castle_map_e"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_e" scene_name_2="sho_castle_map_e" scene_name_3="sho_castle_map_e" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_CHUB17_1" name="{=RLsQENAd}Tateshina" posX="1186.253" posY="764.9916" culture="Culture.tosan" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_CHUB17_1" name="{=RLsQENAd}Tateshina" posX="1186.253" posY="764.992" culture="Culture.tosan" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_CHUB17_1" village_type="VillageType.vegetable_farm" hearth="200" gate_rotation="0.008" bound="Settlement.castle_CHUB17" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -2332,7 +2332,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_CHUB17_2" name="{=YsHcsOZG}Iwamurada" posX="1205.779" posY="766.8922" culture="Culture.tosan" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_CHUB17_2" name="{=YsHcsOZG}Iwamurada" posX="1205.779" posY="766.892" culture="Culture.tosan" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_CHUB17_2" village_type="VillageType.silk_farm" hearth="200" gate_rotation="0.008" bound="Settlement.castle_CHUB17" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -2386,9 +2386,9 @@
       <Town id="castle_comp_CHUB19" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="504"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_CHUB19_1" name="{=N3c8Rw9g}Oka-miya" posX="1245.139" posY="642.1" culture="Culture.tokai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -2458,9 +2458,9 @@
       <Town id="castle_comp_CHUB21" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="887"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_CHUB21_1" name="{=0rDc1SBx}Ito" posX="1262.788" posY="596.914" culture="Culture.tokai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -2530,9 +2530,9 @@
       <Town id="castle_comp_CHUB23" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="955"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_c" scene_name_2="sho_castle_map_c" scene_name_3="sho_castle_map_c"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_c" scene_name_2="sho_castle_map_c" scene_name_3="sho_castle_map_c" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_CHUB23_1" name="{=9u6MWvx2}Kakegawa" posX="1154.376" posY="592.675" culture="Culture.tokai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -2602,9 +2602,9 @@
       <Town id="castle_comp_CHUB25" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="733"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_CHUB25_1" name="{=xqyUiSCO}Muro" posX="1070.852" posY="584.186" culture="Culture.tokai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -2674,9 +2674,9 @@
       <Town id="castle_comp_CHUB28" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="933"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_CHUB28_1" name="{=drRb1eJx}Joganj" posX="983.51" posY="744.744" culture="Culture.hokuriku" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -2746,9 +2746,9 @@
       <Town id="castle_comp_CHUB30" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="911"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_h" scene_name_2="sho_castle_map_h" scene_name_3="sho_castle_map_h"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_h" scene_name_2="sho_castle_map_h" scene_name_3="sho_castle_map_h" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_CHUB30_1" name="{=RYgkBrwy}Hachiga" posX="1083.765" posY="740.265" culture="Culture.tosan" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -2818,9 +2818,9 @@
       <Town id="castle_comp_CHUB32" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="920"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_c" scene_name_2="sho_castle_map_c" scene_name_3="sho_castle_map_c"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_c" scene_name_2="sho_castle_map_c" scene_name_3="sho_castle_map_c" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_CHUB32_1" name="{=sNI8ZZHb}Ikeda" posX="1143.127" posY="753.477" culture="Culture.tosan" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -2890,9 +2890,9 @@
       <Town id="castle_comp_CHUB34" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="545"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_c" scene_name_2="sho_castle_map_c" scene_name_3="sho_castle_map_c"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_c" scene_name_2="sho_castle_map_c" scene_name_3="sho_castle_map_c" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_CHUB34_1" name="{=kpvsA1WL}Tera" posX="1158.02" posY="707.671" culture="Culture.tosan" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -2962,14 +2962,14 @@
       <Town id="town_comp_KA1" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="3400"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=stpD675i}Backstreet"/>
@@ -3080,14 +3080,14 @@
       <Town id="town_comp_KA3" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="2200"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name_1="sho_town_c" scene_name_2="sho_town_c" scene_name_3="sho_town_c"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name_1="sho_town_c" scene_name_2="sho_town_c" scene_name_3="sho_town_c" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=stpD675i}Backstreet"/>
@@ -3198,14 +3198,14 @@
       <Town id="town_comp_KA5" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1640"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name_1="sho_town_c" scene_name_2="sho_town_c" scene_name_3="sho_town_c"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name_1="sho_town_c" scene_name_2="sho_town_c" scene_name_3="sho_town_c" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=stpD675i}Backstreet"/>
@@ -3213,7 +3213,7 @@
       <Area type="Waterfront" name="{=MAusOuPK}Waterfront"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KA5_1" name="{=BuDdh2hN}Annaka" posX="1217.047" posY="777.8341" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="village_KA5_1" name="{=BuDdh2hN}Annaka" posX="1217.047" posY="777.834" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="village_comp_KA5_1" village_type="VillageType.copper_mine" hearth="200" gate_rotation="0.008" bound="Settlement.town_KA5" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -3293,9 +3293,9 @@
       <Town id="castle_comp_KA2" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="715"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_j" scene_name_2="sho_castle_map_j" scene_name_3="sho_castle_map_j"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_j" scene_name_2="sho_castle_map_j" scene_name_3="sho_castle_map_j" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KA2_1" name="{=UmtiRMvI}Mutsura" posX="1326.246" posY="661.199" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -3365,9 +3365,9 @@
       <Town id="castle_comp_KA4" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="663"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_j" scene_name_2="sho_castle_map_j" scene_name_3="sho_castle_map_j"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_j" scene_name_2="sho_castle_map_j" scene_name_3="sho_castle_map_j" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KA4_1" name="{=4Qm8SgWv}Ichihara" posX="1397.419" posY="676.945" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -3437,9 +3437,9 @@
       <Town id="castle_comp_KA6" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1086"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KA6_1" name="{=1s4zTkO1}Sanuki" posX="1361.998" posY="642.146" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -3509,9 +3509,9 @@
       <Town id="castle_comp_KA8" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="716"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KA8_1" name="{=JaeqMZbL}Kominato" posX="1398.468" posY="630.698" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -3581,9 +3581,9 @@
       <Town id="castle_comp_KA10" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="747"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KA10_1" name="{=2cLzFoE1}Hatsukaichi" posX="1432.914" posY="703.946" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -3653,9 +3653,9 @@
       <Town id="castle_comp_KA12" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="825"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KA12_1" name="{=unBMdPnQ}Mito" posX="1404.604" posY="791.281" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -3725,9 +3725,9 @@
       <Town id="castle_comp_KA14" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="576"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_h" scene_name_2="sho_castle_map_h" scene_name_3="sho_castle_map_h"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_h" scene_name_2="sho_castle_map_h" scene_name_3="sho_castle_map_h" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KA14_1" name="{=GuVB0o4t}Shibukawa" posX="1266.19" posY="825.426" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -3797,9 +3797,9 @@
       <Town id="castle_comp_KA16" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1035"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KA16_1" name="{=9FKbt4zD}Fukaya" posX="1278.133" posY="768.526" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -3869,9 +3869,9 @@
       <Town id="castle_comp_KA18" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="914"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_e" scene_name_2="sho_castle_map_e" scene_name_3="sho_castle_map_e"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_e" scene_name_2="sho_castle_map_e" scene_name_3="sho_castle_map_e" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KA18_1" name="{=8UOoxztL}Nitta" posX="1287.515" posY="778.535" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -3941,9 +3941,9 @@
       <Town id="castle_comp_KA20" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1049"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_j" scene_name_2="sho_castle_map_j" scene_name_3="sho_castle_map_j"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_j" scene_name_2="sho_castle_map_j" scene_name_3="sho_castle_map_j" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KA20_1" name="{=VWIh1O6T}Mibu" posX="1351.37" posY="777.823" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -4013,9 +4013,9 @@
       <Town id="castle_comp_KA22" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1066"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_e" scene_name_2="sho_castle_map_e" scene_name_3="sho_castle_map_e"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_e" scene_name_2="sho_castle_map_e" scene_name_3="sho_castle_map_e" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KA22_1" name="{=uapC71GC}Kasama" posX="1384.435" posY="818.963" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -4085,9 +4085,9 @@
       <Town id="castle_comp_KA24" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="978"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_e" scene_name_2="sho_castle_map_e" scene_name_3="sho_castle_map_e"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_e" scene_name_2="sho_castle_map_e" scene_name_3="sho_castle_map_e" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KA24_1" name="{=5JkMs0GN}Ushiku" posX="1383.199" posY="733.512" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -4157,9 +4157,9 @@
       <Town id="castle_comp_KA26" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="522"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_c" scene_name_2="sho_castle_map_c" scene_name_3="sho_castle_map_c"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_c" scene_name_2="sho_castle_map_c" scene_name_3="sho_castle_map_c" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KA26_1" name="{=XpOX5VFs}Koga" posX="1339.594" posY="760.942" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -4229,9 +4229,9 @@
       <Town id="castle_comp_KA28" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="883"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KA28_1" name="{=KHJX6ldN}Fujita" posX="1254.764" posY="749.118" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -4324,14 +4324,14 @@
       <Town id="town_comp_KIN2" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="2500"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=stpD675i}Backstreet"/>
@@ -4442,14 +4442,14 @@
       <Town id="town_comp_KIN4" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="2120"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name_1="sho_town_b" scene_name_2="sho_town_b" scene_name_3="sho_town_b"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name_1="sho_town_b" scene_name_2="sho_town_b" scene_name_3="sho_town_b" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=stpD675i}Backstreet"/>
@@ -4560,14 +4560,14 @@
       <Town id="town_comp_KIN6" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="2700"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name_1="sho_town_b" scene_name_2="sho_town_b" scene_name_3="sho_town_b"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name_1="sho_town_b" scene_name_2="sho_town_b" scene_name_3="sho_town_b" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=stpD675i}Backstreet"/>
@@ -4588,7 +4588,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KIN6_2" name="{=zPlJZ4Et}Katada" posX="919.808" posY="622.831" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="village_KIN6_2" name="{=zPlJZ4Et}Katata" posX="919.808" posY="622.831" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="village_comp_KIN6_2" village_type="VillageType.cotton_farm" hearth="200" gate_rotation="0.008" bound="Settlement.town_KIN6" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -4678,9 +4678,9 @@
       <Town id="castle_comp_KIN1" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="775"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KIN1_1" name="{=8zJovLxd}Shisou" posX="763.421" posY="611.885" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -4750,9 +4750,9 @@
       <Town id="castle_comp_KIN3" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="703"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_e" scene_name_2="sho_castle_map_e" scene_name_3="sho_castle_map_e"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_e" scene_name_2="sho_castle_map_e" scene_name_3="sho_castle_map_e" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KIN3_1" name="{=FQrxDEty}Youfu" posX="781.784" posY="670.416" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -4822,9 +4822,9 @@
       <Town id="castle_comp_KIN5" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="945"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_j" scene_name_2="sho_castle_map_j" scene_name_3="sho_castle_map_j"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_j" scene_name_2="sho_castle_map_j" scene_name_3="sho_castle_map_j" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KIN5_1" name="{=TNmMVECR}Oshio" posX="795.379" posY="616.068" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -4894,9 +4894,9 @@
       <Town id="castle_comp_KIN7" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1076"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KIN7_1" name="{=TA6vAIHp}Hyogo" posX="837.814" posY="573.541" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -4966,9 +4966,9 @@
       <Town id="castle_comp_KIN9" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="690"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KIN9_1" name="{=Z6IR3pmc}Nagahama" posX="923.383" posY="662.079" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -5038,9 +5038,9 @@
       <Town id="castle_comp_KIN11" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="662"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_j" scene_name_2="sho_castle_map_j" scene_name_3="sho_castle_map_j"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_j" scene_name_2="sho_castle_map_j" scene_name_3="sho_castle_map_j" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KIN11_1" name="{=8BeZLj90}Tomi" posX="893.448" posY="579.433" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -5110,9 +5110,9 @@
       <Town id="castle_comp_KIN13" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="918"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KIN13_1" name="{=jxkb3kzF}Kaizuka" posX="849.134" posY="530.342" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -5375,9 +5375,9 @@
       <Town id="castle_comp_KIN20" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="978"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_e" scene_name_2="sho_castle_map_e" scene_name_3="sho_castle_map_e"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_e" scene_name_2="sho_castle_map_e" scene_name_3="sho_castle_map_e" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KIN20_1" name="{=DT6ynFvP}Minakuchi" posX="946.513" posY="590.773" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -5447,9 +5447,9 @@
       <Town id="castle_comp_KIN22" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="514"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KIN22_1" name="{=ZnlA58aj}Kuwana" posX="982.466" posY="613.655" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -5519,9 +5519,9 @@
       <Town id="castle_comp_KIN24" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="952"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_j" scene_name_2="sho_castle_map_j" scene_name_3="sho_castle_map_j"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_j" scene_name_2="sho_castle_map_j" scene_name_3="sho_castle_map_j" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KIN24_1" name="{=1rfay3TH}Komatsubara" posX="848.765" posY="459.927" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -5614,14 +5614,14 @@
       <Town id="town_comp_KY2" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.808" prosperity="5000"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name="sho_town_a" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name="sho_town_a" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=a0MVffcN}Backstreet"/>
@@ -5732,14 +5732,14 @@
       <Town id="town_comp_KY4" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.808" prosperity="3000"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name="sho_town_b" scene_name_1="sho_town_b" scene_name_2="sho_town_b" scene_name_3="sho_town_b"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name="sho_town_b" scene_name_1="sho_town_b" scene_name_2="sho_town_b" scene_name_3="sho_town_b" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=a0MVffcN}Backstreet"/>
@@ -5837,14 +5837,14 @@
       <Town id="town_comp_KY6" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.808" prosperity="2700"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name="sho_town_c" scene_name_1="sho_town_c" scene_name_2="sho_town_c" scene_name_3="sho_town_c"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name="sho_town_c" scene_name_1="sho_town_c" scene_name_2="sho_town_c" scene_name_3="sho_town_c" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=a0MVffcN}Backstreet"/>
@@ -5955,15 +5955,15 @@
       <Town id="town_comp_KY8" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.808" prosperity="2760"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name="sho_town_a" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
-      <Location id="alley"/>
+      <Location id="center" scene_name="sho_town_a" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
+      <Location id="alley" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=a0MVffcN}Backstreet"/>
@@ -6061,14 +6061,14 @@
       <Town id="town_comp_KY10" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.808" prosperity="2000"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name="sho_town_b" scene_name_1="sho_town_b" scene_name_2="sho_town_b" scene_name_3="sho_town_b"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name="sho_town_b" scene_name_1="sho_town_b" scene_name_2="sho_town_b" scene_name_3="sho_town_b" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=a0MVffcN}Backstreet"/>
@@ -6166,9 +6166,9 @@
       <Town id="castle_comp_KY1" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_town" gate_rotation="0.908" prosperity="1037"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="sho_castle_map_d" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name="sho_castle_map_d" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KY1_1" name="{=rRgHbmlr}Nejime" posX="347.085" posY="128.559" culture="Culture.saikai" text="{=shokuho47a91543}">
@@ -6238,9 +6238,9 @@
       <Town id="castle_comp_KY3" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_town" gate_rotation="0.908" prosperity="1080"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="sho_castle_map_b" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name="sho_castle_map_b" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KY3_1" name="{=1Fr3VoTo}Tarumizu" posX="340.952" posY="174.947" culture="Culture.saikai" text="{=shokuho47a91543}">
@@ -6310,9 +6310,9 @@
       <Town id="castle_comp_KY5" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_town" gate_rotation="0.908" prosperity="744"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="sho_castle_map_i" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name="sho_castle_map_i" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KY5_1" name="{=yIiSFFeh}Kamou" posX="313.048" posY="210.614" culture="Culture.saikai" text="{=shokuho47a91543}">
@@ -6382,9 +6382,9 @@
       <Town id="castle_comp_KY7" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_town" gate_rotation="0.908" prosperity="937"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="sho_castle_map_d" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name="sho_castle_map_d" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KY7_1" name="{=1PXeijMQ}Yamagawa" posX="310.603" posY="157.417" culture="Culture.saikai" text="{=shokuho47a91543}">
@@ -6454,9 +6454,9 @@
       <Town id="castle_comp_KY9" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_town" gate_rotation="0.908" prosperity="657"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="sho_castle_map_b" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name="sho_castle_map_b" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KY9_1" name="{=5cBCgUn1}Kushikino" posX="291.199" posY="201.194" culture="Culture.saikai" text="{=shokuho47a91543}">
@@ -6526,9 +6526,9 @@
       <Town id="castle_comp_KY11" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_town" gate_rotation="0.908" prosperity="564"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="sho_castle_map_d" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name="sho_castle_map_d" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KY11_1" name="{=cXYrWwnD}Sakatani" posX="390.827" posY="194.836" culture="Culture.saikai" text="{=shokuho47a91543}">
@@ -6598,9 +6598,9 @@
       <Town id="castle_comp_KY13" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_town" gate_rotation="0.908" prosperity="607"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="sho_castle_map_b" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name="sho_castle_map_b" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KY13_1" name="{=3DfoUkQy}Nojiri" posX="383.851" posY="227.06" culture="Culture.saikai" text="{=shokuho47a91543}">
@@ -6670,9 +6670,9 @@
       <Town id="castle_comp_KY15" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_town" gate_rotation="0.908" prosperity="1022"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="sho_castle_map_c" scene_name_1="sho_castle_map_c" scene_name_2="sho_castle_map_c" scene_name_3="sho_castle_map_c"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name="sho_castle_map_c" scene_name_1="sho_castle_map_c" scene_name_2="sho_castle_map_c" scene_name_3="sho_castle_map_c" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KY15_1" name="{=RnY20xbi}Kume" posX="363.723" posY="258.569" culture="Culture.saikai" text="{=shokuho47a91543}">
@@ -6742,9 +6742,9 @@
       <Town id="castle_comp_KY17" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_town" gate_rotation="0.908" prosperity="686"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="sho_castle_map_j" scene_name_1="sho_castle_map_j" scene_name_2="sho_castle_map_j" scene_name_3="sho_castle_map_j"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name="sho_castle_map_j" scene_name_1="sho_castle_map_j" scene_name_2="sho_castle_map_j" scene_name_3="sho_castle_map_j" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KY17_1" name="{=VtJMB9Su}Tokubuchitsu" posX="319.02" posY="292.38" culture="Culture.saikai" text="{=shokuho47a91543}">
@@ -6814,9 +6814,9 @@
       <Town id="castle_comp_KY19" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_town" gate_rotation="0.908" prosperity="766"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="sho_castle_map_i" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name="sho_castle_map_i" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KY19_1" name="{=RJwm8sOR}Fujikita" posX="404.436" posY="380.971" culture="Culture.saikai" text="{=shokuho47a91543}">
@@ -6886,9 +6886,9 @@
       <Town id="castle_comp_KY21" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_town" gate_rotation="0.908" prosperity="942"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="sho_castle_map_i" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name="sho_castle_map_i" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KY21_1" name="{=svF9a3AO}Sakamoto" posX="346.522" posY="413.405" culture="Culture.saikai" text="{=shokuho47a91543}">
@@ -6958,9 +6958,9 @@
       <Town id="castle_comp_KY23" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_town" gate_rotation="0.908" prosperity="750"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="sho_castle_map_b" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name="sho_castle_map_b" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KY23_1" name="{=5OrsY3Wz}Maki" posX="367.829" posY="329.937" culture="Culture.saikai" text="{=shokuho47a91543}">
@@ -7030,9 +7030,9 @@
       <Town id="castle_comp_KY25" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_town" gate_rotation="0.908" prosperity="730"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="sho_castle_map_d" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name="sho_castle_map_d" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KY25_1" name="{=0QTdZKo2}Moji" posX="359.794" posY="473.612" culture="Culture.saikai" text="{=shokuho47a91543}">
@@ -7102,9 +7102,9 @@
       <Town id="castle_comp_KY27" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_town" gate_rotation="0.908" prosperity="735"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="sho_castle_map_i" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name="sho_castle_map_i" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KY27_1" name="{=SBckHhdZ}Chifu" posX="279.986" posY="407.234" culture="Culture.saikai" text="{=shokuho47a91543}">
@@ -7174,9 +7174,9 @@
       <Town id="castle_comp_KY29" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_town" gate_rotation="0.908" prosperity="649"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="sho_castle_map_d" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name="sho_castle_map_d" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KY29_1" name="{=nBaMGgNo}Iwamatsu" posX="260.274" posY="336.184" culture="Culture.saikai" text="{=shokuho47a91543}">
@@ -7246,9 +7246,9 @@
       <Town id="castle_comp_KY31" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="976"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_h" scene_name_2="sho_castle_map_h" scene_name_3="sho_castle_map_h"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_h" scene_name_2="sho_castle_map_h" scene_name_3="sho_castle_map_h" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_KY31_1" name="{=j1XEMyqn}Mashiki" posX="359.427" posY="321.495" culture="Culture.saikai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -7318,14 +7318,14 @@
       <Town id="town_comp_SHI1" is_castle="false" level="2" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.638" prosperity="1760"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name="sho_town_a" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name="sho_town_a" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=a0MVffcN}Backstreet"/>
@@ -7436,14 +7436,14 @@
       <Town id="town_comp_SHI4" is_castle="false" level="2" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.638" prosperity="3600"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name="sho_town_a" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name="sho_town_a" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=a0MVffcN}Backstreet"/>
@@ -7554,14 +7554,14 @@
       <Town id="town_comp_SHI6" is_castle="false" level="2" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.638" prosperity="1520"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name="sho_town_a" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name="sho_town_a" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=a0MVffcN}Backstreet"/>
@@ -7654,17 +7654,17 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_SHI1" name="{=KDinodgg}Ima Castle" owner="Faction.clan_ichijo_1" posX="596.059" posY="393.955" culture="Culture.nankai" gate_posX="594.2717" gate_posY="392.861">
+  <Settlement id="castle_SHI1" name="{=KDinodgg}Himenono Castle" owner="Faction.clan_ichijo_1" posX="596.059" posY="393.955" culture="Culture.nankai" gate_posX="594.2717" gate_posY="392.861">
     <Components>
       <Town id="castle_comp_SHI1" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_town" gate_rotation="0.000" prosperity="1035"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="sho_castle_map_h" scene_name_1="sho_castle_map_h" scene_name_2="sho_castle_map_h" scene_name_3="sho_castle_map_h"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name="sho_castle_map_h" scene_name_1="sho_castle_map_h" scene_name_2="sho_castle_map_h" scene_name_3="sho_castle_map_h" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_SHI1_1" name="{=k2dvsiaD}Omori" posX="598.31" posY="374.638" culture="Culture.nankai" text="{=vEYNurYp}No Description">
+  <Settlement id="castle_village_SHI1_1" name="{=k2dvsiaD}Yotsu" posX="598.31" posY="374.638" culture="Culture.nankai" text="{=vEYNurYp}No Description">
     <Components>
       <Village id="castle_village_comp_SHI1_1" village_type="VillageType.mandarin_farm" hearth="100" gate_rotation="0.000" bound="Settlement.castle_SHI1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7677,7 +7677,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_SHI1_2" name="{=nAzazSPE}Kawagomori" posX="603.039" posY="386.562" culture="Culture.nankai" text="{=vEYNurYp}No Description">
+  <Settlement id="castle_village_SHI1_2" name="{=nAzazSPE}Susaki" posX="603.039" posY="386.562" culture="Culture.nankai" text="{=vEYNurYp}No Description">
     <Components>
       <Village id="astle_village_comp_SHI1_2" village_type="VillageType.cotton_farm" hearth="100" gate_rotation="0.000" bound="Settlement.castle_SHI1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7731,9 +7731,9 @@
       <Town id="castle_comp_SHI3" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_town" gate_rotation="0.000" prosperity="988"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="sho_castle_map_c" scene_name_1="sho_castle_map_c" scene_name_2="sho_castle_map_c" scene_name_3="sho_castle_map_c"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name="sho_castle_map_c" scene_name_1="sho_castle_map_c" scene_name_2="sho_castle_map_c" scene_name_3="sho_castle_map_c" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_SHI3_1" name="{=IOanxV4Y}Fukaura" posX="540.228" posY="359.807" culture="Culture.nankai" text="{=vEYNurYp}No Description">
@@ -7803,9 +7803,9 @@
       <Town id="castle_comp_SHI5" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_town" gate_rotation="0.000" prosperity="902"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="sho_castle_map_j" scene_name_1="sho_castle_map_j" scene_name_2="sho_castle_map_j" scene_name_3="sho_castle_map_j"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name="sho_castle_map_j" scene_name_1="sho_castle_map_j" scene_name_2="sho_castle_map_j" scene_name_3="sho_castle_map_j" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_SHI5_1" name="{=Tz4Dextk}Ino" posX="619.405" posY="441.812" culture="Culture.nankai" text="{=vEYNurYp}No Description">
@@ -7875,9 +7875,9 @@
       <Town id="castle_comp_SHI7" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_town" gate_rotation="0.000" prosperity="1035"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="sho_castle_map_h" scene_name_1="sho_castle_map_h" scene_name_2="sho_castle_map_h" scene_name_3="sho_castle_map_h"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name="sho_castle_map_h" scene_name_1="sho_castle_map_h" scene_name_2="sho_castle_map_h" scene_name_3="sho_castle_map_h" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_SHI7_1" name="{=3Gtl1ZWV}Umaji" posX="669.077" posY="454.55" culture="Culture.nankai" text="{=vEYNurYp}No Description">
@@ -7916,7 +7916,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_SHI8_1" name="{=nmm8Bu6b}Kouso" posX="686.729" posY="438.55" culture="Culture.nankai" text="{=vEYNurYp}No Description">
+  <Settlement id="castle_village_SHI8_1" name="{=FMZ0ghV3}Inoguchi" posX="686.729" posY="438.55" culture="Culture.nankai" text="{=vEYNurYp}No Description">
     <Components>
       <Village id="castle_village_comp_SHI8_1" village_type="VillageType.trapper" hearth="100" gate_rotation="0.000" bound="Settlement.castle_SHI8" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7947,9 +7947,9 @@
       <Town id="castle_comp_SHI9" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_town" gate_rotation="0.000" prosperity="644"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="sho_castle_map_d" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name="sho_castle_map_d" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_SHI9_1" name="{=BwdDTePk}Murotsu" posX="704.716" posY="414.199" culture="Culture.nankai" text="{=vEYNurYp}No Description">
@@ -8019,9 +8019,9 @@
       <Town id="castle_comp_SHI11" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_town" gate_rotation="0.000" prosperity="536"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="sho_castle_map_d" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name="sho_castle_map_d" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_SHI11_1" name="{=5Y2Acdc9}Bekku" posX="749.63" posY="502.286" culture="Culture.nankai" text="{=vEYNurYp}No Description">
@@ -8070,7 +8070,7 @@
       <Area type="Waterfront" name="{=MAusOuPK}Waterfront"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_TOHO1_1" name="{=WZ9TXunv}Kitada" posX="1349.669" posY="946.801" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="village_TOHO1_1" name="{=qZJxFCAP}Kouzashi" posX="1349.669" posY="946.801" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="village_comp_TOHO1_1" village_type="VillageType.salt_mine" hearth="200" gate_rotation="0.008" bound="Settlement.town_TOHO1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -8096,7 +8096,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_TOHO1_3" name="{=WZ9TXunv}Kitada" posX="1372.465" posY="926.156" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="village_TOHO1_3" name="{=x3I1aFDf}Sakigawa" posX="1372.465" posY="926.156" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="village_comp_TOHO1_3" village_type="VillageType.ramie_farm" hearth="200" gate_rotation="0.008" bound="Settlement.town_TOHO1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -8114,14 +8114,14 @@
       <Town id="town_comp_TOHO2" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1280"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name_1="sho_town_c" scene_name_2="sho_town_c" scene_name_3="sho_town_c"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name_1="sho_town_c" scene_name_2="sho_town_c" scene_name_3="sho_town_c" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=stpD675i}Backstreet"/>
@@ -8232,14 +8232,14 @@
       <Town id="town_comp_TOHO4" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="3100"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=stpD675i}Backstreet"/>
@@ -8350,14 +8350,14 @@
       <Town id="town_comp_TOHO6" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="2080"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=stpD675i}Backstreet"/>
@@ -8468,14 +8468,14 @@
       <Town id="town_comp_TOHO8" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="2880"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a"/>
-      <Location id="arena" scene_name="sho_arena_b"/>
-      <Location id="tavern" scene_name="sho_tavern_a"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
-      <Location id="house_1" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_2" scene_name="empire_house_d_interior_house"/>
-      <Location id="house_3" scene_name="empire_house_d_interior_house"/>
+      <Location id="center" scene_name_1="sho_town_a" scene_name_2="sho_town_a" scene_name_3="sho_town_a" />
+      <Location id="arena" scene_name="sho_arena_b" />
+      <Location id="tavern" scene_name="sho_tavern_a" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
     </Locations>
     <CommonAreas>
       <Area type="Backstreet" name="{=stpD675i}Backstreet"/>
@@ -8563,9 +8563,9 @@
       <Town id="castle_comp_TOHO2" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="837"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_TOHO2_1" name="{=0nigus9o}Shirozu" posX="1409.836" posY="938.063" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -8635,9 +8635,9 @@
       <Town id="castle_comp_TOHO4" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="658"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_c" scene_name_2="sho_castle_map_c" scene_name_3="sho_castle_map_c"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_c" scene_name_2="sho_castle_map_c" scene_name_3="sho_castle_map_c" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_TOHO4_1" name="{=umB4cBex}Tamura" posX="1441.395" posY="908.006" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -8707,9 +8707,9 @@
       <Town id="castle_comp_TOHO6" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="835"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_TOHO6_1" name="{=uJ6CdWHi}Shirado" posX="1465.437" posY="863.183" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -8779,9 +8779,9 @@
       <Town id="castle_comp_TOHO8" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="959"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_c" scene_name_2="sho_castle_map_c" scene_name_3="sho_castle_map_c"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_c" scene_name_2="sho_castle_map_c" scene_name_3="sho_castle_map_c" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_TOHO8_1" name="{=C2H4DaQK}Kakeda" posX="1438.704" posY="974.659" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -8851,9 +8851,9 @@
       <Town id="castle_comp_TOHO10" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="752"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_e" scene_name_2="sho_castle_map_e" scene_name_3="sho_castle_map_e"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_e" scene_name_2="sho_castle_map_e" scene_name_3="sho_castle_map_e" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_TOHO10_1" name="{=FXqfnZn9}Sakatsuda" posX="1449.05" posY="1008.834" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -8923,9 +8923,9 @@
       <Town id="castle_comp_TOHO12" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="638"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_TOHO12_1" name="{=OMLWJ5Fr}Shiogama" posX="1478.585" posY="1050.759" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -8995,9 +8995,9 @@
       <Town id="castle_comp_TOHO14" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="800"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_TOHO14_1" name="{=76tvhW5p}Ichikuri" posX="1462.083" posY="1085.457" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -9067,9 +9067,9 @@
       <Town id="castle_comp_TOHO16" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="536"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_j" scene_name_2="sho_castle_map_j" scene_name_3="sho_castle_map_j"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_j" scene_name_2="sho_castle_map_j" scene_name_3="sho_castle_map_j" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_TOHO16_1" name="{=nWaehi3F}Sanuma" posX="1498.746" posY="1086.222" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -9139,9 +9139,9 @@
       <Town id="castle_comp_TOHO18" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="707"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_TOHO18_1" name="{=Zofovajl}Kisakata" posX="1361.574" posY="1129.882" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -9211,9 +9211,9 @@
       <Town id="castle_comp_TOHO20" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="633"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_TOHO20_1" name="{=vjlhfzst}Iwasaki" posX="1416.565" posY="1154.743" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -9283,9 +9283,9 @@
       <Town id="castle_comp_TOHO22" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="850"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_d" scene_name_2="sho_castle_map_d" scene_name_3="sho_castle_map_d" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_TOHO22_1" name="{=BONgbdKq}Karakuwa" posX="1548.865" posY="1127.992" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -9355,9 +9355,9 @@
       <Town id="castle_comp_TOHO24" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="852"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_h" scene_name_2="sho_castle_map_h" scene_name_3="sho_castle_map_h"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_h" scene_name_2="sho_castle_map_h" scene_name_3="sho_castle_map_h" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_TOHO24_1" name="{=UogO5FoZ}Takusari" posX="1568.662" posY="1213.469" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -9427,9 +9427,9 @@
       <Town id="castle_comp_TOHO26" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="590"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_h" scene_name_2="sho_castle_map_h" scene_name_3="sho_castle_map_h"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_h" scene_name_2="sho_castle_map_h" scene_name_3="sho_castle_map_h" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_TOHO26_1" name="{=FVZd8Tl0}Naraoka" posX="1424.463" posY="1197.863" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -9499,9 +9499,9 @@
       <Town id="castle_comp_TOHO28" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="867"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_b" scene_name_2="sho_castle_map_b" scene_name_3="sho_castle_map_b" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_TOHO28_1" name="{=uces05JF}Hanaoka" posX="1423.911" posY="1303.812" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -9571,9 +9571,9 @@
       <Town id="castle_comp_TOHO30" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="761"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_e" scene_name_2="sho_castle_map_e" scene_name_3="sho_castle_map_e"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_e" scene_name_2="sho_castle_map_e" scene_name_3="sho_castle_map_e" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_TOHO30_1" name="{=IrLmW3mx}Kuji" posX="1568.283" posY="1276.908" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -9643,9 +9643,9 @@
       <Town id="castle_comp_TOHO32" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="684"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_i" scene_name_2="sho_castle_map_i" scene_name_3="sho_castle_map_i" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_TOHO32_1" name="{=j8k6HP7X}Yokohama" posX="1515.311" posY="1399.633" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
@@ -9715,9 +9715,9 @@
       <Town id="castle_comp_TOHO34" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1007"/>
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name_1="sho_castle_map_c" scene_name_2="sho_castle_map_c" scene_name_3="sho_castle_map_c"/>
-      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene"/>
-      <Location id="prison" scene_name="sho_prison_a"/>
+      <Location id="center" scene_name_1="sho_castle_map_c" scene_name_2="sho_castle_map_c" scene_name_3="sho_castle_map_c" />
+      <Location id="lordshall" scene_name_1="sho_keep_scene" scene_name_2="sho_keep_scene" scene_name_3="sho_keep_scene" />
+      <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
   <Settlement id="castle_village_TOHO34_1" name="{=EUW4qdGe}Aburakawa" posX="1447.247" posY="1366.466" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
