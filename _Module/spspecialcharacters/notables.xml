@@ -3689,7 +3689,7 @@
 		</Equipments>
 	</NPCCharacter>
 
-	<!--Tosan-->
+	<!--Tousan-->
 	<NPCCharacter id="spc_notable_tosan_0"
 				  name="{=Mc4JptO8}Cautious imperial merchant"
 				  is_template="true"

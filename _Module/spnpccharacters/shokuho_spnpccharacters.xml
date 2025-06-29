@@ -271,7 +271,7 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-    <!--Tosan-->
+    <!--Tousan-->
     <NPCCharacter id="caravan_master_tosan" default_group="Infantry" level="26" name="{=SAZxQxZ3}Tousan Caravan Master" occupation="CaravanGuard" culture="Culture.tosan" skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
