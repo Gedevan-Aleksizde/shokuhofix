@@ -21,28 +21,28 @@
     </upgrade_targets>
     <Equipments>
       <EquipmentRoster civilian="true">
-        <Equipment slot="Item0" id="Item.sho_kama_1"/>
-        <Equipment slot="Body" id="Item.sho_kosodehakama_1"/>
-        <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+        <equipment slot="Item0" id="Item.sho_kama_1"/>
+        <equipment slot="Body" id="Item.sho_kosodehakama_1"/>
+        <equipment slot="Leg" id="Item.sho_waraji_a"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_bamboo_spear"/>
-        <Equipment slot="Head" id="Item.sho_sandogasa_hat"/>
-        <Equipment slot="Body" id="Item.sho_peasant_outfit_h"/>
-        <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+        <equipment slot="Item0" id="Item.sho_bamboo_spear"/>
+        <equipment slot="Head" id="Item.sho_sandogasa_hat"/>
+        <equipment slot="Body" id="Item.sho_peasant_outfit_h"/>
+        <equipment slot="Leg" id="Item.sho_waraji_a"/>
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_wakizashi_1"/>
         <equipment slot="Body" id="Item.sho_peasant_outfit_i"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_peasant_hatchet_1_t1"/>
-        <Equipment slot="Body" id="Item.sho_peasant_outfit_h"/>
-        <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+        <equipment slot="Item0" id="Item.sho_peasant_hatchet_1_t1"/>
+        <equipment slot="Body" id="Item.sho_peasant_outfit_h"/>
+        <equipment slot="Leg" id="Item.sho_waraji_a"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_wakizashi_1"/>
-        <Equipment slot="Body" id="Item.sho_kosodehakama_2"/>
+        <equipment slot="Item0" id="Item.sho_wakizashi_1"/>
+        <equipment slot="Body" id="Item.sho_kosodehakama_2"/>
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_wakizashi_1"/>
@@ -61,16 +61,16 @@
         <equipment slot="Cape" id="Item.sho_minko_cape"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_kama_3"/>
-        <Equipment slot="Head" id="Item.sho_sandogasa_hat"/>
-        <Equipment slot="Body" id="Item.sho_peasant_outfit_f"/>
-        <Equipment slot="Cape" id="Item.sho_minko_cape"/>
+        <equipment slot="Item0" id="Item.sho_kama_3"/>
+        <equipment slot="Head" id="Item.sho_sandogasa_hat"/>
+        <equipment slot="Body" id="Item.sho_peasant_outfit_f"/>
+        <equipment slot="Cape" id="Item.sho_minko_cape"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_peasant_hatchet_1_t1"/>
-        <Equipment slot="Head" id="Item.sho_sandogasa_hat"/>
-        <Equipment slot="Body" id="Item.sho_peasant_outfit_j"/>
-        <Equipment slot="Cape" id="Item.sho_minko_cape"/>
+        <equipment slot="Item0" id="Item.sho_peasant_hatchet_1_t1"/>
+        <equipment slot="Head" id="Item.sho_sandogasa_hat"/>
+        <equipment slot="Body" id="Item.sho_peasant_outfit_j"/>
+        <equipment slot="Cape" id="Item.sho_minko_cape"/>
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_bamboo_spear"/>
@@ -78,9 +78,9 @@
         <equipment slot="Leg" id="Item.sho_waraji_a"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_bamboo_spear"/>
-        <Equipment slot="Head" id="Item.sho_sandogasa_hat"/>
-        <Equipment slot="Body" id="Item.sho_peasant_outfit_f"/>
+        <equipment slot="Item0" id="Item.sho_bamboo_spear"/>
+        <equipment slot="Head" id="Item.sho_sandogasa_hat"/>
+        <equipment slot="Body" id="Item.sho_peasant_outfit_f"/>
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_wakizashi_1"/>
@@ -112,18 +112,18 @@
     </upgrade_targets>
     <Equipments>
       <EquipmentRoster civilian="true">
-        <Equipment slot="Item0" id="Item.sho_katana_4"/>
-        <Equipment slot="Head" id="Item.sho_monk_headwrap_b_2"/>
-        <Equipment slot="Body" id="Item.sho_peasant_pants_f"/>
-        <Equipment slot="Leg" id="Item.sho_low_tier_suneate_a_8"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_1_kote_a_7"/>
+        <equipment slot="Item0" id="Item.sho_katana_4"/>
+        <equipment slot="Head" id="Item.sho_monk_headwrap_b_2"/>
+        <equipment slot="Body" id="Item.sho_peasant_pants_f"/>
+        <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_8"/>
+        <equipment slot="Gloves" id="Item.sho_tier_1_kote_a_7"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_katana_4"/>
-        <Equipment slot="Head" id="Item.sho_monk_headwrap_b_1"/>
-        <Equipment slot="Body" id="Item.sho_kosodehakama_1"/>
-        <Equipment slot="Leg" id="Item.sho_low_tier_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_1_kote_a_6"/>
+        <equipment slot="Item0" id="Item.sho_katana_4"/>
+        <equipment slot="Head" id="Item.sho_monk_headwrap_b_1"/>
+        <equipment slot="Body" id="Item.sho_kosodehakama_1"/>
+        <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_1_kote_a_6"/>
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_katana_1"/>
@@ -132,11 +132,11 @@
         <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_8"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_katana_1"/>
-        <Equipment slot="Head" id="Item.sho_monk_headwrap_b_2"/>
-        <Equipment slot="Body" id="Item.sho_peasant_pants_f"/>
-        <Equipment slot="Leg" id="Item.sho_low_tier_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_1_kote_a_8"/>
+        <equipment slot="Item0" id="Item.sho_katana_1"/>
+        <equipment slot="Head" id="Item.sho_monk_headwrap_b_2"/>
+        <equipment slot="Body" id="Item.sho_peasant_pants_f"/>
+        <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_1_kote_a_8"/>
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_katana_2"/>
@@ -173,12 +173,12 @@
     </upgrade_targets>
     <Equipments>
       <EquipmentRoster civilian="true">
-        <Equipment slot="Item0" id="Item.sho_tanegashima_musket"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_wakizashi_2"/>
-        <Equipment slot="Head" id="Item.sho_monk_headwrap_b_1"/>
-        <Equipment slot="Body" id="Item.sho_ashi_2_kozane_l"/>
-        <Equipment slot="Leg" id="Item.sho_low_tier_suneate_a_15"/>
+        <equipment slot="Item0" id="Item.sho_tanegashima_musket"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_wakizashi_2"/>
+        <equipment slot="Head" id="Item.sho_monk_headwrap_b_1"/>
+        <equipment slot="Body" id="Item.sho_ashi_2_kozane_l"/>
+        <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_15"/>
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_tanegashima_musket_3"/>
@@ -197,28 +197,28 @@
         <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_17"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_tanegashima_musket_2"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_wakizashi_2"/>
-        <Equipment slot="Head" id="Item.sho_monk_headwrap_b_1"/>
-        <Equipment slot="Body" id="Item.sho_ashi_2_kozane_k"/>
-        <Equipment slot="Leg" id="Item.sho_low_tier_suneate_a_10"/>
+        <equipment slot="Item0" id="Item.sho_tanegashima_musket_2"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_wakizashi_2"/>
+        <equipment slot="Head" id="Item.sho_monk_headwrap_b_1"/>
+        <equipment slot="Body" id="Item.sho_ashi_2_kozane_k"/>
+        <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_10"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_tanegashima_musket_2"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_wakizashi_2"/>
-        <Equipment slot="Head" id="Item.sho_monk_headwrap_b_2"/>
-        <Equipment slot="Body" id="Item.sho_ashi_2_kozane_l"/>
-        <Equipment slot="Leg" id="Item.sho_low_tier_suneate_a_10"/>
+        <equipment slot="Item0" id="Item.sho_tanegashima_musket_2"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_wakizashi_2"/>
+        <equipment slot="Head" id="Item.sho_monk_headwrap_b_2"/>
+        <equipment slot="Body" id="Item.sho_ashi_2_kozane_l"/>
+        <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_10"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_tanegashima_musket_3"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_wakizashi_1"/>
-        <Equipment slot="Head" id="Item.sho_monk_headwrap_b_2"/>
-        <Equipment slot="Body" id="Item.sho_ashi_2_kozane_k"/>
-        <Equipment slot="Leg" id="Item.sho_low_tier_suneate_a_17"/>
+        <equipment slot="Item0" id="Item.sho_tanegashima_musket_3"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_wakizashi_1"/>
+        <equipment slot="Head" id="Item.sho_monk_headwrap_b_2"/>
+        <equipment slot="Body" id="Item.sho_ashi_2_kozane_k"/>
+        <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_17"/>
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
@@ -238,13 +238,13 @@
     </skills>
     <Equipments>
       <EquipmentRoster civilian="true">
-        <Equipment slot="Item0" id="Item.tanegashima_musket_3"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_katana_5"/>
-        <Equipment slot="Head" id="Item.sho_monk_headwrap_b_1"/>
-        <Equipment slot="Body" id="Item.sho_tatami_armor_b"/>
-        <Equipment slot="Leg" id="Item.sho_low_tier_suneate_a_10"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_2_kote_a_8"/>
+        <equipment slot="Item0" id="Item.tanegashima_musket_3"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_katana_5"/>
+        <equipment slot="Head" id="Item.sho_monk_headwrap_b_1"/>
+        <equipment slot="Body" id="Item.sho_tatami_armor_b"/>
+        <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_10"/>
+        <equipment slot="Gloves" id="Item.sho_tier_2_kote_a_8"/>
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.tanegashima_musket_2"/>
@@ -256,40 +256,40 @@
         <equipment slot="Gloves" id="Item.sho_tier_2_kote_a_7"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.tanegashima_musket"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_katana_5"/>
-        <Equipment slot="Head" id="Item.sho_monk_headwrap_b_2"/>
-        <Equipment slot="Body" id="Item.sho_tatami_armor_d"/>
-        <Equipment slot="Leg" id="Item.sho_low_tier_suneate_a_14"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_2_kote_a_4"/>
+        <equipment slot="Item0" id="Item.tanegashima_musket"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_katana_5"/>
+        <equipment slot="Head" id="Item.sho_monk_headwrap_b_2"/>
+        <equipment slot="Body" id="Item.sho_tatami_armor_d"/>
+        <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_14"/>
+        <equipment slot="Gloves" id="Item.sho_tier_2_kote_a_4"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.tanegashima_musket_3"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_katana_23"/>
-        <Equipment slot="Head" id="Item.sho_monk_headwrap_b_1"/>
-        <Equipment slot="Body" id="Item.sho_tatami_armor_a"/>
-        <Equipment slot="Leg" id="Item.sho_low_tier_suneate_a_15"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_2_kote_a_8"/>
+        <equipment slot="Item0" id="Item.tanegashima_musket_3"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_katana_23"/>
+        <equipment slot="Head" id="Item.sho_monk_headwrap_b_1"/>
+        <equipment slot="Body" id="Item.sho_tatami_armor_a"/>
+        <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_15"/>
+        <equipment slot="Gloves" id="Item.sho_tier_2_kote_a_8"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.tanegashima_musket"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_katana_23"/>
-        <Equipment slot="Head" id="Item.sho_monk_headwrap_b_2"/>
-        <Equipment slot="Body" id="Item.sho_tatami_armor_d"/>
-        <Equipment slot="Leg" id="Item.sho_low_tier_suneate_a_14"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_2_kote_a_6"/>
+        <equipment slot="Item0" id="Item.tanegashima_musket"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_katana_23"/>
+        <equipment slot="Head" id="Item.sho_monk_headwrap_b_2"/>
+        <equipment slot="Body" id="Item.sho_tatami_armor_d"/>
+        <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_14"/>
+        <equipment slot="Gloves" id="Item.sho_tier_2_kote_a_6"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.tanegashima_musket_2"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_katana_5"/>
-        <Equipment slot="Head" id="Item.sho_monk_headwrap_b_1"/>
-        <Equipment slot="Body" id="Item.sho_tatami_armor_c"/>
-        <Equipment slot="Leg" id="Item.sho_low_tier_suneate_a_11"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_2_kote_a_2"/>
+        <equipment slot="Item0" id="Item.tanegashima_musket_2"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_katana_5"/>
+        <equipment slot="Head" id="Item.sho_monk_headwrap_b_1"/>
+        <equipment slot="Body" id="Item.sho_tatami_armor_c"/>
+        <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_11"/>
+        <equipment slot="Gloves" id="Item.sho_tier_2_kote_a_2"/>
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
@@ -314,81 +314,81 @@
     </upgrade_targets>
     <Equipments>
       <EquipmentRoster civilian="true">
-        <Equipment slot="Item0" id="Item.sho_yari_1"/>
-        <Equipment slot="Head" id="Item.sho_momonari_kabuto_a"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_7"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_2"/>
+        <equipment slot="Item0" id="Item.sho_yari_1"/>
+        <equipment slot="Head" id="Item.sho_momonari_kabuto_a"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_7"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_2"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_17"/>
-        <Equipment slot="Head" id="Item.sho_momonari_kabuto_b"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_c"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_5"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_7"/>
+        <equipment slot="Item0" id="Item.sho_yari_17"/>
+        <equipment slot="Head" id="Item.sho_momonari_kabuto_b"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_c"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_5"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_7"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_29"/>
-        <Equipment slot="Head" id="Item.sho_momonari_kabuto_a"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_8"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_7"/>
+        <equipment slot="Item0" id="Item.sho_yari_29"/>
+        <equipment slot="Head" id="Item.sho_momonari_kabuto_a"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_8"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_7"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_17"/>
-        <Equipment slot="Head" id="Item.sho_momonari_kabuto_c"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_8"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_3"/>
+        <equipment slot="Item0" id="Item.sho_yari_17"/>
+        <equipment slot="Head" id="Item.sho_momonari_kabuto_c"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_8"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_3"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_29"/>
-        <Equipment slot="Head" id="Item.sho_momonari_kabuto_b"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_7"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_3"/>
+        <equipment slot="Item0" id="Item.sho_yari_29"/>
+        <equipment slot="Head" id="Item.sho_momonari_kabuto_b"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_7"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_3"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_30"/>
-        <Equipment slot="Head" id="Item.sho_momonari_kabuto_c"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_8"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_6"/>
+        <equipment slot="Item0" id="Item.sho_yari_30"/>
+        <equipment slot="Head" id="Item.sho_momonari_kabuto_c"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_8"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_6"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_30"/>
-        <Equipment slot="Head" id="Item.sho_momonari_kabuto_b"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_5"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_1"/>
+        <equipment slot="Item0" id="Item.sho_yari_30"/>
+        <equipment slot="Head" id="Item.sho_momonari_kabuto_b"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_5"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_1"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_1"/>
-        <Equipment slot="Head" id="Item.sho_momonari_kabuto_b"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_5"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_1"/>
+        <equipment slot="Item0" id="Item.sho_yari_1"/>
+        <equipment slot="Head" id="Item.sho_momonari_kabuto_b"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_5"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_1"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_1"/>
-        <Equipment slot="Head" id="Item.sho_momonari_kabuto_a"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_8"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_5"/>
+        <equipment slot="Item0" id="Item.sho_yari_1"/>
+        <equipment slot="Head" id="Item.sho_momonari_kabuto_a"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_8"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_5"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_17"/>
-        <Equipment slot="Head" id="Item.sho_momonari_kabuto_b"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_7"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_7"/>
+        <equipment slot="Item0" id="Item.sho_yari_17"/>
+        <equipment slot="Head" id="Item.sho_momonari_kabuto_b"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_7"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_7"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_30"/>
-        <Equipment slot="Head" id="Item.sho_momonari_kabuto_b"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_5"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_5"/>
+        <equipment slot="Item0" id="Item.sho_yari_30"/>
+        <equipment slot="Head" id="Item.sho_momonari_kabuto_b"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_5"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_5"/>
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_yari_30"/>
@@ -398,18 +398,18 @@
         <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_2"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_17"/>
-        <Equipment slot="Head" id="Item.sho_momonari_kabuto_b"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_5"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_1"/>
+        <equipment slot="Item0" id="Item.sho_yari_17"/>
+        <equipment slot="Head" id="Item.sho_momonari_kabuto_b"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_5"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_1"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_17"/>
-        <Equipment slot="Head" id="Item.sho_momonari_kabuto_a"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_8"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_5"/>
+        <equipment slot="Item0" id="Item.sho_yari_17"/>
+        <equipment slot="Head" id="Item.sho_momonari_kabuto_a"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_8"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_5"/>
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
@@ -550,104 +550,104 @@
     </skills>
     <Equipments>
       <EquipmentRoster civilian="true">
-        <Equipment slot="Item0" id="Item.sho_katana_9"/>
-        <Equipment slot="Item1" id="Item.sho_new_yumi_2_short_war_bow"/>
-        <Equipment slot="Item2" id="Item.sho_utsubo_b_piercing"/>
-        <Equipment slot="Head" id="Item.sho_eboshi_kabuto_a"/>
-        <Equipment slot="Body" id="Item.sho_ashi_2_kozane_l"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_5"/>
-        <Equipment slot="Cape" id="Item.sho_new_kozane_sode_c"/>
+        <equipment slot="Item0" id="Item.sho_katana_9"/>
+        <equipment slot="Item1" id="Item.sho_new_yumi_2_short_war_bow"/>
+        <equipment slot="Item2" id="Item.sho_utsubo_b_piercing"/>
+        <equipment slot="Head" id="Item.sho_eboshi_kabuto_a"/>
+        <equipment slot="Body" id="Item.sho_ashi_2_kozane_l"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_5"/>
+        <equipment slot="Cape" id="Item.sho_new_kozane_sode_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_katana_9"/>
-        <Equipment slot="Item1" id="Item.sho_new_yumi_2_short_war_bow"/>
-        <Equipment slot="Item2" id="Item.sho_utsubo_a_piercing"/>
-        <Equipment slot="Head" id="Item.sho_eboshi_kabuto_c"/>
-        <Equipment slot="Body" id="Item.sho_ashi_2_kozane_e"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_new_kozane_sode_g"/>
+        <equipment slot="Item0" id="Item.sho_katana_9"/>
+        <equipment slot="Item1" id="Item.sho_new_yumi_2_short_war_bow"/>
+        <equipment slot="Item2" id="Item.sho_utsubo_a_piercing"/>
+        <equipment slot="Head" id="Item.sho_eboshi_kabuto_c"/>
+        <equipment slot="Body" id="Item.sho_ashi_2_kozane_e"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_new_kozane_sode_g"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_katana_10"/>
-        <Equipment slot="Item1" id="Item.sho_new_yumi_2_short_war_bow"/>
-        <Equipment slot="Item2" id="Item.sho_utsubo_b_piercing"/>
-        <Equipment slot="Head" id="Item.sho_eboshi_kabuto_b"/>
-        <Equipment slot="Body" id="Item.sho_ashi_2_kozane_b"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_2"/>
-        <Equipment slot="Cape" id="Item.sho_new_kozane_sode_a"/>
+        <equipment slot="Item0" id="Item.sho_katana_10"/>
+        <equipment slot="Item1" id="Item.sho_new_yumi_2_short_war_bow"/>
+        <equipment slot="Item2" id="Item.sho_utsubo_b_piercing"/>
+        <equipment slot="Head" id="Item.sho_eboshi_kabuto_b"/>
+        <equipment slot="Body" id="Item.sho_ashi_2_kozane_b"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_2"/>
+        <equipment slot="Cape" id="Item.sho_new_kozane_sode_a"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_katana_10"/>
-        <Equipment slot="Item1" id="Item.sho_new_yumi_2_short_war_bow"/>
-        <Equipment slot="Item2" id="Item.sho_utsubo_a_piercing"/>
-        <Equipment slot="Head" id="Item.sho_eboshi_kabuto_c"/>
-        <Equipment slot="Body" id="Item.sho_ashi_2_kozane_e"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_3"/>
-        <Equipment slot="Cape" id="Item.sho_new_kozane_sode_a"/>
+        <equipment slot="Item0" id="Item.sho_katana_10"/>
+        <equipment slot="Item1" id="Item.sho_new_yumi_2_short_war_bow"/>
+        <equipment slot="Item2" id="Item.sho_utsubo_a_piercing"/>
+        <equipment slot="Head" id="Item.sho_eboshi_kabuto_c"/>
+        <equipment slot="Body" id="Item.sho_ashi_2_kozane_e"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_3"/>
+        <equipment slot="Cape" id="Item.sho_new_kozane_sode_a"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_katana_10"/>
-        <Equipment slot="Item1" id="Item.sho_new_yumi_2_short_war_bow"/>
-        <Equipment slot="Item2" id="Item.sho_utsubo_b_piercing"/>
-        <Equipment slot="Head" id="Item.sho_eboshi_kabuto_d"/>
-        <Equipment slot="Body" id="Item.sho_ashi_2_kozane_e"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_2"/>
-        <Equipment slot="Cape" id="Item.sho_new_kozane_sode_b"/>
+        <equipment slot="Item0" id="Item.sho_katana_10"/>
+        <equipment slot="Item1" id="Item.sho_new_yumi_2_short_war_bow"/>
+        <equipment slot="Item2" id="Item.sho_utsubo_b_piercing"/>
+        <equipment slot="Head" id="Item.sho_eboshi_kabuto_d"/>
+        <equipment slot="Body" id="Item.sho_ashi_2_kozane_e"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_2"/>
+        <equipment slot="Cape" id="Item.sho_new_kozane_sode_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_katana_11"/>
-        <Equipment slot="Item1" id="Item.sho_new_yumi_2_war_bow"/>
-        <Equipment slot="Item2" id="Item.sho_utsubo_a_piercing"/>
-        <Equipment slot="Head" id="Item.sho_eboshi_kabuto_b"/>
-        <Equipment slot="Body" id="Item.sho_ashi_2_kozane_e"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_5"/>
-        <Equipment slot="Cape" id="Item.sho_new_kozane_sode_c"/>
+        <equipment slot="Item0" id="Item.sho_katana_11"/>
+        <equipment slot="Item1" id="Item.sho_new_yumi_2_war_bow"/>
+        <equipment slot="Item2" id="Item.sho_utsubo_a_piercing"/>
+        <equipment slot="Head" id="Item.sho_eboshi_kabuto_b"/>
+        <equipment slot="Body" id="Item.sho_ashi_2_kozane_e"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_5"/>
+        <equipment slot="Cape" id="Item.sho_new_kozane_sode_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_katana_11"/>
-        <Equipment slot="Item1" id="Item.sho_new_yumi_2_war_bow"/>
-        <Equipment slot="Item2" id="Item.sho_utsubo_b_piercing"/>
-        <Equipment slot="Head" id="Item.sho_eboshi_kabuto_d"/>
-        <Equipment slot="Body" id="Item.sho_ashi_2_kozane_d"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_6"/>
-        <Equipment slot="Cape" id="Item.sho_new_kozane_sode_h"/>
+        <equipment slot="Item0" id="Item.sho_katana_11"/>
+        <equipment slot="Item1" id="Item.sho_new_yumi_2_war_bow"/>
+        <equipment slot="Item2" id="Item.sho_utsubo_b_piercing"/>
+        <equipment slot="Head" id="Item.sho_eboshi_kabuto_d"/>
+        <equipment slot="Body" id="Item.sho_ashi_2_kozane_d"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_6"/>
+        <equipment slot="Cape" id="Item.sho_new_kozane_sode_h"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_katana_11"/>
-        <Equipment slot="Item1" id="Item.sho_new_yumi_2_war_bow"/>
-        <Equipment slot="Item2" id="Item.sho_utsubo_a_piercing"/>
-        <Equipment slot="Head" id="Item.sho_eboshi_kabuto_c"/>
-        <Equipment slot="Body" id="Item.sho_ashi_2_kozane_l"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_8"/>
-        <Equipment slot="Cape" id="Item.sho_new_kozane_sode_f"/>
+        <equipment slot="Item0" id="Item.sho_katana_11"/>
+        <equipment slot="Item1" id="Item.sho_new_yumi_2_war_bow"/>
+        <equipment slot="Item2" id="Item.sho_utsubo_a_piercing"/>
+        <equipment slot="Head" id="Item.sho_eboshi_kabuto_c"/>
+        <equipment slot="Body" id="Item.sho_ashi_2_kozane_l"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_8"/>
+        <equipment slot="Cape" id="Item.sho_new_kozane_sode_f"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_katana_12"/>
-        <Equipment slot="Item1" id="Item.sho_new_yumi_2_war_bow"/>
-        <Equipment slot="Item2" id="Item.sho_utsubo_b_piercing"/>
-        <Equipment slot="Head" id="Item.sho_eboshi_kabuto_a"/>
-        <Equipment slot="Body" id="Item.sho_ashi_2_kozane_b"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_7"/>
-        <Equipment slot="Cape" id="Item.sho_new_kozane_sode_h"/>
+        <equipment slot="Item0" id="Item.sho_katana_12"/>
+        <equipment slot="Item1" id="Item.sho_new_yumi_2_war_bow"/>
+        <equipment slot="Item2" id="Item.sho_utsubo_b_piercing"/>
+        <equipment slot="Head" id="Item.sho_eboshi_kabuto_a"/>
+        <equipment slot="Body" id="Item.sho_ashi_2_kozane_b"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_7"/>
+        <equipment slot="Cape" id="Item.sho_new_kozane_sode_h"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_katana_12"/>
-        <Equipment slot="Item1" id="Item.sho_new_yumi_2_war_bow"/>
-        <Equipment slot="Item2" id="Item.sho_utsubo_a_piercing"/>
-        <Equipment slot="Head" id="Item.sho_eboshi_kabuto_a"/>
-        <Equipment slot="Body" id="Item.sho_ashi_2_kozane_e"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_2"/>
-        <Equipment slot="Cape" id="Item.sho_new_kozane_sode_h"/>
+        <equipment slot="Item0" id="Item.sho_katana_12"/>
+        <equipment slot="Item1" id="Item.sho_new_yumi_2_war_bow"/>
+        <equipment slot="Item2" id="Item.sho_utsubo_a_piercing"/>
+        <equipment slot="Head" id="Item.sho_eboshi_kabuto_a"/>
+        <equipment slot="Body" id="Item.sho_ashi_2_kozane_e"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_2"/>
+        <equipment slot="Cape" id="Item.sho_new_kozane_sode_h"/>
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
@@ -667,104 +667,104 @@
     </skills>
     <Equipments>
       <EquipmentRoster civilian="true">
-        <Equipment slot="Item0" id="Item.sho_katana_9"/>
-        <Equipment slot="Item1" id="Item.tanegashima_musket_3"/>
-        <Equipment slot="Item2" id="Item.teppo_ammo"/>
-        <Equipment slot="Head" id="Item.sho_saiga_kabuto_a_1"/>
-        <Equipment slot="Body" id="Item.sho_ashi_2_kozane_l"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_7"/>
-        <Equipment slot="Cape" id="Item.sho_new_kozane_sode_b"/>
+        <equipment slot="Item0" id="Item.sho_katana_9"/>
+        <equipment slot="Item1" id="Item.tanegashima_musket_3"/>
+        <equipment slot="Item2" id="Item.teppo_ammo"/>
+        <equipment slot="Head" id="Item.sho_saiga_kabuto_a_1"/>
+        <equipment slot="Body" id="Item.sho_ashi_2_kozane_l"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_7"/>
+        <equipment slot="Cape" id="Item.sho_new_kozane_sode_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_katana_9"/>
-        <Equipment slot="Item1" id="Item.tanegashima_musket_3"/>
-        <Equipment slot="Item2" id="Item.teppo_ammo"/>
-        <Equipment slot="Head" id="Item.sho_saiga_kabuto_a_1"/>
-        <Equipment slot="Body" id="Item.sho_ashi_2_kozane_c"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_4"/>
-        <Equipment slot="Cape" id="Item.sho_new_kozane_sode_a"/>
+        <equipment slot="Item0" id="Item.sho_katana_9"/>
+        <equipment slot="Item1" id="Item.tanegashima_musket_3"/>
+        <equipment slot="Item2" id="Item.teppo_ammo"/>
+        <equipment slot="Head" id="Item.sho_saiga_kabuto_a_1"/>
+        <equipment slot="Body" id="Item.sho_ashi_2_kozane_c"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_4"/>
+        <equipment slot="Cape" id="Item.sho_new_kozane_sode_a"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_katana_9"/>
-        <Equipment slot="Item1" id="Item.tanegashima_musket"/>
-        <Equipment slot="Item2" id="Item.teppo_ammo"/>
-        <Equipment slot="Head" id="Item.sho_saiga_kabuto_a_1"/>
-        <Equipment slot="Body" id="Item.sho_ashi_2_kozane_d"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_6"/>
-        <Equipment slot="Cape" id="Item.sho_new_kozane_sode_e"/>
+        <equipment slot="Item0" id="Item.sho_katana_9"/>
+        <equipment slot="Item1" id="Item.tanegashima_musket"/>
+        <equipment slot="Item2" id="Item.teppo_ammo"/>
+        <equipment slot="Head" id="Item.sho_saiga_kabuto_a_1"/>
+        <equipment slot="Body" id="Item.sho_ashi_2_kozane_d"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_6"/>
+        <equipment slot="Cape" id="Item.sho_new_kozane_sode_e"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_katana_10"/>
-        <Equipment slot="Item1" id="Item.tanegashima_musket_3"/>
-        <Equipment slot="Item2" id="Item.teppo_ammo"/>
-        <Equipment slot="Head" id="Item.sho_saiga_kabuto_a_2"/>
-        <Equipment slot="Body" id="Item.sho_ashi_2_kozane_c"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_2"/>
-        <Equipment slot="Cape" id="Item.sho_new_kozane_sode_b"/>
+        <equipment slot="Item0" id="Item.sho_katana_10"/>
+        <equipment slot="Item1" id="Item.tanegashima_musket_3"/>
+        <equipment slot="Item2" id="Item.teppo_ammo"/>
+        <equipment slot="Head" id="Item.sho_saiga_kabuto_a_2"/>
+        <equipment slot="Body" id="Item.sho_ashi_2_kozane_c"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_2"/>
+        <equipment slot="Cape" id="Item.sho_new_kozane_sode_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_katana_10"/>
-        <Equipment slot="Item1" id="Item.tanegashima_musket_3"/>
-        <Equipment slot="Item2" id="Item.teppo_ammo"/>
-        <Equipment slot="Head" id="Item.sho_saiga_kabuto_a_1"/>
-        <Equipment slot="Body" id="Item.sho_ashi_2_kozane_c"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_new_kozane_sode_g"/>
+        <equipment slot="Item0" id="Item.sho_katana_10"/>
+        <equipment slot="Item1" id="Item.tanegashima_musket_3"/>
+        <equipment slot="Item2" id="Item.teppo_ammo"/>
+        <equipment slot="Head" id="Item.sho_saiga_kabuto_a_1"/>
+        <equipment slot="Body" id="Item.sho_ashi_2_kozane_c"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_new_kozane_sode_g"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_katana_10"/>
-        <Equipment slot="Item1" id="Item.tanegashima_musket"/>
-        <Equipment slot="Item2" id="Item.teppo_ammo"/>
-        <Equipment slot="Head" id="Item.sho_saiga_kabuto_a_1"/>
-        <Equipment slot="Body" id="Item.sho_ashi_2_kozane_e"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_2"/>
-        <Equipment slot="Cape" id="Item.sho_new_kozane_sode_c"/>
+        <equipment slot="Item0" id="Item.sho_katana_10"/>
+        <equipment slot="Item1" id="Item.tanegashima_musket"/>
+        <equipment slot="Item2" id="Item.teppo_ammo"/>
+        <equipment slot="Head" id="Item.sho_saiga_kabuto_a_1"/>
+        <equipment slot="Body" id="Item.sho_ashi_2_kozane_e"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_2"/>
+        <equipment slot="Cape" id="Item.sho_new_kozane_sode_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_katana_11"/>
-        <Equipment slot="Item1" id="Item.tanegashima_musket"/>
-        <Equipment slot="Item2" id="Item.teppo_ammo"/>
-        <Equipment slot="Head" id="Item.sho_saiga_kabuto_a_1"/>
-        <Equipment slot="Body" id="Item.sho_ashi_2_kozane_d"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_4"/>
-        <Equipment slot="Cape" id="Item.sho_new_kozane_sode_a"/>
+        <equipment slot="Item0" id="Item.sho_katana_11"/>
+        <equipment slot="Item1" id="Item.tanegashima_musket"/>
+        <equipment slot="Item2" id="Item.teppo_ammo"/>
+        <equipment slot="Head" id="Item.sho_saiga_kabuto_a_1"/>
+        <equipment slot="Body" id="Item.sho_ashi_2_kozane_d"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_4"/>
+        <equipment slot="Cape" id="Item.sho_new_kozane_sode_a"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_katana_11"/>
-        <Equipment slot="Item1" id="Item.tanegashima_musket"/>
-        <Equipment slot="Item2" id="Item.teppo_ammo"/>
-        <Equipment slot="Head" id="Item.sho_saiga_kabuto_a_2"/>
-        <Equipment slot="Body" id="Item.sho_ashi_2_kozane_d"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_new_kozane_sode_h"/>
+        <equipment slot="Item0" id="Item.sho_katana_11"/>
+        <equipment slot="Item1" id="Item.tanegashima_musket"/>
+        <equipment slot="Item2" id="Item.teppo_ammo"/>
+        <equipment slot="Head" id="Item.sho_saiga_kabuto_a_2"/>
+        <equipment slot="Body" id="Item.sho_ashi_2_kozane_d"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_new_kozane_sode_h"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_katana_12"/>
-        <Equipment slot="Item1" id="Item.tanegashima_musket_3"/>
-        <Equipment slot="Item2" id="Item.teppo_ammo"/>
-        <Equipment slot="Head" id="Item.sho_saiga_kabuto_a_1"/>
-        <Equipment slot="Body" id="Item.sho_ashi_2_kozane_e"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_3"/>
-        <Equipment slot="Cape" id="Item.sho_new_kozane_sode_b"/>
+        <equipment slot="Item0" id="Item.sho_katana_12"/>
+        <equipment slot="Item1" id="Item.tanegashima_musket_3"/>
+        <equipment slot="Item2" id="Item.teppo_ammo"/>
+        <equipment slot="Head" id="Item.sho_saiga_kabuto_a_1"/>
+        <equipment slot="Body" id="Item.sho_ashi_2_kozane_e"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_3"/>
+        <equipment slot="Cape" id="Item.sho_new_kozane_sode_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_katana_12"/>
-        <Equipment slot="Item1" id="Item.tanegashima_musket_2"/>
-        <Equipment slot="Item2" id="Item.teppo_ammo"/>
-        <Equipment slot="Head" id="Item.sho_saiga_kabuto_a_1"/>
-        <Equipment slot="Body" id="Item.sho_ashi_2_kozane_l"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_4_kote_a_4"/>
-        <Equipment slot="Cape" id="Item.sho_new_kozane_sode_g"/>
+        <equipment slot="Item0" id="Item.sho_katana_12"/>
+        <equipment slot="Item1" id="Item.tanegashima_musket_2"/>
+        <equipment slot="Item2" id="Item.teppo_ammo"/>
+        <equipment slot="Head" id="Item.sho_saiga_kabuto_a_1"/>
+        <equipment slot="Body" id="Item.sho_ashi_2_kozane_l"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_4_kote_a_4"/>
+        <equipment slot="Cape" id="Item.sho_new_kozane_sode_g"/>
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
@@ -787,84 +787,84 @@
     </upgrade_targets>
     <Equipments>
       <EquipmentRoster civilian="true">
-        <Equipment slot="Item0" id="Item.sho_yari_20"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_a_2_kimono_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_5"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Item0" id="Item.sho_yari_20"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_a_2_kimono_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_5"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_20"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_a_2_kimono_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_3"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Item0" id="Item.sho_yari_20"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_a_2_kimono_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_3"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_29"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_b_2_kimono_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_3"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Item0" id="Item.sho_yari_29"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_b_2_kimono_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_3"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_29"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_a_2_kimono_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_5"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Item0" id="Item.sho_yari_29"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_a_2_kimono_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_5"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_11"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_1"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_3"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Item0" id="Item.sho_yari_11"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
+        <equipment slot="Body" id="Item.sho_okegawa_1"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_3"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_30"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_b_3_kimono_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_5"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Item0" id="Item.sho_yari_30"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_b_3_kimono_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_5"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_17"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_b_3_kimono_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_4"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Item0" id="Item.sho_yari_17"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_b_3_kimono_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_4"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_17"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_b_3_kimono_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_5"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Item0" id="Item.sho_yari_17"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_b_3_kimono_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_5"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_17"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_b_1_kimono_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_3"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Item0" id="Item.sho_yari_17"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_b_1_kimono_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_3"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_9"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_b_1_kimono_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Item0" id="Item.sho_yari_9"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_b_1_kimono_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
@@ -888,84 +888,84 @@
     </upgrade_targets>
     <Equipments>
       <EquipmentRoster civilian="true">
-        <Equipment slot="Item0" id="Item.sho_naginata_4"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_3_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_3_1"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_4"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Item0" id="Item.sho_naginata_4"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_3_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_3_1"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_4"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_naginata_3"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_1_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_4_1"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_3"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Item0" id="Item.sho_naginata_3"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_1_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_4_1"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_3"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_naginata_3"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_3_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_2_4"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_6"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Item0" id="Item.sho_naginata_3"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_3_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_2_4"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_6"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_naginata_3"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_3_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_2_3"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_4"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Item0" id="Item.sho_naginata_3"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_3_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_2_3"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_4"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_naginata_3"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_1_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_1_1"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_5"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Item0" id="Item.sho_naginata_3"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_1_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_1_1"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_5"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_naginata_5"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_1_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_4_3"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Item0" id="Item.sho_naginata_5"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_1_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_4_3"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_naginata_5"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_4_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_4_3"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Item0" id="Item.sho_naginata_5"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_4_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_4_3"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_naginata_5"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_2_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_1_2"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_7"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Item0" id="Item.sho_naginata_5"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_2_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_1_2"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_7"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_naginata_4"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_2_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_2_2"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Item0" id="Item.sho_naginata_4"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_2_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_2_2"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_naginata_4"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_3_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_3_2"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_5"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Item0" id="Item.sho_naginata_4"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_3_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_3_2"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_5"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
@@ -985,84 +985,84 @@
     </skills>
     <Equipments>
       <EquipmentRoster civilian="true">
-        <Equipment slot="Item0" id="Item.sho_naginata_8"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_3_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_3_1"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_4"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Item0" id="Item.sho_naginata_8"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_3_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_3_1"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_4"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_naginata_9"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_1_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_4_1"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_3"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Item0" id="Item.sho_naginata_9"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_1_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_4_1"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_3"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_naginata_9"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_3_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_2_4"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_6"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Item0" id="Item.sho_naginata_9"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_3_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_2_4"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_6"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_naginata_9"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_3_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_2_3"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_4"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Item0" id="Item.sho_naginata_9"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_3_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_2_3"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_4"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_naginata_8"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_1_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_1_1"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_5"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Item0" id="Item.sho_naginata_8"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_1_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_1_1"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_5"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_naginata_8"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_1_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_4_3"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Item0" id="Item.sho_naginata_8"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_1_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_4_3"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_naginata_10"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_4_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_4_3"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Item0" id="Item.sho_naginata_10"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_4_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_4_3"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_naginata_10"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_2_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_1_2"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_7"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Item0" id="Item.sho_naginata_10"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_2_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_1_2"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_7"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_naginata_10"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_2_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_2_2"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Item0" id="Item.sho_naginata_10"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_2_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_2_2"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_naginata_10"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_3_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_3_2"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_5"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Item0" id="Item.sho_naginata_10"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_3_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_3_2"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_5"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
@@ -1082,84 +1082,84 @@
     </skills>
     <Equipments>
       <EquipmentRoster civilian="true">
-        <Equipment slot="Item0" id="Item.sho_nodachi_4"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_1_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_3_3"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_5"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Item0" id="Item.sho_nodachi_4"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_1_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_3_3"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_5"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_nodachi_8"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_3_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_3_2"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_7"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Item0" id="Item.sho_nodachi_8"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_3_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_3_2"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_7"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_nodachi_9"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_4_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_3_2"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_8"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Item0" id="Item.sho_nodachi_9"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_4_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_3_2"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_8"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_nodachi_10"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_2_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_1_3"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Item0" id="Item.sho_nodachi_10"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_2_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_1_3"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_nodachi_4"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_2_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_3_2"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_5"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Item0" id="Item.sho_nodachi_4"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_2_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_3_2"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_5"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_nodachi_1"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_4_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_2_4"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_4"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Item0" id="Item.sho_nodachi_1"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_4_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_2_4"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_4"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_nodachi_10"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_1_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_1_2"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Item0" id="Item.sho_nodachi_10"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_1_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_1_2"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_nodachi_9"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_2_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_2_3"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_6"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Item0" id="Item.sho_nodachi_9"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_2_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_2_3"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_6"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_nodachi_8"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_4_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_1_2"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_6"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Item0" id="Item.sho_nodachi_8"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_4_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_a_kimono_a_haidate_a_1_2"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_6"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_nodachi_3"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_2_a"/>
-        <Equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_3_4"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_6_kote_a_3"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Item0" id="Item.sho_nodachi_3"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_2_a"/>
+        <equipment slot="Body" id="Item.sho_okegawa_do_b_kimono_a_haidate_a_3_4"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_6_kote_a_3"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
@@ -1179,84 +1179,84 @@
     </skills>
     <Equipments>
       <EquipmentRoster civilian="true">
-        <Equipment slot="Item1" id="Item.sho_nodachi_4"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_5"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_d"/>
+        <equipment slot="Item1" id="Item.sho_nodachi_4"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_5"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_d"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item1" id="Item.sho_nodachi_4"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_5"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_11"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
+        <equipment slot="Item1" id="Item.sho_nodachi_4"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_5"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_11"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item1" id="Item.sho_nodachi_4"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_1"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
+        <equipment slot="Item1" id="Item.sho_nodachi_4"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_1"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item1" id="Item.sho_nodachi_6"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_4"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
+        <equipment slot="Item1" id="Item.sho_nodachi_6"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_4"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item1" id="Item.sho_nodachi_6"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_4"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
+        <equipment slot="Item1" id="Item.sho_nodachi_6"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_4"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item1" id="Item.sho_nodachi_6"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_8"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
+        <equipment slot="Item1" id="Item.sho_nodachi_6"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_8"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item1" id="Item.sho_nodachi_9"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_9"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_e"/>
+        <equipment slot="Item1" id="Item.sho_nodachi_9"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_9"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_e"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item1" id="Item.sho_nodachi_9"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_6"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
+        <equipment slot="Item1" id="Item.sho_nodachi_9"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_6"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item1" id="Item.sho_nodachi_9"/>
@@ -1269,34 +1269,34 @@
         <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item1" id="Item.sho_nodachi_10"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_6"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_12"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
+        <equipment slot="Item1" id="Item.sho_nodachi_10"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_6"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_12"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item1" id="Item.sho_nodachi_10"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_7"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_e"/>
+        <equipment slot="Item1" id="Item.sho_nodachi_10"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_7"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_e"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item1" id="Item.sho_nodachi_10"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_12"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_d"/>
+        <equipment slot="Item1" id="Item.sho_nodachi_10"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_12"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_d"/>
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item1" id="Item.sho_nodachi_8"/>
@@ -1341,84 +1341,84 @@
     </upgrade_targets>
     <Equipments>
       <EquipmentRoster civilian="true">
-        <Equipment slot="Item0" id="Item.sho_yari_29"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_5"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_d"/>
+        <equipment slot="Item0" id="Item.sho_yari_29"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_5"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_d"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_30"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_5"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_11"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
+        <equipment slot="Item0" id="Item.sho_yari_30"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_5"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_11"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_20"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_1"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
+        <equipment slot="Item0" id="Item.sho_yari_20"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_1"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_20"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_4"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
+        <equipment slot="Item0" id="Item.sho_yari_20"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_4"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_17"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_4"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
+        <equipment slot="Item0" id="Item.sho_yari_17"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_4"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_17"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_8"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
+        <equipment slot="Item0" id="Item.sho_yari_17"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_8"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_9"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_9"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_e"/>
+        <equipment slot="Item0" id="Item.sho_yari_9"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_9"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_e"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_9"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_6"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
+        <equipment slot="Item0" id="Item.sho_yari_9"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_6"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_yari_29"/>
@@ -1431,34 +1431,34 @@
         <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_29"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_6"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_12"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
+        <equipment slot="Item0" id="Item.sho_yari_29"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_6"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_12"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_30"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_7"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_e"/>
+        <equipment slot="Item0" id="Item.sho_yari_30"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_7"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_e"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_30"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_12"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_d"/>
+        <equipment slot="Item0" id="Item.sho_yari_30"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_12"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_d"/>
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_yari_30"/>
@@ -1758,124 +1758,124 @@
     </upgrade_targets>
     <Equipments>
       <EquipmentRoster civilian="true">
-        <Equipment slot="Item0" id="Item.tanegashima_musket"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_katana_27"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_10"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_e"/>
+        <equipment slot="Item0" id="Item.tanegashima_musket"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_katana_27"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_10"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_e"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.tanegashima_musket_3"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_katana_29"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_5"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_10"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
+        <equipment slot="Item0" id="Item.tanegashima_musket_3"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_katana_29"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_5"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_10"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.tanegashima_musket_3"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_katana_27"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_9"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_e"/>
+        <equipment slot="Item0" id="Item.tanegashima_musket_3"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_katana_27"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_9"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_e"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.tanegashima_musket"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_katana_28"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_6"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
+        <equipment slot="Item0" id="Item.tanegashima_musket"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_katana_28"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_6"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.tanegashima_musket_3"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_katana_30"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_c"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_6"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_5"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
+        <equipment slot="Item0" id="Item.tanegashima_musket_3"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_katana_30"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_c"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_6"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_5"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_tanegashima_musket_3"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_katana_9"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_12"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_d"/>
+        <equipment slot="Item0" id="Item.sho_tanegashima_musket_3"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_katana_9"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_12"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_d"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.tanegashima_musket_3"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_katana_10"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_c"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_13"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
+        <equipment slot="Item0" id="Item.tanegashima_musket_3"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_katana_10"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_c"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_13"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_tanegashima_musket_3"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_katana_29"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_6"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_6"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_d"/>
+        <equipment slot="Item0" id="Item.sho_tanegashima_musket_3"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_katana_29"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_6"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_6"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_d"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_tanegashima_musket_3"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_katana_29"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_c"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_5"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_10"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
+        <equipment slot="Item0" id="Item.sho_tanegashima_musket_3"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_katana_29"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_c"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_5"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_10"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.tanegashima_musket_3"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_katana_28"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_6"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_7"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
+        <equipment slot="Item0" id="Item.tanegashima_musket_3"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_katana_28"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_6"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_7"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
@@ -1895,124 +1895,124 @@
     </skills>
     <Equipments>
       <EquipmentRoster civilian="true">
-        <Equipment slot="Item0" id="Item.tanegashima_musket"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_katana_27"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_10"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_e"/>
+        <equipment slot="Item0" id="Item.tanegashima_musket"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_katana_27"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_10"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_e"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.tanegashima_musket_3"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_katana_29"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_5"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_10"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
+        <equipment slot="Item0" id="Item.tanegashima_musket_3"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_katana_29"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_5"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_10"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.tanegashima_musket_3"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_katana_27"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_9"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_e"/>
+        <equipment slot="Item0" id="Item.tanegashima_musket_3"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_katana_27"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_9"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_e"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.tanegashima_musket"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_katana_28"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_6"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
+        <equipment slot="Item0" id="Item.tanegashima_musket"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_katana_28"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_6"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.tanegashima_musket_3"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_katana_30"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_c"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_6"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_5"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
+        <equipment slot="Item0" id="Item.tanegashima_musket_3"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_katana_30"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_c"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_6"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_5"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_tanegashima_musket_3"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_katana_9"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_12"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_d"/>
+        <equipment slot="Item0" id="Item.sho_tanegashima_musket_3"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_katana_9"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_12"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_d"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.tanegashima_musket_3"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_katana_10"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_c"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_13"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
+        <equipment slot="Item0" id="Item.tanegashima_musket_3"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_katana_10"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_c"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_13"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_tanegashima_musket_3"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_katana_29"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_6"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_6"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_d"/>
+        <equipment slot="Item0" id="Item.sho_tanegashima_musket_3"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_katana_29"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_6"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_6"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_d"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_tanegashima_musket_3"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_katana_29"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_c"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_5"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_10"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
+        <equipment slot="Item0" id="Item.sho_tanegashima_musket_3"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_katana_29"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_c"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_5"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_10"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.tanegashima_musket_3"/>
-        <Equipment slot="Item1" id="Item.teppo_ammo"/>
-        <Equipment slot="Item2" id="Item.sho_katana_28"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_6"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_7"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
+        <equipment slot="Item0" id="Item.tanegashima_musket_3"/>
+        <equipment slot="Item1" id="Item.teppo_ammo"/>
+        <equipment slot="Item2" id="Item.sho_katana_28"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_6"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_7"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
@@ -2035,84 +2035,84 @@
     </upgrade_targets>
     <Equipments>
       <EquipmentRoster civilian="true">
-        <Equipment slot="Item0" id="Item.sho_yari_17"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_5"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_d"/>
+        <equipment slot="Item0" id="Item.sho_yari_17"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_5"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_d"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_20"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_5"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_11"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
+        <equipment slot="Item0" id="Item.sho_yari_20"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_5"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_11"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_17"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_1"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
+        <equipment slot="Item0" id="Item.sho_yari_17"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_1"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_17"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_4"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
+        <equipment slot="Item0" id="Item.sho_yari_17"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_4"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_4"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_8"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_4"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
+        <equipment slot="Item0" id="Item.sho_yari_8"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_1"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_4"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_17"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_8"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
+        <equipment slot="Item0" id="Item.sho_yari_17"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_8"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_30"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_9"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_e"/>
+        <equipment slot="Item0" id="Item.sho_yari_30"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_2"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_9"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_e"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_30"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_6"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
+        <equipment slot="Item0" id="Item.sho_yari_30"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_4"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_6"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_yari_20"/>
@@ -2125,34 +2125,34 @@
         <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_b"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_20"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_6"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_12"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
+        <equipment slot="Item0" id="Item.sho_yari_20"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_b"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_1"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_6"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_c"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_12"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_c"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_30"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_7"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_e"/>
+        <equipment slot="Item0" id="Item.sho_yari_30"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_3"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_a"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_a"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_7"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_e"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <Equipment slot="Item0" id="Item.sho_yari_29"/>
-        <Equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
-        <Equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
-        <Equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
-        <Equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
-        <Equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
-        <Equipment slot="Horse" id="Item.sho_horse_nanbu_12"/>
-        <Equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_d"/>
+        <equipment slot="Item0" id="Item.sho_yari_29"/>
+        <equipment slot="Head" id="Item.sho_hineno_zunari_2"/>
+        <equipment slot="Body" id="Item.sho_nuinobe_do_d"/>
+        <equipment slot="Leg" id="Item.sho_shino_suneate_a_3"/>
+        <equipment slot="Gloves" id="Item.sho_tier_5_kote_a_1"/>
+        <equipment slot="Cape" id="Item.sho_mogami_sode_b"/>
+        <equipment slot="Horse" id="Item.sho_horse_nanbu_12"/>
+        <equipment slot="HorseHarness" id="Item.sho_uma_yoroi_simple_d"/>
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_yari_29"/>

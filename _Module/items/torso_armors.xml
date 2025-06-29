@@ -9,7 +9,7 @@
 	</Item>
 
     <Item id="sho_nanban_do_a"
-          name="Nanban Do"
+          name="{=x0l2zvKO}Nanban Do"
           subtype="body_armor"
           mesh="sho_nanban_do_1"
           weight="15"
@@ -18,7 +18,7 @@
           Type="BodyArmor">
         <ItemComponent>
             <Armor body_armor="41"
-                   leg_armor="14"
+                   leg_armor="17"
                    arm_armor="3"
                    has_gender_variations="false"
                    covers_body="true"
@@ -28,19 +28,19 @@
         <Flags UseTeamColor="true"/>
     </Item>
 
-    <Item id="sho_nanban_do_b" name="Nanban Do" subtype="body_armor" mesh="sho_nanban_do_2" weight="15" difficulty="0" appearance="1.6" Type="BodyArmor">
+    <Item id="sho_nanban_do_b" name="{=x0l2zvKO}Nanban Do" subtype="body_armor" mesh="sho_nanban_do_2" weight="15" difficulty="0" appearance="1.6" Type="BodyArmor">
 		<ItemComponent>
 			<Armor body_armor="41" leg_armor="17" arm_armor="3" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate"/>
 		</ItemComponent>
 		<Flags UseTeamColor="true"/>
 	</Item>
-	<Item id="sho_nanban_do_c" name="Nanban Do" subtype="body_armor" mesh="sho_nanban_do_3" weight="15" difficulty="0" appearance="1.6" Type="BodyArmor">
+	<Item id="sho_nanban_do_c" name="{=x0l2zvKO}Nanban Do" subtype="body_armor" mesh="sho_nanban_do_3" weight="15" difficulty="0" appearance="1.6" Type="BodyArmor">
 		<ItemComponent>
 			<Armor body_armor="41" leg_armor="17" arm_armor="3" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate"/>
 		</ItemComponent>
 		<Flags UseTeamColor="true"/>
 	</Item>
-	<Item id="sho_nanban_do_d" name="Nanban Do" subtype="body_armor" mesh="sho_nanban_do_4" weight="15" difficulty="0" appearance="1.6" Type="BodyArmor">
+	<Item id="sho_nanban_do_d" name="{=x0l2zvKO}Nanban Do" subtype="body_armor" mesh="sho_nanban_do_4" weight="15" difficulty="0" appearance="1.6" Type="BodyArmor">
 		<ItemComponent>
 			<Armor body_armor="41" leg_armor="17" arm_armor="3" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate"/>
 		</ItemComponent>

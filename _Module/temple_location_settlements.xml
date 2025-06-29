@@ -185,12 +185,12 @@
       <TempleLocationComponent id="temple_location_id_40" religion="Religion.rinzai" prosperity="167" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_41" name="{=AjDRS76B}Suwa-taisha Shrine" posX="1181.834" posY="725.5283" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_41" name="{=AjDRS76B}Suwa-taisha Shrine" posX="1181.834" posY="725.528" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_41" religion="Religion.shinto" prosperity="269" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_42" name="{=Ccdy6bqL}Zenko-ji Temple" posX="1156.628" posY="809.4839" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_42" name="{=Ccdy6bqL}Zenko-ji Temple" posX="1156.628" posY="809.484" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_42" religion="Religion.shin" prosperity="264" />
     </Components>

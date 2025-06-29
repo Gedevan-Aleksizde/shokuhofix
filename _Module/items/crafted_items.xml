@@ -190,7 +190,7 @@ For examples please refer to: SandBoxCore/ModuleData/spitems/arm_armors.xml.-->
 		</Pieces>
 	</CraftedItem>-->
     <CraftedItem id="execution_axe"
-                 name="{=ItUyYjdd}Execution Sword"
+                 name="{=je5Ijhzi}Execution Sword"
                  is_merchandise="false"
                  crafting_template="SHO_TwoHandedPolearm">
         <Pieces>

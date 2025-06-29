@@ -23,8 +23,8 @@
 	<Scene id="sho_naval_open_ocean" name="{=1Q2wKbus}Naval Battle (Shokuho)" terrain="Water"/>
 	<!--<Scene id="sho_naval_empty_test_nonavmesh"
 		   name="{=!}AAC Naval Empty Test no navmesh"
-		   terrain="Water"></Scene>
-	<Scene id="sho_naval_empty_test_boardingtest"
+		   terrain="Water"></Scene>-->
+	<!--<Scene id="sho_naval_empty_test_boardingtest"
 		   name="{=!}AAD Naval Empty Test BOARDING TEST"
 		   terrain="Water"></Scene>-->
 	

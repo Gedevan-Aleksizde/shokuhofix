@@ -3,7 +3,7 @@
 
 	<Item id="sho_hari_bachi_1_a_1" name="{=CslTh2YM}Hari Bachi Kabuto" subtype="head_armor" mesh="sho_hari_bachi_1_a_1" weight="1.3" difficulty="0" appearance="1" Type="HeadArmor">
 		<ItemComponent>
-			<Armor head_armor="24" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+			<Armor head_armor="24" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type2"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
@@ -11,7 +11,7 @@
 
 	<Item id="sho_hari_bachi_1_a_2" name="{=CslTh2YM}Hari Bachi Kabuto" subtype="head_armor" mesh="sho_hari_bachi_1_a_2" weight="1.3" difficulty="0" appearance="1" Type="HeadArmor">
 		<ItemComponent>
-			<Armor head_armor="24" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+			<Armor head_armor="24" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type2"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
@@ -19,7 +19,7 @@
 
 	<Item id="sho_hari_bachi_1_a_3" name="{=CslTh2YM}Hari Bachi Kabuto" subtype="head_armor" mesh="sho_hari_bachi_1_a_3" weight="1.3" difficulty="0" appearance="1" Type="HeadArmor">
 		<ItemComponent>
-			<Armor head_armor="24" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+			<Armor head_armor="24" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type2"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
@@ -27,7 +27,7 @@
 
 	<Item id="sho_hari_bachi_1_a_4" name="{=CslTh2YM}Hari Bachi Kabuto" subtype="head_armor" mesh="sho_hari_bachi_1_a_4" weight="1.3" difficulty="0" appearance="1" Type="HeadArmor">
 		<ItemComponent>
-			<Armor head_armor="24" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+			<Armor head_armor="24" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type2"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
@@ -41,7 +41,7 @@
 
 	<Item id="sho_hari_bachi_2_a_1" name="{=CslTh2YM}Hari Bachi Kabuto" subtype="head_armor" mesh="sho_hari_bachi_2_a_1" weight="1.3" difficulty="0" appearance="1" Type="HeadArmor">
 		<ItemComponent>
-			<Armor head_armor="20" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+			<Armor head_armor="20" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type2"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
@@ -49,7 +49,7 @@
 
 	<Item id="sho_hari_bachi_2_a_2" name="{=CslTh2YM}Hari Bachi Kabuto" subtype="head_armor" mesh="sho_hari_bachi_2_a_2" weight="1.3" difficulty="0" appearance="1" Type="HeadArmor">
 		<ItemComponent>
-			<Armor head_armor="20" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+			<Armor head_armor="20" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type2"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
@@ -57,7 +57,7 @@
 
 	<Item id="sho_hari_bachi_2_a_3" name="{=CslTh2YM}Hari Bachi Kabuto" subtype="head_armor" mesh="sho_hari_bachi_2_a_3" weight="1.3" difficulty="0" appearance="1" Type="HeadArmor">
 		<ItemComponent>
-			<Armor head_armor="20" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+			<Armor head_armor="20" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type2"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
@@ -65,7 +65,7 @@
 
 	<Item id="sho_hari_bachi_2_a_4" name="{=CslTh2YM}Hari Bachi Kabuto" subtype="head_armor" mesh="sho_hari_bachi_2_a_4" weight="1.3" difficulty="0" appearance="1" Type="HeadArmor">
 		<ItemComponent>
-			<Armor head_armor="20" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+			<Armor head_armor="20" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type2"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
@@ -73,7 +73,7 @@
 
 	<Item id="sho_ko_zunari_a_1" name="{=kwkyk1kE}Zunari Kabuto" subtype="head_armor" mesh="sho_ko_zunari_a_1" weight="1.3" difficulty="0" appearance="1" Type="HeadArmor">
 		<ItemComponent>
-			<Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+			<Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type2"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
@@ -82,7 +82,7 @@
 
 	<Item id="sho_ko_zunari_a_2" name="{=kwkyk1kE}Zunari Kabuto" subtype="head_armor" mesh="sho_ko_zunari_a_2" weight="1.3" difficulty="0" appearance="1" Type="HeadArmor">
 		<ItemComponent>
-			<Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+			<Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type2"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
@@ -90,14 +90,14 @@
 
 	<Item id="sho_ko_zunari_a_3" name="{=kwkyk1kE}Zunari Kabuto" subtype="head_armor" mesh="sho_ko_zunari_a_3" weight="1.3" difficulty="0" appearance="1" Type="HeadArmor">
 		<ItemComponent>
-			<Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+			<Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type2"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
 
 	<Item id="sho_ko_zunari_a_4" name="{=kwkyk1kE}Zunari Kabuto" subtype="head_armor" mesh="sho_ko_zunari_a_4" weight="1.3" difficulty="0" appearance="1" Type="HeadArmor">
 		<ItemComponent>
-			<Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+			<Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type2"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
@@ -107,7 +107,7 @@
 	
 		<Item id="sho_akoka_nari_a" name="{=N3x8iSeO}Akoka Nari Kabuto" subtype="head_armor" mesh="sho_akoka_nari_a" weight="1.3" difficulty="0" appearance="1" Type="HeadArmor">
 		<ItemComponent>
-			<Armor head_armor="26" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+			<Armor head_armor="26" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type2"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
@@ -115,7 +115,7 @@
 
 	<Item id="sho_akoka_nari_b" name="{=N3x8iSeO}Akoka Nari Kabuto" subtype="head_armor" mesh="sho_akoka_nari_b" weight="1.3" difficulty="0" appearance="1" Type="HeadArmor">
 		<ItemComponent>
-			<Armor head_armor="26" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+			<Armor head_armor="26" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type2"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
@@ -125,7 +125,7 @@
 
 	<Item id="sho_akoka_nari_c" name="{=N3x8iSeO}Akoka Nari Kabuto" subtype="head_armor" mesh="sho_akoka_nari_c" weight="1.3" difficulty="0" appearance="1" Type="HeadArmor">
 		<ItemComponent>
-			<Armor head_armor="26" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+			<Armor head_armor="26" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type2"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
@@ -135,7 +135,7 @@
 
 	<Item id="sho_akoka_nari_d" name="{=N3x8iSeO}Akoka Nari Kabuto" subtype="head_armor" mesh="sho_akoka_nari_d" weight="1.3" difficulty="0" appearance="1" Type="HeadArmor">
 		<ItemComponent>
-			<Armor head_armor="26" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+			<Armor head_armor="26" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type2"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
@@ -144,7 +144,7 @@
 
 	<Item id="sho_akoka_nari_e" name="{=N3x8iSeO}Akoka Nari Kabuto" subtype="head_armor" mesh="sho_akoka_nari_e" weight="1.3" difficulty="0" appearance="1" Type="HeadArmor">
 		<ItemComponent>
-			<Armor head_armor="26" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+			<Armor head_armor="26" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type2"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
@@ -203,25 +203,25 @@
 
 	<Item id="sho_eboshi_hat_a" name="{=1q5oRKEM}Eboshi Hat" subtype="head_armor" mesh="sho_eboshi_hat_a" weight="0.2" difficulty="0" appearance="1" Type="HeadArmor">
 		<ItemComponent>
-			<Armor head_armor="3" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type1"/>
+			<Armor head_armor="3" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="all"/>
 		</ItemComponent>
 		<Flags Civilian="true"/>
 	</Item>
 	<Item id="sho_eboshi_hat_b" name="{=1q5oRKEM}Eboshi Hat" subtype="head_armor" mesh="sho_eboshi_hat_b" weight="0.2" difficulty="0" appearance="1" Type="HeadArmor">
 		<ItemComponent>
-			<Armor head_armor="3" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type1"/>
+			<Armor head_armor="3" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="all"/>
 		</ItemComponent>
 		<Flags Civilian="true"/>
 	</Item>
 	<Item id="sho_noh_mask_a" name="{=Oeo0q3wU}Noh Mask" subtype="head_armor" mesh="sho_noh_mask_a" weight="0.2" difficulty="0" appearance="1" Type="HeadArmor">
 		<ItemComponent>
-			<Armor head_armor="5" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type1"/>
+			<Armor head_armor="5" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type3"/>
 		</ItemComponent>
 		<Flags Civilian="true"/>
 	</Item>
 	<Item id="sho_noh_mask_c" name="{=Oeo0q3wU}Noh Mask" subtype="head_armor" mesh="sho_noh_mask_c" weight="0.2" difficulty="0" appearance="1" Type="HeadArmor">
 		<ItemComponent>
-			<Armor head_armor="5" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type1"/>
+			<Armor head_armor="5" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type3"/>
 		</ItemComponent>
 		<Flags Civilian="true"/>
 	</Item>
@@ -232,81 +232,81 @@
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
-	<Item id="sho_ajirogasa_hat" name="{=bDoglJX7}Ajirogasa" subtype="head_armor" mesh="sho_ajirogasa_hat" weight="0.2" difficulty="0" appearance="1" Type="HeadArmor">
+	<!--<Item id="sho_ajirogasa_hat" name="{=bDoglJX7}Ajirogasa" subtype="head_armor" mesh="sho_ajirogasa_hat" weight="0.2" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
             <Armor head_armor="3" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type1"/>
         </ItemComponent>
         <Flags Civilian="true"/>
-    </Item>
+    </Item>-->
     <Item id="sho_amigasa_hat" name="{=xnfE57id}Amigasa" subtype="head_armor" mesh="sho_amigasa_hat" weight="0.2" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="4" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth"/>
+            <Armor head_armor="4" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type3"/>
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
     <Item id="sho_ichimegasa_hat" name="{=Ke3iOAek}Ichimegasa" subtype="head_armor" mesh="sho_ichimegasa_hat" weight="0.3" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="5" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type4"/>
+            <Armor head_armor="5" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type1"/>
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
     <Item id="sho_jingasa_straw_hat" name="{=5MkZxjuj}Jingasa" subtype="head_armor" mesh="sho_jingasa_straw_hat" weight="0.3" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="4" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type4"/>
+            <Armor head_armor="4" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type1"/>
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
     <Item id="sho_nomadgasa_hat" name="{=bbBYq8rX}Nomadgasa" subtype="head_armor" mesh="sho_nomadgasa_hat" weight="0.1" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="2" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type4"/>
+            <Armor head_armor="2" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type1"/>
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
     <Item id="sho_roningasa_hat" name="{=Trz6pkzv}Roningasa" subtype="head_armor" mesh="sho_roningasa_hat" weight="0.4" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="6" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type4"/>
+            <Armor head_armor="6" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type1"/>
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
     <Item id="sho_ryuzo_hat" name="{=R9CSFKs7}Ryuzo" subtype="head_armor" mesh="sho_ryuzo_hat" weight="0.3" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="4" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type4"/>
+            <Armor head_armor="4" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type1"/>
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
     <Item id="sho_sandogasa_hat" name="{=WURmQCrE}Sandogasa" subtype="head_armor" mesh="sho_sandogasa_hat" weight="0.3" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="4" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type4"/>
+            <Armor head_armor="4" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type1"/>
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
     <Item id="sho_sugegasa_hat" name="{=Yk0ki91Y}Sugegasa" subtype="head_armor" mesh="sho_sugegasa_hat" weight="0.2" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="4" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type4"/>
+            <Armor head_armor="4" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type1"/>
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
     <Item id="sho_tengai_hat" name="{=KaHphD5i}Tengai" subtype="head_armor" mesh="sho_tengai_hat" weight="0.4" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="8" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type4"/>
+            <Armor head_armor="8" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="all"/>
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
     <Item id="sho_jingasa_a_1" name="{=5MkZxjuj}Jingasa" subtype="head_armor" mesh="sho_jingasa_a_1" weight="0.5" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="12" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+            <Armor head_armor="12" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type1"/>
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
     <Item id="sho_jingasa_a_2" name="{=5MkZxjuj}Jingasa" subtype="head_armor" mesh="sho_jingasa_a_2" weight="0.5" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="12" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+            <Armor head_armor="12" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type1"/>
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
     <Item id="sho_jingasa_a_3" name="{=5MkZxjuj}Jingasa" subtype="head_armor" mesh="sho_jingasa_a_3" weight="0.5" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="12" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+            <Armor head_armor="12" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type1"/>
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
@@ -314,13 +314,13 @@
 
     <Item id="sho_ensui_jingasa_1" name="{=aGVtKB6L}Ensui Jingasa" subtype="head_armor" mesh="sho_ensui_jingasa_1" weight="0.55" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="14" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+            <Armor head_armor="14" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type1"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_ensui_jingasa_2" name="{=aGVtKB6L}Ensui Jingasa" subtype="head_armor" mesh="sho_ensui_jingasa_2" weight="0.5" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="12" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+            <Armor head_armor="12" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type1"/>
         </ItemComponent>
         <Flags/>
     </Item>
@@ -333,85 +333,85 @@
 
     <Item id="sho_momonari_a_1" name="{=fIajNosg}Momonari Kabuto" subtype="head_armor" mesh="sho_momonari_a_1" weight="1.3" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_momonari_a_2" name="{=fIajNosg}Momonari Kabuto" subtype="head_armor" mesh="sho_momonari_a_2" weight="1.3" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_momonari_a_3" name="{=fIajNosg}Momonari Kabuto" subtype="head_armor" mesh="sho_momonari_a_3" weight="1.3" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_momonari_b_1" name="{=fIajNosg}Momonari Kabuto" subtype="head_armor" mesh="sho_momonari_b_1" weight="1.3" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_momonari_b_2" name="{=fIajNosg}Momonari Kabuto" subtype="head_armor" mesh="sho_momonari_b_2" weight="1.3" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_momonari_b_3" name="{=fIajNosg}Momonari Kabuto" subtype="head_armor" mesh="sho_momonari_b_3" weight="1.3" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_momonari_maedate_a_1" name="{=fIajNosg}Momonari Kabuto" subtype="head_armor" mesh="sho_momonari_maedate_a_1" weight="1.5" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_momonari_maedate_a_2" name="{=fIajNosg}Momonari Kabuto" subtype="head_armor" mesh="sho_momonari_maedate_a_2" weight="1.5" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_momonari_maedate_a_3" name="{=fIajNosg}Momonari Kabuto" subtype="head_armor" mesh="sho_momonari_maedate_a_3" weight="1.5" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_momonari_maedate_b_1" name="{=fIajNosg}Momonari Kabuto" subtype="head_armor" mesh="sho_momonari_maedate_b_1" weight="1.5" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_momonari_maedate_b_2" name="{=fIajNosg}Momonari Kabuto" subtype="head_armor" mesh="sho_momonari_maedate_b_2" weight="1.5" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_momonari_maedate_b_3" name="{=fIajNosg}Momonari Kabuto" subtype="head_armor" mesh="sho_momonari_maedate_b_3" weight="1.5" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_momonari_kabuto_1" name="{=fIajNosg}Momonari Kabuto" subtype="head_armor" mesh="sho_momonari_kabuto_1" weight="1.3" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type2"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_momonari_kabuto_2" name="{=fIajNosg}Momonari Kabuto" subtype="head_armor" mesh="sho_momonari_kabuto_2" weight="1.5" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type4"/>
+            <Armor head_armor="18" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type2"/>
         </ItemComponent>
         <Flags/>
     </Item>
@@ -419,19 +419,19 @@
 
     <Item id="sho_momonari_kabuto_a" name="{=pg3de8Ur}Samurai Momonari Kabuto" subtype="head_armor" mesh="sho_momonari_kabuto_a" weight="2.1" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="28" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="28" has_gender_variations="false" modifier_group="plate" material_type="Plate" hair_cover_type="type2"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_momonari_kabuto_b" name="{=pg3de8Ur}Samurai Momonari Kabuto" subtype="head_armor" mesh="sho_momonari_kabuto_b" weight="2.1" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="28" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="28" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_momonari_kabuto_c" name="{=pg3de8Ur}Samurai Momonari Kabuto" subtype="head_armor" mesh="sho_momonari_kabuto_c" weight="2.1" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="28" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="28" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
@@ -567,326 +567,326 @@
     </Item>-->
     <Item id="sho_hineno_zunari_1" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_1" weight="2.2" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="30" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="30" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_2" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_2" weight="2.2" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="30" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="30" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_3" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_3" weight="2.2" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="30" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="30" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_4" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_4" weight="2.2" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="30" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="30" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_1_a" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_1_a" weight="2.6" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="36" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="36" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_2_a" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_2_a" weight="2.6" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="36" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="36" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_3_a" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_3_a" weight="2.6" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="36" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="36" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_4_a" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_4_a" weight="2.6" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="36" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="36" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_1_a_1" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_1_a_1" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_2_a_1" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_2_a_1" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_3_a_1" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_3_a_1" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_4_a_2" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_4_a_2" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_1_a_2" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_1_a_2" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_2_a_2" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_2_a_2" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_3_a_2" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_3_a_2" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_4_a_2" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_4_a_2" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_1_a_3" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_1_a_3" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_2_a_3" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_2_a_3" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_3_a_3" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_3_a_3" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_4_a_3" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_4_a_3" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_1_a_4" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_1_a_4" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_2_a_4" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_2_a_4" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_3_a_4" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_3_a_4" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_4_a_4" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_4_a_4" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_1_a_5" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_1_a_5" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_2_a_5" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_2_a_5" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_3_a_5" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_3_a_5" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_4_a_5" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_4_a_5" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_1_b_1" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_1_b_1" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_2_b_1" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_2_b_1" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_3_b_1" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_3_b_1" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_4_b_2" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_4_b_2" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_1_b_2" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_1_b_2" weight="2.4" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="32" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="32" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_2_b_2" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_2_a_2" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_3_b_2" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_3_a_2" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_4_b_2" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_4_b_2" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_1_b_3" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_1_a_3" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_2_b_3" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_2_a_3" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_3_b_3" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_3_b_3" weight="2.4" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="32" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="32" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_4_b_3" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_4_b_3" weight="2.4" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="32" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="32" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_1_b_4" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_1_b_4" weight="2.4" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="32" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="32" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_2_b_4" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_2_b_4" weight="2.4" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="32" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="32" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_3_b_4" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_3_b_4" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_4_b_4" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_4_b_4" weight="2.4" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="32" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="32" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_1_b_5" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_1_b_5" weight="2.4" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="32" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="32" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_2_b_5" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_2_b_5" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_3_b_5" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_3_b_5" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hineno_zunari_4_b_5" name="{=lG53cqAg}Hineno Zunari Kabuto" subtype="head_armor" mesh="sho_hineno_zunari_4_b_5" weight="2.8" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
 
     <Item id="sho_long_eboshi_kabuto_a" name="{=SJzIarVY}Long Eboshi Kabuto" subtype="head_armor" mesh="sho_long_eboshi_kabuto_a" weight="4.2" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_long_eboshi_kabuto_b" name="{=SJzIarVY}Long Eboshi Kabuto" subtype="head_armor" mesh="sho_long_eboshi_kabuto_b" weight="4.2" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="38" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_eboshi_kabuto_a" name="{=UObFo01T}Eboshi Kabuto" subtype="head_armor" mesh="sho_eboshi_kabuto_a" weight="2.65" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="32" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3"/>
+            <Armor head_armor="32" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="type2"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_eboshi_kabuto_b" name="{=UObFo01T}Eboshi Kabuto" subtype="head_armor" mesh="sho_eboshi_kabuto_b" weight="2.65" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="32" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3"/>
+            <Armor head_armor="32" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="type2"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_eboshi_kabuto_c" name="{=UObFo01T}Eboshi Kabuto" subtype="head_armor" mesh="sho_eboshi_kabuto_c" weight="2.65" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="32" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3"/>
+            <Armor head_armor="32" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="type2"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_eboshi_kabuto_d" name="{=UObFo01T}Eboshi Kabuto" subtype="head_armor" mesh="sho_eboshi_kabuto_d" weight="2.65" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="32" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3"/>
+            <Armor head_armor="32" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="type2"/>
         </ItemComponent>
         <Flags/>
     </Item>
@@ -894,61 +894,61 @@
 
     <Item id="sho_suji_kabuto_a" name="{=nMWNtO3i}Suji Kabuto" subtype="head_armor" mesh="sho_suji_kabuto_a" weight="3.2" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="48" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="48" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_suji_kabuto_b" name="{=nMWNtO3i}Suji Kabuto" subtype="head_armor" mesh="sho_suji_kabuto_b" weight="3.2" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="48" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="48" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_suji_kabuto_c" name="{=nMWNtO3i}Suji Kabuto" subtype="head_armor" mesh="sho_suji_kabuto_c" weight="3.2" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="48" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="48" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_suji_kabuto_d" name="{=nMWNtO3i}Suji Kabuto" subtype="head_armor" mesh="sho_suji_kabuto_d" weight="3.2" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="48" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="48" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_suji_kabuto_e" name="{=nMWNtO3i}Suji Kabuto" subtype="head_armor" mesh="sho_suji_kabuto_e" weight="3.2" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="48" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="48" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_suji_kabuto_menpo_a" name="{=YOiJXHji}Suji Kabuto &amp; Menpo" subtype="head_armor" mesh="sho_suji_kabuto_menpo_a" weight="3.35" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="51" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="51" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_suji_kabuto_menpo_b" name="{=YOiJXHji}Suji Kabuto &amp; Menpo" subtype="head_armor" mesh="sho_suji_kabuto_menpo_b" weight="3.35" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="51" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="51" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_suji_kabuto_menpo_c" name="{=YOiJXHji}Suji Kabuto &amp; Menpo" subtype="head_armor" mesh="sho_suji_kabuto_menpo_c" weight="3.35" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="51" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="51" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_suji_kabuto_menpo_d" name="{=YOiJXHji}Suji Kabuto &amp; Menpo" subtype="head_armor" mesh="sho_suji_kabuto_menpo_d" weight="3.35" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="51" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="51" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_suji_kabuto_menpo_e" name="{=YOiJXHji}Suji Kabuto &amp; Menpo" subtype="head_armor" mesh="sho_suji_kabuto_menpo_e" weight="3.35" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="51" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
+            <Armor head_armor="51" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate" beard_cover_type="all"/>
         </ItemComponent>
         <Flags/>
     </Item>
@@ -956,19 +956,19 @@
 
     <Item id="sho_hachigane_a_1" name="{=cfgAVkkE}Hachigane" subtype="head_armor" mesh="sho_hachigane_a_1" weight="0.6" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="14" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none"/>
+            <Armor head_armor="14" has_gender_variations="false" hair_cover_type="type3" modifier_group="plate" material_type="Plate" beard_cover_type="none"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hachigane_a_2" name="{=cfgAVkkE}Hachigane" subtype="head_armor" mesh="sho_hachigane_a_2" weight="0.6" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="14" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none"/>
+            <Armor head_armor="14" has_gender_variations="false" hair_cover_type="type3" modifier_group="plate" material_type="Plate" beard_cover_type="none"/>
         </ItemComponent>
         <Flags/>
     </Item>
     <Item id="sho_hachigane_a_3" name="{=cfgAVkkE}Hachigane" subtype="head_armor" mesh="sho_hachigane_a_3" weight="0.6" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="14" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none"/>
+            <Armor head_armor="14" has_gender_variations="false" hair_cover_type="type3" modifier_group="plate" material_type="Plate" beard_cover_type="none"/>
         </ItemComponent>
         <Flags/>
     </Item>
@@ -1022,7 +1022,7 @@
 
     <Item id="sho_nigiri_dashi_kabuto_a" name="{=Z1WAw0K0}Nigiri Dashi Kabuto" subtype="head_armor" mesh="sho_nigiri_dashi_kabuto_a" weight="3.1" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="42" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="42" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
@@ -1030,7 +1030,7 @@
 
     <Item id="sho_nigiri_dashi_kabuto_b" name="{=Z1WAw0K0}Nigiri Dashi Kabuto" subtype="head_armor" mesh="sho_nigiri_dashi_kabuto_b" weight="3.1" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="42" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="42" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
@@ -1043,7 +1043,7 @@
 
     <Item id="sho_saiga_kabuto_a_1" name="{=3crkKrnE}Decorated Saika Kabuto" subtype="head_armor" mesh="sho_saiga_kabuto_a_1" weight="2.4" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="33" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="33" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
@@ -1053,7 +1053,7 @@
 
     <Item id="sho_saiga_kabuto_a_2" name="{=3crkKrnE}Decorated Saika Kabuto" subtype="head_armor" mesh="sho_saiga_kabuto_a_2" weight="2.4" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="33" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="33" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
@@ -1061,7 +1061,7 @@
 
     <Item id="sho_saiga_kabuto_b_1" name="{=xrBpMY26}Saika Kabuto" subtype="head_armor" mesh="sho_saiga_kabuto_b_1" weight="2.35" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="31" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="31" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
@@ -1069,7 +1069,7 @@
 
     <Item id="sho_saiga_kabuto_b_2" name="{=xrBpMY26}Saika Kabuto" subtype="head_armor" mesh="sho_saiga_kabuto_b_2" weight="2.35" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="31" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="31" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
@@ -1077,7 +1077,7 @@
 
     <Item id="sho_saiga_kabuto_b_3" name="{=xrBpMY26}Saika Kabuto" subtype="head_armor" mesh="sho_saiga_kabuto_b_3" weight="2.35" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="31" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="31" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
@@ -1085,7 +1085,7 @@
 
     <Item id="sho_saiga_kabuto_b_4" name="{=xrBpMY26}Saika Kabuto" subtype="head_armor" mesh="sho_saiga_kabuto_b_4" weight="2.35" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="31" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="31" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
@@ -1093,7 +1093,7 @@
 
     <Item id="sho_saiga_kabuto_b_5_menpo" name="{=us1vjvyv}Saika Kaburo &amp; Menpo" subtype="head_armor" mesh="sho_saiga_kabuto_b_5_menpo" weight="2.55" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="35" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="35" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
@@ -1101,7 +1101,7 @@
 
     <Item id="sho_saiga_kabuto_b_6_menpo" name="{=us1vjvyv}Saika Kaburo &amp; Menpo" subtype="head_armor" mesh="sho_saiga_kabuto_b_6_menpo" weight="2.55" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="35" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="35" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
@@ -1109,7 +1109,7 @@
 
     <Item id="sho_saiga_kabuto_b_7_menpo" name="{=us1vjvyv}Saika Kaburo &amp; Menpo" subtype="head_armor" mesh="sho_saiga_kabuto_b_7_menpo" weight="2.55" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="35" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="35" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>
@@ -1117,7 +1117,7 @@
 
     <Item id="sho_saiga_kabuto_b_8_menpo" name="{=us1vjvyv}Saika Kaburo &amp; Menpo" subtype="head_armor" mesh="sho_saiga_kabuto_b_8_menpo" weight="2.55" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
-            <Armor head_armor="35" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate"/>
+            <Armor head_armor="35" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags/>
     </Item>

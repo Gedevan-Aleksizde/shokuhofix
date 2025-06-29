@@ -297,7 +297,7 @@
 			</Outputs>
 		</Production>
 	</WorkshopType>	
-	<WorkshopType id="sho_brewery" name="{=Z8vgNDTz}Sake Brewery" equipment_cost="2000" frequency="2" jobname="Sake Brewer" description="{=VyHuxRms}Rice is taken and brewed into sake. Few things keeps the common folk and troops as happy as sake.">
+	<WorkshopType id="sho_brewery" name="{=Z8vgNDTz}Sake Brewery" equipment_cost="2000" frequency="2" jobname="{=cb5RX3rb}Sake Brewer" description="{=VyHuxRms}Rice is taken and brewed into sake. Few things keeps the common folk and troops as happy as sake.">
 		<Meshes sign_mesh_name="shop_sign_merchantbeer" shop_prop_mesh_name_1="shop_prop_merchantbeer_a" shop_prop_mesh_name_2="shop_prop_merchantbeer_b" shop_prop_mesh_name_3_1="shop_prop_merchantbeer_c" shop_prop_mesh_name_4="shop_prop_merchantbeer_d" shop_prop_mesh_name_5="shop_prop_merchantbeer_e" shop_prop_mesh_name_6="shop_prop_merchantbeer_f"/>
 		<Production conversion_speed="3.5">
 			<Inputs>
@@ -308,7 +308,7 @@
 			</Outputs>
 		</Production>
 	</WorkshopType>
-	<WorkshopType id="sho_miso_shop" name="{=9H1k1JL6}Soy Brewery" equipment_cost="2000" frequency="2" jobname="Bean maker" description="{=2J6ZB6wc}We ferment soybeans into miso and soy sauce. Everyone loves soy!">
+	<WorkshopType id="sho_miso_shop" name="{=9H1k1JL6}Soy Brewery" equipment_cost="2000" frequency="2" jobname="{=U3t2qYpM}Bean maker" description="{=2J6ZB6wc}We ferment soybeans into miso and soy sauce. Everyone loves soy!">
 		<Meshes sign_mesh_name="shop_sign_merchantbeer" shop_prop_mesh_name_1="shop_prop_merchantbeer_a" shop_prop_mesh_name_2="shop_prop_merchantbeer_b" shop_prop_mesh_name_3_1="shop_prop_merchantbeer_c" shop_prop_mesh_name_4="shop_prop_merchantbeer_d" shop_prop_mesh_name_5="shop_prop_merchantbeer_e" shop_prop_mesh_name_6="shop_prop_merchantbeer_f"/>
 		<Production conversion_speed="2">
 			<Inputs>
@@ -350,7 +350,7 @@
 			</Outputs>
 		</Production>
 	</WorkshopType>
-	<WorkshopType id="sho_fletcher" name="{=TfxYxPz8}Fletchery" frequency="1" equipment_cost="10000" jobname="Fletcher" description="{=gyESp13H}We work wood and ramie into fine bows and arrows.">
+	<WorkshopType id="sho_fletcher" name="{=TfxYxPz8}Fletchery" frequency="1" equipment_cost="10000" jobname="{=0OU0Y4yH}Fletcher" description="{=gyESp13H}We work wood and ramie into fine bows and arrows.">
 		<Meshes sign_mesh_name="shop_sign_merchantshields" shop_prop_mesh_name_1="shop_prop_merchantcarpenter_a" shop_prop_mesh_name_2="shop_prop_merchantcarpenter_b" shop_prop_mesh_name_3_1="shop_prop_merchantsmithing_tools_c" shop_prop_mesh_name_3_2="shop_prop_merchantweapons_ranged_c" shop_prop_mesh_name_3_3="shop_prop_merchantweapons_shield_c" shop_prop_mesh_name_4="shop_prop_merchantcarpenter_d" shop_prop_mesh_name_5="shop_prop_merchantcarpenter_e" shop_prop_mesh_name_6="shop_prop_merchantcarpenter_f"/>
 		<Production conversion_speed="2">
 			<Inputs>
@@ -406,7 +406,7 @@
 			</Outputs>
 		</Production>		
 	</WorkshopType>
-	<WorkshopType id="sho_chandler" name="{=TGMup0Ff}Chandler" frequency="2" equipment_cost="2000" jobname="Chandler" description="{=biUdC18Z}We make candles out of whale fat or lacquer.">
+	<WorkshopType id="sho_chandler" name="{=TGMup0Ff}Chandler" frequency="2" equipment_cost="2000" jobname="{=A905UuDG}Chandler" description="{=biUdC18Z}We make candles out of whale fat or lacquer.">
 		<Meshes sign_mesh_name="shop_sign_merchantpottery" shop_prop_mesh_name_1="shop_prop_merchantpottery_a" shop_prop_mesh_name_2="shop_prop_merchantpottery_b" shop_prop_mesh_name_3_1="shop_prop_merchantpottery_c" shop_prop_mesh_name_4="shop_prop_merchantpottery_d" shop_prop_mesh_name_5="shop_prop_merchantpottery_e" shop_prop_mesh_name_6="shop_prop_merchantpottery_f"/>
 		<Production conversion_speed="2">
 			<Inputs>
@@ -425,7 +425,7 @@
 			</Outputs>
 		</Production>
 	</WorkshopType>
-	<WorkshopType id="sho_toolsmith" name="{=X5G2beiF}Tool Smithy" frequency="2" equipment_cost="2000" jobname="Toolsmith" description="{=dS3pNauF}We specialize in the creation of tools, used in other professions.">
+	<WorkshopType id="sho_toolsmith" name="{=X5G2beiF}Tool Smithy" frequency="2" equipment_cost="2000" jobname="{=JsLwcUPQ}Toolsmith" description="{=dS3pNauF}We specialize in the creation of tools, used in other professions.">
 		<Meshes sign_mesh_name="shop_sign_merchantsmithing" shop_prop_mesh_name_1="shop_prop_merchantsmithing_a" shop_prop_mesh_name_2="shop_prop_merchantsmithing_b" shop_prop_mesh_name_3_1="shop_prop_merchantweapons_melee_c" shop_prop_mesh_name_3_2="shop_prop_merchantarmory_heavy_c" shop_prop_mesh_name_4="shop_prop_merchantsmithing_d" shop_prop_mesh_name_5="shop_prop_merchantsmithing_e" shop_prop_mesh_name_6="shop_prop_merchantsmithing_f"/>
 		<Production conversion_speed="2">
 			<Inputs>
@@ -437,7 +437,7 @@
 			</Outputs>
 		</Production>
 	</WorkshopType>
-	<WorkshopType id="sho_armorsmith" name="{=gBF09O2c}Armor Smithy" frequency="1" equipment_cost="10000" jobname="Armorsmith" description="{=Rax8DwLH}Armorsmithies are fundamental for militaries, producing protective armor for troops.">
+	<WorkshopType id="sho_armorsmith" name="{=gBF09O2c}Armor Smithy" frequency="1" equipment_cost="10000" jobname="{=d4Ix3c7F}Armorsmith" description="{=Rax8DwLH}Armorsmithies are fundamental for militaries, producing protective armor for troops.">
 		<Meshes sign_mesh_name="shop_sign_merchantsmithing" shop_prop_mesh_name_1="shop_prop_merchantsmithing_a" shop_prop_mesh_name_2="shop_prop_merchantsmithing_b" shop_prop_mesh_name_3_1="shop_prop_merchantweapons_melee_c" shop_prop_mesh_name_3_2="shop_prop_merchantarmory_heavy_c" shop_prop_mesh_name_4="shop_prop_merchantsmithing_d" shop_prop_mesh_name_5="shop_prop_merchantsmithing_e" shop_prop_mesh_name_6="shop_prop_merchantsmithing_f"/>
 		<Production conversion_speed="1">
 			<Inputs>
@@ -547,7 +547,7 @@
 			</Outputs>
 		</Production>
 	</WorkshopType>
-	<WorkshopType id="sho_weaponsmith" name="{=vWrIKShP}Weapon Smithy" frequency="1" equipment_cost="10000" jobname="Weaponsmith" description="{=ZE1qhIyX}Weaponsmithies are fundamental for militaries, producing melee weaponry for troops.">
+	<WorkshopType id="sho_weaponsmith" name="{=vWrIKShP}Weapon Smithy" frequency="1" equipment_cost="10000" jobname="{=t3wWHSRb}Weaponsmith" description="{=ZE1qhIyX}Weaponsmithies are fundamental for militaries, producing melee weaponry for troops.">
 		<Meshes sign_mesh_name="shop_sign_merchantsmithing" shop_prop_mesh_name_1="shop_prop_merchantsmithing_a" shop_prop_mesh_name_2="shop_prop_merchantsmithing_b" shop_prop_mesh_name_3_1="shop_prop_merchantweapons_melee_c" shop_prop_mesh_name_3_2="shop_prop_merchantarmory_heavy_c" shop_prop_mesh_name_4="shop_prop_merchantsmithing_d" shop_prop_mesh_name_5="shop_prop_merchantsmithing_e" shop_prop_mesh_name_6="shop_prop_merchantsmithing_f"/>
 		<Production conversion_speed="1">
 			<Inputs>
@@ -608,7 +608,7 @@
 			</Outputs>
 		</Production>
 	</WorkshopType>
-	<WorkshopType id="sho_jeweler" name="{=nW6uwC4B}Jeweler" frequency="2" equipment_cost="2000" jobname="Jeweler" description="{=T3Mvk8r2}Rare precious metals are turned into valuable jewelery by jewelers. Jewelery is the finest of all trade goods.">
+	<WorkshopType id="sho_jeweler" name="{=nW6uwC4B}Jeweler" frequency="2" equipment_cost="2000" jobname="{=Y8RzTjgt}Jeweler" description="{=T3Mvk8r2}Rare precious metals are turned into valuable jewelery by jewelers. Jewelery is the finest of all trade goods.">
 		<Meshes sign_mesh_name="shop_sign_merchantsmithing" shop_prop_mesh_name_1="shop_prop_merchantsilversmith_a" shop_prop_mesh_name_2="shop_prop_merchantsilversmith_b" shop_prop_mesh_name_3_1="shop_prop_merchantsilversmith_c" shop_prop_mesh_name_4="shop_prop_merchantsilversmith_d" shop_prop_mesh_name_5="shop_prop_merchantsilversmith_e" shop_prop_mesh_name_6="shop_prop_merchantsilversmith_f"/>
 		<Production conversion_speed="1">
 			<Inputs>
@@ -636,7 +636,7 @@
 		</Production>
 		
 	</WorkshopType>
-	<WorkshopType id="sho_ramie_weavery" name="{=dGVQG6sj}Ramie Weavery" frequency="2" equipment_cost="2000" jobname="Ramie Weaver" description="{=4934rF0B}We form the raw fibers of ramie into a usable cloth.">
+	<WorkshopType id="sho_ramie_weavery" name="{=dGVQG6sj}Ramie Weavery" frequency="2" equipment_cost="2000" jobname="{=6LJORdIR}Ramie Weaver" description="{=4934rF0B}We form the raw fibers of ramie into a usable cloth.">
 		<Meshes sign_mesh_name="shop_sign_merchantweaverylinen" shop_prop_mesh_name_1="shop_prop_merchantweavery_linen_a" shop_prop_mesh_name_2="shop_prop_merchantweavery_linen_b" shop_prop_mesh_name_3_1="shop_prop_merchantweavery_linen_c" shop_prop_mesh_name_4="shop_prop_merchantweavery_linen_d" shop_prop_mesh_name_5="shop_prop_merchantweavery_linen_e" shop_prop_mesh_name_6="shop_prop_merchantweavery_linen_f"/>
 		<Production conversion_speed="2">
 			<Inputs>
@@ -647,7 +647,7 @@
 			</Outputs>
 		</Production>
 	</WorkshopType>
-	<WorkshopType id="sho_cotton_weavery" name="{=P7lq8RkL}Cotton Weavery" frequency="2" equipment_cost="2000" jobname="Cotton Weaver" description="{=hL3S1ZrR}We form the raw fibers of cotton into a usable cloth.">
+	<WorkshopType id="sho_cotton_weavery" name="{=P7lq8RkL}Cotton Weavery" frequency="2" equipment_cost="2000" jobname="{=DUZZdpth}Cotton Weaver" description="{=hL3S1ZrR}We form the raw fibers of cotton into a usable cloth.">
 		<Meshes sign_mesh_name="shop_sign_merchantweaverywool" shop_prop_mesh_name_1="shop_prop_merchantweavery_wool_a" shop_prop_mesh_name_2="shop_prop_merchantweavery_wool_b" shop_prop_mesh_name_3_1="shop_prop_merchantarmory_light_c" shop_prop_mesh_name_4="shop_prop_merchantweavery_wool_d" shop_prop_mesh_name_5="shop_prop_merchantweavery_wool_e" shop_prop_mesh_name_6="shop_prop_merchantweavery_wool_f"/>
 		<Production conversion_speed="1.25">
 			<Inputs>
@@ -658,7 +658,7 @@
 			</Outputs>
 		</Production>
 	</WorkshopType>
-	<WorkshopType id="sho_silk_weavery" name="{=S8dquqCL}Silk Weavery" frequency="2" equipment_cost="2000" jobname="Silk Weaver" description="{=35QTSptg}We weave raw silk into usable material to create the most luxurious clothing.">
+	<WorkshopType id="sho_silk_weavery" name="{=S8dquqCL}Silk Weavery" frequency="2" equipment_cost="2000" jobname="{=vTvql5JR}Silk Weaver" description="{=35QTSptg}We weave raw silk into usable material to create the most luxurious clothing.">
 		<Meshes sign_mesh_name="shop_sign_merchantweaveryvelvet" shop_prop_mesh_name_1="shop_prop_merchantweavery_velvet_a" shop_prop_mesh_name_2="shop_prop_merchantweavery_velvet_b" shop_prop_mesh_name_3_1="shop_prop_merchantweavery_velvet_c" shop_prop_mesh_name_4="shop_prop_merchantweavery_velvet_d" shop_prop_mesh_name_5="shop_prop_merchantweavery_velvet_e" shop_prop_mesh_name_6="shop_prop_merchantweavery_velvet_f"/>
 		<Production conversion_speed="3">
 			<Inputs>
@@ -710,7 +710,7 @@
 			</Outputs>
 		</Production>
 	</WorkshopType>-->
-	<WorkshopType id="sho_gunsmith" name="{=RQzaCz8L}Gun Smithy" frequency="1" equipment_cost="10000" jobname="Gunsmith" description="{=JESzISwn}We create Tanegashima guns using iron, wood, and sulfur.">
+	<WorkshopType id="sho_gunsmith" name="{=RQzaCz8L}Gun Smithy" frequency="1" equipment_cost="10000" jobname="{=sh2tS2Td}Gunsmith" description="{=JESzISwn}We create Tanegashima guns using iron, wood, and sulfur.">
 		<Meshes sign_mesh_name="shop_sign_merchantshields" shop_prop_mesh_name_1="shop_prop_merchantcarpenter_a" shop_prop_mesh_name_2="shop_prop_merchantcarpenter_b" shop_prop_mesh_name_3_1="shop_prop_merchantsmithing_tools_c" shop_prop_mesh_name_3_2="shop_prop_merchantweapons_ranged_c" shop_prop_mesh_name_3_3="shop_prop_merchantweapons_shield_c" shop_prop_mesh_name_4="shop_prop_merchantcarpenter_d" shop_prop_mesh_name_5="shop_prop_merchantcarpenter_e" shop_prop_mesh_name_6="shop_prop_merchantcarpenter_f"/>
         <Production conversion_speed="1">
             <Inputs>

@@ -112,18 +112,45 @@
 		<Flags Civilian="true"/>
 	</Item>
 
-    <!--boats-->
-	<Item id="test_boat" name="{=RCUgFFj9}Test Boat" mesh="sho_kobaya_tate_boat_1" value="0" weight="1" Type="Goods">
+	<!--<Item id="test_boat" name="{=RCUgFFj9}Test Boat" mesh="sho_kobaya_tate_boat_1" value="0" weight="1" Type="Goods">
 		<Flags Civilian="true"/>
-	</Item>
-    <Item id="throwing_stone" name="{=1CPdu9K0}Stone" is_merchandise="false" body_name="bo_throwing_stone" holster_body_name="bo_axe_short" holster_mesh="stone_holster" holster_mesh_with_weapon="stone_holster" mesh="throwing_stone" value="2" weight="0.1" appearance="0.1" Type="Thrown" item_holsters="throwing_stone:throwing_stone_2">
-        <ItemComponent>
-            <Weapon weapon_class="Stone" ammo_class="Stone" stack_amount="14" physics_material="missile" accuracy="45" thrust_speed="102" speed_rating="102" missile_speed="40" weapon_length="10" thrust_damage="20" item_usage="stone" rotation="100,30,20" passby_sound_code="" rotation_speed="0, -3.0, 0">
-                <WeaponFlags RangedWeapon="true" Consumable="true" AutoReload="true" UseHandAsThrowBase="true"/>
-            </Weapon>
-        </ItemComponent>
-        <Flags/>
-    </Item>
+	</Item>-->
+		<Item id="throwing_stone"
+			  name="{=1CPdu9K0}Stone"
+			  is_merchandise="false"
+			  body_name="bo_throwing_stone"
+			  holster_body_name="bo_axe_short"
+			  holster_mesh="stone_holster"
+			  holster_mesh_with_weapon="stone_holster"
+			  mesh="throwing_stone"
+			  value="2"
+			  weight="0.1"
+			  appearance="0.1"
+			  Type="Thrown"
+			  item_holsters="throwing_stone:throwing_stone_2">
+			<ItemComponent>
+				<Weapon weapon_class="Stone"
+						ammo_class="Stone"
+						stack_amount="14"
+						physics_material="missile"
+						accuracy="45"
+						thrust_speed="102"
+						speed_rating="102"
+						missile_speed="40"
+						weapon_length="10"
+						thrust_damage="20"
+						item_usage="stone"
+						rotation="100,30,20"
+						passby_sound_code=""
+						rotation_speed="0, -3.0, 0">
+					<WeaponFlags RangedWeapon="true"
+								 Consumable="true"
+								 AutoReload="true"
+								 UseHandAsThrowBase="true"/>
+				</Weapon>
+			</ItemComponent>
+			<Flags/>
+		</Item>
     <!-- #region Used Projectiles -->
     <Item multiplayer_item="false" id="ballista_projectile" name="{=6Db7aDbF}Ballista Arrows" body_name="bo_ballista_projectile_a" holster_body_name="bo_axe_short" mesh="ballista_projectile_a" holster_mesh="quiver" is_merchandise="false" subtype="arrows" weight="3" difficulty="0" appearance="1" Type="Arrows" item_holsters="">
         <ItemComponent>

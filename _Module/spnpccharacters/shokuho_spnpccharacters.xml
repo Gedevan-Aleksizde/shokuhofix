@@ -14,21 +14,21 @@
         </skills>
         <Equipments>
 			<EquipmentRoster>
-				<Equipment slot="Item0" id="Item.sho_tachi_4"/>
-				<Equipment slot="Head" id="Item.sho_tengai_hat"/>
-				<Equipment slot="Body" id="Item.sho_peasant_pants_e"/>
+				<equipment slot="Item0" id="Item.sho_tachi_4"/>
+				<equipment slot="Head" id="Item.sho_tengai_hat"/>
+				<equipment slot="Body" id="Item.sho_peasant_pants_e"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
-				<Equipment slot="Item3" id="Item.sho_katana_2"/>
-				<Equipment slot="Head" id="Item.sho_nomadgasa_hat"/>
-				<Equipment slot="Body" id="Item.sho_peasant_outfit_e"/>
-				<Equipment slot="Leg" id="Item.sho_low_tier_suneate_a_8"/>
+				<equipment slot="Item3" id="Item.sho_katana_2"/>
+				<equipment slot="Head" id="Item.sho_nomadgasa_hat"/>
+				<equipment slot="Body" id="Item.sho_peasant_outfit_e"/>
+				<equipment slot="Leg" id="Item.sho_low_tier_suneate_a_8"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
-				<Equipment slot="Item3" id="Item.sho_katana_2"/>
-				<Equipment slot="Body" id="Item.sho_peasant_pants_f"/>
-				<Equipment slot="Leg" id="Item.sho_low_tier_suneate_a_10"/>
-				<Equipment slot="Gloves" id="Item.sho_tier_1_kote_a_1"/>
+				<equipment slot="Item3" id="Item.sho_katana_2"/>
+				<equipment slot="Body" id="Item.sho_peasant_pants_f"/>
+				<equipment slot="Leg" id="Item.sho_low_tier_suneate_a_10"/>
+				<equipment slot="Gloves" id="Item.sho_tier_1_kote_a_1"/>
 			</EquipmentRoster>
         </Equipments>
     </NPCCharacter>
@@ -45,23 +45,23 @@
         </skills>
         <Equipments>
 			<EquipmentRoster>
-				<Equipment slot="Item3" id="Item.sho_katana_2"/>
-				<Equipment slot="Head" id="Item.sho_roningasa_hat"/>
-				<Equipment slot="Body" id="Item.sho_peasant_pants_f"/>
-				<Equipment slot="Leg" id="Item.sho_low_tier_suneate_a_14"/>
-				<Equipment slot="Gloves" id="Item.sho_tier_2_kote_a_7"/>
+				<equipment slot="Item3" id="Item.sho_katana_2"/>
+				<equipment slot="Head" id="Item.sho_roningasa_hat"/>
+				<equipment slot="Body" id="Item.sho_peasant_pants_f"/>
+				<equipment slot="Leg" id="Item.sho_low_tier_suneate_a_14"/>
+				<equipment slot="Gloves" id="Item.sho_tier_2_kote_a_7"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
-				<Equipment slot="Item3" id="Item.sho_tachi_14"/>
-				<Equipment slot="Head" id="Item.sho_sandogasa_hat"/>
-				<Equipment slot="Body" id="Item.sho_ashi_3_kozane_h"/>
-				<Equipment slot="Leg" id="Item.sho_low_tier_suneate_a_3"/>
+				<equipment slot="Item3" id="Item.sho_tachi_14"/>
+				<equipment slot="Head" id="Item.sho_sandogasa_hat"/>
+				<equipment slot="Body" id="Item.sho_ashi_3_kozane_h"/>
+				<equipment slot="Leg" id="Item.sho_low_tier_suneate_a_3"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
-				<Equipment slot="Item3" id="Item.sho_katana_28"/>
-				<Equipment slot="Head" id="Item.sho_jingasa_straw_hat"/>
-				<Equipment slot="Body" id="Item.sho_ashi_go_mai_i"/>
-				<Equipment slot="Leg" id="Item.sho_waraji_a"/>
+				<equipment slot="Item3" id="Item.sho_katana_28"/>
+				<equipment slot="Head" id="Item.sho_jingasa_straw_hat"/>
+				<equipment slot="Body" id="Item.sho_ashi_go_mai_i"/>
+				<equipment slot="Leg" id="Item.sho_waraji_a"/>
 			</EquipmentRoster>
         </Equipments>
     </NPCCharacter>
@@ -78,34 +78,29 @@
         </skills>
         <Equipments>
 			<EquipmentRoster>
-				<Equipment slot="Item0" id="Item.sho_tachi_4"/>
-				<Equipment slot="Head" id="Item.sho_tengai_hat"/>
-				<Equipment slot="Body" id="Item.sho_peasant_pants_e"/>
+				<equipment slot="Item0" id="Item.sho_tachi_4"/>
+				<equipment slot="Head" id="Item.sho_tengai_hat"/>
+				<equipment slot="Body" id="Item.sho_peasant_pants_e"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
-				<Equipment slot="Item3" id="Item.sho_katana_28"/>
-				<Equipment slot="Head" id="Item.sho_ensui_jingasa_1"/>
-				<Equipment slot="Body" id="Item.sho_simple_okegawa_2"/>
-				<Equipment slot="Leg" id="Item.sho_shino_suneate_a_7"/>
+				<equipment slot="Item3" id="Item.sho_katana_28"/>
+				<equipment slot="Head" id="Item.sho_ensui_jingasa_1"/>
+				<equipment slot="Body" id="Item.sho_simple_okegawa_2"/>
+				<equipment slot="Leg" id="Item.sho_shino_suneate_a_7"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
-				<Equipment slot="Item3" id="Item.sho_tachi_bear"/>
-				<Equipment slot="Head" id="Item.sho_monk_headwrap_b_1"/>
-				<Equipment slot="Body" id="Item.sho_yukinoshita_rework_b"/>
-				<Equipment slot="Leg" id="Item.sho_shino_suneate_a_8"/>
-				<Equipment slot="Gloves" id="Item.sho_tier_3_kote_a_8"/>
+				<equipment slot="Item3" id="Item.sho_tachi_bear"/>
+				<equipment slot="Head" id="Item.sho_monk_headwrap_b_1"/>
+				<equipment slot="Body" id="Item.sho_yukinoshita_rework_b"/>
+				<equipment slot="Leg" id="Item.sho_shino_suneate_a_8"/>
+				<equipment slot="Gloves" id="Item.sho_tier_3_kote_a_8"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
-				<Equipment slot="Item3"
-						   id="Item.sho_tachi_bear"/>
-				<Equipment slot="Head"
-						   id="Item.sho_noh_mask_c" />
-				<Equipment slot="Body"
-						   id="Item.sho_yukinoshita_rework_b" />
-				<Equipment slot="Leg"
-						   id="Item.sho_shino_suneate_a_2" />
-				<Equipment slot="Gloves"
-						   id="Item.sho_tier_5_kote_a_7" />
+				<equipment slot="Item3" id="Item.sho_tachi_bear"/>
+				<equipment slot="Head" id="Item.sho_noh_mask_c"/>
+				<equipment slot="Body" id="Item.sho_yukinoshita_rework_b"/>
+				<equipment slot="Leg" id="Item.sho_shino_suneate_a_2"/>
+				<equipment slot="Gloves" id="Item.sho_tier_5_kote_a_7"/>
 			</EquipmentRoster>
         </Equipments>
     </NPCCharacter>
@@ -132,7 +127,7 @@
 
     <!--#region Caravans. Each culture requires a caravan master.-->
     <!--Saikai-->
-    <NPCCharacter id="caravan_master_saikai" default_group="Infantry" level="26" name="{=nDoENDqD}Saikai Caravan Master" occupation="CaravanGuard" culture="Culture.saikai" skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
+    <NPCCharacter id="caravan_master_saikai" default_group="Infantry" level="26" name="{=aargOvTM}Saikai Caravan Master" occupation="CaravanGuard" culture="Culture.saikai" skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>
@@ -161,7 +156,7 @@
         </Equipments>
     </NPCCharacter>
     <!--Nankai-->
-    <NPCCharacter id="caravan_master_nankai" default_group="Infantry" level="26" name="{=nDoENDqD}Nankai Caravan Master" occupation="CaravanGuard" culture="Culture.nankai" skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
+    <NPCCharacter id="caravan_master_nankai" default_group="Infantry" level="26" name="{=cExrGOdl}Nankai Caravan Master" occupation="CaravanGuard" culture="Culture.nankai" skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>
@@ -190,7 +185,7 @@
         </Equipments>
     </NPCCharacter>
     <!--Sanyo-->
-    <NPCCharacter id="caravan_master_sanyo" default_group="Infantry" level="26" name="{=nDoENDqD}Sanyo Caravan Master" occupation="CaravanGuard" culture="Culture.sanyo" skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
+    <NPCCharacter id="caravan_master_sanyo" default_group="Infantry" level="26" name="{=6TqLlctU}Sanyo Caravan Master" occupation="CaravanGuard" culture="Culture.sanyo" skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>
@@ -402,7 +397,7 @@
             <EquipmentSet id="player_char_creation_default" civilian="true"/>
         </Equipments>
     </NPCCharacter>
-    <NPCCharacter id="duelist_boss" default_group="Infantry" level="26" name="{=nDoENDqD}Duelist" occupation="Special">
+    <NPCCharacter id="duelist_boss" default_group="Infantry" level="26" name="{=0XbH81fA}Duelist" occupation="Special">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>
@@ -460,7 +455,7 @@
         </Equipments>
     </NPCCharacter>
     <!--Shokuho NPC Templates-->
-    <NPCCharacter id="townswoman_saikai" default_group="Infantry" level="1" name="{=V8GrFH4B}Townswoman" occupation="Townsfolk" culture="Culture.saikai" is_female="true"  skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <NPCCharacter id="townswoman_saikai" default_group="Infantry" level="1" name="{=V8GrFH4B}Townswoman" occupation="Townsfolk" culture="Culture.saikai" is_female="true" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
 		<face>
 			<face_key_template value="BodyProperty.townswoman_saikai"/>
 		</face>
@@ -472,7 +467,7 @@
 			<EquipmentSet id="townsman_default_saikai" civilian="true"/>
         </Equipments>
     </NPCCharacter>
-    <NPCCharacter id="townsman_saikai" default_group="Infantry" name="{=muu5cofb}Townsman" occupation="Townsfolk" culture="Culture.saikai"  skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <NPCCharacter id="townsman_saikai" default_group="Infantry" name="{=muu5cofb}Townsman" occupation="Townsfolk" culture="Culture.saikai" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>
@@ -482,7 +477,7 @@
             <EquipmentSet id="townsman_default_saikai" civilian="true"/>
         </Equipments>
     </NPCCharacter>
-    <NPCCharacter id="townswoman_infant_saikai" name="{=fDJnHdgf}Infant" age="3" is_female="true" default_group="Infantry" is_hero="false" occupation="Townsfolk"  skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <NPCCharacter id="townswoman_infant_saikai" name="{=fDJnHdgf}Infant" age="3" is_female="true" default_group="Infantry" is_hero="false" occupation="Townsfolk" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
         <face>
             <face_key_template value="BodyProperty.townswoman_saikai"/>
         </face>
@@ -490,7 +485,7 @@
             <EquipmentSet id="townsman_default_saikai" civilian="true"/>
         </Equipments>
     </NPCCharacter>
-    <NPCCharacter id="townswoman_child_saikai" name="{=ZsIZM9BT}Child" age="6" is_female="true" default_group="Infantry" is_hero="false" occupation="Townsfolk"  skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <NPCCharacter id="townswoman_child_saikai" name="{=ZsIZM9BT}Child" age="6" is_female="true" default_group="Infantry" is_hero="false" occupation="Townsfolk" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
         <face>
             <face_key_template value="BodyProperty.townswoman_saikai"/>
         </face>
@@ -501,7 +496,7 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-    <NPCCharacter id="townswoman_teenager_saikai" name="{=CVBEoYWL}Teenager" age="14" is_female="true" default_group="Infantry" is_hero="false" occupation="Townsfolk"  skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <NPCCharacter id="townswoman_teenager_saikai" name="{=CVBEoYWL}Teenager" age="14" is_female="true" default_group="Infantry" is_hero="false" occupation="Townsfolk" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
         <face>
             <face_key_template value="BodyProperty.townswoman_saikai"/>
         </face>
@@ -512,7 +507,7 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-    <NPCCharacter id="townsman_infant_saikai" name="{=fDJnHdgf}Infant" age="3" is_female="false" default_group="Infantry" is_hero="false" occupation="Townsfolk"  skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <NPCCharacter id="townsman_infant_saikai" name="{=fDJnHdgf}Infant" age="3" is_female="false" default_group="Infantry" is_hero="false" occupation="Townsfolk" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>
@@ -527,7 +522,7 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-    <NPCCharacter id="townsman_child_saikai" name="{=ZsIZM9BT}Child" age="6" is_female="false" default_group="Infantry" is_hero="false" occupation="Townsfolk"  skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <NPCCharacter id="townsman_child_saikai" name="{=ZsIZM9BT}Child" age="6" is_female="false" default_group="Infantry" is_hero="false" occupation="Townsfolk" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>
@@ -542,7 +537,7 @@
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
-    <NPCCharacter id="townsman_teenager_saikai" name="{=CVBEoYWL}Teenager" age="14" is_female="false" default_group="Infantry" is_hero="false" occupation="Townsfolk"  skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <NPCCharacter id="townsman_teenager_saikai" name="{=CVBEoYWL}Teenager" age="14" is_female="false" default_group="Infantry" is_hero="false" occupation="Townsfolk" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>
@@ -558,7 +553,7 @@
         </Equipments>
     </NPCCharacter>
     <!--Blacksmith-->
-    <NPCCharacter id="blacksmith_saikai" default_group="Infantry" is_hero="false" occupation="Blacksmith"  name="{=bNnQt4jN}Blacksmith" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <NPCCharacter id="blacksmith_saikai" default_group="Infantry" is_hero="false" occupation="Blacksmith" name="{=bNnQt4jN}Blacksmith" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>
@@ -569,7 +564,7 @@
         </Equipments>
     </NPCCharacter>
     <!--weaponsmith-->
-    <NPCCharacter id="weaponsmith_saikai" default_group="Infantry" is_hero="false" occupation="Weaponsmith"  name="{=UaN2lfwi}Weaponsmith" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <NPCCharacter id="weaponsmith_saikai" default_group="Infantry" is_hero="false" occupation="Weaponsmith" name="{=UaN2lfwi}Weaponsmith" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>
@@ -580,7 +575,7 @@
         </Equipments>
     </NPCCharacter>
     <!--Ransom Broker-->
-    <NPCCharacter id="ransom_broker_saikai" default_group="Infantry" is_hero="false" name="{=W2WXkiAh}Ransom Broker" occupation="RansomBroker"  skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <NPCCharacter id="ransom_broker_saikai" default_group="Infantry" is_hero="false" name="{=W2WXkiAh}Ransom Broker" occupation="RansomBroker" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>
@@ -978,7 +973,7 @@
 		</Equipments>
     </NPCCharacter>
     <!--Merchant Notary-->
-    <NPCCharacter id="merchant_notary_saikai" default_group="Infantry" name="{=reoVAtrE}Merchant Notary" occupation="Townsfolk"  skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <NPCCharacter id="merchant_notary_saikai" default_group="Infantry" name="{=reoVAtrE}Merchant Notary" occupation="Townsfolk" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>
@@ -989,7 +984,7 @@
         </Equipments>
     </NPCCharacter>
     <!--Shop Worker-->
-    <NPCCharacter id="shop_worker_saikai" default_group="Infantry" name="{=275LD0Gh}Shop Worker" occupation="ShopWorker"  skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <NPCCharacter id="shop_worker_saikai" default_group="Infantry" name="{=275LD0Gh}Shop Worker" occupation="ShopWorker" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>
@@ -1000,7 +995,7 @@
         </Equipments>
     </NPCCharacter>
     <!--TavernKeeper-->
-    <NPCCharacter id="tavernkeeper_saikai" default_group="Infantry" is_hero="false" name="{=CsjtWt1g}Tavern Keeper" occupation="Tavernkeeper"  skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <NPCCharacter id="tavernkeeper_saikai" default_group="Infantry" is_hero="false" name="{=CsjtWt1g}Tavern Keeper" occupation="Tavernkeeper" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>
@@ -1011,7 +1006,7 @@
         </Equipments>
     </NPCCharacter>
     <!--Tavern game host-->
-    <NPCCharacter id="taverngamehost_saikai" default_group="Infantry" is_hero="false" name="{=twCIejxn}Game Host" occupation="TavernGameHost"  skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <NPCCharacter id="taverngamehost_saikai" default_group="Infantry" is_hero="false" name="{=twCIejxn}Game Host" occupation="TavernGameHost" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>
@@ -1022,7 +1017,7 @@
         </Equipments>
     </NPCCharacter>
     <!--Musician-->
-    <NPCCharacter id="musician_saikai" default_group="Infantry" is_hero="false" name="{=zfCoeglY}Musician" occupation="Musician"  skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <NPCCharacter id="musician_saikai" default_group="Infantry" is_hero="false" name="{=zfCoeglY}Musician" occupation="Musician" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>
@@ -1036,7 +1031,7 @@
         </Equipments>
     </NPCCharacter>
     <!--Tavern Wench. TODO: make less sexist-->
-    <NPCCharacter id="tavern_wench_saikai" default_group="Infantry" name="{=z6RMWTaA}Tavern Maid" is_female="true" is_hero="false" occupation="TavernWench"  skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <NPCCharacter id="tavern_wench_saikai" default_group="Infantry" name="{=z6RMWTaA}Tavern Maid" is_female="true" is_hero="false" occupation="TavernWench" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
         <face>
             <!--<face_key value="0016fd3fc0bc100ba85b849797f8e40ba37965b6f4ff0f6c47ecc4a5410794100006865505829038000000000000000000000000000000000000000001780000" />-->
             <face_key_template value="BodyProperty.townswoman_saikai"/>
@@ -1055,7 +1050,7 @@
         </Equipments>
     </NPCCharacter>
     <!--Armorer-->
-    <NPCCharacter id="armorer_saikai" default_group="Infantry" is_hero="false" occupation="Armorer"  name="{=jx8ohENz}Armorer" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <NPCCharacter id="armorer_saikai" default_group="Infantry" is_hero="false" occupation="Armorer" name="{=jx8ohENz}Armorer" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>
@@ -1066,7 +1061,7 @@
         </Equipments>
     </NPCCharacter>
     <!--Horse Merchant-->
-    <NPCCharacter id="horseMerchant_saikai" default_group="Infantry" is_hero="false" occupation="HorseTrader"  name="{=79ElOr2x}Horse Trader" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <NPCCharacter id="horseMerchant_saikai" default_group="Infantry" is_hero="false" occupation="HorseTrader" name="{=79ElOr2x}Horse Trader" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>
@@ -1077,7 +1072,7 @@
         </Equipments>
     </NPCCharacter>
     <!--Barber-->
-    <NPCCharacter id="barber_saikai" default_group="Infantry" is_hero="false" occupation="Townsfolk"  name="{=WH7EGGIg}Barber" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <NPCCharacter id="barber_saikai" default_group="Infantry" is_hero="false" occupation="Townsfolk" name="{=WH7EGGIg}Barber" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>
@@ -1088,7 +1083,7 @@
         </Equipments>
     </NPCCharacter>
     <!--Merchant-->
-    <NPCCharacter id="merchant_saikai" default_group="Infantry" is_hero="false" occupation="GoodsTrader"  name="{=kPCcelVX}Trader " skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <NPCCharacter id="merchant_saikai" default_group="Infantry" is_hero="false" occupation="GoodsTrader" name="{=kPCcelVX}Trader " skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>
@@ -1099,7 +1094,7 @@
         </Equipments>
     </NPCCharacter>
     <!--Beggar-->
-    <NPCCharacter id="beggar_saikai" default_group="Infantry" name="{=953W3FGg}Beggar" occupation="Townsfolk"  skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <NPCCharacter id="beggar_saikai" default_group="Infantry" name="{=953W3FGg}Beggar" occupation="Townsfolk" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
         <face>
             <!--face_key value="000507400600141300000000000000100000000000000000000000000000000000010bacf10000000000000000000000000000000000000000000000000000c1" max_value="001cffffd50034d4fffffffffff0fffffffffffffffffffffffffeffffffffff00010baff1ffffff000000000000000000000000000000000000000000008101" /-->
             <BodyProperties version="4" age="75.93" weight="0.1323" build="0.1794" key="000504000600141300000000000900100000000000000000000000000000000000039BA9030000000000000000000000000000000000000000000000007800C1"/>
@@ -1109,23 +1104,18 @@
         <!-- Uses village hair -->
         <Equipments>
 			<EquipmentRoster civilian="true">
-				<equipment slot="Body"
-						   id="Item.sho_peasant_outfit_a"/>
-				<equipment slot="Head"
-						   id="Item.sho_amigasa_hat"/>
-				<equipment slot="Leg"
-						   id="Item.sho_waraji_a"/>
+				<equipment slot="Body" id="Item.sho_peasant_outfit_a"/>
+				<equipment slot="Head" id="Item.sho_amigasa_hat"/>
+				<equipment slot="Leg" id="Item.sho_waraji_a"/>
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
-				<equipment slot="Body"
-						   id="Item.sho_peasant_outfit_a"/>
-				<equipment slot="Leg"
-						   id="Item.sho_waraji_a"/>
+				<equipment slot="Body" id="Item.sho_peasant_outfit_a"/>
+				<equipment slot="Leg" id="Item.sho_waraji_a"/>
 			</EquipmentRoster>
         </Equipments>
     </NPCCharacter>
     <!--female beggar-->
-    <NPCCharacter id="female_beggar_saikai" default_group="Infantry" is_female="true" level="1" name="{=953W3FGg}Beggar" occupation="Townsfolk"  skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <NPCCharacter id="female_beggar_saikai" default_group="Infantry" is_female="true" level="1" name="{=953W3FGg}Beggar" occupation="Townsfolk" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
         <face>
             <face_key_template value="BodyProperty.townswoman_saikai"/>
         </face>
@@ -1244,7 +1234,7 @@
         </Equipments>
     </NPCCharacter>
     <!--Arena master-->
-    <NPCCharacter id="tournament_master_saikai" default_group="Infantry" is_hero="false" occupation="ArenaMaster"  name="{=IHKXNP9H}Tournament Master" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <NPCCharacter id="tournament_master_saikai" default_group="Infantry" is_hero="false" occupation="ArenaMaster" name="{=IHKXNP9H}Tournament Master" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
         <face>
             <face_key_template value="BodyProperty.townsman_saikai"/>
         </face>
@@ -1264,7 +1254,7 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training_1"/>
+                <equipment slot="Item0" id="Item.sho_katana_training_1"/>
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
@@ -1276,7 +1266,7 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training_2"/>
+                <equipment slot="Item0" id="Item.sho_katana_training_2"/>
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
@@ -1288,7 +1278,7 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.training_naginata"/>
+                <equipment slot="Item0" id="Item.training_naginata"/>
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
@@ -1300,9 +1290,9 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_new_yumi"/>
-                <Equipment slot="Item1" id="Item.sho_practice_arrow"/>
-                <Equipment slot="Item2" id="Item.sho_wakizashi_training"/>
+                <equipment slot="Item0" id="Item.sho_new_yumi"/>
+                <equipment slot="Item1" id="Item.sho_practice_arrow"/>
+                <equipment slot="Item2" id="Item.sho_wakizashi_training"/>
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
@@ -1316,10 +1306,10 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training_2"/>
+                <equipment slot="Item0" id="Item.sho_katana_training_2"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training_1"/>
+                <equipment slot="Item0" id="Item.sho_katana_training_1"/>
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
@@ -1332,10 +1322,10 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.training_naginata"/>
+                <equipment slot="Item0" id="Item.training_naginata"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training_1"/>
+                <equipment slot="Item0" id="Item.sho_katana_training_1"/>
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
@@ -1348,10 +1338,10 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training_2"/>
+                <equipment slot="Item0" id="Item.sho_katana_training_2"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.training_naginata"/>
+                <equipment slot="Item0" id="Item.training_naginata"/>
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
@@ -1364,12 +1354,12 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training_2"/>
+                <equipment slot="Item0" id="Item.sho_katana_training_2"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_new_yumi"/>
-                <Equipment slot="Item1" id="Item.sho_practice_arrow"/>
-                <Equipment slot="Item2" id="Item.sho_wakizashi_training"/>
+                <equipment slot="Item0" id="Item.sho_new_yumi"/>
+                <equipment slot="Item1" id="Item.sho_practice_arrow"/>
+                <equipment slot="Item2" id="Item.sho_wakizashi_training"/>
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
@@ -1382,12 +1372,12 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.training_naginata"/>
+                <equipment slot="Item0" id="Item.training_naginata"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_new_yumi"/>
-                <Equipment slot="Item1" id="Item.sho_practice_arrow"/>
-                <Equipment slot="Item2" id="Item.sho_wakizashi_training"/>
+                <equipment slot="Item0" id="Item.sho_new_yumi"/>
+                <equipment slot="Item1" id="Item.sho_practice_arrow"/>
+                <equipment slot="Item2" id="Item.sho_wakizashi_training"/>
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
@@ -1401,16 +1391,16 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training_2"/>
+                <equipment slot="Item0" id="Item.sho_katana_training_2"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training_2"/>
+                <equipment slot="Item0" id="Item.sho_katana_training_2"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training_2"/>
+                <equipment slot="Item0" id="Item.sho_katana_training_2"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training_2"/>
+                <equipment slot="Item0" id="Item.sho_katana_training_2"/>
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
@@ -1423,16 +1413,16 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training_1"/>
+                <equipment slot="Item0" id="Item.sho_katana_training_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training_1"/>
+                <equipment slot="Item0" id="Item.sho_katana_training_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training_1"/>
+                <equipment slot="Item0" id="Item.sho_katana_training_1"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training_1"/>
+                <equipment slot="Item0" id="Item.sho_katana_training_1"/>
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
@@ -1445,16 +1435,16 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.training_naginata"/>
+                <equipment slot="Item0" id="Item.training_naginata"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.training_naginata"/>
+                <equipment slot="Item0" id="Item.training_naginata"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.training_naginata"/>
+                <equipment slot="Item0" id="Item.training_naginata"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.training_naginata"/>
+                <equipment slot="Item0" id="Item.training_naginata"/>
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
@@ -1476,54 +1466,54 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_staff_training"/>
-                <Equipment slot="Body" id="Item.sho_peasant_outfit_i"/>
-                <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+                <equipment slot="Item0" id="Item.sho_staff_training"/>
+                <equipment slot="Body" id="Item.sho_peasant_outfit_i"/>
+                <equipment slot="Leg" id="Item.sho_waraji_a"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training"/>
-                <Equipment slot="Body" id="Item.sho_peasant_outfit_i"/>
-                <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+                <equipment slot="Item0" id="Item.sho_katana_training"/>
+                <equipment slot="Body" id="Item.sho_peasant_outfit_i"/>
+                <equipment slot="Leg" id="Item.sho_waraji_a"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_staff_training"/>
-                <Equipment slot="Body" id="Item.sho_peasant_outfit_j"/>
-                <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+                <equipment slot="Item0" id="Item.sho_staff_training"/>
+                <equipment slot="Body" id="Item.sho_peasant_outfit_j"/>
+                <equipment slot="Leg" id="Item.sho_waraji_a"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training"/>
-                <Equipment slot="Body" id="Item.sho_peasant_outfit_j"/>
-                <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+                <equipment slot="Item0" id="Item.sho_katana_training"/>
+                <equipment slot="Body" id="Item.sho_peasant_outfit_j"/>
+                <equipment slot="Leg" id="Item.sho_waraji_a"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_staff_training"/>
-                <Equipment slot="Body" id="Item.sho_peasant_outfit_h"/>
-                <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+                <equipment slot="Item0" id="Item.sho_staff_training"/>
+                <equipment slot="Body" id="Item.sho_peasant_outfit_h"/>
+                <equipment slot="Leg" id="Item.sho_waraji_a"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training"/>
-                <Equipment slot="Body" id="Item.sho_peasant_outfit_h"/>
-                <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+                <equipment slot="Item0" id="Item.sho_katana_training"/>
+                <equipment slot="Body" id="Item.sho_peasant_outfit_h"/>
+                <equipment slot="Leg" id="Item.sho_waraji_a"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training"/>
-                <Equipment slot="Body" id="Item.sho_peasant_outfit_f"/>
-                <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+                <equipment slot="Item0" id="Item.sho_katana_training"/>
+                <equipment slot="Body" id="Item.sho_peasant_outfit_f"/>
+                <equipment slot="Leg" id="Item.sho_waraji_a"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_staff_training"/>
-                <Equipment slot="Body" id="Item.sho_peasant_outfit_f"/>
-                <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+                <equipment slot="Item0" id="Item.sho_staff_training"/>
+                <equipment slot="Body" id="Item.sho_peasant_outfit_f"/>
+                <equipment slot="Leg" id="Item.sho_waraji_a"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_staff_training"/>
-                <Equipment slot="Body" id="Item.sho_peasant_outfit_a"/>
-                <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+                <equipment slot="Item0" id="Item.sho_staff_training"/>
+                <equipment slot="Body" id="Item.sho_peasant_outfit_a"/>
+                <equipment slot="Leg" id="Item.sho_waraji_a"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training"/>
-                <Equipment slot="Body" id="Item.sho_peasant_outfit_a"/>
-                <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+                <equipment slot="Item0" id="Item.sho_katana_training"/>
+                <equipment slot="Body" id="Item.sho_peasant_outfit_a"/>
+                <equipment slot="Leg" id="Item.sho_waraji_a"/>
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
@@ -1544,44 +1534,44 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_staff_training"/>
-                <Equipment slot="Body" id="Item.sho_kosodehakama_8"/>
-                <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+                <equipment slot="Item0" id="Item.sho_staff_training"/>
+                <equipment slot="Body" id="Item.sho_kosodehakama_8"/>
+                <equipment slot="Leg" id="Item.sho_waraji_a"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training"/>
-                <Equipment slot="Body" id="Item.sho_kosodehakama_8"/>
-                <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+                <equipment slot="Item0" id="Item.sho_katana_training"/>
+                <equipment slot="Body" id="Item.sho_kosodehakama_8"/>
+                <equipment slot="Leg" id="Item.sho_waraji_a"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training"/>
-                <Equipment slot="Body" id="Item.sho_kosodehakama_6"/>
-                <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+                <equipment slot="Item0" id="Item.sho_katana_training"/>
+                <equipment slot="Body" id="Item.sho_kosodehakama_6"/>
+                <equipment slot="Leg" id="Item.sho_waraji_a"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_staff_training"/>
-                <Equipment slot="Body" id="Item.sho_kosodehakama_6"/>
-                <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+                <equipment slot="Item0" id="Item.sho_staff_training"/>
+                <equipment slot="Body" id="Item.sho_kosodehakama_6"/>
+                <equipment slot="Leg" id="Item.sho_waraji_a"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_staff_training"/>
-                <Equipment slot="Body" id="Item.sho_kosodehakama_5"/>
-                <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+                <equipment slot="Item0" id="Item.sho_staff_training"/>
+                <equipment slot="Body" id="Item.sho_kosodehakama_5"/>
+                <equipment slot="Leg" id="Item.sho_waraji_a"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training"/>
-                <Equipment slot="Body" id="Item.sho_kosodehakama_5"/>
-                <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+                <equipment slot="Item0" id="Item.sho_katana_training"/>
+                <equipment slot="Body" id="Item.sho_kosodehakama_5"/>
+                <equipment slot="Leg" id="Item.sho_waraji_a"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_staff_training"/>
-                <Equipment slot="Body" id="Item.sho_kosodehakama_7"/>
-                <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+                <equipment slot="Item0" id="Item.sho_staff_training"/>
+                <equipment slot="Body" id="Item.sho_kosodehakama_7"/>
+                <equipment slot="Leg" id="Item.sho_waraji_a"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training"/>
-                <Equipment slot="Body" id="Item.sho_kosodehakama_7"/>
-                <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+                <equipment slot="Item0" id="Item.sho_katana_training"/>
+                <equipment slot="Body" id="Item.sho_kosodehakama_7"/>
+                <equipment slot="Leg" id="Item.sho_waraji_a"/>
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
@@ -1602,34 +1592,34 @@
         </skills>
         <Equipments>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training"/>
-                <Equipment slot="Body" id="Item.sho_samurai_gear_c"/>
-                <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+                <equipment slot="Item0" id="Item.sho_katana_training"/>
+                <equipment slot="Body" id="Item.sho_samurai_gear_c"/>
+                <equipment slot="Leg" id="Item.sho_waraji_a"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_staff_training"/>
-                <Equipment slot="Body" id="Item.sho_samurai_gear_c"/>
-                <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+                <equipment slot="Item0" id="Item.sho_staff_training"/>
+                <equipment slot="Body" id="Item.sho_samurai_gear_c"/>
+                <equipment slot="Leg" id="Item.sho_waraji_a"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_staff_training"/>
-                <Equipment slot="Body" id="Item.sho_samurai_gear_b"/>
-                <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+                <equipment slot="Item0" id="Item.sho_staff_training"/>
+                <equipment slot="Body" id="Item.sho_samurai_gear_b"/>
+                <equipment slot="Leg" id="Item.sho_waraji_a"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training"/>
-                <Equipment slot="Body" id="Item.sho_samurai_gear_b"/>
-                <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+                <equipment slot="Item0" id="Item.sho_katana_training"/>
+                <equipment slot="Body" id="Item.sho_samurai_gear_b"/>
+                <equipment slot="Leg" id="Item.sho_waraji_a"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_katana_training"/>
-                <Equipment slot="Body" id="Item.sho_samurai_gear_a"/>
-                <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+                <equipment slot="Item0" id="Item.sho_katana_training"/>
+                <equipment slot="Body" id="Item.sho_samurai_gear_a"/>
+                <equipment slot="Leg" id="Item.sho_waraji_a"/>
             </EquipmentRoster>
             <EquipmentRoster>
-                <Equipment slot="Item0" id="Item.sho_staff_training"/>
-                <Equipment slot="Body" id="Item.sho_samurai_gear_a"/>
-                <Equipment slot="Leg" id="Item.sho_waraji_a"/>
+                <equipment slot="Item0" id="Item.sho_staff_training"/>
+                <equipment slot="Body" id="Item.sho_samurai_gear_a"/>
+                <equipment slot="Leg" id="Item.sho_waraji_a"/>
             </EquipmentRoster>
         </Equipments>
     </NPCCharacter>
@@ -2407,12 +2397,9 @@
         <upgrade_targets/>
         <Equipments>
 				<EquipmentRoster>
-					<Equipment slot="Head"
-							   id="Item.sho_noh_mask_a" />
-					<Equipment slot="Body"
-							   id="Item.sho_kosodehakama_7" />
-					<Equipment slot="Leg"
-							   id="Item.sho_low_tier_suneate_a_4" />
+					<equipment slot="Head" id="Item.sho_noh_mask_a"/>
+					<equipment slot="Body" id="Item.sho_kosodehakama_7"/>
+					<equipment slot="Leg" id="Item.sho_low_tier_suneate_a_4"/>
 				</EquipmentRoster>
         </Equipments>
     </NPCCharacter>

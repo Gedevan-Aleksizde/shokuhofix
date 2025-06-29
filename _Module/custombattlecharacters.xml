@@ -38,19 +38,19 @@
 		</Traits>
 		<Equipments>
 			<EquipmentRoster>
-				<Equipment slot="Item0"
+				<equipment slot="Item0"
 						   id="Item.sho_yari_21" />
-				<Equipment slot="Item1"
+				<equipment slot="Item1"
 						   id="Item.sho_katana_22" />
-				<Equipment slot="Head"
+				<equipment slot="Head"
 						   id="Item.sho_hineno_zunari_4_a" />
-				<Equipment slot="Body"
+				<equipment slot="Body"
 						   id="Item.sho_okegawa_do_a_2_kimono_a" />
-				<Equipment slot="Leg"
+				<equipment slot="Leg"
 						   id="Item.sho_tsutsu_suneate_b_3" />
-				<Equipment slot="Gloves"
+				<equipment slot="Gloves"
 						   id="Item.sho_tier_6_kote_a_8" />
-				<Equipment slot="Cape"
+				<equipment slot="Cape"
 						   id="Item.sho_minko_cape" />
 			</EquipmentRoster>
 		</Equipments>
@@ -70,7 +70,7 @@
 		</face>
 		<Traits>
 			<Trait id="HuscarlFightingSkills"
-				   value="7" />
+				   value="20" />
 			<Trait id="Commander"
 				   value="7" />
 			<Trait id="Politician"
@@ -90,19 +90,19 @@
 		</Traits>
 		<Equipments>
 			<EquipmentRoster>
-				<Equipment slot="Item0"
+				<equipment slot="Item0"
 						   id="Item.sho_yari_10" />
-				<Equipment slot="Item1"
+				<equipment slot="Item1"
 						   id="Item.sho_wakizashi_27" />
-				<Equipment slot="Head"
+				<equipment slot="Head"
 						   id="Item.sho_momonari_kabuto_a" />
-				<Equipment slot="Body"
+				<equipment slot="Body"
 						   id="Item.sho_dangae_do_b" />
-				<Equipment slot="Leg"
+				<equipment slot="Leg"
 						   id="Item.sho_shino_suneate_a_3" />
-				<Equipment slot="Gloves"
+				<equipment slot="Gloves"
 						   id="Item.sho_tier_7_kote_a_8" />
-				<Equipment slot="Cape"
+				<equipment slot="Cape"
 						   id="Item.sho_mogami_sode_b" />
 			</EquipmentRoster>
 		</Equipments>
@@ -142,17 +142,17 @@
 		</Traits>
 		<Equipments>
 			<EquipmentRoster>
-				<Equipment slot="Item0"
+				<equipment slot="Item0"
 						   id="Item.sho_yari_31" />
-				<Equipment slot="Head"
+				<equipment slot="Head"
 						   id="Item.sho_akoka_nari_c" />
-				<Equipment slot="Body"
+				<equipment slot="Body"
 						   id="Item.sho_new_kozane_h" />
-				<Equipment slot="Leg"
+				<equipment slot="Leg"
 						   id="Item.sho_tsutsu_suneate_b_7" />
-				<Equipment slot="Gloves"
+				<equipment slot="Gloves"
 						   id="Item.sho_tier_7_kote_a_5" />
-				<Equipment slot="Cape"
+				<equipment slot="Cape"
 						   id="Item.sho_new_osode_pattern_4" />
 			</EquipmentRoster>
 		</Equipments>
@@ -191,15 +191,15 @@
 		</Traits>
 		<Equipments>
 			<EquipmentRoster>
-				<Equipment slot="Item0"
+				<equipment slot="Item0"
 						   id="Item.sho_euro_sword_2" />
-				<Equipment slot="Item1"
+				<equipment slot="Item1"
 						   id="Item.sho_pistol_teppo_g" />
-				<Equipment slot="Item2"
+				<equipment slot="Item2"
 						   id="Item.teppo_ammo" />
-				<Equipment slot="Body"
+				<equipment slot="Body"
 						   id="Item.sho_spanish_armor_gold_a" />
-				<Equipment slot="Leg"
+				<equipment slot="Leg"
 						   id="Item.sho_riding_boots_black" />
 			</EquipmentRoster>
 		</Equipments>
@@ -455,17 +455,17 @@
 		</Traits>
 		<Equipments>
 			<EquipmentRoster>
-				<Equipment slot="Item1"
+				<equipment slot="Item1"
 						   id="Item.kanasaibo_a"/>
-				<Equipment slot="Item2"
+				<equipment slot="Item2"
 						   id="Item.sho_tachi_bear"/>
-				<Equipment slot="Head"
+				<equipment slot="Head"
 						   id="Item.sho_noh_mask_c" />
-				<Equipment slot="Body"
+				<equipment slot="Body"
 						   id="Item.sho_yukinoshita_rework_b" />
-				<Equipment slot="Leg"
+				<equipment slot="Leg"
 						   id="Item.sho_shino_suneate_a_2" />
-				<Equipment slot="Gloves"
+				<equipment slot="Gloves"
 						   id="Item.sho_tier_5_kote_a_7" />
 			</EquipmentRoster>
 		</Equipments>
@@ -505,21 +505,21 @@
 		</Traits>
 		<Equipments>
 			<EquipmentRoster>
-				<Equipment slot="Item0"
+				<equipment slot="Item0"
 						   id="Item.sho_tanegashima_musket_3" />
-				<Equipment slot="Item1"
+				<equipment slot="Item1"
 						   id="Item.sho_katana_14" />
-				<Equipment slot="Item2"
+				<equipment slot="Item2"
 						   id="Item.teppo_ammo" />
-				<Equipment slot="Head"
+				<equipment slot="Head"
 						   id="Item.sho_monk_headwrap_a_1" />
-				<Equipment slot="Body"
+				<equipment slot="Body"
 						   id="Item.sho_ashi_2_mogami_l" />
-				<Equipment slot="Leg"
+				<equipment slot="Leg"
 						   id="Item.sho_low_tier_suneate_a_13" />
-				<Equipment slot="Gloves"
+				<equipment slot="Gloves"
 						   id="Item.sho_tier_3_kote_a_4" />
-				<Equipment slot="Cape"
+				<equipment slot="Cape"
 						   id="Item.sho_tosei_sode_1" />
 			</EquipmentRoster>
 		</Equipments>

@@ -160,10 +160,10 @@
 		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
-				<Equipment slot="Item0" id="Item.sho_kama_8"/>
-				<Equipment slot="Head" id="Item.sho_sugegasa_hat"/>
-				<Equipment slot="Body" id="Item.sho_ashi_go_mai_j"/>
-				<Equipment slot="Leg" id="Item.sho_low_tier_suneate_a_6"/>
+				<equipment slot="Item0" id="Item.sho_kama_8"/>
+				<equipment slot="Head" id="Item.sho_sugegasa_hat"/>
+				<equipment slot="Body" id="Item.sho_ashi_go_mai_j"/>
+				<equipment slot="Leg" id="Item.sho_low_tier_suneate_a_6"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sho_katana_3"/>
@@ -172,15 +172,15 @@
 				<equipment slot="Leg" id="Item.sho_low_tier_suneate_a_4"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
-				<Equipment slot="Item0" id="Item.sho_yari_6"/>
-				<Equipment slot="Head" id="Item.sho_sugegasa_hat"/>
-				<Equipment slot="Body" id="Item.sho_ashi_go_mai_i"/>
-				<Equipment slot="Leg" id="Item.sho_low_tier_suneate_a_4"/>
+				<equipment slot="Item0" id="Item.sho_yari_6"/>
+				<equipment slot="Head" id="Item.sho_sugegasa_hat"/>
+				<equipment slot="Body" id="Item.sho_ashi_go_mai_i"/>
+				<equipment slot="Leg" id="Item.sho_low_tier_suneate_a_4"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
-				<Equipment slot="Item0" id="Item.sho_katana_2"/>
-				<Equipment slot="Body" id="Item.sho_ashi_go_mai_j"/>
-				<Equipment slot="Leg" id="Item.sho_low_tier_suneate_a_8"/>
+				<equipment slot="Item0" id="Item.sho_katana_2"/>
+				<equipment slot="Body" id="Item.sho_ashi_go_mai_j"/>
+				<equipment slot="Leg" id="Item.sho_low_tier_suneate_a_8"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sho_kama_5"/>
@@ -188,9 +188,9 @@
 				<equipment slot="Leg" id="Item.sho_low_tier_suneate_a_6"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
-				<Equipment slot="Item0" id="Item.sho_yari_3"/>
-				<Equipment slot="Body" id="Item.sho_ashi_go_mai_i"/>
-				<Equipment slot="Leg" id="Item.sho_low_tier_suneate_a_4"/>
+				<equipment slot="Item0" id="Item.sho_yari_3"/>
+				<equipment slot="Body" id="Item.sho_ashi_go_mai_i"/>
+				<equipment slot="Leg" id="Item.sho_low_tier_suneate_a_4"/>
 			</EquipmentRoster>
 			<EquipmentSet id="townsman_default_saikai_thug" civilian="true"/>
 		</Equipments>
@@ -259,7 +259,7 @@
 	<!--ashigaru-->
 	<NPCCharacter id="ashigaru_bat_template_medium_male" default_group="Infantry" is_hero="false" level="16" name="{=Vsguc1Lx}ashigaru_lord_male_medium" culture="Culture.ashigaru" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -268,7 +268,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="ashigaru_bat_template_medium_female" default_group="Infantry" is_hero="false" level="16" name="{=sdOtGck6}ashigaru_lord_female_medium" culture="Culture.ashigaru" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -278,7 +278,7 @@
 	<!--buddhists-->
 	<NPCCharacter id="buddhists_bat_template_medium_male" default_group="Infantry" is_hero="false" level="16" name="{=GbDv1icE}buddhists_lord_male_medium" culture="Culture.buddhists" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -287,7 +287,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="buddhists_bat_template_medium_female" default_group="Infantry" is_hero="false" level="16" name="{=m4K0OYw7}buddhists_lord_female_medium" culture="Culture.buddhists" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -297,7 +297,7 @@
 	<!--Saikai-->
 	<NPCCharacter id="saikai_bat_template_medium_male" default_group="Infantry" is_hero="false" level="16" name="{=MaSkmJNV}Saikai_lord_male_medium" culture="Culture.saikai" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -306,7 +306,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="saikai_bat_template_medium_female" default_group="Infantry" is_hero="false" level="16" name="{=vBwIgcny}Saikai_lord_female_medium" culture="Culture.saikai" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -316,7 +316,7 @@
 	<!--Nankai-->
 	<NPCCharacter id="nankai_bat_template_medium_male" default_group="Infantry" is_hero="false" level="16" name="{=99zwO24i}Nankai_lord_male_medium" culture="Culture.nankai" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -325,7 +325,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="nankai_bat_template_medium_female" default_group="Infantry" is_hero="false" level="16" name="{=lBkE3R6F}Nankai_lord_female_medium" culture="Culture.nankai" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -335,7 +335,7 @@
 	<!--Sanyo-->
 	<NPCCharacter id="sanyo_bat_template_medium_male" default_group="Infantry" is_hero="false" level="16" name="{=t7PimHDx}sanyo_lord_male_medium" culture="Culture.sanyo" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -344,7 +344,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="sanyo_bat_template_medium_female" default_group="Infantry" is_hero="false" level="16" name="{=zQSTAUW8}sanyo_lord_female_medium" culture="Culture.sanyo" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -354,7 +354,7 @@
 	<!--Kinai-->
 	<NPCCharacter id="kinai_bat_template_medium_male" default_group="Infantry" is_hero="false" level="16" name="{=zza15b86}kinai_lord_male_medium" culture="Culture.kinai" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -363,7 +363,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="kinai_bat_template_medium_female" default_group="Infantry" is_hero="false" level="16" name="{=3gpYElrn}kinai_lord_female_medium" culture="Culture.kinai" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -373,7 +373,7 @@
 	<!--hokuriku-->
 	<NPCCharacter id="hokuriku_bat_template_medium_male" default_group="Infantry" is_hero="false" level="16" name="{=2Ps9NMLR}hokuriku_lord_male_medium" culture="Culture.hokuriku" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -382,7 +382,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="hokuriku_bat_template_medium_female" default_group="Infantry" is_hero="false" level="16" name="{=skxW79Zp}hokuriku_lord_female_medium" culture="Culture.hokuriku" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -392,7 +392,7 @@
 	<!--tosan-->
 	<NPCCharacter id="tosan_bat_template_medium_male" default_group="Infantry" is_hero="false" level="16" name="{=GP4yEOC5}tosan_lord_male_medium" culture="Culture.tosan" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -401,7 +401,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="tosan_bat_template_medium_female" default_group="Infantry" is_hero="false" level="16" name="{=bqfXC4cC}tosan_lord_female_medium" culture="Culture.tosan" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -411,7 +411,7 @@
 	<!--tokai-->
 	<NPCCharacter id="tokai_bat_template_medium_male" default_group="Infantry" is_hero="false" level="16" name="{=SzvgTuSx}tokai_lord_male_medium" culture="Culture.tokai" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -420,7 +420,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="tokai_bat_template_medium_female" default_group="Infantry" is_hero="false" level="16" name="{=lr3mT0r7}tokai_lord_female_medium" culture="Culture.tokai" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -430,7 +430,7 @@
 	<!--kanto-->
 	<NPCCharacter id="kanto_bat_template_medium_male" default_group="Infantry" is_hero="false" level="16" name="{=azP1adC6}kanto_lord_male_medium" culture="Culture.kanto" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -439,7 +439,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="kanto_bat_template_medium_female" default_group="Infantry" is_hero="false" level="16" name="{=b1AEBITk}kanto_lord_female_medium" culture="Culture.kanto" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -449,7 +449,7 @@
 	<!--ou-->
 	<NPCCharacter id="ou_bat_template_medium_male" default_group="Infantry" is_hero="false" level="16" name="{=JXEKBgra}ou_lord_male_medium" culture="Culture.ou" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -458,7 +458,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="ou_bat_template_medium_female" default_group="Infantry" is_hero="false" level="16" name="{=mdtmu3O5}ou_lord_female_medium" culture="Culture.ou" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -469,7 +469,7 @@
 	<!--ashigaru-->
 	<NPCCharacter id="ashigaru_civ_template_default_male" default_group="Infantry" is_hero="false" level="16" name="{=EaGHKTSd}ashigaru_lord_male_noncom" culture="Culture.ashigaru" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -478,7 +478,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="ashigaru_civ_template_default_female" default_group="Infantry" is_hero="false" level="16" name="{=aoYJE4uC}ashigaru_lord_female_noncom" culture="Culture.ashigaru" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -488,7 +488,7 @@
 	<!--buddhists-->
 	<NPCCharacter id="buddhists_civ_template_default_male" default_group="Infantry" is_hero="false" level="16" name="{=IIsgOIvi}buddhists_lord_male_noncom" culture="Culture.buddhists" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -497,7 +497,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="buddhists_civ_template_default_female" default_group="Infantry" is_hero="false" level="16" name="{=YYeT0OEU}buddhists_lord_female_noncom" culture="Culture.buddhists" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -507,7 +507,7 @@
 	<!--Saikai-->
 	<NPCCharacter id="saikai_civ_template_default_male" default_group="Infantry" is_hero="false" level="16" name="{=RHCjoJlb}saikai_lord_male_noncom" culture="Culture.saikai" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -516,7 +516,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="saikai_civ_template_default_female" default_group="Infantry" is_hero="false" level="16" name="{=0NFqOCWr}saikai_lord_female_noncom" culture="Culture.saikai" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -526,7 +526,7 @@
 	<!--Nankai-->
 	<NPCCharacter id="nankai_civ_template_default_male" default_group="Infantry" is_hero="false" level="16" name="{=S6PYiprG}nankai_lord_male_noncom" culture="Culture.nankai" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -535,7 +535,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="nankai_civ_template_default_female" default_group="Infantry" is_hero="false" level="16" name="{=XFulZeG8}nankai_lord_female_noncom" culture="Culture.nankai" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -545,7 +545,7 @@
 	<!--Sanyo-->
 	<NPCCharacter id="sanyo_civ_template_default_male" default_group="Infantry" is_hero="false" level="16" name="{=7atyprrF}sanyo_lord_male_noncom" culture="Culture.sanyo" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -554,7 +554,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="sanyo_civ_template_default_female" default_group="Infantry" is_hero="false" level="16" name="{=ijotfwAA}sanyo_lord_female_noncom" culture="Culture.sanyo" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -564,7 +564,7 @@
 	<!--kinai-->
 	<NPCCharacter id="kinai_civ_template_default_male" default_group="Infantry" is_hero="false" level="16" name="{=CD3aAB20}kinai_lord_male_noncom" culture="Culture.kinai" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -573,7 +573,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="kinai_civ_template_default_female" default_group="Infantry" is_hero="false" level="16" name="{=awoVTLmW}kinai_lord_female_noncom" culture="Culture.kinai" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -583,7 +583,7 @@
 	<!--hokuriku-->
 	<NPCCharacter id="hokuriku_civ_template_default_male" default_group="Infantry" is_hero="false" level="16" name="{=mkwYVnXA}hokuriku_lord_male_noncom" culture="Culture.hokuriku" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -592,7 +592,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="hokuriku_civ_template_default_female" default_group="Infantry" is_hero="false" level="16" name="{=qQQg3q6F}hokuriku_lord_female_noncom" culture="Culture.hokuriku" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -602,7 +602,7 @@
 	<!--tosan-->
 	<NPCCharacter id="tosan_civ_template_default_male" default_group="Infantry" is_hero="false" level="16" name="{=LXrdrTMd}tosan_lord_male_noncom" culture="Culture.tosan" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -611,7 +611,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="tosan_civ_template_default_female" default_group="Infantry" is_hero="false" level="16" name="{=FwhVU70r}tosan_lord_female_noncom" culture="Culture.tosan" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -621,7 +621,7 @@
 	<!--tokai-->
 	<NPCCharacter id="tokai_civ_template_default_male" default_group="Infantry" is_hero="false" level="16" name="{=60OOy5ia}tokai_lord_male_noncom" culture="Culture.tokai" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -630,7 +630,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="tokai_civ_template_default_female" default_group="Infantry" is_hero="false" level="16" name="{=5wK2kbIW}tokai_lord_female_noncom" culture="Culture.tokai" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -640,7 +640,7 @@
 	<!--kanto-->
 	<NPCCharacter id="kanto_civ_template_default_male" default_group="Infantry" is_hero="false" level="16" name="{=UuJU4i5k}kanto_lord_male_noncom" culture="Culture.kanto" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -649,7 +649,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="kanto_civ_template_default_female" default_group="Infantry" is_hero="false" level="16" name="{=4lttvj0j}kanto_lord_female_noncom" culture="Culture.kanto" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -659,7 +659,7 @@
 	<!--ou-->
 	<NPCCharacter id="ou_civ_template_default_male" default_group="Infantry" is_hero="false" level="16" name="{=J8sGPqm1}ou_lord_male_noncom" culture="Culture.ou" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -668,7 +668,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="ou_civ_template_default_female" default_group="Infantry" is_hero="false" level="16" name="{=6S0rpE6T}ou_lord_female_noncom" culture="Culture.ou" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Traits/>
 		<Equipments>
@@ -1050,7 +1050,7 @@
 	<!--Saikai-->
 	<NPCCharacter id="npc_wanderer_equipment_template_saikai" default_group="Infantry" is_hero="false" level="16" name="{=iuUFimFm}wanderer_equipment" culture="Culture.saikai" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Equipments>
 			<EquipmentSet id="npc_wanderer_equipment_template_saikai"/>
@@ -1058,7 +1058,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="npc_armed_wanderer_equipment_template_saikai" default_group="Infantry" is_hero="false" level="16" name="{=iuUFimFm}wanderer_equipment" culture="Culture.saikai" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Equipments>
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_saikai"/>
@@ -1066,7 +1066,7 @@
 	</NPCCharacter>
 		<NPCCharacter id="npc_armed_wanderer_equipment_template_nanban_saikai" default_group="Infantry" is_hero="false" level="16" name="{=iuUFimFm}wanderer_equipment" culture="Culture.saikai" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Equipments>
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_nanban_saikai"/>
@@ -1075,7 +1075,7 @@
 	<!--Nankai-->
 	<NPCCharacter id="npc_wanderer_equipment_template_nankai" default_group="Infantry" is_hero="false" level="16" name="{=iuUFimFm}wanderer_equipment" culture="Culture.nankai" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Equipments>
 			<EquipmentSet id="npc_wanderer_equipment_template_nankai"/>
@@ -1083,7 +1083,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="npc_armed_wanderer_equipment_template_nankai" default_group="Infantry" is_hero="false" level="16" name="{=iuUFimFm}wanderer_equipment" culture="Culture.nankai" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Equipments>
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_nankai"/>
@@ -1092,7 +1092,7 @@
 	<!--Sanyo-->
 	<NPCCharacter id="npc_wanderer_equipment_template_sanyo" default_group="Infantry" is_hero="false" level="16" name="{=iuUFimFm}wanderer_equipment" culture="Culture.sanyo" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Equipments>
 			<EquipmentSet id="npc_wanderer_equipment_template_sanyo"/>
@@ -1100,7 +1100,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="npc_armed_wanderer_equipment_template_sanyo" default_group="Infantry" is_hero="false" level="16" name="{=iuUFimFm}wanderer_equipment" culture="Culture.sanyo" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Equipments>
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_sanyo"/>
@@ -1109,7 +1109,7 @@
 	<!--kinai-->
 	<NPCCharacter id="npc_wanderer_equipment_template_kinai" default_group="Infantry" is_hero="false" level="16" name="{=iuUFimFm}wanderer_equipment" culture="Culture.kinai" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Equipments>
 			<EquipmentSet id="npc_wanderer_equipment_template_kinai"/>
@@ -1117,7 +1117,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="npc_armed_wanderer_equipment_template_kinai" default_group="Infantry" is_hero="false" level="16" name="{=iuUFimFm}wanderer_equipment" culture="Culture.kinai" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Equipments>
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_kinai"/>
@@ -1126,7 +1126,7 @@
 	<!--hokuriku-->
 	<NPCCharacter id="npc_wanderer_equipment_template_hokuriku" default_group="Infantry" is_hero="false" level="16" name="{=iuUFimFm}wanderer_equipment" culture="Culture.hokuriku" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Equipments>
 			<EquipmentSet id="npc_wanderer_equipment_template_hokuriku"/>
@@ -1134,7 +1134,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="npc_armed_wanderer_equipment_template_hokuriku" default_group="Infantry" is_hero="false" level="16" name="{=iuUFimFm}wanderer_equipment" culture="Culture.hokuriku" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Equipments>
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_hokuriku"/>
@@ -1143,7 +1143,7 @@
 	<!--tosan-->
 	<NPCCharacter id="npc_wanderer_equipment_template_tosan" default_group="Infantry" is_hero="false" level="16" name="{=iuUFimFm}wanderer_equipment" culture="Culture.tosan" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Equipments>
 			<EquipmentSet id="npc_wanderer_equipment_template_tosan"/>
@@ -1151,7 +1151,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="npc_armed_wanderer_equipment_template_tosan" default_group="Infantry" is_hero="false" level="16" name="{=iuUFimFm}wanderer_equipment" culture="Culture.tosan" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Equipments>
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_tosan"/>
@@ -1160,7 +1160,7 @@
 	<!--tokai-->
 	<NPCCharacter id="npc_wanderer_equipment_template_tokai" default_group="Infantry" is_hero="false" level="16" name="{=iuUFimFm}wanderer_equipment" culture="Culture.tokai" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Equipments>
 			<EquipmentSet id="npc_wanderer_equipment_template_tokai"/>
@@ -1168,7 +1168,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="npc_armed_wanderer_equipment_template_tokai" default_group="Infantry" is_hero="false" level="16" name="{=iuUFimFm}wanderer_equipment" culture="Culture.tokai" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Equipments>
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_tokai"/>
@@ -1177,7 +1177,7 @@
 	<!--kanto-->
 	<NPCCharacter id="npc_wanderer_equipment_template_kanto" default_group="Infantry" is_hero="false" level="16" name="{=iuUFimFm}wanderer_equipment" culture="Culture.kanto" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Equipments>
 			<EquipmentSet id="npc_wanderer_equipment_template_kanto"/>
@@ -1185,7 +1185,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="npc_armed_wanderer_equipment_template_kanto" default_group="Infantry" is_hero="false" level="16" name="{=iuUFimFm}wanderer_equipment" culture="Culture.kanto" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Equipments>
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_kanto"/>
@@ -1194,7 +1194,7 @@
 	<!--ou-->
 	<NPCCharacter id="npc_wanderer_equipment_template_ou" default_group="Infantry" is_hero="false" level="16" name="{=iuUFimFm}wanderer_equipment" culture="Culture.ou" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Equipments>
 			<EquipmentSet id="npc_wanderer_equipment_template_ou"/>
@@ -1202,7 +1202,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="npc_armed_wanderer_equipment_template_ou" default_group="Infantry" is_hero="false" level="16" name="{=iuUFimFm}wanderer_equipment" culture="Culture.ou" skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills" is_template="true">
 		<face>
-			<face_key_template value="BodyProperty.villager_saikai"/>
+			<face_key_template value="BodyProperty.fighter_m_saikai"/>
 		</face>
 		<Equipments>
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_ou"/>
