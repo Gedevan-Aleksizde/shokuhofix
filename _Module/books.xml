@@ -101,7 +101,7 @@
         <Benefit skill="Skill.Crossbow" exp="40000" finalExp="5000" addFocus="true"/>
     </Book>
     <!--Teppō meate no daiji-->
-    <Book id="book_22" item="Item.book_22" length="142" rarity="unique" desc="{=3zsuNC4G}A set of scrolls describing the art of gunnery of the Kishiwada-ryū school of gunnery, written by Yoshida Morisada. The book details proper firing techniques and gunpowder recipes. The scroll also includes many descriptions from a spiritual perspective, linking guns with esoteric Buddhism and the role of guns in expelling evil demons" addFreeFocus="true">
+    <Book id="book_22" item="Item.book_22" length="142" rarity="unique" desc="{=3zsuNC4G}A set of scrolls describing the art of gunnery of the Kishiwada-ryū school of gunnery, written by Yoshida Morisada. The book details proper firing techniques and gunpowder recipes. The scroll also includes many descriptions from a spiritual perspective, linking guns with esoteric Buddhism and the role of guns in expelling evil demons." addFreeFocus="true">
         <Benefit skill="Skill.Crossbow" exp="42000" finalExp="5000" addFocus="true"/>
     </Book>
     <!--Hyakukanshō							We might want to change the next 5 from athletics, they are buddhist texts-->
