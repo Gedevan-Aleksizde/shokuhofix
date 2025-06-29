@@ -48,7 +48,7 @@
 		id="salt_mine"
 		converted_to="VillageType.salt_mine"
 		on_condition="salt_mine_on_condition"
-		name="{=3aOIY6wl}Salt Mine"
+		name="{=3aOIY6wl}Salt Evaporation Pond"
 		needed_work_days="30"
 		is_center_building="false"
 		on_project_start="salt_mine_on_project_start"
