@@ -966,7 +966,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_CHUB1" name="{=VqVNevKA}Ichijodani" owner="Faction.clan_asakura_1" posX="956.362" posY="733.188" culture="Culture.hokuriku" gate_posX="957.9822" gate_posY="730.1963" text="{=0GYO9OBo}Ichijodani is a fortified town in western Hokuriku, surrounded on all sides by the natural defences of rivers and mountains, making it a difficult target for any besieger. Built by the Asakura clan, Ichijodani has grown into a centre of culture, craftsmanship and religion thanks to the hospitality afforded by the Asakura clan to refugees fleeing Kyoto during the Ōnin War, making it a jewel rivaling the Imperial Capital itself.">
+  <Settlement id="town_CHUB1" name="{=VqVNevKA}Ichijoudani" owner="Faction.clan_asakura_1" posX="956.362" posY="733.188" culture="Culture.hokuriku" gate_posX="957.9822" gate_posY="730.1963" text="{=0GYO9OBo}Ichijoudani is a fortified town in western Hokuriku, surrounded on all sides by the natural defences of rivers and mountains, making it a difficult target for any besieger. Built by the Asakura clan, Ichijoudani has grown into a centre of culture, craftsmanship and religion thanks to the hospitality afforded by the Asakura clan to refugees fleeing Kyoto during the Ōnin War, making it a jewel rivaling the Imperial Capital itself.">
     <Components>
       <Town id="town_comp_CHUB1" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="3200"/>
     </Components>
