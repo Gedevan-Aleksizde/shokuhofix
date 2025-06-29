@@ -101,15 +101,15 @@
     <string id="str_neutral_term_for_culture.tokai" text="{=qfHVWUlQ}Toukai"/>
     <string id="str_neutral_term_for_culture.kanto" text="{=K6sg7GNj}Kantou"/>
     <string id="str_neutral_term_for_culture.ou" text="{=MigIA2T0}Ouu"/>
-    <string id="str_adjective_for_culture.saikai" text="{=3Wf8Wiuc}Saikai"/>
-    <string id="str_adjective_for_culture.nankai" text="{=mJR7iyKD}Nankai"/>
-    <string id="str_adjective_for_culture.sanyo" text="{=LiAaSgTz}San'you"/>
-    <string id="str_adjective_for_culture.kinai" text="{=zLq9CzcD}Kinai"/>
-    <string id="str_adjective_for_culture.hokuriku" text="{=un53UjDH}Hokuriku"/>
-    <string id="str_adjective_for_culture.tosan" text="{=uiTYolCZ}Tousan"/>
-    <string id="str_adjective_for_culture.tokai" text="{=qfHVWUlQ}Toukai"/>
-    <string id="str_adjective_for_culture.kanto" text="{=K6sg7GNj}Kantou"/>
-    <string id="str_adjective_for_culture.ou" text="{=MigIA2T0}Ouu"/>
+    <string id="str_adjective_for_culture.saikai" text="Saikai"/>
+    <string id="str_adjective_for_culture.nankai" text="Nankai"/>
+    <string id="str_adjective_for_culture.sanyo" text="{San'you"/>
+    <string id="str_adjective_for_culture.kinai" text="{Kinai"/>
+    <string id="str_adjective_for_culture.hokuriku" text="Hokuriku"/>
+    <string id="str_adjective_for_culture.tosan" text="Tousan"/>
+    <string id="str_adjective_for_culture.tokai" text="Toukai"/>
+    <string id="str_adjective_for_culture.kanto" text="Kantou"/>
+    <string id="str_adjective_for_culture.ou" text="Ouu"/>
     <string id="str_faction_official.saikai" text="{=A8YrI6XH}a lord"/>
     <string id="str_faction_official.saikai_f" text="{=A8YrI6XH}a lord"/>
     <string id="str_faction_official.nankai" text="{=A8YrI6XH}a lord"/>
@@ -132,29 +132,29 @@
     <string id="str_faction_formal_name_for_culture.saikai" text="{=3Wf8Wiuc}Saikai"/>
     <string id="str_culture_rich_name.saikai" text="{=3Wf8Wiuc}Saikai"/>
     <string id="str_culture_description.nankai" text="{=Da97C2Ky}The Nankai people dwell on the mountainous islands of Awaji and Shikoku. Despite being skilled seafarers, the Nankai have developed a strong identity and deep attachment to their homeland which they cultivate with dedication and reverence yielding much more than the average harvest. On the other hand, Nankai have grown isolated and suspicious of the denizens of the other regions, leading them to focus more on the defense of their hometowns and their people."/>
-    <string id="str_faction_formal_name_for_culture.nankai" text="{=mJR7iyKD}Nankai"/>
-    <string id="str_culture_rich_name.nankai" text="{=mJR7iyKD}Nankai"/>
+    <string id="str_faction_formal_name_for_culture.nankai" text="Nankai"/>
+    <string id="str_culture_rich_name.nankai" text="Nankai"/>
     <string id="str_culture_description.sanyo" text="{=OOBz6uxY}The San'yo people are native to the westernmost region of Honshu, whose challenging and mountainous terrain has driven them towards the coast, making the San'yo expert sailors who navigate the seas of Japan with ease and great agility. Thanks to their renowned maritime prowess, the San'yo home region has turned into a major trade hub, with large port cities such as Onomichi flourishing and yielding large tax revenues."/>
-    <string id="str_faction_formal_name_for_culture.sanyo" text="{=LiAaSgTz}San'you"/>
-    <string id="str_culture_rich_name.sanyo" text="{=LiAaSgTz}San'you"/>
+    <string id="str_faction_formal_name_for_culture.sanyo" text="San'you"/>
+    <string id="str_culture_rich_name.sanyo" text="San'you"/>
     <string id="str_culture_description.kinai" text="{=2FMOGwys}The Kinki people reside in the central part of Honshu representing the cultural, economic, and political heart of Japan. The direct heirs of the potentates who once ruled over the entire country, the Kinki benefit from the power structures left behind by their forebears, making it easier for them to consolidate their control over the different regions of Japan. The poetic tradition that flourished around Kyoto contributes to a growing renown of victorious warlords who emulate the deeds of legendary heroes. Nevertheless, years of armed clashes and political scheming for power make it consistently difficult for the Kinki lords to put aside their differences and unite against a common enemy."/>
-    <string id="str_faction_formal_name_for_culture.kinai" text="{=zLq9CzcD}Kinai"/>
-    <string id="str_culture_rich_name.kinai" text="{=zLq9CzcD}Kinai"/>
+    <string id="str_faction_formal_name_for_culture.kinai" text="Kinai"/>
+    <string id="str_culture_rich_name.kinai" text="Kinai"/>
     <string id="str_culture_description.hokuriku" text="{=vNsphaDa}The Hokuriku people reside in the strategically vital mountain passes and fertile coastal plains of northern Honshu that have long been targeted by neighboring warlords to control their key position. Over time, the Hokuriku have developed exceptional skills in defending their territory, often bolstering their ranks with warrior monks thanks to their proximity to powerful Buddhist temples. However, the internal stability of the region is increasingly threatened by the rise of the Jōdo Shinshū Buddhist sect that is gaining popularity among the Hokuriku and the Ikko Ikki rebels, whose fervor and uprisings challenge the traditional power structures."/>
-    <string id="str_faction_formal_name_for_culture.hokuriku" text="{=un53UjDH}Hokuriku"/>
-    <string id="str_culture_rich_name.hokuriku" text="{=un53UjDH}Hokuriku"/>
+    <string id="str_faction_formal_name_for_culture.hokuriku" text="Hokuriku"/>
+    <string id="str_culture_rich_name.hokuriku" text="Hokuriku"/>
     <string id="str_culture_description.tosan" text="{=Sux6Gaed}The people of Tousan reside in a region characterized by rugged mountainous terrain, which almost completely cuts off the local communities from the rest of the country, who have long become self-sufficient in order to survive the harsh climate. The Tousan have mastered the adverse terrain they traverse with surprising ease to reach timber and mineral deposits, and have developed a subsistence economy around the villages in the fertile valleys that allows them to sustain minimal growth and some excellences such as the renowned horses of the Kiso Valley."/>
-    <string id="str_faction_formal_name_for_culture.tosan" text="{=uiTYolCZ}Tousan"/>
-    <string id="str_culture_rich_name.tosan" text="{=uiTYolCZ}Tousan"/>
+    <string id="str_faction_formal_name_for_culture.tosan" text="Tousan"/>
+    <string id="str_culture_rich_name.tosan" text="Tousan"/>
     <string id="str_culture_description.tokai" text="{=PJnJuW3o}The Toukai people hail from the fertile lowlands and coastlines of central-southern Honshu, which serves as the ideal boundary between west and east of the country. This has led the Toukai to develop a highly rural society based around sprawling village communities, while urban centers are limited to relatively small settlements unable to compete with the thriving towns of the rest of Japan. Despite the seemingly idyllic setting, such a strategic position makes the region a target for ambitious neighbours, and the Toukai have learnt the imperative of remaining united in arms in the face of external threats much longer than most normally would."/>
-    <string id="str_faction_formal_name_for_culture.tokai" text="{=qfHVWUlQ}Toukai"/>
-    <string id="str_culture_rich_name.tokai" text="{=qfHVWUlQ}Toukai"/>
+    <string id="str_faction_formal_name_for_culture.tokai" text="Toukai"/>
+    <string id="str_culture_rich_name.tokai" text="Toukai"/>
     <string id="str_culture_description.kanto" text="{=y6BfVZul}The people of Kantou, the spiritual homeland of the samurai class, live in a predominantly flat region that is perfect for extensive agriculture and the breeding of its renowned battle steeds, which yield abundant harvests and allow Kantou to field and maintain cavalry forces more easily. Imbued with the secular martial tradition in which they have their roots, the lords of Kantou can more easily raise large armies to face their enemies, but their great emphasis on military preparedness makes it more expensive to pay the wages of their soldiers."/>
-    <string id="str_faction_formal_name_for_culture.kanto" text="{=K6sg7GNj}Kantou"/>
-    <string id="str_culture_rich_name.kanto" text="{=K6sg7GNj}Kantou"/>
+    <string id="str_faction_formal_name_for_culture.kanto" text="Kantou"/>
+    <string id="str_culture_rich_name.kanto" text="Kantou"/>
     <string id="str_culture_description.ou" text="{=kc0qT7ks}The Ouu people, native to the harsh, snow-covered lands of northern Honshu, have adapted to their frosty environment with remarkable resilience. Skilled in traversing snowy terrain, the Ouu navigate blizzards and icy conditions with ease, moving swiftly where others would struggle, and are accustomed to strict rationing when foraging is not possible, allowing them to endure longer in the snowy wastelands. However, the relentless winters take their toll, and their remote and rugged villages struggle to grow as rapidly as those in more temperate regions, limiting their expansion and development."/>
-    <string id="str_faction_formal_name_for_culture.ou" text="{=MigIA2T0}Ouu"/>
-    <string id="str_culture_rich_name.ou" text="{=MigIA2T0}Ouu"/>
+    <string id="str_faction_formal_name_for_culture.ou" text="Ouu"/>
+    <string id="str_culture_rich_name.ou" text="Ouu"/>
     <string id="str_campaign_options_auto_save_value" text="{=irBV6UE4}{MINUTE} {?IS_PLURAL}minutes{?}minute{\?}"/>
     <string id="str_campaign_options_type.DifficultyPresets" text="{=4v3Lb6BU}Difficulty Presets"/>
     <string id="str_campaign_options_type.PlayerTroopsReceivedDamage" text="{=Oea9a5nY}Friendly Troops Received Damage"/>
