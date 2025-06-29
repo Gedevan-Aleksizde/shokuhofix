@@ -1667,7 +1667,7 @@
   </NPCCharacter>
   <!--onishi-->
   <!--parents-->
-  <NPCCharacter id="dead_lord_1_onishi_1" name="{=EPAOxYQz}Onishi Mototaka" age="60" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_onishi_1" name="{=EPAOxYQz}Ōnishi Mototaka" age="60" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="60.00" weight="0.5805" build="0.4466" key="001EF40EC0000541987489B97CB6645C51785B45A99A45B8C529B6A568899D780367963506AA927A00000000000000000000000000000000000000000ADC00C3"/>
     </face>
@@ -1685,7 +1685,7 @@
       <EquipmentSet id="nankai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="dead_lord_1_onishi_2" name="{=wx2ueWmc}Onishi Keizen-in" age="60" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_onishi_2" name="{=wx2ueWmc}Ōnishi Keizen-in" age="60" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="60.00" weight="0.0585" build="0.2614" key="0015F00D80000002DE8D690B78741C9557A181278714C8C9A4C1C9E683D6737A03141635015465C50000000000000000000000000000000000000000181400C0"/>
     </face>
@@ -1703,7 +1703,7 @@
     </Equipments>
   </NPCCharacter>
   <!--Leader-->
-  <NPCCharacter id="lord_1_onishi" name="{=RvDxK05Y}Onishi Yoritake" age="49" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_onishi" name="{=RvDxK05Y}Ōnishi Yoritake" age="49" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="49.00" weight="0.5945" build="0.8762" key="0036E80E40000641A77266593DB55679A3766A956BBB398CC53C66856899AB68077D96780797837B000000000000000000000000000000000000000052EC00C2"/>
     </face>
@@ -1721,7 +1721,7 @@
       <EquipmentSet id="nankai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_onishi_1" name="{=hM5I9P0H}Onishi Amaki" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_onishi_1" name="{=hM5I9P0H}Ōnishi Amaki" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="48.00" weight="0.142" build="0.6088" key="000BE80C000000011B8466C369F299A628A3812AD3A32DA6C51213DD805375BC03692635064603AE000000000000000000000000000000000000000010D41081"/>
     </face>
@@ -1739,7 +1739,7 @@
     </Equipments>
   </NPCCharacter>
   <!--children-->
-  <NPCCharacter id="lord_1_onishi_2" name="{=rWLTD0VP}Onishi Shigemoto" age="28" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_onishi_2" name="{=rWLTD0VP}Ōnishi Shigemoto" age="28" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="28.00" weight="0.6719" build="0.1301" key="0037C40E8000058186786947A6B5772A826759767CDB4699C328467538A9A8A80472A64607C7A27A00000000000000000000000000000000000000003AE400C0"/>
     </face>
@@ -1757,7 +1757,7 @@
       <EquipmentSet id="nankai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_onishi_3" name="{=1DquGOk6}Onishi Haruka" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_onishi_3" name="{=1DquGOk6}Ōnishi Haruka" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="28.00" weight="0.5085" build="0.3064" key="003AE00E8000000314823525AA3A352120D4842E59324C930128CFC88DC362ED07558678054546BD00000000000000000000000000000000000000000CB44041"/>
     </face>
@@ -1774,7 +1774,7 @@
       <EquipmentSet id="nankai_civ_template_default_female" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_onishi_4" name="{=IAlJOXYB}Onishi Yoriharu" age="28" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_onishi_4" name="{=IAlJOXYB}Ōnishi Yoriharu" age="28" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="28.00" weight="0.3021" build="0.5463" key="0026DC0E80000100A66685B64BA5544A43776A69BACB3548D43C8A75388989980668566706A9A359000000000000000000000000000000000000000032D40041"/>
     </face>
@@ -1792,7 +1792,7 @@
       <EquipmentSet id="nankai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_onishi_5" name="{=yHGYnv7J}Onishi Tochi" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_onishi_5" name="{=yHGYnv7J}Ōnishi Tochi" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="28.00" weight="0.561" build="0.4079" key="0008F40B40000003838741E3772214D74EA4850444093D79A74E55BB812BD6AB05168657011427CA00000000000000000000000000000000000000005C241040"/>
     </face>
@@ -1809,7 +1809,7 @@
       <EquipmentSet id="nankai_civ_template_default_female" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_onishi_6" name="{=nTvvBSyL}Onishi Yorikane" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_onishi_6" name="{=nTvvBSyL}Ōnishi Yorikane" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.8015" build="0.6534" key="001EF00E80000783A57875873CB7664982786A974BB9447AD648BAB54899AD98056AC65706B88238000000000000000000000000000000000000000034CC0042"/>
     </face>
@@ -1827,7 +1827,7 @@
       <EquipmentSet id="nankai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_onishi_7" name="{=SQk4kSuU}Onishi Yorinobu" age="4" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_onishi_7" name="{=SQk4kSuU}Ōnishi Yorinobu" age="4" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="4.00" weight="0.438" build="0.8039" key="000DF40B4000000455897B61A79A57CF34A1818C70978479986605488B53DE8D062C7667022727470000000000000000000000000000000000000000543C2080"/>
     </face>
@@ -1845,7 +1845,7 @@
     </Equipments>
   </NPCCharacter>
   <!--brothers-->
-  <NPCCharacter id="lord_1_onishi_8" name="{=MuaWnIVG}Onishi Mototake" age="49" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_onishi_8" name="{=MuaWnIVG}Ōnishi Mototake" age="49" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="49.00" weight="0.5074" build="0.8122" key="0025DC0EC0000683B662896978A8593A71768966378C357AC53675A558A9BCA8037C863507B6C39A000000000000000000000000000000000000000028EC0083"/>
     </face>
@@ -1863,7 +1863,7 @@
       <EquipmentSet id="nankai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_onishi_9" name="{=oeXBYpPO}Onishi Suzuran" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_onishi_9" name="{=oeXBYpPO}Ōnishi Suzuran" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="48.00" weight="0.1416" build="0.4219" key="0030E80C800000077587329CCF3DEA724DE6841C62D41E28654911938C341EDA02162624016376E800000000000000000000000000000000000000001A2C1100"/>
     </face>
@@ -1880,7 +1880,7 @@
       <EquipmentSet id="nankai_civ_template_default_female" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_onishi_10" name="{=vufFgWYR}Onishi Sadatake" age="49" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_onishi_10" name="{=vufFgWYR}Ōnishi Sadatake" age="49" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="49.00" weight="0.3334" build="0.1075" key="002ACC0E40000181A56276C847A7647CA1694B5A8CCB3459D44D49755889D998036256350698C25A00000000000000000000000000000000000000006CD40001"/>
     </face>
@@ -1898,7 +1898,7 @@
       <EquipmentSet id="nankai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_onishi_11" name="{=CoZaJNAY}Onishi Hamagiku" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_onishi_11" name="{=CoZaJNAY}Ōnishi Hamagiku" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="48.00" weight="0.3217" build="0.245" key="003AF00B40000002988D19E04C3D03AB7F9186DBAB47AA5FA95AA3D484D97E5F03545635053060C1000000000000000000000000000000000000000078BC1000"/>
     </face>

@@ -21,5 +21,5 @@
 	<Faction id="clan_miyoshi_1" is_noble="true" name="{=mBoaB6DD}Miyoshi-shi" tier="6" owner="Hero.lord_1_miyoshi" culture="Culture.nankai" super_faction="Kingdom.miyoshi" banner_key="11.163.166.1528.1528.764.764.1.0.0.625.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_sogo_1" is_noble="true" name="{=IYIPPzhY}Sogo-shi" tier="5" owner="Hero.lord_1_sogo" culture="Culture.nankai" super_faction="Kingdom.miyoshi" banner_key="11.163.166.1528.1528.764.764.1.0.0.628.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_shingai_1" is_noble="true" name="{=bE75tDOy}Shingai-shi" tier="5" owner="Hero.lord_1_shingai" culture="Culture.nankai" super_faction="Kingdom.miyoshi" banner_key="11.163.166.1528.1528.764.764.1.0.0.623.171.171.483.483.764.764.0.0.0"/>
-	<Faction id="clan_onishi_1" is_noble="true" name="{=sb0Pv1Rt}Onishi-shi" tier="4" owner="Hero.lord_1_onishi" culture="Culture.nankai" super_faction="Kingdom.miyoshi" banner_key="11.163.166.1528.1528.764.764.1.0.0.627.171.171.483.483.764.764.0.0.0"/>
+	<Faction id="clan_onishi_1" is_noble="true" name="{=sb0Pv1Rt}Ōnishi-shi" tier="4" owner="Hero.lord_1_onishi" culture="Culture.nankai" super_faction="Kingdom.miyoshi" banner_key="11.163.166.1528.1528.764.764.1.0.0.627.171.171.483.483.764.764.0.0.0"/>
 </Factions>

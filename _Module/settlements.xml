@@ -7870,7 +7870,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_SHI7" name="{=ehKkRG65}Onishi Castle" owner="Faction.clan_onishi_1" posX="672.117" posY="466.036" culture="Culture.nankai" gate_posX="672.6506" gate_posY="464.0096">
+  <Settlement id="castle_SHI7" name="{=ehKkRG65}Ōnishi Castle" owner="Faction.clan_onishi_1" posX="672.117" posY="466.036" culture="Culture.nankai" gate_posX="672.6506" gate_posY="464.0096">
     <Components>
       <Town id="castle_comp_SHI7" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_town" gate_rotation="0.000" prosperity="1035"/>
     </Components>

@@ -318,7 +318,7 @@
     </CraftedItem>
 
     <CraftedItem id="sho_yari_8"
-                 name="{=gchwJFj5}Old Kami Yari"
+                 name="{=gchwJFj5}Old Kama Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>
@@ -366,7 +366,7 @@
         </Pieces>
     </CraftedItem>
     <CraftedItem id="sho_yari_11"
-                 name="{=mg35aEMk}Long Kami Yari"
+                 name="{=mg35aEMk}Long Kama Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>
