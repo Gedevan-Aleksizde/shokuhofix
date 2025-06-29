@@ -2739,7 +2739,7 @@
     <string id="loEI5awS" text="{ARMY} has been disbanded since the player has taken as a prisoner" />
     <string id="loJja04L" text="My men will bring your {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?} as soon as possible." />
     <string id="looKU9Gl" text="Wrapped Handles" />
-    <string id="loVfqss6" text="{VALUE}% movement speed to ranged troopps in your formation." />
+    <string id="loVfqss6" text="{VALUE}% movement speed to ranged troops in your formation." />
     <string id="lOwjyUi5" text="Raiding this village will cause a war with {KINGDOM}." />
     <string id="LP7yYoGQ" text="Caribos" />
     <string id="LPBVTiV6" text="a strip of bacon" />
