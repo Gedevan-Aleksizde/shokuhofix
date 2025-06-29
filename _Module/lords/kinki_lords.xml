@@ -1936,7 +1936,7 @@
   </NPCCharacter>
   <!-- Honganji Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_honganji" name="{=vVdUl9kZ}Honganji Ken'nyo" age="25" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_honganji" name="{=vVdUl9kZ}Honganji Kennyo" age="25" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="25.00" weight="0.3944" build="0.6456" key="0031EC0E40000000B6615A69B9B4593A5375696779CD3557C22865455899A988007A660207C6C279000000000000000000000000000000000000000044EC0040" />
     </face>
@@ -2057,7 +2057,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son -->
-  <NPCCharacter id="lord_1_ganshoji_2" name="{=dcTmgzR2}Ganshouji Ken'nin" age="8" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ganshoji_2" name="{=dcTmgzR2}Ganshouji Kennin" age="8" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="8.00" weight="0.4815" build="0.669" key="0025C80E40000000A76768783CA6527B92798B79ACF948ABD53C6B5548A9CB78006A760306A7B38700000000000000000000000000000000000000006ECC0081" />
     </face>

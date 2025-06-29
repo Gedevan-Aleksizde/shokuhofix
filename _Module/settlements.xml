@@ -4555,7 +4555,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_KIN6" name="{=fxIwAwp3}Kan'nonji" owner="Faction.clan_rokkaku_1" posX="946.82" posY="617.827" culture="Culture.kinai" gate_posX="948.7421" gate_posY="615.0197" text="{=8xv7T88d}A seemingly quiet castle town built atop Mount Kinugasa, Kan'nonji has been repeatedly embroiled in the conflicts of its ancestral owners, the Rokkaku clan, and only the castle’s natural defenses have allowed it to resist several sieges.">
+  <Settlement id="town_KIN6" name="{=fxIwAwp3}Kannonji" owner="Faction.clan_rokkaku_1" posX="946.82" posY="617.827" culture="Culture.kinai" gate_posX="948.7421" gate_posY="615.0197" text="{=8xv7T88d}A seemingly quiet castle town built atop Mount Kinugasa, Kannonji has been repeatedly embroiled in the conflicts of its ancestral owners, the Rokkaku clan, and only the castle’s natural defenses have allowed it to resist several sieges.">
     <Components>
       <Town id="town_comp_KIN6" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="2700"/>
     </Components>
@@ -8404,7 +8404,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_TOHO7" name="{=YUFX5LdB}San'nohe" owner="Faction.clan_nanbu_1" posX="1514.615" posY="1306.261" culture="Culture.ou" gate_posX="1512.973" gate_posY="1303.281" text="{=4i6COw8g}Located along a key mountain pass, San'nohe is a fortified town that serves as a military outpost, guarding vital routes for trade and troop movements on the borders of competing powers.">
+  <Settlement id="town_TOHO7" name="{=YUFX5LdB}Sannohe" owner="Faction.clan_nanbu_1" posX="1514.615" posY="1306.261" culture="Culture.ou" gate_posX="1512.973" gate_posY="1303.281" text="{=4i6COw8g}Located along a key mountain pass, Sannohe is a fortified town that serves as a military outpost, guarding vital routes for trade and troop movements on the borders of competing powers.">
     <Components>
       <Town id="town_comp_TOHO7" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1760"/>
     </Components>

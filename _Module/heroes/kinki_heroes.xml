@@ -125,14 +125,14 @@
 	<Hero id="lord_1_yukawa_6" faction="Faction.clan_yukawa_1" father="Hero.dead_lord_1_yukawa_2" mother="Hero.dead_lord_1_yukawa_3" text="{=NbKeRcPM}Yukawa Harunobu"/>
 	<!--Ikko Ikki Faction-->
 	<!-- Honganji Clan -->
-	<Hero id="lord_1_honganji" faction="Faction.clan_honganji_1" spouse="Hero.lord_1_honganji_2" text="{=vVdUl9kZ}Honganji Ken'nyo"/>
+	<Hero id="lord_1_honganji" faction="Faction.clan_honganji_1" spouse="Hero.lord_1_honganji_2" text="{=vVdUl9kZ}Honganji Kennyo"/>
 	<Hero id="lord_1_honganji_1" faction="Faction.clan_honganji_1" spouse="Hero.lord_1_honganji" text="{=uhGVlVcb}Honganji Nyosyun-ni"/>
 	<Hero id="lord_1_honganji_2" faction="Faction.clan_honganji_1" father="Hero.lord_1_honganji" mother="Hero.lord_1_honganji_1" text="{=ZHgHiq5g}Honganji Kyonyo"/>
 	<Hero id="lord_1_honganji_3" faction="Faction.clan_honganji_1" father="Hero.lord_1_honganji" mother="Hero.lord_1_honganji_1" text="{=dLk4Mfmb}Honganji Kenson"/>
 	<!-- Ganshouji Clan -->
 	<Hero id="lord_1_ganshoji" faction="Faction.clan_ganshoji_1" spouse="Hero.lord_1_ganshoji_1" text="{=CGMTB5IR}Ganshouji Syoui"/>
 	<Hero id="lord_1_ganshoji_1" faction="Faction.clan_ganshoji_1" spouse="Hero.lord_1_ganshoji" text="{=RqrjjOwd}Ganshouji Shoumyou-in"/>
-	<Hero id="lord_1_ganshoji_2" faction="Faction.clan_ganshoji_1" spouse="Hero.lord_1_ganshoji" father="Hero.lord_1_ganshoji" mother="Hero.lord_1_ganshoji_1" text="{=dcTmgzR2}Ganshouji Ken'nin"/>
+	<Hero id="lord_1_ganshoji_2" faction="Faction.clan_ganshoji_1" spouse="Hero.lord_1_ganshoji" father="Hero.lord_1_ganshoji" mother="Hero.lord_1_ganshoji_1" text="{=dcTmgzR2}Ganshouji Kennin"/>
 	<!-- Rokkaku Faction -->
 	<!-- Rokkaku Clan -->
 	<Hero id="lord_1_rokkaku" faction="Faction.clan_rokkaku_1" spouse="Hero.lord_1_rokkaku_1" text="{=KyBM4EGe}Rokkaku Yoshikata"/>
