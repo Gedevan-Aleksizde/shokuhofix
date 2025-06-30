@@ -1202,7 +1202,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_CHUB5" name="{=CK6roQ1s}Niigata" owner="Faction.clan_shibata_2" posX="1285.24" posY="985.285" culture="Culture.hokuriku" gate_posX="1286.684" gate_posY="982.2043" text="{=mhnNNG3m}Situated on the coast of Echigo Province, Niigata is a prosperous port town benefiting from maritime trade and fertile agricultural lands. The Shinano River provides an essential route for transporting rice and goods inland. The town falls under the influence of Uesugi Kenshin, whose strong rule ensures stability in the region. Fishermen, salt merchants, and shipbuilders contribute to Niigata’s economy, making it an important asset for Kenshin’s war efforts.">
+  <Settlement id="town_CHUB5" name="{=CK6roQ1s}Nīgata" owner="Faction.clan_shibata_2" posX="1285.24" posY="985.285" culture="Culture.hokuriku" gate_posX="1286.684" gate_posY="982.2043" text="{=mhnNNG3m}Situated on the coast of Echigo Province, Nīgata is a prosperous port town benefiting from maritime trade and fertile agricultural lands. The Shinano River provides an essential route for transporting rice and goods inland. The town falls under the influence of Uesugi Kenshin, whose strong rule ensures stability in the region. Fishermen, salt merchants, and shipbuilders contribute to Nīgata’s economy, making it an important asset for Kenshin’s war efforts.">
     <Components>
       <Town id="town_comp_CHUB5" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="2600"/>
     </Components>
