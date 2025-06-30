@@ -32,7 +32,7 @@
 <!-- Oda Faction-->
 <Faction id="clan_oda_1" is_noble="true" name="{=lfglFdss}Oda-shi" tier="6" owner="Hero.lord_1_oda" culture="Culture.kinai" super_faction="Kingdom.oda" banner_key="11.163.166.1528.1528.764.764.1.0.0.670.171.171.483.483.764.764.0.0.0"/>
 <Faction id="clan_kinoshita_1" is_noble="true" name="{=OljOni7v}Kinoshita-shi" tier="4" owner="Hero.lord_1_kinoshita" culture="Culture.kinai" super_faction="Kingdom.oda" banner_key="11.163.166.1528.1528.764.764.1.0.0.672.171.171.483.483.764.764.0.0.0"/>
-<Faction id="clan_shibata_1" is_noble="true" name="Shibata-shi" tier="5" owner="Hero.lord_1_shibata" culture="Culture.kinai" super_faction="Kingdom.oda" banner_key="11.163.166.1528.1528.764.764.1.0.0.673.171.171.483.483.764.764.0.0.0"/>
+<Faction id="clan_shibata_1" is_noble="true" name="{=dOsL2isy}Shibata-shi" tier="5" owner="Hero.lord_1_shibata" culture="Culture.kinai" super_faction="Kingdom.oda" banner_key="11.163.166.1528.1528.764.764.1.0.0.673.171.171.483.483.764.764.0.0.0"/>
 <Faction id="clan_sakuma_1" is_noble="true" name="{=Fch4loOb}Sakuma-shi" tier="4" owner="Hero.lord_1_sakuma" culture="Culture.kinai" super_faction="Kingdom.oda" banner_key="11.163.166.1528.1528.764.764.1.0.0.674.171.171.483.483.764.764.0.0.0"/>
 <Faction id="clan_takigawa_1" is_noble="true" name="{=g1Mabrdw}Takigawa-shi" tier="3" owner="Hero.lord_1_takigawa" culture="Culture.kinai" super_faction="Kingdom.oda" banner_key="11.163.166.1528.1528.764.764.1.0.0.675.171.171.483.483.764.764.0.0.0"/>
 <Faction id="clan_kuki_1" is_noble="true" name="{=Oz4Epb0l}Kuki-shi" tier="3" owner="Hero.lord_1_kuki" culture="Culture.kinai" super_faction="Kingdom.oda" banner_key="11.163.166.1528.1528.764.764.1.0.0.676.171.171.483.483.764.764.0.0.0"/>

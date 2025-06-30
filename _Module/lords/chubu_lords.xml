@@ -1292,9 +1292,9 @@
       <EquipmentSet id="hokuriku_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <!-- Cho Clan -->
+  <!-- Chou Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_cho" name="{=Ykm1ZcKt}Cho Tsugutsura" age="43" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_cho" name="{=Ykm1ZcKt}Chou Tsugutsura" age="43" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="43.00" weight="0.8282" build="0.8943" key="0031D40E40000444A56566B8CDB6675A92665A8A8CAD467BC33A4B655899CC78066DC66806CA827A00000000000000000000000000000000000000006ECC00C1"/>
     </face>
@@ -1313,7 +1313,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_cho_1" name="{=54P6AoCQ}Cho Kine" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_cho_1" name="{=54P6AoCQ}Chou Kine" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="38.00" weight="0.4599" build="0.6974" key="0019E40D000000062A8DC53D114172EFB4F586632AB6B9C44334799185B7B1DB005A7603050072AB000000000000000000000000000000000000000002942040"/>
     </face>
@@ -1331,7 +1331,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son -->
-  <NPCCharacter id="lord_1_cho_2" name="{=BH4qApyf}Cho Tsunatsura" age="28" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_cho_2" name="{=BH4qApyf}Chou Tsunatsura" age="28" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="28.00" weight="0.7941" build="0.7963" key="0026F40E8000014096745AC947A5683BA2754B7A88FD4859D53A5CB56889A9A8036CC6350697B29900000000000000000000000000000000000000003AD400C1"/>
     </face>
@@ -1350,7 +1350,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son Spouse -->
-  <NPCCharacter id="lord_1_cho_3" name="{=mxxEQmKL}Cho Chiho" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_cho_3" name="{=mxxEQmKL}Chou Chiho" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="23.00" weight="0.4048" build="0.4283" key="000DD80B400000054C8648FC3557E7DBE8E186B26B43462A66CE6646820D8C7E03866635086185460000000000000000000000000000000000000000350C2081"/>
     </face>
@@ -1368,7 +1368,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son 2 -->
-  <NPCCharacter id="lord_1_cho_4" name="{=Pd02cWIP}Cho Turatatsu" age="22" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_cho_4" name="{=Pd02cWIP}Chou Turatatsu" age="22" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.00" weight="0.3021" build="0.1229" key="003AD80E80000144A7677847B9A4529991656A49A87B4997D529AA453889C9880462564606B8B28900000000000000000000000000000000000000005CD40083"/>
     </face>

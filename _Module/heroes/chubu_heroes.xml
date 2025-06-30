@@ -86,12 +86,12 @@
 	<Hero id="dead_lord_1_notohatakeyama_2" alive="false" faction="Faction.clan_notohatakeyama_1" spouse="Hero.dead_lord_1_notohatakeyama_3" text="{=uWclrYkK}Noto-Hatakeyama Yoshitsuna"/>
 	<Hero id="dead_lord_1_notohatakeyama_3" alive="false" faction="Faction.clan_notohatakeyama_1" spouse="Hero.dead_lord_1_notohatakeyama_2" text="{=L7cUrjNA}Noto-Hatakeyama Keisei-in"/>
 	<Hero id="lord_1_notohatakeyama_4" faction="Faction.clan_notohatakeyama_1" father="Hero.dead_lord_1_notohatakeyama_2" mother="Hero.dead_lord_1_notohatakeyama_3" text="{=MzeRfL4G}Noto-Hatakeyama Yoshitaka"/>
-	<!--Cho Clan-->
-	<Hero id="lord_1_cho" faction="Faction.clan_cho_1" spouse="Hero.lord_1_cho_1" text="{=Ykm1ZcKt}Cho Tsugutsura"/>
-	<Hero id="lord_1_cho_1" faction="Faction.clan_cho_1" spouse="Hero.lord_1_cho" text="{=54P6AoCQ}Cho Kine"/>
-	<Hero id="lord_1_cho_2" faction="Faction.clan_cho_1" spouse="Hero.lord_1_cho_3" father="Hero.lord_1_cho" mother="Hero.lord_1_cho_1" text="{=BH4qApyf}Cho Tsunatsura"/>
-	<Hero id="lord_1_cho_3" faction="Faction.clan_cho_1" spouse="Hero.lord_1_cho_2" text="{=mxxEQmKL}Cho Chiho"/>
-	<Hero id="lord_1_cho_4" faction="Faction.clan_cho_1" father="Hero.lord_1_cho" mother="Hero.lord_1_cho_1" text="{=mxxEQmKL}Cho Chiho"/>
+	<!--Chou Clan-->
+	<Hero id="lord_1_cho" faction="Faction.clan_cho_1" spouse="Hero.lord_1_cho_1" text="{=Ykm1ZcKt}Chou Tsugutsura"/>
+	<Hero id="lord_1_cho_1" faction="Faction.clan_cho_1" spouse="Hero.lord_1_cho" text="{=54P6AoCQ}Chou Kine"/>
+	<Hero id="lord_1_cho_2" faction="Faction.clan_cho_1" spouse="Hero.lord_1_cho_3" father="Hero.lord_1_cho" mother="Hero.lord_1_cho_1" text="{=BH4qApyf}Chou Tsunatsura"/>
+	<Hero id="lord_1_cho_3" faction="Faction.clan_cho_1" spouse="Hero.lord_1_cho_2" text="{=mxxEQmKL}Chou Chiho"/>
+	<Hero id="lord_1_cho_4" faction="Faction.clan_cho_1" father="Hero.lord_1_cho" mother="Hero.lord_1_cho_1" text="{=mxxEQmKL}Chou Chiho"/>
 	<!--Yusa Clan-->
 	<Hero id="lord_1_yusa" faction="Faction.clan_yusa_1" spouse="Hero.lord_1_yusa_1" text="{=6UGnlTvg}Yusa Tsugumitsu"/>
 	<Hero id="lord_1_yusa_1" faction="Faction.clan_yusa_1" spouse="Hero.lord_1_yusa" text="{=mtpjGuCC}Yusa Sue"/>
