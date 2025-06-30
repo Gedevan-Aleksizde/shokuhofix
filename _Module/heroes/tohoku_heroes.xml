@@ -90,14 +90,14 @@
 	<Hero id="lord_1_oniniwa_4" faction="Faction.clan_oniniwa_1" father="Hero.lord_1_oniniwa_2" mother="Hero.lord_1_oniniwa_3" text="{=6syqEkxm}Oniniwa Yasumoto"/>
 	<!--Watari Clan-->
 	<Hero id="lord_1_watari" faction="Faction.clan_watari_1" spouse="Hero.lord_1_watari_1" text="{=3fLCijjk}Watari Motomune"/>
-	<Hero id="lord_1_watari_1" faction="Faction.clan_watari_1" spouse="Hero.lord_1_watari" text="{=ASQ0gZto}Watari Gekko-in"/>
+	<Hero id="lord_1_watari_1" faction="Faction.clan_watari_1" spouse="Hero.lord_1_watari" text="{=ASQ0gZto}Watari Gekkou-in"/>
 	<Hero id="lord_1_watari_2" faction="Faction.clan_watari_1" father="Hero.lord_1_watari" mother="Hero.lord_1_watari_1" text="{=JZFYlzYb}Watari Shigemune"/>
 	<Hero id="lord_1_watari_3" faction="Faction.clan_watari_1" father="Hero.lord_1_watari" mother="Hero.lord_1_watari_1" text="{=chvnuxQs}Watari Yui"/>
-	<!--Osaki Clan-->
-	<Hero id="lord_1_osaki" faction="Faction.clan_osaki_1" father="Hero.lord_1_osaki_1" mother="Hero.lord_1_osaki_2" text="{=1dDTpLSL}Osaki Yoshitaka"/>
-	<Hero id="lord_1_osaki_1" faction="Faction.clan_osaki_1" spouse="Hero.lord_1_osaki_2" text="{=hFIaafxw}Osaki Yoshinao"/>
-	<Hero id="lord_1_osaki_2" faction="Faction.clan_osaki_1" spouse="Hero.lord_1_osaki_1" text="{=yKztqf7Y}Osaki Tani"/>
-	<Hero id="lord_1_osaki_3" faction="Faction.clan_osaki_1" father="Hero.lord_1_osaki_1" mother="Hero.lord_1_osaki_2" text="{=PdMyVeC2}Osaki Toshiyo"/>
+	<!--Ōsaki Clan-->
+	<Hero id="lord_1_osaki" faction="Faction.clan_osaki_1" father="Hero.lord_1_osaki_1" mother="Hero.lord_1_osaki_2" text="{=1dDTpLSL}Ōsaki Yoshitaka"/>
+	<Hero id="lord_1_osaki_1" faction="Faction.clan_osaki_1" spouse="Hero.lord_1_osaki_2" text="{=hFIaafxw}Ōsaki Yoshinao"/>
+	<Hero id="lord_1_osaki_2" faction="Faction.clan_osaki_1" spouse="Hero.lord_1_osaki_1" text="{=yKztqf7Y}Ōsaki Tani"/>
+	<Hero id="lord_1_osaki_3" faction="Faction.clan_osaki_1" father="Hero.lord_1_osaki_1" mother="Hero.lord_1_osaki_2" text="{=PdMyVeC2}Ōsaki Toshiyo"/>
 	<!--Kasai Clan-->
 	<Hero id="lord_1_kasai" faction="Faction.clan_kasai_1" spouse="Hero.lord_1_kasai_1" text="{=GfI6uQA0}Kasai Harunobu"/>
 	<Hero id="lord_1_kasai_1" faction="Faction.clan_kasai_1" spouse="Hero.lord_1_kasai" text="{=V03JK8Wj}Kasai Toku"/>
@@ -105,7 +105,7 @@
 	<Hero id="lord_1_kasai_3" faction="Faction.clan_kasai_1" father="Hero.lord_1_kasai" mother="Hero.lord_1_kasai_1" text="{=uLgRyxxy}Kasai Nobuhide"/>
 	<!--Iwaki Clan-->
 	<Hero id="lord_1_iwaki" faction="Faction.clan_iwaki_1" spouse="Hero.lord_1_iwaki_1" father="Hero.lord_1_iwaki_2" mother="Hero.lord_1_iwaki_3" text="{=qyv1DVLK}Iwaki Chikataka"/>
-	<Hero id="lord_1_iwaki_1" faction="Faction.clan_iwaki_1" spouse="Hero.lord_1_iwaki" text="{=zS1xCtvl}Iwaki Kieju-in"/>
+	<Hero id="lord_1_iwaki_1" faction="Faction.clan_iwaki_1" spouse="Hero.lord_1_iwaki" text="{=zS1xCtvl}Iwaki Keiju-in"/>
 	<Hero id="lord_1_iwaki_2" faction="Faction.clan_iwaki_1" spouse="Hero.lord_1_iwaki_3" text="{=A91ldYIn}Iwaki Shigetaka"/>
 	<Hero id="lord_1_iwaki_3" faction="Faction.clan_iwaki_1" spouse="Hero.lord_1_iwaki_2" text="{=OMoDuAqu}Iwaki Jomei-in"/>
 	<Hero id="lord_1_iwaki_4" faction="Faction.clan_iwaki_1" father="Hero.lord_1_iwaki" mother="Hero.lord_1_iwaki_1" text="{=uGlEqEJX}Iwaki Tsunetaka"/>
@@ -227,11 +227,11 @@
 	<Hero id="lord_1_kita_3" faction="Faction.clan_kita_1" spouse="Hero.lord_1_kita_2" text="{=VrwnAg7Z}Kita Sumire"/>
 	<Hero id="lord_1_kita_4" faction="Faction.clan_kita_1" father="Hero.lord_1_kita" mother="Hero.lord_1_kita_1" text="{=WOxNvejG}Kita Hidechika"/>
 	<Hero id="lord_1_kita_5" faction="Faction.clan_kita_1" father="Hero.lord_1_kita" mother="Hero.lord_1_kita_1" text="{=1Ms9l2Vr}Kita Naotsugu"/>
-	<!--Oura Clan-->
-	<Hero id="lord_1_oura" faction="Faction.clan_oura_1" spouse="Hero.lord_1_oura_1" father="Hero.dead_lord_1_oura_2" mother="Hero.dead_lord_1_oura_3" text="{=PBJm4EDg}Oura Tamenobu"/>
-	<Hero id="lord_1_oura_1" faction="Faction.clan_oura_1" spouse="Hero.lord_1_oura" text="{=Zd7dIZYX}Oura Fuku"/>
-	<Hero id="dead_lord_1_oura_2" alive="false" faction="Faction.clan_oura_1" spouse="Hero.dead_lord_1_oura_3" text="{=DxKKXmBo}Oura Tamenori"/>
-	<Hero id="dead_lord_1_oura_3" alive="false" faction="Faction.clan_oura_1" spouse="Hero.dead_lord_1_oura_2" text="{=bCUAVf01}Oura Sumi"/>
+	<!--Ōura Clan-->
+	<Hero id="lord_1_oura" faction="Faction.clan_oura_1" spouse="Hero.lord_1_oura_1" father="Hero.dead_lord_1_oura_2" mother="Hero.dead_lord_1_oura_3" text="{=PBJm4EDg}Ōura Tamenobu"/>
+	<Hero id="lord_1_oura_1" faction="Faction.clan_oura_1" spouse="Hero.lord_1_oura" text="{=Zd7dIZYX}Ōura Fuku"/>
+	<Hero id="dead_lord_1_oura_2" alive="false" faction="Faction.clan_oura_1" spouse="Hero.dead_lord_1_oura_3" text="{=DxKKXmBo}Ōura Tamenori"/>
+	<Hero id="dead_lord_1_oura_3" alive="false" faction="Faction.clan_oura_1" spouse="Hero.dead_lord_1_oura_2" text="{=bCUAVf01}Ōura Sumi"/>
 	<!--Shiba Clan-->
 	<Hero id="lord_1_shiba" faction="Faction.clan_shiba_1" spouse="Hero.lord_1_shiba_1" text="{=Kn3UwNzn}Shiba Akizane"/>
 	<Hero id="lord_1_shiba_1" faction="Faction.clan_shiba_1" spouse="Hero.lord_1_shiba" text="{=KJxRs4Uz}Shiba Shima"/>

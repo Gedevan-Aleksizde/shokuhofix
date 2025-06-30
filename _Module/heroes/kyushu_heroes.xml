@@ -112,7 +112,7 @@
 	<Hero id="lord_1_aso_2" faction="Faction.clan_aso_1" spouse="Hero.lord_1_aso_3" text="{=VwVczw6S}Asou Koretane"/>
 	<Hero id="lord_1_aso_3" faction="Faction.clan_aso_1" spouse="Hero.lord_1_aso_2" text="{=LRFeUoJn}Asou Azami"/>
 	<!--kai clan 7 ids-->
-	<Hero id="lord_1_kai" faction="Faction.clan_kai_1" spouse="Hero.lord_1_kai_1" text="{=9rmhZ9SX}Kai Soun"/>
+	<Hero id="lord_1_kai" faction="Faction.clan_kai_1" spouse="Hero.lord_1_kai_1" text="{=9rmhZ9SX}Kai Souun"/>
 	<Hero id="lord_1_kai_1" faction="Faction.clan_kai_1" spouse="Hero.lord_1_kai" text="{=0YMRJmlt}Kai Oume"/>
 	<Hero id="lord_1_kai_2" faction="Faction.clan_kai_1" father="Hero.lord_1_kai" mother="Hero.lord_1_kai_1" text="{=AwDyF3fr}Kai Chikahide"/>
 	<Hero id="lord_1_kai_3" faction="Faction.clan_kai_1" father="Hero.lord_1_kai" mother="Hero.lord_1_kai_1" text="{=0dn4iBEk}Kai Chikamasa"/>
@@ -131,12 +131,12 @@
 	<Hero id="lord_1_nishi_4" father="Hero.lord_1_nishi_2" mother="Hero.lord_1_nishi_3" faction="Faction.clan_nishi_1" text="{=4ZWfBLHb}Nishi Korenobu"/>
 	<Hero id="lord_1_nishi_5" father="Hero.lord_1_nishi" mother="Hero.lord_1_nishi_1" faction="Faction.clan_nishi_1" spouse="Hero.lord_1_nishi_6" text="{=jpK0zLw5}Nishi Korehide"/>
 	<Hero id="lord_1_nishi_6" faction="Faction.clan_nishi_1" spouse="Hero.lord_1_nishi_5" text="{=cCBVwKSj}Nishi Seki"/>
-	<!--takezaki clan 7 ids-->
-	<Hero id="lord_1_takezaki" faction="Faction.clan_takezaki_1" spouse="Hero.lord_1_takezaki_1" text="{=lNlmN4wG}takezaki Koremitsu"/>
-	<Hero id="lord_1_takezaki_1" faction="Faction.clan_takezaki_1" spouse="Hero.lord_1_takezaki" text="{=85PKWhYi}takezaki Sawa"/>
-	<Hero id="lord_1_takezaki_2" father="Hero.lord_1_takezaki" mother="Hero.lord_1_takezaki_1" faction="Faction.clan_takezaki_1" spouse="Hero.lord_1_takezaki_3" text="{=ahYt1SDs}takezaki Nagahide"/>
-	<Hero id="lord_1_takezaki_3" faction="Faction.clan_takezaki_1" spouse="Hero.lord_1_takezaki_2" text="{=GA5dFkPJ}takezaki Tama"/>
-	<Hero id="lord_1_takezaki_4" father="Hero.lord_1_takezaki_2" mother="Hero.lord_1_takezaki_3" faction="Faction.clan_takezaki_1" text="{=q4kHT4nt}takezaki Tsuki"/>
+	<!--Takezaki clan 7 ids-->
+	<Hero id="lord_1_takezaki" faction="Faction.clan_takezaki_1" spouse="Hero.lord_1_takezaki_1" text="{=lNlmN4wG}Takezaki Koremitsu"/>
+	<Hero id="lord_1_takezaki_1" faction="Faction.clan_takezaki_1" spouse="Hero.lord_1_takezaki" text="{=85PKWhYi}Takezaki Sawa"/>
+	<Hero id="lord_1_takezaki_2" father="Hero.lord_1_takezaki" mother="Hero.lord_1_takezaki_1" faction="Faction.clan_takezaki_1" spouse="Hero.lord_1_takezaki_3" text="{=ahYt1SDs}Takezaki Nagahide"/>
+	<Hero id="lord_1_takezaki_3" faction="Faction.clan_takezaki_1" spouse="Hero.lord_1_takezaki_2" text="{=GA5dFkPJ}Takezaki Tama"/>
+	<Hero id="lord_1_takezaki_4" father="Hero.lord_1_takezaki_2" mother="Hero.lord_1_takezaki_3" faction="Faction.clan_takezaki_1" text="{=q4kHT4nt}Takezaki Tsuki"/>
 	<!--arima kingdom-->
 	<!--arima clan 9 ids-->
 	<Hero id="lord_1_arima" faction="Faction.clan_arima_1" spouse="Hero.lord_1_arima_1" text="{=EALX2wiH}Arima Yoshisada"/>
@@ -192,7 +192,7 @@
 	<Hero id="lord_1_matsuura" faction="Faction.clan_matsuura_1" spouse="Hero.lord_1_matsuura_1" text="{=IuaPQ3Jf}Matsuura Takanobu"/>
 	<Hero id="lord_1_matsuura_1" faction="Faction.clan_matsuura_1" spouse="Hero.lord_1_matsuura" text="{=8SJ7vUnX}Matsuura Suiran"/>
 	<Hero id="lord_1_matsuura_2" faction="Faction.clan_matsuura_1" spouse="Hero.lord_1_matsuura_3" father="Hero.lord_1_matsuura" mother="Hero.lord_1_matsuura_1" text="{=5vMME1MH}Matsuura Shigenobu"/>
-	<Hero id="lord_1_matsuura_3" faction="Faction.clan_matsuura_1" spouse="Hero.lord_1_matsuura_2" text="{=MRn4lWn1}Matsuura Shii"/>
+	<Hero id="lord_1_matsuura_3" faction="Faction.clan_matsuura_1" spouse="Hero.lord_1_matsuura_2" text="{=MRn4lWn1}Matsuura Shī"/>
 	<Hero id="lord_1_matsuura_4" faction="Faction.clan_matsuura_1" father="Hero.lord_1_matsuura" mother="Hero.lord_1_matsuura_1" text="{=ZjiY3efx}Matsuura Koreaki"/>
 	<Hero id="lord_1_matsuura_5" faction="Faction.clan_matsuura_1" spouse="Hero.lord_1_matsuura_6" father="Hero.lord_1_matsuura" mother="Hero.lord_1_matsuura_1" text="{=XUnjjMXE}Matsuura Chikashi"/>
 	<Hero id="lord_1_matsuura_6" faction="Faction.clan_matsuura_1" spouse="Hero.lord_1_matsuura_5" text="{=GVedNuqp}Matsuura Kanoko"/>
@@ -270,7 +270,7 @@
 	<Hero id="lord_1_tanegashima" faction="Faction.clan_tanegashima_1" spouse="Hero.lord_1_tanegashima_1" father="Hero.dead_lord_1_tanegashima_1" mother="Hero.lord_1_tanegashima_4" text="{=qyCDkM5m}Tanegashima Tokitaka"/>
 	<Hero id="lord_1_tanegashima_1" faction="Faction.clan_tanegashima_1" spouse="Hero.lord_1_tanegashima" text="{=QF3JI70b}Tanegashima Nishi"/>
 	<Hero id="lord_1_tanegashima_2" faction="Faction.clan_tanegashima_1" father="Hero.lord_1_tanegashima" mother="Hero.lord_1_tanegashima_1" text="{=zy3vzsD2}Tanegashima Hisatoki"/>
-	<Hero id="lord_1_tanegashima_3" faction="Faction.clan_tanegashima_1" father="Hero.dead_lord_1_tanegashima_1" mother="Hero.lord_1_tanegashima_4" text="{=V9EPyj3M}Tanegashima Nippo"/>
+	<Hero id="lord_1_tanegashima_3" faction="Faction.clan_tanegashima_1" father="Hero.dead_lord_1_tanegashima_1" mother="Hero.lord_1_tanegashima_4" text="{=V9EPyj3M}Tanegashima Nippou"/>
 	<Hero id="dead_lord_1_tanegashima_1" alive="false" faction="Faction.clan_tanegashima_1" text="{=zy3vzsD2}Tanegashima Hisatoki"/>
 	<Hero id="lord_1_tanegashima_4" faction="Faction.clan_tanegashima_1" text="{=XCSdjqll}Tanegashima Suiren"/>
 	<!--kawakami clan-->

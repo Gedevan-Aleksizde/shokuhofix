@@ -163,7 +163,7 @@
 	<Hero id="lord_1_honda_4" faction="Faction.clan_honda_1" spouse="Hero.lord_1_honda_5" text="{=9DY2gzT7}Honda Toshimasa"/>
 	<Hero id="lord_1_honda_5" faction="Faction.clan_honda_1" spouse="Hero.lord_1_honda_4" text="{=OfpHBzpT}Honda Chie"/>
 	<Hero id="lord_1_honda_6" faction="Faction.clan_honda_1" spouse="Hero.lord_1_honda_7" father="Hero.lord_1_honda_4" mother="Hero.lord_1_honda_5" text="{=oGp9i8O6}Honda Masanobu"/>
-	<Hero id="lord_1_honda_7" faction="Faction.clan_honda_1" spouse="Hero.lord_1_honda_6" text="{=NIaOPKNj}Honda Shii"/>
+	<Hero id="lord_1_honda_7" faction="Faction.clan_honda_1" spouse="Hero.lord_1_honda_6" text="{=NIaOPKNj}Honda Shī"/>
 	<Hero id="lord_1_honda_8" faction="Faction.clan_honda_1" father="Hero.lord_1_honda_6" mother="Hero.lord_1_honda_7" text="{=dID6ayTM}Honda Masazumi"/>
 	<Hero id="lord_1_honda_9" faction="Faction.clan_honda_1" spouse="Hero.lord_1_honda_10" father="Hero.lord_1_honda_4" mother="Hero.lord_1_honda_5" text="{=9gdMPNbq}Honda Masashige"/>
 	<Hero id="lord_1_honda_10" faction="Faction.clan_honda_1" spouse="Hero.lord_1_honda_9" text="{=7TBN1cQm}Honda Tsune"/>

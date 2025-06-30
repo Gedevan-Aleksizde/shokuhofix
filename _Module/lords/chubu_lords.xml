@@ -2433,7 +2433,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Relative 2 Son Spouse -->
-  <NPCCharacter id="lord_1_honda_7" name="{=NIaOPKNj}Honda Shii" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_honda_7" name="{=NIaOPKNj}Honda Shī" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="28.00" weight="0.0206" build="0.219" key="0000E00E80000005348613A2B72F98ED7E8482BBA3116B8885560F368CCE368A04130646014621BF0000000000000000000000000000000000000000482C30C1"/>
     </face>
