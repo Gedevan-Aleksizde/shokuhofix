@@ -3599,7 +3599,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KA10_2" name="{=vehvdeEq}Linuma" posX="1455.941" posY="709.261" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_KA10_2" name="{=vehvdeEq}Iinuma" posX="1455.941" posY="709.261" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_KA10_2" village_type="VillageType.copper_mine" hearth="200" gate_rotation="0.008" bound="Settlement.castle_KA10" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -9049,7 +9049,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_TOHO15_2" name="{=wqtco3R9}Miyazawa" posX="1480.218" posY="1067.707" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_TOHO15_2" name="{=WyzxYdII}Furukawa" posX="1480.218" posY="1067.707" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_TOHO15_2" village_type="VillageType.rice_farm" hearth="200" gate_rotation="0.008" bound="Settlement.castle_TOHO15" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>

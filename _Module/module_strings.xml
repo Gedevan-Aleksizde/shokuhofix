@@ -67,23 +67,23 @@
     <string id="str_faction_official.kanto" text="{=tRwThwR8}Daimyo"/>
     <string id="str_faction_official.ou" text="{=tRwThwR8}Daimyo"/>
 
-	<string id="str_faction_ruler_name_with_title.saikai" text="{=tRwThwR8}Daimyo {RULER.NAME}"/>
+	<string id="str_faction_ruler_name_with_title.saikai" text="{=n6nnkLxo}Daimyo {RULER.NAME}"/>
 	<string id="str_faction_noble_name_with_title.saikai" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
-	<string id="str_faction_ruler_name_with_title.nankai" text="{=tRwThwR8}Daimyo {RULER.NAME}"/>
+	<string id="str_faction_ruler_name_with_title.nankai" text="{=n6nnkLxo}Daimyo {RULER.NAME}"/>
 	<string id="str_faction_noble_name_with_title.nankai" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
-	<string id="str_faction_ruler_name_with_title.sanyo" text="{=tRwThwR8}Daimyo {RULER.NAME}"/>
+	<string id="str_faction_ruler_name_with_title.sanyo" text="{=n6nnkLxo}Daimyo {RULER.NAME}"/>
 	<string id="str_faction_noble_name_with_title.sanyo" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
-	<string id="str_faction_ruler_name_with_title.kinai" text="{=tRwThwR8}Daimyo {RULER.NAME}"/>
+	<string id="str_faction_ruler_name_with_title.kinai" text="{=n6nnkLxo}Daimyo {RULER.NAME}"/>
 	<string id="str_faction_noble_name_with_title.kinai" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
-	<string id="str_faction_ruler_name_with_title.hokuriku" text="{=tRwThwR8}Daimyo {RULER.NAME}"/>
+	<string id="str_faction_ruler_name_with_title.hokuriku" text="{=n6nnkLxo}Daimyo {RULER.NAME}"/>
 	<string id="str_faction_noble_name_with_title.hokuriku" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
-	<string id="str_faction_ruler_name_with_title.tosan" text="{=tRwThwR8}Daimyo {RULER.NAME}"/>
+	<string id="str_faction_ruler_name_with_title.tosan" text="{=n6nnkLxo}Daimyo {RULER.NAME}"/>
 	<string id="str_faction_noble_name_with_title.tosan" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
-	<string id="str_faction_ruler_name_with_title.tokai" text="{=tRwThwR8}Daimyo {RULER.NAME}"/>
+	<string id="str_faction_ruler_name_with_title.tokai" text="{=n6nnkLxo}Daimyo {RULER.NAME}"/>
 	<string id="str_faction_noble_name_with_title.tokai" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
-	<string id="str_faction_ruler_name_with_title.kanto" text="{=tRwThwR8}Daimyo {RULER.NAME}"/>
+	<string id="str_faction_ruler_name_with_title.kanto" text="{=n6nnkLxo}Daimyo {RULER.NAME}"/>
 	<string id="str_faction_noble_name_with_title.kanto" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
-	<string id="str_faction_ruler_name_with_title.ou" text="{=tRwThwR8}Daimyo {RULER.NAME}"/>
+	<string id="str_faction_ruler_name_with_title.ou" text="{=n6nnkLxo}Daimyo {RULER.NAME}"/>
 	<string id="str_faction_noble_name_with_title.ou" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
 
 	<string id="str_faction_informal_name_for_culture.saikai" text="{=KznUzEjy}the Saikai"/>

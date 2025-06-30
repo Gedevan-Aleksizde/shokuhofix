@@ -34,7 +34,7 @@
 	<!--Ando Faction-->
 	<Faction id="clan_ando_1" is_noble="true" name="{=6NWgGmYf}Ando-shi" tier="6" owner="Hero.lord_1_ando" culture="Culture.ou" super_faction="Kingdom.ando" banner_key="11.163.166.1528.1528.764.764.1.0.0.767.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_asari_1" is_noble="true" name="{=6LMl0tI8}Asari-shi" tier="4" owner="Hero.lord_1_asari" culture="Culture.ou" super_faction="Kingdom.ando" banner_key="11.163.166.1528.1528.764.764.1.0.0.768.171.171.483.483.764.764.0.0.0"/>
-	<Faction id="clan_kakizaki_1" is_noble="true" name="{=xy3cU9cP}Kakizaki-shi" tier="4" owner="Hero.lord_1_kakizaki" culture="Culture.ou" super_faction="Kingdom.ando" banner_key="11.163.166.1528.1528.764.764.1.0.0.769.171.171.483.483.764.764.0.0.0"/>
+	<Faction id="clan_kakizaki_2" is_noble="true" name="{=xy3cU9cP}Kakizaki-shi" tier="4" owner="Hero.lord_2_kakizaki" culture="Culture.ou" super_faction="Kingdom.ando" banner_key="11.163.166.1528.1528.764.764.1.0.0.769.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_tozawa_1" is_noble="true" name="{=4IKyEBDc}Tozawa-shi" tier="3" owner="Hero.lord_1_tozawa" culture="Culture.ou" super_faction="Kingdom.ando" banner_key="11.163.166.1528.1528.764.764.1.0.0.770.171.171.483.483.764.764.0.0.0"/>
 	<!--Nanbu Faction-->
 	<Faction id="clan_nanbu_1" is_noble="true" name="{=c006Hx4r}Nanbu-shi" tier="6" owner="Hero.lord_1_nanbu" culture="Culture.ou" super_faction="Kingdom.nanbu" banner_key="11.163.166.1528.1528.764.764.1.0.0.771.171.171.483.483.764.764.0.0.0"/>

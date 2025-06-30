@@ -2755,7 +2755,7 @@
   </NPCCharacter>
   <!-- Kakizaki Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_kakizaki" name="{=Y4g7oumw}Kakizaki Suehiro" age="61" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_2_kakizaki" name="{=Y4g7oumw}Kakizaki Suehiro" age="61" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="61.00" weight="0.5328" build="0.8781" key="0037C80E80000002887258687BC5682A62675B8A47DE358CC547A7755899CAA80B7D86B209D8C27A000000000000000000000000000000000000000078E400C1"/>
     </face>
@@ -2774,7 +2774,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_kakizaki_1" name="{=AfDpOut5}Kakizaki Awa" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_2_kakizaki_1" name="{=AfDpOut5}Kakizaki Awa" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="48.00" weight="0.1631" build="0.6995" key="000CDC0D800000026F8AAA428AA7E16435A584319377B06A39C5658889AF3C79038A2635081682510000000000000000000000000000000000000000670C4101"/>
     </face>
@@ -2792,7 +2792,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son -->
-  <NPCCharacter id="lord_1_kakizaki_2" name="{=iLroIUcH}Kakizaki Yoshihiro" age="20" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_2_kakizaki_2" name="{=iLroIUcH}Kakizaki Yoshihiro" age="20" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="20.00" weight="0.2048" build="0.2396" key="001CF00E40000383A5686B76CAA6595B71756A684CDA35B8C3394B7538A9CAA80174361407D9A258000000000000000000000000000000000000000072DC00C0"/>
     </face>
@@ -2811,7 +2811,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son Spouse -->
-  <NPCCharacter id="lord_1_kakizaki_3" name="{=hStRHmEI}Kakizaki Mai" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_2_kakizaki_3" name="{=hStRHmEI}Kakizaki Mai" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.0809" build="0.8425" key="0028E80D800000057F8A634055A373E138A485BBEB357A247E9E23768A92A4DA002D1603027251D2000000000000000000000000000000000000000012441081"/>
     </face>
@@ -2829,7 +2829,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son 2 -->
-  <NPCCharacter id="lord_1_kakizaki_4" name="{=GsSSWLlB}Kakizaki Sadahiro" age="16" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_2_kakizaki_4" name="{=GsSSWLlB}Kakizaki Sadahiro" age="16" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="16.00" weight="0.1113" build="0.6563" key="0038E40E8000068187676A889CB6554A72764A5957F84467C22A9B6558999D68026A262406B67349000000000000000000000000000000000000000008CC00C1"/>
     </face>
@@ -2848,7 +2848,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son 3 -->
-  <NPCCharacter id="lord_1_kakizaki_5" name="{=NYdIhl32}Kakizaki Nakahiro" age="7" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_2_kakizaki_5" name="{=NYdIhl32}Kakizaki Nakahiro" age="7" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="7.00" weight="0.1617" build="0.2559" key="003BEC0E400004428563795998C7648CC1658B6578893587C5376CB558998B980274262407CAB35B000000000000000000000000000000000000000014EC00C0"/>
     </face>
@@ -2867,7 +2867,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son 4 -->
-  <NPCCharacter id="lord_1_kakizaki_6" name="{=xxpsHzns}Kakizaki Morihiro" age="4" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_2_kakizaki_6" name="{=xxpsHzns}Kakizaki Morihiro" age="4" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="4.00" weight="0.801" build="0.1661" key="0019E00E400001C3A6747747B8C7632AA365498788AB476AC42BAB7548999AA80372C63507B7B38900000000000000000000000000000000000000001CDC0082"/>
     </face>
@@ -2886,7 +2886,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Daughter -->
-  <NPCCharacter id="lord_1_kakizaki_7" name="{=5cfM2Wsd}Kakizaki Sen" age="15" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_2_kakizaki_7" name="{=5cfM2Wsd}Kakizaki Sen" age="15" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="15.00" weight="0.1396" build="0.5006" key="003EDC0C4000000535886D1828A5E9DEBEA583E793763E6ED59B8377808A165C01182613011622F1000000000000000000000000000000000000000026240080"/>
     </face>
@@ -2904,7 +2904,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Daughter 2 -->
-  <NPCCharacter id="lord_1_kakizaki_8" name="{=xzgrBlXk}Kakizaki Kou" age="11" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_2_kakizaki_8" name="{=xzgrBlXk}Kakizaki Kou" age="11" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="11.00" weight="0.5585" build="0.784" key="0038E40CC0000002898949E8D4E69AE4F5B5836B3D87C62A7D9492458B17BCEB004C860304162853000000000000000000000000000000000000000016942080"/>
     </face>
