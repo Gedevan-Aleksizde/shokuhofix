@@ -939,7 +939,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son -->
-  <NPCCharacter id="lord_1_shimotsuma_2" name="{=ELQ0jKOQ}Shimotsuma Rairyo" age="13" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_shimotsuma_2" name="{=ELQ0jKOQ}Shimotsuma Rairyou" age="13" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="13.00" weight="0.6791" build="0.4756" key="0031D80E40000000A57459695AB6622BC2754A86BBFB38AAD33858754889D8680377A63507B78277000000000000000000000000000000000000000004E40083"/>
     </face>
@@ -1013,7 +1013,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Relative -->
-  <NPCCharacter id="lord_1_shimotsuma_6" name="{=dTVh9niZ}Shimotsuma Raisho" age="52" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_shimotsuma_6" name="{=dTVh9niZ}Shimotsuma Raishou" age="52" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="52.00" weight="0.3209" build="0.4834" key="001ED40E40000000A476857679B75B8AC175794799AB457AD538AA7568A9BB880067560306A8934B00000000000000000000000000000000000000003ECC0000"/>
     </face>
@@ -1106,7 +1106,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Relative 3 -->
-  <NPCCharacter id="lord_1_shimotsuma_11" name="{=xnKhOXA6}Shimotsuma Rairyu" age="16" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_shimotsuma_11" name="{=xnKhOXA6}Shimotsuma Rairyū" age="16" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="16.00" weight="0.4868" build="0.3323" key="0020E00E40000000B5655A2738C5655CB2783A4749DC4899D32A79955889D9780275762407B9736800000000000000000000000000000000000000003CEC0083"/>
     </face>
@@ -3802,7 +3802,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son 2 Spouse -->
-  <NPCCharacter id="lord_2_murakami_5" name="{=RuCWEn4I}Murakami Kyo" age="33" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_2_murakami_5" name="{=RuCWEn4I}Murakami Kyou" age="33" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="33.00" weight="0.3803" build="0.5705" key="0001F00C00000002AF883E16E213D835D7B081C322CE87DE94F4B7E18253378F06196667016305FF000000000000000000000000000000000000000030140001"/>
     </face>

@@ -2705,7 +2705,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_CHUB29" name="{=bMmdlGU7}Kiun Castle" owner="Faction.clan_uchigashima_1" posX="1019.189" posY="761.241" culture="Culture.tosan" gate_posX="1017.847" gate_posY="762.8507">
+  <Settlement id="castle_CHUB29" name="{=bMmdlGU7}Kaerikumo Castle" owner="Faction.clan_uchigashima_1" posX="1019.189" posY="761.241" culture="Culture.tosan" gate_posX="1017.847" gate_posY="762.8507">
     <Components>
       <Town id="castle_comp_CHUB29" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="529"/>
     </Components>
@@ -3504,7 +3504,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_KA8" name="{=LWEAx25N}Otaki Castle" owner="Faction.clan_masaki_1" posX="1408.771" posY="637.597" culture="Culture.kanto" gate_posX="1407.684" gate_posY="639.4655">
+  <Settlement id="castle_KA8" name="{=LWEAx25N}Ōtaki Castle" owner="Faction.clan_masaki_1" posX="1408.771" posY="637.597" culture="Culture.kanto" gate_posX="1407.684" gate_posY="639.4655">
     <Components>
       <Town id="castle_comp_KA8" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="716"/>
     </Components>
@@ -4529,7 +4529,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KIN5_2" name="{=fc4uciRX}Otsu" posX="904.139" posY="610.912" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="village_KIN5_2" name="{=fc4uciRX}Ōtsu" posX="904.139" posY="610.912" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="village_comp_KIN5_2" village_type="VillageType.rice_farm" hearth="200" gate_rotation="0.008" bound="Settlement.town_KIN5" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -4925,7 +4925,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_KIN8" name="{=PKP1FMJk}Akutagawayama Castle" owner="Faction.clan_miyoshi_1" posX="881.303" posY="596.84" culture="Culture.kinai" gate_posX="879.1776" gate_posY="596.4465">
+  <Settlement id="castle_KIN8" name="{=PKP1FMJk}Akutagawasan Castle" owner="Faction.clan_miyoshi_1" posX="881.303" posY="596.84" culture="Culture.kinai" gate_posX="879.1776" gate_posY="596.4465">
     <Components>
       <Town id="castle_comp_KIN8" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="946"/>
     </Components>

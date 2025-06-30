@@ -63,16 +63,16 @@
 	Shimotsuma  Clan-->
 	<Hero id="lord_1_shimotsuma" faction="Faction.clan_shimotsuma_1" spouse="Hero.lord_1_shimotsuma_1" text="{=nO8nbFeD}Shimotsuma Rairen"/>
 	<Hero id="lord_1_shimotsuma_1" faction="Faction.clan_shimotsuma_1" spouse="Hero.lord_1_shimotsuma" text="{=YJnCp2Ng}Shimotsuma Tensho-in"/>
-	<Hero id="lord_1_shimotsuma_2" faction="Faction.clan_shimotsuma_1" father="Hero.lord_1_shimotsuma" mother="Hero.lord_1_shimotsuma_1" text="{=ELQ0jKOQ}Shimotsuma Rairyo"/>
+	<Hero id="lord_1_shimotsuma_2" faction="Faction.clan_shimotsuma_1" father="Hero.lord_1_shimotsuma" mother="Hero.lord_1_shimotsuma_1" text="{=ELQ0jKOQ}Shimotsuma Rairyou"/>
 	<Hero id="lord_1_shimotsuma_3" faction="Faction.clan_shimotsuma_1" father="Hero.lord_1_shimotsuma" mother="Hero.lord_1_shimotsuma_1" text="{=HkWcWG8X}Shimotsuma Munekiyo"/>
 	<Hero id="lord_1_shimotsuma_4" faction="Faction.clan_shimotsuma_1" father="Hero.lord_1_shimotsuma" mother="Hero.lord_1_shimotsuma_1" text="{=6EDf32QW}Shimotsuma Rengoyoku-ni"/>
 	<Hero id="lord_1_shimotsuma_5" faction="Faction.clan_shimotsuma_1" father="Hero.lord_1_shimotsuma" mother="Hero.lord_1_shimotsuma_1" text="{=JkG837Se}Shimotsuma Saiko-ni"/>
-	<Hero id="lord_1_shimotsuma_6" faction="Faction.clan_shimotsuma_1" spouse="Hero.lord_1_shimotsuma_7" text="{=dTVh9niZ}Shimotsuma Raisho"/>
+	<Hero id="lord_1_shimotsuma_6" faction="Faction.clan_shimotsuma_1" spouse="Hero.lord_1_shimotsuma_7" text="{=dTVh9niZ}Shimotsuma Raishou"/>
 	<Hero id="lord_1_shimotsuma_7" faction="Faction.clan_shimotsuma_1" spouse="Hero.lord_1_shimotsuma_6" text="{=uWUgquZb}Shimotsuma Keian-in"/>
 	<Hero id="lord_1_shimotsuma_8" faction="Faction.clan_shimotsuma_1" father="Hero.lord_1_shimotsuma_6" mother="Hero.lord_1_shimotsuma_7" text="{=ttOsDrht}Shimotsuma Nakataka"/>
 	<Hero id="lord_1_shimotsuma_9" faction="Faction.clan_shimotsuma_1" spouse="Hero.lord_1_shimotsuma_10" text="{=v3KNHiGz}Shimotsuma Raitan"/>
 	<Hero id="lord_1_shimotsuma_10" faction="Faction.clan_shimotsuma_1" spouse="Hero.lord_1_shimotsuma_9" text="{=vJhGvDMI}Shimotsuma Koutoku-in"/>
-	<Hero id="lord_1_shimotsuma_11" faction="Faction.clan_shimotsuma_1" text="{=xnKhOXA6}Shimotsuma Rairyu"/>
+	<Hero id="lord_1_shimotsuma_11" faction="Faction.clan_shimotsuma_1" text="{=xnKhOXA6}Shimotsuma Rairyū"/>
 	<!--Shichiri Clan-->
 	<Hero id="lord_1_shichiri" faction="Faction.clan_shichiri_1" spouse="Hero.lord_1_shichiri_1" text="{=Eh5FcIr3}Shichiri Yorichika"/>
 	<Hero id="lord_1_shichiri_1" faction="Faction.clan_shichiri_1" spouse="Hero.lord_1_shichiri" text="{=HBQgU0KK}Shichiri Renmyo-in"/>
@@ -252,7 +252,7 @@
 	<Hero id="lord_2_murakami_2" faction="Faction.clan_murakami_2" spouse="Hero.lord_2_murakami_3" father="Hero.lord_2_murakami" mother="Hero.lord_2_murakami_1" text="{=yGFHfoKI}Murakami Yoshikatsu"/>
 	<Hero id="lord_2_murakami_3" faction="Faction.clan_murakami_2" spouse="Hero.lord_2_murakami_2" text="{=TCUOLBRT}Murakami Sada"/>
 	<Hero id="lord_2_murakami_4" faction="Faction.clan_murakami_2" spouse="Hero.lord_2_murakami_5" father="Hero.lord_2_murakami" mother="Hero.lord_2_murakami_1" text="{=5O1LWXJp}Murakami Yoshiteru"/>
-	<Hero id="lord_2_murakami_5" faction="Faction.clan_murakami_2" spouse="Hero.lord_2_murakami_4" text="{=RuCWEn4I}Murakami Kyo"/>
+	<Hero id="lord_2_murakami_5" faction="Faction.clan_murakami_2" spouse="Hero.lord_2_murakami_4" text="{=RuCWEn4I}Murakami Kyou"/>
 	<Hero id="lord_2_murakami_6" faction="Faction.clan_murakami_2" spouse="Hero.lord_2_murakami_7" father="Hero.lord_2_murakami" mother="Hero.lord_2_murakami_1" text="{=6qygzS4a}Murakami Yoshikuni"/>
 	<Hero id="lord_2_murakami_7" faction="Faction.clan_murakami_2" spouse="Hero.lord_2_murakami_6" text="{=kQx9hdpB}Murakami Tai"/>
 	<Hero id="lord_2_murakami_8" faction="Faction.clan_murakami_2" spouse="Hero.lord_2_murakami_9" father="Hero.lord_2_murakami" mother="Hero.lord_2_murakami_1" text="{=H9SHda0i}Murakami Kunikiyo"/>
@@ -281,7 +281,7 @@
 	<Hero id="lord_1_takeda" faction="Faction.clan_takeda_1" spouse="Hero.lord_1_takeda_1" father="Hero.dead_lord_1_takeda_2" mother="Hero.dead_lord_1_takeda_3" text="{=CmHdCNgW}Takeda Shingen"/>
 	<Hero id="lord_1_takeda_1" faction="Faction.clan_takeda_1" spouse="Hero.lord_1_takeda" text="{=4i6fDyD8}Takeda Sanjo-no-kata"/>
 	<Hero id="dead_lord_1_takeda_2" alive="false" faction="Faction.clan_takeda_1" spouse="Hero.dead_lord_1_takeda_3" text="{=zKMW1v8g}takeda Nobutora"/>
-	<Hero id="dead_lord_1_takeda_3" alive="false" faction="Faction.clan_takeda_1" spouse="Hero.dead_lord_1_takeda_2" text="{=Jc58jQNn}takeda Oi"/>
+	<Hero id="dead_lord_1_takeda_3" alive="false" faction="Faction.clan_takeda_1" spouse="Hero.dead_lord_1_takeda_2" text="{=Jc58jQNn}Takeda Oi"/>
 	<Hero id="lord_1_takeda_4" faction="Faction.clan_takeda_1" father="Hero.lord_1_takeda" mother="Hero.lord_1_takeda_1" text="{=86eH8vEV}Takeda Katsuyori"/>
 	<Hero id="lord_1_takeda_5" faction="Faction.clan_takeda_1" father="Hero.lord_1_takeda" mother="Hero.lord_1_takeda_1" text="{=v3Z4a3yT}Takeda Nobukiyo"/>
 	<Hero id="lord_1_takeda_6" faction="Faction.clan_takeda_1" father="Hero.lord_1_takeda" mother="Hero.lord_1_takeda_1" text="{=DaR7ks4O}Takeda Mari"/>
