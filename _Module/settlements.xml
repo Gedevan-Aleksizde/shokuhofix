@@ -9540,7 +9540,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_TOHO29_1" name="{=QZ9ZAS3I}Joho-ji" posX="1505.765" posY="1266.918" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_TOHO29_1" name="{=QZ9ZAS3I}Jouhou-ji" posX="1505.765" posY="1266.918" culture="Culture.ou" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_TOHO29_1" village_type="VillageType.logger" hearth="200" gate_rotation="0.008" bound="Settlement.castle_TOHO29" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
