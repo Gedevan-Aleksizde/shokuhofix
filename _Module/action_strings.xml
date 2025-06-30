@@ -56,7 +56,7 @@
   <!--placeholder-->
   <string id="str_defend_from_assault_news" text="{=Cae69FRp}{SETTLEMENT} is being defended by {PARTY}." />
   <!--placeholder-->
-  <string id="str_add_contraband_news" text="{=!}Trading of {ITEM} is forbidden by the {FACTION_NAME_1}." />
+  <string id="str_add_contraband_news" text="{=K7VXY1Wi}Trading of {ITEM} is forbidden by the {FACTION_NAME_1}." />
   <string id="str_responsible_of_death_news" text="{=ZQ0bn7l7}{HERO_1} is responsible for the death of {HERO_2}" />
   <string id="str_responsible_of_death_link_news" text="{=Jo3Lux3w}{HERO_1.LINK} is responsible for the death of {HERO_2.LINK}" />
   <string id="str_murdered_news" text="{=AQK4ADS5}{HERO_1.LINK} murdered {HERO_2.LINK}" />

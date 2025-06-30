@@ -184,15 +184,15 @@
 	<Hero id="lord_1_asari_2" faction="Faction.clan_asari_1" father="Hero.lord_1_asari" mother="Hero.lord_1_asari_1" text="{=EhjiWov4}Asari Yorihira"/>
 	<Hero id="lord_1_asari_3" faction="Faction.clan_asari_1" father="Hero.lord_1_asari" mother="Hero.lord_1_asari_1" text="{=J4YAWqUc}Asari Yorihirio"/>
 	<!--Kakizaki Clan-->
-	<Hero id="lord_1_kakizaki" faction="Faction.clan_kakizaki_1" spouse="Hero.lord_1_kakizaki_1" text="{=Y4g7oumw}Kakizaki Suehiro"/>
-	<Hero id="lord_1_kakizaki_1" faction="Faction.clan_kakizaki_1" spouse="Hero.lord_1_kakizaki" text="{=AfDpOut5}Kakizaki Awa"/>
-	<Hero id="lord_1_kakizaki_2" faction="Faction.clan_kakizaki_1" spouse="Hero.lord_1_kakizaki_3" father="Hero.lord_1_kakizaki" mother="Hero.lord_1_kakizaki_1" text="{=iLroIUcH}Kakizaki Yoshihiro"/>
-	<Hero id="lord_1_kakizaki_3" faction="Faction.clan_kakizaki_1" spouse="Hero.lord_1_kakizaki_2" text="{=hStRHmEI}Kakizaki Mai"/>
-	<Hero id="lord_1_kakizaki_4" faction="Faction.clan_kakizaki_1" father="Hero.lord_1_kakizaki" mother="Hero.lord_1_kakizaki_1" text="{=GsSSWLlB}Kakizaki Sadahiro"/>
-	<Hero id="lord_1_kakizaki_5" faction="Faction.clan_kakizaki_1" father="Hero.lord_1_kakizaki" mother="Hero.lord_1_kakizaki_1" text="{=NYdIhl32}Kakizaki Nakahiro"/>
-	<Hero id="lord_1_kakizaki_6" faction="Faction.clan_kakizaki_1" father="Hero.lord_1_kakizaki" mother="Hero.lord_1_kakizaki_1" text="{=xxpsHzns}Kakizaki Morihiro"/>
-	<Hero id="lord_1_kakizaki_7" faction="Faction.clan_kakizaki_1" father="Hero.lord_1_kakizaki" mother="Hero.lord_1_kakizaki_1" text="{=5cfM2Wsd}Kakizaki Sen"/>
-	<Hero id="lord_1_kakizaki_8" faction="Faction.clan_kakizaki_1" father="Hero.lord_1_kakizaki" mother="Hero.lord_1_kakizaki_1" text="{=xzgrBlXk}Kakizaki Kou"/>
+	<Hero id="lord_2_kakizaki" faction="Faction.clan_kakizaki_2" spouse="Hero.lord_2_kakizaki_1" text="{=Y4g7oumw}Kakizaki Suehiro"/>
+	<Hero id="lord_2_kakizaki_1" faction="Faction.clan_kakizaki_2" spouse="Hero.lord_2_kakizaki" text="{=AfDpOut5}Kakizaki Awa"/>
+	<Hero id="lord_2_kakizaki_2" faction="Faction.clan_kakizaki_2" spouse="Hero.lord_2_kakizaki_3" father="Hero.lord_2_kakizaki" mother="Hero.lord_2_kakizaki_1" text="{=iLroIUcH}Kakizaki Yoshihiro"/>
+	<Hero id="lord_2_kakizaki_3" faction="Faction.clan_kakizaki_2" spouse="Hero.lord_2_kakizaki_2" text="{=hStRHmEI}Kakizaki Mai"/>
+	<Hero id="lord_2_kakizaki_4" faction="Faction.clan_kakizaki_2" father="Hero.lord_2_kakizaki" mother="Hero.lord_2_kakizaki_1" text="{=GsSSWLlB}Kakizaki Sadahiro"/>
+	<Hero id="lord_2_kakizaki_5" faction="Faction.clan_kakizaki_2" father="Hero.lord_2_kakizaki" mother="Hero.lord_2_kakizaki_1" text="{=NYdIhl32}Kakizaki Nakahiro"/>
+	<Hero id="lord_2_kakizaki_6" faction="Faction.clan_kakizaki_2" father="Hero.lord_2_kakizaki" mother="Hero.lord_2_kakizaki_1" text="{=xxpsHzns}Kakizaki Morihiro"/>
+	<Hero id="lord_2_kakizaki_7" faction="Faction.clan_kakizaki_2" father="Hero.lord_2_kakizaki" mother="Hero.lord_2_kakizaki_1" text="{=5cfM2Wsd}Kakizaki Sen"/>
+	<Hero id="lord_2_kakizaki_8" faction="Faction.clan_kakizaki_2" father="Hero.lord_2_kakizaki" mother="Hero.lord_2_kakizaki_1" text="{=xzgrBlXk}Kakizaki Kou"/>
 	<!--Tozawa Clan-->
 	<Hero id="lord_1_tozawa" faction="Faction.clan_tozawa_1" spouse="Hero.lord_1_tozawa_1" text="{=kmuEpByR}Tozawa Michimori"/>
 	<Hero id="lord_1_tozawa_1" faction="Faction.clan_tozawa_1" spouse="Hero.lord_1_tozawa" text="{=ZPBJZyhY}Tozawa Kiku"/>

@@ -52,10 +52,10 @@
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
-    <Item id="meat" name="{=H6TrZaRm}Meat{@Plural}loads of fish{\@}" mesh="sho_goods_meat" item_category="sho_meat" IsFood="true" value="30" weight="10" Type="Goods">
+    <Item id="meat" name="{=LmwhFv5p}Meat{@Plural}loads of meat{\@}" mesh="sho_goods_meat" item_category="sho_meat" IsFood="true" value="30" weight="10" Type="Goods">
         <Flags Civilian="true"/>
     </Item>
-    <Item id="fish" name="{=ZAiLGtYb}Fish{@Plural}loads of fish{\@}" mesh="sho_tuna" item_category="sho_fish" IsFood="true" value="15" weight="10" Type="Goods">
+    <Item id="fish" name="{=QGaIYQpg}Fish{@Plural}barrels of fish{\@}" mesh="sho_tuna" item_category="sho_fish" IsFood="true" value="15" weight="10" Type="Goods">
         <ItemComponent>
             <Trade morale_bonus="1"/>
         </ItemComponent>
@@ -78,49 +78,49 @@
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
-    <Item id="seaweed" name="{=yx6BE9Ga}Seaweed" mesh="crate_a" item_category="sho_seaweed" value="20" IsFood="true" weight="10" Type="Goods">
+    <Item id="seaweed" name="{=yx6BE9Ga}Seaweed{@Plural}wraps of Seaweed{\@}" mesh="crate_a" item_category="sho_seaweed" value="20" IsFood="true" weight="10" Type="Goods">
         <ItemComponent>
             <Trade morale_bonus="1"/>
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
-    <Item id="tea_leaves" name="{=D1Jo4o5e}Tea Leaves" mesh="crate_a" item_category="sho_tea_leaves" value="30" weight="10" Type="Goods">
+    <Item id="tea_leaves" name="{=D1Jo4o5e}Tea Leaves{@Plural}bundles of Tea Leaves{\@}" mesh="crate_a" item_category="sho_tea_leaves" value="30" weight="10" Type="Goods">
         <Flags Civilian="true"/>
     </Item>
-    <Item id="gold" name="{=9X2l53vY}Gold{@Plural}loads of gold{\@}" mesh="sho_gold_ingot" item_category="sho_gold" value="100" weight="10" Type="Goods">
+    <Item id="gold" name="{=zVxYny6o}Gold{@Plural}loads of gold{\@}" mesh="sho_gold_ingot" item_category="sho_gold" value="100" weight="10" Type="Goods">
         <Flags Civilian="true"/>
     </Item>
-    <Item id="silver" name="{=9X2l53vY}Silver{@Plural}loads of silver{\@}" mesh="sho_silver_ingot" item_category="sho_silver" value="80" weight="10" Type="Goods">
+    <Item id="silver" name="{=GrZDgUxn}Silver{@Plural}loads of silver{\@}" mesh="sho_silver_ingot" item_category="sho_silver" value="80" weight="10" Type="Goods">
         <Flags Civilian="true"/>
     </Item>
-    <Item id="copper" name="{=p5hMwovx}Copper" mesh="sho_copper_ingot" item_category="sho_copper" value="60" weight="10" Type="Goods">
+    <Item id="copper" name="{=p5hMwovx}Copper{@Plural}loads of copper{\@}" mesh="sho_copper_ingot" item_category="sho_copper" value="60" weight="10" Type="Goods">
         <Flags Civilian="true"/>
     </Item>
     <Item id="salt" name="{=IK2IPJi1}Salt{@Plural}sacks of salt{\@}" mesh="merchandise_salt" item_category="sho_salt" value="40" weight="10" Type="Goods">
         <Flags Civilian="true"/>
     </Item>
-    <Item id="cotton" name="{=Vqu67a3b}Raw Cotton{@Plural}bundles of cotton{\@}" mesh="merchandise_raw_silk" item_category="sho_cotton" value="50" weight="10" Type="Goods">
+    <Item id="cotton" name="{=HwA94EF2}Raw Cotton{@Plural}bundles of cotton{\@}" mesh="merchandise_raw_silk" item_category="sho_cotton" value="50" weight="10" Type="Goods">
         <Flags Civilian="true"/>
     </Item>    
     <Item id="silk" name="{=Vqu67a3b}Raw Silk{@Plural}bundles of raw silk{\@}" mesh="merchandise_raw_silk" item_category="sho_silk" value="70" weight="10" Type="Goods">
         <Flags Civilian="true"/>
     </Item>
-    <Item id="hides" name="{=ADJBbfbQ}Hide{@Plural}packs of hides{\@}" mesh="hung_fur_b" item_category="sho_fur" value="80" weight="10" Type="Goods">
+    <Item id="hides" name="{=r1cUMuSQ}Hide{@Plural}packs of hides{\@}" mesh="hung_fur_b" item_category="sho_fur" value="80" weight="10" Type="Goods">
         <Flags Civilian="true"/>
     </Item>   
-    <Item id="stone" name="{=ADJBbfbQ}Stone{@Plural}loads of stone{\@}" mesh="sho_goods_rock_1" item_category="sho_stone" value="18" weight="10" Type="Goods">
+    <Item id="stone" name="{=e1Q8zRs1}Stone{@Plural}loads of stone{\@}" mesh="sho_goods_rock_1" item_category="sho_stone" value="18" weight="10" Type="Goods">
         <Flags Civilian="true"/>
     </Item>
-    <Item id="sulfur" name="{=ADJBbfbQ}Sulfur{@Plural}loads of sulfur{\@}" mesh="crate_a" item_category="sho_sulfur" value="60" weight="10" Type="Goods">
+    <Item id="sulfur" name="{=Rl42WnTL}Sulfur{@Plural}loads of sulfur{\@}" mesh="crate_a" item_category="sho_sulfur" value="60" weight="10" Type="Goods">
         <Flags Civilian="true"/>
     </Item>
     <Item id="clay" name="{=Zwb65ufG}Clay{@Plural}loads of clay{\@}" mesh="merchandise_clay" item_category="sho_clay" value="18" weight="10" Type="Goods">
         <Flags Civilian="true"/>
     </Item>
-    <Item id="lacquer" name="{=Zwb65ufG}Lacquer{@Plural}loads of lacquer{\@}" mesh="crate_a" item_category="sho_lacquer" value="20" weight="10" Type="Goods">
+    <Item id="lacquer" name="{=sGk6gVe1}Lacquer{@Plural}loads of lacquer{\@}" mesh="crate_a" item_category="sho_lacquer" value="20" weight="10" Type="Goods">
         <Flags Civilian="true"/>
     </Item>
-    <Item id="dye" name="{=Zwb65ufG}Dye{@Plural}loads of Dye{\@}" mesh="sho_goods_dye_blue" item_category="sho_dye" value="60" weight="10" Type="Goods">
+    <Item id="dye" name="{=1jQdEqC6}Dye{@Plural}loads of Dye{\@}" mesh="sho_goods_dye_blue" item_category="sho_dye" value="60" weight="10" Type="Goods">
         <Flags Civilian="true"/>
     </Item>
     <Item id="hardwood" name="{=ExjMoUiT}Hardwood{@Plural}Hardwood logs{\@}" mesh="hardwood" item_category="sho_wood" value="25" weight="10" Type="Goods">
@@ -174,7 +174,7 @@
     <Item id="jewelry" name="{=yQTBY9ie}Jewelry{@Plural}items of jewelry{\@}" mesh="bd_sturgia_statue" item_category="sho_jewelry" value="600" weight="10" Type="Goods">
         <Flags Civilian="true"/>
     </Item>
-    <Item id="candle" name="{=yQTBY9ie}Candle{@Plural}loads of candles{\@}" mesh="crate_a" item_category="sho_candle" value="300" weight="10" Type="Goods">
+    <Item id="candle" name="{=3fz2Vwcf}Candle{@Plural}loads of candles{\@}" mesh="crate_a" item_category="sho_candle" value="300" weight="10" Type="Goods">
         <Flags Civilian="true"/>
     </Item>
 

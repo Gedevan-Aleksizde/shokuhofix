@@ -56,6 +56,7 @@
     <string id="str_faction_ruler.tokai" text="{=tRwThwR8}Daimyou"/>
     <string id="str_faction_ruler.kanto" text="{=tRwThwR8}Daimyou"/>
     <string id="str_faction_ruler.ou" text="{=tRwThwR8}Daimyou"/>
+
     <string id="str_faction_official.saikai" text="{=tRwThwR8}Daimyou"/>
     <string id="str_faction_official.nankai" text="{=tRwThwR8}Daimyou"/>
     <string id="str_faction_official.sanyo" text="{=tRwThwR8}Daimyou"/>
@@ -65,70 +66,75 @@
     <string id="str_faction_official.tokai" text="{=tRwThwR8}Daimyou"/>
     <string id="str_faction_official.kanto" text="{=tRwThwR8}Daimyou"/>
     <string id="str_faction_official.ou" text="{=tRwThwR8}Daimyou"/>
-    <string id="str_faction_ruler_name_with_title.saikai" text="{=tRwThwR8}Daimyou {RULER.NAME}"/>
-    <string id="str_faction_noble_name_with_title.saikai" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
-    <string id="str_faction_ruler_name_with_title.nankai" text="{=tRwThwR8}Daimyou {RULER.NAME}"/>
-    <string id="str_faction_noble_name_with_title.nankai" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
-    <string id="str_faction_ruler_name_with_title.sanyo" text="{=tRwThwR8}Daimyou {RULER.NAME}"/>
-    <string id="str_faction_noble_name_with_title.sanyo" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
-    <string id="str_faction_ruler_name_with_title.kinai" text="{=tRwThwR8}Daimyou {RULER.NAME}"/>
-    <string id="str_faction_noble_name_with_title.kinai" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
-    <string id="str_faction_ruler_name_with_title.hokuriku" text="{=tRwThwR8}Daimyou {RULER.NAME}"/>
-    <string id="str_faction_noble_name_with_title.hokuriku" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
-    <string id="str_faction_ruler_name_with_title.tosan" text="{=tRwThwR8}Daimyou {RULER.NAME}"/>
-    <string id="str_faction_noble_name_with_title.tosan" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
-    <string id="str_faction_ruler_name_with_title.tokai" text="{=tRwThwR8}Daimyou {RULER.NAME}"/>
-    <string id="str_faction_noble_name_with_title.tokai" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
-    <string id="str_faction_ruler_name_with_title.kanto" text="{=tRwThwR8}Daimyou {RULER.NAME}"/>
-    <string id="str_faction_noble_name_with_title.kanto" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
-    <string id="str_faction_ruler_name_with_title.ou" text="{=tRwThwR8}Daimyou {RULER.NAME}"/>
-    <string id="str_faction_noble_name_with_title.ou" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
-    <string id="str_faction_informal_name_for_culture.saikai" text="{=KznUzEjy}the Saikai"/>
-    <string id="str_faction_informal_name_for_culture.nankai" text="{=k7visbnX}the Nankai"/>
-    <string id="str_faction_informal_name_for_culture.sanyo" text="{=9TCedFd1}the San'you"/>
-    <string id="str_faction_informal_name_for_culture.kinai" text="{=A3gpkcGa}the Kinai"/>
-    <string id="str_faction_informal_name_for_culture.hokuriku" text="{=ueigSlGB}the Hokuriku"/>
-    <string id="str_faction_informal_name_for_culture.tosan" text="{=zye2jYMq}the Tousan"/>
-    <string id="str_faction_informal_name_for_culture.tokai" text="{=o7hkU91y}the Toukai"/>
-    <string id="str_faction_informal_name_for_culture.kanto" text="{=B5bKE7Q1}the Kantou"/>
-    <string id="str_faction_informal_name_for_culture.ou" text="{=29h82Jh6}the Ouu"/>
-    <string id="str_neutral_term_for_culture.saikai" text="{=3Wf8Wiuc}Saikai"/>
-    <string id="str_neutral_term_for_culture.nankai" text="{=mJR7iyKD}Nankai"/>
-    <string id="str_neutral_term_for_culture.sanyo" text="{=LiAaSgTz}San'you"/>
-    <string id="str_neutral_term_for_culture.kinai" text="{=zLq9CzcD}Kinai"/>
-    <string id="str_neutral_term_for_culture.hokuriku" text="{=un53UjDH}Hokuriku"/>
-    <string id="str_neutral_term_for_culture.tosan" text="{=uiTYolCZ}Tousan"/>
-    <string id="str_neutral_term_for_culture.tokai" text="{=qfHVWUlQ}Toukai"/>
-    <string id="str_neutral_term_for_culture.kanto" text="{=K6sg7GNj}Kantou"/>
-    <string id="str_neutral_term_for_culture.ou" text="{=MigIA2T0}Ouu"/>
-    <string id="str_adjective_for_culture.saikai" text="Saikai"/>
-    <string id="str_adjective_for_culture.nankai" text="Nankai"/>
-    <string id="str_adjective_for_culture.sanyo" text="{San'you"/>
-    <string id="str_adjective_for_culture.kinai" text="{Kinai"/>
-    <string id="str_adjective_for_culture.hokuriku" text="Hokuriku"/>
-    <string id="str_adjective_for_culture.tosan" text="Tousan"/>
-    <string id="str_adjective_for_culture.tokai" text="Toukai"/>
-    <string id="str_adjective_for_culture.kanto" text="Kantou"/>
-    <string id="str_adjective_for_culture.ou" text="Ouu"/>
-    <string id="str_faction_official.saikai" text="{=A8YrI6XH}a lord"/>
-    <string id="str_faction_official.saikai_f" text="{=A8YrI6XH}a lord"/>
-    <string id="str_faction_official.nankai" text="{=A8YrI6XH}a lord"/>
-    <string id="str_faction_official.nankai_f" text="{=A8YrI6XH}a lord"/>
-    <string id="str_faction_official.sanyo" text="{=A8YrI6XH}a lord"/>
-    <string id="str_faction_official.sanyo_f" text="{=A8YrI6XH}a lord"/>
-    <string id="str_faction_official.kinai" text="{=A8YrI6XH}a lord"/>
-    <string id="str_faction_official.kinai_f" text="{=A8YrI6XH}a lord"/>
-    <string id="str_faction_official.hokuriku" text="{=A8YrI6XH}a lord"/>
-    <string id="str_faction_official.hokuriku_f" text="{=A8YrI6XH}a lord"/>
-    <string id="str_faction_official.tosan" text="{=A8YrI6XH}a lord"/>
-    <string id="str_faction_official.tosan_f" text="{=A8YrI6XH}a lord"/>
-    <string id="str_faction_official.tokai" text="{=A8YrI6XH}a lord"/>
-    <string id="str_faction_official.tokai_f" text="{=A8YrI6XH}a lord"/>
-    <string id="str_faction_official.kanto" text="{=A8YrI6XH}a lord"/>
-    <string id="str_faction_official.kanto_f" text="{=A8YrI6XH}a lord"/>
-    <string id="str_faction_official.ou" text="{=A8YrI6XH}a lord"/>
-    <string id="str_faction_official.ou_f" text="{=A8YrI6XH}a lord"/>
-    <string id="str_culture_description.saikai" text="{=BTSZWScx}The Saikai people hail from the westernmost region of Japan, encompassing the island of Kyushu, which is closer to the Asian mainland than the shogunal capital and its power struggles. Thanks to their unique position, the Saikai have grown into expert seafarers and merchants with longstanding trade relations with China and Korea, and most recently with the newly come nanban foreigners who provide the Saikai with easier access to Western firearms. Yet not all the Saikai embrace trade as their call, as many take to the sea as pirates to plunder the rich trade routes, while the local lords battle to preserve their autonomy from any central authority."/>
+
+	<string id="str_faction_ruler_name_with_title.saikai" text="{=n6nnkLxo}Daimyou {RULER.NAME}"/>
+	<string id="str_faction_noble_name_with_title.saikai" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
+	<string id="str_faction_ruler_name_with_title.nankai" text="{=n6nnkLxo}Daimyou {RULER.NAME}"/>
+	<string id="str_faction_noble_name_with_title.nankai" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
+	<string id="str_faction_ruler_name_with_title.sanyo" text="{=n6nnkLxo}Daimyou {RULER.NAME}"/>
+	<string id="str_faction_noble_name_with_title.sanyo" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
+	<string id="str_faction_ruler_name_with_title.kinai" text="{=n6nnkLxo}Daimyou {RULER.NAME}"/>
+	<string id="str_faction_noble_name_with_title.kinai" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
+	<string id="str_faction_ruler_name_with_title.hokuriku" text="{=n6nnkLxo}Daimyou {RULER.NAME}"/>
+	<string id="str_faction_noble_name_with_title.hokuriku" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
+	<string id="str_faction_ruler_name_with_title.tosan" text="{=n6nnkLxo}Daimyou {RULER.NAME}"/>
+	<string id="str_faction_noble_name_with_title.tosan" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
+	<string id="str_faction_ruler_name_with_title.tokai" text="{=n6nnkLxo}Daimyou {RULER.NAME}"/>
+	<string id="str_faction_noble_name_with_title.tokai" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
+	<string id="str_faction_ruler_name_with_title.kanto" text="{=n6nnkLxo}Daimyou {RULER.NAME}"/>
+	<string id="str_faction_noble_name_with_title.kanto" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
+	<string id="str_faction_ruler_name_with_title.ou" text="{=n6nnkLxo}Daimyou {RULER.NAME}"/>
+	<string id="str_faction_noble_name_with_title.ou" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
+
+	<string id="str_faction_informal_name_for_culture.saikai" text="{=KznUzEjy}the Saikai"/>
+	<string id="str_faction_informal_name_for_culture.nankai" text="{=k7visbnX}the Nankai"/>
+	<string id="str_faction_informal_name_for_culture.sanyo" text="{=9TCedFd1}the San'you"/>
+	<string id="str_faction_informal_name_for_culture.kinai" text="{=A3gpkcGa}the Kinai"/>
+	<string id="str_faction_informal_name_for_culture.hokuriku" text="{=ueigSlGB}the Hokuriku"/>
+	<string id="str_faction_informal_name_for_culture.tosan" text="{=zye2jYMq}the Tousan"/>
+	<string id="str_faction_informal_name_for_culture.tokai" text="{=o7hkU91y}the Toukai"/>
+	<string id="str_faction_informal_name_for_culture.kanto" text="{=B5bKE7Q1}the Kantou"/>
+	<string id="str_faction_informal_name_for_culture.ou" text="{=29h82Jh6}the Ouu"/>
+	<string id="str_neutral_term_for_culture.saikai" text="{=3Wf8Wiuc}Saikai"/>
+	<string id="str_neutral_term_for_culture.nankai" text="{=mJR7iyKD}Nankai"/>
+	<string id="str_neutral_term_for_culture.sanyo" text="{=LiAaSgTz}San'you"/>
+	<string id="str_neutral_term_for_culture.kinai" text="{=zLq9CzcD}Kinai"/>
+	<string id="str_neutral_term_for_culture.hokuriku" text="{=un53UjDH}Hokuriku"/>
+	<string id="str_neutral_term_for_culture.tosan" text="{=uiTYolCZ}Tousan"/>
+	<string id="str_neutral_term_for_culture.tokai" text="{=qfHVWUlQ}Toukai"/>
+	<string id="str_neutral_term_for_culture.kanto" text="{=K6sg7GNj}Kantou"/>
+	<string id="str_neutral_term_for_culture.ou" text="{=MigIA2T0}Ouu"/>
+
+	<string id="str_adjective_for_culture.saikai" text="{=3Wf8Wiuc}Saikai"/>
+	<string id="str_adjective_for_culture.nankai" text="{=mJR7iyKD}Nankai"/>
+	<string id="str_adjective_for_culture.sanyo" text="{=LiAaSgTz}San'you"/>
+	<string id="str_adjective_for_culture.kinai" text="{=zLq9CzcD}Kinai"/>
+	<string id="str_adjective_for_culture.hokuriku" text="{=un53UjDH}Hokuriku"/>
+	<string id="str_adjective_for_culture.tosan" text="{=uiTYolCZ}Tousan"/>
+	<string id="str_adjective_for_culture.tokai" text="{=qfHVWUlQ}Toukai"/>
+	<string id="str_adjective_for_culture.kanto" text="{=K6sg7GNj}Kantou"/>
+	<string id="str_adjective_for_culture.ou" text="{=MigIA2T0}Ouu"/>
+
+	<string id="str_faction_official.saikai" text="{=A8YrI6XH}a lord"/>
+	<string id="str_faction_official.saikai_f" text="{=A8YrI6XH}a lord"/>
+	<string id="str_faction_official.nankai" text="{=A8YrI6XH}a lord"/>
+	<string id="str_faction_official.nankai_f" text="{=A8YrI6XH}a lord"/>
+	<string id="str_faction_official.sanyo" text="{=A8YrI6XH}a lord"/>
+	<string id="str_faction_official.sanyo_f" text="{=A8YrI6XH}a lord"/>
+	<string id="str_faction_official.kinai" text="{=A8YrI6XH}a lord"/>
+	<string id="str_faction_official.kinai_f" text="{=A8YrI6XH}a lord"/>
+	<string id="str_faction_official.hokuriku" text="{=A8YrI6XH}a lord"/>
+	<string id="str_faction_official.hokuriku_f" text="{=A8YrI6XH}a lord"/>
+	<string id="str_faction_official.tosan" text="{=A8YrI6XH}a lord"/>
+	<string id="str_faction_official.tosan_f" text="{=A8YrI6XH}a lord"/>
+	<string id="str_faction_official.tokai" text="{=A8YrI6XH}a lord"/>
+	<string id="str_faction_official.tokai_f" text="{=A8YrI6XH}a lord"/>
+	<string id="str_faction_official.kanto" text="{=A8YrI6XH}a lord"/>
+	<string id="str_faction_official.kanto_f" text="{=A8YrI6XH}a lord"/>
+	<string id="str_faction_official.ou" text="{=A8YrI6XH}a lord"/>
+	<string id="str_faction_official.ou_f" text="{=A8YrI6XH}a lord"/>
+
+	<string id="str_culture_description.saikai" text="{=BTSZWScx}The Saikai people hail from the westernmost region of Japan, encompassing the island of Kyushu, which is closer to the Asian mainland than the shogunal capital and its power struggles. Thanks to their unique position, the Saikai have grown into expert seafarers and merchants with longstanding trade relations with China and Korea, and most recently with the newly come nanban foreigners who provide the Saikai with easier access to Western firearms. Yet not all the Saikai embrace trade as their call, as many take to the sea as pirates to plunder the rich trade routes, while the local lords battle to preserve their autonomy from any central authority."/>
     <string id="str_faction_formal_name_for_culture.saikai" text="{=3Wf8Wiuc}Saikai"/>
     <string id="str_culture_rich_name.saikai" text="{=3Wf8Wiuc}Saikai"/>
     <string id="str_culture_description.nankai" text="{=Da97C2Ky}The Nankai people dwell on the mountainous islands of Awaji and Shikoku. Despite being skilled seafarers, the Nankai have developed a strong identity and deep attachment to their homeland which they cultivate with dedication and reverence yielding much more than the average harvest. On the other hand, Nankai have grown isolated and suspicious of the denizens of the other regions, leading them to focus more on the defense of their hometowns and their people."/>
