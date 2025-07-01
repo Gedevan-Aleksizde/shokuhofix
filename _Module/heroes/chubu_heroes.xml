@@ -326,7 +326,7 @@
 	<Hero id="lord_1_nishina" faction="Faction.clan_nishina_1" father="Hero.dead_lord_1_nishina_1" mother="Hero.lord_1_nishina_2" text="{=CGW3d2m1}Nishina Morinobu"/>
 	<Hero id="dead_lord_1_nishina_1" alive="false" faction="Faction.clan_nishina_1" spouse="Hero.lord_1_nishina_2" text="{=pMatiznR}Nishina Morimasa"/>
 	<!--can they be married to a dead guy? might need to remove-->
-	<Hero id="lord_1_nishina_2" faction="Faction.clan_nishina_1" spouse="Hero.dead_lord_1_nishina_1" text="{=p5ZVom76}Nishina Sekisho-in"/>
+	<Hero id="lord_1_nishina_2" faction="Faction.clan_nishina_1" spouse="Hero.dead_lord_1_nishina_1" text="{=p5ZVom76}Nishina Sekishou-in"/>
 	<Hero id="lord_1_nishina_3" faction="Faction.clan_nishina_1" father="Hero.dead_lord_1_nishina_1" mother="Hero.lord_1_nishina_2" text="{=NxcRsCiG}Nishina Moritaka"/>
 	<Hero id="lord_1_nishina_4" faction="Faction.clan_nishina_1" father="Hero.dead_lord_1_nishina_1" mother="Hero.lord_1_nishina_2" text="{=NMWHcNzI}Nishina Morikiyo"/>
 	<!--Oyamada Clan-->
@@ -335,7 +335,7 @@
 	<Hero id="lord_1_oyamada_2" faction="Faction.clan_oyamada_1" father="Hero.lord_1_oyamada" mother="Hero.lord_1_oyamada_1" text="{=g45BojcX}Oyamada Nobutsuna"/>
 	<Hero id="lord_1_oyamada_3" faction="Faction.clan_oyamada_1" father="Hero.lord_1_oyamada" mother="Hero.lord_1_oyamada_1" text="{=zF6jIhMK}Oyamada Harusuke"/>
 	<!--Anayama Clan-->
-	<Hero id="lord_1_anayama" faction="Faction.clan_anayama_1" spouse="Hero.lord_1_anayama_1" text="{=diLqkUYp}Oyamada Nobutada"/>
+	<Hero id="lord_1_anayama" faction="Faction.clan_anayama_1" spouse="Hero.lord_1_anayama_1" text=""/>
 	<Hero id="lord_1_anayama_1" faction="Faction.clan_anayama_1" spouse="Hero.lord_1_anayama" text="{=LkcZ0r5Y}Oyamada Fuchi"/>
 	<!--Yamagata Clan-->
 	<Hero id="lord_1_yamagata" faction="Faction.clan_yamagata_1" spouse="Hero.lord_1_yamagata_1" text="{=foSkGqkk}Yamagata Masakage"/>

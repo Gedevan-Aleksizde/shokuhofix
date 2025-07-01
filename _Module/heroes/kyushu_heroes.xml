@@ -252,7 +252,7 @@
 	<Hero id="lord_1_ijuin_11" faction="Faction.clan_ijuin_1" spouse="Hero.lord_1_ijuin_10" text="{=j5q1b0ZO}Ijūin Murasaki"/>
 	<!--Clan Hongou 6 ids-->
 	<Hero id="lord_1_hongo" faction="Faction.clan_hongo_1" spouse="Hero.lord_1_hongo_1" father="Hero.lord_1_hongo_4" mother="Hero.lord_1_hongo_5" text="{=a7Bus3qz}Hongou Tokihisa"/>
-	<Hero id="lord_1_hongo_1" faction="Faction.clan_hongo_1" spouse="Hero.lord_1_hongo" text="{=YBDz0cMr}Hongou Higiri"/>
+	<Hero id="lord_1_hongo_1" faction="Faction.clan_hongo_1" spouse="Hero.lord_1_hongo" text="{=YBDz0cMr}Hongou Hijiri"/>
 	<Hero id="lord_1_hongo_2" faction="Faction.clan_hongo_1" father="Hero.lord_1_hongo" mother="Hero.lord_1_hongo_1" text="{=SpjpkISo}Hongou Sukehisa"/>
 	<Hero id="lord_1_hongo_3" faction="Faction.clan_hongo_1" father="Hero.lord_1_hongo" mother="Hero.lord_1_hongo_1" text="{=jp7XzhCN}Hongou Tadatora"/>
 	<Hero id="lord_1_hongo_4" faction="Faction.clan_hongo_1" spouse="Hero.lord_1_hongo_5" text="{=9j0CtAEy}Hongou Tadachika"/>
@@ -265,7 +265,7 @@
 	<Hero id="lord_1_kimotsuki_4" faction="Faction.clan_kimotsuki_1" father="Hero.dead_lord_1_kimotsuki_1" mother="Hero.lord_1_kimotsuki_6" text="{=Z7OeNcGK}Kimotsuki Kanesuke"/>
 	<Hero id="lord_1_kimotsuki_5" faction="Faction.clan_kimotsuki_1" father="Hero.dead_lord_1_kimotsuki_1" mother="Hero.lord_1_kimotsuki_6" text="{=N5VldQQt}Kimotsuki Kanemori"/>
 	<Hero id="dead_lord_1_kimotsuki_1" alive="false" faction="Faction.clan_kimotsuki_1" text="{=aUgD8yWg}Kimotsuki Kanetsugu"/>
-	<Hero id="lord_1_kimotsuki_6" faction="Faction.clan_kimotsuki_1" text="{=A8Iz9ZZT}Kimotsuki Onan"/>
+	<Hero id="lord_1_kimotsuki_6" faction="Faction.clan_kimotsuki_1" text="{=A8Iz9ZZT}Kimotsuki Ominami"/>
 	<!--tanegashima clan 6 ids-->
 	<Hero id="lord_1_tanegashima" faction="Faction.clan_tanegashima_1" spouse="Hero.lord_1_tanegashima_1" father="Hero.dead_lord_1_tanegashima_1" mother="Hero.lord_1_tanegashima_4" text="{=qyCDkM5m}Tanegashima Tokitaka"/>
 	<Hero id="lord_1_tanegashima_1" faction="Faction.clan_tanegashima_1" spouse="Hero.lord_1_tanegashima" text="{=QF3JI70b}Tanegashima Nishi"/>

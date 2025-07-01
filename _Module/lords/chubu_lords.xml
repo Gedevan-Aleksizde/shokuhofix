@@ -4960,7 +4960,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Mother -->
-  <NPCCharacter id="lord_1_nishina_2" name="{=p5ZVom76}Nishina Sekisho-in" age="53" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_nishina_2" name="{=p5ZVom76}Nishina Sekishou-in" age="53" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="53.00" weight="0.143" build="0.2615" key="0007F40D400000023281C926A48DC58665A4818CFED6AB344D833A6287EA5DAF06642668065163D0000000000000000000000000000000000000000046BC0081"/>
     </face>

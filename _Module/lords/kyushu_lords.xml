@@ -504,7 +504,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_hongo_1" name="{=YBDz0cMr}Hongou Higiri" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hongo_1" name="{=YBDz0cMr}Hongou Hijiri" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="38.00" weight="0.5536" build="0.262" key="0030F40F40000005638797CE56315416C1B285E3529DB7BACBDA74A7868F98DB070486790046619300000000000000000000000000000000000000001C043081"/>
     </face>
@@ -577,7 +577,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_kimotsuki_6" name="{=A8Iz9ZZT}Kimotsuki Onan" age="57" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kimotsuki_6" name="{=A8Iz9ZZT}Kimotsuki Ominami" age="57" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="57.00" weight="0.5542" build="0.7407" key="0031D80EC00000044887DEA4B3EAECBAF9D581DA3D3AA3935299908D83EC727D067B866707623658000000000000000000000000000000000000000008FC1100"/>
     </face>

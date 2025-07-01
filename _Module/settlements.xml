@@ -3936,7 +3936,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_KA20" name="{=C8avRQxs}Yuki Castle" owner="Faction.clan_yuki_1" posX="1348.778" posY="784.416" culture="Culture.kanto" gate_posX="1349.662" gate_posY="782.5161">
+  <Settlement id="castle_KA20" name="{=C8avRQxs}Yūki Castle" owner="Faction.clan_yuki_1" posX="1348.778" posY="784.416" culture="Culture.kanto" gate_posX="1349.662" gate_posY="782.5161">
     <Components>
       <Town id="castle_comp_KA20" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1049"/>
     </Components>

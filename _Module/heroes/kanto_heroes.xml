@@ -107,7 +107,7 @@
 	<Hero id="lord_1_kogakubo" faction="Faction.clan_kogakubo_1" spouse="Hero.lord_1_kogakubo_1" father="Hero.dead_lord_1_kogakubo_2" mother="Hero.dead_lord_1_kogakubo_3" text="{=tCf4lIPu}Ashikaga Yoshiuji"/>
 	<Hero id="lord_1_kogakubo_1" faction="Faction.clan_kogakubo_1" spouse="Hero.lord_1_kogakubo" text="{=NxaysxUC}Ashikaga Jyoko-in"/>
 	<Hero id="dead_lord_1_kogakubo_2" alive="false" faction="Faction.clan_kogakubo_1" spouse="Hero.dead_lord_1_kogakubo_3" text="{=O06DIhu2}Ashikaga Haruuji"/>
-	<Hero id="dead_lord_1_kogakubo_3" alive="false" faction="Faction.clan_kogakubo_1" spouse="Hero.dead_lord_1_kogakubo_2" text="{=MsX1Hln6}kogakubo Houshun-in"/>
+	<Hero id="dead_lord_1_kogakubo_3" alive="false" faction="Faction.clan_kogakubo_1" spouse="Hero.dead_lord_1_kogakubo_2" text="{=MsX1Hln6}Ashikaga Houshun-in"/>
 	<Hero id="lord_1_kogakubo_4" faction="Faction.clan_kogakubo_1" father="Hero.dead_lord_1_kogakubo_2" mother="Hero.dead_lord_1_kogakubo_3" text="{=9zqTKcqA}Ashikaga Fujimasa"/>
 	<Hero id="lord_1_kogakubo_5" faction="Faction.clan_kogakubo_1" father="Hero.dead_lord_1_kogakubo_2" mother="Hero.dead_lord_1_kogakubo_3" text="{=2cUjpzfQ}Ashikaga Teruuji"/>
 	<Hero id="lord_1_kogakubo_6" faction="Faction.clan_kogakubo_1" father="Hero.dead_lord_1_kogakubo_2" mother="Hero.dead_lord_1_kogakubo_3" text="{=F9XMsCHI}Ashikaga Iekuni"/>
@@ -123,20 +123,20 @@
 	<Hero id="lord_1_sano_7" faction="Faction.clan_sano_1" spouse="Hero.dead_lord_1_sano_6" text="{=TtRVEzF9}Sano Jyomei-in"/>
 	<Hero id="lord_1_sano_8" faction="Faction.clan_sano_1" father="Hero.dead_lord_1_sano_6" mother="Hero.lord_1_sano_7" text="{=OjNzZ4z7}Sano Fusatsuna"/>
 	<!--yuki Clan-->
-	<Hero id="lord_1_yuki" faction="Faction.clan_yuki_1" spouse="Hero.lord_1_yuki_1" text="{=peuTgDWX}Yuki Harutomo"/>
-	<Hero id="lord_1_yuki_1" faction="Faction.clan_yuki_1" spouse="Hero.lord_1_yuki" text="{=2axdqLeU}Yuki Shoko"/>
-	<Hero id="lord_1_yuki_2" faction="Faction.clan_yuki_1" father="Hero.lord_1_yuki" mother="Hero.lord_1_yuki_1" text="{=l7gGIVfb}Yuki Teruko"/>
-	<Hero id="lord_1_yuki_3" faction="Faction.clan_yuki_1" father="Hero.lord_1_yuki" mother="Hero.lord_1_yuki_1" text="{=KaW2u7Wt}Yuki Tsuruko"/>
-	<Hero id="lord_1_yuki_4" faction="Faction.clan_yuki_1" father="Hero.lord_1_yuki" mother="Hero.lord_1_yuki_1" text="{=3dRiCHIH}Yuki Kuniko"/>
+	<Hero id="lord_1_yuki" faction="Faction.clan_yuki_1" spouse="Hero.lord_1_yuki_1" text="{=peuTgDWX}Yūki Harutomo"/>
+	<Hero id="lord_1_yuki_1" faction="Faction.clan_yuki_1" spouse="Hero.lord_1_yuki" text="{=2axdqLeU}Yūki Shoko"/>
+	<Hero id="lord_1_yuki_2" faction="Faction.clan_yuki_1" father="Hero.lord_1_yuki" mother="Hero.lord_1_yuki_1" text="{=l7gGIVfb}Yūki Teruko"/>
+	<Hero id="lord_1_yuki_3" faction="Faction.clan_yuki_1" father="Hero.lord_1_yuki" mother="Hero.lord_1_yuki_1" text="{=KaW2u7Wt}Yūki Tsuruko"/>
+	<Hero id="lord_1_yuki_4" faction="Faction.clan_yuki_1" father="Hero.lord_1_yuki" mother="Hero.lord_1_yuki_1" text="{=3dRiCHIH}Yūki Kuniko"/>
 	<!--Satomi Faction-->
 	<!--Satomi Clan-->
 	<Hero id="lord_1_satomi" faction="Faction.clan_satomi_1" spouse="Hero.lord_1_satomi_1" father="Hero.lord_1_satomi_2" mother="Hero.lord_1_satomi_3" text="{=WNXdlC6n}Satomi Yoshihiro"/>
 	<Hero id="lord_1_satomi_1" faction="Faction.clan_satomi_1" spouse="Hero.lord_1_satomi" text="{=mF93OB0Z}Satomi Maki"/>
 	<Hero id="lord_1_satomi_2" faction="Faction.clan_satomi_1" spouse="Hero.lord_1_satomi_3" text="{=45HFAruq}satomi Yoshitaka"/>
-	<Hero id="lord_1_satomi_3" faction="Faction.clan_satomi_1" spouse="Hero.lord_1_satomi_2" text="{=WIMsWqlV}satomi Saka"/>
-	<Hero id="lord_1_satomi_4" faction="Faction.clan_satomi_1" spouse="Hero.lord_1_satomi_5" father="Hero.lord_1_satomi_2" mother="Hero.lord_1_satomi_3" text="{=1VsYAGf0}Satomi Yoshimoto"/>
+	<Hero id="lord_1_satomi_3" faction="Faction.clan_satomi_1" spouse="Hero.lord_1_satomi_2" text="{=WIMsWqlV}Satomi Saka"/>
+	<Hero id="lord_1_satomi_4" faction="Faction.clan_satomi_1" spouse="Hero.lord_1_satomi_5" father="Hero.lord_1_satomi_2" mother="Hero.lord_1_satomi_3" text="{=1VsYAGf0}Satomi Takamoto"/>
 	<Hero id="lord_1_satomi_5" faction="Faction.clan_satomi_1" spouse="Hero.lord_1_satomi_4" text="{=Sl8tIOAe}Satomi Tame"/>
-	<Hero id="lord_1_satomi_6" faction="Faction.clan_satomi_1" spouse="Hero.lord_1_satomi_7" father="Hero.lord_1_satomi_2" mother="Hero.lord_1_satomi_3" text="{=ZOyxIYLt}Satomi Yoshitsugu"/>
+	<Hero id="lord_1_satomi_6" faction="Faction.clan_satomi_1" spouse="Hero.lord_1_satomi_7" father="Hero.lord_1_satomi_2" mother="Hero.lord_1_satomi_3" text="{=ZOyxIYLt}Satomi Takatsugu"/>
 	<Hero id="lord_1_satomi_7" faction="Faction.clan_satomi_1" spouse="Hero.lord_1_satomi_6" text="{=RZW4u1bw}Satomi Kuni"/>
 	<Hero id="lord_1_satomi_8" faction="Faction.clan_satomi_1" spouse="Hero.lord_1_satomi_9" father="Hero.lord_1_satomi_2" mother="Hero.lord_1_satomi_3" text="{=BijTmjLN}Satomi Yoshimasa"/>
 	<Hero id="lord_1_satomi_9" faction="Faction.clan_satomi_1" spouse="Hero.lord_1_satomi_8" text="{=mSLw5dla}Satomi Hisa"/>
@@ -170,7 +170,7 @@
 	<!--haga Clan-->
 	<Hero id="lord_1_haga" faction="Faction.clan_haga_1" spouse="Hero.lord_1_haga_1" text="{=gwB9W7mm}Haga Takasada"/>
 	<Hero id="lord_1_haga_1" faction="Faction.clan_haga_1" spouse="Hero.lord_1_haga" text="{=J0VnbU4a}Haga Tama"/>
-	<Hero id="lord_1_haga_2" faction="Faction.clan_haga_1" spouse="Hero.lord_1_haga_3" father="Hero.lord_1_haga" mother="Hero.lord_1_haga_1" text="{=0xmB7XJS}Haga Takakage"/>
+	<Hero id="lord_1_haga_2" faction="Faction.clan_haga_1" spouse="Hero.lord_1_haga_3" father="Hero.lord_1_haga" mother="Hero.lord_1_haga_1" text="{=0xmB7XJS}Haga Takatake"/>
 	<Hero id="lord_1_haga_3" faction="Faction.clan_haga_1" spouse="Hero.lord_1_haga_2" text="{=l2brrFCq}Haga Chiyo"/>
 	<Hero id="lord_1_haga_4" faction="Faction.clan_haga_1" spouse="Hero.lord_1_haga_5" text="{=WO5zvxR8}Haga Takatsugu"/>
 	<Hero id="lord_1_haga_5" faction="Faction.clan_haga_1" spouse="Hero.lord_1_haga_4" text="{=tGEgf2XE}Haga Miki"/>
