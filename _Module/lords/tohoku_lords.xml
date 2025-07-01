@@ -1076,7 +1076,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Uncle Spouse -->
-  <NPCCharacter id="lord_1_date_8" name="{=TGJrgoXP}Date Kyosei-in" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_date_8" name="{=TGJrgoXP}Date Kyousei-in" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="38.00" weight="0.0539" build="0.702" key="000BDC0DC0000003358CECAD9BFC184DCDA38432DBB717A91DBB65AB874B1CEE0D7B16D20A42305A000000000000000000000000000000000000000030E440C0"/>
     </face>
@@ -1584,7 +1584,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Mother -->
-  <NPCCharacter id="lord_1_iwaki_3" name="{=OMoDuAqu}Iwaki Jomei-in" age="58" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_iwaki_3" name="{=OMoDuAqu}Iwaki Kubo" age="58" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="58.00" weight="0.1713" build="0.2774" key="0027E40B000000034989E1D423C89D3A99B286C43F3556B3503A4A8D8A2DB1FC081436890112184C000000000000000000000000000000000000000030141081"/>
     </face>

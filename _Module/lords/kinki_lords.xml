@@ -3156,7 +3156,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Mother -->
-  <NPCCharacter id="lord_1_sakuma_3" name="{=llqgj9e4}Sakuma Kosho-in" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_sakuma_3" name="{=llqgj9e4}Sakuma Koushou-in" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="38.00" weight="0.2804" build="0.8655" key="0001D80C00000006798A61317A8D851F2DE1820457A05BC61C665D868B29B5ED050D4657000346A2000000000000000000000000000000000000000018042000"/>
     </face>

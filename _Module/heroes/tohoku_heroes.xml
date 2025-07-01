@@ -74,7 +74,7 @@
 	<Hero id="dead_lord_1_date_5" alive="false" faction="Faction.clan_date_1" spouse="Hero.dead_lord_1_date_4" text="{=BX6Yp0vZ}Date Taishin-in"/>
 	<Hero id="lord_1_date_6" faction="Faction.clan_date_1" father="Hero.lord_1_date" mother="Hero.lord_1_date_1" text="{=5UBPnUHd}Date Masamune"/>
 	<Hero id="lord_1_date_7" faction="Faction.clan_date_1" spouse="Hero.lord_1_date_8" father="Hero.dead_lord_1_date_4" mother="Hero.dead_lord_1_date_5" text="{=HgsPH3W5}Date Sanemoto"/>
-	<Hero id="lord_1_date_8" faction="Faction.clan_date_1" spouse="Hero.lord_1_date_7" text="{=TGJrgoXP}Date Kyosei-in"/>
+	<Hero id="lord_1_date_8" faction="Faction.clan_date_1" spouse="Hero.lord_1_date_7" text="{=TGJrgoXP}Date Kyousei-in"/>
 	<Hero id="lord_1_date_9" faction="Faction.clan_date_1" father="Hero.lord_1_date_7" mother="Hero.lord_1_date_8" text="{=5uYt8kLx}Date Shigezane"/>
 	<!--Katakura Clan-->
 	<Hero id="lord_1_katakura" faction="Faction.clan_katakura_1" father="Hero.dead_lord_1_katakura_1" mother="Hero.dead_lord_1_katakura_2" text="{=ROpC8P2s}Katakura Shigetsugu"/>
@@ -107,7 +107,7 @@
 	<Hero id="lord_1_iwaki" faction="Faction.clan_iwaki_1" spouse="Hero.lord_1_iwaki_1" father="Hero.lord_1_iwaki_2" mother="Hero.lord_1_iwaki_3" text="{=qyv1DVLK}Iwaki Chikataka"/>
 	<Hero id="lord_1_iwaki_1" faction="Faction.clan_iwaki_1" spouse="Hero.lord_1_iwaki" text="{=zS1xCtvl}Iwaki Keiju-in"/>
 	<Hero id="lord_1_iwaki_2" faction="Faction.clan_iwaki_1" spouse="Hero.lord_1_iwaki_3" text="{=A91ldYIn}Iwaki Shigetaka"/>
-	<Hero id="lord_1_iwaki_3" faction="Faction.clan_iwaki_1" spouse="Hero.lord_1_iwaki_2" text="{=OMoDuAqu}Iwaki Jomei-in"/>
+	<Hero id="lord_1_iwaki_3" faction="Faction.clan_iwaki_1" spouse="Hero.lord_1_iwaki_2" text="{=OMoDuAqu}Iwaki Kubo"/>
 	<Hero id="lord_1_iwaki_4" faction="Faction.clan_iwaki_1" father="Hero.lord_1_iwaki" mother="Hero.lord_1_iwaki_1" text="{=uGlEqEJX}Iwaki Tsunetaka"/>
 	<Hero id="lord_1_iwaki_5" faction="Faction.clan_iwaki_1" spouse="Hero.lord_1_iwaki_6" text="{=NpV12vkH}Iwaki Takatoki"/>
 	<Hero id="lord_1_iwaki_6" faction="Faction.clan_iwaki_1" spouse="Hero.lord_1_iwaki_5" text="{=rg6sw1Q9}Iwaki Keiju-in"/>

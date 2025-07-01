@@ -2466,7 +2466,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <!--omura clan 7 ids-->
+  <!--Ōmura clan 7 ids-->
   <!--Parents-->
   <!--leader-->
   <NPCCharacter id="lord_1_omura" name="{=y7KNSSPN}Ōmura Sumitada" age="35" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
@@ -2858,7 +2858,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="dead_lord_1_otomo_2" name="{=z3dbPelZ}Ōtomo Boujo" age="59" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_otomo_2" name="{=z3dbPelZ}Ōtomo Boujou" age="59" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="59.00" weight="0.3607" build="0.2117" key="0028EC0B00000005A7826D2DF11B215248A185C6D7161126A6E0793781D682BC02435624042025DF00000000000000000000000000000000000000004C7C0000"/>
     </face>
@@ -4143,7 +4143,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="dead_lord_1_sagara_2" name="{=916pH86X}Sagara Uchijo" age="40" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_sagara_2" name="{=916pH86X}Sagara Uchijou" age="40" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="40.00" weight="0.4682" build="0.3265" key="0038EC0C400000061C844B528AEB360D3CE48149F5D1B4659C5C0D4D8CC5DA6E0305763500346664000000000000000000000000000000000000000054041040"/>
     </face>
@@ -4563,7 +4563,7 @@
       <EquipmentSet id="saikai_civ_template_default_female" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_ito_3" name="{=uihfZdNy}Itou Aso" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ito_3" name="{=uihfZdNy}Itou Asou" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="23.00" weight="0.351" build="0.9476" key="0032EC0E00000005668662C8322EAB63EE91824CF4B2B03E8C7383AC86B997AF039E56350963452900000000000000000000000000000000000000002B1C3080"/>
     </face>

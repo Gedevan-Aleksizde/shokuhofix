@@ -9,7 +9,7 @@
 	<Hero id="lord_1_ito" faction="Faction.clan_ito_1" spouse="Hero.lord_1_ito_1" text="{=XTnJEsYW}Itou Yoshisuke"/>
 	<Hero id="lord_1_ito_1" faction="Faction.clan_ito_1" spouse="Hero.lord_1_ito" text="{=Zo5RCGJQ}Itou Asa"/>
 	<Hero id="lord_1_ito_2" faction="Faction.clan_ito_1" father="Hero.lord_1_ito" mother="Hero.lord_1_ito_1" text="{=4atnqu27}Itou Takashiro"/>
-	<Hero id="lord_1_ito_3" faction="Faction.clan_ito_1" father="Hero.lord_1_ito" mother="Hero.lord_1_ito_1" text="{=uihfZdNy}Itou Aso"/>
+	<Hero id="lord_1_ito_3" faction="Faction.clan_ito_1" father="Hero.lord_1_ito" mother="Hero.lord_1_ito_1" text="{=uihfZdNy}Itou Asou"/>
 	<Hero id="lord_1_ito_4" faction="Faction.clan_ito_1" father="Hero.lord_1_ito" mother="Hero.lord_1_ito_1" text="{=zc3RATLY}Itou Yoshimasu"/>
 	<Hero id="lord_1_ito_5" faction="Faction.clan_ito_1" father="Hero.lord_1_ito" mother="Hero.lord_1_ito_1" text="{=bi2KysQW}Itou Houjyo"/>
 	<Hero id="lord_1_ito_6" faction="Faction.clan_ito_1" father="Hero.lord_1_ito" mother="Hero.lord_1_ito_1" text="{=lVI3T9fG}Itou Machigami"/>
@@ -40,7 +40,7 @@
 	<Hero id="lord_1_sagara_6" faction="Faction.clan_sagara_1" spouse="Hero.lord_1_sagara_5" text="{=dvyfGKTU}Sagara Hotaru"/>
 	<Hero id="lord_1_sagara_7" faction="Faction.clan_sagara_1" father="Hero.lord_1_sagara_5" mother="Hero.lord_1_sagara_6" text="{=bbvlOOs5}Sagara Umigiri"/>
 	<Hero id="dead_lord_1_sagara_1" alive="false" faction="Faction.clan_sagara_1" spouse="Hero.dead_lord_1_sagara_2" text="{=YNU67geV}Sagara Haruhiro"/>
-	<Hero id="dead_lord_1_sagara_2" alive="false" faction="Faction.clan_sagara_1" spouse="Hero.dead_lord_1_sagara_1" text="{=916pH86X}Sagara Uchijo"/>
+	<Hero id="dead_lord_1_sagara_2" alive="false" faction="Faction.clan_sagara_1" spouse="Hero.dead_lord_1_sagara_1" text="{=916pH86X}Sagara Uchijou"/>
 	<!--Indou Clan 6 ids-->
 	<Hero id="lord_1_indo" faction="Faction.clan_indo_1" spouse="Hero.lord_1_indo_1" text="{=dKC0bSr2}Indou Yoriyasu"/>
 	<Hero id="lord_1_indo_1" faction="Faction.clan_indo_1" spouse="Hero.lord_1_indo" text="{=0K6M8tdY}Indou Myoukei-ni"/>
@@ -65,7 +65,7 @@
 	<Hero id="lord_1_otomo_6" faction="Faction.clan_otomo_1" father="Hero.lord_1_otomo" mother="Hero.lord_1_otomo_1" text="{=5HotxjQe}Ōtomo Yuri"/>
 	<Hero id="lord_1_otomo_7" faction="Faction.clan_otomo_1" father="Hero.dead_lord_1_otomo_1" mother="Hero.dead_lord_1_otomo_2" text="{=svKW968A}Ōtomo Chikasada"/>
 	<Hero id="dead_lord_1_otomo_1" alive="false" faction="Faction.clan_otomo_1" spouse="Hero.dead_lord_1_otomo_2" text="{=TzTHrzds}Ōtomo Yoshiaki"/>
-	<Hero id="dead_lord_1_otomo_2" alive="false" faction="Faction.clan_otomo_1" spouse="Hero.dead_lord_1_otomo_1" text="{=z3dbPelZ}Ōtomo Boujo"/>
+	<Hero id="dead_lord_1_otomo_2" alive="false" faction="Faction.clan_otomo_1" spouse="Hero.dead_lord_1_otomo_1" text="{=z3dbPelZ}Ōtomo Boujou"/>
 	<!--kii clan 7 ids-->
 	<Hero id="lord_1_kii" faction="Faction.clan_kii_1" spouse="Hero.lord_1_kii_1" father="Hero.lord_1_kii_5" mother="Hero.lord_1_kii_6" text="{=k92lOXHJ}Kī Shigefusa"/>
 	<Hero id="lord_1_kii_1" faction="Faction.clan_kii_1" spouse="Hero.lord_1_kii" text="{=teYikAqn}Kī Yohira"/>
@@ -146,12 +146,12 @@
 	<Hero id="lord_1_arima_4" faction="Faction.clan_arima_1" father="Hero.lord_1_arima" mother="Hero.lord_1_arima_1" text="{=P5bd2ucF}Arima Yuri"/>
 	<Hero id="lord_1_arima_5" faction="Faction.clan_arima_1" father="Hero.lord_1_arima" mother="Hero.lord_1_arima_1" text="{=B67b5TXq}Arima Chikashi"/>
 	<Hero id="lord_1_arima_6" faction="Faction.clan_arima_1" father="Hero.lord_1_arima" mother="Hero.lord_1_arima_1" text="{=HbzP5AAB}Arima Harunobu"/>
-	<!--omura clan 7 ids-->
-	<Hero id="lord_1_omura" faction="Faction.clan_omura_1" spouse="Hero.lord_1_omura_1" text="{=DrxNkMPh}omura Sumitada"/>
-	<Hero id="lord_1_omura_1" faction="Faction.clan_omura_1" spouse="Hero.lord_1_omura" text="{=adfnCVYV}omura Oen"/>
-	<Hero id="lord_1_omura_2" faction="Faction.clan_omura_1" father="Hero.lord_1_omura" mother="Hero.lord_1_omura_1" text="{=i2ihnVmH}omura Yoshiaki"/>
-	<Hero id="lord_1_omura_3" faction="Faction.clan_omura_1" father="Hero.lord_1_omura" mother="Hero.lord_1_omura_1" text="{=38sUEkUk}omura Yuugao"/>
-	<Hero id="lord_1_omura_4" faction="Faction.clan_omura_1" father="Hero.lord_1_omura" mother="Hero.lord_1_omura_1" text="{=Y7RBrR1o}omura Shirasame"/>
+	<!--Ōmura clan 7 ids-->
+	<Hero id="lord_1_omura" faction="Faction.clan_omura_1" spouse="Hero.lord_1_omura_1" text=""/>
+	<Hero id="lord_1_omura_1" faction="Faction.clan_omura_1" spouse="Hero.lord_1_omura" text=""/>
+	<Hero id="lord_1_omura_2" faction="Faction.clan_omura_1" father="Hero.lord_1_omura" mother="Hero.lord_1_omura_1" text=""/>
+	<Hero id="lord_1_omura_3" faction="Faction.clan_omura_1" father="Hero.lord_1_omura" mother="Hero.lord_1_omura_1" text=""/>
+	<Hero id="lord_1_omura_4" faction="Faction.clan_omura_1" father="Hero.lord_1_omura" mother="Hero.lord_1_omura_1" text=""/>
 	<!--yasutomi clan-->
 	<Hero id="lord_1_yasutomi" faction="Faction.clan_yasutomi_1" spouse="Hero.lord_1_yasutomi_1" text="{=hPnLYYJO}Yasutomi Suminao"/>
 	<Hero id="lord_1_yasutomi_1" faction="Faction.clan_yasutomi_1" spouse="Hero.lord_1_yasutomi" text="{=UxSkwZcc}Yasutomi Fuse"/>

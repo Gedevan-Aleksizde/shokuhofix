@@ -210,7 +210,7 @@
 	<Hero id="lord_1_sakuma" faction="Faction.clan_sakuma_1" father="Hero.dead_lord_1_sakuma_2" mother="Hero.lord_1_shibata_1" spouse="Hero.lord_1_sakuma_3" text="{=rV9fvZPM}Sakuma Nobumori"/>
 	<Hero id="lord_1_sakuma_1" faction="Faction.clan_sakuma_1" spouse="Hero.lord_1_sakuma" text="{=zccColGo}Sakuma Tsutsuji"/>
 	<Hero id="dead_lord_1_sakuma_2" alive="false" faction="Faction.clan_sakuma_1" spouse="Hero.lord_1_sakuma_3" text="{=1Auqkl29}Sakuma Nobuharu"/>
-	<Hero id="lord_1_sakuma_3" faction="Faction.clan_sakuma_1" spouse="Hero.dead_lord_1_sakuma_2" text="{=llqgj9e4}Sakuma Kosho-in"/>
+	<Hero id="lord_1_sakuma_3" faction="Faction.clan_sakuma_1" spouse="Hero.dead_lord_1_sakuma_2" text="{=llqgj9e4}Sakuma Koushou-in"/>
 	<Hero id="lord_1_sakuma_4" faction="Faction.clan_sakuma_1" father="Hero.lord_1_sakuma" mother="Hero.lord_1_sakuma_1" text="{=9GlIn49d}Sakuma Nobuhide"/>
 	<Hero id="lord_1_sakuma_5" faction="Faction.clan_sakuma_1" father="Hero.dead_lord_1_sakuma_2" mother="Hero.lord_1_sakuma_3" text="{=I0VAUSEq}Sakuma Nobutoki"/>
 	<!-- Takigawa Clan -->
