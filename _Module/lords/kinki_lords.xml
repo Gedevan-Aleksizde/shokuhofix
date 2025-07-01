@@ -1744,7 +1744,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Mother (dead) -->
-  <NPCCharacter id="dead_lord_1_yukawa_3" name="{=rCZzutl7}Yukawa Komyyo-in" age="37" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_yukawa_3" name="{=rCZzutl7}Yukawa Koumyou-in" age="37" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="37.00" weight="0.2871" build="0.3343" key="0037E40D400000079B826CD9A06DF3C0D3A6861772C9D145394E28BC8E2B77EB034546350445114B00000000000000000000000000000000000000002C7C10C0"/>
     </face>

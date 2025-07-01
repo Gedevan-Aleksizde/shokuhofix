@@ -34,7 +34,7 @@
 	<Hero id="lord_1_soma" faction="Faction.clan_soma_1" spouse="Hero.lord_1_soma_1" text="{=CrgYCr35}Souma Moritane"/>
 	<Hero id="lord_1_soma_1" faction="Faction.clan_soma_1" spouse="Hero.lord_1_soma" text="{=ppxVSFKS}Souma Kake"/>
 	<Hero id="lord_1_soma_2" faction="Faction.clan_soma_1" father="Hero.lord_1_soma" mother="Hero.lord_1_soma_1" text="{=CkTKok6g}Souma Yoshitane"/>
-	<Hero id="lord_1_soma_3" faction="Faction.clan_soma_1" father="Hero.lord_1_soma" mother="Hero.lord_1_soma_1" text="{=bI1XmCI8}Souma Takatane"/>
+	<Hero id="lord_1_soma_3" faction="Faction.clan_soma_1" father="Hero.lord_1_soma" mother="Hero.lord_1_soma_1" text="{=bI1XmCI8}Souma Taketane"/>
 	<Hero id="lord_1_soma_4" faction="Faction.clan_soma_1" father="Hero.lord_1_soma" mother="Hero.lord_1_soma_1" text="{=YwuGBeax}Souma Satotane"/>
 	<Hero id="lord_1_soma_5" faction="Faction.clan_soma_1" father="Hero.lord_1_soma" mother="Hero.lord_1_soma_1" text="{=nci1JssK}Souma Haru"/>
 	<!--Inawashiro Clan-->
@@ -133,7 +133,7 @@
 	<!--Ujiie Clan-->
 	<Hero id="lord_1_ujiie" faction="Faction.clan_ujiie_1" spouse="Hero.lord_1_ujiie_1" text="{=6AupeJ2N}Ujiie Morimune"/>
 	<Hero id="lord_1_ujiie_1" faction="Faction.clan_ujiie_1" spouse="Hero.lord_1_ujiie" text="{=tY6vS3gw}Ujiie Satsuki"/>
-	<Hero id="lord_1_ujiie_2" faction="Faction.clan_ujiie_1" father="Hero.lord_1_ujiie" mother="Hero.lord_1_ujiie_1" text="{=KqISOYEY}Ujiie Mitsumune"/>
+	<Hero id="lord_1_ujiie_2" faction="Faction.clan_ujiie_1" father="Hero.lord_1_ujiie" mother="Hero.lord_1_ujiie_1" text="{=KqISOYEY}Ujiie Akimune"/>
 	<!--Nobesawa Clan-->
 	<Hero id="lord_1_nobesawa" faction="Faction.clan_nobesawa_1" spouse="Hero.lord_1_nobesawa_1" text="{=ZbVonqWL}Nobesawa Mitsunobu"/>
 	<Hero id="lord_1_nobesawa_1" faction="Faction.clan_nobesawa_1" spouse="Hero.lord_1_nobesawa" text="{=D0DDSMQY}Nobesawa Yone"/>

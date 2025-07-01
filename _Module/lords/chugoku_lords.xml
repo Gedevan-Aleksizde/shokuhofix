@@ -2216,7 +2216,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!--dead mom-->
-	<NPCCharacter id="dead_lord_1_amago_2" name="{=e5jJlTcT}Amago Seiryo-in" age="50" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+	<NPCCharacter id="dead_lord_1_amago_2" name="{=e5jJlTcT}Amago Seiryou-in" age="50" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
 		<face>
 			<BodyProperties version="4" age="50.00" weight="0.114" build="0.5908" key="0017E40A800000032C886B69648491D15AD082D4F60D3CD4B172E33586E9676A075926780525887100000000000000000000000000000000000000007AB42081"/>
 		</face>
@@ -2357,7 +2357,7 @@
 	</NPCCharacter>
 	<!--tatsuhara clan-->
 	<!--leader-->
-	<NPCCharacter id="lord_1_tatsuhara" name="{=lDbNEfEh}Tatsuhara Hisatsuna" age="37" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+	<NPCCharacter id="lord_1_tatsuhara" name="{=lDbNEfEh}Tachihara Hisatsuna" age="37" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
 		<face>
 			<BodyProperties version="4" age="37.00" weight="0.417" build="0.6312" key="0033D00E40000703967879478AB7769A82795976ABFC367AC427AAC5689998A80579665707D87298000000000000000000000000000000000000000072E40102"/>
 		</face>
@@ -2404,7 +2404,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!--son-->
-	<NPCCharacter id="lord_1_tatsuhara_2" name="{=07juHC01}Tatsuhara Mitsutada" age="8" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+	<NPCCharacter id="lord_1_tatsuhara_2" name="{=07juHC01}Tachihara Mitsutada" age="8" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
 		<face>
 			<BodyProperties version="4" age="8.00" weight="0.8244" build="0.2729" key="0025E40EC0000144A772565749B8679AC1674A564C8B4848D44876B56889A9780074C60307B8C37B000000000000000000000000000000000000000060EC0083"/>
 		</face>
@@ -2427,7 +2427,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!--daughter-->
-	<NPCCharacter id="lord_1_tatsuhara_3" name="{=DFrIaaPX}Tatsuhara Mina" age="3" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+	<NPCCharacter id="lord_1_tatsuhara_3" name="{=DFrIaaPX}Tachihara Nami" age="3" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
 		<face>
 			<BodyProperties version="4" age="3.00" weight="0.3077" build="0.5561" key="0035D80E80000003DC80ACAB8E7BBE0A8E8586326BC2E91CB494597886E77D9C010856130044464400000000000000000000000000000000000000005C041080"/>
 		</face>

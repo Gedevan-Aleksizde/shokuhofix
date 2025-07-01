@@ -22,7 +22,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="dead_lord_1_shimazu_2" name="{=DHsiGvld}Shimazu Sesso" age="30" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_shimazu_2" name="{=DHsiGvld}Shimazu Sessou" age="30" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="30.00" weight="0.357" build="0.818" key="0009E40B800000021382D8767D76C87A6B81819F8683B2CE17A5CF4185E7DB9C043C56460311732400000000000000000000000000000000000000007A6C0081"/>
     </face>
@@ -2469,7 +2469,7 @@
   <!--omura clan 7 ids-->
   <!--Parents-->
   <!--leader-->
-  <NPCCharacter id="lord_1_omura" name="{=y7KNSSPN}Omura Sumitada" age="35" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_omura" name="{=y7KNSSPN}Ōmura Sumitada" age="35" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="35.00" weight="0.6806" build="0.2062" key="0030E40E8000000195618A3657B66A8BC1684A376BB9378AC22986453889CC880F63A6F20AA7C25A000000000000000000000000000000000000000026D40043"/>
     </face>
@@ -2487,7 +2487,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_omura_1" name="{=6VZ8rqKC}Omura Oen" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_omura_1" name="{=6VZ8rqKC}Ōmura Oen" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="23.00" weight="0.0205" build="0.6087" key="0005E80D40000005A58A3712DBF74D55C3B38326C67262998EC2A461826DD7AD0E7906E20B05316900000000000000000000000000000000000000000AE410C1"/>
     </face>
@@ -2505,7 +2505,7 @@
     </Equipments>
   </NPCCharacter>
   <!--children leader-->
-  <NPCCharacter id="lord_1_omura_2" name="{=qtwaI7LN}Omura Yoshiaki" age="0" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_omura_2" name="{=qtwaI7LN}Ōmura Yoshiaki" age="0" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="0.00" weight="0.8174" build="0.8223" key="0020CC0EC0000781A57659B7B7C55A698165896698CD4689D5278885589999A8026CC62406978369000000000000000000000000000000000000000050DC0082"/>
     </face>
@@ -2523,7 +2523,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_omura_3" name="{=XqAwpT3d}Omura Yuugao" age="8" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_omura_3" name="{=XqAwpT3d}Ōmura Yuugao" age="8" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="8.00" weight="0.089" build="0.2459" key="0018E40D80000005B9831B2CD3684BDCC69485574D4CB1EE5429C53E83CECA7A06341667032231AD000000000000000000000000000000000000000052543101"/>
     </face>
@@ -2540,7 +2540,7 @@
       <EquipmentSet id="saikai_civ_template_default_female" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_omura_4" name="{=YgGJdujN}Omura Shirasame" age="3" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_omura_4" name="{=YgGJdujN}Ōmura Shirasame" age="3" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="3.00" weight="0.05" build="0.2996" key="000FD80D40000002BA868E415A7AD41E5E91839D31B7C973373124DB80DE4CCF08941689092376430000000000000000000000000000000000000000551C40C1"/>
     </face>

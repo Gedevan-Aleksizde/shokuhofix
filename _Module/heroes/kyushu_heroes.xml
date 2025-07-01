@@ -236,7 +236,7 @@
 	<Hero id="lord_1_shimazu_9" faction="Faction.clan_shimazu_1" spouse="Hero.lord_1_shimazu_10" father="Hero.lord_1_shimazu_11" mother="Hero.dead_lord_1_shimazu_2" text="{=bCEeQkkF}Shimazu Iehisa"/>
 	<Hero id="lord_1_shimazu_10" faction="Faction.clan_shimazu_1" spouse="Hero.lord_1_shimazu_9" text="{=LvRRedWW}Shimazu Nagi"/>
 	<Hero id="lord_1_shimazu_11" faction="Faction.clan_shimazu_1" text="{=X2sLljXc}Shimazu Takahisa"/>
-	<Hero id="dead_lord_1_shimazu_2" alive="false" faction="Faction.clan_shimazu_1" text="{=hShr91A7}Shimazu Lady Sesso"/>
+	<Hero id="dead_lord_1_shimazu_2" alive="false" faction="Faction.clan_shimazu_1" text="{=hShr91A7}Shimazu Lady Sessou"/>
 	<!--Clan Ijūin 11 ids-->
 	<Hero id="lord_1_ijuin" faction="Faction.clan_ijuin_1" spouse="Hero.lord_1_ijuin_1" father="Hero.lord_1_ijuin_10" mother="Hero.lord_1_ijuin_11" text="{=UdtsY26m}Ijūin Tadaao"/>
 	<Hero id="lord_1_ijuin_1" faction="Faction.clan_ijuin_1" spouse="Hero.lord_1_ijuin" text="{=a5ytpM6f}Ijūin Shizuku"/>

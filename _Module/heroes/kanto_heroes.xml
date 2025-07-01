@@ -104,14 +104,14 @@
 	<Hero id="lord_2_oda_8" faction="Faction.clan_oda_2" spouse="Hero.lord_2_oda_7" text="{=QYDzg3jA}Oda Riku"/>
 	<Hero id="lord_2_oda_9" faction="Faction.clan_oda_2" father="Hero.lord_2_oda_7" mother="Hero.lord_2_oda_8" text="{=73thINiW}Oda Tomoharu"/>
 	<!--kogakubo Clan-->
-	<Hero id="lord_1_kogakubo" faction="Faction.clan_kogakubo_1" spouse="Hero.lord_1_kogakubo_1" father="Hero.dead_lord_1_kogakubo_2" mother="Hero.dead_lord_1_kogakubo_3" text="{=tCf4lIPu}Koga-Kubo Yoshiuji"/>
-	<Hero id="lord_1_kogakubo_1" faction="Faction.clan_kogakubo_1" spouse="Hero.lord_1_kogakubo" text="{=NxaysxUC}Koga-Kubo Jyoko-in"/>
-	<Hero id="dead_lord_1_kogakubo_2" alive="false" faction="Faction.clan_kogakubo_1" spouse="Hero.dead_lord_1_kogakubo_3" text="{=O06DIhu2}Koga-Kubo Haruuji"/>
-	<Hero id="dead_lord_1_kogakubo_3" alive="false" faction="Faction.clan_kogakubo_1" spouse="Hero.dead_lord_1_kogakubo_2" text="{=MsX1Hln6}kogakubo Hoshun-in"/>
-	<Hero id="lord_1_kogakubo_4" faction="Faction.clan_kogakubo_1" father="Hero.dead_lord_1_kogakubo_2" mother="Hero.dead_lord_1_kogakubo_3" text="{=9zqTKcqA}Koga-Kubo Fujimasa"/>
-	<Hero id="lord_1_kogakubo_5" faction="Faction.clan_kogakubo_1" father="Hero.dead_lord_1_kogakubo_2" mother="Hero.dead_lord_1_kogakubo_3" text="{=2cUjpzfQ}Koga-Kubo Teruuji"/>
-	<Hero id="lord_1_kogakubo_6" faction="Faction.clan_kogakubo_1" father="Hero.dead_lord_1_kogakubo_2" mother="Hero.dead_lord_1_kogakubo_3" text="{=F9XMsCHI}Koga-Kubo Iekuni"/>
-	<Hero id="lord_1_kogakubo_7" faction="Faction.clan_kogakubo_1" father="Hero.dead_lord_1_kogakubo_2" mother="Hero.dead_lord_1_kogakubo_3" text="{=olSVCZmf}Koga-Kubo Sato"/>
+	<Hero id="lord_1_kogakubo" faction="Faction.clan_kogakubo_1" spouse="Hero.lord_1_kogakubo_1" father="Hero.dead_lord_1_kogakubo_2" mother="Hero.dead_lord_1_kogakubo_3" text="{=tCf4lIPu}Ashikaga Yoshiuji"/>
+	<Hero id="lord_1_kogakubo_1" faction="Faction.clan_kogakubo_1" spouse="Hero.lord_1_kogakubo" text="{=NxaysxUC}Ashikaga Jyoko-in"/>
+	<Hero id="dead_lord_1_kogakubo_2" alive="false" faction="Faction.clan_kogakubo_1" spouse="Hero.dead_lord_1_kogakubo_3" text="{=O06DIhu2}Ashikaga Haruuji"/>
+	<Hero id="dead_lord_1_kogakubo_3" alive="false" faction="Faction.clan_kogakubo_1" spouse="Hero.dead_lord_1_kogakubo_2" text="{=MsX1Hln6}kogakubo Houshun-in"/>
+	<Hero id="lord_1_kogakubo_4" faction="Faction.clan_kogakubo_1" father="Hero.dead_lord_1_kogakubo_2" mother="Hero.dead_lord_1_kogakubo_3" text="{=9zqTKcqA}Ashikaga Fujimasa"/>
+	<Hero id="lord_1_kogakubo_5" faction="Faction.clan_kogakubo_1" father="Hero.dead_lord_1_kogakubo_2" mother="Hero.dead_lord_1_kogakubo_3" text="{=2cUjpzfQ}Ashikaga Teruuji"/>
+	<Hero id="lord_1_kogakubo_6" faction="Faction.clan_kogakubo_1" father="Hero.dead_lord_1_kogakubo_2" mother="Hero.dead_lord_1_kogakubo_3" text="{=F9XMsCHI}Ashikaga Iekuni"/>
+	<Hero id="lord_1_kogakubo_7" faction="Faction.clan_kogakubo_1" father="Hero.dead_lord_1_kogakubo_2" mother="Hero.dead_lord_1_kogakubo_3" text="{=olSVCZmf}Ashikaga Sato"/>
 	<!--sano Clan-->
 	<Hero id="lord_1_sano" faction="Faction.clan_sano_1" spouse="Hero.lord_1_sano_1" father="Hero.dead_lord_1_sano_2" mother="Hero.dead_lord_1_sano_3" text="{=lVNG6nvY}Sano Masatsuna"/>
 	<Hero id="lord_1_sano_1" faction="Faction.clan_sano_1" spouse="Hero.lord_1_sano" text="{=OjtJRVA8}Sano Moto"/>

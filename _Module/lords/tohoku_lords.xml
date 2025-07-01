@@ -1998,7 +1998,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son -->
-  <NPCCharacter id="lord_1_ujiie_2" name="{=KqISOYEY}Ujiie Mitsumune" age="10" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ujiie_2" name="{=KqISOYEY}Ujiie Akimune" age="10" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="10.00" weight="0.5904" build="0.7173" key="0032EC0E400004C1B66376C73BA8645BA2794A5639CC385CC5367CB54899D998036B963506B7A38B00000000000000000000000000000000000000000ACC0082"/>
     </face>

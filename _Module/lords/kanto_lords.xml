@@ -1127,7 +1127,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Mother -->
-  <NPCCharacter id="lord_1_narita_3" name="{=5Zj9vfbh}Narita Jisho-in" age="68" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_narita_3" name="{=5Zj9vfbh}Narita Shirai" age="68" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="68.00" weight="0.0436" build="0.1929" key="0019F00D000000069E81CDE32D7A82D132D28212F862B2E7711B86F386A38BE906631668062276BA000000000000000000000000000000000000000026CC0041"/>
     </face>
@@ -1704,9 +1704,9 @@
       <EquipmentSet id="kanto_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <!-- Koga-Kubo Clan -->
+  <!-- Ashikaga Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_kogakubo" name="{=tCf4lIPu}Koga-Kubo Yoshiuji" age="25" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kogakubo" name="{=tCf4lIPu}Ashikaga Yoshiuji" age="25" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="25.00" weight="0.76" build="0.4281" key="0026D00E80000042987278287BA7679A72684A893AAC3768D33BA9454899CE880276B62407A6A33800000000000000000000000000000000000000000AE400C1"/>
     </face>
@@ -1725,7 +1725,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_kogakubo_1" name="{=NxaysxUC}Koga-Kubo Jyoko-in" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kogakubo_1" name="{=NxaysxUC}Ashikaga Jyoko-in" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.3078" build="0.8502" key="0001E00EC00000022883626A4CE9B841E0E683A05DA2B12818B7E2B78360CDED082D56890231604500000000000000000000000000000000000000005A341080"/>
     </face>
@@ -1743,7 +1743,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Father (dead) -->
-  <NPCCharacter id="dead_lord_1_kogakubo_2" name="{=O06DIhu2}Koga-Kubo Haruuji" age="52" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_kogakubo_2" name="{=O06DIhu2}Ashikaga Haruuji" age="52" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="52.00" weight="0.3967" build="0.6465" key="0019E80EC0000581957856B67BB8795B62686A79ACBA3699D23865C55889AC78057A665707A69257000000000000000000000000000000000000000000E40100"/>
     </face>
@@ -1762,7 +1762,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Mother (Dead) -->
-  <NPCCharacter id="dead_lord_1_kogakubo_3" name="{=xKCKGPUy}Koga-Kubo Hoshun-in" age="36" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_kogakubo_3" name="{=xKCKGPUy}Ashikaga Houshun-in" age="36" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="36.00" weight="0.4472" build="0.9136" key="000DF40D00000005048A9C09560934C598C284B55706236CBBD502B38AC7BBB9031E76350115815300000000000000000000000000000000000000002A2430C1"/>
     </face>
@@ -1780,7 +1780,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother -->
-  <NPCCharacter id="lord_1_kogakubo_4" name="{=9zqTKcqA}Koga-Kubo Fujimasa" age="23" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kogakubo_4" name="{=9zqTKcqA}Ashikaga Fujimasa" age="23" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="23.00" weight="0.1697" build="0.2171" key="0030F40EC000020197776449AAB6674B72794A574AEC3A6AC33B5C8558999988007336030797A28A000000000000000000000000000000000000000056DC0040"/>
     </face>
@@ -1799,7 +1799,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother 2 -->
-  <NPCCharacter id="lord_1_kogakubo_5" name="{=2cUjpzfQ}Koga-Kubo Teruuji" age="17" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kogakubo_5" name="{=2cUjpzfQ}Ashikaga Teruuji" age="17" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="17.00" weight="0.3252" build="0.8491" key="002EC80EC000048497777A48B8A7783C7278495767B93769D54C4AA55889BC98017D561307C7D25A000000000000000000000000000000000000000032EC0040"/>
     </face>
@@ -1818,7 +1818,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother 3 -->
-  <NPCCharacter id="lord_1_kogakubo_6" name="{=8doVlvNw}Koga-Kubo Iekunu" age="14" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kogakubo_6" name="{=8doVlvNw}Ashikaga Iekuni" age="14" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="14.00" weight="0.141" build="0.8963" key="002EF40E800002C3976275478DB5693C51688A978DD93688D64689B53899AA98037D26350799A259000000000000000000000000000000000000000042DC0041"/>
     </face>
@@ -1837,7 +1837,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Daughter -->
-  <NPCCharacter id="lord_1_kogakubo_7" name="{=olSVCZmf}Koga-Kubo Sato" age="12" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kogakubo_7" name="{=olSVCZmf}Ashikaga Sato" age="12" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="12.00" weight="0.1851" build="0.3665" key="001AF40EC0000005AB865922DD5E78ABC8F1803D7612E14414856FA986A9B1FD0F5536F20A5557B2000000000000000000000000000000000000000004AC3041"/>
     </face>
@@ -1893,7 +1893,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Father (dead) -->
-  <NPCCharacter id="dead_lord_1_sano_2" name="{=DkDMVX0S}Sano Tasutsuna" age="72" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_sano_2" name="{=DkDMVX0S}Sano Yasutsuna" age="72" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="72.00" weight="0.7919" build="0.5289" key="0031D80E400002C488738B8726B76859A36869668AB838B9C44696754899CA680678C66707B6A29900000000000000000000000000000000000000003CE40101"/>
     </face>
@@ -2655,7 +2655,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son -->
-  <NPCCharacter id="lord_2_sakai_2" name="{=JgzJTQRD}Sakai Yasuhara" age="22" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_2_sakai_2" name="{=JgzJTQRD}Sakai Yasuharu" age="22" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.00" weight="0.2654" build="0.5208" key="0029C40E80000481A7626797BAB7799B72784B699B9E3ABBD33A89B56899A9880868468906A9A288000000000000000000000000000000000000000058DC0083"/>
     </face>
@@ -3482,7 +3482,7 @@
   </NPCCharacter>
   <!-- Nasu Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_nasu" name="{=oRMj5Dw4}Nasu Suketana" age="43" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_nasu" name="{=oRMj5Dw4}Nasu Suketane" age="43" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="43.00" weight="0.8128" build="0.8121" key="002FC40EC0000343B6728A4747A4664BA1785B75A9EA4A7AD6379C7538A9BB68047CC64607B9829B00000000000000000000000000000000000000005ADC0042"/>
     </face>

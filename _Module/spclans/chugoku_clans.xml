@@ -18,5 +18,5 @@
 	<!--amago kingdom-->
 	<Faction id="clan_amago_1" is_noble="true" name="{=bURjXC3v}Amago-shi" tier="4" owner="Hero.lord_1_amago" culture="Culture.sanyo" super_faction="Kingdom.amago" banner_key="11.163.166.1528.1528.764.764.1.0.0.635.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_yamanaka_1" is_noble="true" name="{=EVP3ylVc}Yamanaka-shi" tier="2" owner="Hero.lord_1_yamanaka" culture="Culture.sanyo" super_faction="Kingdom.amago" banner_key="11.163.166.1528.1528.764.764.1.0.0.634.171.171.483.483.764.764.0.0.0"/>
-	<Faction id="clan_tatsuhara_1" is_noble="true" name="{=JFYyHHSe}Tatsuhara-shi" tier="2" owner="Hero.lord_1_tatsuhara" culture="Culture.sanyo" super_faction="Kingdom.amago" banner_key="11.163.166.1528.1528.764.764.1.0.0.633.171.171.483.483.764.764.0.0.0"/>
+	<Faction id="clan_tatsuhara_1" is_noble="true" name="{=JFYyHHSe}Tachihara-shi" tier="2" owner="Hero.lord_1_tatsuhara" culture="Culture.sanyo" super_faction="Kingdom.amago" banner_key="11.163.166.1528.1528.764.764.1.0.0.633.171.171.483.483.764.764.0.0.0"/>
 </Factions>

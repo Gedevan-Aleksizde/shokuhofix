@@ -481,7 +481,7 @@
 		  alive="false"
 		  faction="Faction.clan_amago_1"
 		  spouse="Hero.dead_lord_1_amago_1"
-		  text="Amago Seiryo-in." />
+		  text="Amago Seiryou-in." />
 	<!--yamanaka clan-->
 	<Hero id="lord_1_yamanaka"
 		  faction="Faction.clan_yamanaka_1"
@@ -512,19 +512,19 @@
 	<Hero id="lord_1_tatsuhara"
 		  faction="Faction.clan_tatsuhara_1"
 		  spouse="Hero.lord_1_tatsuhara_1"
-		  text="Tatsuhara Hisatsuna." />
+		  text="Tachihara Hisatsuna." />
 	<Hero id="lord_1_tatsuhara_1"
 		  faction="Faction.clan_tatsuhara_1"
 		  spouse="Hero.lord_1_tatsuhara"
-		  text="Tatsuhara Fuse." />
+		  text="Tachihara Fuse." />
 	<Hero id="lord_1_tatsuhara_2"
 		  faction="Faction.clan_tatsuhara_1"
 		  father="Hero.lord_1_tatsuhara"
 		  mother="Hero.lord_1_tatsuhara_1"
-		  text="Tatsuhara Michihisa." />
+		  text="Tachihara Michihisa." />
 	<Hero id="lord_1_tatsuhara_3"
 		  faction="Faction.clan_tatsuhara_1"
 		  father="Hero.lord_1_tatsuhara"
 		  mother="Hero.lord_1_tatsuhara_1"
-		  text="Tatsuhara Mina." />
+		  text="Tachihara Nami." />
 </Heroes>
