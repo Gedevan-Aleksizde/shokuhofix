@@ -770,7 +770,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Mother (dead) -->
-  <NPCCharacter id="dead_lord_1_uchigashima_3" name="{=0wP2NHjx}Uchigashima Shinko-in" age="50" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_uchigashima_3" name="{=0wP2NHjx}Uchigashima Shinkou-in" age="50" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="50.00" weight="0.2994" build="0.7669" key="000BEC0E400000019484195D52AE69633AE68542E4A6D676CEBB8A39865E1E9E042C4646021447EE0000000000000000000000000000000000000000783C3041"/>
     </face>
@@ -921,7 +921,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_shimotsuma_1" name="{=YJnCp2Ng}Shimotsuma Tensho-in" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_shimotsuma_1" name="{=YJnCp2Ng}Shimotsuma Tenshou-in" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="38.00" weight="0.5061" build="0.4133" key="003CF40B40000006298AB6B68CB57A54A1A485DA11348B57DA63076F81D13E6E05168657014442A30000000000000000000000000000000000000000602C1081"/>
     </face>
@@ -1200,7 +1200,7 @@
   </NPCCharacter>
   <!-- noto_hatakeyama Clan -->
   <!-- Leader (actually 14) -->
-  <NPCCharacter id="lord_1_notohatakeyama" name="{=zzPufQWW}Noto-Hatakeyama Yoshikage" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_notohatakeyama" name="{=zzPufQWW}Hatakeyama Yoshinori" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.1849" build="0.1872" key="001EF40E40000501B7765A6869B5564BB2764A987CEB497AC52878554899DB780363363506977298000000000000000000000000000000000000000060D40003"/>
     </face>
@@ -1219,7 +1219,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse (actually 13) -->
-  <NPCCharacter id="lord_1_notohatakeyama_1" name="{=Uq5GEfN0}Noto-Hatakeyama Keiko" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_notohatakeyama_1" name="{=Uq5GEfN0}Hatakeyama Keiko" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.4282" build="0.6067" key="0015F40AC000000235821954EBA4164290F186C34A092EAFAC202A8A83B7468B061966670116374B000000000000000000000000000000000000000030341000"/>
     </face>
@@ -1237,7 +1237,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Father (dead) (not actually dead but exiled but bannerlord has no way to do this) -->
-  <NPCCharacter id="dead_lord_1_notohatakeyama_2" name="{=uWclrYkK}Noto-Hatakeyama Yoshitsuna" age="48" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_notohatakeyama_2" name="{=uWclrYkK}Hatakeyama Yoshitsuna" age="48" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="48.00" weight="0.3059" build="0.7813" key="0033F40EC0000203A76676C6BCB7778A82695B678D993869C63A786558999A88087C56890796A349000000000000000000000000000000000000000030DC00C3"/>
     </face>
@@ -1256,7 +1256,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Mother (dead) -->
-  <NPCCharacter id="dead_lord_1_notohatakeyama_3" name="{=L7cUrjNA}Noto-Hatakeyama Keisei-in" age="43" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_notohatakeyama_3" name="{=L7cUrjNA}Hatakeyama Keisei-in" age="43" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="43.00" weight="0.42" build="0.771" key="0034DC0E800000027A831A0AC35EE6AA20C385CB13252D787DC335B4826EA7AD020C66240023762800000000000000000000000000000000000000000C0C1080"/>
     </face>
@@ -1274,7 +1274,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother -->
-  <NPCCharacter id="lord_1_notohatakeyama_4" name="{=MzeRfL4G}Noto-Hatakeyama Yoshitaka" age="12" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_notohatakeyama_4" name="{=MzeRfL4G}Hatakeyama Yoshitaka" age="12" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="12.00" weight="0.4559" build="0.3965" key="0034C40E8000010094687438A8B7795A93674B563BB93549C53C4CA558998E980166761306D8D27A000000000000000000000000000000000000000022D40080"/>
     </face>
@@ -3541,7 +3541,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Mother (dead) -->
-  <NPCCharacter id="dead_lord_2_shibata_3" name="{=r6hPxS8L}Shibata Tensho-in" age="40" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_2_shibata_3" name="{=r6hPxS8L}Shibata Tenshou-in" age="40" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="40.00" weight="0.183" build="0.3444" key="002DDC0E40000004578586B96528CF62E3858054476ED4DA5A92E72F8ED55DE9012536130235669B0000000000000000000000000000000000000000223C3001"/>
     </face>
@@ -4474,7 +4474,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_baba_1" name="{=g6O5UTIU}Baba Shinko-in" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_baba_1" name="{=g6O5UTIU}Baba Shinkou-in" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="48.00" weight="0.2246" build="0.9127" key="0028E80F00000007688427CEB1F6BA8CC3F3842B0133923A6CDB8C4C8706C75D035E3635054428B9000000000000000000000000000000000000000078AC1000"/>
     </face>

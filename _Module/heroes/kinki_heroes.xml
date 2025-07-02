@@ -31,7 +31,7 @@
 	<Hero id="dead_lord_1_bessho_3" alive="false" faction="Faction.clan_bessho_1" spouse="Hero.dead_lord_1_bessho_2" text="{=dO3CawFk}Bessho Masu"/>
 	<Hero id="lord_1_bessho_4" faction="Faction.clan_bessho_1" father="Hero.lord_1_bessho" text="{=Brly3Pam}Bessho Nagaharu"/>
 	<Hero id="lord_1_bessho_5" faction="Faction.clan_bessho_1" father="Hero.lord_1_bessho" text="{=VYrrxnX9}Bessho Tomoyuki"/>
-	<Hero id="lord_1_bessho_6" faction="Faction.clan_bessho_1" father="Hero.lord_1_bessho" text="{=19IdACYb}Bessho Nagamasa"/>
+	<Hero id="lord_1_bessho_6" faction="Faction.clan_bessho_1" father="Hero.lord_1_bessho" text=""/>
 	<Hero id="lord_1_bessho_7" faction="Faction.clan_bessho_1" spouse="Hero.lord_1_bessho_8" father="Hero.dead_lord_1_bessho_2" text="{=gzC7F4fo}Bessho Yoshichika"/>
 	<Hero id="lord_1_bessho_8" faction="Faction.clan_bessho_1" spouse="Hero.lord_1_bessho_7" text="{=PVVSjRbo}Bessho Kashi"/>
 	<Hero id="lord_1_bessho_9" faction="Faction.clan_bessho_1" spouse="Hero.lord_1_bessho_10" father="Hero.dead_lord_1_bessho_2" text="{=qRHfzyUs}Bessho Shigemune"/>

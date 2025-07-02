@@ -51,7 +51,7 @@
 	<Hero id="lord_1_uchigashima" faction="Faction.clan_uchigashima_1" spouse="Hero.lord_1_uchigashima_1" father="Hero.dead_lord_1_uchigashima_2" mother="Hero.dead_lord_1_uchigashima_3" text="{=reQL1Reg}Uchigashima Ujimasa"/>
 	<Hero id="lord_1_uchigashima_1" faction="Faction.clan_uchigashima_1" spouse="Hero.lord_1_uchigashima" text="{=ZAVB59DI}Uchigashima Tsune"/>
 	<Hero id="dead_lord_1_uchigashima_2" alive="false" faction="Faction.clan_uchigashima_1" spouse="Hero.dead_lord_1_uchigashima_3" text="{=x5bCceO3}Uchigashima Ujitoshi"/>
-	<Hero id="dead_lord_1_uchigashima_3" alive="false" faction="Faction.clan_uchigashima_1" spouse="Hero.dead_lord_1_uchigashima_2" text="{=0wP2NHjx}Uchigashima Shinko-in"/>
+	<Hero id="dead_lord_1_uchigashima_3" alive="false" faction="Faction.clan_uchigashima_1" spouse="Hero.dead_lord_1_uchigashima_2" text="{=0wP2NHjx}Uchigashima Shinkou-in"/>
 	<Hero id="lord_1_uchigashima_4" faction="Faction.clan_uchigashima_1" father="Hero.lord_1_uchigashima" mother="Hero.lord_1_uchigashima_1" text="{=BFpJOH9B}Uchigashima Ujiyuji"/>
 	<Hero id="lord_1_uchigashima_5" faction="Faction.clan_uchigashima_1" father="Hero.lord_1_uchigashima" mother="Hero.lord_1_uchigashima_1" text="{=oWMNADvQ}Uchigashima Chise"/>
 	<Hero id="lord_1_uchigashima_6" faction="Faction.clan_uchigashima_1" father="Hero.dead_lord_1_uchigashima_2" mother="Hero.dead_lord_1_uchigashima_3" text="{=VkHrE7QN}Uchigashima Ujinori"/>
@@ -62,7 +62,7 @@
 	<!--Ikko-Ikki Faction
 	Shimotsuma  Clan-->
 	<Hero id="lord_1_shimotsuma" faction="Faction.clan_shimotsuma_1" spouse="Hero.lord_1_shimotsuma_1" text="{=nO8nbFeD}Shimotsuma Rairen"/>
-	<Hero id="lord_1_shimotsuma_1" faction="Faction.clan_shimotsuma_1" spouse="Hero.lord_1_shimotsuma" text="{=YJnCp2Ng}Shimotsuma Tensho-in"/>
+	<Hero id="lord_1_shimotsuma_1" faction="Faction.clan_shimotsuma_1" spouse="Hero.lord_1_shimotsuma" text="{=YJnCp2Ng}Shimotsuma Tenshou-in"/>
 	<Hero id="lord_1_shimotsuma_2" faction="Faction.clan_shimotsuma_1" father="Hero.lord_1_shimotsuma" mother="Hero.lord_1_shimotsuma_1" text="{=ELQ0jKOQ}Shimotsuma Rairyou"/>
 	<Hero id="lord_1_shimotsuma_3" faction="Faction.clan_shimotsuma_1" father="Hero.lord_1_shimotsuma" mother="Hero.lord_1_shimotsuma_1" text="{=HkWcWG8X}Shimotsuma Munekiyo"/>
 	<Hero id="lord_1_shimotsuma_4" faction="Faction.clan_shimotsuma_1" father="Hero.lord_1_shimotsuma" mother="Hero.lord_1_shimotsuma_1" text="{=6EDf32QW}Shimotsuma Rengoyoku-ni"/>
@@ -81,11 +81,11 @@
 	
 	<!--Hatakeyama Faction
 	Noto-Hatakeyama Clan-->
-	<Hero id="lord_1_notohatakeyama" faction="Faction.clan_notohatakeyama_1" spouse="Hero.lord_1_notohatakeyama_1" father="Hero.dead_lord_1_notohatakeyama_2" mother="Hero.dead_lord_1_notohatakeyama_3" text="{=zzPufQWW}Noto-Hatakeyama Yoshikage"/>
-	<Hero id="lord_1_notohatakeyama_1" faction="Faction.clan_notohatakeyama_1" spouse="Hero.lord_1_notohatakeyama" text="{=Uq5GEfN0}Noto-Hatakeyama Keiko"/>
-	<Hero id="dead_lord_1_notohatakeyama_2" alive="false" faction="Faction.clan_notohatakeyama_1" spouse="Hero.dead_lord_1_notohatakeyama_3" text="{=uWclrYkK}Noto-Hatakeyama Yoshitsuna"/>
-	<Hero id="dead_lord_1_notohatakeyama_3" alive="false" faction="Faction.clan_notohatakeyama_1" spouse="Hero.dead_lord_1_notohatakeyama_2" text="{=L7cUrjNA}Noto-Hatakeyama Keisei-in"/>
-	<Hero id="lord_1_notohatakeyama_4" faction="Faction.clan_notohatakeyama_1" father="Hero.dead_lord_1_notohatakeyama_2" mother="Hero.dead_lord_1_notohatakeyama_3" text="{=MzeRfL4G}Noto-Hatakeyama Yoshitaka"/>
+	<Hero id="lord_1_notohatakeyama" faction="Faction.clan_notohatakeyama_1" spouse="Hero.lord_1_notohatakeyama_1" father="Hero.dead_lord_1_notohatakeyama_2" mother="Hero.dead_lord_1_notohatakeyama_3" text="{=zzPufQWW}Hatakeyama Yoshinori"/>
+	<Hero id="lord_1_notohatakeyama_1" faction="Faction.clan_notohatakeyama_1" spouse="Hero.lord_1_notohatakeyama" text="{=Uq5GEfN0}Hatakeyama Keiko"/>
+	<Hero id="dead_lord_1_notohatakeyama_2" alive="false" faction="Faction.clan_notohatakeyama_1" spouse="Hero.dead_lord_1_notohatakeyama_3" text="{=uWclrYkK}Hatakeyama Yoshitsuna"/>
+	<Hero id="dead_lord_1_notohatakeyama_3" alive="false" faction="Faction.clan_notohatakeyama_1" spouse="Hero.dead_lord_1_notohatakeyama_2" text="{=L7cUrjNA}Hatakeyama Keisei-in"/>
+	<Hero id="lord_1_notohatakeyama_4" faction="Faction.clan_notohatakeyama_1" father="Hero.dead_lord_1_notohatakeyama_2" mother="Hero.dead_lord_1_notohatakeyama_3" text="{=MzeRfL4G}Hatakeyama Yoshitaka"/>
 	<!--Chou Clan-->
 	<Hero id="lord_1_cho" faction="Faction.clan_cho_1" spouse="Hero.lord_1_cho_1" text="{=Ykm1ZcKt}Chou Tsugutsura"/>
 	<Hero id="lord_1_cho_1" faction="Faction.clan_cho_1" spouse="Hero.lord_1_cho" text="{=54P6AoCQ}Chou Kine"/>
@@ -236,7 +236,7 @@
 	<Hero id="lord_2_shibata" faction="Faction.clan_shibata_2" spouse="Hero.lord_2_shibata_1" father="Hero.dead_lord_2_shibata_2" mother="Hero.dead_lord_2_shibata_3" text="{=4yJ1D3Lk}Shibata Nagaatsu"/>
 	<Hero id="lord_2_shibata_1" faction="Faction.clan_shibata_2" spouse="Hero.lord_2_shibata" text="{=N5nPQ9iT}Shibata Saki"/>
 	<Hero id="dead_lord_2_shibata_2" alive="false" faction="Faction.clan_shibata_2" spouse="Hero.dead_lord_2_shibata_3" text="{=jeDlQqJW}shibata Tsunasada"/>
-	<Hero id="dead_lord_2_shibata_3" alive="false" faction="Faction.clan_shibata_2" spouse="Hero.dead_lord_2_shibata_2" text="{=LVyZvRCD}shibata Tensho-in"/>
+	<Hero id="dead_lord_2_shibata_3" alive="false" faction="Faction.clan_shibata_2" spouse="Hero.dead_lord_2_shibata_2" text="{=LVyZvRCD}shibata Tenshou-in"/>
 	<Hero id="lord_2_shibata_4" faction="Faction.clan_shibata_2" spouse="Hero.lord_2_shibata_5" father="Hero.dead_lord_2_shibata_2" mother="Hero.dead_lord_2_shibata_3" text="{=Vnl5lCcr}Shibata Shigeie"/>
 	<Hero id="lord_2_shibata_5" faction="Faction.clan_shibata_2" spouse="Hero.lord_2_shibata_4" text="{=msDDZ9zQ}Shibata Kotake"/>
 	<!--Jinbo Clan-->
@@ -296,7 +296,7 @@
 	<Hero id="lord_1_takeda_15" faction="Faction.clan_takeda_1" spouse="Hero.lord_1_takeda_14" text="{=Kr9vJDJr}Takeda Koharu"/>
 	<!--Baba Clan-->
 	<Hero id="lord_1_baba" faction="Faction.clan_baba_1" spouse="Hero.lord_1_baba_1" text="{=mf6qRfQ9}Baba Nobuharu"/>
-	<Hero id="lord_1_baba_1" faction="Faction.clan_baba_1" spouse="Hero.lord_1_baba" text="{=g6O5UTIU}Baba Shinko-in"/>
+	<Hero id="lord_1_baba_1" faction="Faction.clan_baba_1" spouse="Hero.lord_1_baba" text="{=g6O5UTIU}Baba Shinkou-in"/>
 	<Hero id="lord_1_baba_2" faction="Faction.clan_baba_1" spouse="Hero.lord_1_baba_3" father="Hero.lord_1_baba" mother="Hero.lord_1_baba_1" text="{=sUPNtt42}Baba Masafusa"/>
 	<Hero id="lord_1_baba_3" faction="Faction.clan_baba_1" spouse="Hero.lord_1_baba_2" text="{=DHiUrEoe}Baba Tatsu"/>
 	<Hero id="lord_1_baba_4" faction="Faction.clan_baba_1" spouse="Hero.lord_1_baba_5" father="Hero.lord_1_baba" mother="Hero.lord_1_baba_1" text="{=fcNnjXsC}Baba Nobuyoshi"/>
