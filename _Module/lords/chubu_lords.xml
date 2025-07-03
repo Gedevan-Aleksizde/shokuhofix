@@ -1145,7 +1145,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_shichiri_1" name="{=HBQgU0KK}Shichiri Renmyo-in" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_shichiri_1" name="{=HBQgU0KK}Shichiri Renmyou-in" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="38.00" weight="0.0491" build="0.5629" key="003DE40E80000005778737BE9C267A5F4D92861CCF669D53447FD78B8D9FCA7C03281635022148360000000000000000000000000000000000000000684C30C1"/>
     </face>
@@ -1163,7 +1163,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Daughter -->
-  <NPCCharacter id="lord_1_shichiri_2" name="{=YxadjwHu}Shichiri Shoko-ni" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_shichiri_2" name="{=YxadjwHu}Shichiri Shoukou-ni" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.2035" build="0.6876" key="0024F00F8000000397873CDA191C247CADF687361BA3074CD4A42DB28A46C8BE038A3635086758D10000000000000000000000000000000000000000750440C0"/>
     </face>
@@ -5786,7 +5786,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son -->
-  <NPCCharacter id="lord_1_okabe_4" name="{=jDEOJ3VU}Okabe Masataka" age="33" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_okabe_4" name="{=jDEOJ3VU}Okabe Sanetaka" age="33" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="33.00" weight="0.5168" build="0.2833" key="0036EC0E80000703A5656A37CAA65A2B51674A3639A94597C43AA87548899D880664866806C7D278000000000000000000000000000000000000000026D40041"/>
     </face>

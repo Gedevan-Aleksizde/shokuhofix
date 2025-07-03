@@ -1263,7 +1263,7 @@
       <EquipmentSet id="nankai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_miyoshi_5" name="{=diWjBHKp}Miyoshi Syoko-in" age="38" voice="curt" default_group="Cavalry" is_female="true" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_miyoshi_5" name="{=diWjBHKp}Miyoshi Syoukou-in" age="38" voice="curt" default_group="Cavalry" is_female="true" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="38.00" weight="0.4914" build="0.5397" key="001CEC0AC00000052D853332E79E32E9C9A6843D44D3237C6281C3C58436278D056876570621469B000000000000000000000000000000000000000056C42041"/>
     </face>
@@ -1378,7 +1378,7 @@
   <!--sogo clan-->
   <!--parents-->
   <!--child marriage-->
-  <NPCCharacter id="dead_lord_1_sogo_1" name="{=4jgyfZ85}Sogo Kazumasa" age="29" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_sogo_1" name="{=4jgyfZ85}Sogou Kazumasa" age="29" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="29.00" weight="0.8894" build="0.6575" key="0033E00E80000200976065B64CB8668A82777A957C8A446BD227AB3548998C78047AD64507A98287000000000000000000000000000000000000000068EC0042"/>
     </face>
@@ -1396,7 +1396,7 @@
       <EquipmentSet id="nankai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="dead_lord_1_sogo_2" name="{=4MZmJxE6}Sogo Komyo-in" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_sogo_2" name="{=4MZmJxE6}Sogou Komyo-in" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="38.00" weight="0.5533" build="0.3749" key="001BF40AC0000004AA8B8860872A242DF5A282099683684873CEDEED877F86FE08868689083131BE000000000000000000000000000000000000000057043100"/>
     </face>
@@ -1414,7 +1414,7 @@
     </Equipments>
   </NPCCharacter>
   <!--Leader-->
-  <NPCCharacter id="lord_1_sogo" name="{=uu3PRYD5}Sogo Masayasu" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_sogo" name="{=uu3PRYD5}Sogou Masayasu" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.6058" build="0.7179" key="002DE00E40000382A8716A768CB4738AD1667B87B9DD447AD448795558A98D78036B963506979389000000000000000000000000000000000000000068CC00C0"/>
     </face>
@@ -1432,7 +1432,7 @@
       <EquipmentSet id="nankai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_sogo_1" name="{=HxfQ7WNA}Sogo Satsuki" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_sogo_1" name="{=HxfQ7WNA}Sogou Satsuki" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.2898" build="0.3933" key="0007E40F000000016688A5AB41F47950D386803BA3BDC85F4EE0BC898E6BD8ED053646570355387E00000000000000000000000000000000000000004E7430C1"/>
     </face>
@@ -1450,7 +1450,7 @@
     </Equipments>
   </NPCCharacter>
   <!--brother-->
-  <NPCCharacter id="lord_1_sogo_2" name="{=GLB0eZon}Sogo Masayuki" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_sogo_2" name="{=GLB0eZon}Sogou Masayuki" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.4553" build="0.618" key="003ECC0E800005C4986667B92BC6579AB2787A7847AA3787D33B77D538899DA80279762407DAD37A00000000000000000000000000000000000000006ADC00C2"/>
     </face>
@@ -1468,7 +1468,7 @@
       <EquipmentSet id="nankai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_sogo_3" name="{=nKh0IYa0}Sogo Mayu" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_sogo_3" name="{=nKh0IYa0}Sogou Mayu" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.153" build="0.738" key="002AF00C4000000692807ABCFECBDD6572A08518ECC5DB992458B8B78D15028C063B2668033073B000000000000000000000000000000000000000000A643041"/>
     </face>
@@ -1486,7 +1486,7 @@
     </Equipments>
   </NPCCharacter>
   <!--relative-->
-  <NPCCharacter id="lord_1_sogo_4" name="{=dBBf1wOB}Sogo Kazuyuki" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_sogo_4" name="{=dBBf1wOB}Sogou Kazuyuki" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.6935" build="0.6192" key="001CEC0E40000640A673573887A46B3A51688B5A79E83489D33C7AB55889BA880679A66707D7723B000000000000000000000000000000000000000076E40141"/>
     </face>
@@ -1504,7 +1504,7 @@
       <EquipmentSet id="nankai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_sogo_5" name="{=GiqQGwGA}Sogo Yamagiri" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_sogo_5" name="{=GiqQGwGA}Sogou Yamagiri" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.393" build="0.4438" key="000DE80E800000056C878609E11D39C1E3E584D94839D62CE3C72F5C8110BC9C05376657034358A100000000000000000000000000000000000000007A6C3000"/>
     </face>
@@ -1523,7 +1523,7 @@
   </NPCCharacter>
   <!--shingai clan-->
   <!--Leader-->
-  <NPCCharacter id="lord_1_shingai" name="{=cjm2q36D}Shingai Dozen" age="38" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_shingai" name="{=cjm2q36D}Shingai Douzen" age="38" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="38.00" weight="0.4166" build="0.6238" key="0019DC0EC00001C29671894765A4585AC2776A66679A3878D52959556899DB880279662407A7925B00000000000000000000000000000000000000001CDC00C3"/>
     </face>

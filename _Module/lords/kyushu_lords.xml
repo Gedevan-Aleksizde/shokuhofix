@@ -1055,7 +1055,7 @@
     </Equipments>
   </NPCCharacter>
   <!--relative 2 son-->
-  <NPCCharacter id="lord_1_kawakami_13" name="{=Ax7ZFxHb}Kawakami Tadataka" age="10" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kawakami_13" name="{=Ax7ZFxHb}Kawakami Tadakata" age="10" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="10.00" weight="0.3216" build="0.5651" key="0020DC0E8000000196777749ACB66A8A72797A888B893848D4396D7558A98D880D7856D20AA9737900000000000000000000000000000000000000005AEC0141"/>
     </face>
@@ -1093,7 +1093,7 @@
     </Equipments>
   </NPCCharacter>
   <!--relative 2 son 3-->
-  <NPCCharacter id="lord_1_kawakami_15" name="{=HjyxWWhy}Kawakami Hisatomo" age="4" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kawakami_15" name="{=HjyxWWhy}Kawakami Tadatomo" age="4" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="4.00" weight="0.3925" build="0.2605" key="001DE40E400003038562559956A8776C91674A865BBC3567D34A58754899BD68017466130797A35A00000000000000000000000000000000000000004AEC0103"/>
     </face>
@@ -1205,7 +1205,7 @@
     </Equipments>
   </NPCCharacter>
   <!--son son-->
-  <NPCCharacter id="lord_1_uwai_4" name="{=Otv143ry}Uwai Yunekane" age="3" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_uwai_4" name="{=Otv143ry}Uwai Tsunekane" age="3" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="3.00" weight="0.5473" build="0.1438" key="0020DC0E40000784B5717A8967A6644CA2756A495B9A35A8C63B96453899AA880762867906C6A287000000000000000000000000000000000000000038CC0001"/>
     </face>
@@ -1224,7 +1224,7 @@
     </Equipments>
   </NPCCharacter>
   <!--son 2-->
-  <NPCCharacter id="lord_1_uwai_5" name="{=ELhVncx1}Uwai Hideake" age="22" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_uwai_5" name="{=ELhVncx1}Uwai Hideaki" age="22" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.00" weight="0.6051" build="0.7926" key="0021F40E4000028296716BA88AC7594A62666A77A9F94A5CD4365A9568899878027C962407C9D358000000000000000000000000000000000000000064EC0083"/>
     </face>
@@ -1315,9 +1315,9 @@
       <EquipmentSet id="saikai_civ_template_default_female" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <!--Niro clan-->
+  <!--Nīro clan-->
   <!--Leader-->
-  <NPCCharacter id="lord_1_niro" name="{=dcCPC5JH}Niro Tadamoto" age="42" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_niro" name="{=dcCPC5JH}Nīro Tadamoto" age="42" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="42.00" weight="0.6376" build="0.3419" key="003CC40EC0000403957168B9BCA7688BD2696979A8D948B7D2364995589999780365A63506A8C279000000000000000000000000000000000000000012D400C1"/>
     </face>
@@ -1336,7 +1336,7 @@
     </Equipments>
   </NPCCharacter>
   <!--spouse-->
-  <NPCCharacter id="lord_1_niro_1" name="{=uOiEhWdc}Niro Shima" age="43" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_niro_1" name="{=uOiEhWdc}Nīro Shima" age="43" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="43.00" weight="0.4301" build="0.9262" key="0002E00E80000002328B49EE813CCE6F5790873A8A31B54228BE194586FA3B7D094E66920651652400000000000000000000000000000000000000006A7C30C0"/>
     </face>
@@ -1354,7 +1354,7 @@
     </Equipments>
   </NPCCharacter>
   <!--Son-->
-  <NPCCharacter id="lord_1_niro_2" name="{=VHFYSwnu}Niro Tadaaki" age="14" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_niro_2" name="{=VHFYSwnu}Niro Tadataka" age="14" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="14.00" weight="0.2272" build="0.7947" key="001BD00E400004C2B66365573DB5775A91695A5758CE355CC32D5A953889CB78057C365707B9B36700000000000000000000000000000000000000005EEC0041"/>
     </face>
@@ -1373,7 +1373,7 @@
     </Equipments>
   </NPCCharacter>
   <!--Son 2-->
-  <NPCCharacter id="lord_1_niro_3" name="{=we21zLIb}Niro Tadamasu" age="10" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_niro_3" name="{=we21zLIb}Nīro Tadamasu" age="10" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="10.00" weight="0.1321" build="0.4101" key="001AD00E40000681A57178377AB6797A7268796836EB34ABC338AAB56899DA680866268906A9A23900000000000000000000000000000000000000002CD40043"/>
     </face>
@@ -1392,7 +1392,7 @@
     </Equipments>
   </NPCCharacter>
   <!--Daughter-->
-  <NPCCharacter id="lord_1_niro_4" name="{=8SPgT8lv}Niro Kaya" age="8" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_niro_4" name="{=8SPgT8lv}Nīro Kaya" age="8" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="8.00" weight="0.7187" build="0.4668" key="0019F00E80000003A6637946C8B6585C61694B48BC89496BC6373B754889AA880677B66807A7926A00000000000000000000000000000000000000005EEC0102"/>
     </face>
@@ -1411,7 +1411,7 @@
     </Equipments>
   </NPCCharacter>
   <!--relative-->
-  <NPCCharacter id="lord_1_niro_5" name="{=JhlzLqNk}Niro Yasuhisa" age="47" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_niro_5" name="{=JhlzLqNk}Nīro Yasuhisa" age="47" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="47.00" weight="0.8214" build="0.3142" key="0032F00EC00005C1A572559729C6776A62787A4669CD455BC328474558999B780775C67807C9834A00000000000000000000000000000000000000004CE40081"/>
     </face>
@@ -1430,7 +1430,7 @@
     </Equipments>
   </NPCCharacter>
   <!--relative spouse-->
-  <NPCCharacter id="lord_1_niro_6" name="{=B8yOZDB1}Niro Sue" age="43" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_niro_6" name="{=B8yOZDB1}Nīro Sue" age="43" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="43.00" weight="0.385" build="0.3749" key="001AF00A800000076D8498C9D42D4D6270A5873829552C482A994D148BD31CCD00866603085387CF000000000000000000000000000000000000000061044040"/>
     </face>
@@ -1448,7 +1448,7 @@
     </Equipments>
   </NPCCharacter>
   <!--Relative son-->
-  <NPCCharacter id="lord_1_niro_7" name="{=wqENKt24}Niro Hisaatsu" age="21" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_niro_7" name="{=wqENKt24}Nīro Hisaatsu" age="21" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="21.00" weight="0.2944" build="0.8734" key="0023E80E40000443A578643696C67959A1764B6AA9BD378AC339A78548A9CBA8027D462407A9C39A000000000000000000000000000000000000000004E40082"/>
     </face>
@@ -1467,7 +1467,7 @@
     </Equipments>
   </NPCCharacter>
   <!--Relative son 2-->
-  <NPCCharacter id="lord_1_niro_8" name="{=NkRdYQ2Z}Niro Tadahide" age="13" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_niro_8" name="{=NkRdYQ2Z}Nīro Tadahide" age="13" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="13.00" weight="0.2033" build="0.588" key="0036C80EC0000183857677866CB7783B82696A3AAD8A3798D5376C553899BB980369363506A6C288000000000000000000000000000000000000000020D40002"/>
     </face>
@@ -2559,7 +2559,7 @@
   </NPCCharacter>
   <!--yasutomi clan-->
   <!--leader-->
-  <NPCCharacter id="lord_1_yasutomi" name="{=hPnLYYJO}Yasutomi Suminao" age="50" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_yasutomi" name="{=hPnLYYJO}Yasutomi Sadanao" age="50" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="50.00" weight="0.8534" build="0.7144" key="0020D00EC0000683976587A73CC5675AA2695A6A69DA4A5BC6288D654899BD68047BD64607C9A24A000000000000000000000000000000000000000014E40000"/>
     </face>
@@ -4688,7 +4688,7 @@
     </Equipments>
   </NPCCharacter>
   <!--leader-->
-  <NPCCharacter id="lord_1_mera" name="{=2CvJRlY1}Mera Suketugu" age="31" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_mera" name="{=2CvJRlY1}Mera Suketsugu" age="31" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="31.00" weight="0.1296" build="0.7965" key="003DD00EC0000084847766C8A5A4575BD367499568B94787D34879653889AA98057C265707988388000000000000000000000000000000000000000032EC0081"/>
     </face>
@@ -4868,7 +4868,7 @@
     </Equipments>
   </NPCCharacter>
   <!--relatives-->
-  <NPCCharacter id="lord_1_nagakura_2" name="{=a0POjhcf}Nagakura Dounsai" age="58" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_nagakura_2" name="{=a0POjhcf}Nagakura Douunsai" age="58" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="58.00" weight="0.8219" build="0.3625" key="001AE00E400000049764666996B67B2A526579655BDD4689D24CA9855899BCA80E75C6E20B98928A000000000000000000000000000000000000000008EC0083"/>
     </face>

@@ -493,7 +493,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son 2 -->
-  <NPCCharacter id="lord_1_soma_3" name="{=l7TOWvmc}Souma Taketane" age="17" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_soma_3" name="{=l7TOWvmc}Souma Takatane" age="17" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="17.00" weight="0.6847" build="0.5773" key="0026F00E80000001956079C9A9B5727B82767965BBFA497BC53D987558A9AC780269A62406D8A28A000000000000000000000000000000000000000046D40040"/>
     </face>
@@ -1377,7 +1377,7 @@
   </NPCCharacter>
   <!-- Ōsaki Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_osaki" name="{=CS8KPrQ8}Ōsaki Yoshitaki" age="20" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_osaki" name="{=CS8KPrQ8}Ōsaki Yoshitaka" age="20" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="20.00" weight="0.2807" build="0.7933" key="003DEC0EC00001C2A56678875BB5597B92755A5938FB4577D33C9A554889BD88047C46450798D34B000000000000000000000000000000000000000072DC0143"/>
     </face>

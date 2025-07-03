@@ -49,18 +49,18 @@
 	<Hero id="lord_1_matsuda_8" faction="Faction.clan_matsuda_1" father="Hero.lord_1_matsuda_6" mother="Hero.lord_1_matsuda_7" text=""/>
 	<Hero id="lord_1_matsuda_9" faction="Faction.clan_matsuda_1" spouse="Hero.lord_1_matsuda_10" father="Hero.dead_lord_1_matsuda_4" mother="Hero.dead_lord_1_matsuda_5" text=""/>
 	<Hero id="lord_1_matsuda_10" faction="Faction.clan_matsuda_1" spouse="Hero.lord_1_matsuda_9" text=""/>
-	<!--Toyama Clan-->
+	<!--Tōyama Clan-->
 	<Hero id="lord_1_toyama" faction="Faction.clan_toyama_1" spouse="Hero.lord_1_toyama_1" father="Hero.dead_lord_1_toyama_2" mother="Hero.dead_lord_1_toyama_3" text=""/>
 	<Hero id="lord_1_toyama_1" faction="Faction.clan_toyama_1" spouse="Hero.lord_1_toyama" text=""/>
 	<Hero id="dead_lord_1_toyama_2" alive="false" faction="Faction.clan_toyama_1" spouse="Hero.dead_lord_1_toyama_3" text=""/>
 	<Hero id="dead_lord_1_toyama_3" alive="false" faction="Faction.clan_toyama_1" spouse="Hero.dead_lord_1_toyama_2" text=""/>
 	<Hero id="lord_1_toyama_4" faction="Faction.clan_toyama_1" father="Hero.lord_1_toyama" mother="Hero.lord_1_toyama_1" text=""/>
-	<Hero id="lord_1_toyama_5" faction="Faction.clan_toyama_1" spouse="Hero.lord_1_toyama_6" father="Hero.dead_lord_1_toyama_2" mother="Hero.dead_lord_1_toyama_3" text=""/>
+	<Hero id="lord_1_toyama_5" faction="Faction.clan_toyama_1" spouse="Hero.lord_1_toyama_6" father="Hero.dead_lord_1_toyama_2" mother="Hero.dead_lord_1_toyama_3" text="Citation needed"/>
 	<Hero id="lord_1_toyama_6" faction="Faction.clan_toyama_1" spouse="Hero.lord_1_toyama_5" text=""/>
-	<Hero id="lord_1_toyama_7" faction="Faction.clan_toyama_1" father="Hero.dead_lord_1_toyama_2" mother="Hero.dead_lord_1_toyama_3" text=""/>
-	<Hero id="lord_1_toyama_8" faction="Faction.clan_toyama_1" father="Hero.dead_lord_1_toyama_2" mother="Hero.dead_lord_1_toyama_3" text=""/>
-	<Hero id="lord_1_toyama_9" faction="Faction.clan_toyama_1" father="Hero.dead_lord_1_toyama_2" mother="Hero.dead_lord_1_toyama_3" text=""/>
-	<Hero id="lord_1_toyama_10" faction="Faction.clan_toyama_1" father="Hero.dead_lord_1_toyama_2" mother="Hero.dead_lord_1_toyama_3" text=""/>
+	<Hero id="lord_1_toyama_7" faction="Faction.clan_toyama_1" father="Hero.dead_lord_1_toyama_2" mother="Hero.dead_lord_1_toyama_3" text="Citation needed"/>
+	<Hero id="lord_1_toyama_8" faction="Faction.clan_toyama_1" father="Hero.dead_lord_1_toyama_2" mother="Hero.dead_lord_1_toyama_3" text="Citation needed"/>
+	<Hero id="lord_1_toyama_9" faction="Faction.clan_toyama_1" father="Hero.dead_lord_1_toyama_2" mother="Hero.dead_lord_1_toyama_3" text="Citation needed"/>
+	<Hero id="lord_1_toyama_10" faction="Faction.clan_toyama_1" father="Hero.dead_lord_1_toyama_2" mother="Hero.dead_lord_1_toyama_3" text="Citation needed"/>
 	<!--didoji Clan-->
 	<Hero id="lord_1_didoji" faction="Faction.clan_didoji_1" spouse="Hero.lord_1_didoji_1" text=""/>
 	<Hero id="lord_1_didoji_1" faction="Faction.clan_didoji_1" spouse="Hero.lord_1_didoji" text=""/>

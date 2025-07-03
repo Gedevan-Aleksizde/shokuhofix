@@ -132,7 +132,7 @@
 		  spouse="Hero.lord_1_yoshimi_5"
 		  father="Hero.lord_1_yoshimi"
 		  mother="Hero.lord_1_yoshimi_1"
-		  text="" />
+		  text="Citation Needed" />
 	<Hero id="lord_1_yoshimi_5"
 		  faction="Faction.clan_yoshimi_1"
 		  spouse="Hero.lord_1_yoshimi_4"
@@ -205,7 +205,7 @@
 		  faction="Faction.clan_nanjo_1"
 		  spouse="Hero.dead_lord_1_nanjo_1"
 		  text="" />
-	<!--Misawa clan-->
+	<!--Mizawa clan-->
 	<Hero id="lord_1_misawa"
 		  faction="Faction.clan_misawa_1"
 		  spouse="Hero.lord_1_misawa_1"
@@ -329,7 +329,7 @@
 		  alive="false"
 		  faction="Faction.clan_kawano_1"
 		  spouse="Hero.dead_lord_1_kawano_2"
-		  text="" />
+		  text="Citation needed" />
 	<Hero id="dead_lord_1_kawano_2"
 		  alive="false"
 		  faction="Faction.clan_kawano_1"

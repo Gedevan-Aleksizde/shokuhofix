@@ -72,7 +72,7 @@
 	<Hero id="lord_1_date_3" faction="Faction.clan_date_1" spouse="Hero.lord_1_date_2" text=""/>
 	<Hero id="dead_lord_1_date_4" alive="false" faction="Faction.clan_date_1" spouse="Hero.dead_lord_1_date_5" text=""/>
 	<Hero id="dead_lord_1_date_5" alive="false" faction="Faction.clan_date_1" spouse="Hero.dead_lord_1_date_4" text=""/>
-	<Hero id="lord_1_date_6" faction="Faction.clan_date_1" father="Hero.lord_1_date" mother="Hero.lord_1_date_1" text=""/>
+	<Hero id="lord_1_date_6" faction="Faction.clan_date_1" father="Hero.lord_1_date" mother="Hero.lord_1_date_1" text="Bontenmaru."/>
 	<Hero id="lord_1_date_7" faction="Faction.clan_date_1" spouse="Hero.lord_1_date_8" father="Hero.dead_lord_1_date_4" mother="Hero.dead_lord_1_date_5" text=""/>
 	<Hero id="lord_1_date_8" faction="Faction.clan_date_1" spouse="Hero.lord_1_date_7" text=""/>
 	<Hero id="lord_1_date_9" faction="Faction.clan_date_1" father="Hero.lord_1_date_7" mother="Hero.lord_1_date_8" text=""/>

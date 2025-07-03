@@ -106,7 +106,7 @@
 	
 	<!--Oda Faction
 	Maeda Clan-->
-	<Hero id="lord_1_maeda" faction="Faction.clan_maeda_1" spouse="Hero.lord_1_maeda_1" father="Hero.dead_lord_1_maeda_2" mother="Hero.lord_1_maeda_3" text=""/>
+	<Hero id="lord_1_maeda" faction="Faction.clan_maeda_1" spouse="Hero.lord_1_maeda_1" father="Hero.dead_lord_1_maeda_2" mother="Hero.lord_1_maeda_3" text="Maeda Matazaemon"/>
 	<Hero id="lord_1_maeda_1" faction="Faction.clan_maeda_1" spouse="Hero.lord_1_maeda" text=""/>
 	<Hero id="dead_lord_1_maeda_2" alive="false" faction="Faction.clan_maeda_1" spouse="Hero.lord_1_maeda_3" text=""/>
 	<!--can they be married to a dead guy? might need to remove-->
@@ -150,7 +150,7 @@
 
 	<!--Tokugawa Faction
 	Tokugawa Clan-->
-	<Hero id="lord_1_tokugawa" faction="Faction.clan_tokugawa_1" spouse="Hero.lord_1_tokugawa_1" text=""/>
+	<Hero id="lord_1_tokugawa" faction="Faction.clan_tokugawa_1" spouse="Hero.lord_1_tokugawa_1" text="This is miso."/>
 	<Hero id="lord_1_tokugawa_1" faction="Faction.clan_tokugawa_1" spouse="Hero.lord_1_tokugawa" text=""/>
 	<Hero id="lord_1_tokugawa_2" faction="Faction.clan_tokugawa_1" father="Hero.lord_1_tokugawa" mother="Hero.lord_1_tokugawa_1" text=""/>
 	<Hero id="lord_1_tokugawa_3" faction="Faction.clan_tokugawa_1" father="Hero.lord_1_tokugawa" mother="Hero.lord_1_tokugawa_1" text=""/>
@@ -208,7 +208,7 @@
 	<Hero id="lord_1_hattori_10" faction="Faction.clan_hattori_1" father="Hero.lord_1_hattori_8" mother="Hero.lord_1_hattori_9" text=""/>
 	<!--Uesugi Faction
 	Uesugi Clan-->
-	<Hero id="lord_1_uesugi" faction="Faction.clan_uesugi_1" father="Hero.dead_lord_1_uesugi_1" mother="Hero.lord_1_uesugi_2" text=""/>
+	<Hero id="lord_1_uesugi" faction="Faction.clan_uesugi_1" father="Hero.dead_lord_1_uesugi_1" mother="Hero.lord_1_uesugi_2" text="Uesugi Heizou Fushikian Kenshin, former Nagao Kagetora."/>
 	<!--Step dad because Kenshin was adopted, but bannerlord can't do that so congratulations they're your real parents now.-->
 	<Hero id="dead_lord_1_uesugi_1" alive="false" faction="Faction.clan_uesugi_1" spouse="Hero.lord_1_uesugi_2" text=""/>
 	<!--can they be married to a dead guy? might need to remove-->
@@ -278,7 +278,7 @@
 
 	<!--Takeda Faction
 	Takeda Clan-->
-	<Hero id="lord_1_takeda" faction="Faction.clan_takeda_1" spouse="Hero.lord_1_takeda_1" father="Hero.dead_lord_1_takeda_2" mother="Hero.dead_lord_1_takeda_3" text=""/>
+	<Hero id="lord_1_takeda" faction="Faction.clan_takeda_1" spouse="Hero.lord_1_takeda_1" father="Hero.dead_lord_1_takeda_2" mother="Hero.dead_lord_1_takeda_3" text="Takeda Tokueiken Shingen, former Harunobu."/>
 	<Hero id="lord_1_takeda_1" faction="Faction.clan_takeda_1" spouse="Hero.lord_1_takeda" text=""/>
 	<Hero id="dead_lord_1_takeda_2" alive="false" faction="Faction.clan_takeda_1" spouse="Hero.dead_lord_1_takeda_3" text=""/>
 	<Hero id="dead_lord_1_takeda_3" alive="false" faction="Faction.clan_takeda_1" spouse="Hero.dead_lord_1_takeda_2" text=""/>

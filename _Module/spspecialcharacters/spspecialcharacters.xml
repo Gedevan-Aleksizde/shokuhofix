@@ -3049,7 +3049,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_tokai"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_kazama_shu_leader_0" name="{=ROAQ3r08}Kotaro of the Kazama-shū" voice="curt" age="24" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kanto" occupation="Lord">
+	<NPCCharacter id="spc_kazama_shu_leader_0" name="{=ROAQ3r08}Kotarou of the Kazama-shū" voice="curt" age="24" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kanto" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -3068,7 +3068,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_kanto"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_kazama_shu_leader_1" name="{=tDyOs33I}Shinzo of the Kazama-shū" voice="curt" age="29" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kanto" occupation="Lord">
+	<NPCCharacter id="spc_kazama_shu_leader_1" name="{=tDyOs33I}Shinzou of the Kazama-shū" voice="curt" age="29" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kanto" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -3087,7 +3087,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_kanto"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_kazama_shu_leader_2" name="{=4MEC7NCo}Tatsugoro of the Kazama-shū" voice="curt" age="31" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kanto" occupation="Lord">
+	<NPCCharacter id="spc_kazama_shu_leader_2" name="{=4MEC7NCo}Tatsugorou of the Kazama-shū" voice="curt" age="31" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kanto" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>

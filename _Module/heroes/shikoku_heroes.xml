@@ -12,7 +12,7 @@
 	<!--kashuji clan-->
 	<Hero id="lord_1_kashuji" faction="Faction.clan_kashuji_1" spouse="Hero.lord_1_kashuji_1" text=""/>
 	<Hero id="lord_1_kashuji_1" faction="Faction.clan_kashuji_1" spouse="Hero.lord_1_kashuji" text=""/>
-	<Hero id="lord_1_kashuji_2" faction="Faction.clan_kashuji_1" spouse="Hero.lord_1_kashuji_3" father="Hero.lord_1_kashuji" mother="Hero.lord_1_kashuji_1" text=""/>
+	<Hero id="lord_1_kashuji_2" faction="Faction.clan_kashuji_1" spouse="Hero.lord_1_kashuji_3" father="Hero.lord_1_kashuji" mother="Hero.lord_1_kashuji_1" text="Citation needed"/>
 	<Hero id="lord_1_kashuji_3" faction="Faction.clan_kashuji_1" spouse="Hero.lord_1_kashuji_2" text=""/>
 	<!--hoketsu clan-->
 	<Hero id="lord_1_hoketsu" faction="Faction.clan_hoketsu_1" spouse="Hero.lord_1_hoketsu_1" text=""/>

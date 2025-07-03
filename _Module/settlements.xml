@@ -678,7 +678,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_CHU9" name="{=MGzfCArb}Misawa Castle" owner="Faction.clan_misawa_1" posX="582.689" posY="626.95" culture="Culture.sanyo" gate_posX="584.486" gate_posY="625.872">
+  <Settlement id="castle_CHU9" name="{=MGzfCArb}Mizawa Castle" owner="Faction.clan_misawa_1" posX="582.689" posY="626.95" culture="Culture.sanyo" gate_posX="584.486" gate_posY="625.872">
     <Components>
       <Town id="castle_comp_CHU9" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="610"/>
     </Components>
@@ -7978,7 +7978,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_SHI10" name="{=cvw8Hsv2}Sogo Castle" owner="Faction.clan_sogo_1" posX="708.281" posY="519.21" culture="Culture.nankai" gate_posX="710.078" gate_posY="518.132">
+  <Settlement id="castle_SHI10" name="{=cvw8Hsv2}Sogou Castle" owner="Faction.clan_sogo_1" posX="708.281" posY="519.21" culture="Culture.nankai" gate_posX="710.078" gate_posY="518.132">
     <Components>
       <Town id="castle_comp_SHI10" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_town" gate_rotation="0.000" prosperity="1055"/>
     </Components>

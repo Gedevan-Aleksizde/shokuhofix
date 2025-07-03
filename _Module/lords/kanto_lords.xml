@@ -786,9 +786,9 @@
       <EquipmentSet id="kanto_civ_template_default_female" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <!-- Toyama Clan -->
+  <!-- Tōyama Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_toyama" name="{=WSOVFn2s}Toyama Masakage" age="28" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_toyama" name="{=WSOVFn2s}Tōyama Masakage" age="28" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="28.00" weight="0.8296" build="0.4532" key="003CE40EC000004294687B475AC56B6A91796A4866BE3759D52C96D558A9A8780577C65607B8D35A000000000000000000000000000000000000000062DC0042"/>
     </face>
@@ -807,7 +807,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_toyama_1" name="{=iSVGS3Xg}Toyama Take" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_toyama_1" name="{=iSVGS3Xg}Tōyama Take" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="23.00" weight="0.1968" build="0.843" key="003CD80C800000036483473A2CACBA5ECEB486D753A1CA3C1FBE19BB8A2ADB8D002D3603025363B800000000000000000000000000000000000000002A344040"/>
     </face>
@@ -825,7 +825,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Father (dead) -->
-  <NPCCharacter id="dead_lord_1_toyama_2" name="{=hbrNLVoD}Toyama Tsunakage" age="51" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_toyama_2" name="{=hbrNLVoD}Tōyama Tsunakage" age="51" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="51.00" weight="0.5006" build="0.557" key="0024D80E800006829861598789B5646C73675B4757AC4A97C229A9553889AC780178861407B7937B000000000000000000000000000000000000000068EC0042"/>
     </face>
@@ -844,7 +844,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Mother (Dead) -->
-  <NPCCharacter id="dead_lord_1_toyama_3" name="{=KxM5VRa1}Toyama Joko-in" age="45" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_toyama_3" name="{=KxM5VRa1}Tōyama Joukou-in" age="45" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="45.00" weight="0.2026" build="0.7589" key="0038F00F400000028A828364C84A3955F4D58144DA992523E34455B884B437DE063B3668031719750000000000000000000000000000000000000000705C1100"/>
     </face>
@@ -862,7 +862,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son -->
-  <NPCCharacter id="lord_1_toyama_4" name="{=zp5C0etl}Toyama Naokage" age="8" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_toyama_4" name="{=zp5C0etl}Tōyama Naokage" age="8" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="8.00" weight="0.454" build="0.2228" key="0032E40EC00000C2B672894886B5789BB3766A6687A8349CD22DA6555899D8980273762407C8736A000000000000000000000000000000000000000048E40100"/>
     </face>
@@ -881,7 +881,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother -->
-  <NPCCharacter id="lord_1_toyama_5" name="{=lsVY4d0J}Toyama Kagemune" age="27" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_toyama_5" name="{=lsVY4d0J}Tōyama Kagemune" age="27" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="27.00" weight="0.3703" build="0.4783" key="0032D80E800005C38879787747C768294165895877ED3658C54C9C954899BCA80467664506A8B36A000000000000000000000000000000000000000022D40100"/>
     </face>
@@ -900,7 +900,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother Spouse -->
-  <NPCCharacter id="lord_1_toyama_6" name="{=wTLH9970}Toyama Tei" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_toyama_6" name="{=wTLH9970}Tōyama Tei" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="23.00" weight="0.1251" build="0.4778" key="0026E00EC0000005378C2874461F3CB64AC486ECAAB6DA236872201E89176F8E04872646084528D40000000000000000000000000000000000000000590C0081"/>
     </face>
@@ -918,7 +918,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother Son -->
-  <NPCCharacter id="lord_1_toyama_7" name="{=BEOaffU2}Toyama Kageyoshi" age="6" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_toyama_7" name="{=BEOaffU2}Tōyama Kageyoshi" age="6" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="6.00" weight="0.4661" build="0.603" key="0029CC0E80000382867376A96BC7684BC27679388AB94858D33A79A53889B9980069760206B6A38700000000000000000000000000000000000000002CD400C2"/>
     </face>
@@ -937,7 +937,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother Son 2 -->
-  <NPCCharacter id="lord_1_toyama_8" name="{=PgAQVzbF}Toyama Kagenobu" age="3" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_toyama_8" name="{=PgAQVzbF}Tōyama Kagenobu" age="3" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="3.00" weight="0.4573" build="0.2899" key="0038D00E8000058287615457C7B4775B42765A8A8A7A345AC3474CA548999A980674766707B7B388000000000000000000000000000000000000000072E400C0"/>
     </face>
@@ -956,7 +956,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother 2 -->
-  <NPCCharacter id="lord_1_toyama_9" name="{=gSd6sI0U}Toyama Hideshige" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_toyama_9" name="{=gSd6sI0U}Tōyama Hideshige" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.2961" build="0.1714" key="0036EC0E80000502856376C855B6655BA3665B883CFD4A69D3396CB56899C9880463464606C88379000000000000000000000000000000000000000042D40103"/>
     </face>
@@ -975,7 +975,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother 3 -->
-  <NPCCharacter id="lord_1_toyama_10" name="{=szgwXx0f}Toyama Shigemasa" age="13" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_toyama_10" name="{=szgwXx0f}Tōyama Shigemasa" age="13" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="13.00" weight="0.2064" build="0.1969" key="003AC80EC0000202A6796AC8AAC5645AB1668A565CE947ABC43D4A856899CB980473364507B7D379000000000000000000000000000000000000000006E40040"/>
     </face>
@@ -1368,7 +1368,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Mother (Dead) -->
-  <NPCCharacter id="dead_lord_1_chiba_3" name="{=zsUPpaIN}Chiba Seikyo-in" age="55" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_chiba_3" name="{=zsUPpaIN}Chiba Seikyou-in" age="55" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="55.00" weight="0.1203" build="0.6995" key="0012D80B00000003AD880E91754952F18DB0866949A36CC661BF29FB8123AB4B056A2657063078BE000000000000000000000000000000000000000020D41101"/>
     </face>
@@ -1575,7 +1575,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Mother (Dead) -->
-  <NPCCharacter id="dead_lord_2_oda_3" name="{=lIMwYkmk}Oda Keimyo-in" age="65" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_2_oda_3" name="{=lIMwYkmk}Oda Keimyou-in" age="65" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="65.00" weight="0.0586" build="0.5006" key="0001F00C000000010D86ECB58AC659F5B6A3848E7239C7AE5387F97A8B3C678902181624014553C30000000000000000000000000000000000000000222C1080"/>
     </face>
@@ -1987,7 +1987,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_sano_7" name="{=TtRVEzF9}Sano Jyomei-in" age="63" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_sano_7" name="{=TtRVEzF9}Sano Jyoumei-in" age="63" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="63.00" weight="0.0293" build="0.6942" key="0017EC0A8000000346879AC24CB9166980B5861A34348CE889A3B2AD81CA765B061A06680106767A0000000000000000000000000000000000000000382C3080"/>
     </face>
@@ -3127,7 +3127,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_edo_1" name="{=tLFdyt4x}Edo Seisho-in" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_edo_1" name="{=tLFdyt4x}Edo Seishou-in" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="28.00" weight="0.4703" build="0.6532" key="0012E80D00000007748D55A382ACD37BB6E583266975B6229BC299E3888B557A084A7689046360450000000000000000000000000000000000000000488430C1"/>
     </face>
@@ -3163,9 +3163,9 @@
       <EquipmentSet id="kanto_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <!-- Daijo Clan -->
+  <!-- Daijou Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_daijo" name="{=pRzOVEbH}Daijo Sadakuni" age="33" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_daijo" name="{=pRzOVEbH}Daijou Sadakuni" age="33" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="33.00" weight="0.7252" build="0.4754" key="0024E40E40000200A57369D868B6649C72793B569AE9365CC4396AC53899CC780677B66807D8834900000000000000000000000000000000000000002CEC0103"/>
     </face>
@@ -3184,7 +3184,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_daijo_1" name="{=iK6pKdiD}Daijo Fumi" age="26" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_daijo_1" name="{=iK6pKdiD}Daijou Fumi" age="26" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="26.00" weight="0.4608" build="0.2083" key="0016D80C400000059783FEDB14DEDD29189481823928C6968CE06B7C8E23BCC90633766803664577000000000000000000000000000000000000000000542081"/>
     </face>
@@ -3202,7 +3202,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Father (dead) -->
-  <NPCCharacter id="dead_lord_1_daijo_2" name="{=JrCw7IOL}Daijo Yoshimoto" age="50" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_daijo_2" name="{=JrCw7IOL}Daijou Yoshimoto" age="50" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="50.00" weight="0.734" build="0.6147" key="002AEC0E80000581A76589594CB55B6BC1683A87ADBC398CC54C9A754899A9980169B61306BA936B000000000000000000000000000000000000000006CC0140"/>
     </face>
@@ -3221,7 +3221,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Mother (Dead) -->
-  <NPCCharacter id="dead_lord_1_daijo_3" name="{=ad2F8T2d}Daijo Rensho-in" age="64" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_daijo_3" name="{=ad2F8T2d}Daijou Rensho-in" age="64" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="64.00" weight="0.1551" build="0.8902" key="0003F40C000000073B8D55EB9AB62CDDE995864F9D40E87D62A45C1F86C5166B034D26350415424E0000000000000000000000000000000000000000308C2081"/>
     </face>
@@ -3239,7 +3239,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother -->
-  <NPCCharacter id="lord_1_daijo_4" name="{=mWRFq0Y2}Daijo Tuneharu" age="21" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_daijo_4" name="{=mWRFq0Y2}Daijou Tuneharu" age="21" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="21.00" weight="0.8189" build="0.7631" key="0032D40EC0000601A6648698CDA5578C73796B574DDD4899D22B7B4548A9AA88047BC64607DA825B000000000000000000000000000000000000000062EC0083"/>
     </face>
@@ -3258,7 +3258,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother Spouse -->
-  <NPCCharacter id="lord_1_daijo_5" name="{=RHgM2Jbk}Daijo Hana" age="20" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_daijo_5" name="{=RHgM2Jbk}Daijou Hana" age="20" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="20.00" weight="0.5214" build="0.7151" key="002FD80AC0000007BF851BAFEC2347E35CC1826FD83EDC7A40361E23810131DF064B86680435823400000000000000000000000000000000000000003E8C4041"/>
     </face>
@@ -3315,7 +3315,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Mother (Dead) -->
-  <NPCCharacter id="dead_lord_1_kashima_2" name="{=lK0BVLKk}Kashima Myoke-in" age="43" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_kashima_2" name="{=lK0BVLKk}Kashima Myouke-in" age="43" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="43.00" weight="0.4886" build="0.6685" key="002EEC0AC0000007068A9BE756CC95665BF482AE6F34BA1F92490EED825376ED067A7667072220DA000000000000000000000000000000000000000070DC4040"/>
     </face>
