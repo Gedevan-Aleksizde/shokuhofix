@@ -19,7 +19,7 @@
 			 culture="Culture.ou"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=vshw4yMm}Ashina no Ryougoku"
+			 name="{=vshw4yMm}Ashina Ryougoku"
 			 short_name="{=qO2LaEJH}Ashina"
 			 title="{=qO2LaEJH}Ashina"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -40,7 +40,7 @@
 			 culture="Culture.ou"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=NuFjU4h9}Soma no Ryougoku"
+			 name="{=NuFjU4h9}Soma Ryougoku"
 			 short_name="{=lVx3gqqL}Soma"
 			 title="{=lVx3gqqL}Soma"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -61,7 +61,7 @@
 			 culture="Culture.ou"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=LUMqVU9O}Date no Ryougoku"
+			 name="{=LUMqVU9O}Date Ryougoku"
 			 short_name="{=fKx72A6I}Date"
 			 title="{=fKx72A6I}Date"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -82,7 +82,7 @@
 			 culture="Culture.ou"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=nEkrt7ID}Mogami no Ryougoku"
+			 name="{=nEkrt7ID}Mogami Ryougoku"
 			 short_name="{=9vBSHbyz}Mogami"
 			 title="{=9vBSHbyz}Mogami"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -103,7 +103,7 @@
 			 culture="Culture.ou"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=rGZyKAhx}Andou no Ryougoku"
+			 name="{=rGZyKAhx}Andou Ryougoku"
 			 short_name="{=xU6k7DMZ}Andou"
 			 title="{=xU6k7DMZ}Andou"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -124,7 +124,7 @@
 			 culture="Culture.ou"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=Utg0dgbV}Nanbu no Ryougoku"
+			 name="{=Utg0dgbV}Nanbu Ryougoku"
 			 short_name="{=lOrWIIfh}Nanbu"
 			 title="{=lOrWIIfh}Nanbu"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -146,11 +146,11 @@
 			 culture="Culture.kanto"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=742AdeFJ}Hojo no Ryougoku"
+			 name="{=742AdeFJ}Hojo Ryougoku"
 			 short_name="{=WhlNAwBH}Hojo"
 			 title="{=WhlNAwBH}Hojo"
 			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
+			 text="The vast Kantou plain is far from Kyōto, and samurai have broken out in rebellion many times for hundreds of years. While Ashikaga Shougunate founded the office of Kantou Kubou, the vice shougun; the kubous also led uprisings. Founded by Ise Shinkurou, this dynasty has experienced inheritance three times, which is called the Late Houjou, or Odawara-Houjou clan later. Now this dynasty defeated the Kubou and inherited its position, and dominated almost all of the Kantou plain and Izu peninshula.">
 		<relationships> </relationships>
 		<policies> </policies>
 	</Kingdom>
@@ -167,7 +167,7 @@
 			 culture="Culture.kanto"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=qFVVTsug}Satomi no Ryougoku"
+			 name="{=qFVVTsug}Satomi Ryougoku"
 			 short_name="{=3HM2LZLz}Satomi"
 			 title="{=3HM2LZLz}Satomi"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -188,7 +188,7 @@
 			 culture="Culture.kanto"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=bWjqvgLb}Utsunomiya no Ryougoku"
+			 name="{=bWjqvgLb}Utsunomiya Ryougoku"
 			 short_name="{=9iMMapjE}Utsunomiya"
 			 title="{=9iMMapjE}Utsunomiya"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -209,7 +209,7 @@
 			 culture="Culture.kanto"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=0QhvafT9}Satake no Ryougoku"
+			 name="{=0QhvafT9}Satake Ryougoku"
 			 short_name="{=ijCa8pDo}Satake"
 			 title="{=ijCa8pDo}Satake"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -231,7 +231,7 @@
 			 culture="Culture.hokuriku"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=97tn9Agd}Asakura no Ryougoku"
+			 name="{=97tn9Agd}Asakura Ryougoku"
 			 short_name="{=Hwgq2oHf}Asakura"
 			 title="{=Hwgq2oHf}Asakura"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -252,7 +252,7 @@
 			 culture="Culture.tosan"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=4c5OF6TQ}Anekouji no Ryougoku"
+			 name="{=4c5OF6TQ}Anekouji Ryougoku"
 			 short_name="{=QqEJybge}Anekouji"
 			 title="{=QqEJybge}Anekouji"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -273,11 +273,11 @@
 			 culture="Culture.tokai"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=OHqGIRhL}Tokugawa no Ryougoku"
+			 name="{=OHqGIRhL}Tokugawa Ryougoku"
 			 short_name="{=nAUwT8JG}Tokugawa"
 			 title="{=nAUwT8JG}Tokugawa"
 			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
+			 text="The Matstudaira clan is located between two powerful clans: the Oda clan in Owari and the Imagawa clan in Suruga. The Matsudaira clan was forced to flatter them and struggle for power inside the clan. A Few years ago, The death of Imagawa Yoshimoto is a turning point for the Matsudaira Clan. Shortly, Jirousaburou, the young head of the Matsudaira clan, renamed himself Tokugawa Ieyasu. Tokugawa is the name of a settlement that is the origin of a major branch of Genji, one of the most noble samurai dynasties. He intended to claim his origin by this name.">
 		<relationships> </relationships>
 		<policies> </policies>
 	</Kingdom>
@@ -294,11 +294,11 @@
 			 culture="Culture.hokuriku"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=sWnHr5q5}Uesugi no Ryougoku"
+			 name="{=sWnHr5q5}Uesugi Ryougoku"
 			 short_name="{=r3wkuN0u}Uesugi"
 			 title="{=r3wkuN0u}Uesugi"
 			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
+			 text="Echigo province has been the grain belt in Japan for a long time. The Nagao clan, which dominates this area, is a branch of the Taira clan, one of the major samurai clans. Kagetora, a talented head of the Nagao clan, emerged in the clan and finally won the clan's head position. Later, he protected Uesugi Norimasa, Kantou Kanrei, who was expelled by the Houjou clan, and inherited his name and position. Kanrei, meaning land steward, is an assistant or substitute of Kantou Kubou, the vice shougun of the Asikaga Shougunate. Now, he renamed himself Uesugi Kenshin. It's a great cause to intervene in the whole of East Japan. So, he acquired the three vital elements of the winner: the matter of chance, the geographic advantage, and the advantages of humans.">
 		<relationships> </relationships>
 		<policies> </policies>
 	</Kingdom>
@@ -315,7 +315,7 @@
 			 culture="Culture.hokuriku"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=8kilNkSs}Honjo no Ryougoku"
+			 name="{=8kilNkSs}Honjo Ryougoku"
 			 short_name="{=ASyaMblp}Honjo"
 			 title="{=ASyaMblp}Honjo"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -336,11 +336,11 @@
 			 culture="Culture.tosan"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=J3WAJxu3}Takeda no Ryougoku"
+			 name="{=J3WAJxu3}Takeda Ryougoku"
 			 short_name="{=AZkHq9Al}Takeda"
 			 title="{=AZkHq9Al}Takeda"
 			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
+			 text="The Kai province is completely surrounded by mountains and short of agricultural lands. Takeda Harunobu, later Shingen, made every effort to keep his land, developing the mines, a flood control project, promoting manufacturing industries, and clever diplomatic strategies. Nowadays, many things, Shingen-dumpling, Shingen-riverbanks, and so on, are named after Shingen. It can be evidence of how he focused on developing the province. However, remember that all his effort is for a single goal. Watching the road to Kyoto, the enemy is counted to nothing; the Imagawa clan that is drastically shrunk after the death of the head, Tokugawa clan that is headed by a greenhorn. Now, Shingen is ready as a tiger aiming for prey.">
 		<relationships> </relationships>
 		<policies> </policies>
 	</Kingdom>
@@ -357,7 +357,7 @@
 			 culture="Culture.tosan"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=hdkeGb7H}Imagawa no Ryougoku"
+			 name="{=hdkeGb7H}Imagawa Ryougoku"
 			 short_name="{=nJmwT7OT}Imagawa"
 			 title="{=nJmwT7OT}Imagawa"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -379,7 +379,7 @@
 			 culture="Culture.kinai"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=4SATjx3b}Akamatsu no Ryougoku"
+			 name="{=4SATjx3b}Akamatsu Ryougoku"
 			 short_name="{=7EInH5Hq}Akamatsu"
 			 title="{=7EInH5Hq}Akamatsu"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -400,11 +400,11 @@
 			 culture="Culture.kinai"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=RTJJQ1N4}Ashikaga no Ryougoku"
+			 name="{=RTJJQ1N4}Ashikaga Ryougoku"
 			 short_name="{=hMz5eeje}Ashikaga"
 			 title="{=hMz5eeje}Ashikaga"
 			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
+			 text="Now, the Ashikaga Shougunate is just an empty shell. Regional daimyous ignore the Shougunate's authority, and Kinai samurai clans scramble over the throne as a puppet. Yoshiaki, a brother of Killed pre-Shougun escaped from Kyōto and asked for help from any daimyo. Whoever has power and keeps loyalty to the Shougunate. Even if he has only the former.">
 		<relationships> </relationships>
 		<policies> </policies>
 	</Kingdom>
@@ -421,7 +421,7 @@
 			 culture="Culture.kinai"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=lqGGI5WL}Hatakeyama no Ryougoku"
+			 name="{=lqGGI5WL}Hatakeyama Ryougoku"
 			 short_name="{=4cnmTBU0}Hatakeyama"
 			 title="{=4cnmTBU0}Hatakeyama"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -442,7 +442,7 @@
 			 culture="Culture.kinai"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=V9HoIoLf}Rokkaku no Ryougoku"
+			 name="{=V9HoIoLf}Rokkaku Ryougoku"
 			 short_name="{=PGOSBt3d}Rokkaku"
 			 title="{=PGOSBt3d}Rokkaku"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -463,7 +463,7 @@
 			 culture="Culture.kinai"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=ueioOrlR}Azai no Ryougoku"
+			 name="{=ueioOrlR}Azai Ryougoku"
 			 short_name="{=0PavuhnS}Azai"
 			 title="{=0PavuhnS}Azai"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -484,11 +484,11 @@
 			 culture="Culture.kinai"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=NE0beHdI}Oda no Ryougoku"
+			 name="{=NE0beHdI}Oda Ryougoku"
 			 short_name="{=NBk1hBZz}Oda"
 			 title="{=NBk1hBZz}Oda"
 			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
+			 text="Nobunaga, once teased as the most foolish in Owari province, inherited a side stream of the Oda clan, and then, even won the main stream of the Oda clan through the subsequent succession problem. Moreover, he conquered two neighboring powerful factions: the Imagawa clan in the east and the Saitou clan in the north. He destroyed Inabayama Castle in Inokuchi, which was once the Saitou clan's resident castle, and rebuilt and renamed it Gifu Castle. He successfully allied with the Takeda clan and the Azai clan. Yosiaki, a pre-shougun's brother who is under Nobunaga's protection, can play a role as a banner to reunite Japan. It looks like everything is going well.{NEWLINE}{NEWLINE}It is said that fifty years of a human's life is as short as a momentary daydream in heaven, since long ago. However, now, it is still halfway for Nobunaga.">
 		<relationships> </relationships>
 		<policies> </policies>
 	</Kingdom>
@@ -505,11 +505,11 @@
 			 culture="Culture.kinai"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=bVqyvzea}Ikko-shu no Ryougoku"
-			 short_name="{=qD1vg0RF}Ikko-shu"
-			 title="{=qD1vg0RF}Ikko-shu"
+			 name="{=bVqyvzea}Ikkou-shū Ryougoku"
+			 short_name="{=qD1vg0RF}Ikkou-shū"
+			 title="{=qD1vg0RF}Ikkou-shū"
 			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
+			 text="Ikkou-shū is a major branch of Joudo-sinshū, a sect of Buddhism. They are also called the Honganji sect because they are led by the chief monk in Honganji. They agitated the laities whole in Japan, then occupied Nagashima castle and Kaga provinces. Ishiyama-Honganji, their headquarters temple located in Ozaka (current Ōsaka), is highly fortified with multiple layers of walls and moats, just like a samurai daimyo sitting in a high castle.">
 		<relationships> </relationships>
 		<policies> </policies>
 	</Kingdom>
@@ -527,7 +527,7 @@
 			 culture="Culture.sanyo"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=PaA2zlKr}Uragami no Ryougoku"
+			 name="{=PaA2zlKr}Uragami Ryougoku"
 			 short_name="{=KolhtpUd}Uragami"
 			 title="{=KolhtpUd}Uragami"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -548,7 +548,7 @@
 			 culture="Culture.sanyo"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=F4UZiV7f}Amago no Ryougoku"
+			 name="{=F4UZiV7f}Amago Ryougoku"
 			 short_name="{=LE5jbPP4}Amago"
 			 title="{=LE5jbPP4}Amago"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -569,11 +569,11 @@
 			 culture="Culture.sanyo"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=5DNXNGmY}Mouri no Ryougoku"
+			 name="{=5DNXNGmY}Mouri Ryougoku"
 			 short_name="{=9yOqtKzp}Mouri"
 			 title="{=9yOqtKzp}Mouri"
 			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
+			 text="At the age of Motonari, the grandfather of Terumoto, Mouri clan was small and weak. But Motonari defeated other neighborhood clans and dominated a large part of San'you and San'in regions. Two generations later, the clan kept their lands. In this period, a rising samurai clan often fell soon because of scrambles among brothers and uncles, sometimes even against their father. Though the lesson that Motonari teaches his three sons that they should be like a bundle of three arrows may be a made-up story, Terumoto's uncles assist Terumoto well. It is the actual reason he can keep the land.">
 		<relationships> </relationships>
 		<policies> </policies>
 	</Kingdom>
@@ -591,7 +591,7 @@
 			 culture="Culture.nankai"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=1kGV1kZG}Saionji no Ryougoku"
+			 name="{=1kGV1kZG}Saionji Ryougoku"
 			 short_name="{=2TWnRnkw}Saionji"
 			 title="{=2TWnRnkw}Saionji"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -612,7 +612,7 @@
 			 culture="Culture.nankai"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=aUUSaL8k}Ichijou no Ryougoku"
+			 name="{=aUUSaL8k}Ichijou Ryougoku"
 			 short_name="{=44ThIRyK}Ichijou"
 			 title="{=44ThIRyK}Ichijou"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -633,7 +633,7 @@
 			 culture="Culture.nankai"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=pWLiqObw}Chousokabe no Ryougoku"
+			 name="{=pWLiqObw}Chousokabe Ryougoku"
 			 short_name="{=do4c1Wld}Chousokabe"
 			 title="{=do4c1Wld}Chōsokabe"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -654,7 +654,7 @@
 			 culture="Culture.nankai"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=IyoVqTuy}Miyoshi no Ryougoku"
+			 name="{=IyoVqTuy}Miyoshi Ryougoku"
 			 short_name="{=YhbInKsq}Miyoshi"
 			 title="{=YhbInKsq}Miyoshi"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -676,11 +676,11 @@
 			 culture="Culture.saikai"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=HMVZVgT7}Shimazu no Ryougoku"
+			 name="{=HMVZVgT7}Shimazu Ryougoku"
 			 short_name="{=e89d6Fhr}Shimazu"
 			 title="{=e89d6Fhr}Shimazu"
 			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
+			 text="The Shimazu clan is a long-standing samurai clan in Kyushū, but it was shrinking through the generations. Tadayoshi, known as Lord Jisshin, a grandfather of Yoshihiro, is from a branch of the Shimazu clan. He inherited the head of the clan and solved the succession issues in the clan. Some of his descendants are known for being brave, other is known for being thoughtful, or other is known for fairful.">
 		<relationships> </relationships>
 		<policies> </policies>
 	</Kingdom>
@@ -697,7 +697,7 @@
 			 culture="Culture.saikai"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=KrJolclO}Kimotsuki no Ryougoku"
+			 name="{=KrJolclO}Kimotsuki Ryougoku"
 			 short_name="{=nuOTMFnL}Kimotsuki"
 			 title="{=nuOTMFnL}Kimotsuki"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -718,7 +718,7 @@
 			 culture="Culture.saikai"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=16fyo47M}Itou no Ryougoku"
+			 name="{=16fyo47M}Itou Ryougoku"
 			 short_name="{=0rDc1SBx}Itou"
 			 title="{=0rDc1SBx}Itou"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -739,7 +739,7 @@
 			 culture="Culture.saikai"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=aFBneNkA}Aso no Ryougoku"
+			 name="{=aFBneNkA}Aso Ryougoku"
 			 short_name="{=ONWqd9Hd}Aso"
 			 title="{=ONWqd9Hd}Aso"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -760,7 +760,7 @@
 			 culture="Culture.saikai"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=aiTAusH5}Sagara no Ryougoku"
+			 name="{=aiTAusH5}Sagara Ryougoku"
 			 short_name="{=qZ86Dhcd}Sagara"
 			 title="{=qZ86Dhcd}Sagara"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -781,7 +781,7 @@
 			 culture="Culture.saikai"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=taM0M0u7}Ōtomo no Ryougoku"
+			 name="{=taM0M0u7}Ōtomo Ryougoku"
 			 short_name="{=p6llIAZ9}Ōtomo"
 			 title="{=p6llIAZ9}Ōtomo"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -802,7 +802,7 @@
 			 culture="Culture.saikai"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=kveCZElo}Arima no Ryougoku"
+			 name="{=kveCZElo}Arima Ryougoku"
 			 short_name="{=HCBBJbxX}Arima"
 			 title="{=HCBBJbxX}Arima"
 			 ruler_title="{=tRwThwR8}Daimyou"
@@ -823,7 +823,7 @@
 			 culture="Culture.saikai"
 			 settlement_banner_mesh="encounter_flag_a"
 			 flag_mesh="info_screen_flags_a"
-			 name="{=uIMPOA8l}Ryūzouji no Ryougoku"
+			 name="{=uIMPOA8l}Ryūzouji Ryougoku"
 			 short_name="{=5HSblONo}Ryūzouji"
 			 title="{=5HSblONo}Ryūzouji"
 			 ruler_title="{=tRwThwR8}Daimyou"
