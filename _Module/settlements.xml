@@ -2715,7 +2715,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_CHUB29_1" name="{=ccQlu1Kg}Kiun" posX="1013.575" posY="755.69" culture="Culture.tosan" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_CHUB29_1" name="{=ccQlu1Kg}Shirakawa" posX="1013.575" posY="755.69" culture="Culture.tosan" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_CHUB29_1" village_type="VillageType.vegetable_farm" hearth="200" gate_rotation="0.008" bound="Settlement.castle_CHUB29" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
