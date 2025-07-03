@@ -1573,7 +1573,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother 2 -->
-  <NPCCharacter id="lord_1_hatakeyama_6" name="{=ACqEvloB}Hatakeyama Masanao" age="34" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hatakeyama_6" name="{=ACqEvloB}Hatakeyama Masahisa" age="34" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="34.00" weight="0.2537" build="0.1561" key="002FE40E4000000296636938B8B8697A72756A68ACC8466CC328674548899E880A7246A208A8A397000000000000000000000000000000000000000076EC0041"/>
     </face>

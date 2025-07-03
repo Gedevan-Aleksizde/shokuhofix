@@ -9,7 +9,7 @@
 		<Faction id="clan_uwai_1" is_noble="true" name="{=prFVNkLc}Uwai-shi" tier="4" owner="Hero.lord_1_uwai" culture="Culture.saikai" super_faction="Kingdom.shimazu" banner_key="11.189.191.1528.1528.764.764.1.0.0.784.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_niro_1" is_noble="true" name="{=6WeEzXMc}Nīro-shi" tier="3" owner="Hero.lord_1_niro" culture="Culture.saikai" super_faction="Kingdom.shimazu" banner_key="11.189.191.1528.1528.764.764.1.0.0.785.171.171.483.483.764.764.0.0.0"/>
 	<!--aso kingdom-->
-	<Faction id="clan_aso_1" is_noble="true" name="{=2nPDxvvU}Asou-shi" tier="6" owner="Hero.lord_1_aso" culture="Culture.saikai" super_faction="Kingdom.aso" banner_key="11.163.166.1528.1528.764.764.1.0.0.612.171.171.483.483.764.764.0.0.0"/>
+	<Faction id="clan_aso_1" is_noble="true" name="{=2nPDxvvU}Aso-shi" tier="6" owner="Hero.lord_1_aso" culture="Culture.saikai" super_faction="Kingdom.aso" banner_key="11.163.166.1528.1528.764.764.1.0.0.612.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_kai_1" is_noble="true" name="{=PcbbEMKz}Kai-shi" tier="4" owner="Hero.lord_1_kai" culture="Culture.saikai" super_faction="Kingdom.aso" banner_key="11.163.166.1528.1528.764.764.1.0.0.611.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_nawa_1" is_noble="true" name="{=yJvoBlCU}Nawa-shi" tier="4" owner="Hero.lord_1_nawa" culture="Culture.saikai" super_faction="Kingdom.aso" banner_key="11.163.166.1528.1528.764.764.1.0.0.610.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_nishi_1" is_noble="true" name="{=qfHKfquH}Nishi-shi" tier="3" owner="Hero.lord_1_nishi" culture="Culture.saikai" super_faction="Kingdom.aso" banner_key="11.163.166.1528.1528.764.764.1.0.0.612.171.171.483.483.764.764.0.0.0"/>

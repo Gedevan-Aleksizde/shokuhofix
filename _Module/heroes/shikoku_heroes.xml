@@ -108,7 +108,7 @@
 	<Hero id="lord_1_shingai_3" faction="Faction.clan_shingai_1" spouse="Hero.lord_1_shingai_2" text=""/>
 	<Hero id="lord_1_shingai_4" faction="Faction.clan_shingai_1" spouse="Hero.lord_1_shingai_5" father="Hero.lord_1_shingai" mother="Hero.lord_1_shingai_1" text=""/>
 	<Hero id="lord_1_shingai_5" faction="Faction.clan_shingai_1" spouse="Hero.lord_1_shingai_4" text=""/>
-	<Hero id="lord_1_shingai_6" faction="Faction.clan_shingai_1" spouse="Hero.lord_1_shingai_7" text=""/>
+	<Hero id="lord_1_shingai_6" faction="Faction.clan_shingai_1" spouse="Hero.lord_1_shingai_7" text="Citation needed"/>
 	<Hero id="lord_1_shingai_7" faction="Faction.clan_shingai_1" spouse="Hero.lord_1_shingai_6" text=""/>
 	<!--Ōnishi clan-->
 	<Hero id="lord_1_onishi" faction="Faction.clan_onishi_1" spouse="Hero.lord_1_onishi_1" father="Hero.dead_lord_1_onishi_1" mother="Hero.dead_lord_1_onishi_2" text=""/>
