@@ -65,8 +65,8 @@
 	<Hero id="lord_1_shimotsuma_1" faction="Faction.clan_shimotsuma_1" spouse="Hero.lord_1_shimotsuma" text=""/>
 	<Hero id="lord_1_shimotsuma_2" faction="Faction.clan_shimotsuma_1" father="Hero.lord_1_shimotsuma" mother="Hero.lord_1_shimotsuma_1" text=""/>
 	<Hero id="lord_1_shimotsuma_3" faction="Faction.clan_shimotsuma_1" father="Hero.lord_1_shimotsuma" mother="Hero.lord_1_shimotsuma_1" text=""/>
-	<Hero id="lord_1_shimotsuma_4" faction="Faction.clan_shimotsuma_1" father="Hero.lord_1_shimotsuma" mother="Hero.lord_1_shimotsuma_1" text=""/>
-	<Hero id="lord_1_shimotsuma_5" faction="Faction.clan_shimotsuma_1" father="Hero.lord_1_shimotsuma" mother="Hero.lord_1_shimotsuma_1" text=""/>
+	<Hero id="lord_1_shimotsuma_4" faction="Faction.clan_shimotsuma_1" father="Hero.lord_1_shimotsuma" mother="Hero.lord_1_shimotsuma_1" text="Citation Needed"/>
+	<Hero id="lord_1_shimotsuma_5" faction="Faction.clan_shimotsuma_1" father="Hero.lord_1_shimotsuma" mother="Hero.lord_1_shimotsuma_1" text="Citation Needed"/>
 	<Hero id="lord_1_shimotsuma_6" faction="Faction.clan_shimotsuma_1" spouse="Hero.lord_1_shimotsuma_7" text=""/>
 	<Hero id="lord_1_shimotsuma_7" faction="Faction.clan_shimotsuma_1" spouse="Hero.lord_1_shimotsuma_6" text=""/>
 	<Hero id="lord_1_shimotsuma_8" faction="Faction.clan_shimotsuma_1" father="Hero.lord_1_shimotsuma_6" mother="Hero.lord_1_shimotsuma_7" text=""/>

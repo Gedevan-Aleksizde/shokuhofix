@@ -132,7 +132,7 @@
 		  spouse="Hero.lord_1_yoshimi_5"
 		  father="Hero.lord_1_yoshimi"
 		  mother="Hero.lord_1_yoshimi_1"
-		  text="Citation Needed" />
+		  text="Citation needed" />
 	<Hero id="lord_1_yoshimi_5"
 		  faction="Faction.clan_yoshimi_1"
 		  spouse="Hero.lord_1_yoshimi_4"
@@ -141,7 +141,7 @@
 	<Hero id="lord_1_naito"
 		  faction="Faction.clan_naito_1"
 		  spouse="Hero.lord_1_naito_1"
-		  text="" />
+		  text="Citation Needed" />
 	<Hero id="lord_1_naito_1"
 		  faction="Faction.clan_naito_1"
 		  spouse="Hero.lord_1_naito"

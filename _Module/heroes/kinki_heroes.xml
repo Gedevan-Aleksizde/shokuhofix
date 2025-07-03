@@ -55,7 +55,7 @@
 	<Hero id="lord_1_tsutsui_9" faction="Faction.clan_tsutsui_1" spouse="Hero.lord_1_tsutsui_9" father="Hero.dead_lord_1_tsutsui_2" text=""/>
 	<Hero id="lord_1_tsutsui_10" faction="Faction.clan_tsutsui_1" spouse="Hero.lord_1_tsutsui_9" text=""/>
 	<Hero id="lord_1_tsutsui_11" faction="Faction.clan_tsutsui_1" father="Hero.lord_1_tsutsui_9" mother="Hero.lord_1_tsutsui_10" text=""/>
-	<Hero id="lord_1_tsutsui_12" faction="Faction.clan_tsutsui_1" father="Hero.lord_1_tsutsui_9" mother="Hero.lord_1_tsutsui_10" text="Citation Needed"/>
+	<Hero id="lord_1_tsutsui_12" faction="Faction.clan_tsutsui_1" father="Hero.lord_1_tsutsui_9" mother="Hero.lord_1_tsutsui_10" text="Citation needed"/>
 	<!-- Atagi Clan -->
 	<Hero id="lord_1_atagi" faction="Faction.clan_atagi_1" spouse="Hero.lord_1_atagi_1" father="Hero.lord_1_tsutsui_5" mother="Hero.lord_1_tsutsui_6" text=""/>
 	<Hero id="lord_1_atagi_1" faction="Faction.clan_atagi_1" spouse="Hero.lord_1_atagi" text=""/>
@@ -112,7 +112,7 @@
 	<!-- Yasumi Clan -->
 	<Hero id="lord_1_yasumi" faction="Faction.clan_yasumi_1" spouse="Hero.lord_1_yasumi_1" text=""/>
 	<Hero id="lord_1_yasumi_1" faction="Faction.clan_yasumi_1" spouse="Hero.lord_1_yasumi" text=""/>
-	<Hero id="lord_1_yasumi_2" faction="Faction.clan_yasumi_1" father="Hero.lord_1_yasumi" mother="Hero.lord_1_yasumi_1" text="Citation Needed."/>
+	<Hero id="lord_1_yasumi_2" faction="Faction.clan_yasumi_1" father="Hero.lord_1_yasumi" mother="Hero.lord_1_yasumi_1" text="Citation needed."/>
 	<Hero id="lord_1_yasumi_3" faction="Faction.clan_yasumi_1" spouse="Hero.lord_1_yasumi_4" text=""/>
 	<Hero id="lord_1_yasumi_4" faction="Faction.clan_yasumi_1" spouse="Hero.lord_1_yasumi_3" text=""/>
 	<!-- Yukawa Clan -->
@@ -122,7 +122,7 @@
 	<Hero id="dead_lord_1_yukawa_3" alive="false" faction="Faction.clan_yukawa_1" spouse="Hero.dead_lord_1_yukawa_2" text=""/>
 	<Hero id="lord_1_yukawa_4" faction="Faction.clan_yukawa_1" father="Hero.dead_lord_1_yukawa_2" mother="Hero.dead_lord_1_yukawa_3" text=""/>
 	<Hero id="lord_1_yukawa_5" faction="Faction.clan_yukawa_1" father="Hero.dead_lord_1_yukawa_2" mother="Hero.dead_lord_1_yukawa_3" text=""/>
-	<Hero id="lord_1_yukawa_6" faction="Faction.clan_yukawa_1" father="Hero.dead_lord_1_yukawa_2" mother="Hero.dead_lord_1_yukawa_3" text="Citation Needed"/>
+	<Hero id="lord_1_yukawa_6" faction="Faction.clan_yukawa_1" father="Hero.dead_lord_1_yukawa_2" mother="Hero.dead_lord_1_yukawa_3" text="Citation needed"/>
 	<!--Ikko Ikki Faction-->
 	<!-- Honganji Clan -->
 	<Hero id="lord_1_honganji" faction="Faction.clan_honganji_1" spouse="Hero.lord_1_honganji_2" text=""/>
