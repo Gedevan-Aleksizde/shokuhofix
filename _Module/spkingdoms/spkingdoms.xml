@@ -635,7 +635,7 @@
 			 flag_mesh="info_screen_flags_a"
 			 name="{=pWLiqObw}Chousokabe Ryougoku"
 			 short_name="{=do4c1Wld}Chousokabe"
-			 title="{=do4c1Wld}Chōsokabe"
+			 title="{=do4c1Wld}Chousokabe"
 			 ruler_title="{=tRwThwR8}Daimyou"
 			 text="">
 		<relationships> </relationships>
