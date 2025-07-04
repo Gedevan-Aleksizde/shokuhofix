@@ -5,830 +5,167 @@
 		The first section of the banner_key is the background type. 11 is solid background. The 2nd section is the background color. The 3rd section is the emblem color. 
 		The banner_key of the clans in the spclans.xml should match the first 3 sections of the spkingdoms banner_key, to set the colors of the clan banners equal to the kingdom colors.
 		This might break when a clan leaves a faction though, not sure. -->
-	<!--TOHOKU-->
-	<Kingdom id="ashina"
-			 owner="Hero.lord_1_ashina"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.743.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xff564438"
-			 secondary_banner_color="0xfff6dfaa"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.ou"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=vshw4yMm}Ashina Ryougoku"
-			 short_name="{=qO2LaEJH}Ashina"
-			 title="{=qO2LaEJH}Ashina"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="soma"
-			 owner="Hero.lord_1_soma"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.748.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xffFF7F32"
-			 secondary_banner_color="0xff0f172a"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.ou"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=NuFjU4h9}Soma Ryougoku"
-			 short_name="{=lVx3gqqL}Soma"
-			 title="{=lVx3gqqL}Soma"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="date"
-			 owner="Hero.lord_1_date"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.752.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xff212c4a"
-			 secondary_banner_color="0xfffbad1c"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.ou"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=LUMqVU9O}Date Ryougoku"
-			 short_name="{=fKx72A6I}Date"
-			 title="{=fKx72A6I}Date"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="mogami"
-			 owner="Hero.lord_1_mogami"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.778.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xffd1d1d1"
-			 secondary_banner_color="0xff181818"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.ou"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=nEkrt7ID}Mogami Ryougoku"
-			 short_name="{=9vBSHbyz}Mogami"
-			 title="{=9vBSHbyz}Mogami"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="ando"
-			 owner="Hero.lord_1_ando"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.767.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xff181818"
-			 secondary_banner_color="0xfffdd116"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.ou"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=rGZyKAhx}Andou Ryougoku"
-			 short_name="{=xU6k7DMZ}Andou"
-			 title="{=xU6k7DMZ}Andou"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="nanbu"
-			 owner="Hero.lord_1_nanbu"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.771.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xff8C1D40"
-			 secondary_banner_color="0xffFFC627"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.ou"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=Utg0dgbV}Nanbu Ryougoku"
-			 short_name="{=lOrWIIfh}Nanbu"
-			 title="{=lOrWIIfh}Nanbu"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<!--KANTO-->
-	<Kingdom id="hojo"
-			 owner="Hero.lord_1_hojo"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.724.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xff1f4a6a"
-			 secondary_banner_color="0xffd1d1d1"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.kanto"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=742AdeFJ}Hojo Ryougoku"
-			 short_name="{=WhlNAwBH}Hojo"
-			 title="{=WhlNAwBH}Hojo"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="The vast Kantou plain is far from Kyōto, and samurai have broken out in rebellion many times for hundreds of years. While Ashikaga Shougunate founded the office of Kantou Kubou, the vice shougun; the kubous also led uprisings. Founded by Ise Shinkurou, this dynasty has experienced inheritance three times, which is called the Late Houjou, or Odawara-Houjou clan later. Now this dynasty defeated the Kubou and inherited its position, and dominated almost all of the Kantou plain and Izu peninshula.">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="satomi"
-			 owner="Hero.lord_1_satomi"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.733.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xff181818"
-			 secondary_banner_color="0xffcae7af"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.kanto"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=qFVVTsug}Satomi Ryougoku"
-			 short_name="{=3HM2LZLz}Satomi"
-			 title="{=3HM2LZLz}Satomi"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="utsunomiya"
-			 owner="Hero.lord_1_utsunomiya"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.617.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xff092f12"
-			 secondary_banner_color="0xffd1d1d1"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.kanto"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=bWjqvgLb}Utsunomiya Ryougoku"
-			 short_name="{=9iMMapjE}Utsunomiya"
-			 title="{=9iMMapjE}Utsunomiya"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="satake"
-			 owner="Hero.lord_1_satake"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.736.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xffd1d1d1"
-			 secondary_banner_color="0xff95110d"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.kanto"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=0QhvafT9}Satake Ryougoku"
-			 short_name="{=ijCa8pDo}Satake"
-			 title="{=ijCa8pDo}Satake"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<!--CHUBU-->
-	<Kingdom id="asakura"
-			 owner="Hero.lord_1_asakura"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.679.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xff093b6b"
-			 secondary_banner_color="0xffd1d1d1"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.hokuriku"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=97tn9Agd}Asakura Ryougoku"
-			 short_name="{=Hwgq2oHf}Asakura"
-			 title="{=Hwgq2oHf}Asakura"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="anekouji"
-			 owner="Hero.lord_1_anekouji"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.683.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xffd1d1d1"
-			 secondary_banner_color="0xff2e8485"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.tosan"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=4c5OF6TQ}Anekouji Ryougoku"
-			 short_name="{=QqEJybge}Anekouji"
-			 title="{=QqEJybge}Anekouji"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="tokugawa"
-			 owner="Hero.lord_1_tokugawa"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.695.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xffd1d1d1"
-			 secondary_banner_color="0xffd48916"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.tokai"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=OHqGIRhL}Tokugawa Ryougoku"
-			 short_name="{=nAUwT8JG}Tokugawa"
-			 title="{=nAUwT8JG}Tokugawa"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="The Matstudaira clan is located between two powerful clans: the Oda clan in Owari and the Imagawa clan in Suruga. The Matsudaira clan was forced to flatter them and struggle for power inside the clan. A Few years ago, The death of Imagawa Yoshimoto is a turning point for the Matsudaira Clan. Shortly, Jirousaburou, the young head of the Matsudaira clan, renamed himself Tokugawa Ieyasu. Tokugawa is the name of a settlement that is the origin of a major branch of Genji, one of the most noble samurai dynasties. He intended to claim his origin by this name.">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="uesugi"
-			 owner="Hero.lord_1_uesugi"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.701.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xff302a36"
-			 secondary_banner_color="0xffa6312b"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.hokuriku"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=sWnHr5q5}Uesugi Ryougoku"
-			 short_name="{=r3wkuN0u}Uesugi"
-			 title="{=r3wkuN0u}Uesugi"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="Echigo province has been the grain belt in Japan for a long time. The Nagao clan, which dominates this area, is a branch of the Taira clan, one of the major samurai clans. Kagetora, a talented head of the Nagao clan, emerged in the clan and finally won the clan's head position. Later, he protected Uesugi Norimasa, Kantou Kanrei, who was expelled by the Houjou clan, and inherited his name and position. Kanrei, meaning land steward, is an assistant or substitute of Kantou Kubou, the vice shougun of the Asikaga Shougunate. Now, he renamed himself Uesugi Kenshin. It's a great cause to intervene in the whole of East Japan. So, he acquired the three vital elements of the winner: the matter of chance, the geographic advantage, and the advantages of humans.">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="honjo"
-			 owner="Hero.lord_1_honjo"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.709.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xff28062b"
-			 secondary_banner_color="0xff2e8485"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.hokuriku"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=8kilNkSs}Honjo Ryougoku"
-			 short_name="{=ASyaMblp}Honjo"
-			 title="{=ASyaMblp}Honjo"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="takeda"
-			 owner="Hero.lord_1_takeda"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.710.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xff7b0a06"
-			 secondary_banner_color="0xff010300"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.tosan"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=J3WAJxu3}Takeda Ryougoku"
-			 short_name="{=AZkHq9Al}Takeda"
-			 title="{=AZkHq9Al}Takeda"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="The Kai province is completely surrounded by mountains and short of agricultural lands. Takeda Harunobu, later Shingen, made every effort to keep his land, developing the mines, a flood control project, promoting manufacturing industries, and clever diplomatic strategies. Nowadays, many things, Shingen-dumpling, Shingen-riverbanks, and so on, are named after Shingen. It can be evidence of how he focused on developing the province. However, remember that all his effort is for a single goal. Watching the road to Kyoto, the enemy is counted to nothing; the Imagawa clan that is drastically shrunk after the death of the head, Tokugawa clan that is headed by a greenhorn. Now, Shingen is ready as a tiger aiming for prey.">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="imagawa"
-			 owner="Hero.lord_1_imagawa"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.719.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xff212636"
-			 secondary_banner_color="0xffd5a44c"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.tosan"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=hdkeGb7H}Imagawa Ryougoku"
-			 short_name="{=nJmwT7OT}Imagawa"
-			 title="{=nJmwT7OT}Imagawa"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<!-- KINKI -->
-	<Kingdom id="akamatsu"
-			 owner="Hero.lord_1_akamatsu"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.649.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xff24000F"
-			 secondary_banner_color="0xffcf6f8b"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.kinai"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=4SATjx3b}Akamatsu Ryougoku"
-			 short_name="{=7EInH5Hq}Akamatsu"
-			 title="{=7EInH5Hq}Akamatsu"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="ashikaga"
-			 owner="Hero.lord_1_ashikaga_6"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.655.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xff791D61"
-			 secondary_banner_color="0xffd1d1d1"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.kinai"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=RTJJQ1N4}Ashikaga Ryougoku"
-			 short_name="{=hMz5eeje}Ashikaga"
-			 title="{=hMz5eeje}Ashikaga"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="Now, the Ashikaga Shougunate is just an empty shell. Regional daimyous ignore the Shougunate's authority, and Kinai samurai clans scramble over the throne as a puppet. Yoshiaki, a brother of Killed pre-Shougun escaped from Kyōto and asked for help from any daimyo. Whoever has power and keeps loyalty to the Shougunate. Even if he has only the former.">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="hatakeyama"
-			 owner="Hero.lord_1_hatakeyama"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.661.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xffd1d1d1"
-			 secondary_banner_color="0xffbd2a2a"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.kinai"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=lqGGI5WL}Hatakeyama Ryougoku"
-			 short_name="{=4cnmTBU0}Hatakeyama"
-			 title="{=4cnmTBU0}Hatakeyama"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="rokkaku"
-			 owner="Hero.lord_1_rokkaku"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.664.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xff1B618C"
-			 secondary_banner_color="0xff070905"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.kinai"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=V9HoIoLf}Rokkaku Ryougoku"
-			 short_name="{=PGOSBt3d}Rokkaku"
-			 title="{=PGOSBt3d}Rokkaku"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="azai"
-			 owner="Hero.lord_1_azai"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.666.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xff37163B"
-			 secondary_banner_color="0xffd1d1d1"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.kinai"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=ueioOrlR}Azai Ryougoku"
-			 short_name="{=0PavuhnS}Azai"
-			 title="{=0PavuhnS}Azai"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="oda"
-			 owner="Hero.lord_1_oda"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.670.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xffcfb12e"
-			 secondary_banner_color="0xff070905"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.kinai"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=NE0beHdI}Oda Ryougoku"
-			 short_name="{=NBk1hBZz}Oda"
-			 title="{=NBk1hBZz}Oda"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="Nobunaga, once teased as the most foolish in Owari province, inherited a side stream of the Oda clan, and then, even won the main stream of the Oda clan through the subsequent succession problem. Moreover, he conquered two neighboring powerful factions: the Imagawa clan in the east and the Saitou clan in the north. He destroyed Inabayama Castle in Inokuchi, which was once the Saitou clan's resident castle, and rebuilt and renamed it Gifu Castle. He successfully allied with the Takeda clan and the Azai clan. Yosiaki, a pre-shougun's brother who is under Nobunaga's protection, can play a role as a banner to reunite Japan. It looks like everything is going well.{NEWLINE}{NEWLINE}It is said that fifty years in a human's life is as short as a one-night dream in Heaven, since long ago. However, now, it is still halfway for Nobunaga.">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="ikko_shu"
-			 owner="Hero.lord_1_honganji"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.659.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xffda8418"
-			 secondary_banner_color="0xff070905"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.kinai"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=bVqyvzea}Ikkou-shū Ryougoku"
-			 short_name="{=qD1vg0RF}Ikkou-shū"
-			 title="{=qD1vg0RF}Ikkou-shū"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="Ikkou-shū is a major branch of Joudo-sinshū, a sect of Buddhism. They are also called the Honganji sect because they are led by the chief monk in Honganji. They agitated the laities whole in Japan, then occupied Nagashima castle and Kaga provinces. Ishiyama-Honganji, their headquarters temple located in Ozaka (current Ōsaka), is highly fortified with multiple layers of walls and moats, just like a samurai daimyo sitting in a high castle.">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<!-- CHUGOKU -->
-	<Kingdom id="uragami"
-			 owner="Hero.lord_1_uragami"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.638.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xffd1d1d1"
-			 secondary_banner_color="0xff1B618C"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.sanyo"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=PaA2zlKr}Uragami Ryougoku"
-			 short_name="{=KolhtpUd}Uragami"
-			 title="{=KolhtpUd}Uragami"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="amago"
-			 owner="Hero.lord_1_amago"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.635.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xffd1d1d1"
-			 secondary_banner_color="0xff020202"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.sanyo"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=F4UZiV7f}Amago Ryougoku"
-			 short_name="{=LE5jbPP4}Amago"
-			 title="{=LE5jbPP4}Amago"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="mori"
-			 owner="Hero.lord_1_mori"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.648.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xff6b0b0b"
-			 secondary_banner_color="0xffd1d1d1"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.sanyo"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=5DNXNGmY}Mouri Ryougoku"
-			 short_name="{=9yOqtKzp}Mouri"
-			 title="{=9yOqtKzp}Mouri"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="At the age of Motonari, the grandfather of Terumoto, Mouri clan was small and weak. But Motonari defeated other neighborhood clans and dominated a large part of San'you and San'in regions. Two generations later, the clan kept their lands. In this period, a rising samurai clan often fell soon because of scrambles among brothers and uncles, sometimes even against their father. Though the lesson that Motonari teaches his three sons that they should be like a bundle of three arrows may be a made-up story, Terumoto's uncles assist Terumoto well. It is the actual reason he can keep the land.">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<!-- SHIKOKU -->
-	<Kingdom id="saionji"
-			 owner="Hero.lord_1_saionji"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.623.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xff6e0c9f"
-			 secondary_banner_color="0xffd2b23d"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.nankai"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=1kGV1kZG}Saionji Ryougoku"
-			 short_name="{=2TWnRnkw}Saionji"
-			 title="{=2TWnRnkw}Saionji"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="ichijo"
-			 owner="Hero.lord_1_ichijo"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.626.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xffe2ceec"
-			 secondary_banner_color="0xff33064a"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.nankai"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=aUUSaL8k}Ichijou Ryougoku"
-			 short_name="{=44ThIRyK}Ichijou"
-			 title="{=44ThIRyK}Ichijou"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="chosokabe"
-			 owner="Hero.lord_1_chosokabe"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.632.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xff181818"
-			 secondary_banner_color="0xffd1d1d1"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.nankai"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=pWLiqObw}Chousokabe Ryougoku"
-			 short_name="{=do4c1Wld}Chousokabe"
-			 title="{=do4c1Wld}Chousokabe"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="miyoshi"
-			 owner="Hero.lord_1_miyoshi"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.625.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xffd1d1d1"
-			 secondary_banner_color="0xff3F7D20"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.nankai"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=IyoVqTuy}Miyoshi Ryougoku"
-			 short_name="{=YhbInKsq}Miyoshi"
-			 title="{=YhbInKsq}Miyoshi"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<!-- KYUSHU -->
-	<Kingdom id="shimazu"
-			 owner="Hero.lord_1_shimazu"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.605.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xff2f4211"
-			 secondary_banner_color="0xffd1d1d1"
-			 label_color="FFDB8330"
-			 color="0xff2f4211"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.saikai"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=HMVZVgT7}Shimazu Ryougoku"
-			 short_name="{=e89d6Fhr}Shimazu"
-			 title="{=e89d6Fhr}Shimazu"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="The Shimazu clan is a long-standing samurai clan in Kyushū, but it was shrinking through the generations. Tadayoshi, known as Lord Jisshin, a grandfather of Yoshihiro, is from a branch of the Shimazu clan. He inherited the head of the clan and solved the succession issues in the clan. Some of his descendants are known for being brave, other is known for being thoughtful, or other is known for fairful.">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="kimotsuki"
-			 owner="Hero.lord_1_kimotsuki"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.602.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xff2C4B52"
-			 secondary_banner_color="0xffdac310"
-			 label_color="FFDB8330"
-			 color="0xff2f4211"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.saikai"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=KrJolclO}Kimotsuki Ryougoku"
-			 short_name="{=nuOTMFnL}Kimotsuki"
-			 title="{=nuOTMFnL}Kimotsuki"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="ito"
-			 owner="Hero.lord_1_ito"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.600.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xff873973"
-			 secondary_banner_color="0xff0d0d0d"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.saikai"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=16fyo47M}Itou Ryougoku"
-			 short_name="{=0rDc1SBx}Itou"
-			 title="{=0rDc1SBx}Itou"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="aso"
-			 owner="Hero.lord_1_aso"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.612.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xffAD0017"
-			 secondary_banner_color="0xffF3F4F8"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.saikai"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=aFBneNkA}Aso Ryougoku"
-			 short_name="{=ONWqd9Hd}Aso"
-			 title="{=ONWqd9Hd}Aso"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="sagara"
-			 owner="Hero.lord_1_sagara"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.609.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xffd1d1d1"
-			 secondary_banner_color="0xff6b0b0b"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.saikai"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=aiTAusH5}Sagara Ryougoku"
-			 short_name="{=qZ86Dhcd}Sagara"
-			 title="{=qZ86Dhcd}Sagara"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="otomo"
-			 owner="Hero.lord_1_otomo"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.597.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xffd1d1d1"
-			 secondary_banner_color="0xff093b6b"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.saikai"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=taM0M0u7}Ōtomo Ryougoku"
-			 short_name="{=p6llIAZ9}Ōtomo"
-			 title="{=p6llIAZ9}Ōtomo"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="arima"
-			 owner="Hero.lord_1_arima"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.619.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xff0d0d0d"
-			 secondary_banner_color="0xff9b1414"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.saikai"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=kveCZElo}Arima Ryougoku"
-			 short_name="{=HCBBJbxX}Arima"
-			 title="{=HCBBJbxX}Arima"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
-	<Kingdom id="ryuzoji"
-			 owner="Hero.lord_1_ryuzoji"
-			 banner_key="11.163.166.1528.1528.764.764.1.0.0.614.171.171.483.483.764.764.0.0.0"
-			 primary_banner_color="0xffde9d53"
-			 secondary_banner_color="0xff332c28"
-			 label_color="FFDB8330"
-			 color="FF9E5072"
-			 color2="FFDE9953"
-			 alternative_color="FF1F1D1F"
-			 alternative_color2="FFc28446"
-			 culture="Culture.saikai"
-			 settlement_banner_mesh="encounter_flag_a"
-			 flag_mesh="info_screen_flags_a"
-			 name="{=uIMPOA8l}Ryūzouji Ryougoku"
-			 short_name="{=5HSblONo}Ryūzouji"
-			 title="{=5HSblONo}Ryūzouji"
-			 ruler_title="{=tRwThwR8}Daimyou"
-			 text="">
-		<relationships> </relationships>
-		<policies> </policies>
-	</Kingdom>
+  <!--TOHOKU-->
+  <Kingdom id="ashina" owner="Hero.lord_1_ashina" banner_key="11.163.166.1528.1528.764.764.1.0.0.743.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff564438" secondary_banner_color="0xfff6dfaa" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.ou" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=vshw4yMm}Ashina Ryougoku" short_name="{=qO2LaEJH}Ashina" title="{=qO2LaEJH}Ashina" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="soma" owner="Hero.lord_1_soma" banner_key="11.163.166.1528.1528.764.764.1.0.0.748.171.171.483.483.764.764.0.0.0" primary_banner_color="0xffFF7F32" secondary_banner_color="0xff0f172a" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.ou" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=NuFjU4h9}Soma Ryougoku" short_name="{=lVx3gqqL}Soma" title="{=lVx3gqqL}Soma" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="date" owner="Hero.lord_1_date" banner_key="11.163.166.1528.1528.764.764.1.0.0.752.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff212c4a" secondary_banner_color="0xfffbad1c" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.ou" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=LUMqVU9O}Date Ryougoku" short_name="{=fKx72A6I}Date" title="{=fKx72A6I}Date" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="mogami" owner="Hero.lord_1_mogami" banner_key="11.163.166.1528.1528.764.764.1.0.0.778.171.171.483.483.764.764.0.0.0" primary_banner_color="0xffd1d1d1" secondary_banner_color="0xff181818" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.ou" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=nEkrt7ID}Mogami Ryougoku" short_name="{=9vBSHbyz}Mogami" title="{=9vBSHbyz}Mogami" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="ando" owner="Hero.lord_1_ando" banner_key="11.163.166.1528.1528.764.764.1.0.0.767.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff181818" secondary_banner_color="0xfffdd116" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.ou" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=rGZyKAhx}Andou Ryougoku" short_name="{=xU6k7DMZ}Andou" title="{=xU6k7DMZ}Andou" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="nanbu" owner="Hero.lord_1_nanbu" banner_key="11.163.166.1528.1528.764.764.1.0.0.771.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff8C1D40" secondary_banner_color="0xffFFC627" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.ou" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=Utg0dgbV}Nanbu Ryougoku" short_name="{=lOrWIIfh}Nanbu" title="{=lOrWIIfh}Nanbu" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <!--KANTO-->
+  <Kingdom id="hojo" owner="Hero.lord_1_hojo" banner_key="11.163.166.1528.1528.764.764.1.0.0.724.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff1f4a6a" secondary_banner_color="0xffd1d1d1" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.kanto" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=742AdeFJ}Hojo Ryougoku" short_name="{=WhlNAwBH}Hojo" title="{=WhlNAwBH}Hojo" ruler_title="{=tRwThwR8}Daimyou" text="{=shokuho485c8eF3}The vast Kantou plain is far from Kyōto, and samurai have broken out in rebellion many times for hundreds of years. While Ashikaga Shougunate founded the office of Kantou Kubou, the vice shougun; the kubous also led uprisings. Founded by Ise Shinkurou, this dynasty has experienced inheritance three times, which is called the Late Houjou, or Odawara-Houjou clan later. Now this dynasty defeated the Kubou and inherited its position, and dominated almost all of the Kantou plain and Izu peninshula.">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="satomi" owner="Hero.lord_1_satomi" banner_key="11.163.166.1528.1528.764.764.1.0.0.733.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff181818" secondary_banner_color="0xffcae7af" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.kanto" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=qFVVTsug}Satomi Ryougoku" short_name="{=3HM2LZLz}Satomi" title="{=3HM2LZLz}Satomi" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="utsunomiya" owner="Hero.lord_1_utsunomiya" banner_key="11.163.166.1528.1528.764.764.1.0.0.617.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff092f12" secondary_banner_color="0xffd1d1d1" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.kanto" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=bWjqvgLb}Utsunomiya Ryougoku" short_name="{=9iMMapjE}Utsunomiya" title="{=9iMMapjE}Utsunomiya" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="satake" owner="Hero.lord_1_satake" banner_key="11.163.166.1528.1528.764.764.1.0.0.736.171.171.483.483.764.764.0.0.0" primary_banner_color="0xffd1d1d1" secondary_banner_color="0xff95110d" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.kanto" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=0QhvafT9}Satake Ryougoku" short_name="{=ijCa8pDo}Satake" title="{=ijCa8pDo}Satake" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <!--CHUBU-->
+  <Kingdom id="asakura" owner="Hero.lord_1_asakura" banner_key="11.163.166.1528.1528.764.764.1.0.0.679.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff093b6b" secondary_banner_color="0xffd1d1d1" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.hokuriku" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=97tn9Agd}Asakura Ryougoku" short_name="{=Hwgq2oHf}Asakura" title="{=Hwgq2oHf}Asakura" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="anekouji" owner="Hero.lord_1_anekouji" banner_key="11.163.166.1528.1528.764.764.1.0.0.683.171.171.483.483.764.764.0.0.0" primary_banner_color="0xffd1d1d1" secondary_banner_color="0xff2e8485" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.tosan" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=4c5OF6TQ}Anekouji Ryougoku" short_name="{=QqEJybge}Anekouji" title="{=QqEJybge}Anekouji" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="tokugawa" owner="Hero.lord_1_tokugawa" banner_key="11.163.166.1528.1528.764.764.1.0.0.695.171.171.483.483.764.764.0.0.0" primary_banner_color="0xffd1d1d1" secondary_banner_color="0xffd48916" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.tokai" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=OHqGIRhL}Tokugawa Ryougoku" short_name="{=nAUwT8JG}Tokugawa" title="{=nAUwT8JG}Tokugawa" ruler_title="{=tRwThwR8}Daimyou" text="{=shokuho1663f7A8}The Matstudaira clan is located between two powerful clans: the Oda clan in Owari and the Imagawa clan in Suruga. The Matsudaira clan was forced to flatter them and struggle for power inside the clan. A Few years ago, The death of Imagawa Yoshimoto is a turning point for the Matsudaira Clan. Shortly, Jirousaburou, the young head of the Matsudaira clan, renamed himself Tokugawa Ieyasu. Tokugawa is the name of a settlement that is the origin of a major branch of Genji, one of the most noble samurai dynasties. He intended to claim his origin by this name.">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="uesugi" owner="Hero.lord_1_uesugi" banner_key="11.163.166.1528.1528.764.764.1.0.0.701.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff302a36" secondary_banner_color="0xffa6312b" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.hokuriku" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=sWnHr5q5}Uesugi Ryougoku" short_name="{=r3wkuN0u}Uesugi" title="{=r3wkuN0u}Uesugi" ruler_title="{=tRwThwR8}Daimyou" text="{=shokuho00b45D76}Echigo province has been the grain belt in Japan for a long time. The Nagao clan, which dominates this area, is a branch of the Taira clan, one of the major samurai clans. Kagetora, a talented head of the Nagao clan, emerged in the clan and finally won the clan's head position. Later, he protected Uesugi Norimasa, Kantou Kanrei, who was expelled by the Houjou clan, and inherited his name and position. Kanrei, meaning land steward, is an assistant or substitute of Kantou Kubou, the vice shougun of the Asikaga Shougunate. Now, he renamed himself Uesugi Kenshin. It's a great cause to intervene in the whole of East Japan. So, he acquired the three vital elements of the winner: the matter of chance, the geographic advantage, and the advantages of humans.">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="honjo" owner="Hero.lord_1_honjo" banner_key="11.163.166.1528.1528.764.764.1.0.0.709.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff28062b" secondary_banner_color="0xff2e8485" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.hokuriku" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=8kilNkSs}Honjo Ryougoku" short_name="{=ASyaMblp}Honjo" title="{=ASyaMblp}Honjo" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="takeda" owner="Hero.lord_1_takeda" banner_key="11.163.166.1528.1528.764.764.1.0.0.710.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff7b0a06" secondary_banner_color="0xff010300" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.tosan" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=J3WAJxu3}Takeda Ryougoku" short_name="{=AZkHq9Al}Takeda" title="{=AZkHq9Al}Takeda" ruler_title="{=tRwThwR8}Daimyou" text="{=shokuho319E4A79}The Kai province is completely surrounded by mountains and short of agricultural lands. Takeda Harunobu, later Shingen, made every effort to keep his land, developing the mines, a flood control project, promoting manufacturing industries, and clever diplomatic strategies. Nowadays, many things, Shingen-dumpling, Shingen-riverbanks, and so on, are named after Shingen. It can be evidence of how he focused on developing the province. However, remember that all his effort is for a single goal. Watching the road to Kyoto, the enemy is counted to nothing; the Imagawa clan that is drastically shrunk after the death of the head, Tokugawa clan that is headed by a greenhorn. Now, Shingen is ready as a tiger aiming for prey.">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="imagawa" owner="Hero.lord_1_imagawa" banner_key="11.163.166.1528.1528.764.764.1.0.0.719.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff212636" secondary_banner_color="0xffd5a44c" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.tosan" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=hdkeGb7H}Imagawa Ryougoku" short_name="{=nJmwT7OT}Imagawa" title="{=nJmwT7OT}Imagawa" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <!-- KINKI -->
+  <Kingdom id="akamatsu" owner="Hero.lord_1_akamatsu" banner_key="11.163.166.1528.1528.764.764.1.0.0.649.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff24000F" secondary_banner_color="0xffcf6f8b" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.kinai" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=4SATjx3b}Akamatsu Ryougoku" short_name="{=7EInH5Hq}Akamatsu" title="{=7EInH5Hq}Akamatsu" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="ashikaga" owner="Hero.lord_1_ashikaga_6" banner_key="11.163.166.1528.1528.764.764.1.0.0.655.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff791D61" secondary_banner_color="0xffd1d1d1" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.kinai" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=RTJJQ1N4}Ashikaga Ryougoku" short_name="{=hMz5eeje}Ashikaga" title="{=hMz5eeje}Ashikaga" ruler_title="{=tRwThwR8}Daimyou" text="{=shokuho9e5986b3}Now, the Ashikaga Shougunate is just an empty shell. Regional daimyous ignore the Shougunate's authority, and Kinai samurai clans scramble over the throne as a puppet. Yoshiaki, a brother of Killed pre-Shougun escaped from Kyōto and asked for help from any daimyo. Whoever has power and keeps loyalty to the Shougunate. Even if he has only the former.">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="hatakeyama" owner="Hero.lord_1_hatakeyama" banner_key="11.163.166.1528.1528.764.764.1.0.0.661.171.171.483.483.764.764.0.0.0" primary_banner_color="0xffd1d1d1" secondary_banner_color="0xffbd2a2a" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.kinai" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=lqGGI5WL}Hatakeyama Ryougoku" short_name="{=4cnmTBU0}Hatakeyama" title="{=4cnmTBU0}Hatakeyama" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="rokkaku" owner="Hero.lord_1_rokkaku" banner_key="11.163.166.1528.1528.764.764.1.0.0.664.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff1B618C" secondary_banner_color="0xff070905" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.kinai" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=V9HoIoLf}Rokkaku Ryougoku" short_name="{=PGOSBt3d}Rokkaku" title="{=PGOSBt3d}Rokkaku" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="azai" owner="Hero.lord_1_azai" banner_key="11.163.166.1528.1528.764.764.1.0.0.666.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff37163B" secondary_banner_color="0xffd1d1d1" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.kinai" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=ueioOrlR}Azai Ryougoku" short_name="{=0PavuhnS}Azai" title="{=0PavuhnS}Azai" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="oda" owner="Hero.lord_1_oda" banner_key="11.163.166.1528.1528.764.764.1.0.0.670.171.171.483.483.764.764.0.0.0" primary_banner_color="0xffcfb12e" secondary_banner_color="0xff070905" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.kinai" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=NE0beHdI}Oda Ryougoku" short_name="{=NBk1hBZz}Oda" title="{=NBk1hBZz}Oda" ruler_title="{=tRwThwR8}Daimyou" text="{=shokuhoDd3f3D08}Nobunaga, once teased as the most foolish in Owari province, inherited a side stream of the Oda clan, and then, even won the main stream of the Oda clan through the subsequent succession problem. Moreover, he conquered two neighboring powerful factions: the Imagawa clan in the east and the Saitou clan in the north. He destroyed Inabayama Castle in Inokuchi, which was once the Saitou clan's resident castle, and rebuilt and renamed it Gifu Castle. He successfully allied with the Takeda clan and the Azai clan. Yosiaki, a pre-shougun's brother who is under Nobunaga's protection, can play a role as a banner to reunite Japan. It looks like everything is going well.{NEWLINE}{NEWLINE}It is said that fifty years in a human's life is as short as a one-night dream in Heaven, since long ago. However, now, it is still halfway for Nobunaga.">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="ikko_shu" owner="Hero.lord_1_honganji" banner_key="11.163.166.1528.1528.764.764.1.0.0.659.171.171.483.483.764.764.0.0.0" primary_banner_color="0xffda8418" secondary_banner_color="0xff070905" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.kinai" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=bVqyvzea}Ikkou-shū Ryougoku" short_name="{=qD1vg0RF}Ikkou-shū" title="{=qD1vg0RF}Ikkou-shū" ruler_title="{=tRwThwR8}Daimyou" text="{=shokuhob84A3908}Ikkou-shū is a major branch of Joudo-sinshū, a sect of Buddhism. They are also called the Honganji sect because they are led by the chief monk in Honganji. They agitated the laities whole in Japan, then occupied Nagashima castle and Kaga provinces. Ishiyama-Honganji, their headquarters temple located in Ozaka (current Ōsaka), is highly fortified with multiple layers of walls and moats, just like a samurai daimyo sitting in a high castle.">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <!-- CHUGOKU -->
+  <Kingdom id="uragami" owner="Hero.lord_1_uragami" banner_key="11.163.166.1528.1528.764.764.1.0.0.638.171.171.483.483.764.764.0.0.0" primary_banner_color="0xffd1d1d1" secondary_banner_color="0xff1B618C" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.sanyo" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=PaA2zlKr}Uragami Ryougoku" short_name="{=KolhtpUd}Uragami" title="{=KolhtpUd}Uragami" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="amago" owner="Hero.lord_1_amago" banner_key="11.163.166.1528.1528.764.764.1.0.0.635.171.171.483.483.764.764.0.0.0" primary_banner_color="0xffd1d1d1" secondary_banner_color="0xff020202" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.sanyo" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=F4UZiV7f}Amago Ryougoku" short_name="{=LE5jbPP4}Amago" title="{=LE5jbPP4}Amago" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="mori" owner="Hero.lord_1_mori" banner_key="11.163.166.1528.1528.764.764.1.0.0.648.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff6b0b0b" secondary_banner_color="0xffd1d1d1" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.sanyo" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=5DNXNGmY}Mouri Ryougoku" short_name="{=9yOqtKzp}Mouri" title="{=9yOqtKzp}Mouri" ruler_title="{=tRwThwR8}Daimyou" text="{=shokuhoa2E95621}At the age of Motonari, the grandfather of Terumoto, Mouri clan was small and weak. But Motonari defeated other neighborhood clans and dominated a large part of San'you and San'in regions. Two generations later, the clan kept their lands. In this period, a rising samurai clan often fell soon because of scrambles among brothers and uncles, sometimes even against their father. Though the lesson that Motonari teaches his three sons that they should be like a bundle of three arrows may be a made-up story, Terumoto's uncles assist Terumoto well. It is the actual reason he can keep the land.">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <!-- SHIKOKU -->
+  <Kingdom id="saionji" owner="Hero.lord_1_saionji" banner_key="11.163.166.1528.1528.764.764.1.0.0.623.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff6e0c9f" secondary_banner_color="0xffd2b23d" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.nankai" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=1kGV1kZG}Saionji Ryougoku" short_name="{=2TWnRnkw}Saionji" title="{=2TWnRnkw}Saionji" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="ichijo" owner="Hero.lord_1_ichijo" banner_key="11.163.166.1528.1528.764.764.1.0.0.626.171.171.483.483.764.764.0.0.0" primary_banner_color="0xffe2ceec" secondary_banner_color="0xff33064a" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.nankai" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=aUUSaL8k}Ichijou Ryougoku" short_name="{=44ThIRyK}Ichijou" title="{=44ThIRyK}Ichijou" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="chosokabe" owner="Hero.lord_1_chosokabe" banner_key="11.163.166.1528.1528.764.764.1.0.0.632.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff181818" secondary_banner_color="0xffd1d1d1" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.nankai" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=pWLiqObw}Chousokabe Ryougoku" short_name="{=do4c1Wld}Chousokabe" title="{=do4c1Wld}Chousokabe" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="miyoshi" owner="Hero.lord_1_miyoshi" banner_key="11.163.166.1528.1528.764.764.1.0.0.625.171.171.483.483.764.764.0.0.0" primary_banner_color="0xffd1d1d1" secondary_banner_color="0xff3F7D20" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.nankai" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=IyoVqTuy}Miyoshi Ryougoku" short_name="{=YhbInKsq}Miyoshi" title="{=YhbInKsq}Miyoshi" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <!-- KYUSHU -->
+  <Kingdom id="shimazu" owner="Hero.lord_1_shimazu" banner_key="11.163.166.1528.1528.764.764.1.0.0.605.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff2f4211" secondary_banner_color="0xffd1d1d1" label_color="FFDB8330" color="0xff2f4211" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.saikai" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=HMVZVgT7}Shimazu Ryougoku" short_name="{=e89d6Fhr}Shimazu" title="{=e89d6Fhr}Shimazu" ruler_title="{=tRwThwR8}Daimyou" text="{=shokuho8657bD95}The Shimazu clan is a long-standing samurai clan in Kyushū, but it was shrinking through the generations. Tadayoshi, known as Lord Jisshin, a grandfather of Yoshihiro, is from a branch of the Shimazu clan. He inherited the head of the clan and solved the succession issues in the clan. Some of his descendants are known for being brave, other is known for being thoughtful, or other is known for fairful.">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="kimotsuki" owner="Hero.lord_1_kimotsuki" banner_key="11.163.166.1528.1528.764.764.1.0.0.602.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff2C4B52" secondary_banner_color="0xffdac310" label_color="FFDB8330" color="0xff2f4211" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.saikai" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=KrJolclO}Kimotsuki Ryougoku" short_name="{=nuOTMFnL}Kimotsuki" title="{=nuOTMFnL}Kimotsuki" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="ito" owner="Hero.lord_1_ito" banner_key="11.163.166.1528.1528.764.764.1.0.0.600.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff873973" secondary_banner_color="0xff0d0d0d" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.saikai" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=16fyo47M}Itou Ryougoku" short_name="{=0rDc1SBx}Itou" title="{=0rDc1SBx}Itou" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="aso" owner="Hero.lord_1_aso" banner_key="11.163.166.1528.1528.764.764.1.0.0.612.171.171.483.483.764.764.0.0.0" primary_banner_color="0xffAD0017" secondary_banner_color="0xffF3F4F8" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.saikai" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=aFBneNkA}Aso Ryougoku" short_name="{=ONWqd9Hd}Aso" title="{=ONWqd9Hd}Aso" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="sagara" owner="Hero.lord_1_sagara" banner_key="11.163.166.1528.1528.764.764.1.0.0.609.171.171.483.483.764.764.0.0.0" primary_banner_color="0xffd1d1d1" secondary_banner_color="0xff6b0b0b" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.saikai" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=aiTAusH5}Sagara Ryougoku" short_name="{=qZ86Dhcd}Sagara" title="{=qZ86Dhcd}Sagara" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="otomo" owner="Hero.lord_1_otomo" banner_key="11.163.166.1528.1528.764.764.1.0.0.597.171.171.483.483.764.764.0.0.0" primary_banner_color="0xffd1d1d1" secondary_banner_color="0xff093b6b" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.saikai" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=taM0M0u7}Ōtomo Ryougoku" short_name="{=p6llIAZ9}Ōtomo" title="{=p6llIAZ9}Ōtomo" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="arima" owner="Hero.lord_1_arima" banner_key="11.163.166.1528.1528.764.764.1.0.0.619.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff0d0d0d" secondary_banner_color="0xff9b1414" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.saikai" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=kveCZElo}Arima Ryougoku" short_name="{=HCBBJbxX}Arima" title="{=HCBBJbxX}Arima" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
+  <Kingdom id="ryuzoji" owner="Hero.lord_1_ryuzoji" banner_key="11.163.166.1528.1528.764.764.1.0.0.614.171.171.483.483.764.764.0.0.0" primary_banner_color="0xffde9d53" secondary_banner_color="0xff332c28" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.saikai" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=uIMPOA8l}Ryūzouji Ryougoku" short_name="{=5HSblONo}Ryūzouji" title="{=5HSblONo}Ryūzouji" ruler_title="{=tRwThwR8}Daimyou" text="">
+    <relationships> </relationships>
+    <policies> </policies>
+  </Kingdom>
 </Kingdoms>

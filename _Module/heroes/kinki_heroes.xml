@@ -1,70 +1,70 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Heroes>
-	<!-- Akamtasu Faction -->
-	<!-- Akamtasu clan -->
-	<Hero id="lord_1_akamatsu" faction="Faction.clan_akamatsu_1" spouse="Hero.lord_1_akamatsu_1" text=""/>
-	<Hero id="lord_1_akamatsu_1" faction="Faction.clan_akamatsu_1" spouse="Hero.lord_1_akamatsu" text=""/>
-	<Hero id="lord_1_akamatsu_2" faction="Faction.clan_akamatsu_1" spouse="Hero.lord_1_akamatsu_3" text=""/>
-	<!-- Kodera clan -->
-	<Hero id="lord_1_kodera" faction="Faction.clan_kodera_1" spouse="Hero.lord_1_kodera_1" father="Hero.lord_1_kodera_2" mother="Hero.lord_1_kodera_3" text=""/>
-	<Hero id="lord_1_kodera_1" faction="Faction.clan_kodera_1" spouse="Hero.lord_1_kodera" text=""/>
-	<Hero id="lord_1_kodera_2" faction="Faction.clan_kodera_1" spouse="Hero.lord_1_kodera_3" text=""/>
-	<Hero id="lord_1_kodera_3" faction="Faction.clan_kodera_1" spouse="Hero.lord_1_kodera_2" text=""/>
-	<Hero id="lord_1_kodera_4" faction="Faction.clan_kodera_1" father="Hero.lord_1_kodera" mother="Hero.lord_1_kodera_1" text=""/>
-	<Hero id="lord_1_kodera_5" faction="Faction.clan_kodera_1" father="Hero.lord_1_kodera" mother="Hero.lord_1_kodera_1" text=""/>
-	<!-- Kuroda Clan -->
-	<Hero id="lord_1_kuroda" faction="Faction.clan_kuroda_1" spouse="Hero.lord_1_kuroda_1" father="Hero.lord_1_kuroda_2" mother="Hero.lord_1_kuroda_3" text=""/>
-	<Hero id="lord_1_kuroda_1" faction="Faction.clan_kuroda_1" spouse="Hero.lord_1_kuroda" text=""/>
-	<Hero id="lord_1_kuroda_2" faction="Faction.clan_kuroda_1" spouse="Hero.lord_1_kuroda_3" text=""/>
-	<Hero id="lord_1_kuroda_3" faction="Faction.clan_kuroda_1" spouse="Hero.lord_1_kuroda_2" text=""/>
-	<Hero id="lord_1_kuroda_4" faction="Faction.clan_kuroda_1" father="Hero.lord_1_kuroda" mother="Hero.lord_1_kuroda_1" text=""/>
-	<Hero id="lord_1_kuroda_5" faction="Faction.clan_kuroda_1" father="Hero.lord_1_kuroda_2" mother="Hero.lord_1_kuroda_3" text=""/>
-	<Hero id="lord_1_kuroda_6" faction="Faction.clan_kuroda_1" father="Hero.lord_1_kuroda_2" mother="Hero.lord_1_kuroda_3" text=""/>
-	<Hero id="lord_1_kuroda_7" faction="Faction.clan_kuroda_1" father="Hero.lord_1_kuroda_2" mother="Hero.lord_1_kuroda_3" text=""/>
-	<Hero id="lord_1_kuroda_8" faction="Faction.clan_kuroda_1" father="Hero.lord_1_kuroda_2" mother="Hero.lord_1_kuroda_3" text=""/>
-	<Hero id="lord_1_kuroda_9" faction="Faction.clan_kuroda_1" father="Hero.lord_1_kuroda_2" mother="Hero.lord_1_kuroda_3" text=""/>
-	<Hero id="lord_1_kuroda_10" faction="Faction.clan_kuroda_1" father="Hero.lord_1_kuroda_2" mother="Hero.lord_1_kuroda_3" text=""/>
-	<!-- Bessho Clan -->
-	<Hero id="lord_1_bessho" faction="Faction.clan_bessho_1" spouse="Hero.lord_1_bessho_1" father="Hero.dead_lord_1_bessho_2" mother="Hero.dead_lord_1_bessho_3" text=""/>
-	<Hero id="lord_1_bessho_1" faction="Faction.clan_bessho_1" spouse="Hero.lord_1_bessho" text=""/>
-	<Hero id="dead_lord_1_bessho_2" alive="false" faction="Faction.clan_bessho_1" spouse="Hero.dead_lord_1_bessho_3" text=""/>
-	<Hero id="dead_lord_1_bessho_3" alive="false" faction="Faction.clan_bessho_1" spouse="Hero.dead_lord_1_bessho_2" text=""/>
-	<Hero id="lord_1_bessho_4" faction="Faction.clan_bessho_1" father="Hero.lord_1_bessho" text=""/>
-	<Hero id="lord_1_bessho_5" faction="Faction.clan_bessho_1" father="Hero.lord_1_bessho" text=""/>
-	<Hero id="lord_1_bessho_6" faction="Faction.clan_bessho_1" father="Hero.lord_1_bessho" text=""/>
-	<Hero id="lord_1_bessho_7" faction="Faction.clan_bessho_1" spouse="Hero.lord_1_bessho_8" father="Hero.dead_lord_1_bessho_2" text=""/>
-	<Hero id="lord_1_bessho_8" faction="Faction.clan_bessho_1" spouse="Hero.lord_1_bessho_7" text=""/>
-	<Hero id="lord_1_bessho_9" faction="Faction.clan_bessho_1" spouse="Hero.lord_1_bessho_10" father="Hero.dead_lord_1_bessho_2" text=""/>
-	<Hero id="lord_1_bessho_10" faction="Faction.clan_bessho_1" spouse="Hero.lord_1_bessho_9" text=""/>
-	<!-- Miyoshi Faction (Other Miyoshi clans are in shikoku_heroes.xml) -->
-	<!-- Matsunaga Clan -->
-	<Hero id="lord_1_matsunaga" faction="Faction.clan_matsunaga_1" spouse="Hero.lord_1_matsunaga_1" text=""/>
-	<Hero id="lord_1_matsunaga_1" faction="Faction.clan_matsunaga_1" spouse="Hero.lord_1_matsunaga" text=""/>
-	<Hero id="lord_1_matsunaga_2" faction="Faction.clan_matsunaga_1" spouse="Hero.lord_1_matsunaga_3" father="Hero.lord_1_bessho" text=""/>
-	<Hero id="lord_1_matsunaga_3" faction="Faction.clan_matsunaga_1" spouse="Hero.lord_1_matsunaga_2" text=""/>
-	<!-- Tsutsui Clan -->
-	<Hero id="lord_1_tsutsui" faction="Faction.clan_tsutsui_1" spouse="Hero.lord_1_tsutsui_1" father="Hero.dead_lord_1_tsutsui_4" mother="Hero.lord_1_tsutsui_5" text=""/>
-	<Hero id="lord_1_tsutsui_1" faction="Faction.clan_tsutsui_1" spouse="Hero.lord_1_tsutsui" text=""/>
-	<Hero id="dead_lord_1_tsutsui_2" alive="false" faction="Faction.clan_tsutsui_1" spouse="Hero.dead_lord_1_tsutsui_3" text=""/>
-	<Hero id="dead_lord_1_tsutsui_3" alive="false" faction="Faction.clan_tsutsui_1" spouse="Hero.dead_lord_1_tsutsui_2" text=""/>
-	<Hero id="dead_lord_1_tsutsui_4" alive="false" faction="Faction.clan_tsutsui_1" father="Hero.dead_lord_1_tsutsui_2" mother="Hero.dead_lord_1_tsutsui_3" text=""/>
-	<Hero id="lord_1_tsutsui_5" faction="Faction.clan_tsutsui_1" text=""/>
-	<Hero id="lord_1_tsutsui_6" faction="Faction.clan_tsutsui_1" spouse="Hero.lord_1_tsutsui_7" father="Hero.dead_lord_1_tsutsui_2" mother="Hero.dead_lord_1_tsutsui_3" text=""/>
-	<Hero id="lord_1_tsutsui_7" faction="Faction.clan_tsutsui_1" spouse="Hero.lord_1_tsutsui_6" text=""/>
-	<Hero id="lord_1_tsutsui_8" faction="Faction.clan_tsutsui_1" father="Hero.dead_lord_1_tsutsui_2" text=""/>
-	<Hero id="lord_1_tsutsui_9" faction="Faction.clan_tsutsui_1" spouse="Hero.lord_1_tsutsui_9" father="Hero.dead_lord_1_tsutsui_2" text=""/>
-	<Hero id="lord_1_tsutsui_10" faction="Faction.clan_tsutsui_1" spouse="Hero.lord_1_tsutsui_9" text=""/>
-	<Hero id="lord_1_tsutsui_11" faction="Faction.clan_tsutsui_1" father="Hero.lord_1_tsutsui_9" mother="Hero.lord_1_tsutsui_10" text=""/>
-	<Hero id="lord_1_tsutsui_12" faction="Faction.clan_tsutsui_1" father="Hero.lord_1_tsutsui_9" mother="Hero.lord_1_tsutsui_10" text="Citation needed"/>
-	<!-- Atagi Clan -->
-	<Hero id="lord_1_atagi" faction="Faction.clan_atagi_1" spouse="Hero.lord_1_atagi_1" father="Hero.lord_1_tsutsui_5" mother="Hero.lord_1_tsutsui_6" text=""/>
-	<Hero id="lord_1_atagi_1" faction="Faction.clan_atagi_1" spouse="Hero.lord_1_atagi" text=""/>
-	<Hero id="dead_lord_1_atagi_2" alive="false" faction="Faction.clan_atagi_1" spouse="Hero.lord_1_atagi_3" text=""/>
-	<Hero id="lord_1_atagi_3" faction="Faction.clan_atagi_1" spouse="Hero.dead_lord_1_atagi_2" text=""/>
-	<Hero id="lord_1_atagi_4" faction="Faction.clan_atagi_1" father="Hero.dead_lord_1_atagi_2" text=""/>
-	<!-- Ashikaga Faction
+  <!-- Akamtasu Faction -->
+  <!-- Akamtasu clan -->
+  <Hero id="lord_1_akamatsu" faction="Faction.clan_akamatsu_1" spouse="Hero.lord_1_akamatsu_1" text=""/>
+  <Hero id="lord_1_akamatsu_1" faction="Faction.clan_akamatsu_1" spouse="Hero.lord_1_akamatsu" text=""/>
+  <Hero id="lord_1_akamatsu_2" faction="Faction.clan_akamatsu_1" spouse="Hero.lord_1_akamatsu_3" text=""/>
+  <!-- Kodera clan -->
+  <Hero id="lord_1_kodera" faction="Faction.clan_kodera_1" spouse="Hero.lord_1_kodera_1" father="Hero.lord_1_kodera_2" mother="Hero.lord_1_kodera_3" text=""/>
+  <Hero id="lord_1_kodera_1" faction="Faction.clan_kodera_1" spouse="Hero.lord_1_kodera" text=""/>
+  <Hero id="lord_1_kodera_2" faction="Faction.clan_kodera_1" spouse="Hero.lord_1_kodera_3" text=""/>
+  <Hero id="lord_1_kodera_3" faction="Faction.clan_kodera_1" spouse="Hero.lord_1_kodera_2" text=""/>
+  <Hero id="lord_1_kodera_4" faction="Faction.clan_kodera_1" father="Hero.lord_1_kodera" mother="Hero.lord_1_kodera_1" text=""/>
+  <Hero id="lord_1_kodera_5" faction="Faction.clan_kodera_1" father="Hero.lord_1_kodera" mother="Hero.lord_1_kodera_1" text=""/>
+  <!-- Kuroda Clan -->
+  <Hero id="lord_1_kuroda" faction="Faction.clan_kuroda_1" spouse="Hero.lord_1_kuroda_1" father="Hero.lord_1_kuroda_2" mother="Hero.lord_1_kuroda_3" text=""/>
+  <Hero id="lord_1_kuroda_1" faction="Faction.clan_kuroda_1" spouse="Hero.lord_1_kuroda" text=""/>
+  <Hero id="lord_1_kuroda_2" faction="Faction.clan_kuroda_1" spouse="Hero.lord_1_kuroda_3" text=""/>
+  <Hero id="lord_1_kuroda_3" faction="Faction.clan_kuroda_1" spouse="Hero.lord_1_kuroda_2" text=""/>
+  <Hero id="lord_1_kuroda_4" faction="Faction.clan_kuroda_1" father="Hero.lord_1_kuroda" mother="Hero.lord_1_kuroda_1" text=""/>
+  <Hero id="lord_1_kuroda_5" faction="Faction.clan_kuroda_1" father="Hero.lord_1_kuroda_2" mother="Hero.lord_1_kuroda_3" text=""/>
+  <Hero id="lord_1_kuroda_6" faction="Faction.clan_kuroda_1" father="Hero.lord_1_kuroda_2" mother="Hero.lord_1_kuroda_3" text=""/>
+  <Hero id="lord_1_kuroda_7" faction="Faction.clan_kuroda_1" father="Hero.lord_1_kuroda_2" mother="Hero.lord_1_kuroda_3" text=""/>
+  <Hero id="lord_1_kuroda_8" faction="Faction.clan_kuroda_1" father="Hero.lord_1_kuroda_2" mother="Hero.lord_1_kuroda_3" text=""/>
+  <Hero id="lord_1_kuroda_9" faction="Faction.clan_kuroda_1" father="Hero.lord_1_kuroda_2" mother="Hero.lord_1_kuroda_3" text=""/>
+  <Hero id="lord_1_kuroda_10" faction="Faction.clan_kuroda_1" father="Hero.lord_1_kuroda_2" mother="Hero.lord_1_kuroda_3" text=""/>
+  <!-- Bessho Clan -->
+  <Hero id="lord_1_bessho" faction="Faction.clan_bessho_1" spouse="Hero.lord_1_bessho_1" father="Hero.dead_lord_1_bessho_2" mother="Hero.dead_lord_1_bessho_3" text=""/>
+  <Hero id="lord_1_bessho_1" faction="Faction.clan_bessho_1" spouse="Hero.lord_1_bessho" text=""/>
+  <Hero id="dead_lord_1_bessho_2" alive="false" faction="Faction.clan_bessho_1" spouse="Hero.dead_lord_1_bessho_3" text=""/>
+  <Hero id="dead_lord_1_bessho_3" alive="false" faction="Faction.clan_bessho_1" spouse="Hero.dead_lord_1_bessho_2" text=""/>
+  <Hero id="lord_1_bessho_4" faction="Faction.clan_bessho_1" father="Hero.lord_1_bessho" text=""/>
+  <Hero id="lord_1_bessho_5" faction="Faction.clan_bessho_1" father="Hero.lord_1_bessho" text=""/>
+  <Hero id="lord_1_bessho_6" faction="Faction.clan_bessho_1" father="Hero.lord_1_bessho" text=""/>
+  <Hero id="lord_1_bessho_7" faction="Faction.clan_bessho_1" spouse="Hero.lord_1_bessho_8" father="Hero.dead_lord_1_bessho_2" text=""/>
+  <Hero id="lord_1_bessho_8" faction="Faction.clan_bessho_1" spouse="Hero.lord_1_bessho_7" text=""/>
+  <Hero id="lord_1_bessho_9" faction="Faction.clan_bessho_1" spouse="Hero.lord_1_bessho_10" father="Hero.dead_lord_1_bessho_2" text=""/>
+  <Hero id="lord_1_bessho_10" faction="Faction.clan_bessho_1" spouse="Hero.lord_1_bessho_9" text=""/>
+  <!-- Miyoshi Faction (Other Miyoshi clans are in shikoku_heroes.xml) -->
+  <!-- Matsunaga Clan -->
+  <Hero id="lord_1_matsunaga" faction="Faction.clan_matsunaga_1" spouse="Hero.lord_1_matsunaga_1" text=""/>
+  <Hero id="lord_1_matsunaga_1" faction="Faction.clan_matsunaga_1" spouse="Hero.lord_1_matsunaga" text=""/>
+  <Hero id="lord_1_matsunaga_2" faction="Faction.clan_matsunaga_1" spouse="Hero.lord_1_matsunaga_3" father="Hero.lord_1_bessho" text=""/>
+  <Hero id="lord_1_matsunaga_3" faction="Faction.clan_matsunaga_1" spouse="Hero.lord_1_matsunaga_2" text=""/>
+  <!-- Tsutsui Clan -->
+  <Hero id="lord_1_tsutsui" faction="Faction.clan_tsutsui_1" spouse="Hero.lord_1_tsutsui_1" father="Hero.dead_lord_1_tsutsui_4" mother="Hero.lord_1_tsutsui_5" text=""/>
+  <Hero id="lord_1_tsutsui_1" faction="Faction.clan_tsutsui_1" spouse="Hero.lord_1_tsutsui" text=""/>
+  <Hero id="dead_lord_1_tsutsui_2" alive="false" faction="Faction.clan_tsutsui_1" spouse="Hero.dead_lord_1_tsutsui_3" text=""/>
+  <Hero id="dead_lord_1_tsutsui_3" alive="false" faction="Faction.clan_tsutsui_1" spouse="Hero.dead_lord_1_tsutsui_2" text=""/>
+  <Hero id="dead_lord_1_tsutsui_4" alive="false" faction="Faction.clan_tsutsui_1" father="Hero.dead_lord_1_tsutsui_2" mother="Hero.dead_lord_1_tsutsui_3" text=""/>
+  <Hero id="lord_1_tsutsui_5" faction="Faction.clan_tsutsui_1" text=""/>
+  <Hero id="lord_1_tsutsui_6" faction="Faction.clan_tsutsui_1" spouse="Hero.lord_1_tsutsui_7" father="Hero.dead_lord_1_tsutsui_2" mother="Hero.dead_lord_1_tsutsui_3" text=""/>
+  <Hero id="lord_1_tsutsui_7" faction="Faction.clan_tsutsui_1" spouse="Hero.lord_1_tsutsui_6" text=""/>
+  <Hero id="lord_1_tsutsui_8" faction="Faction.clan_tsutsui_1" father="Hero.dead_lord_1_tsutsui_2" text=""/>
+  <Hero id="lord_1_tsutsui_9" faction="Faction.clan_tsutsui_1" spouse="Hero.lord_1_tsutsui_9" father="Hero.dead_lord_1_tsutsui_2" text=""/>
+  <Hero id="lord_1_tsutsui_10" faction="Faction.clan_tsutsui_1" spouse="Hero.lord_1_tsutsui_9" text=""/>
+  <Hero id="lord_1_tsutsui_11" faction="Faction.clan_tsutsui_1" father="Hero.lord_1_tsutsui_9" mother="Hero.lord_1_tsutsui_10" text=""/>
+  <Hero id="lord_1_tsutsui_12" faction="Faction.clan_tsutsui_1" father="Hero.lord_1_tsutsui_9" mother="Hero.lord_1_tsutsui_10" text="{=shokuho12F9A162}Citation needed"/>
+  <!-- Atagi Clan -->
+  <Hero id="lord_1_atagi" faction="Faction.clan_atagi_1" spouse="Hero.lord_1_atagi_1" father="Hero.lord_1_tsutsui_5" mother="Hero.lord_1_tsutsui_6" text=""/>
+  <Hero id="lord_1_atagi_1" faction="Faction.clan_atagi_1" spouse="Hero.lord_1_atagi" text=""/>
+  <Hero id="dead_lord_1_atagi_2" alive="false" faction="Faction.clan_atagi_1" spouse="Hero.lord_1_atagi_3" text=""/>
+  <Hero id="lord_1_atagi_3" faction="Faction.clan_atagi_1" spouse="Hero.dead_lord_1_atagi_2" text=""/>
+  <Hero id="lord_1_atagi_4" faction="Faction.clan_atagi_1" father="Hero.dead_lord_1_atagi_2" text=""/>
+  <!-- Ashikaga Faction
  Ashikaga Clan -->
-	<!--<Hero id="lord_1_ashikaga"
+  <!--<Hero id="lord_1_ashikaga"
 		  faction="Faction.clan_ashikaga_1"
 		  spouse="Hero.lord_1_atagi_1"
 		  father="Hero.lord_1_ashikaga_2"
@@ -74,170 +74,170 @@
 		  faction="Faction.clan_ashikaga_1"
 		  spouse="Hero.lord_1_atagi"
 		  text=""/>-->
-	<Hero id="dead_lord_1_ashikaga_2" alive="false" faction="Faction.clan_ashikaga_1" spouse="Hero.dead_lord_1_ashikaga_3" text=""/>
-	<Hero id="dead_lord_1_ashikaga_3" alive="false" faction="Faction.clan_ashikaga_1" spouse="Hero.dead_lord_1_ashikaga_2" text=""/>
-	<Hero id="dead_lord_1_ashikaga_4" alive="false" faction="Faction.clan_ashikaga_1" spouse="Hero.dead_lord_1_ashikaga_5" father="Hero.dead_lord_1_ashikaga_2" mother="Hero.dead_lord_1_ashikaga_3" text=""/>
-	<Hero id="dead_lord_1_ashikaga_5" alive="false" faction="Faction.clan_ashikaga_1" spouse="Hero.dead_lord_1_ashikaga_4" text=""/>
-	<Hero id="lord_1_ashikaga_6" faction="Faction.clan_ashikaga_1" text=""/>--&gt;
+  <Hero id="dead_lord_1_ashikaga_2" alive="false" faction="Faction.clan_ashikaga_1" spouse="Hero.dead_lord_1_ashikaga_3" text=""/>
+  <Hero id="dead_lord_1_ashikaga_3" alive="false" faction="Faction.clan_ashikaga_1" spouse="Hero.dead_lord_1_ashikaga_2" text=""/>
+  <Hero id="dead_lord_1_ashikaga_4" alive="false" faction="Faction.clan_ashikaga_1" spouse="Hero.dead_lord_1_ashikaga_5" father="Hero.dead_lord_1_ashikaga_2" mother="Hero.dead_lord_1_ashikaga_3" text=""/>
+  <Hero id="dead_lord_1_ashikaga_5" alive="false" faction="Faction.clan_ashikaga_1" spouse="Hero.dead_lord_1_ashikaga_4" text=""/>
+  <Hero id="lord_1_ashikaga_6" faction="Faction.clan_ashikaga_1" text=""/>--&gt;
 	<!-- Hosokawa Clan -->
-	<Hero id="lord_1_hosokawa" faction="Faction.clan_hosokawa_1" spouse="Hero.lord_1_hosokawa_1" text=""/>
-	<Hero id="lord_1_hosokawa_1" faction="Faction.clan_hosokawa_1" spouse="Hero.lord_1_hosokawa" text=""/>
-	<Hero id="lord_1_hosokawa_2" faction="Faction.clan_hosokawa_1" father="Hero.lord_1_hosokawa" mother="Hero.lord_1_hosokawa_1" text=""/>
-	<Hero id="lord_1_hosokawa_3" faction="Faction.clan_hosokawa_1" father="Hero.lord_1_hosokawa" mother="Hero.lord_1_hosokawa_1" text=""/>
-	<Hero id="lord_1_hosokawa_4" faction="Faction.clan_hosokawa_1" father="Hero.lord_1_hosokawa" mother="Hero.lord_1_hosokawa_1" text=""/>
-	<Hero id="lord_1_hosokawa_5" faction="Faction.clan_hosokawa_1" father="Hero.lord_1_hosokawa" mother="Hero.lord_1_hosokawa_1" text=""/>
-	<!-- Issiki Clan -->
-	<Hero id="lord_1_issiki" faction="Faction.clan_issiki_1" father="Hero.dead_lord_1_issiki_2" mother="Hero.dead_lord_1_issiki_3" spouse="Hero.lord_1_issiki_1" text=""/>
-	<Hero id="lord_1_issiki_1" faction="Faction.clan_issiki_1" spouse="Hero.lord_1_issiki" text=""/>
-	<Hero id="dead_lord_1_issiki_2" alive="false" faction="Faction.clan_issiki_1" spouse="Hero.dead_lord_1_issiki_3" text=""/>
-	<Hero id="dead_lord_1_issiki_3" alive="false" faction="Faction.clan_issiki_1" spouse="Hero.dead_lord_1_issiki_2" text=""/>
-	<Hero id="lord_1_issiki_4" faction="Faction.clan_issiki_1" father="Hero.lord_1_issiki" mother="Hero.lord_1_issiki_1" text=""/>
-	<Hero id="lord_1_issiki_5" faction="Faction.clan_issiki_1" spouse="Hero.lord_1_issiki_6" father="Hero.dead_lord_1_issiki_2" mother="Hero.dead_lord_1_issiki_3" text=""/>
-	<Hero id="lord_1_issiki_6" faction="Faction.clan_issiki_1" spouse="Hero.lord_1_issiki_5" text=""/>
-	<!-- Yamana Clan -->
-	<Hero id="lord_1_yamana" faction="Faction.clan_yamana_1" spouse="Hero.lord_1_yamana_1" text=""/>
-	<Hero id="lord_1_yamana_1" faction="Faction.clan_yamana_1" spouse="Hero.lord_1_yamana" text=""/>
-	<Hero id="dead_lord_1_yamana_2" alive="false" faction="Faction.clan_yamana_1" father="Hero.lord_1_yamana" mother="Hero.lord_1_yamana_1" text=""/>
-	<Hero id="lord_1_yamana_3" faction="Faction.clan_yamana_1" father="Hero.lord_1_yamana" mother="Hero.lord_1_yamana_1" text=""/>
-	<Hero id="lord_1_yamana_4" faction="Faction.clan_yamana_1" father="Hero.lord_1_yamana" mother="Hero.lord_1_yamana_1" text=""/>
-	<!-- Hatakeyama Faction -->
-	<!-- Hatakeyama Clan -->
-	<Hero id="lord_1_hatakeyama" faction="Faction.clan_hatakeyama_1" father="Hero.dead_lord_1_hatakeyama_1" mother="Hero.dead_lord_1_hatakeyama_2" text=""/>
-	<Hero id="dead_lord_1_hatakeyama_1" alive="false" faction="Faction.clan_hatakeyama_1" spouse="Hero.dead_lord_1_hatakeyama_2" text=""/>
-	<Hero id="dead_lord_1_hatakeyama_2" alive="false" faction="Faction.clan_hatakeyama_1" spouse="Hero.dead_lord_1_hatakeyama_1" text=""/>
-	<Hero id="lord_1_hatakeyama_3" faction="Faction.clan_hatakeyama_1" father="Hero.dead_lord_1_hatakeyama_1" mother="Hero.dead_lord_1_hatakeyama_2" spouse="Hero.lord_1_hatakeyama_4" text=""/>
-	<Hero id="lord_1_hatakeyama_4" faction="Faction.clan_hatakeyama_1" spouse="Hero.lord_1_hatakeyama_3" text=""/>
-	<Hero id="lord_1_hatakeyama_5" faction="Faction.clan_hatakeyama_1" father="Hero.lord_1_hatakeyama_3" mother="Hero.lord_1_hatakeyama_4" text=""/>
-	<Hero id="lord_1_hatakeyama_6" faction="Faction.clan_hatakeyama_1" father="Hero.dead_lord_1_hatakeyama_1" mother="Hero.dead_lord_1_hatakeyama_2" text=""/>
-	<!-- Yasumi Clan -->
-	<Hero id="lord_1_yasumi" faction="Faction.clan_yasumi_1" spouse="Hero.lord_1_yasumi_1" text=""/>
-	<Hero id="lord_1_yasumi_1" faction="Faction.clan_yasumi_1" spouse="Hero.lord_1_yasumi" text=""/>
-	<Hero id="lord_1_yasumi_2" faction="Faction.clan_yasumi_1" father="Hero.lord_1_yasumi" mother="Hero.lord_1_yasumi_1" text="Citation needed."/>
-	<Hero id="lord_1_yasumi_3" faction="Faction.clan_yasumi_1" spouse="Hero.lord_1_yasumi_4" text=""/>
-	<Hero id="lord_1_yasumi_4" faction="Faction.clan_yasumi_1" spouse="Hero.lord_1_yasumi_3" text=""/>
-	<!-- Yukawa Clan -->
-	<Hero id="lord_1_yukawa" faction="Faction.clan_yukawa_1" spouse="Hero.lord_1_yukawa_1" father="Hero.dead_lord_1_yukawa_2" mother="Hero.dead_lord_1_yukawa_3" text=""/>
-	<Hero id="lord_1_yukawa_1" faction="Faction.clan_yukawa_1" spouse="Hero.lord_1_yukawa" text=""/>
-	<Hero id="dead_lord_1_yukawa_2" alive="false" faction="Faction.clan_yukawa_1" spouse="Hero.dead_lord_1_yukawa_3" text=""/>
-	<Hero id="dead_lord_1_yukawa_3" alive="false" faction="Faction.clan_yukawa_1" spouse="Hero.dead_lord_1_yukawa_2" text=""/>
-	<Hero id="lord_1_yukawa_4" faction="Faction.clan_yukawa_1" father="Hero.dead_lord_1_yukawa_2" mother="Hero.dead_lord_1_yukawa_3" text=""/>
-	<Hero id="lord_1_yukawa_5" faction="Faction.clan_yukawa_1" father="Hero.dead_lord_1_yukawa_2" mother="Hero.dead_lord_1_yukawa_3" text=""/>
-	<Hero id="lord_1_yukawa_6" faction="Faction.clan_yukawa_1" father="Hero.dead_lord_1_yukawa_2" mother="Hero.dead_lord_1_yukawa_3" text="Citation needed"/>
-	<!--Ikko Ikki Faction-->
-	<!-- Honganji Clan -->
-	<Hero id="lord_1_honganji" faction="Faction.clan_honganji_1" spouse="Hero.lord_1_honganji_2" text=""/>
-	<Hero id="lord_1_honganji_1" faction="Faction.clan_honganji_1" spouse="Hero.lord_1_honganji" text=""/>
-	<Hero id="lord_1_honganji_2" faction="Faction.clan_honganji_1" father="Hero.lord_1_honganji" mother="Hero.lord_1_honganji_1" text=""/>
-	<Hero id="lord_1_honganji_3" faction="Faction.clan_honganji_1" father="Hero.lord_1_honganji" mother="Hero.lord_1_honganji_1" text=""/>
-	<!-- Ganshouji Clan -->
-	<Hero id="lord_1_ganshoji" faction="Faction.clan_ganshoji_1" spouse="Hero.lord_1_ganshoji_1" text=""/>
-	<Hero id="lord_1_ganshoji_1" faction="Faction.clan_ganshoji_1" spouse="Hero.lord_1_ganshoji" text=""/>
-	<Hero id="lord_1_ganshoji_2" faction="Faction.clan_ganshoji_1" spouse="Hero.lord_1_ganshoji" father="Hero.lord_1_ganshoji" mother="Hero.lord_1_ganshoji_1" text=""/>
-	<!-- Rokkaku Faction -->
-	<!-- Rokkaku Clan -->
-	<Hero id="lord_1_rokkaku" faction="Faction.clan_rokkaku_1" spouse="Hero.lord_1_rokkaku_1" text=""/>
-	<Hero id="lord_1_rokkaku_1" faction="Faction.clan_rokkaku_1" spouse="Hero.lord_1_rokkaku" text=""/>
-	<Hero id="lord_1_rokkaku_2" faction="Faction.clan_rokkaku_1" spouse="Hero.lord_1_rokkaku_3" father="Hero.lord_1_rokkaku" mother="Hero.lord_1_rokkaku_1" text=""/>
-	<Hero id="lord_1_rokkaku_3" faction="Faction.clan_rokkaku_1" spouse="Hero.lord_1_rokkaku_2" text=""/>
-	<Hero id="lord_1_rokkaku_4" faction="Faction.clan_rokkaku_1" spouse="Hero.lord_1_rokkaku_5" father="Hero.lord_1_rokkaku" mother="Hero.lord_1_rokkaku_1" text=""/>
-	<Hero id="lord_1_rokkaku_5" faction="Faction.clan_rokkaku_1" spouse="Hero.lord_1_rokkaku_4" text=""/>
-	<!-- Gamou Clan -->
-	<Hero id="lord_1_gamou" faction="Faction.clan_gamou_1" spouse="Hero.lord_1_gamou_1" text=""/>
-	<Hero id="lord_1_gamou_1" faction="Faction.clan_gamou_1" spouse="Hero.lord_1_gamou" text=""/>
-	<Hero id="lord_1_gamou_2" faction="Faction.clan_gamou_1" father="Hero.lord_1_gamou" mother="Hero.lord_1_gamou_1" text=""/>
-	<Hero id="lord_1_gamou_3" faction="Faction.clan_gamou_1" father="Hero.lord_1_gamou" mother="Hero.lord_1_gamou_1" text=""/>
-	<Hero id="lord_1_gamou_4" faction="Faction.clan_gamou_1" father="Hero.lord_1_gamou" mother="Hero.lord_1_gamou_1" text=""/>
-	<Hero id="lord_1_gamou_5" faction="Faction.clan_gamou_1" father="Hero.lord_1_gamou" mother="Hero.lord_1_gamou_1" text=""/>
-	<!-- Azai Faction -->
-	<!-- Azai Clan -->
-	<Hero id="lord_1_azai" faction="Faction.clan_azai_1" spouse="Hero.lord_1_azai_1" father="Hero.lord_1_azai_2" mother="Hero.lord_1_azai_3" text=""/>
-	<Hero id="lord_1_azai_1" faction="Faction.clan_azai_1" spouse="Hero.lord_1_azai" text=""/>
-	<Hero id="lord_1_azai_2" faction="Faction.clan_azai_1" spouse="Hero.lord_1_azai_3" text=""/>
-	<Hero id="lord_1_azai_3" faction="Faction.clan_azai_1" spouse="Hero.lord_1_azai_2" text=""/>
-	<Hero id="lord_1_azai_4" faction="Faction.clan_azai_1" father="Hero.lord_1_azai_2" mother="Hero.lord_1_azai_3" text=""/>
-	<Hero id="lord_1_azai_5" faction="Faction.clan_azai_1" father="Hero.lord_1_azai_2" mother="Hero.lord_1_azai_3" text=""/>
-	<!--Toudou Clan-->
-	<Hero id="lord_1_todo" faction="Faction.clan_todo_1" spouse="Hero.lord_1_todo_1" text=""/>
-	<Hero id="lord_1_todo_1" faction="Faction.clan_todo_1" spouse="Hero.lord_1_todo" text=""/>
-	<Hero id="lord_1_todo_2" faction="Faction.clan_todo_1" father="Hero.lord_1_todo" mother="Hero.lord_1_todo_1" text=""/>
-	<Hero id="lord_1_todo_3" faction="Faction.clan_todo_1" father="Hero.lord_1_todo" mother="Hero.lord_1_todo_1" text=""/>
-	<Hero id="lord_1_todo_4" faction="Faction.clan_todo_1" father="Hero.lord_1_todo" mother="Hero.lord_1_todo_1" text=""/>
-	<Hero id="lord_1_todo_5" faction="Faction.clan_todo_1" father="Hero.lord_1_todo" mother="Hero.lord_1_todo_1" text=""/>
-	<!--Isono Clan-->
-	<Hero id="lord_1_isono" faction="Faction.clan_isono_1" spouse="Hero.lord_1_isono_1" text=""/>
-	<Hero id="lord_1_isono_1" faction="Faction.clan_isono_1" spouse="Hero.lord_1_isono" text=""/>
-	<Hero id="lord_1_isono_2" faction="Faction.clan_isono_1" father="Hero.lord_1_isono" mother="Hero.lord_1_isono_1" text=""/>
-	<Hero id="lord_1_isono_3" faction="Faction.clan_isono_1" father="Hero.lord_1_isono" mother="Hero.lord_1_isono_1" text=""/>
-	<!-- Akao Clan -->
-	<Hero id="lord_1_akao" faction="Faction.clan_akao_1" spouse="Hero.lord_1_akao_1" text=""/>
-	<Hero id="lord_1_akao_1" faction="Faction.clan_akao_1" spouse="Hero.lord_1_akao" text=""/>
-	<Hero id="lord_1_akao_2" faction="Faction.clan_akao_1" father="Hero.lord_1_akao" mother="Hero.lord_1_akao_1" spouse="Hero.lord_1_akao_3" text=""/>
-	<Hero id="lord_1_akao_3" faction="Faction.clan_akao_1" spouse="Hero.lord_1_akao_2" text=""/>
-	<!-- Oda Faction
+  <Hero id="lord_1_hosokawa" faction="Faction.clan_hosokawa_1" spouse="Hero.lord_1_hosokawa_1" text=""/>
+  <Hero id="lord_1_hosokawa_1" faction="Faction.clan_hosokawa_1" spouse="Hero.lord_1_hosokawa" text=""/>
+  <Hero id="lord_1_hosokawa_2" faction="Faction.clan_hosokawa_1" father="Hero.lord_1_hosokawa" mother="Hero.lord_1_hosokawa_1" text=""/>
+  <Hero id="lord_1_hosokawa_3" faction="Faction.clan_hosokawa_1" father="Hero.lord_1_hosokawa" mother="Hero.lord_1_hosokawa_1" text=""/>
+  <Hero id="lord_1_hosokawa_4" faction="Faction.clan_hosokawa_1" father="Hero.lord_1_hosokawa" mother="Hero.lord_1_hosokawa_1" text=""/>
+  <Hero id="lord_1_hosokawa_5" faction="Faction.clan_hosokawa_1" father="Hero.lord_1_hosokawa" mother="Hero.lord_1_hosokawa_1" text=""/>
+  <!-- Issiki Clan -->
+  <Hero id="lord_1_issiki" faction="Faction.clan_issiki_1" father="Hero.dead_lord_1_issiki_2" mother="Hero.dead_lord_1_issiki_3" spouse="Hero.lord_1_issiki_1" text=""/>
+  <Hero id="lord_1_issiki_1" faction="Faction.clan_issiki_1" spouse="Hero.lord_1_issiki" text=""/>
+  <Hero id="dead_lord_1_issiki_2" alive="false" faction="Faction.clan_issiki_1" spouse="Hero.dead_lord_1_issiki_3" text=""/>
+  <Hero id="dead_lord_1_issiki_3" alive="false" faction="Faction.clan_issiki_1" spouse="Hero.dead_lord_1_issiki_2" text=""/>
+  <Hero id="lord_1_issiki_4" faction="Faction.clan_issiki_1" father="Hero.lord_1_issiki" mother="Hero.lord_1_issiki_1" text=""/>
+  <Hero id="lord_1_issiki_5" faction="Faction.clan_issiki_1" spouse="Hero.lord_1_issiki_6" father="Hero.dead_lord_1_issiki_2" mother="Hero.dead_lord_1_issiki_3" text=""/>
+  <Hero id="lord_1_issiki_6" faction="Faction.clan_issiki_1" spouse="Hero.lord_1_issiki_5" text=""/>
+  <!-- Yamana Clan -->
+  <Hero id="lord_1_yamana" faction="Faction.clan_yamana_1" spouse="Hero.lord_1_yamana_1" text=""/>
+  <Hero id="lord_1_yamana_1" faction="Faction.clan_yamana_1" spouse="Hero.lord_1_yamana" text=""/>
+  <Hero id="dead_lord_1_yamana_2" alive="false" faction="Faction.clan_yamana_1" father="Hero.lord_1_yamana" mother="Hero.lord_1_yamana_1" text=""/>
+  <Hero id="lord_1_yamana_3" faction="Faction.clan_yamana_1" father="Hero.lord_1_yamana" mother="Hero.lord_1_yamana_1" text=""/>
+  <Hero id="lord_1_yamana_4" faction="Faction.clan_yamana_1" father="Hero.lord_1_yamana" mother="Hero.lord_1_yamana_1" text=""/>
+  <!-- Hatakeyama Faction -->
+  <!-- Hatakeyama Clan -->
+  <Hero id="lord_1_hatakeyama" faction="Faction.clan_hatakeyama_1" father="Hero.dead_lord_1_hatakeyama_1" mother="Hero.dead_lord_1_hatakeyama_2" text=""/>
+  <Hero id="dead_lord_1_hatakeyama_1" alive="false" faction="Faction.clan_hatakeyama_1" spouse="Hero.dead_lord_1_hatakeyama_2" text=""/>
+  <Hero id="dead_lord_1_hatakeyama_2" alive="false" faction="Faction.clan_hatakeyama_1" spouse="Hero.dead_lord_1_hatakeyama_1" text=""/>
+  <Hero id="lord_1_hatakeyama_3" faction="Faction.clan_hatakeyama_1" father="Hero.dead_lord_1_hatakeyama_1" mother="Hero.dead_lord_1_hatakeyama_2" spouse="Hero.lord_1_hatakeyama_4" text=""/>
+  <Hero id="lord_1_hatakeyama_4" faction="Faction.clan_hatakeyama_1" spouse="Hero.lord_1_hatakeyama_3" text=""/>
+  <Hero id="lord_1_hatakeyama_5" faction="Faction.clan_hatakeyama_1" father="Hero.lord_1_hatakeyama_3" mother="Hero.lord_1_hatakeyama_4" text=""/>
+  <Hero id="lord_1_hatakeyama_6" faction="Faction.clan_hatakeyama_1" father="Hero.dead_lord_1_hatakeyama_1" mother="Hero.dead_lord_1_hatakeyama_2" text=""/>
+  <!-- Yasumi Clan -->
+  <Hero id="lord_1_yasumi" faction="Faction.clan_yasumi_1" spouse="Hero.lord_1_yasumi_1" text=""/>
+  <Hero id="lord_1_yasumi_1" faction="Faction.clan_yasumi_1" spouse="Hero.lord_1_yasumi" text=""/>
+  <Hero id="lord_1_yasumi_2" faction="Faction.clan_yasumi_1" father="Hero.lord_1_yasumi" mother="Hero.lord_1_yasumi_1" text="{=shokuho0a62356f}Citation needed."/>
+  <Hero id="lord_1_yasumi_3" faction="Faction.clan_yasumi_1" spouse="Hero.lord_1_yasumi_4" text=""/>
+  <Hero id="lord_1_yasumi_4" faction="Faction.clan_yasumi_1" spouse="Hero.lord_1_yasumi_3" text=""/>
+  <!-- Yukawa Clan -->
+  <Hero id="lord_1_yukawa" faction="Faction.clan_yukawa_1" spouse="Hero.lord_1_yukawa_1" father="Hero.dead_lord_1_yukawa_2" mother="Hero.dead_lord_1_yukawa_3" text=""/>
+  <Hero id="lord_1_yukawa_1" faction="Faction.clan_yukawa_1" spouse="Hero.lord_1_yukawa" text=""/>
+  <Hero id="dead_lord_1_yukawa_2" alive="false" faction="Faction.clan_yukawa_1" spouse="Hero.dead_lord_1_yukawa_3" text=""/>
+  <Hero id="dead_lord_1_yukawa_3" alive="false" faction="Faction.clan_yukawa_1" spouse="Hero.dead_lord_1_yukawa_2" text=""/>
+  <Hero id="lord_1_yukawa_4" faction="Faction.clan_yukawa_1" father="Hero.dead_lord_1_yukawa_2" mother="Hero.dead_lord_1_yukawa_3" text=""/>
+  <Hero id="lord_1_yukawa_5" faction="Faction.clan_yukawa_1" father="Hero.dead_lord_1_yukawa_2" mother="Hero.dead_lord_1_yukawa_3" text=""/>
+  <Hero id="lord_1_yukawa_6" faction="Faction.clan_yukawa_1" father="Hero.dead_lord_1_yukawa_2" mother="Hero.dead_lord_1_yukawa_3" text="{=shokuho12F9A162}Citation needed"/>
+  <!--Ikko Ikki Faction-->
+  <!-- Honganji Clan -->
+  <Hero id="lord_1_honganji" faction="Faction.clan_honganji_1" spouse="Hero.lord_1_honganji_2" text=""/>
+  <Hero id="lord_1_honganji_1" faction="Faction.clan_honganji_1" spouse="Hero.lord_1_honganji" text=""/>
+  <Hero id="lord_1_honganji_2" faction="Faction.clan_honganji_1" father="Hero.lord_1_honganji" mother="Hero.lord_1_honganji_1" text=""/>
+  <Hero id="lord_1_honganji_3" faction="Faction.clan_honganji_1" father="Hero.lord_1_honganji" mother="Hero.lord_1_honganji_1" text=""/>
+  <!-- Ganshouji Clan -->
+  <Hero id="lord_1_ganshoji" faction="Faction.clan_ganshoji_1" spouse="Hero.lord_1_ganshoji_1" text=""/>
+  <Hero id="lord_1_ganshoji_1" faction="Faction.clan_ganshoji_1" spouse="Hero.lord_1_ganshoji" text=""/>
+  <Hero id="lord_1_ganshoji_2" faction="Faction.clan_ganshoji_1" spouse="Hero.lord_1_ganshoji" father="Hero.lord_1_ganshoji" mother="Hero.lord_1_ganshoji_1" text=""/>
+  <!-- Rokkaku Faction -->
+  <!-- Rokkaku Clan -->
+  <Hero id="lord_1_rokkaku" faction="Faction.clan_rokkaku_1" spouse="Hero.lord_1_rokkaku_1" text=""/>
+  <Hero id="lord_1_rokkaku_1" faction="Faction.clan_rokkaku_1" spouse="Hero.lord_1_rokkaku" text=""/>
+  <Hero id="lord_1_rokkaku_2" faction="Faction.clan_rokkaku_1" spouse="Hero.lord_1_rokkaku_3" father="Hero.lord_1_rokkaku" mother="Hero.lord_1_rokkaku_1" text=""/>
+  <Hero id="lord_1_rokkaku_3" faction="Faction.clan_rokkaku_1" spouse="Hero.lord_1_rokkaku_2" text=""/>
+  <Hero id="lord_1_rokkaku_4" faction="Faction.clan_rokkaku_1" spouse="Hero.lord_1_rokkaku_5" father="Hero.lord_1_rokkaku" mother="Hero.lord_1_rokkaku_1" text=""/>
+  <Hero id="lord_1_rokkaku_5" faction="Faction.clan_rokkaku_1" spouse="Hero.lord_1_rokkaku_4" text=""/>
+  <!-- Gamou Clan -->
+  <Hero id="lord_1_gamou" faction="Faction.clan_gamou_1" spouse="Hero.lord_1_gamou_1" text=""/>
+  <Hero id="lord_1_gamou_1" faction="Faction.clan_gamou_1" spouse="Hero.lord_1_gamou" text=""/>
+  <Hero id="lord_1_gamou_2" faction="Faction.clan_gamou_1" father="Hero.lord_1_gamou" mother="Hero.lord_1_gamou_1" text=""/>
+  <Hero id="lord_1_gamou_3" faction="Faction.clan_gamou_1" father="Hero.lord_1_gamou" mother="Hero.lord_1_gamou_1" text=""/>
+  <Hero id="lord_1_gamou_4" faction="Faction.clan_gamou_1" father="Hero.lord_1_gamou" mother="Hero.lord_1_gamou_1" text=""/>
+  <Hero id="lord_1_gamou_5" faction="Faction.clan_gamou_1" father="Hero.lord_1_gamou" mother="Hero.lord_1_gamou_1" text=""/>
+  <!-- Azai Faction -->
+  <!-- Azai Clan -->
+  <Hero id="lord_1_azai" faction="Faction.clan_azai_1" spouse="Hero.lord_1_azai_1" father="Hero.lord_1_azai_2" mother="Hero.lord_1_azai_3" text=""/>
+  <Hero id="lord_1_azai_1" faction="Faction.clan_azai_1" spouse="Hero.lord_1_azai" text=""/>
+  <Hero id="lord_1_azai_2" faction="Faction.clan_azai_1" spouse="Hero.lord_1_azai_3" text=""/>
+  <Hero id="lord_1_azai_3" faction="Faction.clan_azai_1" spouse="Hero.lord_1_azai_2" text=""/>
+  <Hero id="lord_1_azai_4" faction="Faction.clan_azai_1" father="Hero.lord_1_azai_2" mother="Hero.lord_1_azai_3" text=""/>
+  <Hero id="lord_1_azai_5" faction="Faction.clan_azai_1" father="Hero.lord_1_azai_2" mother="Hero.lord_1_azai_3" text=""/>
+  <!--Toudou Clan-->
+  <Hero id="lord_1_todo" faction="Faction.clan_todo_1" spouse="Hero.lord_1_todo_1" text=""/>
+  <Hero id="lord_1_todo_1" faction="Faction.clan_todo_1" spouse="Hero.lord_1_todo" text=""/>
+  <Hero id="lord_1_todo_2" faction="Faction.clan_todo_1" father="Hero.lord_1_todo" mother="Hero.lord_1_todo_1" text=""/>
+  <Hero id="lord_1_todo_3" faction="Faction.clan_todo_1" father="Hero.lord_1_todo" mother="Hero.lord_1_todo_1" text=""/>
+  <Hero id="lord_1_todo_4" faction="Faction.clan_todo_1" father="Hero.lord_1_todo" mother="Hero.lord_1_todo_1" text=""/>
+  <Hero id="lord_1_todo_5" faction="Faction.clan_todo_1" father="Hero.lord_1_todo" mother="Hero.lord_1_todo_1" text=""/>
+  <!--Isono Clan-->
+  <Hero id="lord_1_isono" faction="Faction.clan_isono_1" spouse="Hero.lord_1_isono_1" text=""/>
+  <Hero id="lord_1_isono_1" faction="Faction.clan_isono_1" spouse="Hero.lord_1_isono" text=""/>
+  <Hero id="lord_1_isono_2" faction="Faction.clan_isono_1" father="Hero.lord_1_isono" mother="Hero.lord_1_isono_1" text=""/>
+  <Hero id="lord_1_isono_3" faction="Faction.clan_isono_1" father="Hero.lord_1_isono" mother="Hero.lord_1_isono_1" text=""/>
+  <!-- Akao Clan -->
+  <Hero id="lord_1_akao" faction="Faction.clan_akao_1" spouse="Hero.lord_1_akao_1" text=""/>
+  <Hero id="lord_1_akao_1" faction="Faction.clan_akao_1" spouse="Hero.lord_1_akao" text=""/>
+  <Hero id="lord_1_akao_2" faction="Faction.clan_akao_1" father="Hero.lord_1_akao" mother="Hero.lord_1_akao_1" spouse="Hero.lord_1_akao_3" text=""/>
+  <Hero id="lord_1_akao_3" faction="Faction.clan_akao_1" spouse="Hero.lord_1_akao_2" text=""/>
+  <!-- Oda Faction
  Oda Clan -->
-	<Hero id="lord_1_oda" faction="Faction.clan_oda_1" spouse="Hero.lord_1_oda_1" father="Hero.dead_lord_1_oda_2" mother="Hero.lord_1_oda_3" text=""/>
-	<Hero id="lord_1_oda_1" faction="Faction.clan_oda_1" spouse="Hero.lord_1_oda" text=""/>
-	<Hero id="dead_lord_1_oda_2" alive="false" faction="Faction.clan_oda_1" spouse="Hero.lord_1_oda_3" text=""/>
-	<Hero id="lord_1_oda_3" faction="Faction.clan_oda_1" spouse="Hero.lord_1_oda_2" text=""/>
-	<Hero id="lord_1_oda_4" faction="Faction.clan_oda_1" father="Hero.lord_1_oda" mother="Hero.lord_1_oda_1" text=""/>
-	<Hero id="lord_1_oda_5" faction="Faction.clan_oda_1" father="Hero.lord_1_oda" mother="Hero.lord_1_oda_1" text=""/>
-	<Hero id="lord_1_oda_6" faction="Faction.clan_oda_1" father="Hero.lord_1_oda" mother="Hero.lord_1_oda_1" text=""/>
-	<Hero id="lord_1_oda_7" faction="Faction.clan_oda_1" father="Hero.dead_lord_1_oda_2" mother="Hero.lord_1_oda_3" text=""/>
-	<Hero id="lord_1_oda_8" faction="Faction.clan_oda_1" father="Hero.dead_lord_1_oda_2" mother="Hero.lord_1_oda_3" spouse="Hero.lord_1_oda_8" text=""/>
-	<Hero id="lord_1_oda_9" faction="Faction.clan_oda_1" spouse="Hero.lord_1_oda_8" text=""/>
-	<Hero id="lord_1_oda_10" faction="Faction.clan_oda_1" father="Hero.dead_lord_1_oda_2" mother="Hero.lord_1_oda_3" spouse="Hero.lord_1_oda_11" text=""/>
-	<Hero id="lord_1_oda_11" faction="Faction.clan_oda_1" spouse="Hero.lord_1_oda_10" text=""/>
-	<!--	Kinoshita (Toyotomi) Clan-->
-	<Hero id="lord_1_kinoshita" faction="Faction.clan_kinoshita_1" spouse="Hero.lord_1_kinoshita_1" father="Hero.dead_lord_1_kinoshita_2" mother="Hero.lord_1_kinoshita_3" text=""/>
-	<Hero id="lord_1_kinoshita_1" faction="Faction.clan_kinoshita_1" spouse="Hero.lord_1_kinoshita" text=""/>
-	<Hero id="dead_lord_1_kinoshita_2" alive="false" faction="Faction.clan_kinoshita_1" spouse="Hero.lord_1_kinoshita_3" text=""/>
-	<Hero id="lord_1_kinoshita_3" faction="Faction.clan_kinoshita_1" spouse="Hero.lord_1_kinoshita_2" text=""/>
-	<Hero id="lord_1_kinoshita_4" faction="Faction.clan_kinoshita_1" spouse="Hero.lord_1_kinoshita_5" father="Hero.dead_lord_1_kinoshita_2" mother="Hero.lord_1_kinoshita_3" text=""/>
-	<Hero id="lord_1_kinoshita_5" faction="Faction.clan_kinoshita_1" spouse="Hero.lord_1_kinoshita_4" text=""/>
-	<Hero id="lord_1_kinoshita_6" faction="Faction.clan_kinoshita_1" spouse="Hero.lord_1_kinoshita_7" father="Hero.dead_lord_1_kinoshita_2" mother="Hero.lord_1_kinoshita_3" text=""/>
-	<Hero id="lord_1_kinoshita_7" faction="Faction.clan_kinoshita_1" spouse="Hero.lord_1_kinoshita_6" text=""/>
-	<Hero id="lord_1_kinoshita_8" faction="Faction.clan_kinoshita_1" spouse="Hero.lord_1_kinoshita_9" father="Hero.dead_lord_1_kinoshita_2" mother="Hero.lord_1_kinoshita_3" text=""/>
-	<Hero id="lord_1_kinoshita_9" faction="Faction.clan_kinoshita_1" spouse="Hero.lord_1_kinoshita_8" text=""/>
-	<!-- Shibata Clan -->
-	<Hero id="lord_1_shibata" faction="Faction.clan_shibata_1" spouse="Hero.lord_1_shibata_1" text=""/>
-	<Hero id="lord_1_shibata_1" faction="Faction.clan_shibata_1" spouse="Hero.lord_1_shibata" text=""/>
-	<Hero id="lord_1_shibata_2" faction="Faction.clan_shibata_1" father="Hero.lord_1_shibata" mother="Hero.lord_1_shibata_1" text=""/>
-	<Hero id="lord_1_shibata_3" faction="Faction.clan_shibata_1" father="Hero.lord_1_shibata" mother="Hero.lord_1_shibata_1" text=""/>
-	<Hero id="lord_1_shibata_4" faction="Faction.clan_shibata_1" father="Hero.lord_1_shibata" mother="Hero.lord_1_shibata_1" text=""/>
-	<Hero id="lord_1_shibata_5" faction="Faction.clan_shibata_1" father="Hero.lord_1_shibata" mother="Hero.lord_1_shibata_1" text=""/>
-	<Hero id="lord_1_shibata_6" faction="Faction.clan_shibata_1" father="Hero.lord_1_shibata" mother="Hero.lord_1_shibata_1" text=""/>
-	<!-- Sakuma Clan -->
-	<Hero id="lord_1_sakuma" faction="Faction.clan_sakuma_1" father="Hero.dead_lord_1_sakuma_2" mother="Hero.lord_1_shibata_1" spouse="Hero.lord_1_sakuma_3" text=""/>
-	<Hero id="lord_1_sakuma_1" faction="Faction.clan_sakuma_1" spouse="Hero.lord_1_sakuma" text=""/>
-	<Hero id="dead_lord_1_sakuma_2" alive="false" faction="Faction.clan_sakuma_1" spouse="Hero.lord_1_sakuma_3" text=""/>
-	<Hero id="lord_1_sakuma_3" faction="Faction.clan_sakuma_1" spouse="Hero.dead_lord_1_sakuma_2" text=""/>
-	<Hero id="lord_1_sakuma_4" faction="Faction.clan_sakuma_1" father="Hero.lord_1_sakuma" mother="Hero.lord_1_sakuma_1" text=""/>
-	<Hero id="lord_1_sakuma_5" faction="Faction.clan_sakuma_1" father="Hero.dead_lord_1_sakuma_2" mother="Hero.lord_1_sakuma_3" text=""/>
-	<!-- Takigawa Clan -->
-	<Hero id="lord_1_takigawa" faction="Faction.clan_takigawa_1" spouse="Hero.lord_1_takigawa_1" text=""/>
-	<Hero id="lord_1_takigawa_1" faction="Faction.clan_takigawa_1" spouse="Hero.lord_1_takigawa" text=""/>
-	<Hero id="lord_1_takigawa_2" faction="Faction.clan_takigawa_1" father="Hero.lord_1_takigawa" mother="Hero.lord_1_takigawa_1" text=""/>
-	<Hero id="lord_1_takigawa_3" faction="Faction.clan_takigawa_1" father="Hero.lord_1_takigawa" mother="Hero.lord_1_takigawa_1" text=""/>
-	<Hero id="lord_1_takigawa_4" faction="Faction.clan_takigawa_1" father="Hero.lord_1_takigawa" mother="Hero.lord_1_takigawa_1" text=""/>
-	<Hero id="lord_1_takigawa_5" faction="Faction.clan_takigawa_1" father="Hero.lord_1_takigawa" mother="Hero.lord_1_takigawa_1" text=""/>
-	<!-- Kuki Clan -->
-	<Hero id="lord_1_kuki" faction="Faction.clan_kuki_1" spouse="Hero.lord_1_kuki_1" text=""/>
-	<Hero id="lord_1_kuki_1" faction="Faction.clan_kuki_1" spouse="Hero.lord_1_kuki" text=""/>
-	<Hero id="lord_1_kuki_2" faction="Faction.clan_kuki_1" father="Hero.lord_1_kuki" mother="Hero.lord_1_kuki_1" text=""/>
-	<Hero id="lord_1_kuki_3" faction="Faction.clan_kuki_1" father="Hero.lord_1_kuki" mother="Hero.lord_1_kuki_1" text=""/>
-	<!-- Kitabatake Clan -->
-	<Hero id="lord_1_kitabatake" faction="Faction.clan_kitabatake_1" father="Hero.dead_lord_1_kitabatake_2" mother="Hero.dead_lord_1_kitabatake_3" spouse="Hero.lord_1_kitabatake_1" text=""/>
-	<Hero id="lord_1_kitabatake_1" faction="Faction.clan_kitabatake_1" spouse="Hero.lord_1_kitabatake" text=""/>
-	<Hero id="dead_lord_1_kitabatake_2" alive="false" faction="Faction.clan_kitabatake_1" spouse="Hero.dead_lord_1_kitabatake_3" text=""/>
-	<Hero id="dead_lord_1_kitabatake_3" alive="false" faction="Faction.clan_kitabatake_1" spouse="Hero.dead_lord_1_kitabatake_2" text=""/>
-	<Hero id="lord_1_kitabatake_4" faction="Faction.clan_kitabatake_1" father="Hero.lord_1_kitabatake" mother="Hero.lord_1_kitabatake_1" text=""/>
-	<Hero id="lord_1_kitabatake_5" faction="Faction.clan_kitabatake_1" father="Hero.lord_1_kitabatake" mother="Hero.lord_1_kitabatake_1" text=""/>
-	<Hero id="lord_1_kitabatake_6" faction="Faction.clan_kitabatake_1" father="Hero.lord_1_kitabatake" mother="Hero.lord_1_kitabatake_1" text=""/>
-	<Hero id="lord_1_kitabatake_7" faction="Faction.clan_kitabatake_1" father="Hero.lord_1_kitabatake" mother="Hero.lord_1_kitabatake_1" text=""/>
-	<Hero id="lord_1_kitabatake_8" faction="Faction.clan_kitabatake_1" father="Hero.lord_1_kitabatake" mother="Hero.lord_1_kitabatake_1" text=""/>
-	<Hero id="lord_1_kitabatake_9" faction="Faction.clan_kitabatake_1" father="Hero.lord_1_kitabatake" mother="Hero.lord_1_kitabatake_1" text=""/>
-	<Hero id="lord_1_kitabatake_10" faction="Faction.clan_kitabatake_1" spouse="Hero.lord_1_kitabatake_11" father="Hero.dead_lord_1_kitabatake_2" mother="Hero.dead_lord_1_kitabatake_3" text=""/>
-	<Hero id="lord_1_kitabatake_11" faction="Faction.clan_kitabatake_1" spouse="Hero.lord_1_kitabatake_10" text=""/>
-	<Hero id="lord_1_kitabatake_12" faction="Faction.clan_kitabatake_1" father="Hero.lord_1_kitabatake_10" mother="Hero.lord_1_kitabatake_11" text=""/>
-	<Hero id="lord_1_kitabatake_13" faction="Faction.clan_kitabatake_1" father="Hero.dead_lord_1_kitabatake_2" mother="Hero.dead_lord_1_kitabatake_3" text=""/>
+  <Hero id="lord_1_oda" faction="Faction.clan_oda_1" spouse="Hero.lord_1_oda_1" father="Hero.dead_lord_1_oda_2" mother="Hero.lord_1_oda_3" text=""/>
+  <Hero id="lord_1_oda_1" faction="Faction.clan_oda_1" spouse="Hero.lord_1_oda" text=""/>
+  <Hero id="dead_lord_1_oda_2" alive="false" faction="Faction.clan_oda_1" spouse="Hero.lord_1_oda_3" text=""/>
+  <Hero id="lord_1_oda_3" faction="Faction.clan_oda_1" spouse="Hero.lord_1_oda_2" text=""/>
+  <Hero id="lord_1_oda_4" faction="Faction.clan_oda_1" father="Hero.lord_1_oda" mother="Hero.lord_1_oda_1" text=""/>
+  <Hero id="lord_1_oda_5" faction="Faction.clan_oda_1" father="Hero.lord_1_oda" mother="Hero.lord_1_oda_1" text=""/>
+  <Hero id="lord_1_oda_6" faction="Faction.clan_oda_1" father="Hero.lord_1_oda" mother="Hero.lord_1_oda_1" text=""/>
+  <Hero id="lord_1_oda_7" faction="Faction.clan_oda_1" father="Hero.dead_lord_1_oda_2" mother="Hero.lord_1_oda_3" text=""/>
+  <Hero id="lord_1_oda_8" faction="Faction.clan_oda_1" father="Hero.dead_lord_1_oda_2" mother="Hero.lord_1_oda_3" spouse="Hero.lord_1_oda_8" text=""/>
+  <Hero id="lord_1_oda_9" faction="Faction.clan_oda_1" spouse="Hero.lord_1_oda_8" text=""/>
+  <Hero id="lord_1_oda_10" faction="Faction.clan_oda_1" father="Hero.dead_lord_1_oda_2" mother="Hero.lord_1_oda_3" spouse="Hero.lord_1_oda_11" text=""/>
+  <Hero id="lord_1_oda_11" faction="Faction.clan_oda_1" spouse="Hero.lord_1_oda_10" text=""/>
+  <!--	Kinoshita (Toyotomi) Clan-->
+  <Hero id="lord_1_kinoshita" faction="Faction.clan_kinoshita_1" spouse="Hero.lord_1_kinoshita_1" father="Hero.dead_lord_1_kinoshita_2" mother="Hero.lord_1_kinoshita_3" text=""/>
+  <Hero id="lord_1_kinoshita_1" faction="Faction.clan_kinoshita_1" spouse="Hero.lord_1_kinoshita" text=""/>
+  <Hero id="dead_lord_1_kinoshita_2" alive="false" faction="Faction.clan_kinoshita_1" spouse="Hero.lord_1_kinoshita_3" text=""/>
+  <Hero id="lord_1_kinoshita_3" faction="Faction.clan_kinoshita_1" spouse="Hero.lord_1_kinoshita_2" text=""/>
+  <Hero id="lord_1_kinoshita_4" faction="Faction.clan_kinoshita_1" spouse="Hero.lord_1_kinoshita_5" father="Hero.dead_lord_1_kinoshita_2" mother="Hero.lord_1_kinoshita_3" text=""/>
+  <Hero id="lord_1_kinoshita_5" faction="Faction.clan_kinoshita_1" spouse="Hero.lord_1_kinoshita_4" text=""/>
+  <Hero id="lord_1_kinoshita_6" faction="Faction.clan_kinoshita_1" spouse="Hero.lord_1_kinoshita_7" father="Hero.dead_lord_1_kinoshita_2" mother="Hero.lord_1_kinoshita_3" text=""/>
+  <Hero id="lord_1_kinoshita_7" faction="Faction.clan_kinoshita_1" spouse="Hero.lord_1_kinoshita_6" text=""/>
+  <Hero id="lord_1_kinoshita_8" faction="Faction.clan_kinoshita_1" spouse="Hero.lord_1_kinoshita_9" father="Hero.dead_lord_1_kinoshita_2" mother="Hero.lord_1_kinoshita_3" text=""/>
+  <Hero id="lord_1_kinoshita_9" faction="Faction.clan_kinoshita_1" spouse="Hero.lord_1_kinoshita_8" text=""/>
+  <!-- Shibata Clan -->
+  <Hero id="lord_1_shibata" faction="Faction.clan_shibata_1" spouse="Hero.lord_1_shibata_1" text=""/>
+  <Hero id="lord_1_shibata_1" faction="Faction.clan_shibata_1" spouse="Hero.lord_1_shibata" text=""/>
+  <Hero id="lord_1_shibata_2" faction="Faction.clan_shibata_1" father="Hero.lord_1_shibata" mother="Hero.lord_1_shibata_1" text=""/>
+  <Hero id="lord_1_shibata_3" faction="Faction.clan_shibata_1" father="Hero.lord_1_shibata" mother="Hero.lord_1_shibata_1" text=""/>
+  <Hero id="lord_1_shibata_4" faction="Faction.clan_shibata_1" father="Hero.lord_1_shibata" mother="Hero.lord_1_shibata_1" text=""/>
+  <Hero id="lord_1_shibata_5" faction="Faction.clan_shibata_1" father="Hero.lord_1_shibata" mother="Hero.lord_1_shibata_1" text=""/>
+  <Hero id="lord_1_shibata_6" faction="Faction.clan_shibata_1" father="Hero.lord_1_shibata" mother="Hero.lord_1_shibata_1" text=""/>
+  <!-- Sakuma Clan -->
+  <Hero id="lord_1_sakuma" faction="Faction.clan_sakuma_1" father="Hero.dead_lord_1_sakuma_2" mother="Hero.lord_1_shibata_1" spouse="Hero.lord_1_sakuma_3" text=""/>
+  <Hero id="lord_1_sakuma_1" faction="Faction.clan_sakuma_1" spouse="Hero.lord_1_sakuma" text=""/>
+  <Hero id="dead_lord_1_sakuma_2" alive="false" faction="Faction.clan_sakuma_1" spouse="Hero.lord_1_sakuma_3" text=""/>
+  <Hero id="lord_1_sakuma_3" faction="Faction.clan_sakuma_1" spouse="Hero.dead_lord_1_sakuma_2" text=""/>
+  <Hero id="lord_1_sakuma_4" faction="Faction.clan_sakuma_1" father="Hero.lord_1_sakuma" mother="Hero.lord_1_sakuma_1" text=""/>
+  <Hero id="lord_1_sakuma_5" faction="Faction.clan_sakuma_1" father="Hero.dead_lord_1_sakuma_2" mother="Hero.lord_1_sakuma_3" text=""/>
+  <!-- Takigawa Clan -->
+  <Hero id="lord_1_takigawa" faction="Faction.clan_takigawa_1" spouse="Hero.lord_1_takigawa_1" text=""/>
+  <Hero id="lord_1_takigawa_1" faction="Faction.clan_takigawa_1" spouse="Hero.lord_1_takigawa" text=""/>
+  <Hero id="lord_1_takigawa_2" faction="Faction.clan_takigawa_1" father="Hero.lord_1_takigawa" mother="Hero.lord_1_takigawa_1" text=""/>
+  <Hero id="lord_1_takigawa_3" faction="Faction.clan_takigawa_1" father="Hero.lord_1_takigawa" mother="Hero.lord_1_takigawa_1" text=""/>
+  <Hero id="lord_1_takigawa_4" faction="Faction.clan_takigawa_1" father="Hero.lord_1_takigawa" mother="Hero.lord_1_takigawa_1" text=""/>
+  <Hero id="lord_1_takigawa_5" faction="Faction.clan_takigawa_1" father="Hero.lord_1_takigawa" mother="Hero.lord_1_takigawa_1" text=""/>
+  <!-- Kuki Clan -->
+  <Hero id="lord_1_kuki" faction="Faction.clan_kuki_1" spouse="Hero.lord_1_kuki_1" text=""/>
+  <Hero id="lord_1_kuki_1" faction="Faction.clan_kuki_1" spouse="Hero.lord_1_kuki" text=""/>
+  <Hero id="lord_1_kuki_2" faction="Faction.clan_kuki_1" father="Hero.lord_1_kuki" mother="Hero.lord_1_kuki_1" text=""/>
+  <Hero id="lord_1_kuki_3" faction="Faction.clan_kuki_1" father="Hero.lord_1_kuki" mother="Hero.lord_1_kuki_1" text=""/>
+  <!-- Kitabatake Clan -->
+  <Hero id="lord_1_kitabatake" faction="Faction.clan_kitabatake_1" father="Hero.dead_lord_1_kitabatake_2" mother="Hero.dead_lord_1_kitabatake_3" spouse="Hero.lord_1_kitabatake_1" text=""/>
+  <Hero id="lord_1_kitabatake_1" faction="Faction.clan_kitabatake_1" spouse="Hero.lord_1_kitabatake" text=""/>
+  <Hero id="dead_lord_1_kitabatake_2" alive="false" faction="Faction.clan_kitabatake_1" spouse="Hero.dead_lord_1_kitabatake_3" text=""/>
+  <Hero id="dead_lord_1_kitabatake_3" alive="false" faction="Faction.clan_kitabatake_1" spouse="Hero.dead_lord_1_kitabatake_2" text=""/>
+  <Hero id="lord_1_kitabatake_4" faction="Faction.clan_kitabatake_1" father="Hero.lord_1_kitabatake" mother="Hero.lord_1_kitabatake_1" text=""/>
+  <Hero id="lord_1_kitabatake_5" faction="Faction.clan_kitabatake_1" father="Hero.lord_1_kitabatake" mother="Hero.lord_1_kitabatake_1" text=""/>
+  <Hero id="lord_1_kitabatake_6" faction="Faction.clan_kitabatake_1" father="Hero.lord_1_kitabatake" mother="Hero.lord_1_kitabatake_1" text=""/>
+  <Hero id="lord_1_kitabatake_7" faction="Faction.clan_kitabatake_1" father="Hero.lord_1_kitabatake" mother="Hero.lord_1_kitabatake_1" text=""/>
+  <Hero id="lord_1_kitabatake_8" faction="Faction.clan_kitabatake_1" father="Hero.lord_1_kitabatake" mother="Hero.lord_1_kitabatake_1" text=""/>
+  <Hero id="lord_1_kitabatake_9" faction="Faction.clan_kitabatake_1" father="Hero.lord_1_kitabatake" mother="Hero.lord_1_kitabatake_1" text=""/>
+  <Hero id="lord_1_kitabatake_10" faction="Faction.clan_kitabatake_1" spouse="Hero.lord_1_kitabatake_11" father="Hero.dead_lord_1_kitabatake_2" mother="Hero.dead_lord_1_kitabatake_3" text=""/>
+  <Hero id="lord_1_kitabatake_11" faction="Faction.clan_kitabatake_1" spouse="Hero.lord_1_kitabatake_10" text=""/>
+  <Hero id="lord_1_kitabatake_12" faction="Faction.clan_kitabatake_1" father="Hero.lord_1_kitabatake_10" mother="Hero.lord_1_kitabatake_11" text=""/>
+  <Hero id="lord_1_kitabatake_13" faction="Faction.clan_kitabatake_1" father="Hero.dead_lord_1_kitabatake_2" mother="Hero.dead_lord_1_kitabatake_3" text=""/>
 </Heroes>
