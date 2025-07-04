@@ -31,8 +31,10 @@ word (in Kana)| Shokuhō | Modified Hepburn | My Variant|
 仁王胴 (におうどう)| Nio Do | Niō Dō| Niou Dou|
 
 *: Don't pronunce like "you" in English, pronuce as well as "yow."
+
 **: Typo or misreading suspected
-***: based on the pronunciation of the priod
+
+***: based on the pronunciation of the period
 
 In addition, some terms are completely replaced.
 
@@ -43,6 +45,7 @@ word (in Kana)| Shokuhō | Modified Hepburn | My Variant|
 綾藺笠 (あやいがさ) | Nomadgasa‡ | Ayaigasa | Ayaigasa |
 
 †: old word designating the central district of Kyoto
+
 ‡: ?
 
 
