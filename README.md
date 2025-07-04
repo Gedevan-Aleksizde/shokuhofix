@@ -14,7 +14,7 @@ word (in Kana)| Shokuhō | Modified Hepburn | My Variant|
 毛利 (もうり)  |    Mori |           Mōri|      Mouri|
 近江 (おうみ)  |    Oumi |           Ōmi |       Oumi|
 龍造寺 (りゅうぞうじ)| Ryuzoji| Ryūzōji | Ryūzouji |
-勧修寺氏 (かじゅうじ)| Kashuji** | Kajūji| Kajūji| 
+勧修寺 (かじゅうじ)| Kashuji** | Kajūji| Kajūji| 
 山陽 (さんよう) | Sanyo | San'yō | San'you* |
 福浦 (ふくら) | Fukuura** | Fukura | Fukura|
 宮腰 (みやのこし) | Miyakoshi** | Miyanokoshi | Miyanokoshi
