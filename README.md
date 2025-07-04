@@ -23,7 +23,7 @@ word (in Kana)| Shokuhō | Modified Hepburn | My Variant|
 大坂 (おおさか, おおざか) | Osaka | Ōsaka | Ozaka*** |
 丹生島 (にうじま) | Nyushima** | Niujima | Niujima |
 丹波 (たんば) | Tanba, Tamba | Tanba | Tanba |
-井伊谷 (いいのや) | Iidani*** | Īnoya | Īnoya |
+井伊谷 (いいのや) | Iidani** | Īnoya | Īnoya |
 備中 (びっちゅう) | Bicchu | Bitchū | Bitchū |
 三戸 (さんのへ) | Sannohoe** | Sannohe | Sannohe |
 飯沼 (いいぬま) | Linuma** | Īnuma | Īnuma |
