@@ -30,7 +30,7 @@ word (in Kana)| Shokuhō | Modified Hepburn | My Variant|
 大道寺 (大道寺) | Didoji | Daidōji | Daidouji |
 仁王胴 (におうどう)| Nio Do | Niō Dō| Niou Dou|
 
-*: Don't pronunce like "you" in English, pronuce as well as "yow."
+*: Don't pronunce like "you" in English, pronunce the vowel as well as "old."
 
 **: Typo or misreading suspected
 
