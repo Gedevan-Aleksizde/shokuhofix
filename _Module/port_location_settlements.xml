@@ -1035,7 +1035,7 @@
         </Locations>
     </Settlement>
     <Settlement id="sho_port_CHUB6"
-                name="{=NlznDDm5}Port Hamamatsu"
+                name="{=NlznDDm5}Port Hikuma"
                 posX="1147.589"
                 posY="572.794"
                 culture="Culture.neutral_culture"

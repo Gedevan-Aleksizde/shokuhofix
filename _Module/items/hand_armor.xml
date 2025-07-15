@@ -96,7 +96,7 @@
 
     <!--tier 2-->
 
-    <Item id="sho_tier_2_kote_a_1" name="{=nfrAzQOE}Mail Kote" mesh="sho_tier_2_kote_a_1" weight="0.6" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_2_kote_a_1" name="{=nfrAzQOE}Kusari-gote" mesh="sho_tier_2_kote_a_1" weight="0.6" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="10" body_armor="1" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -104,7 +104,7 @@
     </Item>
 
 
-    <Item id="sho_tier_2_kote_a_2" name="{=nfrAzQOE}Mail Kote" mesh="sho_tier_2_kote_a_2" weight="0.6" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_2_kote_a_2" name="{=nfrAzQOE}Kusari-gote" mesh="sho_tier_2_kote_a_2" weight="0.6" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="10" body_armor="1" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -112,22 +112,14 @@
     </Item>
 
 
-    <Item id="sho_tier_2_kote_a_3" name="{=nfrAzQOE}Mail Kote" mesh="sho_tier_2_kote_a_3" weight="0.6" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_2_kote_a_3" name="{=nfrAzQOE}Kusari-gote" mesh="sho_tier_2_kote_a_3" weight="0.6" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="10" body_armor="1" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
         <Flags Civilian="false"/>
     </Item>
 
-    <Item id="sho_tier_2_kote_a_4" name="{=nfrAzQOE}Mail Kote" mesh="sho_tier_2_kote_a_4" weight="0.6" difficulty="0" appearance="1" Type="HandArmor">
-        <ItemComponent>
-            <Armor arm_armor="10" body_armor="1" modifier_group="chain" material_type="Chainmail"/>
-        </ItemComponent>
-        <Flags Civilian="false"/>
-    </Item>
-
-
-    <Item id="sho_tier_2_kote_a_5" name="{=nfrAzQOE}Mail Kote" mesh="sho_tier_2_kote_a_5" weight="0.6" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_2_kote_a_4" name="{=nfrAzQOE}Kusari-gote" mesh="sho_tier_2_kote_a_4" weight="0.6" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="10" body_armor="1" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -135,7 +127,7 @@
     </Item>
 
 
-    <Item id="sho_tier_2_kote_a_6" name="{=nfrAzQOE}Mail Kote" mesh="sho_tier_2_kote_a_6" weight="0.6" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_2_kote_a_5" name="{=nfrAzQOE}Kusari-gote" mesh="sho_tier_2_kote_a_5" weight="0.6" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="10" body_armor="1" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -143,8 +135,7 @@
     </Item>
 
 
-
-    <Item id="sho_tier_2_kote_a_7" name="{=nfrAzQOE}Mail Kote" mesh="sho_tier_2_kote_a_7" weight="0.6" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_2_kote_a_6" name="{=nfrAzQOE}Kusari-gote" mesh="sho_tier_2_kote_a_6" weight="0.6" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="10" body_armor="1" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -153,8 +144,17 @@
 
 
 
+    <Item id="sho_tier_2_kote_a_7" name="{=nfrAzQOE}Kusari-gote" mesh="sho_tier_2_kote_a_7" weight="0.6" difficulty="0" appearance="1" Type="HandArmor">
+        <ItemComponent>
+            <Armor arm_armor="10" body_armor="1" modifier_group="chain" material_type="Chainmail"/>
+        </ItemComponent>
+        <Flags Civilian="false"/>
+    </Item>
 
-    <Item id="sho_tier_2_kote_a_8" name="{=nfrAzQOE}Mail Kote" mesh="sho_tier_2_kote_a_8" weight="0.6" difficulty="0" appearance="1" Type="HandArmor">
+
+
+
+    <Item id="sho_tier_2_kote_a_8" name="{=nfrAzQOE}Kusari-gote" mesh="sho_tier_2_kote_a_8" weight="0.6" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="10" body_armor="1" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -169,7 +169,7 @@
 <!--tier 3-->
 
 
-    <Item id="sho_tier_3_kote_a_1" name="{=CoaDkHgm}Ornate Mail Kote" mesh="sho_tier_3_kote_a_1" weight="0.7" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_3_kote_a_1" name="{=CoaDkHgm}Ornate Kusari-gote" mesh="sho_tier_3_kote_a_1" weight="0.7" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="12" body_armor="1" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -177,7 +177,7 @@
     </Item>
 
 
-    <Item id="sho_tier_3_kote_a_2" name="{=CoaDkHgm}Ornate Mail Kote" mesh="sho_tier_3_kote_a_2" weight="0.7" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_3_kote_a_2" name="{=CoaDkHgm}Ornate Kusari-gote" mesh="sho_tier_3_kote_a_2" weight="0.7" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="12" body_armor="1" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -185,22 +185,14 @@
     </Item>
 
 
-    <Item id="sho_tier_3_kote_a_3" name="{=CoaDkHgm}Ornate Mail Kote" mesh="sho_tier_3_kote_a_3" weight="0.7" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_3_kote_a_3" name="{=CoaDkHgm}Ornate Kusari-gote" mesh="sho_tier_3_kote_a_3" weight="0.7" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="12" body_armor="1" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
         <Flags Civilian="false"/>
     </Item>
 
-    <Item id="sho_tier_3_kote_a_4" name="{=CoaDkHgm}Ornate Mail Kote" mesh="sho_tier_3_kote_a_4" weight="0.7" difficulty="0" appearance="1" Type="HandArmor">
-        <ItemComponent>
-            <Armor arm_armor="12" body_armor="1" modifier_group="chain" material_type="Chainmail"/>
-        </ItemComponent>
-        <Flags Civilian="false"/>
-    </Item>
-
-
-    <Item id="sho_tier_3_kote_a_5" name="{=CoaDkHgm}Ornate Mail Kote" mesh="sho_tier_3_kote_a_5" weight="0.7" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_3_kote_a_4" name="{=CoaDkHgm}Ornate Kusari-gote" mesh="sho_tier_3_kote_a_4" weight="0.7" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="12" body_armor="1" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -208,7 +200,7 @@
     </Item>
 
 
-    <Item id="sho_tier_3_kote_a_6" name="{=CoaDkHgm}Ornate Mail Kote" mesh="sho_tier_3_kote_a_6" weight="0.7" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_3_kote_a_5" name="{=CoaDkHgm}Ornate Kusari-gote" mesh="sho_tier_3_kote_a_5" weight="0.7" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="12" body_armor="1" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -216,8 +208,7 @@
     </Item>
 
 
-
-    <Item id="sho_tier_3_kote_a_7" name="{=CoaDkHgm}Ornate Mail Kote" mesh="sho_tier_3_kote_a_7" weight="0.7" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_3_kote_a_6" name="{=CoaDkHgm}Ornate Kusari-gote" mesh="sho_tier_3_kote_a_6" weight="0.7" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="12" body_armor="1" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -226,8 +217,17 @@
 
 
 
+    <Item id="sho_tier_3_kote_a_7" name="{=CoaDkHgm}Ornate Kusari-gote" mesh="sho_tier_3_kote_a_7" weight="0.7" difficulty="0" appearance="1" Type="HandArmor">
+        <ItemComponent>
+            <Armor arm_armor="12" body_armor="1" modifier_group="chain" material_type="Chainmail"/>
+        </ItemComponent>
+        <Flags Civilian="false"/>
+    </Item>
 
-    <Item id="sho_tier_3_kote_a_8" name="{=CoaDkHgm}Ornate Mail Kote" mesh="sho_tier_3_kote_a_8" weight="0.7" difficulty="0" appearance="1" Type="HandArmor">
+
+
+
+    <Item id="sho_tier_3_kote_a_8" name="{=CoaDkHgm}Ornate Kusari-gote" mesh="sho_tier_3_kote_a_8" weight="0.7" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="12" body_armor="1" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -242,7 +242,7 @@
 
 
 
-    <Item id="sho_tier_4_kote_a_1" name="{=XSdMBA4v}Reinforced Mail Kote" mesh="sho_tier_4_kote_a_1" weight="0.9" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_4_kote_a_1" name="{=XSdMBA4v}Reinforced Kusari-gote" mesh="sho_tier_4_kote_a_1" weight="0.9" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="15" body_armor="2" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -250,7 +250,7 @@
     </Item>
 
 
-    <Item id="sho_tier_4_kote_a_2" name="{=XSdMBA4v}Reinforced Mail Kote" mesh="sho_tier_4_kote_a_2" weight="0.9" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_4_kote_a_2" name="{=XSdMBA4v}Reinforced Kusari-gote" mesh="sho_tier_4_kote_a_2" weight="0.9" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="15" body_armor="2" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -258,22 +258,14 @@
     </Item>
 
 
-    <Item id="sho_tier_4_kote_a_3" name="{=XSdMBA4v}Reinforced Mail Kote" mesh="sho_tier_4_kote_a_3" weight="0.9" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_4_kote_a_3" name="{=XSdMBA4v}Reinforced Kusari-gote" mesh="sho_tier_4_kote_a_3" weight="0.9" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="15" body_armor="2" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
         <Flags Civilian="false"/>
     </Item>
 
-    <Item id="sho_tier_4_kote_a_4" name="{=XSdMBA4v}Reinforced Mail Kote" mesh="sho_tier_4_kote_a_4" weight="0.9" difficulty="0" appearance="1" Type="HandArmor">
-        <ItemComponent>
-            <Armor arm_armor="15" body_armor="2" modifier_group="chain" material_type="Chainmail"/>
-        </ItemComponent>
-        <Flags Civilian="false"/>
-    </Item>
-
-
-    <Item id="sho_tier_4_kote_a_5" name="{=XSdMBA4v}Reinforced Mail Kote" mesh="sho_tier_4_kote_a_5" weight="0.9" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_4_kote_a_4" name="{=XSdMBA4v}Reinforced Kusari-gote" mesh="sho_tier_4_kote_a_4" weight="0.9" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="15" body_armor="2" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -281,7 +273,7 @@
     </Item>
 
 
-    <Item id="sho_tier_4_kote_a_6" name="{=XSdMBA4v}Reinforced Mail Kote" mesh="sho_tier_4_kote_a_6" weight="0.9" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_4_kote_a_5" name="{=XSdMBA4v}Reinforced Kusari-gote" mesh="sho_tier_4_kote_a_5" weight="0.9" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="15" body_armor="2" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -289,8 +281,7 @@
     </Item>
 
 
-
-    <Item id="sho_tier_4_kote_a_7" name="{=XSdMBA4v}Reinforced Mail Kote" mesh="sho_tier_4_kote_a_7" weight="0.9" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_4_kote_a_6" name="{=XSdMBA4v}Reinforced Kusari-gote" mesh="sho_tier_4_kote_a_6" weight="0.9" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="15" body_armor="2" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -299,8 +290,17 @@
 
 
 
+    <Item id="sho_tier_4_kote_a_7" name="{=XSdMBA4v}Reinforced Kusari-gote" mesh="sho_tier_4_kote_a_7" weight="0.9" difficulty="0" appearance="1" Type="HandArmor">
+        <ItemComponent>
+            <Armor arm_armor="15" body_armor="2" modifier_group="chain" material_type="Chainmail"/>
+        </ItemComponent>
+        <Flags Civilian="false"/>
+    </Item>
 
-    <Item id="sho_tier_4_kote_a_8" name="{=XSdMBA4v}Reinforced Mail Kote" mesh="sho_tier_4_kote_a_8" weight="0.9" difficulty="0" appearance="1" Type="HandArmor">
+
+
+
+    <Item id="sho_tier_4_kote_a_8" name="{=XSdMBA4v}Reinforced Kusari-gote" mesh="sho_tier_4_kote_a_8" weight="0.9" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="15" body_armor="2" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -314,7 +314,7 @@
 <!--tier 5-->
 
 
-    <Item id="sho_tier_5_kote_a_1" name="{=QKKouZeR}Guarded Kote" mesh="sho_tier_5_kote_a_1" weight="1.1" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_5_kote_a_1" name="{=QKKouZeR}Tsutsu-gote" mesh="sho_tier_5_kote_a_1" weight="1.1" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="18" body_armor="2" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -322,7 +322,7 @@
     </Item>
 
 
-    <Item id="sho_tier_5_kote_a_2" name="{=QKKouZeR}Guarded Kote" mesh="sho_tier_5_kote_a_2" weight="1.1" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_5_kote_a_2" name="{=QKKouZeR}Tsutsu-gote" mesh="sho_tier_5_kote_a_2" weight="1.1" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="18" body_armor="2" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -330,22 +330,14 @@
     </Item>
 
 
-    <Item id="sho_tier_5_kote_a_3" name="{=QKKouZeR}Guarded Kote" mesh="sho_tier_5_kote_a_3" weight="1.1" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_5_kote_a_3" name="{=QKKouZeR}Tsutsu-gote" mesh="sho_tier_5_kote_a_3" weight="1.1" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="18" body_armor="2" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
         <Flags Civilian="false"/>
     </Item>
 
-    <Item id="sho_tier_5_kote_a_4" name="{=QKKouZeR}Guarded Kote" mesh="sho_tier_5_kote_a_4" weight="1.1" difficulty="0" appearance="1" Type="HandArmor">
-        <ItemComponent>
-            <Armor arm_armor="18" body_armor="2" modifier_group="chain" material_type="Chainmail"/>
-        </ItemComponent>
-        <Flags Civilian="false"/>
-    </Item>
-
-
-    <Item id="sho_tier_5_kote_a_5" name="{=QKKouZeR}Guarded Kote" mesh="sho_tier_5_kote_a_5" weight="1.1" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_5_kote_a_4" name="{=QKKouZeR}Tsutsu-gote" mesh="sho_tier_5_kote_a_4" weight="1.1" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="18" body_armor="2" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -353,7 +345,7 @@
     </Item>
 
 
-    <Item id="sho_tier_5_kote_a_6" name="{=QKKouZeR}Guarded Kote" mesh="sho_tier_5_kote_a_6" weight="1.1" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_5_kote_a_5" name="{=QKKouZeR}Tsutsu-gote" mesh="sho_tier_5_kote_a_5" weight="1.1" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="18" body_armor="2" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -361,8 +353,7 @@
     </Item>
 
 
-
-    <Item id="sho_tier_5_kote_a_7" name="{=QKKouZeR}Guarded Kote" mesh="sho_tier_5_kote_a_7" weight="1.1" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_5_kote_a_6" name="{=QKKouZeR}Tsutsu-gote" mesh="sho_tier_5_kote_a_6" weight="1.1" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="18" body_armor="2" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -371,8 +362,17 @@
 
 
 
+    <Item id="sho_tier_5_kote_a_7" name="{=QKKouZeR}Tsutsu-gote" mesh="sho_tier_5_kote_a_7" weight="1.1" difficulty="0" appearance="1" Type="HandArmor">
+        <ItemComponent>
+            <Armor arm_armor="18" body_armor="2" modifier_group="chain" material_type="Chainmail"/>
+        </ItemComponent>
+        <Flags Civilian="false"/>
+    </Item>
 
-    <Item id="sho_tier_5_kote_a_8" name="{=QKKouZeR}Guarded Kote" mesh="sho_tier_5_kote_a_8" weight="1.1" difficulty="0" appearance="1" Type="HandArmor">
+
+
+
+    <Item id="sho_tier_5_kote_a_8" name="{=QKKouZeR}Tsutsu-gote" mesh="sho_tier_5_kote_a_8" weight="1.1" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="18" body_armor="2" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -459,7 +459,7 @@
 
 
 
-    <Item id="sho_tier_7_kote_a_1" name="{=6roxcVNP}Armored Kote" mesh="sho_tier_7_kote_a_1" weight="1.4" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_7_kote_a_1" name="{=6roxcVNP}Kojino-gote" mesh="sho_tier_7_kote_a_1" weight="1.4" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="25" body_armor="3" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -467,7 +467,7 @@
     </Item>
 
 
-    <Item id="sho_tier_7_kote_a_2" name="{=6roxcVNP}Armored Kote" mesh="sho_tier_7_kote_a_2" weight="1.4" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_7_kote_a_2" name="{=6roxcVNP}Kojino-gote" mesh="sho_tier_7_kote_a_2" weight="1.4" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="25" body_armor="3" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -475,22 +475,14 @@
     </Item>
 
 
-    <Item id="sho_tier_7_kote_a_3" name="{=6roxcVNP}Armored Kote" mesh="sho_tier_7_kote_a_3" weight="1.4" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_7_kote_a_3" name="{=6roxcVNP}Kojino-gote" mesh="sho_tier_7_kote_a_3" weight="1.4" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="25" body_armor="3" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
         <Flags Civilian="false"/>
     </Item>
 
-    <Item id="sho_tier_7_kote_a_4" name="{=6roxcVNP}Armored Kote" mesh="sho_tier_7_kote_a_4" weight="1.4" difficulty="0" appearance="1" Type="HandArmor">
-        <ItemComponent>
-            <Armor arm_armor="25" body_armor="3" modifier_group="chain" material_type="Chainmail"/>
-        </ItemComponent>
-        <Flags Civilian="false"/>
-    </Item>
-
-
-    <Item id="sho_tier_7_kote_a_5" name="{=6roxcVNP}Armored Kote" mesh="sho_tier_7_kote_a_5" weight="1.4" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_7_kote_a_4" name="{=6roxcVNP}Kojino-gote" mesh="sho_tier_7_kote_a_4" weight="1.4" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="25" body_armor="3" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -498,7 +490,7 @@
     </Item>
 
 
-    <Item id="sho_tier_7_kote_a_6" name="{=6roxcVNP}Armored Kote" mesh="sho_tier_7_kote_a_6" weight="1.4" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_7_kote_a_5" name="{=6roxcVNP}Kojino-gote" mesh="sho_tier_7_kote_a_5" weight="1.4" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="25" body_armor="3" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -506,8 +498,7 @@
     </Item>
 
 
-
-    <Item id="sho_tier_7_kote_a_7" name="{=6roxcVNP}Armored Kote" mesh="sho_tier_7_kote_a_7" weight="1.4" difficulty="0" appearance="1" Type="HandArmor">
+    <Item id="sho_tier_7_kote_a_6" name="{=6roxcVNP}Kojino-gote" mesh="sho_tier_7_kote_a_6" weight="1.4" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="25" body_armor="3" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>
@@ -516,8 +507,17 @@
 
 
 
+    <Item id="sho_tier_7_kote_a_7" name="{=6roxcVNP}Kojino-gote" mesh="sho_tier_7_kote_a_7" weight="1.4" difficulty="0" appearance="1" Type="HandArmor">
+        <ItemComponent>
+            <Armor arm_armor="25" body_armor="3" modifier_group="chain" material_type="Chainmail"/>
+        </ItemComponent>
+        <Flags Civilian="false"/>
+    </Item>
 
-    <Item id="sho_tier_7_kote_a_8" name="{=6roxcVNP}Armored Kote" mesh="sho_tier_7_kote_a_8" weight="1.4" difficulty="0" appearance="1" Type="HandArmor">
+
+
+
+    <Item id="sho_tier_7_kote_a_8" name="{=6roxcVNP}Kojino-gote" mesh="sho_tier_7_kote_a_8" weight="1.4" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="25" body_armor="3" modifier_group="chain" material_type="Chainmail"/>
         </ItemComponent>

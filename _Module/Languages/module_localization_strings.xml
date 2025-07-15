@@ -634,7 +634,7 @@
 		<string id="3CR4mFPR" text="Port Yoita"/>
 		<string id="yl0zzzXE" text="Port Shishiga"/>
 		<string id="DhClW9IC" text="Port Shimoda"/>
-		<string id="NlznDDm5" text="Port Hamamatsu"/>
+		<string id="NlznDDm5" text="Port Hikuma"/>
 		<string id="9yS2RBqp" text="Port Ōkubo"/>
 		<string id="WDYh305G" text="Port Odawara"/>
 		<string id="YJihLrsc" text="Port Edo"/>
@@ -672,7 +672,7 @@
 		<string id="kO0l01wy" text="Sanbonmatsu"/>
 		<string id="sRgUwjnw" text="Positioned near the confluence of several key trade routes in the Chūgoku region, the castle town of Sanbonmatsu has become a target for expanding warlords. While its military importance seems negligible, its location along vital supply routes makes it a key target for forces looking to consolidate control over the region."/>
 		<string id="vHOOBCB9" text="Hagi"/>
-		<string id="aK0HSc4W" text="Oi"/>
+		<string id="aK0HSc4W" text="Ōi"/>
 		<string id="GxkGnl8i" text="Mikazura"/>
 		<string id="NSAkQv1M" text="Yoshida-Kōriyama"/>
 		<string id="mW8IM8PG" text="Originally built as a small fortified residence for the Mouri clan this coastal castle town grew in importance along with the expansion of its inhabitants' power, while its hilltop location ensures control over the surrounding territories and sea routes."/>
@@ -782,8 +782,8 @@
 		<string id="RiByzBoT" text="Ishizu"/>
 		<string id="BUEoaNBS" text="Kunoujii"/>
 		<string id="RLbLgutH" text="Shimizu"/>
-		<string id="o7IPA6R2" text="Hamamatsu"/>
-		<string id="Bt4eiXyI" text="Hamamatsu is a castle town in Toukai, built by the Imagawa clan to guard the access the access to the vital Toukaidou highway, it was then taken over by the rising Tokugawa Ieyasu in the aftermath of the battle of Okehazama."/>
+		<string id="o7IPA6R2" text="Hikuma"/>
+		<string id="Bt4eiXyI" text="Hikuma is a castle town in Toukai, built by the Imagawa clan to guard the access the access to the vital Toukaidou highway, it was then taken over by the rising Tokugawa Ieyasu in the aftermath of the battle of Okehazama."/>
 		<string id="piCQps0D" text="Kakezuka"/>
 		<string id="TCosghZ8" text="Asawa"/>
 		<string id="pQeaKfeW" text="Hamanoura"/>
@@ -809,7 +809,7 @@
 		<string id="BdXzJLer" text="Tsuruga"/>
 		<string id="ijmNcreb" text="Obama"/>
 		<string id="kePZsN6S" text="Fuchū Castle"/>
-		<string id="qEewJDux" text="Kawanoura"/>
+		<string id="qEewJDux" text="Kounoura"/>
 		<string id="DUDOlYTC" text="Fuchū"/>
 		<string id="BznGdbFo" text="Mizoe Castle"/>
 		<string id="P5SW4Or6" text="Mikuniminato"/>
@@ -860,7 +860,7 @@
 		<string id="jDTmVPMc" text="Yoshida"/>
 		<string id="RbZ6aQZJ" text="Tsuru"/>
 		<string id="ZlC6XmVV" text="Yamanaka Castle"/>
-		<string id="N3c8Rw9g" text="Oka-miya"/>
+		<string id="N3c8Rw9g" text="Okanomiya"/>
 		<string id="gx1JDkqp" text="Mishima"/>
 		<string id="tJhgPPS6" text="Nagahama Castle"/>
 		<string id="XZY1KrYO" text="Numazu"/>
@@ -868,8 +868,8 @@
 		<string id="TbEP7yGe" text="Shimoda Castle"/>
 		<string id="0rDc1SBx" text="Itou"/>
 		<string id="nykU8Y8J" text="Shimoda"/>
-		<string id="VqLXxRhc" text="Omiya Castle"/>
-		<string id="u3qEz2Sj" text="Omiya"/>
+		<string id="VqLXxRhc" text="Ōmiya Castle"/>
+		<string id="u3qEz2Sj" text="Ōmiya"/>
 		<string id="uGXJfGNs" text="Yoshiwara"/>
 		<string id="gJxWqKpJ" text="Kakegawa Castle"/>
 		<string id="9u6MWvx2" text="Kakegawa"/>
@@ -943,7 +943,7 @@
 		<string id="Gv5tERn8" text="Oyumi"/>
 		<string id="CfzXQacm" text="Shīzu Castle"/>
 		<string id="VBw6AtIt" text="Kisarazu"/>
-		<string id="6OLFNFPW" text="Shiizu"/>
+		<string id="6OLFNFPW" text="Shīzu"/>
 		<string id="fUMpuOOb" text="Sanuki Castle"/>
 		<string id="1s4zTkO1" text="Sanuki"/>
 		<string id="cPnEh9c9" text="Futtsu"/>
@@ -966,7 +966,7 @@
 		<string id="S3r12ca1" text="Nakaminato"/>
 		<string id="QR0ARLZq" text="Karasuyama Castle"/>
 		<string id="dr8GFyIJ" text="Fukuhara"/>
-		<string id="EalLYsws" text="Otawara"/>
+		<string id="EalLYsws" text="Ōtawara"/>
 		<string id="r6clYwLT" text="Numata Castle"/>
 		<string id="GuVB0o4t" text="Shibukawa"/>
 		<string id="yNbrNqwD" text="Numata"/>
@@ -1087,7 +1087,7 @@
 		<string id="AvIvF9cQ" text="Yura"/>
 		<string id="4E2Osk84" text="Fukura"/>
 		<string id="3XWs4TyE" text="Iwamuro Castle"/>
-		<string id="LZQI2qYV" text="Koda"/>
+		<string id="LZQI2qYV" text="Kada"/>
 		<string id="JiCy0cGU" text="Kinominato"/>
 		<string id="My5AlIjm" text="Toya Castle"/>
 		<string id="dfHStZUp" text="Yuasa"/>
@@ -1115,7 +1115,7 @@
 		<string id="JrStOL0U" text="Oyamazaki"/>
 		<string id="02pX6hRh" text="Uji"/>
 		<string id="RmvKSL4R" text="Kī-Kameyama Castle"/>
-		<string id="HbMqTOlK" text="Gobo"/>
+		<string id="HbMqTOlK" text="Gobou"/>
 		<string id="bbUOxTCp" text="Koyama"/>
 		<string id="7o1ufRGz" text="Koyama is strategic stronghold in Southern Kyushu, nestled in the rugged terrain of Higo Province, where mountain passes connect inland domains to the western coast."/>
 		<string id="j25R8lHH" text="Takasu"/>
@@ -1325,7 +1325,7 @@
 		<string id="yMHAPvF7" text="Komatsushima"/>
 		<string id="5avzU4Vd" text="Kurokawa"/>
 		<string id="eIQDsF1J" text="The castle town of Kurokawa was built by the Ashina clan as its seat in the southernmost part of Ōu region, an isolated area that ensured that Kurokawa could grow while avoiding the worst of the conflicts between neighbouring lords."/>
-		<string id="lUgrIbsy" text="Shingu"/>
+		<string id="lUgrIbsy" text="Shingū"/>
 		<string id="RCqlfDCy" text="Yonezawa"/>
 		<string id="mq4zhe9z" text="Built during the Kamakura period, the castle town of Yonezawa has served as the seat of the Date clan since they drove out the previous lords and from here they plan the domination of neighbouring domains."/>
 		<string id="ucQBmrCG" text="Nagai"/>
@@ -1334,7 +1334,7 @@
 		<string id="dzB5r5rJ" text="Yamagata"/>
 		<string id="ullPdzCT" text="Yamagata has been the seat of the Mogami since before they adopted this name, its location marked by the many mountains and rivers that shield it and at the same time make it an important connection centre for the surrounding regions."/>
 		<string id="gaUB4BnH" text="Kashikura"/>
-		<string id="df4bDfVc" text="Narusawa"/>
+		<string id="df4bDfVc" text="Narisawa"/>
 		<string id="tVLZhzFJ" text="Iwanami"/>
 		<string id="dedDT7v0" text="Ishinomaki"/>
 		<string id="P7woV3wC" text="Ishinomaki is a bustling coastal town in the southern part of the Ōu region that has grown as an important port for trade and fishing as Matsushima Bay provides natural protection and  the Kitakami River serves as a vital route for transporting goods inland. Although its strategic location has ensured its prosperity, it also makes it an important military target for the plans of expansion of the local clans."/>
@@ -1350,7 +1350,7 @@
 		<string id="QBjyZBVp" text="Strategically positioned on the coast of the Noto Peninsula, Tsuchizaki-Minato has long served as a crucial point for maritime trade and the transport of goods between the main islands and the northern provinces."/>
 		<string id="31TCIXhh" text="Wakimoto"/>
 		<string id="74v8alVP" text="Akitanada"/>
-		<string id="H1j9IJpL" text="Toyoshima"/>
+		<string id="H1j9IJpL" text="Toshima"/>
 		<string id="YUFX5LdB" text="Sannohe"/>
 		<string id="4i6COw8g" text="Located along a key mountain pass, Sannohe is a fortified town that serves as a military outpost, guarding vital routes for trade and troop movements on the borders of competing powers."/>
 		<string id="REnRF8j7" text="Okuze"/>
@@ -1359,13 +1359,13 @@
 		<string id="d2r4B3vq" text="Tosaminato"/>
 		<string id="oUeaHLhb" text="Located in the northernmost reaches of Honshu, Tosaminato serves as a key trade hub with the Ainu people of Hokkaido although the harsh winters and isolation make it difficult to defend, leaving it vulnerable to raids. Once a thriving port and administrative center of the Andō clan, Tosaminato has declined following the clan’s expulsion."/>
 		<string id="PUlURumW" text="Minma"/>
-		<string id="fBj65a4D" text="Isamatsu"/>
+		<string id="fBj65a4D" text="Isomatsu"/>
 		<string id="1SYbPUL2" text="Ushiogata"/>
 		<string id="cSv4dDYF" text="Funaoka Castle"/>
 		<string id="bQNPHfvT" text="Sekishiba"/>
 		<string id="QaEH7Dir" text="Funaoka"/>
 		<string id="Yz5C61wb" text="Inawashiro Castle"/>
-		<string id="0nigus9o" text="Shirozu"/>
+		<string id="0nigus9o" text="Shorotsu"/>
 		<string id="DYJqFlFJ" text="Inawashiro"/>
 		<string id="s7rze40X" text="Nihonmatsu Castle"/>
 		<string id="PyJrv2Zi" text="Adachi"/>
@@ -1395,7 +1395,7 @@
 		<string id="uUTWektF" text="Iwakiri Castle"/>
 		<string id="OMLWJ5Fr" text="Shiogama"/>
 		<string id="vsV1qXqp" text="Sendai"/>
-		<string id="iB14AOiv" text="Nakaniida Castle"/>
+		<string id="iB14AOiv" text="Nakanīda Castle"/>
 		<string id="FvBaL0TE" text="Ōhira"/>
 		<string id="sofCUqLo" text="Iwadeyama Castle"/>
 		<string id="76tvhW5p" text="Ichikuri"/>
@@ -1406,14 +1406,14 @@
 		<string id="nWaehi3F" text="Sanuma"/>
 		<string id="hodlaZbm" text="Matsuzaki"/>
 		<string id="bdNND23Q" text="Nobesawa Castle"/>
-		<string id="9FV8t8dZ" text="Ohanazawa"/>
+		<string id="9FV8t8dZ" text="Obanazawa"/>
 		<string id="pJZ7r6bs" text="Nobesawa"/>
 		<string id="xyaQJs4i" text="Sakenobe Castle"/>
 		<string id="Zofovajl" text="Kisakata"/>
 		<string id="UKEAbrPY" text="Niwatsuki"/>
 		<string id="RDni1NjO" text="Nikaho Castle"/>
-		<string id="Slnm1ecp" text="Akaotsu"/>
-		<string id="ocaoj1QX" text="Kanaura"/>
+		<string id="Slnm1ecp" text="Akouzu"/>
+		<string id="ocaoj1QX" text="Konoura"/>
 		<string id="v3MePHaA" text="Inaniwa Castle"/>
 		<string id="vjlhfzst" text="Iwasaki"/>
 		<string id="Euog4rMA" text="Yokote Castle"/>
@@ -1423,8 +1423,8 @@
 		<string id="BONgbdKq" text="Karakuwa"/>
 		<string id="hEKTynbL" text="Kesennuma"/>
 		<string id="ZT8MEupe" text="Yokota Castle"/>
-		<string id="7CRT9rFq" text="Tono"/>
-		<string id="7wjzzonU" text="Otsuchi"/>
+		<string id="7CRT9rFq" text="Tōno"/>
+		<string id="7wjzzonU" text="Ōtsuchi"/>
 		<string id="c6WgdqDP" text="Sentoku Castle"/>
 		<string id="UogO5FoZ" text="Takusari"/>
 		<string id="5c3BJNVM" text="Miyako"/>
@@ -1437,7 +1437,7 @@
 		<string id="Ob5vJ7q3" text="Hiyama Castle"/>
 		<string id="YxF2cu41" text="Noshiro"/>
 		<string id="0V9ZvruS" text="Yonaizawa"/>
-		<string id="ld7y4DJs" text="Odate Castle"/>
+		<string id="ld7y4DJs" text="Ōdate Castle"/>
 		<string id="uces05JF" text="Hanaoka"/>
 		<string id="YlXMYatL" text="Sugisawa"/>
 		<string id="YSsAfEU9" text="Kunohe Castle"/>
@@ -1452,8 +1452,8 @@
 		<string id="j8k6HP7X" text="Yokohama"/>
 		<string id="aUExdpE1" text="Nobeji"/>
 		<string id="fVzszw07" text="Ōura Castle"/>
-		<string id="0gDY3o31" text="Azhigasawa"/>
-		<string id="2YQh9dGU" text="Icchoda"/>
+		<string id="0gDY3o31" text="Ajigasawa"/>
+		<string id="2YQh9dGU" text="Itchouda"/>
 		<string id="FHNWihyd" text="Namioka Castle"/>
 		<string id="EUW4qdGe" text="Aburakawa"/>
 		<string id="hXqRZVEA" text="Hirota"/>
@@ -3528,12 +3528,12 @@
 		<string id="jASYDOcA" text="Teppou Ammunition"/>
 		<string id="q1KgboXi" text="Ō-yoroi Kote"/>
 		<string id="v60sSwHB" text="Unarmored Kote"/>
-		<string id="nfrAzQOE" text="Mail Kote"/>
-		<string id="CoaDkHgm" text="Ornate Mail Kote"/>
-		<string id="XSdMBA4v" text="Reinforced Mail Kote"/>
-		<string id="QKKouZeR" text="Guarded Kote"/>
+		<string id="nfrAzQOE" text="Kusari-gote"/>
+		<string id="CoaDkHgm" text="Ornate Kusari-gote"/>
+		<string id="XSdMBA4v" text="Reinforced Kusari-gote"/>
+		<string id="QKKouZeR" text="Tsutsu-gote"/>
 		<string id="eI5qxTh6" text="Plated Kote"/>
-		<string id="6roxcVNP" text="Armored Kote"/>
+		<string id="6roxcVNP" text="Kojino-gote"/>
 		<string id="CslTh2YM" text="Hari Bachi Kabuto"/>
 		<string id="kwkyk1kE" text="Zunari Kabuto"/>
 		<string id="N3x8iSeO" text="Akoka Nari Kabuto"/>
