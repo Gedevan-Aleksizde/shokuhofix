@@ -690,7 +690,7 @@
         </Locations>
     </Settlement>
     <Settlement id="sho_port_village_CHU11_1"
-                name="{=bIuI88bB}Port Nakanosho"
+                name="{=bIuI88bB}Port Nakanoshou"
                 posX="622.665"
                 posY="510.986"
                 culture="Culture.neutral_culture"
