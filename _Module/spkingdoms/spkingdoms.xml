@@ -64,7 +64,7 @@
     <relationships> </relationships>
     <policies> </policies>
   </Kingdom>
-  <Kingdom id="honjo" owner="Hero.lord_1_honjo" banner_key="11.163.166.1528.1528.764.764.1.0.0.709.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff28062b" secondary_banner_color="0xff2e8485" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.hokuriku" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=8kilNkSs}Honjo Ryougoku" short_name="{=ASyaMblp}Honjo" title="{=ASyaMblp}Honjo" ruler_title="{=tRwThwR8}Daimyou" text="">
+  <Kingdom id="honjo" owner="Hero.lord_1_honjo" banner_key="11.163.166.1528.1528.764.764.1.0.0.709.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff28062b" secondary_banner_color="0xff2e8485" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.hokuriku" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=8kilNkSs}Honjou Ryougoku" short_name="Honjou" title="Honjou" ruler_title="{=tRwThwR8}Daimyou" text="">
     <relationships> </relationships>
     <policies> </policies>
   </Kingdom>
