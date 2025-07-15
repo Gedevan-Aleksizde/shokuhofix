@@ -406,7 +406,7 @@
     <string id="vNm8fo7R" text="海"/>
     <string id="dmNn1iRw" text="丹生島の湊"/>
     <string id="ei2gsY4H" text="黒瀬の湊"/>
-    <string id="hTC8JuAs" text="丙の湊"/>
+    <string id="hTC8JuAs" text="日野江の湊"/>
     <string id="Bco2qodf" text="中村の江"/>
     <string id="5shgbY6h" text="岡豊之湊"/>
     <string id="ow0uuaTv" text="牛木の江"/>
@@ -436,7 +436,7 @@
     <string id="cI6e6Zwy" text="此隅山湊"/>
     <string id="S6HYWQyw" text="鳥羽湊"/>
     <string id="nrLReGFO" text="長島之湊"/>
-    <string id="VAaXYzk9" text="長島港"/>
+    <string id="VAaXYzk9" text="増山の港"/>
     <string id="TbIzhjae" text="尾山港"/>
     <string id="3CR4mFPR" text="與板湊"/>
     <string id="DhClW9IC" text="下田湊"/>
@@ -872,7 +872,7 @@
     <string id="RGjU5dz5" text="梅尾"/>
     <string id="DAWFhgck" text="菊池"/>
     <string id="tfwfgbGr" text="立花山"/>
-    <string id="NjWKX8LI" text="丙"/>
+    <string id="NjWKX8LI" text="日野江"/>
     <string id="EjeToav7" text="口之津"/>
     <string id="oAgVFI62" text="富田城"/>
     <string id="MoJR4iq9" text="志布志城"/>
@@ -2019,12 +2019,12 @@
     <string id="jASYDOcA" text="鉄炮の弾"/>
     <string id="q1KgboXi" text="大鎧篭手"/>
     <string id="v60sSwHB" text="布篭手"/>
-    <string id="nfrAzQOE" text="鎖帷子篭手"/>
-    <string id="CoaDkHgm" text="壮麗な鎖帷子篭手"/>
-    <string id="XSdMBA4v" text="強化型鎖帷子篭手"/>
-    <string id="QKKouZeR" text="Guarded 篭手"/>
-    <string id="eI5qxTh6" text="甲付きの篭手"/>
-    <string id="6roxcVNP" text="Armored Kote"/>
+    <string id="nfrAzQOE" text="鎖篭手"/>
+    <string id="CoaDkHgm" text="壮麗な鎖篭手"/>
+    <string id="XSdMBA4v" text="強化型鎖篭手"/>
+    <string id="QKKouZeR" text="鎖筒篭手"/>
+    <string id="eI5qxTh6" text="甲付篭手"/>
+    <string id="6roxcVNP" text="小篠篭手"/>
     <string id="CslTh2YM" text="針鉢兜"/>
     <string id="kwkyk1kE" text="頭形兜"/>
     <string id="N3x8iSeO" text="阿古陀形兜"/>
@@ -2145,16 +2145,16 @@
     <string id="siP5Zlut" text="狸毛皮の刀"/>
     <string id="E5L8zSrM" text="稽古用の刀"/>
     <string id="Bnhchkdv" text="壮麗な筒脛当て"/>
-    <string id="BTbFe7YS" text="Tateage Shino Suneate"/>
-    <string id="ZEAspayX" text="Shino Suneate"/>
+    <string id="BTbFe7YS" text="立挙篠臑当"/>
+    <string id="ZEAspayX" text="篠臑当"/>
     <string id="gzyTfOUS" text="南蛮の靴"/>
     <string id="O5nFZ4vF" text="草鞋"/>
     <string id="w7ublENG" text="素足脚絆"/>
     <string id="pp01Hcyc" text="脚絆"/>
     <string id="TcYIXW4C" text="筒脛当て"/>
-    <string id="uvzoh6Ri" text="Fur 筒脛当て"/>
-    <string id="E2QlAoyf" text="鎖帷子筒脛当て"/>
-    <string id="jtXzAqSU" text="Fur 鎖帷子筒脛当て"/>
+    <string id="uvzoh6Ri" text="毛皮付筒脛当て"/>
+    <string id="E2QlAoyf" text="鎖筒脛当て"/>
+    <string id="jtXzAqSU" text="毛皮付鎖筒脛当て"/>
     <string id="e2b5I0ph" text="米{@Plural}俵の米俵{\@}"/>
     <string id="u9uJ9vFm" text="大豆{@Plural}山の大豆{\@}"/>
     <string id="gVjlpiFD" text="大葉{@Plural}山の大葉{\@}"/>
