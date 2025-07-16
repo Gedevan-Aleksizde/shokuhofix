@@ -182,7 +182,7 @@
   <Hero id="lord_1_kasama_4" faction="Faction.clan_kasama_1" father="Hero.lord_1_kasama" mother="Hero.lord_1_kasama_1" text=""/>
   <!--Satake Clan-->
   <Hero id="lord_1_satake" faction="Faction.clan_satake_1" spouse="Hero.lord_1_satake_1" father="Hero.dead_lord_1_satake_2" mother="Hero.dead_lord_1_satake_3" text=""/>
-  <Hero id="lord_1_satake_1" faction="Faction.clan_satake_1" spouse="Hero.lord_1_satake" text=""/>
+  <Hero id="lord_1_satake_1" faction="Faction.clan_satake_1" spouse="Hero.lord_1_satake" text="Satake Yoshisige, the son of Yoshiaki, born as Tokujumaru, identified himself as Jirou. The Satake clan is one of the longstanding samurai clans, originating from Genji. Yoshishige, the eighteenth head of the Satake clan, is a talented warlord. He is admired and nicknamed Bandou Tarou, while feared as Oni Yoshishige, the demonic Yoshishige."/>
   <Hero id="dead_lord_1_satake_2" alive="false" faction="Faction.clan_satake_1" spouse="Hero.dead_lord_1_satake_3" text=""/>
   <Hero id="dead_lord_1_satake_3" alive="false" faction="Faction.clan_satake_1" spouse="Hero.dead_lord_1_satake_2" text=""/>
   <Hero id="lord_1_satake_4" faction="Faction.clan_satake_1" spouse="Hero.lord_1_satake_5" father="Hero.dead_lord_1_satake_2" mother="Hero.dead_lord_1_satake_3" text=""/>
