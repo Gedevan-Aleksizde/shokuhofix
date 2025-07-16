@@ -10,10 +10,10 @@
   <Hero id="lord_1_mori_5" faction="Faction.clan_mori_1" father="Hero.lord_1_mori_1" mother="Hero.lord_1_mori_2" text=""/>
   <Hero id="lord_1_mori_6" faction="Faction.clan_mori_1" father="Hero.lord_1_mori_1" mother="Hero.lord_1_mori_2" text=""/>
   <!--kobayakawa clan-->
-  <Hero id="lord_1_kobayakawa" faction="Faction.clan_kobayakawa_1" spouse="Hero.lord_1_kobayakawa_1" text="Mouri Takakage, born as Tokujumaru, identified himself as Matashirou, is the third son of Mouri Motonari. Like his brother, He was adopted into the Kobayakawa family, a local notable family in the Aki province, and inherited the family. These adoptions are Motonari's plot to expand his domain. After the death of his oldest brother and father, he assists Terumoto, his nephew, with his brother."/>
+  <Hero id="lord_1_kobayakawa" faction="Faction.clan_kobayakawa_1" spouse="Hero.lord_1_kobayakawa_1" text="Mouri Takakage (毛利隆景), born as Tokujumaru (徳寿丸), identified himself as Kobayakawa Matashirou (小早川又四郎), is the third son of Mouri Motonari. Like his brother, He was adopted into the Kobayakawa family, a local notable family in the Aki province, and inherited the family. These adoptions are Motonari's plot to expand his domain. After the death of his oldest brother and father, he assists Terumoto, his nephew, with his brother."/>
   <Hero id="lord_1_kobayakawa_1" faction="Faction.clan_kobayakawa_1" spouse="Hero.lord_1_kobayakawa" text=""/>
   <!--kikkawa clan-->
-  <Hero id="lord_1_kikkawa" faction="Faction.clan_kikkawa_1" spouse="Hero.lord_1_kikkawa_1" text="Mouri Motoharu, identified himself as Shoujirou, is the second son of Mouri Motonari, adopted into and later inherited the Kikkawa family, a distinguished family of Aki province. He assists Motonari, his nephew and lord, well."/>
+  <Hero id="lord_1_kikkawa" faction="Faction.clan_kikkawa_1" spouse="Hero.lord_1_kikkawa_1" text="Mouri Motoharu (毛利元春), identified himself as Kikkawa Shoujirou (吉川少輔次郎), is the second son of Mouri Motonari (毛利元就), adopted into and later inherited the Kikkawa family, a distinguished family of Aki province. He assists Terumoto, his nephew and lord, well."/>
   <Hero id="lord_1_kikkawa_1" faction="Faction.clan_kikkawa_1" spouse="Hero.lord_1_kikkawa" text=""/>
   <Hero id="lord_1_kikkawa_2" faction="Faction.clan_kikkawa_1" spouse="Hero.lord_1_kikkawa_3" father="Hero.lord_1_kikkawa" mother="Hero.lord_1_kikkawa_1" text=""/>
   <Hero id="lord_1_kikkawa_3" faction="Faction.clan_kikkawa_1" spouse="Hero.lord_1_kikkawa_2" text=""/>

@@ -56,7 +56,7 @@
   <Hero id="lord_1_amakusa_6" faction="Faction.clan_amakusa_1" father="Hero.lord_1_amakusa_4" mother="Hero.lord_1_amakusa_5" text=""/>
   <!--otomo kingdom-->
   <!--otomo clan 10 ids-->
-  <Hero id="lord_1_otomo" faction="Faction.clan_otomo_1" spouse="Hero.lord_1_otomo_1" father="Hero.dead_lord_1_otomo_1" mother="Hero.dead_lord_1_otomo_2" text="Ōtomo Yoshishige, born as Shiohoushimaru, became a Zen sect monk as Sourin, while he invited Padre Francis Xavier. He is a man of high culture and often invites intellectual people. He also seems to be interested in overseas much. However, his curiosity may not be pure, but also a practical reason. Now, he is close to accessing a new weapon from Nanban."/>
+  <Hero id="lord_1_otomo" faction="Faction.clan_otomo_1" spouse="Hero.lord_1_otomo_1" father="Hero.dead_lord_1_otomo_1" mother="Hero.dead_lord_1_otomo_2" text="Ōtomo Yoshishige (大友義鎮), born as Shiohoushimaru (塩法師丸), became a Zen sect monk as Sourin (宗麟) later, while he invited Padre Francis Xavier. He is a man of high culture and often invites intellectual people. He also seems to be interested in overseas much. However, his curiosity may not be pure, but also a practical reason. Now, he is close to accessing a new weapon from Nanban."/>
   <Hero id="lord_1_otomo_1" faction="Faction.clan_otomo_1" spouse="Hero.lord_1_otomo" text=""/>
   <Hero id="lord_1_otomo_2" faction="Faction.clan_otomo_1" father="Hero.lord_1_otomo" mother="Hero.lord_1_otomo_1" text=""/>
   <Hero id="lord_1_otomo_3" faction="Faction.clan_otomo_1" father="Hero.lord_1_otomo" mother="Hero.lord_1_otomo_1" text=""/>
@@ -224,7 +224,7 @@
   <Hero id="lord_1_kumabe_8" faction="Faction.clan_kumabe_1" spouse="Hero.lord_1_kumabe_7" text=""/>
   <!--Shimazu Kingdom-->
   <!--Clan Shimazu 13 ids-->
-  <Hero id="lord_1_shimazu" faction="Faction.clan_shimazu_1" spouse="Hero.lord_1_shimazu_1" father="Hero.lord_1_shimazu_11" mother="Hero.dead_lord_1_shimazu_2" text="Shimazu Yoshihisa, born as Torajumaru, identified himself as Matasaburou. First, His given name is Tdayoshi as same as Jisshin, his grandfather, but now renamed himself Yoshihisa. He has a talented warlord, whole his brothers are also skilled warriors."/>
+  <Hero id="lord_1_shimazu" faction="Faction.clan_shimazu_1" spouse="Hero.lord_1_shimazu_1" father="Hero.lord_1_shimazu_11" mother="Hero.dead_lord_1_shimazu_2" text="Shimazu Yoshihisa (嶋津義久), born as Torajumaru (虎寿丸), identified himself as Shimazu Matasaburou (嶋津又三郎). First, His given name is Tdayoshi (忠良) as same as Jisshin-sai (日新斎), his grandfather, but now renamed himself Yoshihisa. He has a talented warlord, whole his brothers are also skilled warriors."/>
   <Hero id="lord_1_shimazu_1" faction="Faction.clan_shimazu_1" spouse="Hero.lord_1_shimazu" text=""/>
   <Hero id="lord_1_shimazu_2" faction="Faction.clan_shimazu_1" father="Hero.lord_1_shimazu" mother="Hero.lord_1_shimazu_1" text=""/>
   <Hero id="lord_1_shimazu_3" faction="Faction.clan_shimazu_1" father="Hero.lord_1_shimazu" mother="Hero.lord_1_shimazu_1" text=""/>

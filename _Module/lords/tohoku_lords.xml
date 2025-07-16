@@ -2378,7 +2378,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son -->
-  <NPCCharacter id="lord_1_sakenobe_2" name="{=iMBlTpJj}Sakenobe hidetsuna" age="5" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_sakenobe_2" name="{=iMBlTpJj}Sakenobe Hidetsuna" age="5" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="5.00" weight="0.385" build="0.6397" key="001FD80E80000081A779567769C5686961684A3578E93899D328BC953889DB88056A665606D8923A00000000000000000000000000000000000000007CD40140"/>
     </face>

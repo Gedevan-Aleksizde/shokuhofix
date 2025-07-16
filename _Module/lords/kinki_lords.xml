@@ -1143,7 +1143,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_hosokawa_1" name="{=EmiPhqA0}Hosokawa Jyako" age="24" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hosokawa_1" name="{=EmiPhqA0}Hosokawa Jyakou" age="24" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="24.00" weight="0.3956" build="0.5898" key="003EDC0EC00000023D85DA64C1DE813D8DF18243CF2E4C15B82E8434856C91BA0479664607473272000000000000000000000000000000000000000078FC1041"/>
     </face>
