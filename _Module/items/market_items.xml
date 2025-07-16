@@ -66,7 +66,7 @@
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
-    <Item id="lobster" name="{=hmcbBs9e}Lobster{@Plural}loads of lobster{\@}" mesh="lobster" item_category="sho_lobster" IsFood="true" value="40" weight="10" Type="Goods">
+    <Item id="lobster" name="{=hmcbBs9e}Ise Lobster{@Plural}loads of Ise lobster{\@}" mesh="lobster" item_category="sho_lobster" IsFood="true" value="40" weight="10" Type="Goods">
         <ItemComponent>
             <Trade morale_bonus="3"/>
         </ItemComponent>

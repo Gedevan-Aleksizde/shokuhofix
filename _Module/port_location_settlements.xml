@@ -1127,7 +1127,7 @@
         </Locations>
     </Settlement>
     <Settlement id="sho_port_KA3"
-                name="{=puuqlRZm}Port Port Īnuma"
+                name="{=puuqlRZm}Port Īnuma"
                 posX="1446.985"
                 posY="700.528"
                 culture="Culture.neutral_culture"

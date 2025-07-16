@@ -852,7 +852,7 @@
 		<string id="0auCw7Uk" text="Higano"/>
 		<string id="cRX7KAze" text="Ueda Castle"/>
 		<string id="Hu5KORDr" text="Sakaki"/>
-		<string id="whinybNk" text="Yamaga"/>
+		<string id="whinybNk" text="Yamabe"/>
 		<string id="Hd7GiElO" text="Komoro Castle"/>
 		<string id="RLsQENAd" text="Tateshina"/>
 		<string id="YsHcsOZG" text="Iwamurada"/>
@@ -886,7 +886,7 @@
 		<string id="drRb1eJx" text="Joganj"/>
 		<string id="ZwLyRZ4l" text="Maeba"/>
 		<string id="bMmdlGU7" text="Kaerikumo Castle"/>
-		<string id="ccQlu1Kg" text="Shirakawa"/>
+		<string id="ccQlu1Kg" text="Kaerikumo"/>
 		<string id="ckPgXqYM" text="Shirakawa"/>
 		<string id="yyGbsWow" text="Nabeyama Castle"/>
 		<string id="RYgkBrwy" text="Hachiga"/>
@@ -895,8 +895,8 @@
 		<string id="zNtx1PQ0" text="Furukawa"/>
 		<string id="AIzmEXqU" text="Kojima"/>
 		<string id="NY1GGm2P" text="Mori Castle"/>
-		<string id="sNI8ZZHb" text="Sakishina"/>
-		<string id="Jo0WieRJ" text="Sarashina"/>
+		<string id="sNI8ZZHb" text="Ikeda"/>
+		<string id="Jo0WieRJ" text="Sakishina"/>
 		<string id="JXcJCRXa" text="Kiso-Fukushima Castle"/>
 		<string id="4nFCr6ZB" text="Seba"/>
 		<string id="qVMNO1bw" text="Tsumago"/>
@@ -1030,7 +1030,7 @@
 		<string id="YJwLUC98" text="Kōriyama"/>
 		<string id="HPJqbRGp" text="Ikaruga"/>
 		<string id="kEOZW3MW" text="Imai"/>
-		<string id="nvCkXHAa" text="Kyoto"/>
+		<string id="nvCkXHAa" text="Rakuchū"/>
 		<string id="bYxqhFC3" text="Kyoto, once the unrivaled capital of Japan, emerged almost completely destroyed by the struggles for control over the central power. The authority of the Ashikaga Shogunate has crumbled, leaving the city at the mercy of the warring daimyos, while the Imperial Court sits back and watches helplessly. Nevertheless, Kyoto remains the depository of secular traditions and while its days as the true centre of power seem to be over, its religious and cultural influence persists."/>
 		<string id="UombAy1F" text="Kameoka"/>
 		<string id="fc4uciRX" text="Ōtsu"/>
@@ -1056,7 +1056,7 @@
 		<string id="AKm44xSa" text="Kinosaki"/>
 		<string id="jIlbYCaV" text="Takebeyama Castle"/>
 		<string id="31sB29eI" text="Miyazu"/>
-		<string id="I64Wuxzl" text="Mutsu-Tanabe"/>
+		<string id="I64Wuxzl" text="Tanabe"/>
 		<string id="R4vwFE7h" text="Gochaku Castle"/>
 		<string id="TNmMVECR" text="Oshio"/>
 		<string id="wjCmFvz8" text="Takasago"/>
@@ -1142,7 +1142,7 @@
 		<string id="sRoPcqQk" text="Isshakuya"/>
 		<string id="HHWkdmFT" text="Kīdani"/>
 		<string id="DFE7hHDt" text="Kīdani is a fortified town in the southernmost part of the Kinki region, protected more by geography than by its walls, with its isolated location making it largely untouched by surrounding conflicts so far."/>
-		<string id="ASyaMblp" text="Honjo"/>
+		<string id="ASyaMblp" text="Honjou"/>
 		<string id="ZqZ1vTUG" text="Hirotsu"/>
 		<string id="mlSVyux6" text="Urustu"/>
 		<string id="p7K9495f" text="Yanagawa"/>
@@ -1358,7 +1358,7 @@
 		<string id="JD0A5H5Z" text="Tago"/>
 		<string id="d2r4B3vq" text="Tosaminato"/>
 		<string id="oUeaHLhb" text="Located in the northernmost reaches of Honshu, Tosaminato serves as a key trade hub with the Ainu people of Hokkaido although the harsh winters and isolation make it difficult to defend, leaving it vulnerable to raids. Once a thriving port and administrative center of the Andō clan, Tosaminato has declined following the clan’s expulsion."/>
-		<string id="PUlURumW" text="Minma"/>
+		<string id="PUlURumW" text="Minmaya"/>
 		<string id="fBj65a4D" text="Isomatsu"/>
 		<string id="1SYbPUL2" text="Ushiogata"/>
 		<string id="cSv4dDYF" text="Funaoka Castle"/>
@@ -1458,7 +1458,7 @@
 		<string id="EUW4qdGe" text="Aburakawa"/>
 		<string id="hXqRZVEA" text="Hirota"/>
 		<string id="FTjRvoSv" text="Junpou-ji Castle"/>
-		<string id="w65n9Jva" text="Ohata"/>
+		<string id="w65n9Jva" text="Ōhata"/>
 		<string id="ojRLdFub" text="Hideout"/>
 		<string id="pTwgbeAF" text="This is the retirement retreat location."/>
 		<string id="IdWKpEhI" text="The Hokkoku Bune is a very large, slow moving transport vessel, designed to move an enourmous amount of cargo, but is vulnerable in combat."/>
@@ -1467,7 +1467,7 @@
 		<string id="8zqqDTbp" text="Braziers"/>
 		<string id="nQPLbUa6" text="Siege Braziers and additional material allow archers to light their arrows on fire"/>
 		<string id="kpzK0X9u" text="Ōzutsu"/>
-		<string id="uPDOEMCR" text="An imported weapon from Nanban, the Japanese people call this Franki Gun, is manufactured with the edge technology of that time. Later, they call this early cannon Kuni Kuzushi, the kingdom buster, due to its loud sound and power."/>
+		<string id="uPDOEMCR" text="An imported weapon from Nanban, the Japanese people call this Franki Gun, is manufactured with the edge technology of that time. Later, they call this early cannon Kuni Kuzushi, the kingdom demolisher, due to its loud sound and power."/>
 		<string id="8Ewallt6" text="Bamboo Pallisade"/>
 		<string id="U53M9G9W" text="Naval Cannon"/>
 		<string id="2pSICaQU" text="Naval Cannons are rare, and take time to set up, but are devistating to fortifications"/>
@@ -2877,7 +2877,7 @@
 		<string id="MF8e93EW" text="Amakusa Hisatake"/>
 		<string id="3kwAqpNa" text="Amakusa Tsudura"/>
 		<string id="57TkTUlx" text="Amakusa Tanemoto"/>
-		<string id="Knylet1a" text="Ōtomo Sorin"/>
+		<string id="Knylet1a" text="Ōtomo Sourin"/>
 		<string id="UIKx01xx" text="Ōtomo Lady Nata"/>
 		<string id="7sbPoa0a" text="Ōtomo Yoshimune"/>
 		<string id="a5rohL3A" text="Ōtomo Chikaie"/>
@@ -3672,7 +3672,7 @@
 		<string id="iBqOxkr1" text="Chestnut{@Plural}loads of chestnuts{\@}"/>
 		<string id="88tPPVe4" text="Mandarins{@Plural}loads of mandarins{\@}"/>
 		<string id="W5OFMDbz" text="Whale Blubber{@Plural}loads of whale blubber{\@}"/>
-		<string id="hmcbBs9e" text="Lobster{@Plural}loads of lobster{\@}"/>
+		<string id="hmcbBs9e" text="Ise Lobster{@Plural}loads of Ise lobster{\@}"/>
 		<string id="5tsKVnqy" text="Crab{@Plural}loads of Crab{\@}"/>
 		<string id="yx6BE9Ga" text="Seaweed{@Plural}wraps of Seaweed{\@}"/>
 		<string id="D1Jo4o5e" text="Tea Leaves{@Plural}bundles of Tea Leaves{\@}"/>
@@ -3773,7 +3773,7 @@
 		<string id="IXWgp1Kb" text="Minko Cape"/>
 		<string id="yANNztZH" text="Jinboari"/>
 		<string id="RN0CjgA0" text="Jinbaori"/>
-		<string id="kxzCYmvt" text="Monk Vest"/>
+		<string id="kxzCYmvt" text="Oizuru Monk Vest"/>
 		<string id="vJJSYEjX" text="Kozane Sode"/>
 		<string id="JYnKmPLU" text="Ōsode"/>
 		<string id="ulaqb6QQ" text="Tosei Sode"/>
@@ -3970,7 +3970,7 @@
 		<string id="LboIPHhY" text="Uchigashima-shi"/>
 		<string id="8Kqhx9R1" text="Shimotsuma-shi"/>
 		<string id="kXGcCns5" text="Shichiri-shi"/>
-		<string id="1iyE0PaI" text="Noto-Hatakeyama-shi"/>
+		<string id="1iyE0PaI" text="Hatakeyama-shi"/>
 		<string id="oooOrCfb" text="Chou-shi"/>
 		<string id="iilNBXIF" text="Yusa-shi"/>
 		<string id="IqeslrzB" text="Nukui-shi"/>
@@ -4076,7 +4076,7 @@
 		<string id="FHrTjQq8" text="Indou-shi"/>
 		<string id="hepAMIkF" text="Amakusa-shi"/>
 		<string id="fHnbNu30" text="Ōtomo-shi"/>
-		<string id="A8L5TLZI" text="One of the dominant clans in Kyushu, the Ōtomo lay claim to swathes of the hilly eastern side of the island. Flourishing port cities along the coast have introduced Christianity and trade to the Ōtomo lands. Thanks to this cooperation with Europe, the Ōtomo clan have gained an upper hand in Japan's technological arms race by bolstering their ranks with imported matchlock weapons. With land reaching from Bungo in the south to Hakata in the north the realm of the Ōtomo is not without contention. The Mouri clan have come from Honshu taking Moji castle and now threatening Ōtomo control of the vital port city of Hakata. With a Mouri foothold now in Kyushu and with Ryūzouji power rising in the west, the Ōtomo must rally under clan daimyo Ōtomo Sorin or risk losing vital land and ports."/>
+		<string id="A8L5TLZI" text="One of the dominant clans in Kyushu, the Ōtomo lay claim to swathes of the hilly eastern side of the island. Flourishing port cities along the coast have introduced Christianity and trade to the Ōtomo lands. Thanks to this cooperation with Europe, the Ōtomo clan have gained an upper hand in Japan's technological arms race by bolstering their ranks with imported matchlock weapons. With land reaching from Bungo in the south to Hakata in the north the realm of the Ōtomo is not without contention. The Mouri clan have come from Honshu taking Moji castle and now threatening Ōtomo control of the vital port city of Hakata. With a Mouri foothold now in Kyushu and with Ryūzouji power rising in the west, the Ōtomo must rally under clan daimyo Ōtomo Sourin or risk losing vital land and ports."/>
 		<string id="2yKuCKTm" text="Kī-shi"/>
 		<string id="nKMoFXSw" text="Kamachi-shi"/>
 		<string id="kAG0Yn7Z" text="Bekki-shi"/>
@@ -4191,7 +4191,7 @@
 		<string id="5P5FkBwH" text="Sukesaburou"/>
 		<string id="tubOfaxz" text="Sukeshirou"/>
 		<string id="3R5j7RYA" text="Sukegorou"/>
-		<string id="Ds3cZg6r" text="Sukebei"/>
+		<string id="Ds3cZg6r" text="Sukebē"/>
 		<string id="nKMOkNFw" text="Sukezaemon"/>
 		<string id="7iiIq9r6" text="Sukeemon"/>
 		<string id="kD70iJ3J" text="Shintarou"/>
@@ -4204,7 +4204,7 @@
 		<string id="u6o96I4Y" text="Shinnosuke"/>
 		<string id="KT8o8D8j" text="Shinkichi"/>
 		<string id="QXoI9qum" text="Shinzou"/>
-		<string id="l4hS80xv" text="Shinbei"/>
+		<string id="l4hS80xv" text="Shinbē"/>
 		<string id="xGgjfTcH" text="Shinzaemon"/>
 		<string id="nP12n3Fs" text="Shin'emon"/>
 		<string id="2HEjtotK" text="Kantarou"/>
@@ -4217,7 +4217,7 @@
 		<string id="cGq2zXGn" text="Kannosuke"/>
 		<string id="2BhHfnxd" text="Kankichi"/>
 		<string id="eZOVCTrX" text="Kanzou"/>
-		<string id="4Nkceif9" text="Kanbei"/>
+		<string id="4Nkceif9" text="Kanbē"/>
 		<string id="pr5IdVlQ" text="Choutarou"/>
 		<string id="6get6Y8E" text="Chouichirou"/>
 		<string id="b9VnjeKp" text="Choujirou"/>
@@ -4225,10 +4225,10 @@
 		<string id="QP1vL1Z5" text="Chouzgorou"/>
 		<string id="onoKVXjp" text="Choujūrou"/>
 		<string id="8Lqk2NsA" text="Chousuke"/>
-		<string id="XWldYuhm" text="Chouunosuke"/>
+		<string id="XWldYuhm" text="Chounosuke"/>
 		<string id="q1a85TXt" text="Choukichi"/>
 		<string id="QCC1D0p5" text="Chouzou"/>
-		<string id="uA1I8WpX" text="Choubei"/>
+		<string id="uA1I8WpX" text="Choubē"/>
 		<string id="S34Gm8bG" text="Chouzaemon"/>
 		<string id="7wmjr9N6" text="Chouemon"/>
 		<string id="FyfAPTam" text="Yotarou"/>
@@ -4254,7 +4254,7 @@
 		<string id="geoBdNT4" text="Gennosuke"/>
 		<string id="m7TQ90rZ" text="Genzou"/>
 		<string id="TkJw9Duw" text="Gennai"/>
-		<string id="Z1zN5otw" text="Genbei"/>
+		<string id="Z1zN5otw" text="Genbē"/>
 		<string id="AbuVBtV8" text="Genzaemon"/>
 		<string id="AtsmKH9M" text="Gen'emon"/>
 		<string id="HG9UGvJg" text="Kotarou"/>
@@ -4273,7 +4273,7 @@
 		<string id="FKcnKXmS" text="Shounosuke"/>
 		<string id="w3AqbTQs" text="Shoukichi"/>
 		<string id="m10TL2CQ" text="Shouzou"/>
-		<string id="enQ9CtYF" text="Shoubei"/>
+		<string id="enQ9CtYF" text="Shoubē"/>
 		<string id="yOuFJRP1" text="Shouzaemon"/>
 		<string id="nitvYEGB" text="Shouemon"/>
 		<string id="V8VowuPM" text="Toutarou"/>
@@ -4282,24 +4282,24 @@
 		<string id="FZDkXvEM" text="Tousaburou"/>
 		<string id="2z2LglVH" text="Tougorou"/>
 		<string id="V9bQ7Maa" text="Toujūrou"/>
-		<string id="1QBVd4da" text="Tōsuke"/>
+		<string id="1QBVd4da" text="Tousuke"/>
 		<string id="SmVurwZt" text="Tounosuke"/>
 		<string id="Wq5qYwL7" text="Toukichi"/>
 		<string id="n1btMUnd" text="Touzou"/>
 		<string id="wsOx7Udj" text="Tounai"/>
-		<string id="ffaLCN8L" text="Tōbei"/>
+		<string id="ffaLCN8L" text="Toubē"/>
 		<string id="WdoaF6Up" text="Touzaemon"/>
 		<string id="0TrEYRKe" text="Touemon"/>
 		<string id="cousoQ4k" text="Mataichirou"/>
 		<string id="7GGb9pks" text="Matajirou"/>
 		<string id="Mi6jEdGA" text="Matasaburou"/>
 		<string id="50m6bXju" text="Matagorou"/>
-		<string id="HEpg6hFQ" text="Matajuro"/>
+		<string id="HEpg6hFQ" text="Matajūrou" />
 		<string id="EjYlRDvH" text="Matasuke"/>
 		<string id="irRONE36" text="Matanosuke"/>
 		<string id="XGQmrAxZ" text="Matakichi"/>
-		<string id="Faecpmvv" text="Matazo"/>
-		<string id="hDYNv8cs" text="Matabei"/>
+		<string id="Faecpmvv" text="Matazou"/>
+		<string id="hDYNv8cs" text="Matabē"/>
 		<string id="iXpL1lbL" text="Matazaemon"/>
 		<string id="P4kQzauj" text="Mataemon"/>
 		<string id="5i4ToX51" text="Tokutaro"/>
@@ -4307,12 +4307,12 @@
 		<string id="INK1MJlR" text="Tokujirou"/>
 		<string id="jlDVjQnu" text="Tokusaburou"/>
 		<string id="HQ7qfRgD" text="Tokugorou"/>
-		<string id="clrovKXi" text="Tokujuro"/>
+		<string id="clrovKXi" text="Tokujūrou" />
 		<string id="FQlRLvY9" text="Tokusuke"/>
 		<string id="CCUwTZYL" text="Tokunosuke"/>
 		<string id="9qQ9evZv" text="Tokukichi"/>
-		<string id="ijnOHHSh" text="Tokuzo"/>
-		<string id="30Z0KoSI" text="Tokubei"/>
+		<string id="ijnOHHSh" text="Tokuzou"/>
+		<string id="30Z0KoSI" text="Tokubē"/>
 		<string id="lIvG7CnE" text="Tokuzaemon"/>
 		<string id="RdMNMHrY" text="Tokuemon"/>
 		<string id="U58ZOdQG" text="Yataro"/>
@@ -4320,11 +4320,11 @@
 		<string id="k0kehmUu" text="Yajirou"/>
 		<string id="XKMzktuD" text="Yasaburou"/>
 		<string id="EfW7Ru9p" text="Yagorou"/>
-		<string id="UUNZapL6" text="Yajuro"/>
+		<string id="UUNZapL6" text="Yajūrou" />
 		<string id="4TAPNSDP" text="Yasuke"/>
 		<string id="STLLrKL8" text="Yanosuke"/>
 		<string id="fPHEbh56" text="Yakichi"/>
-		<string id="dhkBuvlk" text="Yazo"/>
+		<string id="dhkBuvlk" text="Yazou"/>
 		<string id="Nh4tadmB" text="Yahei"/>
 		<string id="u1LJWWKJ" text="Yazaemon"/>
 		<string id="12lLmL2X" text="Yaemon"/>
@@ -4333,120 +4333,120 @@
 		<string id="CpstFlRL" text="Magojirou"/>
 		<string id="myxmbqU0" text="Magozaburou"/>
 		<string id="BewFYzJe" text="Magogorou"/>
-		<string id="k2aKue4A" text="Magojuro"/>
+		<string id="k2aKue4A" text="Magojūrou"/>
 		<string id="Mszofuwe" text="Magosuke"/>
 		<string id="PG1lH9J9" text="Magonosuke"/>
 		<string id="DnJOcAzi" text="Magokichi"/>
-		<string id="PM82Pqwb" text="Magozo"/>
-		<string id="zIfoLUIX" text="Magobei"/>
+		<string id="PM82Pqwb" text="Magozou"/>
+		<string id="zIfoLUIX" text="Magobē"/>
 		<string id="TTt1dATj" text="Magozaemon"/>
 		<string id="7nUQ4by7" text="Magoemon"/>
 		<string id="kISlg1tA" text="Zenichirou"/>
 		<string id="w6XY8Pw4" text="Zenjirou"/>
 		<string id="Qm5bAnQX" text="Zenzaburou"/>
 		<string id="Z3BeJBAS" text="Zengorou"/>
-		<string id="aFnWRxFk" text="Zenjuro"/>
+		<string id="aFnWRxFk" text="Zenjūrou"/>
 		<string id="6xE2RZ7l" text="Zensuke"/>
 		<string id="XJ9ajAGZ" text="Zennosuke"/>
 		<string id="UhAHri58" text="Zenkichi"/>
-		<string id="8dQZUa4y" text="Zenzo"/>
+		<string id="8dQZUa4y" text="Zenzou"/>
 		<string id="WfUZsGO1" text="Zennai"/>
-		<string id="E2TB5J7F" text="Zenbei"/>
+		<string id="E2TB5J7F" text="Zenbē"/>
 		<string id="cs1H4EqR" text="Zenzaemon"/>
 		<string id="6sEaLkkL" text="Zen'emon"/>
 		<string id="i62ROvkh" text="Kīchiro"/>
 		<string id="usXhU7cq" text="Kizaburou"/>
-		<string id="siR5eu2H" text="Kijuro"/>
+		<string id="siR5eu2H" text="Kijūrou"/>
 		<string id="rptigya9" text="Kisuke"/>
 		<string id="JRFFb5Yp" text="Kinosuke"/>
-		<string id="aexJxPzD" text="Kizo"/>
+		<string id="aexJxPzD" text="Kizou"/>
 		<string id="5iJKF6OL" text="Souichirou"/>
 		<string id="bOaRvMKu" text="Soujirou"/>
 		<string id="KOYIX6bo" text="Souzaburou"/>
 		<string id="hQ8J9ehd" text="Sougorou"/>
-		<string id="WpNXQ2Wg" text="Soujuro"/>
+		<string id="WpNXQ2Wg" text="Soujūrou" />
 		<string id="MSQw9m26" text="Sousuke"/>
 		<string id="MSA98yTk" text="Sounosuke"/>
 		<string id="BcZmXIib" text="Soukichi"/>
-		<string id="FDNTSgX5" text="Souzo"/>
-		<string id="QQyFUrjM" text="Soubei"/>
+		<string id="FDNTSgX5" text="Souzou"/>
+		<string id="QQyFUrjM" text="Soubē"/>
 		<string id="95u0n5Gw" text="Souzaemon"/>
 		<string id="UuJecsoc" text="Souemon"/>
 		<string id="rC6bGIYr" text="Jinichirou"/>
 		<string id="tUuATMXL" text="Jinjirou"/>
 		<string id="5CILZ1Mw" text="Jinzaburou"/>
 		<string id="xntsULXS" text="Jingorou"/>
-		<string id="3kZ6KnLw" text="Jinjuro"/>
+		<string id="3kZ6KnLw" text="Jinjūrou"/>
 		<string id="1YstbZrT" text="Jinsuke"/>
 		<string id="ZUSD95RW" text="Jinnosuke"/>
 		<string id="CifluU3w" text="Jinkichi"/>
-		<string id="RtC7Igb8" text="Jinzo"/>
-		<string id="WYjJfaRF" text="Jinbei"/>
+		<string id="RtC7Igb8" text="Jinzou" />
+		<string id="WYjJfaRF" text="Jinbē"/>
 		<string id="li6FcW6d" text="Jinzaemon"/>
 		<string id="OFRiI1ZH" text="Jinemon"/>
 		<string id="PT48Pdyv" text="Hikoichirou"/>
 		<string id="qOHD4hmz" text="Hikojirou"/>
 		<string id="claatCYX" text="Hikozaburou"/>
 		<string id="LVSnchon" text="Hikogorou"/>
-		<string id="Md3I4b9A" text="Hikojuro"/>
+		<string id="Md3I4b9A" text="Hikojūrou" />
 		<string id="NOhSVuEd" text="Hikosuke"/>
 		<string id="IyWeSdrc" text="Hikonosuke"/>
-		<string id="Wz5ivE3j" text="Hikozo"/>
-		<string id="4LySx3FC" text="Hikobei"/>
+		<string id="Wz5ivE3j" text="Hikozou"/>
+		<string id="4LySx3FC" text="Hikobē"/>
 		<string id="0PkorrCr" text="Hikozaemon"/>
 		<string id="leI5JyG8" text="Hikoemon"/>
 		<string id="nrW2LLb4" text="Seiichirou"/>
 		<string id="YqIBnGJg" text="Seijirou"/>
 		<string id="eZf87dj4" text="Seizaburou"/>
 		<string id="CiuuF7Zt" text="Seigorou"/>
-		<string id="Xtf9w0UQ" text="Seijuro"/>
+		<string id="Xtf9w0UQ" text="Seijūrou" />
 		<string id="ryPxfNOi" text="Seisuke"/>
 		<string id="OMsFEksS" text="Seinosuke"/>
-		<string id="Bt3wxgJc" text="Seizo"/>
-		<string id="qctPhh4n" text="Seibei"/>
+		<string id="Bt3wxgJc" text="Seizou"/>
+		<string id="qctPhh4n" text="Seibē"/>
 		<string id="iwo72hty" text="Seizaemon"/>
 		<string id="23onjdyq" text="Seiemon"/>
 		<string id="RP6oIBv1" text="Sentaro"/>
 		<string id="1XiYQZec" text="Senjirou"/>
 		<string id="PHWNIb1U" text="Senzaburou"/>
 		<string id="aIRIvtzt" text="Sengorou"/>
-		<string id="jXS4Xyuz" text="Senjuro"/>
+		<string id="jXS4Xyuz" text="Senjūrou" />
 		<string id="wOXwXos9" text="Sensuke"/>
 		<string id="o6ipx7CX" text="Sennosuke"/>
-		<string id="GbzQmodT" text="Senzo"/>
-		<string id="6HSVwyHm" text="Senbei"/>
+		<string id="GbzQmodT" text="Senzou" />
+		<string id="6HSVwyHm" text="Senbē"/>
 		<string id="k0QkYUKf" text="Senzaemon"/>
 		<string id="HDO43hmP" text="Senemon"/>
 		<string id="BZenLkHE" text="Mantaro"/>
 		<string id="EaxgVhEA" text="Manjirou"/>
 		<string id="oHVTd16T" text="Manzaburou"/>
 		<string id="W1f3Xyka" text="Mangorou"/>
-		<string id="KQJB6tIF" text="Manjuro"/>
+		<string id="KQJB6tIF" text="Manjūrou" />
 		<string id="Dgnokr0s" text="Mansuke"/>
 		<string id="ZuY3PKvk" text="Mannosuke"/>
-		<string id="2zvbXuvD" text="Manzo"/>
-		<string id="DemRvjqX" text="Manbei"/>
+		<string id="2zvbXuvD" text="Manzou" />
+		<string id="DemRvjqX" text="Manbē"/>
 		<string id="xqLuC100" text="Manzaemon"/>
 		<string id="bKpT7ydh" text="Manemon"/>
 		<string id="qTjJ6VNB" text="Kouichirou"/>
 		<string id="OiQWNnCC" text="Kouzaburou"/>
 		<string id="alsRXQfE" text="Kougorou"/>
-		<string id="tiQigL4M" text="Koujuro"/>
+		<string id="tiQigL4M" text="Koujūrou" />
 		<string id="5vy1Kcut" text="Kousuke"/>
 		<string id="ewIhSqSg" text="Kounosuke"/>
-		<string id="uUuyf0oq" text="Kouzo"/>
-		<string id="6JYI2cM1" text="Koubei"/>
+		<string id="uUuyf0oq" text="Kouzou"/>
+		<string id="6JYI2cM1" text="Koubē"/>
 		<string id="Ucc1XJtA" text="Kouzaemon"/>
 		<string id="c0POyeDy" text="Kouemon"/>
 		<string id="8r6KNpJu" text="Ichitaro"/>
 		<string id="adSaxUtg" text="Ichijirou"/>
 		<string id="PHZYnyJG" text="Ichisaburou"/>
 		<string id="2Zz5tOGM" text="Ichigorou"/>
-		<string id="UE8Q9iLC" text="Ichijuro"/>
+		<string id="UE8Q9iLC" text="Ichijūrou" />
 		<string id="A38aKm8V" text="Ichisuke"/>
 		<string id="6maHAom2" text="Ichinosuke"/>
-		<string id="jGDO6UVX" text="Ichizo"/>
-		<string id="fRC2Sv0I" text="Ichibei"/>
+		<string id="jGDO6UVX" text="Ichizou"/>
+		<string id="fRC2Sv0I" text="Ichibē"/>
 		<string id="vvLImum3" text="Ichizaemon"/>
 		<string id="qzEnN6b2" text="Ichiemon"/>
 		<string id="Bv1SBqYA" text="Dentaro"/>
@@ -4454,12 +4454,12 @@
 		<string id="1jKdOkXK" text="Denjirou"/>
 		<string id="oS7aAM2u" text="Densaburou"/>
 		<string id="0676hgZd" text="Dengorou"/>
-		<string id="4rt2PIJj" text="Denjuro"/>
+		<string id="4rt2PIJj" text="Denjūrou" />
 		<string id="vrNgITIa" text="Densuke"/>
 		<string id="bSnAdlUv" text="Dennosuke"/>
-		<string id="n8ygcUdT" text="Denzo"/>
+		<string id="n8ygcUdT" text="Denzou"/>
 		<string id="uL8OvdBZ" text="Dennai"/>
-		<string id="ENaKTTDb" text="Denbei"/>
+		<string id="ENaKTTDb" text="Denbē"/>
 		<string id="EVBmSHD1" text="Denzaemon"/>
 		<string id="F3NFayMh" text="Denemon"/>
 		<string id="5YYTcaY5" text="Buntaro"/>
@@ -4467,12 +4467,12 @@
 		<string id="3kNHKBLR" text="Bunjirou"/>
 		<string id="bxtXeEFE" text="Bunsaburou"/>
 		<string id="0iBcR9Oj" text="Bungorou"/>
-		<string id="Fg3jIKFw" text="Bunjuro"/>
+		<string id="Fg3jIKFw" text="Bunjūrou" />
 		<string id="rvIN9ZTT" text="Bunsuke"/>
 		<string id="7I5vZfW3" text="Bunnosuke"/>
-		<string id="6wEnMxwM" text="Bunzo"/>
+		<string id="6wEnMxwM" text="Bunzou" />
 		<string id="csOTlDG2" text="Bunnai"/>
-		<string id="Ild4lSX7" text="Bunbei"/>
+		<string id="Ild4lSX7" text="Bunbē"/>
 		<string id="IhUPTgiY" text="Bunzaemon"/>
 		<string id="xwzqFQHe" text="Bunemon"/>
 		<string id="xNuFAChh" text="Kyūtarou"/>
@@ -4485,7 +4485,7 @@
 		<string id="IqtNcUKR" text="Kyūnosuke"/>
 		<string id="EnAKh2jl" text="Kyūzou"/>
 		<string id="kmP42SIm" text="Kyūnai"/>
-		<string id="6lv28NaV" text="Kyūbei"/>
+		<string id="6lv28NaV" text="Kyūbē"/>
 		<string id="WtrhY68f" text="Kyūzaemon"/>
 		<string id="UoyQxG88" text="Kyūemon"/>
 		<string id="RgM49V8I" text="Risuke"/>
@@ -4495,10 +4495,10 @@
 		<string id="cPCDrqQ9" text="Tomojirou"/>
 		<string id="FrCZl1Kc" text="Tomosaburou"/>
 		<string id="aTLCRfbo" text="Tomogorou"/>
-		<string id="VJ8JjKdn" text="Tomojuro"/>
+		<string id="VJ8JjKdn" text="Tomojūrou" />
 		<string id="eybQD7fW" text="Tomosuke"/>
 		<string id="ouJSaXMs" text="Tomonosuke"/>
-		<string id="5cUv40An" text="Tomozo"/>
+		<string id="5cUv40An" text="Tomozou"/>
 		<string id="EkbEmCds" text="Mosuke"/>
 		<string id="jskM3d0i" text="Mohei"/>
 		<string id="NrA6HIZh" text="Kintaro"/>
@@ -4506,11 +4506,11 @@
 		<string id="7Y0EXAUF" text="Kinjirou"/>
 		<string id="YscUSvVM" text="Kinsaburou"/>
 		<string id="XFTScKgz" text="Kingorou"/>
-		<string id="NGdaEade" text="Kinjuro"/>
+		<string id="NGdaEade" text="Kinjūrou" />
 		<string id="TZ1EuCNG" text="Kinsuke"/>
 		<string id="4MflqKiV" text="Kinnosuke"/>
-		<string id="FNMFahJE" text="Kinzo"/>
-		<string id="cRihXQNl" text="Kinbei"/>
+		<string id="FNMFahJE" text="Kinzou" />
+		<string id="cRihXQNl" text="Kinbē"/>
 		<string id="4CONhzCA" text="Kinzaemon"/>
 		<string id="96CxYziS" text="Kin'emon"/>
 		<string id="x0UuCfZy" text="Kametaro"/>
@@ -4518,35 +4518,35 @@
 		<string id="a01TqKHx" text="Kamejirou"/>
 		<string id="OfQZK6DU" text="Kamesaburou"/>
 		<string id="xyMCyFya" text="Kamegorou"/>
-		<string id="4enmAjQG" text="Kamejuro"/>
+		<string id="4enmAjQG" text="Kamejūrou" />
 		<string id="2RTqEBHZ" text="Kamesuke"/>
 		<string id="DsdZZ7ls" text="Kamenosuke"/>
-		<string id="nhWIvnQN" text="Kamezo"/>
+		<string id="nhWIvnQN" text="Kamezou"/>
 		<string id="22qdH8rc" text="Tsurutaro"/>
 		<string id="sAfPsIZ8" text="Tsuruichirou"/>
 		<string id="kfHjrOIs" text="Tsurujirou"/>
 		<string id="5CSrGJfb" text="Tsurusaburou"/>
 		<string id="wkcqyrPI" text="Tsurugorou"/>
-		<string id="EugzWPXo" text="Tsurujuro"/>
+		<string id="EugzWPXo" text="Tsurujūrou" />
 		<string id="p0vR6eJa" text="Tsurusuke"/>
 		<string id="7N515T5W" text="Tsurunosuke"/>
-		<string id="oUA7SxtT" text="Tsuruzo"/>
+		<string id="oUA7SxtT" text="Tsuruzou"/>
 		<string id="oTCqcyRD" text="Sakutaro"/>
 		<string id="jJYN1RwQ" text="Sakuichirou"/>
 		<string id="VHEgq8bQ" text="Sakujirou"/>
 		<string id="7qfdlqBi" text="Sakusaburou"/>
 		<string id="WeUjfIJ1" text="Sakugorou"/>
-		<string id="ZzfKmRnj" text="Sakujuro"/>
+		<string id="ZzfKmRnj" text="Sakujūrou" />
 		<string id="vSeWlxFv" text="Sakusuke"/>
 		<string id="PruyWPPU" text="Sakunosuke"/>
-		<string id="IqqhbpKT" text="Sakuzo"/>
-		<string id="Jts7a19A" text="Sakubei"/>
+		<string id="IqqhbpKT" text="Sakuzou"/>
+		<string id="Jts7a19A" text="Sakubē"/>
 		<string id="uzEmlox6" text="Iichirou"/>
 		<string id="9iBq0QQK" text="Izaburou"/>
-		<string id="2AiJGGSn" text="Ijuro"/>
+		<string id="2AiJGGSn" text="Ijūrou" />
 		<string id="CTOORbUG" text="Isuke"/>
 		<string id="jGQAK7wi" text="Inosuke"/>
-		<string id="ZzQtwy55" text="Izo"/>
+		<string id="ZzQtwy55" text="Izou"/>
 		<string id="1DpmL0dT" text="Ihei"/>
 		<string id="M24CQ7LC" text="Izaemon"/>
 		<string id="0HhVmhAb" text="Iemon"/>
@@ -4887,7 +4887,7 @@
 		<string id="ymrFRnrW" text="Koide"/>
 		<string id="EuZYLsjt" text="Kuwayama"/>
 		<string id="TctYsNIg" text="Arao"/>
-		<string id="JSiAyodh" text="Kanto"/>
+		<string id="JSiAyodh" text="Kantou"/>
 		<string id="QO79qs4N" text="Yamakawa"/>
 		<string id="Mw9s0qdq" text="Minagawa"/>
 		<string id="eRxuWdyL" text="Kimishima"/>
@@ -5824,7 +5824,7 @@
 		<string id="UrWGFsmE" text="Rinzai Sect Buddhism" />
 		<string id="aj3IV2f2" text="Shingon Sect Buddhism" />
 		<string id="LVOCapM2" text="Tendai Sect Buddhism" />
-		<string id="mGkLxllp" text="Soto Sect Buddhism" />
+		<string id="mGkLxllp" text="Soutou Sect Buddhism" />
 		<string id="NqLVEEEe" text="Shin Sect Buddhism" />
 		<string id="WyzxYdII" text="Furukawa" />
 		<string id="ALDVQWST" text="Shader compilation in progress. Remaining shaders to compile: {NUM}" />
