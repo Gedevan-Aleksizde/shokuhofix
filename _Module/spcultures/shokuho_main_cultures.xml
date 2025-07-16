@@ -1,10 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <SPCultures>
-  <Culture id="ashigaru"
-       name="{=gVZxlFB4}Ashigaru"
-       basic_troop="NPCCharacter.peasant_farmer"
-       default_battle_equipment_roster="EquipmentRoster.ashigaru_bat_template_medium_male"
-       default_civilian_equipment_roster="EquipmentRoster.ashigaru_civ_template_default_male">
+  <Culture id="ashigaru" name="{=gVZxlFB4}Ashigaru" basic_troop="NPCCharacter.peasant_farmer" default_battle_equipment_roster="EquipmentRoster.ashigaru_bat_template_medium_male" default_civilian_equipment_roster="EquipmentRoster.ashigaru_civ_template_default_male">
     <banner_bearer_replacement_weapons>
       <item id="Item.sho_wakizashi_1"/>
     </banner_bearer_replacement_weapons>
@@ -17,82 +13,7 @@
       <template name="NPCCharacter.lord_template_saikai_female"/>
     </rebellion_hero_templates>
   </Culture>
-
-  <Culture id="saikai"
-       name="{=XM9EPZDi}Saikai"
-       is_main_culture="true"
-       color="0xffd1d1d1"
-       color2="0xff093b6b"
-       faction_banner_key="11.163.166.1528.1528.764.764.1.0.0.597.171.171.483.483.764.764.0.0.0"
-       elite_basic_troop="NPCCharacter.saikai_jizamurai"
-       basic_troop="NPCCharacter.saikai_militia_peasant"
-       melee_militia_troop="NPCCharacter.yari_ashigaru"
-       ranged_militia_troop="NPCCharacter.yumi_ashigaru"
-       melee_elite_militia_troop="NPCCharacter.trained_yari_ashigaru"
-       ranged_elite_militia_troop="NPCCharacter.trained_yumi_ashigaru"
-       can_have_settlement="true"
-       town_edge_number="16"
-       villager_party_template="PartyTemplate.villager_template"
-       default_party_template="PartyTemplate.kingdom_hero_party_saikai_template"
-       caravan_party_template="PartyTemplate.caravan_template"
-       elite_caravan_party_template="PartyTemplate.elite_caravan_template"
-       militia_party_template="PartyTemplate.militia_template"
-       rebels_party_template="PartyTemplate.rebels_template"
-       vassal_reward_party_template="PartyTemplate.vassal_reward_troops_saikai"
-       prosperity_bonus="1"
-       encounter_background_mesh="encounter_sho_lord"
-       default_face_key="0000F80E4000000EB8708BD6CD185229D3F98B3ABDFE344CD22D3D5038898868007776030796723B00000000000000000000000000000000000000003EFC1000"
-       text="{=BTSZWScx}The Saikai people hail from the westernmost region of Japan, encompassing the island of Kyushu, which is closer to the Asian mainland than the shogunal capital and its power struggles. Thanks to their unique position, the Saikai have grown into expert seafarers and merchants with longstanding trade relations with China and Korea, and most recently with the newly come nanban foreigners who provide the Saikai with easier access to Western firearms. Yet not all the Saikai embrace trade as their call, as many take to the sea as pirates to plunder the rich trade routes, while the local lords battle to preserve their autonomy from any central authority."
-       tournament_master="NPCCharacter.tournament_master_saikai"
-       villager="NPCCharacter.townsman_saikai"
-       caravan_master="NPCCharacter.saikai_mounted_samurai"
-       armed_trader="NPCCharacter.saikai_mounted_samurai"
-       caravan_guard="NPCCharacter.saikai_mounted_samurai"
-       veteran_caravan_guard="NPCCharacter.saikai_mounted_samurai"
-       prison_guard="NPCCharacter.prison_guard_saikai"
-       guard="NPCCharacter.guard_saikai"
-       blacksmith="NPCCharacter.blacksmith_saikai"
-       weaponsmith="NPCCharacter.weaponsmith_saikai"
-       townswoman="NPCCharacter.townswoman_saikai"
-       townswoman_infant="NPCCharacter.townswoman_infant_saikai"
-       townswoman_child="NPCCharacter.townswoman_child_saikai"
-       townswoman_teenager="NPCCharacter.townswoman_teenager_saikai"
-       townsman="NPCCharacter.townsman_saikai"
-       townsman_infant="NPCCharacter.townsman_infant_saikai"
-       townsman_child="NPCCharacter.townsman_child_saikai"
-       village_woman="NPCCharacter.townswoman_saikai"
-       villager_male_child="NPCCharacter.townsman_child_saikai"
-       villager_male_teenager="NPCCharacter.townsman_teenager_saikai"
-       villager_female_child="NPCCharacter.townswoman_child_saikai"
-       villager_female_teenager="NPCCharacter.townswoman_teenager_saikai"
-       townsman_teenager="NPCCharacter.townsman_teenager_saikai"
-       ransom_broker="NPCCharacter.ransom_broker_saikai"
-       gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_saikai"
-       merchant_notary="NPCCharacter.merchant_notary_saikai"
-       artisan_notary="NPCCharacter.townsman_saikai"
-       preacher_notary="NPCCharacter.townsman_saikai"
-       rural_notable_notary="NPCCharacter.townsman_saikai"
-       shop_worker="NPCCharacter.shop_worker_saikai"
-       tavernkeeper="NPCCharacter.tavernkeeper_saikai"
-       taverngamehost="NPCCharacter.taverngamehost_saikai"
-       musician="NPCCharacter.musician_saikai"
-       tavern_wench="NPCCharacter.tavern_wench_saikai"
-       armorer="NPCCharacter.armorer_saikai"
-       horseMerchant="NPCCharacter.horseMerchant_saikai"
-       barber="NPCCharacter.barber_saikai"
-       merchant="NPCCharacter.merchant_saikai"
-       beggar="NPCCharacter.beggar_saikai"
-       female_beggar="NPCCharacter.female_beggar_saikai"
-       female_dancer="NPCCharacter.townswoman_saikai"
-       gear_practice_dummy="NPCCharacter.gear_practice_dummy_saikai"
-       weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1"
-       weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2"
-       weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3"
-       gear_dummy="NPCCharacter.gear_practice_dummy_saikai"
-       default_battle_equipment_roster="EquipmentRoster.saikai_bat_template_medium_male"
-       default_civilian_equipment_roster="EquipmentRoster.saikai_civ_template_default_male"
-       duel_preset_equipment_roster="EquipmentRoster.npc_armed_wanderer_equipment_template_saikai"
-       board_game_type="Tablut">
+  <Culture id="saikai" name="{=XM9EPZDi}Saikai" is_main_culture="true" color="0xffd1d1d1" color2="0xff093b6b" faction_banner_key="11.163.166.1528.1528.764.764.1.0.0.597.171.171.483.483.764.764.0.0.0" elite_basic_troop="NPCCharacter.saikai_jizamurai" basic_troop="NPCCharacter.saikai_militia_peasant" melee_militia_troop="NPCCharacter.yari_ashigaru" ranged_militia_troop="NPCCharacter.yumi_ashigaru" melee_elite_militia_troop="NPCCharacter.trained_yari_ashigaru" ranged_elite_militia_troop="NPCCharacter.trained_yumi_ashigaru" can_have_settlement="true" town_edge_number="16" villager_party_template="PartyTemplate.villager_template" default_party_template="PartyTemplate.kingdom_hero_party_saikai_template" caravan_party_template="PartyTemplate.caravan_template" elite_caravan_party_template="PartyTemplate.elite_caravan_template" militia_party_template="PartyTemplate.militia_template" rebels_party_template="PartyTemplate.rebels_template" vassal_reward_party_template="PartyTemplate.vassal_reward_troops_saikai" prosperity_bonus="1" encounter_background_mesh="encounter_sho_lord" default_face_key="0000F80E4000000EB8708BD6CD185229D3F98B3ABDFE344CD22D3D5038898868007776030796723B00000000000000000000000000000000000000003EFC1000" text="{=BTSZWScx}The Saikai people hail from the westernmost region of Japan, encompassing the island of Kyushu, which is closer to the Asian mainland than the shogunal capital and its power struggles. Thanks to their unique position, the Saikai have grown into expert seafarers and merchants with longstanding trade relations with China and Korea, and most recently with the newly come nanban foreigners who provide the Saikai with easier access to Western firearms. Yet not all the Saikai embrace trade as their call, as many take to the sea as pirates to plunder the rich trade routes, while the local lords battle to preserve their autonomy from any central authority." tournament_master="NPCCharacter.tournament_master_saikai" villager="NPCCharacter.townsman_saikai" caravan_master="NPCCharacter.saikai_mounted_samurai" armed_trader="NPCCharacter.saikai_mounted_samurai" caravan_guard="NPCCharacter.saikai_mounted_samurai" veteran_caravan_guard="NPCCharacter.saikai_mounted_samurai" prison_guard="NPCCharacter.prison_guard_saikai" guard="NPCCharacter.guard_saikai" blacksmith="NPCCharacter.blacksmith_saikai" weaponsmith="NPCCharacter.weaponsmith_saikai" townswoman="NPCCharacter.townswoman_saikai" townswoman_infant="NPCCharacter.townswoman_infant_saikai" townswoman_child="NPCCharacter.townswoman_child_saikai" townswoman_teenager="NPCCharacter.townswoman_teenager_saikai" townsman="NPCCharacter.townsman_saikai" townsman_infant="NPCCharacter.townsman_infant_saikai" townsman_child="NPCCharacter.townsman_child_saikai" village_woman="NPCCharacter.townswoman_saikai" villager_male_child="NPCCharacter.townsman_child_saikai" villager_male_teenager="NPCCharacter.townsman_teenager_saikai" villager_female_child="NPCCharacter.townswoman_child_saikai" villager_female_teenager="NPCCharacter.townswoman_teenager_saikai" townsman_teenager="NPCCharacter.townsman_teenager_saikai" ransom_broker="NPCCharacter.ransom_broker_saikai" gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_saikai" merchant_notary="NPCCharacter.merchant_notary_saikai" artisan_notary="NPCCharacter.townsman_saikai" preacher_notary="NPCCharacter.townsman_saikai" rural_notable_notary="NPCCharacter.townsman_saikai" shop_worker="NPCCharacter.shop_worker_saikai" tavernkeeper="NPCCharacter.tavernkeeper_saikai" taverngamehost="NPCCharacter.taverngamehost_saikai" musician="NPCCharacter.musician_saikai" tavern_wench="NPCCharacter.tavern_wench_saikai" armorer="NPCCharacter.armorer_saikai" horseMerchant="NPCCharacter.horseMerchant_saikai" barber="NPCCharacter.barber_saikai" merchant="NPCCharacter.merchant_saikai" beggar="NPCCharacter.beggar_saikai" female_beggar="NPCCharacter.female_beggar_saikai" female_dancer="NPCCharacter.townswoman_saikai" gear_practice_dummy="NPCCharacter.gear_practice_dummy_saikai" weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1" weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2" weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3" gear_dummy="NPCCharacter.gear_practice_dummy_saikai" default_battle_equipment_roster="EquipmentRoster.saikai_bat_template_medium_male" default_civilian_equipment_roster="EquipmentRoster.saikai_civ_template_default_male" duel_preset_equipment_roster="EquipmentRoster.npc_armed_wanderer_equipment_template_saikai" board_game_type="Tablut">
     <vassal_reward_items>
       <item id="Item.sho_tachi_tiger"/>
     </vassal_reward_items>
@@ -226,7 +147,7 @@
       <name name="{=7GGb9pks}Matajirou"/>
       <name name="{=Mi6jEdGA}Matasaburou"/>
       <name name="{=50m6bXju}Matagorou"/>
-      <name name="{=HEpg6hFQ}Matajūrou" />
+      <name name="{=HEpg6hFQ}Matajūrou"/>
       <name name="{=EjYlRDvH}Matasuke"/>
       <name name="{=irRONE36}Matanosuke"/>
       <name name="{=XGQmrAxZ}Matakichi"/>
@@ -239,7 +160,7 @@
       <name name="{=INK1MJlR}Tokujirou"/>
       <name name="{=jlDVjQnu}Tokusaburou"/>
       <name name="{=HQ7qfRgD}Tokugorou"/>
-      <name name="{=clrovKXi}Tokujūrou" />
+      <name name="{=clrovKXi}Tokujūrou"/>
       <name name="{=FQlRLvY9}Tokusuke"/>
       <name name="{=CCUwTZYL}Tokunosuke"/>
       <name name="{=9qQ9evZv}Tokukichi"/>
@@ -252,7 +173,7 @@
       <name name="{=k0kehmUu}Yajirou"/>
       <name name="{=XKMzktuD}Yasaburou"/>
       <name name="{=EfW7Ru9p}Yagorou"/>
-      <name name="{=UUNZapL6}Yajūrou" />
+      <name name="{=UUNZapL6}Yajūrou"/>
       <name name="{=4TAPNSDP}Yasuke"/>
       <name name="{=STLLrKL8}Yanosuke"/>
       <name name="{=fPHEbh56}Yakichi"/>
@@ -296,7 +217,7 @@
       <name name="{=bOaRvMKu}Soujirou"/>
       <name name="{=KOYIX6bo}Souzaburou"/>
       <name name="{=hQ8J9ehd}Sougorou"/>
-      <name name="{=WpNXQ2Wg}Soujūrou" />
+      <name name="{=WpNXQ2Wg}Soujūrou"/>
       <name name="{=MSQw9m26}Sousuke"/>
       <name name="{=MSA98yTk}Sounosuke"/>
       <name name="{=BcZmXIib}Soukichi"/>
@@ -312,7 +233,7 @@
       <name name="{=1YstbZrT}Jinsuke"/>
       <name name="{=ZUSD95RW}Jinnosuke"/>
       <name name="{=CifluU3w}Jinkichi"/>
-      <name name="{=RtC7Igb8}Jinzou" />
+      <name name="{=RtC7Igb8}Jinzou"/>
       <name name="{=WYjJfaRF}Jinbē"/>
       <name name="{=li6FcW6d}Jinzaemon"/>
       <name name="{=OFRiI1ZH}Jinemon"/>
@@ -320,7 +241,7 @@
       <name name="{=qOHD4hmz}Hikojirou"/>
       <name name="{=claatCYX}Hikozaburou"/>
       <name name="{=LVSnchon}Hikogorou"/>
-      <name name="{=Md3I4b9A}Hikojūrou" />
+      <name name="{=Md3I4b9A}Hikojūrou"/>
       <name name="{=NOhSVuEd}Hikosuke"/>
       <name name="{=IyWeSdrc}Hikonosuke"/>
       <name name="{=Wz5ivE3j}Hikozou"/>
@@ -331,7 +252,7 @@
       <name name="{=YqIBnGJg}Seijirou"/>
       <name name="{=eZf87dj4}Seizaburou"/>
       <name name="{=CiuuF7Zt}Seigorou"/>
-      <name name="{=Xtf9w0UQ}Seijūrou" />
+      <name name="{=Xtf9w0UQ}Seijūrou"/>
       <name name="{=ryPxfNOi}Seisuke"/>
       <name name="{=OMsFEksS}Seinosuke"/>
       <name name="{=Bt3wxgJc}Seizou"/>
@@ -342,10 +263,10 @@
       <name name="{=1XiYQZec}Senjirou"/>
       <name name="{=PHWNIb1U}Senzaburou"/>
       <name name="{=aIRIvtzt}Sengorou"/>
-      <name name="{=jXS4Xyuz}Senjūrou" />
+      <name name="{=jXS4Xyuz}Senjūrou"/>
       <name name="{=wOXwXos9}Sensuke"/>
       <name name="{=o6ipx7CX}Sennosuke"/>
-      <name name="{=GbzQmodT}Senzou" />
+      <name name="{=GbzQmodT}Senzou"/>
       <name name="{=6HSVwyHm}Senbē"/>
       <name name="{=k0QkYUKf}Senzaemon"/>
       <name name="{=HDO43hmP}Senemon"/>
@@ -353,10 +274,10 @@
       <name name="{=EaxgVhEA}Manjirou"/>
       <name name="{=oHVTd16T}Manzaburou"/>
       <name name="{=W1f3Xyka}Mangorou"/>
-      <name name="{=KQJB6tIF}Manjūrou" />
+      <name name="{=KQJB6tIF}Manjūrou"/>
       <name name="{=Dgnokr0s}Mansuke"/>
       <name name="{=ZuY3PKvk}Mannosuke"/>
-      <name name="{=2zvbXuvD}Manzou" />
+      <name name="{=2zvbXuvD}Manzou"/>
       <name name="{=DemRvjqX}Manbē"/>
       <name name="{=xqLuC100}Manzaemon"/>
       <name name="{=bKpT7ydh}Manemon"/>
@@ -364,7 +285,7 @@
       <name name="{=9YfwfCjt}Koujirou"/>
       <name name="{=OiQWNnCC}Kouzaburou"/>
       <name name="{=alsRXQfE}Kougorou"/>
-      <name name="{=tiQigL4M}Koujūrou" />
+      <name name="{=tiQigL4M}Koujūrou"/>
       <name name="{=5vy1Kcut}Kousuke"/>
       <name name="{=ewIhSqSg}Kounosuke"/>
       <name name="{=uUuyf0oq}Kouzou"/>
@@ -375,7 +296,7 @@
       <name name="{=adSaxUtg}Ichijirou"/>
       <name name="{=PHZYnyJG}Ichisaburou"/>
       <name name="{=2Zz5tOGM}Ichigorou"/>
-      <name name="{=UE8Q9iLC}Ichijūrou" />
+      <name name="{=UE8Q9iLC}Ichijūrou"/>
       <name name="{=A38aKm8V}Ichisuke"/>
       <name name="{=6maHAom2}Ichinosuke"/>
       <name name="{=jGDO6UVX}Ichizou"/>
@@ -387,7 +308,7 @@
       <name name="{=1jKdOkXK}Denjirou"/>
       <name name="{=oS7aAM2u}Densaburou"/>
       <name name="{=0676hgZd}Dengorou"/>
-      <name name="{=4rt2PIJj}Denjūrou" />
+      <name name="{=4rt2PIJj}Denjūrou"/>
       <name name="{=vrNgITIa}Densuke"/>
       <name name="{=bSnAdlUv}Dennosuke"/>
       <name name="{=n8ygcUdT}Denzou"/>
@@ -400,10 +321,10 @@
       <name name="{=3kNHKBLR}Bunjirou"/>
       <name name="{=bxtXeEFE}Bunsaburou"/>
       <name name="{=0iBcR9Oj}Bungorou"/>
-      <name name="{=Fg3jIKFw}Bunjūrou" />
+      <name name="{=Fg3jIKFw}Bunjūrou"/>
       <name name="{=rvIN9ZTT}Bunsuke"/>
       <name name="{=7I5vZfW3}Bunnosuke"/>
-      <name name="{=6wEnMxwM}Bunzou" />
+      <name name="{=6wEnMxwM}Bunzou"/>
       <name name="{=csOTlDG2}Bunnai"/>
       <name name="{=Ild4lSX7}Bunbē"/>
       <name name="{=IhUPTgiY}Bunzaemon"/>
@@ -428,7 +349,7 @@
       <name name="{=cPCDrqQ9}Tomojirou"/>
       <name name="{=FrCZl1Kc}Tomosaburou"/>
       <name name="{=aTLCRfbo}Tomogorou"/>
-      <name name="{=VJ8JjKdn}Tomojūrou" />
+      <name name="{=VJ8JjKdn}Tomojūrou"/>
       <name name="{=eybQD7fW}Tomosuke"/>
       <name name="{=ouJSaXMs}Tomonosuke"/>
       <name name="{=5cUv40An}Tomozou"/>
@@ -439,10 +360,10 @@
       <name name="{=7Y0EXAUF}Kinjirou"/>
       <name name="{=YscUSvVM}Kinsaburou"/>
       <name name="{=XFTScKgz}Kingorou"/>
-      <name name="{=NGdaEade}Kinjūrou" />
+      <name name="{=NGdaEade}Kinjūrou"/>
       <name name="{=TZ1EuCNG}Kinsuke"/>
       <name name="{=4MflqKiV}Kinnosuke"/>
-      <name name="{=FNMFahJE}Kinzou" />
+      <name name="{=FNMFahJE}Kinzou"/>
       <name name="{=cRihXQNl}Kinbē"/>
       <name name="{=4CONhzCA}Kinzaemon"/>
       <name name="{=96CxYziS}Kin'emon"/>
@@ -451,7 +372,7 @@
       <name name="{=a01TqKHx}Kamejirou"/>
       <name name="{=OfQZK6DU}Kamesaburou"/>
       <name name="{=xyMCyFya}Kamegorou"/>
-      <name name="{=4enmAjQG}Kamejūrou" />
+      <name name="{=4enmAjQG}Kamejūrou"/>
       <name name="{=2RTqEBHZ}Kamesuke"/>
       <name name="{=DsdZZ7ls}Kamenosuke"/>
       <name name="{=nhWIvnQN}Kamezou"/>
@@ -460,7 +381,7 @@
       <name name="{=kfHjrOIs}Tsurujirou"/>
       <name name="{=5CSrGJfb}Tsurusaburou"/>
       <name name="{=wkcqyrPI}Tsurugorou"/>
-      <name name="{=EugzWPXo}Tsurujūrou" />
+      <name name="{=EugzWPXo}Tsurujūrou"/>
       <name name="{=p0vR6eJa}Tsurusuke"/>
       <name name="{=7N515T5W}Tsurunosuke"/>
       <name name="{=oUA7SxtT}Tsuruzou"/>
@@ -469,14 +390,14 @@
       <name name="{=VHEgq8bQ}Sakujirou"/>
       <name name="{=7qfdlqBi}Sakusaburou"/>
       <name name="{=WeUjfIJ1}Sakugorou"/>
-      <name name="{=ZzfKmRnj}Sakujūrou" />
+      <name name="{=ZzfKmRnj}Sakujūrou"/>
       <name name="{=vSeWlxFv}Sakusuke"/>
       <name name="{=PruyWPPU}Sakunosuke"/>
       <name name="{=IqqhbpKT}Sakuzou"/>
       <name name="{=Jts7a19A}Sakubē"/>
       <name name="{=uzEmlox6}Iichirou"/>
       <name name="{=9iBq0QQK}Izaburou"/>
-      <name name="{=2AiJGGSn}Ijūrou" />
+      <name name="{=2AiJGGSn}Ijūrou"/>
       <name name="{=CTOORbUG}Isuke"/>
       <name name="{=jGQAK7wi}Inosuke"/>
       <name name="{=ZzQtwy55}Izou"/>
@@ -515,7 +436,7 @@
       <name name="{=G3bhQAAE}Ise"/>
       <name name="{=c7q2fLjb}Iso"/>
       <name name="{=p3I674Qb}Iti"/>
-      <name name="Ito"/>
+      <name name="{=Shokuho6BE7f533}Ito"/>
       <name name="{=B3kJ5DP4}Ina"/>
       <name name="{=soDfj3wG}Ine"/>
       <name name="{=Tz4Dextk}Ino"/>
@@ -814,81 +735,7 @@
       <template name="NPCCharacter.yumi_ashigaru"/>
     </basic_mercenary_troops>
   </Culture>
-  <Culture id="nankai"
-       name="{=DEmMv6H8}Nankai"
-       is_main_culture="true"
-       color="0xff181818"
-       color2="0xffd1d1d1"
-       faction_banner_key="11.163.166.1528.1528.764.764.1.0.0.632.171.171.483.483.764.764.0.0.0"
-       elite_basic_troop="NPCCharacter.nankai_jizamurai"
-       basic_troop="NPCCharacter.nankai_militia_peasant"
-       melee_militia_troop="NPCCharacter.yari_ashigaru"
-       ranged_militia_troop="NPCCharacter.yumi_ashigaru"
-       melee_elite_militia_troop="NPCCharacter.trained_yari_ashigaru"
-       ranged_elite_militia_troop="NPCCharacter.trained_yumi_ashigaru"
-       can_have_settlement="true"
-       town_edge_number="16"
-       villager_party_template="PartyTemplate.villager_template"
-       default_party_template="PartyTemplate.kingdom_hero_party_nankai_template"
-       caravan_party_template="PartyTemplate.caravan_template"
-       elite_caravan_party_template="PartyTemplate.elite_caravan_template"
-       militia_party_template="PartyTemplate.militia_template"
-       rebels_party_template="PartyTemplate.rebels_template"
-       vassal_reward_party_template="PartyTemplate.vassal_reward_troops_nankai"
-       prosperity_bonus="1"
-       encounter_background_mesh="encounter_sho_lord"
-       default_face_key="0000F80E4000000EB8708BD6CD185229D3F98B3ABDFE344CD22D3D5038898868007776030796723B00000000000000000000000000000000000000003EFC1000"
-       text="{=Da97C2Ky}The Nankai people dwell on the mountainous islands of Awaji and Shikoku. Despite being skilled seafarers, the Nankai have developed a strong identity and deep attachment to their homeland which they cultivate with dedication and reverence yielding much more than the average harvest. On the other hand, Nankai have grown isolated and suspicious of the denizens of the other regions, leading them to focus more on the defense of their hometowns and their people."
-       tournament_master="NPCCharacter.tournament_master_saikai"
-       villager="NPCCharacter.townsman_saikai"
-       caravan_master="NPCCharacter.saikai_mounted_samurai"
-       armed_trader="NPCCharacter.saikai_mounted_samurai"
-       caravan_guard="NPCCharacter.saikai_mounted_samurai"
-       veteran_caravan_guard="NPCCharacter.saikai_mounted_samurai"
-       prison_guard="NPCCharacter.prison_guard_nankai"
-       guard="NPCCharacter.guard_nankai"
-       blacksmith="NPCCharacter.blacksmith_saikai"
-       weaponsmith="NPCCharacter.weaponsmith_saikai"
-       townswoman="NPCCharacter.townswoman_saikai"
-       townswoman_infant="NPCCharacter.townswoman_infant_saikai"
-       townswoman_child="NPCCharacter.townswoman_child_saikai"
-       townswoman_teenager="NPCCharacter.townswoman_teenager_saikai"
-       townsman="NPCCharacter.townsman_saikai"
-       townsman_infant="NPCCharacter.townsman_infant_saikai"
-       townsman_child="NPCCharacter.townsman_child_saikai"
-       village_woman="NPCCharacter.townswoman_saikai"
-       villager_male_child="NPCCharacter.townsman_child_saikai"
-       villager_male_teenager="NPCCharacter.townsman_teenager_saikai"
-       villager_female_child="NPCCharacter.townswoman_child_saikai"
-       villager_female_teenager="NPCCharacter.townswoman_teenager_saikai"
-       townsman_teenager="NPCCharacter.townsman_teenager_saikai"
-       ransom_broker="NPCCharacter.ransom_broker_saikai"
-       gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_nankai"
-       merchant_notary="NPCCharacter.merchant_notary_saikai"
-       artisan_notary="NPCCharacter.townsman_saikai"
-       preacher_notary="NPCCharacter.townsman_saikai"
-       rural_notable_notary="NPCCharacter.townsman_saikai"
-       shop_worker="NPCCharacter.shop_worker_saikai"
-       tavernkeeper="NPCCharacter.tavernkeeper_saikai"
-       taverngamehost="NPCCharacter.taverngamehost_saikai"
-       musician="NPCCharacter.musician_saikai"
-       tavern_wench="NPCCharacter.tavern_wench_saikai"
-       armorer="NPCCharacter.armorer_saikai"
-       horseMerchant="NPCCharacter.horseMerchant_saikai"
-       barber="NPCCharacter.barber_saikai"
-       merchant="NPCCharacter.merchant_saikai"
-       beggar="NPCCharacter.beggar_saikai"
-       female_beggar="NPCCharacter.female_beggar_saikai"
-       female_dancer="NPCCharacter.townswoman_saikai"
-       gear_practice_dummy="NPCCharacter.gear_practice_dummy_nankai"
-       weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1"
-       weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2"
-       weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3"
-       gear_dummy="NPCCharacter.gear_practice_dummy_nankai"
-       default_battle_equipment_roster="EquipmentRoster.nankai_bat_template_medium_male"
-       default_civilian_equipment_roster="EquipmentRoster.nankai_civ_template_default_male"
-       duel_preset_equipment_roster="EquipmentRoster.npc_armed_wanderer_equipment_template_nankai"
-       board_game_type="Tablut">
+  <Culture id="nankai" name="{=DEmMv6H8}Nankai" is_main_culture="true" color="0xff181818" color2="0xffd1d1d1" faction_banner_key="11.163.166.1528.1528.764.764.1.0.0.632.171.171.483.483.764.764.0.0.0" elite_basic_troop="NPCCharacter.nankai_jizamurai" basic_troop="NPCCharacter.nankai_militia_peasant" melee_militia_troop="NPCCharacter.yari_ashigaru" ranged_militia_troop="NPCCharacter.yumi_ashigaru" melee_elite_militia_troop="NPCCharacter.trained_yari_ashigaru" ranged_elite_militia_troop="NPCCharacter.trained_yumi_ashigaru" can_have_settlement="true" town_edge_number="16" villager_party_template="PartyTemplate.villager_template" default_party_template="PartyTemplate.kingdom_hero_party_nankai_template" caravan_party_template="PartyTemplate.caravan_template" elite_caravan_party_template="PartyTemplate.elite_caravan_template" militia_party_template="PartyTemplate.militia_template" rebels_party_template="PartyTemplate.rebels_template" vassal_reward_party_template="PartyTemplate.vassal_reward_troops_nankai" prosperity_bonus="1" encounter_background_mesh="encounter_sho_lord" default_face_key="0000F80E4000000EB8708BD6CD185229D3F98B3ABDFE344CD22D3D5038898868007776030796723B00000000000000000000000000000000000000003EFC1000" text="{=Da97C2Ky}The Nankai people dwell on the mountainous islands of Awaji and Shikoku. Despite being skilled seafarers, the Nankai have developed a strong identity and deep attachment to their homeland which they cultivate with dedication and reverence yielding much more than the average harvest. On the other hand, Nankai have grown isolated and suspicious of the denizens of the other regions, leading them to focus more on the defense of their hometowns and their people." tournament_master="NPCCharacter.tournament_master_saikai" villager="NPCCharacter.townsman_saikai" caravan_master="NPCCharacter.saikai_mounted_samurai" armed_trader="NPCCharacter.saikai_mounted_samurai" caravan_guard="NPCCharacter.saikai_mounted_samurai" veteran_caravan_guard="NPCCharacter.saikai_mounted_samurai" prison_guard="NPCCharacter.prison_guard_nankai" guard="NPCCharacter.guard_nankai" blacksmith="NPCCharacter.blacksmith_saikai" weaponsmith="NPCCharacter.weaponsmith_saikai" townswoman="NPCCharacter.townswoman_saikai" townswoman_infant="NPCCharacter.townswoman_infant_saikai" townswoman_child="NPCCharacter.townswoman_child_saikai" townswoman_teenager="NPCCharacter.townswoman_teenager_saikai" townsman="NPCCharacter.townsman_saikai" townsman_infant="NPCCharacter.townsman_infant_saikai" townsman_child="NPCCharacter.townsman_child_saikai" village_woman="NPCCharacter.townswoman_saikai" villager_male_child="NPCCharacter.townsman_child_saikai" villager_male_teenager="NPCCharacter.townsman_teenager_saikai" villager_female_child="NPCCharacter.townswoman_child_saikai" villager_female_teenager="NPCCharacter.townswoman_teenager_saikai" townsman_teenager="NPCCharacter.townsman_teenager_saikai" ransom_broker="NPCCharacter.ransom_broker_saikai" gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_nankai" merchant_notary="NPCCharacter.merchant_notary_saikai" artisan_notary="NPCCharacter.townsman_saikai" preacher_notary="NPCCharacter.townsman_saikai" rural_notable_notary="NPCCharacter.townsman_saikai" shop_worker="NPCCharacter.shop_worker_saikai" tavernkeeper="NPCCharacter.tavernkeeper_saikai" taverngamehost="NPCCharacter.taverngamehost_saikai" musician="NPCCharacter.musician_saikai" tavern_wench="NPCCharacter.tavern_wench_saikai" armorer="NPCCharacter.armorer_saikai" horseMerchant="NPCCharacter.horseMerchant_saikai" barber="NPCCharacter.barber_saikai" merchant="NPCCharacter.merchant_saikai" beggar="NPCCharacter.beggar_saikai" female_beggar="NPCCharacter.female_beggar_saikai" female_dancer="NPCCharacter.townswoman_saikai" gear_practice_dummy="NPCCharacter.gear_practice_dummy_nankai" weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1" weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2" weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3" gear_dummy="NPCCharacter.gear_practice_dummy_nankai" default_battle_equipment_roster="EquipmentRoster.nankai_bat_template_medium_male" default_civilian_equipment_roster="EquipmentRoster.nankai_civ_template_default_male" duel_preset_equipment_roster="EquipmentRoster.npc_armed_wanderer_equipment_template_nankai" board_game_type="Tablut">
     <vassal_reward_items>
       <item id="Item.sho_tachi_tiger"/>
     </vassal_reward_items>
@@ -1022,7 +869,7 @@
       <name name="{=7GGb9pks}Matajirou"/>
       <name name="{=Mi6jEdGA}Matasaburou"/>
       <name name="{=50m6bXju}Matagorou"/>
-      <name name="{=HEpg6hFQ}Matajūrou" />
+      <name name="{=HEpg6hFQ}Matajūrou"/>
       <name name="{=EjYlRDvH}Matasuke"/>
       <name name="{=irRONE36}Matanosuke"/>
       <name name="{=XGQmrAxZ}Matakichi"/>
@@ -1035,7 +882,7 @@
       <name name="{=INK1MJlR}Tokujirou"/>
       <name name="{=jlDVjQnu}Tokusaburou"/>
       <name name="{=HQ7qfRgD}Tokugorou"/>
-      <name name="{=clrovKXi}Tokujūrou" />
+      <name name="{=clrovKXi}Tokujūrou"/>
       <name name="{=FQlRLvY9}Tokusuke"/>
       <name name="{=CCUwTZYL}Tokunosuke"/>
       <name name="{=9qQ9evZv}Tokukichi"/>
@@ -1048,7 +895,7 @@
       <name name="{=k0kehmUu}Yajirou"/>
       <name name="{=XKMzktuD}Yasaburou"/>
       <name name="{=EfW7Ru9p}Yagorou"/>
-      <name name="{=UUNZapL6}Yajūrou" />
+      <name name="{=UUNZapL6}Yajūrou"/>
       <name name="{=4TAPNSDP}Yasuke"/>
       <name name="{=STLLrKL8}Yanosuke"/>
       <name name="{=fPHEbh56}Yakichi"/>
@@ -1092,7 +939,7 @@
       <name name="{=bOaRvMKu}Soujirou"/>
       <name name="{=KOYIX6bo}Souzaburou"/>
       <name name="{=hQ8J9ehd}Sougorou"/>
-      <name name="{=WpNXQ2Wg}Soujūrou" />
+      <name name="{=WpNXQ2Wg}Soujūrou"/>
       <name name="{=MSQw9m26}Sousuke"/>
       <name name="{=MSA98yTk}Sounosuke"/>
       <name name="{=BcZmXIib}Soukichi"/>
@@ -1108,7 +955,7 @@
       <name name="{=1YstbZrT}Jinsuke"/>
       <name name="{=ZUSD95RW}Jinnosuke"/>
       <name name="{=CifluU3w}Jinkichi"/>
-      <name name="{=RtC7Igb8}Jinzou" />
+      <name name="{=RtC7Igb8}Jinzou"/>
       <name name="{=WYjJfaRF}Jinbē"/>
       <name name="{=li6FcW6d}Jinzaemon"/>
       <name name="{=OFRiI1ZH}Jinemon"/>
@@ -1116,7 +963,7 @@
       <name name="{=qOHD4hmz}Hikojirou"/>
       <name name="{=claatCYX}Hikozaburou"/>
       <name name="{=LVSnchon}Hikogorou"/>
-      <name name="{=Md3I4b9A}Hikojūrou" />
+      <name name="{=Md3I4b9A}Hikojūrou"/>
       <name name="{=NOhSVuEd}Hikosuke"/>
       <name name="{=IyWeSdrc}Hikonosuke"/>
       <name name="{=Wz5ivE3j}Hikozou"/>
@@ -1127,7 +974,7 @@
       <name name="{=YqIBnGJg}Seijirou"/>
       <name name="{=eZf87dj4}Seizaburou"/>
       <name name="{=CiuuF7Zt}Seigorou"/>
-      <name name="{=Xtf9w0UQ}Seijūrou" />
+      <name name="{=Xtf9w0UQ}Seijūrou"/>
       <name name="{=ryPxfNOi}Seisuke"/>
       <name name="{=OMsFEksS}Seinosuke"/>
       <name name="{=Bt3wxgJc}Seizou"/>
@@ -1138,10 +985,10 @@
       <name name="{=1XiYQZec}Senjirou"/>
       <name name="{=PHWNIb1U}Senzaburou"/>
       <name name="{=aIRIvtzt}Sengorou"/>
-      <name name="{=jXS4Xyuz}Senjūrou" />
+      <name name="{=jXS4Xyuz}Senjūrou"/>
       <name name="{=wOXwXos9}Sensuke"/>
       <name name="{=o6ipx7CX}Sennosuke"/>
-      <name name="{=GbzQmodT}Senzou" />
+      <name name="{=GbzQmodT}Senzou"/>
       <name name="{=6HSVwyHm}Senbē"/>
       <name name="{=k0QkYUKf}Senzaemon"/>
       <name name="{=HDO43hmP}Senemon"/>
@@ -1149,10 +996,10 @@
       <name name="{=EaxgVhEA}Manjirou"/>
       <name name="{=oHVTd16T}Manzaburou"/>
       <name name="{=W1f3Xyka}Mangorou"/>
-      <name name="{=KQJB6tIF}Manjūrou" />
+      <name name="{=KQJB6tIF}Manjūrou"/>
       <name name="{=Dgnokr0s}Mansuke"/>
       <name name="{=ZuY3PKvk}Mannosuke"/>
-      <name name="{=2zvbXuvD}Manzou" />
+      <name name="{=2zvbXuvD}Manzou"/>
       <name name="{=DemRvjqX}Manbē"/>
       <name name="{=xqLuC100}Manzaemon"/>
       <name name="{=bKpT7ydh}Manemon"/>
@@ -1160,7 +1007,7 @@
       <name name="{=9YfwfCjt}Koujirou"/>
       <name name="{=OiQWNnCC}Kouzaburou"/>
       <name name="{=alsRXQfE}Kougorou"/>
-      <name name="{=tiQigL4M}Koujūrou" />
+      <name name="{=tiQigL4M}Koujūrou"/>
       <name name="{=5vy1Kcut}Kousuke"/>
       <name name="{=ewIhSqSg}Kounosuke"/>
       <name name="{=uUuyf0oq}Kouzou"/>
@@ -1171,7 +1018,7 @@
       <name name="{=adSaxUtg}Ichijirou"/>
       <name name="{=PHZYnyJG}Ichisaburou"/>
       <name name="{=2Zz5tOGM}Ichigorou"/>
-      <name name="{=UE8Q9iLC}Ichijūrou" />
+      <name name="{=UE8Q9iLC}Ichijūrou"/>
       <name name="{=A38aKm8V}Ichisuke"/>
       <name name="{=6maHAom2}Ichinosuke"/>
       <name name="{=jGDO6UVX}Ichizou"/>
@@ -1183,7 +1030,7 @@
       <name name="{=1jKdOkXK}Denjirou"/>
       <name name="{=oS7aAM2u}Densaburou"/>
       <name name="{=0676hgZd}Dengorou"/>
-      <name name="{=4rt2PIJj}Denjūrou" />
+      <name name="{=4rt2PIJj}Denjūrou"/>
       <name name="{=vrNgITIa}Densuke"/>
       <name name="{=bSnAdlUv}Dennosuke"/>
       <name name="{=n8ygcUdT}Denzou"/>
@@ -1196,10 +1043,10 @@
       <name name="{=3kNHKBLR}Bunjirou"/>
       <name name="{=bxtXeEFE}Bunsaburou"/>
       <name name="{=0iBcR9Oj}Bungorou"/>
-      <name name="{=Fg3jIKFw}Bunjūrou" />
+      <name name="{=Fg3jIKFw}Bunjūrou"/>
       <name name="{=rvIN9ZTT}Bunsuke"/>
       <name name="{=7I5vZfW3}Bunnosuke"/>
-      <name name="{=6wEnMxwM}Bunzou" />
+      <name name="{=6wEnMxwM}Bunzou"/>
       <name name="{=csOTlDG2}Bunnai"/>
       <name name="{=Ild4lSX7}Bunbē"/>
       <name name="{=IhUPTgiY}Bunzaemon"/>
@@ -1224,7 +1071,7 @@
       <name name="{=cPCDrqQ9}Tomojirou"/>
       <name name="{=FrCZl1Kc}Tomosaburou"/>
       <name name="{=aTLCRfbo}Tomogorou"/>
-      <name name="{=VJ8JjKdn}Tomojūrou" />
+      <name name="{=VJ8JjKdn}Tomojūrou"/>
       <name name="{=eybQD7fW}Tomosuke"/>
       <name name="{=ouJSaXMs}Tomonosuke"/>
       <name name="{=5cUv40An}Tomozou"/>
@@ -1235,10 +1082,10 @@
       <name name="{=7Y0EXAUF}Kinjirou"/>
       <name name="{=YscUSvVM}Kinsaburou"/>
       <name name="{=XFTScKgz}Kingorou"/>
-      <name name="{=NGdaEade}Kinjūrou" />
+      <name name="{=NGdaEade}Kinjūrou"/>
       <name name="{=TZ1EuCNG}Kinsuke"/>
       <name name="{=4MflqKiV}Kinnosuke"/>
-      <name name="{=FNMFahJE}Kinzou" />
+      <name name="{=FNMFahJE}Kinzou"/>
       <name name="{=cRihXQNl}Kinbē"/>
       <name name="{=4CONhzCA}Kinzaemon"/>
       <name name="{=96CxYziS}Kin'emon"/>
@@ -1247,7 +1094,7 @@
       <name name="{=a01TqKHx}Kamejirou"/>
       <name name="{=OfQZK6DU}Kamesaburou"/>
       <name name="{=xyMCyFya}Kamegorou"/>
-      <name name="{=4enmAjQG}Kamejūrou" />
+      <name name="{=4enmAjQG}Kamejūrou"/>
       <name name="{=2RTqEBHZ}Kamesuke"/>
       <name name="{=DsdZZ7ls}Kamenosuke"/>
       <name name="{=nhWIvnQN}Kamezou"/>
@@ -1256,7 +1103,7 @@
       <name name="{=kfHjrOIs}Tsurujirou"/>
       <name name="{=5CSrGJfb}Tsurusaburou"/>
       <name name="{=wkcqyrPI}Tsurugorou"/>
-      <name name="{=EugzWPXo}Tsurujūrou" />
+      <name name="{=EugzWPXo}Tsurujūrou"/>
       <name name="{=p0vR6eJa}Tsurusuke"/>
       <name name="{=7N515T5W}Tsurunosuke"/>
       <name name="{=oUA7SxtT}Tsuruzou"/>
@@ -1265,14 +1112,14 @@
       <name name="{=VHEgq8bQ}Sakujirou"/>
       <name name="{=7qfdlqBi}Sakusaburou"/>
       <name name="{=WeUjfIJ1}Sakugorou"/>
-      <name name="{=ZzfKmRnj}Sakujūrou" />
+      <name name="{=ZzfKmRnj}Sakujūrou"/>
       <name name="{=vSeWlxFv}Sakusuke"/>
       <name name="{=PruyWPPU}Sakunosuke"/>
       <name name="{=IqqhbpKT}Sakuzou"/>
       <name name="{=Jts7a19A}Sakubē"/>
       <name name="{=uzEmlox6}Iichirou"/>
       <name name="{=9iBq0QQK}Izaburou"/>
-      <name name="{=2AiJGGSn}Ijūrou" />
+      <name name="{=2AiJGGSn}Ijūrou"/>
       <name name="{=CTOORbUG}Isuke"/>
       <name name="{=jGQAK7wi}Inosuke"/>
       <name name="{=ZzQtwy55}Izou"/>
@@ -1311,7 +1158,7 @@
       <name name="{=G3bhQAAE}Ise"/>
       <name name="{=c7q2fLjb}Iso"/>
       <name name="{=p3I674Qb}Iti"/>
-      <name name="Ito"/>
+      <name name="{=Shokuho6BE7f533}Ito"/>
       <name name="{=B3kJ5DP4}Ina"/>
       <name name="{=soDfj3wG}Ine"/>
       <name name="{=Tz4Dextk}Ino"/>
@@ -1528,7 +1375,6 @@
       <feat id="nankai_militia_production"/>
       <feat id="nankai_villages_production_bonus"/>
       <feat id="nankai_different_culture_debuff"/>
-
     </cultural_feats>
     <possible_clan_banner_icon_ids>
       <icon id="596"/>
@@ -1605,82 +1451,7 @@
       <template name="NPCCharacter.yumi_ashigaru"/>
     </basic_mercenary_troops>
   </Culture>
-
-  <Culture id="sanyo"
-       name="{=NFOJEwiL}San'you"
-       is_main_culture="true"
-       color="0xff6b0b0b"
-       color2="0xffd1d1d1"
-       faction_banner_key="11.163.166.1528.1528.764.764.1.0.0.648.171.171.483.483.764.764.0.0.0"
-       elite_basic_troop="NPCCharacter.sanyo_jizamurai"
-       basic_troop="NPCCharacter.sanyo_militia_peasant"
-       melee_militia_troop="NPCCharacter.yari_ashigaru"
-       ranged_militia_troop="NPCCharacter.yumi_ashigaru"
-       melee_elite_militia_troop="NPCCharacter.trained_yari_ashigaru"
-       ranged_elite_militia_troop="NPCCharacter.trained_yumi_ashigaru"
-       can_have_settlement="true"
-       town_edge_number="16"
-       villager_party_template="PartyTemplate.villager_template"
-       default_party_template="PartyTemplate.kingdom_hero_party_sanyo_template"
-       caravan_party_template="PartyTemplate.caravan_template"
-       elite_caravan_party_template="PartyTemplate.elite_caravan_template"
-       militia_party_template="PartyTemplate.militia_template"
-       rebels_party_template="PartyTemplate.rebels_template"
-       vassal_reward_party_template="PartyTemplate.vassal_reward_troops_sanyo"
-       prosperity_bonus="1"
-       encounter_background_mesh="encounter_sho_lord"
-       default_face_key="0000F80E4000000EB8708BD6CD185229D3F98B3ABDFE344CD22D3D5038898868007776030796723B00000000000000000000000000000000000000003EFC1000"
-       text="{=OOBz6uxY}The San'yo people are native to the westernmost region of Honshu, whose challenging and mountainous terrain has driven them towards the coast, making the San'yo expert sailors who navigate the seas of Japan with ease and great agility. Thanks to their renowned maritime prowess, the San'yo home region has turned into a major trade hub, with large port cities such as Onomichi flourishing and yielding large tax revenues."
-       tournament_master="NPCCharacter.tournament_master_saikai"
-       villager="NPCCharacter.townsman_saikai"
-       caravan_master="NPCCharacter.saikai_mounted_samurai"
-       armed_trader="NPCCharacter.saikai_mounted_samurai"
-       caravan_guard="NPCCharacter.saikai_mounted_samurai"
-       veteran_caravan_guard="NPCCharacter.saikai_mounted_samurai"
-       prison_guard="NPCCharacter.prison_guard_sanyo"
-       guard="NPCCharacter.guard_sanyo"
-       blacksmith="NPCCharacter.blacksmith_saikai"
-       weaponsmith="NPCCharacter.weaponsmith_saikai"
-       townswoman="NPCCharacter.townswoman_saikai"
-       townswoman_infant="NPCCharacter.townswoman_infant_saikai"
-       townswoman_child="NPCCharacter.townswoman_child_saikai"
-       townswoman_teenager="NPCCharacter.townswoman_teenager_saikai"
-       townsman="NPCCharacter.townsman_saikai"
-       townsman_infant="NPCCharacter.townsman_infant_saikai"
-       townsman_child="NPCCharacter.townsman_child_saikai"
-       village_woman="NPCCharacter.townswoman_saikai"
-       villager_male_child="NPCCharacter.townsman_child_saikai"
-       villager_male_teenager="NPCCharacter.townsman_teenager_saikai"
-       villager_female_child="NPCCharacter.townswoman_child_saikai"
-       villager_female_teenager="NPCCharacter.townswoman_teenager_saikai"
-       townsman_teenager="NPCCharacter.townsman_teenager_saikai"
-       ransom_broker="NPCCharacter.ransom_broker_saikai"
-       gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_sanyo"
-       merchant_notary="NPCCharacter.merchant_notary_saikai"
-       artisan_notary="NPCCharacter.townsman_saikai"
-       preacher_notary="NPCCharacter.townsman_saikai"
-       rural_notable_notary="NPCCharacter.townsman_saikai"
-       shop_worker="NPCCharacter.shop_worker_saikai"
-       tavernkeeper="NPCCharacter.tavernkeeper_saikai"
-       taverngamehost="NPCCharacter.taverngamehost_saikai"
-       musician="NPCCharacter.musician_saikai"
-       tavern_wench="NPCCharacter.tavern_wench_saikai"
-       armorer="NPCCharacter.armorer_saikai"
-       horseMerchant="NPCCharacter.horseMerchant_saikai"
-       barber="NPCCharacter.barber_saikai"
-       merchant="NPCCharacter.merchant_saikai"
-       beggar="NPCCharacter.beggar_saikai"
-       female_beggar="NPCCharacter.female_beggar_saikai"
-       female_dancer="NPCCharacter.townswoman_saikai"
-       gear_practice_dummy="NPCCharacter.gear_practice_dummy_sanyo"
-       weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1"
-       weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2"
-       weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3"
-       gear_dummy="NPCCharacter.gear_practice_dummy_sanyo"
-       default_battle_equipment_roster="EquipmentRoster.sanyo_bat_template_medium_male"
-       default_civilian_equipment_roster="EquipmentRoster.sanyo_civ_template_default_male"
-       duel_preset_equipment_roster="EquipmentRoster.npc_armed_wanderer_equipment_template_sanyo"
-       board_game_type="Tablut">
+  <Culture id="sanyo" name="{=NFOJEwiL}San'you" is_main_culture="true" color="0xff6b0b0b" color2="0xffd1d1d1" faction_banner_key="11.163.166.1528.1528.764.764.1.0.0.648.171.171.483.483.764.764.0.0.0" elite_basic_troop="NPCCharacter.sanyo_jizamurai" basic_troop="NPCCharacter.sanyo_militia_peasant" melee_militia_troop="NPCCharacter.yari_ashigaru" ranged_militia_troop="NPCCharacter.yumi_ashigaru" melee_elite_militia_troop="NPCCharacter.trained_yari_ashigaru" ranged_elite_militia_troop="NPCCharacter.trained_yumi_ashigaru" can_have_settlement="true" town_edge_number="16" villager_party_template="PartyTemplate.villager_template" default_party_template="PartyTemplate.kingdom_hero_party_sanyo_template" caravan_party_template="PartyTemplate.caravan_template" elite_caravan_party_template="PartyTemplate.elite_caravan_template" militia_party_template="PartyTemplate.militia_template" rebels_party_template="PartyTemplate.rebels_template" vassal_reward_party_template="PartyTemplate.vassal_reward_troops_sanyo" prosperity_bonus="1" encounter_background_mesh="encounter_sho_lord" default_face_key="0000F80E4000000EB8708BD6CD185229D3F98B3ABDFE344CD22D3D5038898868007776030796723B00000000000000000000000000000000000000003EFC1000" text="{=OOBz6uxY}The San'yo people are native to the westernmost region of Honshu, whose challenging and mountainous terrain has driven them towards the coast, making the San'yo expert sailors who navigate the seas of Japan with ease and great agility. Thanks to their renowned maritime prowess, the San'yo home region has turned into a major trade hub, with large port cities such as Onomichi flourishing and yielding large tax revenues." tournament_master="NPCCharacter.tournament_master_saikai" villager="NPCCharacter.townsman_saikai" caravan_master="NPCCharacter.saikai_mounted_samurai" armed_trader="NPCCharacter.saikai_mounted_samurai" caravan_guard="NPCCharacter.saikai_mounted_samurai" veteran_caravan_guard="NPCCharacter.saikai_mounted_samurai" prison_guard="NPCCharacter.prison_guard_sanyo" guard="NPCCharacter.guard_sanyo" blacksmith="NPCCharacter.blacksmith_saikai" weaponsmith="NPCCharacter.weaponsmith_saikai" townswoman="NPCCharacter.townswoman_saikai" townswoman_infant="NPCCharacter.townswoman_infant_saikai" townswoman_child="NPCCharacter.townswoman_child_saikai" townswoman_teenager="NPCCharacter.townswoman_teenager_saikai" townsman="NPCCharacter.townsman_saikai" townsman_infant="NPCCharacter.townsman_infant_saikai" townsman_child="NPCCharacter.townsman_child_saikai" village_woman="NPCCharacter.townswoman_saikai" villager_male_child="NPCCharacter.townsman_child_saikai" villager_male_teenager="NPCCharacter.townsman_teenager_saikai" villager_female_child="NPCCharacter.townswoman_child_saikai" villager_female_teenager="NPCCharacter.townswoman_teenager_saikai" townsman_teenager="NPCCharacter.townsman_teenager_saikai" ransom_broker="NPCCharacter.ransom_broker_saikai" gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_sanyo" merchant_notary="NPCCharacter.merchant_notary_saikai" artisan_notary="NPCCharacter.townsman_saikai" preacher_notary="NPCCharacter.townsman_saikai" rural_notable_notary="NPCCharacter.townsman_saikai" shop_worker="NPCCharacter.shop_worker_saikai" tavernkeeper="NPCCharacter.tavernkeeper_saikai" taverngamehost="NPCCharacter.taverngamehost_saikai" musician="NPCCharacter.musician_saikai" tavern_wench="NPCCharacter.tavern_wench_saikai" armorer="NPCCharacter.armorer_saikai" horseMerchant="NPCCharacter.horseMerchant_saikai" barber="NPCCharacter.barber_saikai" merchant="NPCCharacter.merchant_saikai" beggar="NPCCharacter.beggar_saikai" female_beggar="NPCCharacter.female_beggar_saikai" female_dancer="NPCCharacter.townswoman_saikai" gear_practice_dummy="NPCCharacter.gear_practice_dummy_sanyo" weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1" weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2" weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3" gear_dummy="NPCCharacter.gear_practice_dummy_sanyo" default_battle_equipment_roster="EquipmentRoster.sanyo_bat_template_medium_male" default_civilian_equipment_roster="EquipmentRoster.sanyo_civ_template_default_male" duel_preset_equipment_roster="EquipmentRoster.npc_armed_wanderer_equipment_template_sanyo" board_game_type="Tablut">
     <vassal_reward_items>
       <item id="Item.sho_tachi_tiger"/>
     </vassal_reward_items>
@@ -1814,7 +1585,7 @@
       <name name="{=7GGb9pks}Matajirou"/>
       <name name="{=Mi6jEdGA}Matasaburou"/>
       <name name="{=50m6bXju}Matagorou"/>
-      <name name="{=HEpg6hFQ}Matajūrou" />
+      <name name="{=HEpg6hFQ}Matajūrou"/>
       <name name="{=EjYlRDvH}Matasuke"/>
       <name name="{=irRONE36}Matanosuke"/>
       <name name="{=XGQmrAxZ}Matakichi"/>
@@ -1827,7 +1598,7 @@
       <name name="{=INK1MJlR}Tokujirou"/>
       <name name="{=jlDVjQnu}Tokusaburou"/>
       <name name="{=HQ7qfRgD}Tokugorou"/>
-      <name name="{=clrovKXi}Tokujūrou" />
+      <name name="{=clrovKXi}Tokujūrou"/>
       <name name="{=FQlRLvY9}Tokusuke"/>
       <name name="{=CCUwTZYL}Tokunosuke"/>
       <name name="{=9qQ9evZv}Tokukichi"/>
@@ -1840,7 +1611,7 @@
       <name name="{=k0kehmUu}Yajirou"/>
       <name name="{=XKMzktuD}Yasaburou"/>
       <name name="{=EfW7Ru9p}Yagorou"/>
-      <name name="{=UUNZapL6}Yajūrou" />
+      <name name="{=UUNZapL6}Yajūrou"/>
       <name name="{=4TAPNSDP}Yasuke"/>
       <name name="{=STLLrKL8}Yanosuke"/>
       <name name="{=fPHEbh56}Yakichi"/>
@@ -1884,7 +1655,7 @@
       <name name="{=bOaRvMKu}Soujirou"/>
       <name name="{=KOYIX6bo}Souzaburou"/>
       <name name="{=hQ8J9ehd}Sougorou"/>
-      <name name="{=WpNXQ2Wg}Soujūrou" />
+      <name name="{=WpNXQ2Wg}Soujūrou"/>
       <name name="{=MSQw9m26}Sousuke"/>
       <name name="{=MSA98yTk}Sounosuke"/>
       <name name="{=BcZmXIib}Soukichi"/>
@@ -1900,7 +1671,7 @@
       <name name="{=1YstbZrT}Jinsuke"/>
       <name name="{=ZUSD95RW}Jinnosuke"/>
       <name name="{=CifluU3w}Jinkichi"/>
-      <name name="{=RtC7Igb8}Jinzou" />
+      <name name="{=RtC7Igb8}Jinzou"/>
       <name name="{=WYjJfaRF}Jinbē"/>
       <name name="{=li6FcW6d}Jinzaemon"/>
       <name name="{=OFRiI1ZH}Jinemon"/>
@@ -1908,7 +1679,7 @@
       <name name="{=qOHD4hmz}Hikojirou"/>
       <name name="{=claatCYX}Hikozaburou"/>
       <name name="{=LVSnchon}Hikogorou"/>
-      <name name="{=Md3I4b9A}Hikojūrou" />
+      <name name="{=Md3I4b9A}Hikojūrou"/>
       <name name="{=NOhSVuEd}Hikosuke"/>
       <name name="{=IyWeSdrc}Hikonosuke"/>
       <name name="{=Wz5ivE3j}Hikozou"/>
@@ -1919,7 +1690,7 @@
       <name name="{=YqIBnGJg}Seijirou"/>
       <name name="{=eZf87dj4}Seizaburou"/>
       <name name="{=CiuuF7Zt}Seigorou"/>
-      <name name="{=Xtf9w0UQ}Seijūrou" />
+      <name name="{=Xtf9w0UQ}Seijūrou"/>
       <name name="{=ryPxfNOi}Seisuke"/>
       <name name="{=OMsFEksS}Seinosuke"/>
       <name name="{=Bt3wxgJc}Seizou"/>
@@ -1930,10 +1701,10 @@
       <name name="{=1XiYQZec}Senjirou"/>
       <name name="{=PHWNIb1U}Senzaburou"/>
       <name name="{=aIRIvtzt}Sengorou"/>
-      <name name="{=jXS4Xyuz}Senjūrou" />
+      <name name="{=jXS4Xyuz}Senjūrou"/>
       <name name="{=wOXwXos9}Sensuke"/>
       <name name="{=o6ipx7CX}Sennosuke"/>
-      <name name="{=GbzQmodT}Senzou" />
+      <name name="{=GbzQmodT}Senzou"/>
       <name name="{=6HSVwyHm}Senbē"/>
       <name name="{=k0QkYUKf}Senzaemon"/>
       <name name="{=HDO43hmP}Senemon"/>
@@ -1941,10 +1712,10 @@
       <name name="{=EaxgVhEA}Manjirou"/>
       <name name="{=oHVTd16T}Manzaburou"/>
       <name name="{=W1f3Xyka}Mangorou"/>
-      <name name="{=KQJB6tIF}Manjūrou" />
+      <name name="{=KQJB6tIF}Manjūrou"/>
       <name name="{=Dgnokr0s}Mansuke"/>
       <name name="{=ZuY3PKvk}Mannosuke"/>
-      <name name="{=2zvbXuvD}Manzou" />
+      <name name="{=2zvbXuvD}Manzou"/>
       <name name="{=DemRvjqX}Manbē"/>
       <name name="{=xqLuC100}Manzaemon"/>
       <name name="{=bKpT7ydh}Manemon"/>
@@ -1952,7 +1723,7 @@
       <name name="{=9YfwfCjt}Koujirou"/>
       <name name="{=OiQWNnCC}Kouzaburou"/>
       <name name="{=alsRXQfE}Kougorou"/>
-      <name name="{=tiQigL4M}Koujūrou" />
+      <name name="{=tiQigL4M}Koujūrou"/>
       <name name="{=5vy1Kcut}Kousuke"/>
       <name name="{=ewIhSqSg}Kounosuke"/>
       <name name="{=uUuyf0oq}Kouzou"/>
@@ -1963,7 +1734,7 @@
       <name name="{=adSaxUtg}Ichijirou"/>
       <name name="{=PHZYnyJG}Ichisaburou"/>
       <name name="{=2Zz5tOGM}Ichigorou"/>
-      <name name="{=UE8Q9iLC}Ichijūrou" />
+      <name name="{=UE8Q9iLC}Ichijūrou"/>
       <name name="{=A38aKm8V}Ichisuke"/>
       <name name="{=6maHAom2}Ichinosuke"/>
       <name name="{=jGDO6UVX}Ichizou"/>
@@ -1975,7 +1746,7 @@
       <name name="{=1jKdOkXK}Denjirou"/>
       <name name="{=oS7aAM2u}Densaburou"/>
       <name name="{=0676hgZd}Dengorou"/>
-      <name name="{=4rt2PIJj}Denjūrou" />
+      <name name="{=4rt2PIJj}Denjūrou"/>
       <name name="{=vrNgITIa}Densuke"/>
       <name name="{=bSnAdlUv}Dennosuke"/>
       <name name="{=n8ygcUdT}Denzou"/>
@@ -1988,10 +1759,10 @@
       <name name="{=3kNHKBLR}Bunjirou"/>
       <name name="{=bxtXeEFE}Bunsaburou"/>
       <name name="{=0iBcR9Oj}Bungorou"/>
-      <name name="{=Fg3jIKFw}Bunjūrou" />
+      <name name="{=Fg3jIKFw}Bunjūrou"/>
       <name name="{=rvIN9ZTT}Bunsuke"/>
       <name name="{=7I5vZfW3}Bunnosuke"/>
-      <name name="{=6wEnMxwM}Bunzou" />
+      <name name="{=6wEnMxwM}Bunzou"/>
       <name name="{=csOTlDG2}Bunnai"/>
       <name name="{=Ild4lSX7}Bunbē"/>
       <name name="{=IhUPTgiY}Bunzaemon"/>
@@ -2016,7 +1787,7 @@
       <name name="{=cPCDrqQ9}Tomojirou"/>
       <name name="{=FrCZl1Kc}Tomosaburou"/>
       <name name="{=aTLCRfbo}Tomogorou"/>
-      <name name="{=VJ8JjKdn}Tomojūrou" />
+      <name name="{=VJ8JjKdn}Tomojūrou"/>
       <name name="{=eybQD7fW}Tomosuke"/>
       <name name="{=ouJSaXMs}Tomonosuke"/>
       <name name="{=5cUv40An}Tomozou"/>
@@ -2027,10 +1798,10 @@
       <name name="{=7Y0EXAUF}Kinjirou"/>
       <name name="{=YscUSvVM}Kinsaburou"/>
       <name name="{=XFTScKgz}Kingorou"/>
-      <name name="{=NGdaEade}Kinjūrou" />
+      <name name="{=NGdaEade}Kinjūrou"/>
       <name name="{=TZ1EuCNG}Kinsuke"/>
       <name name="{=4MflqKiV}Kinnosuke"/>
-      <name name="{=FNMFahJE}Kinzou" />
+      <name name="{=FNMFahJE}Kinzou"/>
       <name name="{=cRihXQNl}Kinbē"/>
       <name name="{=4CONhzCA}Kinzaemon"/>
       <name name="{=96CxYziS}Kin'emon"/>
@@ -2039,7 +1810,7 @@
       <name name="{=a01TqKHx}Kamejirou"/>
       <name name="{=OfQZK6DU}Kamesaburou"/>
       <name name="{=xyMCyFya}Kamegorou"/>
-      <name name="{=4enmAjQG}Kamejūrou" />
+      <name name="{=4enmAjQG}Kamejūrou"/>
       <name name="{=2RTqEBHZ}Kamesuke"/>
       <name name="{=DsdZZ7ls}Kamenosuke"/>
       <name name="{=nhWIvnQN}Kamezou"/>
@@ -2048,7 +1819,7 @@
       <name name="{=kfHjrOIs}Tsurujirou"/>
       <name name="{=5CSrGJfb}Tsurusaburou"/>
       <name name="{=wkcqyrPI}Tsurugorou"/>
-      <name name="{=EugzWPXo}Tsurujūrou" />
+      <name name="{=EugzWPXo}Tsurujūrou"/>
       <name name="{=p0vR6eJa}Tsurusuke"/>
       <name name="{=7N515T5W}Tsurunosuke"/>
       <name name="{=oUA7SxtT}Tsuruzou"/>
@@ -2057,14 +1828,14 @@
       <name name="{=VHEgq8bQ}Sakujirou"/>
       <name name="{=7qfdlqBi}Sakusaburou"/>
       <name name="{=WeUjfIJ1}Sakugorou"/>
-      <name name="{=ZzfKmRnj}Sakujūrou" />
+      <name name="{=ZzfKmRnj}Sakujūrou"/>
       <name name="{=vSeWlxFv}Sakusuke"/>
       <name name="{=PruyWPPU}Sakunosuke"/>
       <name name="{=IqqhbpKT}Sakuzou"/>
       <name name="{=Jts7a19A}Sakubē"/>
       <name name="{=uzEmlox6}Iichirou"/>
       <name name="{=9iBq0QQK}Izaburou"/>
-      <name name="{=2AiJGGSn}Ijūrou" />
+      <name name="{=2AiJGGSn}Ijūrou"/>
       <name name="{=CTOORbUG}Isuke"/>
       <name name="{=jGQAK7wi}Inosuke"/>
       <name name="{=ZzQtwy55}Izou"/>
@@ -2103,7 +1874,7 @@
       <name name="{=G3bhQAAE}Ise"/>
       <name name="{=c7q2fLjb}Iso"/>
       <name name="{=p3I674Qb}Iti"/>
-      <name name="Ito"/>
+      <name name="{=Shokuho6BE7f533}Ito"/>
       <name name="{=B3kJ5DP4}Ina"/>
       <name name="{=soDfj3wG}Ine"/>
       <name name="{=Tz4Dextk}Ino"/>
@@ -2401,81 +2172,7 @@
       <template name="NPCCharacter.yumi_ashigaru"/>
     </basic_mercenary_troops>
   </Culture>
-  <Culture id="kinai"
-       name="{=Rsom7ttN}Kinai"
-       is_main_culture="true"
-       color="0xffcfb12e"
-       color2="0xff070905"
-       faction_banner_key="11.163.166.1528.1528.764.764.1.0.0.670.171.171.483.483.764.764.0.0.0"
-       elite_basic_troop="NPCCharacter.kinai_jizamurai"
-       basic_troop="NPCCharacter.kinai_militia_peasant"
-       melee_militia_troop="NPCCharacter.yari_ashigaru"
-       ranged_militia_troop="NPCCharacter.yumi_ashigaru"
-       melee_elite_militia_troop="NPCCharacter.trained_yari_ashigaru"
-       ranged_elite_militia_troop="NPCCharacter.trained_yumi_ashigaru"
-       can_have_settlement="true"
-       town_edge_number="16"
-       villager_party_template="PartyTemplate.villager_template"
-       default_party_template="PartyTemplate.kingdom_hero_party_kinai_template"
-       caravan_party_template="PartyTemplate.caravan_template"
-       elite_caravan_party_template="PartyTemplate.elite_caravan_template"
-       militia_party_template="PartyTemplate.militia_template"
-       rebels_party_template="PartyTemplate.rebels_template"
-       vassal_reward_party_template="PartyTemplate.vassal_reward_troops_kinai"
-       prosperity_bonus="1"
-       encounter_background_mesh="encounter_sho_lord"
-       default_face_key="0000F80E4000000EB8708BD6CD185229D3F98B3ABDFE344CD22D3D5038898868007776030796723B00000000000000000000000000000000000000003EFC1000"
-       text="{=2FMOGwys}The Kinki people reside in the central part of Honshu representing the cultural, economic, and political heart of Japan. The direct heirs of the potentates who once ruled over the entire country, the Kinki benefit from the power structures left behind by their forebears, making it easier for them to consolidate their control over the different regions of Japan. The poetic tradition that flourished around Kyoto contributes to a growing renown of victorious warlords who emulate the deeds of legendary heroes. Nevertheless, years of armed clashes and political scheming for power make it consistently difficult for the Kinki lords to put aside their differences and unite against a common enemy."
-       tournament_master="NPCCharacter.tournament_master_saikai"
-       villager="NPCCharacter.townsman_saikai"
-       caravan_master="NPCCharacter.saikai_mounted_samurai"
-       armed_trader="NPCCharacter.saikai_mounted_samurai"
-       caravan_guard="NPCCharacter.saikai_mounted_samurai"
-       veteran_caravan_guard="NPCCharacter.saikai_mounted_samurai"
-       prison_guard="NPCCharacter.prison_guard_kinai"
-       guard="NPCCharacter.guard_kinai"
-       blacksmith="NPCCharacter.blacksmith_saikai"
-       weaponsmith="NPCCharacter.weaponsmith_saikai"
-       townswoman="NPCCharacter.townswoman_saikai"
-       townswoman_infant="NPCCharacter.townswoman_infant_saikai"
-       townswoman_child="NPCCharacter.townswoman_child_saikai"
-       townswoman_teenager="NPCCharacter.townswoman_teenager_saikai"
-       townsman="NPCCharacter.townsman_saikai"
-       townsman_infant="NPCCharacter.townsman_infant_saikai"
-       townsman_child="NPCCharacter.townsman_child_saikai"
-       village_woman="NPCCharacter.townswoman_saikai"
-       villager_male_child="NPCCharacter.townsman_child_saikai"
-       villager_male_teenager="NPCCharacter.townsman_teenager_saikai"
-       villager_female_child="NPCCharacter.townswoman_child_saikai"
-       villager_female_teenager="NPCCharacter.townswoman_teenager_saikai"
-       townsman_teenager="NPCCharacter.townsman_teenager_saikai"
-       ransom_broker="NPCCharacter.ransom_broker_saikai"
-       gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_kinai"
-       merchant_notary="NPCCharacter.merchant_notary_saikai"
-       artisan_notary="NPCCharacter.townsman_saikai"
-       preacher_notary="NPCCharacter.townsman_saikai"
-       rural_notable_notary="NPCCharacter.townsman_saikai"
-       shop_worker="NPCCharacter.shop_worker_saikai"
-       tavernkeeper="NPCCharacter.tavernkeeper_saikai"
-       taverngamehost="NPCCharacter.taverngamehost_saikai"
-       musician="NPCCharacter.musician_saikai"
-       tavern_wench="NPCCharacter.tavern_wench_saikai"
-       armorer="NPCCharacter.armorer_saikai"
-       horseMerchant="NPCCharacter.horseMerchant_saikai"
-       barber="NPCCharacter.barber_saikai"
-       merchant="NPCCharacter.merchant_saikai"
-       beggar="NPCCharacter.beggar_saikai"
-       female_beggar="NPCCharacter.female_beggar_saikai"
-       female_dancer="NPCCharacter.townswoman_saikai"
-       gear_practice_dummy="NPCCharacter.gear_practice_dummy_kinai"
-       weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1"
-       weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2"
-       weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3"
-       gear_dummy="NPCCharacter.gear_practice_dummy_kinai"
-       default_battle_equipment_roster="EquipmentRoster.kinai_bat_template_medium_male"
-       default_civilian_equipment_roster="EquipmentRoster.kinai_civ_template_default_male"
-       duel_preset_equipment_roster="EquipmentRoster.npc_armed_wanderer_equipment_template_kinai"
-       board_game_type="Tablut">
+  <Culture id="kinai" name="{=Rsom7ttN}Kinai" is_main_culture="true" color="0xffcfb12e" color2="0xff070905" faction_banner_key="11.163.166.1528.1528.764.764.1.0.0.670.171.171.483.483.764.764.0.0.0" elite_basic_troop="NPCCharacter.kinai_jizamurai" basic_troop="NPCCharacter.kinai_militia_peasant" melee_militia_troop="NPCCharacter.yari_ashigaru" ranged_militia_troop="NPCCharacter.yumi_ashigaru" melee_elite_militia_troop="NPCCharacter.trained_yari_ashigaru" ranged_elite_militia_troop="NPCCharacter.trained_yumi_ashigaru" can_have_settlement="true" town_edge_number="16" villager_party_template="PartyTemplate.villager_template" default_party_template="PartyTemplate.kingdom_hero_party_kinai_template" caravan_party_template="PartyTemplate.caravan_template" elite_caravan_party_template="PartyTemplate.elite_caravan_template" militia_party_template="PartyTemplate.militia_template" rebels_party_template="PartyTemplate.rebels_template" vassal_reward_party_template="PartyTemplate.vassal_reward_troops_kinai" prosperity_bonus="1" encounter_background_mesh="encounter_sho_lord" default_face_key="0000F80E4000000EB8708BD6CD185229D3F98B3ABDFE344CD22D3D5038898868007776030796723B00000000000000000000000000000000000000003EFC1000" text="{=2FMOGwys}The Kinki people reside in the central part of Honshu representing the cultural, economic, and political heart of Japan. The direct heirs of the potentates who once ruled over the entire country, the Kinki benefit from the power structures left behind by their forebears, making it easier for them to consolidate their control over the different regions of Japan. The poetic tradition that flourished around Kyoto contributes to a growing renown of victorious warlords who emulate the deeds of legendary heroes. Nevertheless, years of armed clashes and political scheming for power make it consistently difficult for the Kinki lords to put aside their differences and unite against a common enemy." tournament_master="NPCCharacter.tournament_master_saikai" villager="NPCCharacter.townsman_saikai" caravan_master="NPCCharacter.saikai_mounted_samurai" armed_trader="NPCCharacter.saikai_mounted_samurai" caravan_guard="NPCCharacter.saikai_mounted_samurai" veteran_caravan_guard="NPCCharacter.saikai_mounted_samurai" prison_guard="NPCCharacter.prison_guard_kinai" guard="NPCCharacter.guard_kinai" blacksmith="NPCCharacter.blacksmith_saikai" weaponsmith="NPCCharacter.weaponsmith_saikai" townswoman="NPCCharacter.townswoman_saikai" townswoman_infant="NPCCharacter.townswoman_infant_saikai" townswoman_child="NPCCharacter.townswoman_child_saikai" townswoman_teenager="NPCCharacter.townswoman_teenager_saikai" townsman="NPCCharacter.townsman_saikai" townsman_infant="NPCCharacter.townsman_infant_saikai" townsman_child="NPCCharacter.townsman_child_saikai" village_woman="NPCCharacter.townswoman_saikai" villager_male_child="NPCCharacter.townsman_child_saikai" villager_male_teenager="NPCCharacter.townsman_teenager_saikai" villager_female_child="NPCCharacter.townswoman_child_saikai" villager_female_teenager="NPCCharacter.townswoman_teenager_saikai" townsman_teenager="NPCCharacter.townsman_teenager_saikai" ransom_broker="NPCCharacter.ransom_broker_saikai" gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_kinai" merchant_notary="NPCCharacter.merchant_notary_saikai" artisan_notary="NPCCharacter.townsman_saikai" preacher_notary="NPCCharacter.townsman_saikai" rural_notable_notary="NPCCharacter.townsman_saikai" shop_worker="NPCCharacter.shop_worker_saikai" tavernkeeper="NPCCharacter.tavernkeeper_saikai" taverngamehost="NPCCharacter.taverngamehost_saikai" musician="NPCCharacter.musician_saikai" tavern_wench="NPCCharacter.tavern_wench_saikai" armorer="NPCCharacter.armorer_saikai" horseMerchant="NPCCharacter.horseMerchant_saikai" barber="NPCCharacter.barber_saikai" merchant="NPCCharacter.merchant_saikai" beggar="NPCCharacter.beggar_saikai" female_beggar="NPCCharacter.female_beggar_saikai" female_dancer="NPCCharacter.townswoman_saikai" gear_practice_dummy="NPCCharacter.gear_practice_dummy_kinai" weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1" weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2" weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3" gear_dummy="NPCCharacter.gear_practice_dummy_kinai" default_battle_equipment_roster="EquipmentRoster.kinai_bat_template_medium_male" default_civilian_equipment_roster="EquipmentRoster.kinai_civ_template_default_male" duel_preset_equipment_roster="EquipmentRoster.npc_armed_wanderer_equipment_template_kinai" board_game_type="Tablut">
     <vassal_reward_items>
       <item id="Item.sho_tachi_tiger"/>
     </vassal_reward_items>
@@ -2609,7 +2306,7 @@
       <name name="{=7GGb9pks}Matajirou"/>
       <name name="{=Mi6jEdGA}Matasaburou"/>
       <name name="{=50m6bXju}Matagorou"/>
-      <name name="{=HEpg6hFQ}Matajūrou" />
+      <name name="{=HEpg6hFQ}Matajūrou"/>
       <name name="{=EjYlRDvH}Matasuke"/>
       <name name="{=irRONE36}Matanosuke"/>
       <name name="{=XGQmrAxZ}Matakichi"/>
@@ -2622,7 +2319,7 @@
       <name name="{=INK1MJlR}Tokujirou"/>
       <name name="{=jlDVjQnu}Tokusaburou"/>
       <name name="{=HQ7qfRgD}Tokugorou"/>
-      <name name="{=clrovKXi}Tokujūrou" />
+      <name name="{=clrovKXi}Tokujūrou"/>
       <name name="{=FQlRLvY9}Tokusuke"/>
       <name name="{=CCUwTZYL}Tokunosuke"/>
       <name name="{=9qQ9evZv}Tokukichi"/>
@@ -2635,7 +2332,7 @@
       <name name="{=k0kehmUu}Yajirou"/>
       <name name="{=XKMzktuD}Yasaburou"/>
       <name name="{=EfW7Ru9p}Yagorou"/>
-      <name name="{=UUNZapL6}Yajūrou" />
+      <name name="{=UUNZapL6}Yajūrou"/>
       <name name="{=4TAPNSDP}Yasuke"/>
       <name name="{=STLLrKL8}Yanosuke"/>
       <name name="{=fPHEbh56}Yakichi"/>
@@ -2679,7 +2376,7 @@
       <name name="{=bOaRvMKu}Soujirou"/>
       <name name="{=KOYIX6bo}Souzaburou"/>
       <name name="{=hQ8J9ehd}Sougorou"/>
-      <name name="{=WpNXQ2Wg}Soujūrou" />
+      <name name="{=WpNXQ2Wg}Soujūrou"/>
       <name name="{=MSQw9m26}Sousuke"/>
       <name name="{=MSA98yTk}Sounosuke"/>
       <name name="{=BcZmXIib}Soukichi"/>
@@ -2695,7 +2392,7 @@
       <name name="{=1YstbZrT}Jinsuke"/>
       <name name="{=ZUSD95RW}Jinnosuke"/>
       <name name="{=CifluU3w}Jinkichi"/>
-      <name name="{=RtC7Igb8}Jinzou" />
+      <name name="{=RtC7Igb8}Jinzou"/>
       <name name="{=WYjJfaRF}Jinbē"/>
       <name name="{=li6FcW6d}Jinzaemon"/>
       <name name="{=OFRiI1ZH}Jinemon"/>
@@ -2703,7 +2400,7 @@
       <name name="{=qOHD4hmz}Hikojirou"/>
       <name name="{=claatCYX}Hikozaburou"/>
       <name name="{=LVSnchon}Hikogorou"/>
-      <name name="{=Md3I4b9A}Hikojūrou" />
+      <name name="{=Md3I4b9A}Hikojūrou"/>
       <name name="{=NOhSVuEd}Hikosuke"/>
       <name name="{=IyWeSdrc}Hikonosuke"/>
       <name name="{=Wz5ivE3j}Hikozou"/>
@@ -2714,7 +2411,7 @@
       <name name="{=YqIBnGJg}Seijirou"/>
       <name name="{=eZf87dj4}Seizaburou"/>
       <name name="{=CiuuF7Zt}Seigorou"/>
-      <name name="{=Xtf9w0UQ}Seijūrou" />
+      <name name="{=Xtf9w0UQ}Seijūrou"/>
       <name name="{=ryPxfNOi}Seisuke"/>
       <name name="{=OMsFEksS}Seinosuke"/>
       <name name="{=Bt3wxgJc}Seizou"/>
@@ -2725,10 +2422,10 @@
       <name name="{=1XiYQZec}Senjirou"/>
       <name name="{=PHWNIb1U}Senzaburou"/>
       <name name="{=aIRIvtzt}Sengorou"/>
-      <name name="{=jXS4Xyuz}Senjūrou" />
+      <name name="{=jXS4Xyuz}Senjūrou"/>
       <name name="{=wOXwXos9}Sensuke"/>
       <name name="{=o6ipx7CX}Sennosuke"/>
-      <name name="{=GbzQmodT}Senzou" />
+      <name name="{=GbzQmodT}Senzou"/>
       <name name="{=6HSVwyHm}Senbē"/>
       <name name="{=k0QkYUKf}Senzaemon"/>
       <name name="{=HDO43hmP}Senemon"/>
@@ -2736,10 +2433,10 @@
       <name name="{=EaxgVhEA}Manjirou"/>
       <name name="{=oHVTd16T}Manzaburou"/>
       <name name="{=W1f3Xyka}Mangorou"/>
-      <name name="{=KQJB6tIF}Manjūrou" />
+      <name name="{=KQJB6tIF}Manjūrou"/>
       <name name="{=Dgnokr0s}Mansuke"/>
       <name name="{=ZuY3PKvk}Mannosuke"/>
-      <name name="{=2zvbXuvD}Manzou" />
+      <name name="{=2zvbXuvD}Manzou"/>
       <name name="{=DemRvjqX}Manbē"/>
       <name name="{=xqLuC100}Manzaemon"/>
       <name name="{=bKpT7ydh}Manemon"/>
@@ -2747,7 +2444,7 @@
       <name name="{=9YfwfCjt}Koujirou"/>
       <name name="{=OiQWNnCC}Kouzaburou"/>
       <name name="{=alsRXQfE}Kougorou"/>
-      <name name="{=tiQigL4M}Koujūrou" />
+      <name name="{=tiQigL4M}Koujūrou"/>
       <name name="{=5vy1Kcut}Kousuke"/>
       <name name="{=ewIhSqSg}Kounosuke"/>
       <name name="{=uUuyf0oq}Kouzou"/>
@@ -2758,7 +2455,7 @@
       <name name="{=adSaxUtg}Ichijirou"/>
       <name name="{=PHZYnyJG}Ichisaburou"/>
       <name name="{=2Zz5tOGM}Ichigorou"/>
-      <name name="{=UE8Q9iLC}Ichijūrou" />
+      <name name="{=UE8Q9iLC}Ichijūrou"/>
       <name name="{=A38aKm8V}Ichisuke"/>
       <name name="{=6maHAom2}Ichinosuke"/>
       <name name="{=jGDO6UVX}Ichizou"/>
@@ -2770,7 +2467,7 @@
       <name name="{=1jKdOkXK}Denjirou"/>
       <name name="{=oS7aAM2u}Densaburou"/>
       <name name="{=0676hgZd}Dengorou"/>
-      <name name="{=4rt2PIJj}Denjūrou" />
+      <name name="{=4rt2PIJj}Denjūrou"/>
       <name name="{=vrNgITIa}Densuke"/>
       <name name="{=bSnAdlUv}Dennosuke"/>
       <name name="{=n8ygcUdT}Denzou"/>
@@ -2783,10 +2480,10 @@
       <name name="{=3kNHKBLR}Bunjirou"/>
       <name name="{=bxtXeEFE}Bunsaburou"/>
       <name name="{=0iBcR9Oj}Bungorou"/>
-      <name name="{=Fg3jIKFw}Bunjūrou" />
+      <name name="{=Fg3jIKFw}Bunjūrou"/>
       <name name="{=rvIN9ZTT}Bunsuke"/>
       <name name="{=7I5vZfW3}Bunnosuke"/>
-      <name name="{=6wEnMxwM}Bunzou" />
+      <name name="{=6wEnMxwM}Bunzou"/>
       <name name="{=csOTlDG2}Bunnai"/>
       <name name="{=Ild4lSX7}Bunbē"/>
       <name name="{=IhUPTgiY}Bunzaemon"/>
@@ -2811,7 +2508,7 @@
       <name name="{=cPCDrqQ9}Tomojirou"/>
       <name name="{=FrCZl1Kc}Tomosaburou"/>
       <name name="{=aTLCRfbo}Tomogorou"/>
-      <name name="{=VJ8JjKdn}Tomojūrou" />
+      <name name="{=VJ8JjKdn}Tomojūrou"/>
       <name name="{=eybQD7fW}Tomosuke"/>
       <name name="{=ouJSaXMs}Tomonosuke"/>
       <name name="{=5cUv40An}Tomozou"/>
@@ -2822,10 +2519,10 @@
       <name name="{=7Y0EXAUF}Kinjirou"/>
       <name name="{=YscUSvVM}Kinsaburou"/>
       <name name="{=XFTScKgz}Kingorou"/>
-      <name name="{=NGdaEade}Kinjūrou" />
+      <name name="{=NGdaEade}Kinjūrou"/>
       <name name="{=TZ1EuCNG}Kinsuke"/>
       <name name="{=4MflqKiV}Kinnosuke"/>
-      <name name="{=FNMFahJE}Kinzou" />
+      <name name="{=FNMFahJE}Kinzou"/>
       <name name="{=cRihXQNl}Kinbē"/>
       <name name="{=4CONhzCA}Kinzaemon"/>
       <name name="{=96CxYziS}Kin'emon"/>
@@ -2834,7 +2531,7 @@
       <name name="{=a01TqKHx}Kamejirou"/>
       <name name="{=OfQZK6DU}Kamesaburou"/>
       <name name="{=xyMCyFya}Kamegorou"/>
-      <name name="{=4enmAjQG}Kamejūrou" />
+      <name name="{=4enmAjQG}Kamejūrou"/>
       <name name="{=2RTqEBHZ}Kamesuke"/>
       <name name="{=DsdZZ7ls}Kamenosuke"/>
       <name name="{=nhWIvnQN}Kamezou"/>
@@ -2843,7 +2540,7 @@
       <name name="{=kfHjrOIs}Tsurujirou"/>
       <name name="{=5CSrGJfb}Tsurusaburou"/>
       <name name="{=wkcqyrPI}Tsurugorou"/>
-      <name name="{=EugzWPXo}Tsurujūrou" />
+      <name name="{=EugzWPXo}Tsurujūrou"/>
       <name name="{=p0vR6eJa}Tsurusuke"/>
       <name name="{=7N515T5W}Tsurunosuke"/>
       <name name="{=oUA7SxtT}Tsuruzou"/>
@@ -2852,14 +2549,14 @@
       <name name="{=VHEgq8bQ}Sakujirou"/>
       <name name="{=7qfdlqBi}Sakusaburou"/>
       <name name="{=WeUjfIJ1}Sakugorou"/>
-      <name name="{=ZzfKmRnj}Sakujūrou" />
+      <name name="{=ZzfKmRnj}Sakujūrou"/>
       <name name="{=vSeWlxFv}Sakusuke"/>
       <name name="{=PruyWPPU}Sakunosuke"/>
       <name name="{=IqqhbpKT}Sakuzou"/>
       <name name="{=Jts7a19A}Sakubē"/>
       <name name="{=uzEmlox6}Iichirou"/>
       <name name="{=9iBq0QQK}Izaburou"/>
-      <name name="{=2AiJGGSn}Ijūrou" />
+      <name name="{=2AiJGGSn}Ijūrou"/>
       <name name="{=CTOORbUG}Isuke"/>
       <name name="{=jGQAK7wi}Inosuke"/>
       <name name="{=ZzQtwy55}Izou"/>
@@ -2898,7 +2595,7 @@
       <name name="{=G3bhQAAE}Ise"/>
       <name name="{=c7q2fLjb}Iso"/>
       <name name="{=p3I674Qb}Iti"/>
-      <name name="Ito"/>
+      <name name="{=Shokuho6BE7f533}Ito"/>
       <name name="{=B3kJ5DP4}Ina"/>
       <name name="{=soDfj3wG}Ine"/>
       <name name="{=Tz4Dextk}Ino"/>
@@ -3196,81 +2893,7 @@
       <template name="NPCCharacter.yumi_ashigaru"/>
     </basic_mercenary_troops>
   </Culture>
-  <Culture id="hokuriku"
-       name="{=wIaHKYMr}Hokuriku"
-       is_main_culture="true"
-       color="0xff302a36"
-       color2="0xffa6312b"
-       faction_banner_key="11.163.166.1528.1528.764.764.1.0.0.701.171.171.483.483.764.764.0.0.0"
-       elite_basic_troop="NPCCharacter.hokuriku_jizamurai"
-       basic_troop="NPCCharacter.hokuriku_militia_peasant"
-       melee_militia_troop="NPCCharacter.yari_ashigaru"
-       ranged_militia_troop="NPCCharacter.yumi_ashigaru"
-       melee_elite_militia_troop="NPCCharacter.trained_yari_ashigaru"
-       ranged_elite_militia_troop="NPCCharacter.trained_yumi_ashigaru"
-       can_have_settlement="true"
-       town_edge_number="16"
-       villager_party_template="PartyTemplate.villager_template"
-       default_party_template="PartyTemplate.kingdom_hero_party_hokuriku_template"
-       caravan_party_template="PartyTemplate.caravan_template"
-       elite_caravan_party_template="PartyTemplate.elite_caravan_template"
-       militia_party_template="PartyTemplate.militia_template"
-       rebels_party_template="PartyTemplate.rebels_template"
-       vassal_reward_party_template="PartyTemplate.vassal_reward_troops_hokuriku"
-       prosperity_bonus="1"
-       encounter_background_mesh="encounter_sho_lord"
-       default_face_key="0000F80E4000000EB8708BD6CD185229D3F98B3ABDFE344CD22D3D5038898868007776030796723B00000000000000000000000000000000000000003EFC1000"
-       text="{=vNsphaDa}The Hokuriku people reside in the strategically vital mountain passes and fertile coastal plains of northern Honshu that have long been targeted by neighboring warlords to control their key position. Over time, the Hokuriku have developed exceptional skills in defending their territory, often bolstering their ranks with warrior monks thanks to their proximity to powerful Buddhist temples. However, the internal stability of the region is increasingly threatened by the rise of the Jōdo Shinshū Buddhist sect that is gaining popularity among the Hokuriku and the Ikko Ikki rebels, whose fervor and uprisings challenge the traditional power structures."
-       tournament_master="NPCCharacter.tournament_master_saikai"
-       villager="NPCCharacter.townsman_saikai"
-       caravan_master="NPCCharacter.saikai_mounted_samurai"
-       armed_trader="NPCCharacter.saikai_mounted_samurai"
-       caravan_guard="NPCCharacter.saikai_mounted_samurai"
-       veteran_caravan_guard="NPCCharacter.saikai_mounted_samurai"
-       prison_guard="NPCCharacter.prison_guard_hokuriku"
-       guard="NPCCharacter.guard_hokuriku"
-       blacksmith="NPCCharacter.blacksmith_saikai"
-       weaponsmith="NPCCharacter.weaponsmith_saikai"
-       townswoman="NPCCharacter.townswoman_saikai"
-       townswoman_infant="NPCCharacter.townswoman_infant_saikai"
-       townswoman_child="NPCCharacter.townswoman_child_saikai"
-       townswoman_teenager="NPCCharacter.townswoman_teenager_saikai"
-       townsman="NPCCharacter.townsman_saikai"
-       townsman_infant="NPCCharacter.townsman_infant_saikai"
-       townsman_child="NPCCharacter.townsman_child_saikai"
-       village_woman="NPCCharacter.townswoman_saikai"
-       villager_male_child="NPCCharacter.townsman_child_saikai"
-       villager_male_teenager="NPCCharacter.townsman_teenager_saikai"
-       villager_female_child="NPCCharacter.townswoman_child_saikai"
-       villager_female_teenager="NPCCharacter.townswoman_teenager_saikai"
-       townsman_teenager="NPCCharacter.townsman_teenager_saikai"
-       ransom_broker="NPCCharacter.ransom_broker_saikai"
-       gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_hokuriku"
-       merchant_notary="NPCCharacter.merchant_notary_saikai"
-       artisan_notary="NPCCharacter.townsman_saikai"
-       preacher_notary="NPCCharacter.townsman_saikai"
-       rural_notable_notary="NPCCharacter.townsman_saikai"
-       shop_worker="NPCCharacter.shop_worker_saikai"
-       tavernkeeper="NPCCharacter.tavernkeeper_saikai"
-       taverngamehost="NPCCharacter.taverngamehost_saikai"
-       musician="NPCCharacter.musician_saikai"
-       tavern_wench="NPCCharacter.tavern_wench_saikai"
-       armorer="NPCCharacter.armorer_saikai"
-       horseMerchant="NPCCharacter.horseMerchant_saikai"
-       barber="NPCCharacter.barber_saikai"
-       merchant="NPCCharacter.merchant_saikai"
-       beggar="NPCCharacter.beggar_saikai"
-       female_beggar="NPCCharacter.female_beggar_saikai"
-       female_dancer="NPCCharacter.townswoman_saikai"
-       gear_practice_dummy="NPCCharacter.gear_practice_dummy_hokuriku"
-       weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1"
-       weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2"
-       weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3"
-       gear_dummy="NPCCharacter.gear_practice_dummy_hokuriku"
-       default_battle_equipment_roster="EquipmentRoster.hokuriku_bat_template_medium_male"
-       default_civilian_equipment_roster="EquipmentRoster.hokuriku_civ_template_default_male"
-       duel_preset_equipment_roster="EquipmentRoster.npc_armed_wanderer_equipment_template_hokuriku"
-       board_game_type="Tablut">
+  <Culture id="hokuriku" name="{=wIaHKYMr}Hokuriku" is_main_culture="true" color="0xff302a36" color2="0xffa6312b" faction_banner_key="11.163.166.1528.1528.764.764.1.0.0.701.171.171.483.483.764.764.0.0.0" elite_basic_troop="NPCCharacter.hokuriku_jizamurai" basic_troop="NPCCharacter.hokuriku_militia_peasant" melee_militia_troop="NPCCharacter.yari_ashigaru" ranged_militia_troop="NPCCharacter.yumi_ashigaru" melee_elite_militia_troop="NPCCharacter.trained_yari_ashigaru" ranged_elite_militia_troop="NPCCharacter.trained_yumi_ashigaru" can_have_settlement="true" town_edge_number="16" villager_party_template="PartyTemplate.villager_template" default_party_template="PartyTemplate.kingdom_hero_party_hokuriku_template" caravan_party_template="PartyTemplate.caravan_template" elite_caravan_party_template="PartyTemplate.elite_caravan_template" militia_party_template="PartyTemplate.militia_template" rebels_party_template="PartyTemplate.rebels_template" vassal_reward_party_template="PartyTemplate.vassal_reward_troops_hokuriku" prosperity_bonus="1" encounter_background_mesh="encounter_sho_lord" default_face_key="0000F80E4000000EB8708BD6CD185229D3F98B3ABDFE344CD22D3D5038898868007776030796723B00000000000000000000000000000000000000003EFC1000" text="{=vNsphaDa}The Hokuriku people reside in the strategically vital mountain passes and fertile coastal plains of northern Honshu that have long been targeted by neighboring warlords to control their key position. Over time, the Hokuriku have developed exceptional skills in defending their territory, often bolstering their ranks with warrior monks thanks to their proximity to powerful Buddhist temples. However, the internal stability of the region is increasingly threatened by the rise of the Jōdo Shinshū Buddhist sect that is gaining popularity among the Hokuriku and the Ikko Ikki rebels, whose fervor and uprisings challenge the traditional power structures." tournament_master="NPCCharacter.tournament_master_saikai" villager="NPCCharacter.townsman_saikai" caravan_master="NPCCharacter.saikai_mounted_samurai" armed_trader="NPCCharacter.saikai_mounted_samurai" caravan_guard="NPCCharacter.saikai_mounted_samurai" veteran_caravan_guard="NPCCharacter.saikai_mounted_samurai" prison_guard="NPCCharacter.prison_guard_hokuriku" guard="NPCCharacter.guard_hokuriku" blacksmith="NPCCharacter.blacksmith_saikai" weaponsmith="NPCCharacter.weaponsmith_saikai" townswoman="NPCCharacter.townswoman_saikai" townswoman_infant="NPCCharacter.townswoman_infant_saikai" townswoman_child="NPCCharacter.townswoman_child_saikai" townswoman_teenager="NPCCharacter.townswoman_teenager_saikai" townsman="NPCCharacter.townsman_saikai" townsman_infant="NPCCharacter.townsman_infant_saikai" townsman_child="NPCCharacter.townsman_child_saikai" village_woman="NPCCharacter.townswoman_saikai" villager_male_child="NPCCharacter.townsman_child_saikai" villager_male_teenager="NPCCharacter.townsman_teenager_saikai" villager_female_child="NPCCharacter.townswoman_child_saikai" villager_female_teenager="NPCCharacter.townswoman_teenager_saikai" townsman_teenager="NPCCharacter.townsman_teenager_saikai" ransom_broker="NPCCharacter.ransom_broker_saikai" gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_hokuriku" merchant_notary="NPCCharacter.merchant_notary_saikai" artisan_notary="NPCCharacter.townsman_saikai" preacher_notary="NPCCharacter.townsman_saikai" rural_notable_notary="NPCCharacter.townsman_saikai" shop_worker="NPCCharacter.shop_worker_saikai" tavernkeeper="NPCCharacter.tavernkeeper_saikai" taverngamehost="NPCCharacter.taverngamehost_saikai" musician="NPCCharacter.musician_saikai" tavern_wench="NPCCharacter.tavern_wench_saikai" armorer="NPCCharacter.armorer_saikai" horseMerchant="NPCCharacter.horseMerchant_saikai" barber="NPCCharacter.barber_saikai" merchant="NPCCharacter.merchant_saikai" beggar="NPCCharacter.beggar_saikai" female_beggar="NPCCharacter.female_beggar_saikai" female_dancer="NPCCharacter.townswoman_saikai" gear_practice_dummy="NPCCharacter.gear_practice_dummy_hokuriku" weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1" weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2" weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3" gear_dummy="NPCCharacter.gear_practice_dummy_hokuriku" default_battle_equipment_roster="EquipmentRoster.hokuriku_bat_template_medium_male" default_civilian_equipment_roster="EquipmentRoster.hokuriku_civ_template_default_male" duel_preset_equipment_roster="EquipmentRoster.npc_armed_wanderer_equipment_template_hokuriku" board_game_type="Tablut">
     <vassal_reward_items>
       <item id="Item.sho_tachi_tiger"/>
     </vassal_reward_items>
@@ -3404,7 +3027,7 @@
       <name name="{=7GGb9pks}Matajirou"/>
       <name name="{=Mi6jEdGA}Matasaburou"/>
       <name name="{=50m6bXju}Matagorou"/>
-      <name name="{=HEpg6hFQ}Matajūrou" />
+      <name name="{=HEpg6hFQ}Matajūrou"/>
       <name name="{=EjYlRDvH}Matasuke"/>
       <name name="{=irRONE36}Matanosuke"/>
       <name name="{=XGQmrAxZ}Matakichi"/>
@@ -3417,7 +3040,7 @@
       <name name="{=INK1MJlR}Tokujirou"/>
       <name name="{=jlDVjQnu}Tokusaburou"/>
       <name name="{=HQ7qfRgD}Tokugorou"/>
-      <name name="{=clrovKXi}Tokujūrou" />
+      <name name="{=clrovKXi}Tokujūrou"/>
       <name name="{=FQlRLvY9}Tokusuke"/>
       <name name="{=CCUwTZYL}Tokunosuke"/>
       <name name="{=9qQ9evZv}Tokukichi"/>
@@ -3430,7 +3053,7 @@
       <name name="{=k0kehmUu}Yajirou"/>
       <name name="{=XKMzktuD}Yasaburou"/>
       <name name="{=EfW7Ru9p}Yagorou"/>
-      <name name="{=UUNZapL6}Yajūrou" />
+      <name name="{=UUNZapL6}Yajūrou"/>
       <name name="{=4TAPNSDP}Yasuke"/>
       <name name="{=STLLrKL8}Yanosuke"/>
       <name name="{=fPHEbh56}Yakichi"/>
@@ -3474,7 +3097,7 @@
       <name name="{=bOaRvMKu}Soujirou"/>
       <name name="{=KOYIX6bo}Souzaburou"/>
       <name name="{=hQ8J9ehd}Sougorou"/>
-      <name name="{=WpNXQ2Wg}Soujūrou" />
+      <name name="{=WpNXQ2Wg}Soujūrou"/>
       <name name="{=MSQw9m26}Sousuke"/>
       <name name="{=MSA98yTk}Sounosuke"/>
       <name name="{=BcZmXIib}Soukichi"/>
@@ -3490,7 +3113,7 @@
       <name name="{=1YstbZrT}Jinsuke"/>
       <name name="{=ZUSD95RW}Jinnosuke"/>
       <name name="{=CifluU3w}Jinkichi"/>
-      <name name="{=RtC7Igb8}Jinzou" />
+      <name name="{=RtC7Igb8}Jinzou"/>
       <name name="{=WYjJfaRF}Jinbē"/>
       <name name="{=li6FcW6d}Jinzaemon"/>
       <name name="{=OFRiI1ZH}Jinemon"/>
@@ -3498,7 +3121,7 @@
       <name name="{=qOHD4hmz}Hikojirou"/>
       <name name="{=claatCYX}Hikozaburou"/>
       <name name="{=LVSnchon}Hikogorou"/>
-      <name name="{=Md3I4b9A}Hikojūrou" />
+      <name name="{=Md3I4b9A}Hikojūrou"/>
       <name name="{=NOhSVuEd}Hikosuke"/>
       <name name="{=IyWeSdrc}Hikonosuke"/>
       <name name="{=Wz5ivE3j}Hikozou"/>
@@ -3509,7 +3132,7 @@
       <name name="{=YqIBnGJg}Seijirou"/>
       <name name="{=eZf87dj4}Seizaburou"/>
       <name name="{=CiuuF7Zt}Seigorou"/>
-      <name name="{=Xtf9w0UQ}Seijūrou" />
+      <name name="{=Xtf9w0UQ}Seijūrou"/>
       <name name="{=ryPxfNOi}Seisuke"/>
       <name name="{=OMsFEksS}Seinosuke"/>
       <name name="{=Bt3wxgJc}Seizou"/>
@@ -3520,10 +3143,10 @@
       <name name="{=1XiYQZec}Senjirou"/>
       <name name="{=PHWNIb1U}Senzaburou"/>
       <name name="{=aIRIvtzt}Sengorou"/>
-      <name name="{=jXS4Xyuz}Senjūrou" />
+      <name name="{=jXS4Xyuz}Senjūrou"/>
       <name name="{=wOXwXos9}Sensuke"/>
       <name name="{=o6ipx7CX}Sennosuke"/>
-      <name name="{=GbzQmodT}Senzou" />
+      <name name="{=GbzQmodT}Senzou"/>
       <name name="{=6HSVwyHm}Senbē"/>
       <name name="{=k0QkYUKf}Senzaemon"/>
       <name name="{=HDO43hmP}Senemon"/>
@@ -3531,10 +3154,10 @@
       <name name="{=EaxgVhEA}Manjirou"/>
       <name name="{=oHVTd16T}Manzaburou"/>
       <name name="{=W1f3Xyka}Mangorou"/>
-      <name name="{=KQJB6tIF}Manjūrou" />
+      <name name="{=KQJB6tIF}Manjūrou"/>
       <name name="{=Dgnokr0s}Mansuke"/>
       <name name="{=ZuY3PKvk}Mannosuke"/>
-      <name name="{=2zvbXuvD}Manzou" />
+      <name name="{=2zvbXuvD}Manzou"/>
       <name name="{=DemRvjqX}Manbē"/>
       <name name="{=xqLuC100}Manzaemon"/>
       <name name="{=bKpT7ydh}Manemon"/>
@@ -3542,7 +3165,7 @@
       <name name="{=9YfwfCjt}Koujirou"/>
       <name name="{=OiQWNnCC}Kouzaburou"/>
       <name name="{=alsRXQfE}Kougorou"/>
-      <name name="{=tiQigL4M}Koujūrou" />
+      <name name="{=tiQigL4M}Koujūrou"/>
       <name name="{=5vy1Kcut}Kousuke"/>
       <name name="{=ewIhSqSg}Kounosuke"/>
       <name name="{=uUuyf0oq}Kouzou"/>
@@ -3553,7 +3176,7 @@
       <name name="{=adSaxUtg}Ichijirou"/>
       <name name="{=PHZYnyJG}Ichisaburou"/>
       <name name="{=2Zz5tOGM}Ichigorou"/>
-      <name name="{=UE8Q9iLC}Ichijūrou" />
+      <name name="{=UE8Q9iLC}Ichijūrou"/>
       <name name="{=A38aKm8V}Ichisuke"/>
       <name name="{=6maHAom2}Ichinosuke"/>
       <name name="{=jGDO6UVX}Ichizou"/>
@@ -3565,7 +3188,7 @@
       <name name="{=1jKdOkXK}Denjirou"/>
       <name name="{=oS7aAM2u}Densaburou"/>
       <name name="{=0676hgZd}Dengorou"/>
-      <name name="{=4rt2PIJj}Denjūrou" />
+      <name name="{=4rt2PIJj}Denjūrou"/>
       <name name="{=vrNgITIa}Densuke"/>
       <name name="{=bSnAdlUv}Dennosuke"/>
       <name name="{=n8ygcUdT}Denzou"/>
@@ -3578,10 +3201,10 @@
       <name name="{=3kNHKBLR}Bunjirou"/>
       <name name="{=bxtXeEFE}Bunsaburou"/>
       <name name="{=0iBcR9Oj}Bungorou"/>
-      <name name="{=Fg3jIKFw}Bunjūrou" />
+      <name name="{=Fg3jIKFw}Bunjūrou"/>
       <name name="{=rvIN9ZTT}Bunsuke"/>
       <name name="{=7I5vZfW3}Bunnosuke"/>
-      <name name="{=6wEnMxwM}Bunzou" />
+      <name name="{=6wEnMxwM}Bunzou"/>
       <name name="{=csOTlDG2}Bunnai"/>
       <name name="{=Ild4lSX7}Bunbē"/>
       <name name="{=IhUPTgiY}Bunzaemon"/>
@@ -3606,7 +3229,7 @@
       <name name="{=cPCDrqQ9}Tomojirou"/>
       <name name="{=FrCZl1Kc}Tomosaburou"/>
       <name name="{=aTLCRfbo}Tomogorou"/>
-      <name name="{=VJ8JjKdn}Tomojūrou" />
+      <name name="{=VJ8JjKdn}Tomojūrou"/>
       <name name="{=eybQD7fW}Tomosuke"/>
       <name name="{=ouJSaXMs}Tomonosuke"/>
       <name name="{=5cUv40An}Tomozou"/>
@@ -3617,10 +3240,10 @@
       <name name="{=7Y0EXAUF}Kinjirou"/>
       <name name="{=YscUSvVM}Kinsaburou"/>
       <name name="{=XFTScKgz}Kingorou"/>
-      <name name="{=NGdaEade}Kinjūrou" />
+      <name name="{=NGdaEade}Kinjūrou"/>
       <name name="{=TZ1EuCNG}Kinsuke"/>
       <name name="{=4MflqKiV}Kinnosuke"/>
-      <name name="{=FNMFahJE}Kinzou" />
+      <name name="{=FNMFahJE}Kinzou"/>
       <name name="{=cRihXQNl}Kinbē"/>
       <name name="{=4CONhzCA}Kinzaemon"/>
       <name name="{=96CxYziS}Kin'emon"/>
@@ -3629,7 +3252,7 @@
       <name name="{=a01TqKHx}Kamejirou"/>
       <name name="{=OfQZK6DU}Kamesaburou"/>
       <name name="{=xyMCyFya}Kamegorou"/>
-      <name name="{=4enmAjQG}Kamejūrou" />
+      <name name="{=4enmAjQG}Kamejūrou"/>
       <name name="{=2RTqEBHZ}Kamesuke"/>
       <name name="{=DsdZZ7ls}Kamenosuke"/>
       <name name="{=nhWIvnQN}Kamezou"/>
@@ -3638,7 +3261,7 @@
       <name name="{=kfHjrOIs}Tsurujirou"/>
       <name name="{=5CSrGJfb}Tsurusaburou"/>
       <name name="{=wkcqyrPI}Tsurugorou"/>
-      <name name="{=EugzWPXo}Tsurujūrou" />
+      <name name="{=EugzWPXo}Tsurujūrou"/>
       <name name="{=p0vR6eJa}Tsurusuke"/>
       <name name="{=7N515T5W}Tsurunosuke"/>
       <name name="{=oUA7SxtT}Tsuruzou"/>
@@ -3647,14 +3270,14 @@
       <name name="{=VHEgq8bQ}Sakujirou"/>
       <name name="{=7qfdlqBi}Sakusaburou"/>
       <name name="{=WeUjfIJ1}Sakugorou"/>
-      <name name="{=ZzfKmRnj}Sakujūrou" />
+      <name name="{=ZzfKmRnj}Sakujūrou"/>
       <name name="{=vSeWlxFv}Sakusuke"/>
       <name name="{=PruyWPPU}Sakunosuke"/>
       <name name="{=IqqhbpKT}Sakuzou"/>
       <name name="{=Jts7a19A}Sakubē"/>
       <name name="{=uzEmlox6}Iichirou"/>
       <name name="{=9iBq0QQK}Izaburou"/>
-      <name name="{=2AiJGGSn}Ijūrou" />
+      <name name="{=2AiJGGSn}Ijūrou"/>
       <name name="{=CTOORbUG}Isuke"/>
       <name name="{=jGQAK7wi}Inosuke"/>
       <name name="{=ZzQtwy55}Izou"/>
@@ -3693,7 +3316,7 @@
       <name name="{=G3bhQAAE}Ise"/>
       <name name="{=c7q2fLjb}Iso"/>
       <name name="{=p3I674Qb}Iti"/>
-      <name name="Ito"/>
+      <name name="{=Shokuho6BE7f533}Ito"/>
       <name name="{=B3kJ5DP4}Ina"/>
       <name name="{=soDfj3wG}Ine"/>
       <name name="{=Tz4Dextk}Ino"/>
@@ -3991,81 +3614,7 @@
       <template name="NPCCharacter.yumi_ashigaru"/>
     </basic_mercenary_troops>
   </Culture>
-  <Culture id="tosan"
-       name="{=Z1qR2REA}Tousan"
-       is_main_culture="true"
-       color="0xff7b0a06"
-       color2="0xff010300"
-       faction_banner_key="11.163.166.1528.1528.764.764.1.0.0.710.171.171.483.483.764.764.0.0.0"
-       elite_basic_troop="NPCCharacter.tosan_jizamurai"
-       basic_troop="NPCCharacter.tosan_militia_peasant"
-       melee_militia_troop="NPCCharacter.yari_ashigaru"
-       ranged_militia_troop="NPCCharacter.yumi_ashigaru"
-       melee_elite_militia_troop="NPCCharacter.trained_yari_ashigaru"
-       ranged_elite_militia_troop="NPCCharacter.trained_yumi_ashigaru"
-       can_have_settlement="true"
-       town_edge_number="16"
-       villager_party_template="PartyTemplate.villager_template"
-       default_party_template="PartyTemplate.kingdom_hero_party_tosan_template"
-       caravan_party_template="PartyTemplate.caravan_template"
-       elite_caravan_party_template="PartyTemplate.elite_caravan_template"
-       militia_party_template="PartyTemplate.militia_template"
-       rebels_party_template="PartyTemplate.rebels_template"
-       vassal_reward_party_template="PartyTemplate.vassal_reward_troops_tosan"
-       prosperity_bonus="1"
-       encounter_background_mesh="encounter_sho_lord"
-       default_face_key="0000F80E4000000EB8708BD6CD185229D3F98B3ABDFE344CD22D3D5038898868007776030796723B00000000000000000000000000000000000000003EFC1000"
-       text="{=Sux6Gaed}The people of Tousan reside in a region characterized by rugged mountainous terrain, which almost completely cuts off the local communities from the rest of the country, who have long become self-sufficient in order to survive the harsh climate. The Tousan have mastered the adverse terrain they traverse with surprising ease to reach timber and mineral deposits, and have developed a subsistence economy around the villages in the fertile valleys that allows them to sustain minimal growth and some excellences such as the renowned horses of the Kiso Valley."
-       tournament_master="NPCCharacter.tournament_master_saikai"
-       villager="NPCCharacter.townsman_saikai"
-       caravan_master="NPCCharacter.saikai_mounted_samurai"
-       armed_trader="NPCCharacter.saikai_mounted_samurai"
-       caravan_guard="NPCCharacter.saikai_mounted_samurai"
-       veteran_caravan_guard="NPCCharacter.saikai_mounted_samurai"
-       prison_guard="NPCCharacter.prison_guard_tosan"
-       guard="NPCCharacter.guard_tosan"
-       blacksmith="NPCCharacter.blacksmith_saikai"
-       weaponsmith="NPCCharacter.weaponsmith_saikai"
-       townswoman="NPCCharacter.townswoman_saikai"
-       townswoman_infant="NPCCharacter.townswoman_infant_saikai"
-       townswoman_child="NPCCharacter.townswoman_child_saikai"
-       townswoman_teenager="NPCCharacter.townswoman_teenager_saikai"
-       townsman="NPCCharacter.townsman_saikai"
-       townsman_infant="NPCCharacter.townsman_infant_saikai"
-       townsman_child="NPCCharacter.townsman_child_saikai"
-       village_woman="NPCCharacter.townswoman_saikai"
-       villager_male_child="NPCCharacter.townsman_child_saikai"
-       villager_male_teenager="NPCCharacter.townsman_teenager_saikai"
-       villager_female_child="NPCCharacter.townswoman_child_saikai"
-       villager_female_teenager="NPCCharacter.townswoman_teenager_saikai"
-       townsman_teenager="NPCCharacter.townsman_teenager_saikai"
-       ransom_broker="NPCCharacter.ransom_broker_saikai"
-       gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_tosan"
-       merchant_notary="NPCCharacter.merchant_notary_saikai"
-       artisan_notary="NPCCharacter.townsman_saikai"
-       preacher_notary="NPCCharacter.townsman_saikai"
-       rural_notable_notary="NPCCharacter.townsman_saikai"
-       shop_worker="NPCCharacter.shop_worker_saikai"
-       tavernkeeper="NPCCharacter.tavernkeeper_saikai"
-       taverngamehost="NPCCharacter.taverngamehost_saikai"
-       musician="NPCCharacter.musician_saikai"
-       tavern_wench="NPCCharacter.tavern_wench_saikai"
-       armorer="NPCCharacter.armorer_saikai"
-       horseMerchant="NPCCharacter.horseMerchant_saikai"
-       barber="NPCCharacter.barber_saikai"
-       merchant="NPCCharacter.merchant_saikai"
-       beggar="NPCCharacter.beggar_saikai"
-       female_beggar="NPCCharacter.female_beggar_saikai"
-       female_dancer="NPCCharacter.townswoman_saikai"
-       gear_practice_dummy="NPCCharacter.gear_practice_dummy_tosan"
-       weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1"
-       weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2"
-       weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3"
-       gear_dummy="NPCCharacter.gear_practice_dummy_tosan"
-       default_battle_equipment_roster="EquipmentRoster.tosan_bat_template_medium_male"
-       default_civilian_equipment_roster="EquipmentRoster.tosan_civ_template_default_male"
-       duel_preset_equipment_roster="EquipmentRoster.npc_armed_wanderer_equipment_template_tosan"
-       board_game_type="Tablut">
+  <Culture id="tosan" name="{=Z1qR2REA}Tousan" is_main_culture="true" color="0xff7b0a06" color2="0xff010300" faction_banner_key="11.163.166.1528.1528.764.764.1.0.0.710.171.171.483.483.764.764.0.0.0" elite_basic_troop="NPCCharacter.tosan_jizamurai" basic_troop="NPCCharacter.tosan_militia_peasant" melee_militia_troop="NPCCharacter.yari_ashigaru" ranged_militia_troop="NPCCharacter.yumi_ashigaru" melee_elite_militia_troop="NPCCharacter.trained_yari_ashigaru" ranged_elite_militia_troop="NPCCharacter.trained_yumi_ashigaru" can_have_settlement="true" town_edge_number="16" villager_party_template="PartyTemplate.villager_template" default_party_template="PartyTemplate.kingdom_hero_party_tosan_template" caravan_party_template="PartyTemplate.caravan_template" elite_caravan_party_template="PartyTemplate.elite_caravan_template" militia_party_template="PartyTemplate.militia_template" rebels_party_template="PartyTemplate.rebels_template" vassal_reward_party_template="PartyTemplate.vassal_reward_troops_tosan" prosperity_bonus="1" encounter_background_mesh="encounter_sho_lord" default_face_key="0000F80E4000000EB8708BD6CD185229D3F98B3ABDFE344CD22D3D5038898868007776030796723B00000000000000000000000000000000000000003EFC1000" text="{=Sux6Gaed}The people of Tousan reside in a region characterized by rugged mountainous terrain, which almost completely cuts off the local communities from the rest of the country, who have long become self-sufficient in order to survive the harsh climate. The Tousan have mastered the adverse terrain they traverse with surprising ease to reach timber and mineral deposits, and have developed a subsistence economy around the villages in the fertile valleys that allows them to sustain minimal growth and some excellences such as the renowned horses of the Kiso Valley." tournament_master="NPCCharacter.tournament_master_saikai" villager="NPCCharacter.townsman_saikai" caravan_master="NPCCharacter.saikai_mounted_samurai" armed_trader="NPCCharacter.saikai_mounted_samurai" caravan_guard="NPCCharacter.saikai_mounted_samurai" veteran_caravan_guard="NPCCharacter.saikai_mounted_samurai" prison_guard="NPCCharacter.prison_guard_tosan" guard="NPCCharacter.guard_tosan" blacksmith="NPCCharacter.blacksmith_saikai" weaponsmith="NPCCharacter.weaponsmith_saikai" townswoman="NPCCharacter.townswoman_saikai" townswoman_infant="NPCCharacter.townswoman_infant_saikai" townswoman_child="NPCCharacter.townswoman_child_saikai" townswoman_teenager="NPCCharacter.townswoman_teenager_saikai" townsman="NPCCharacter.townsman_saikai" townsman_infant="NPCCharacter.townsman_infant_saikai" townsman_child="NPCCharacter.townsman_child_saikai" village_woman="NPCCharacter.townswoman_saikai" villager_male_child="NPCCharacter.townsman_child_saikai" villager_male_teenager="NPCCharacter.townsman_teenager_saikai" villager_female_child="NPCCharacter.townswoman_child_saikai" villager_female_teenager="NPCCharacter.townswoman_teenager_saikai" townsman_teenager="NPCCharacter.townsman_teenager_saikai" ransom_broker="NPCCharacter.ransom_broker_saikai" gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_tosan" merchant_notary="NPCCharacter.merchant_notary_saikai" artisan_notary="NPCCharacter.townsman_saikai" preacher_notary="NPCCharacter.townsman_saikai" rural_notable_notary="NPCCharacter.townsman_saikai" shop_worker="NPCCharacter.shop_worker_saikai" tavernkeeper="NPCCharacter.tavernkeeper_saikai" taverngamehost="NPCCharacter.taverngamehost_saikai" musician="NPCCharacter.musician_saikai" tavern_wench="NPCCharacter.tavern_wench_saikai" armorer="NPCCharacter.armorer_saikai" horseMerchant="NPCCharacter.horseMerchant_saikai" barber="NPCCharacter.barber_saikai" merchant="NPCCharacter.merchant_saikai" beggar="NPCCharacter.beggar_saikai" female_beggar="NPCCharacter.female_beggar_saikai" female_dancer="NPCCharacter.townswoman_saikai" gear_practice_dummy="NPCCharacter.gear_practice_dummy_tosan" weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1" weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2" weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3" gear_dummy="NPCCharacter.gear_practice_dummy_tosan" default_battle_equipment_roster="EquipmentRoster.tosan_bat_template_medium_male" default_civilian_equipment_roster="EquipmentRoster.tosan_civ_template_default_male" duel_preset_equipment_roster="EquipmentRoster.npc_armed_wanderer_equipment_template_tosan" board_game_type="Tablut">
     <vassal_reward_items>
       <item id="Item.sho_tachi_tiger"/>
     </vassal_reward_items>
@@ -4199,7 +3748,7 @@
       <name name="{=7GGb9pks}Matajirou"/>
       <name name="{=Mi6jEdGA}Matasaburou"/>
       <name name="{=50m6bXju}Matagorou"/>
-      <name name="{=HEpg6hFQ}Matajūrou" />
+      <name name="{=HEpg6hFQ}Matajūrou"/>
       <name name="{=EjYlRDvH}Matasuke"/>
       <name name="{=irRONE36}Matanosuke"/>
       <name name="{=XGQmrAxZ}Matakichi"/>
@@ -4212,7 +3761,7 @@
       <name name="{=INK1MJlR}Tokujirou"/>
       <name name="{=jlDVjQnu}Tokusaburou"/>
       <name name="{=HQ7qfRgD}Tokugorou"/>
-      <name name="{=clrovKXi}Tokujūrou" />
+      <name name="{=clrovKXi}Tokujūrou"/>
       <name name="{=FQlRLvY9}Tokusuke"/>
       <name name="{=CCUwTZYL}Tokunosuke"/>
       <name name="{=9qQ9evZv}Tokukichi"/>
@@ -4225,7 +3774,7 @@
       <name name="{=k0kehmUu}Yajirou"/>
       <name name="{=XKMzktuD}Yasaburou"/>
       <name name="{=EfW7Ru9p}Yagorou"/>
-      <name name="{=UUNZapL6}Yajūrou" />
+      <name name="{=UUNZapL6}Yajūrou"/>
       <name name="{=4TAPNSDP}Yasuke"/>
       <name name="{=STLLrKL8}Yanosuke"/>
       <name name="{=fPHEbh56}Yakichi"/>
@@ -4269,7 +3818,7 @@
       <name name="{=bOaRvMKu}Soujirou"/>
       <name name="{=KOYIX6bo}Souzaburou"/>
       <name name="{=hQ8J9ehd}Sougorou"/>
-      <name name="{=WpNXQ2Wg}Soujūrou" />
+      <name name="{=WpNXQ2Wg}Soujūrou"/>
       <name name="{=MSQw9m26}Sousuke"/>
       <name name="{=MSA98yTk}Sounosuke"/>
       <name name="{=BcZmXIib}Soukichi"/>
@@ -4285,7 +3834,7 @@
       <name name="{=1YstbZrT}Jinsuke"/>
       <name name="{=ZUSD95RW}Jinnosuke"/>
       <name name="{=CifluU3w}Jinkichi"/>
-      <name name="{=RtC7Igb8}Jinzou" />
+      <name name="{=RtC7Igb8}Jinzou"/>
       <name name="{=WYjJfaRF}Jinbē"/>
       <name name="{=li6FcW6d}Jinzaemon"/>
       <name name="{=OFRiI1ZH}Jinemon"/>
@@ -4293,7 +3842,7 @@
       <name name="{=qOHD4hmz}Hikojirou"/>
       <name name="{=claatCYX}Hikozaburou"/>
       <name name="{=LVSnchon}Hikogorou"/>
-      <name name="{=Md3I4b9A}Hikojūrou" />
+      <name name="{=Md3I4b9A}Hikojūrou"/>
       <name name="{=NOhSVuEd}Hikosuke"/>
       <name name="{=IyWeSdrc}Hikonosuke"/>
       <name name="{=Wz5ivE3j}Hikozou"/>
@@ -4304,7 +3853,7 @@
       <name name="{=YqIBnGJg}Seijirou"/>
       <name name="{=eZf87dj4}Seizaburou"/>
       <name name="{=CiuuF7Zt}Seigorou"/>
-      <name name="{=Xtf9w0UQ}Seijūrou" />
+      <name name="{=Xtf9w0UQ}Seijūrou"/>
       <name name="{=ryPxfNOi}Seisuke"/>
       <name name="{=OMsFEksS}Seinosuke"/>
       <name name="{=Bt3wxgJc}Seizou"/>
@@ -4315,10 +3864,10 @@
       <name name="{=1XiYQZec}Senjirou"/>
       <name name="{=PHWNIb1U}Senzaburou"/>
       <name name="{=aIRIvtzt}Sengorou"/>
-      <name name="{=jXS4Xyuz}Senjūrou" />
+      <name name="{=jXS4Xyuz}Senjūrou"/>
       <name name="{=wOXwXos9}Sensuke"/>
       <name name="{=o6ipx7CX}Sennosuke"/>
-      <name name="{=GbzQmodT}Senzou" />
+      <name name="{=GbzQmodT}Senzou"/>
       <name name="{=6HSVwyHm}Senbē"/>
       <name name="{=k0QkYUKf}Senzaemon"/>
       <name name="{=HDO43hmP}Senemon"/>
@@ -4326,10 +3875,10 @@
       <name name="{=EaxgVhEA}Manjirou"/>
       <name name="{=oHVTd16T}Manzaburou"/>
       <name name="{=W1f3Xyka}Mangorou"/>
-      <name name="{=KQJB6tIF}Manjūrou" />
+      <name name="{=KQJB6tIF}Manjūrou"/>
       <name name="{=Dgnokr0s}Mansuke"/>
       <name name="{=ZuY3PKvk}Mannosuke"/>
-      <name name="{=2zvbXuvD}Manzou" />
+      <name name="{=2zvbXuvD}Manzou"/>
       <name name="{=DemRvjqX}Manbē"/>
       <name name="{=xqLuC100}Manzaemon"/>
       <name name="{=bKpT7ydh}Manemon"/>
@@ -4337,7 +3886,7 @@
       <name name="{=9YfwfCjt}Koujirou"/>
       <name name="{=OiQWNnCC}Kouzaburou"/>
       <name name="{=alsRXQfE}Kougorou"/>
-      <name name="{=tiQigL4M}Koujūrou" />
+      <name name="{=tiQigL4M}Koujūrou"/>
       <name name="{=5vy1Kcut}Kousuke"/>
       <name name="{=ewIhSqSg}Kounosuke"/>
       <name name="{=uUuyf0oq}Kouzou"/>
@@ -4348,7 +3897,7 @@
       <name name="{=adSaxUtg}Ichijirou"/>
       <name name="{=PHZYnyJG}Ichisaburou"/>
       <name name="{=2Zz5tOGM}Ichigorou"/>
-      <name name="{=UE8Q9iLC}Ichijūrou" />
+      <name name="{=UE8Q9iLC}Ichijūrou"/>
       <name name="{=A38aKm8V}Ichisuke"/>
       <name name="{=6maHAom2}Ichinosuke"/>
       <name name="{=jGDO6UVX}Ichizou"/>
@@ -4360,7 +3909,7 @@
       <name name="{=1jKdOkXK}Denjirou"/>
       <name name="{=oS7aAM2u}Densaburou"/>
       <name name="{=0676hgZd}Dengorou"/>
-      <name name="{=4rt2PIJj}Denjūrou" />
+      <name name="{=4rt2PIJj}Denjūrou"/>
       <name name="{=vrNgITIa}Densuke"/>
       <name name="{=bSnAdlUv}Dennosuke"/>
       <name name="{=n8ygcUdT}Denzou"/>
@@ -4373,10 +3922,10 @@
       <name name="{=3kNHKBLR}Bunjirou"/>
       <name name="{=bxtXeEFE}Bunsaburou"/>
       <name name="{=0iBcR9Oj}Bungorou"/>
-      <name name="{=Fg3jIKFw}Bunjūrou" />
+      <name name="{=Fg3jIKFw}Bunjūrou"/>
       <name name="{=rvIN9ZTT}Bunsuke"/>
       <name name="{=7I5vZfW3}Bunnosuke"/>
-      <name name="{=6wEnMxwM}Bunzou" />
+      <name name="{=6wEnMxwM}Bunzou"/>
       <name name="{=csOTlDG2}Bunnai"/>
       <name name="{=Ild4lSX7}Bunbē"/>
       <name name="{=IhUPTgiY}Bunzaemon"/>
@@ -4401,7 +3950,7 @@
       <name name="{=cPCDrqQ9}Tomojirou"/>
       <name name="{=FrCZl1Kc}Tomosaburou"/>
       <name name="{=aTLCRfbo}Tomogorou"/>
-      <name name="{=VJ8JjKdn}Tomojūrou" />
+      <name name="{=VJ8JjKdn}Tomojūrou"/>
       <name name="{=eybQD7fW}Tomosuke"/>
       <name name="{=ouJSaXMs}Tomonosuke"/>
       <name name="{=5cUv40An}Tomozou"/>
@@ -4412,10 +3961,10 @@
       <name name="{=7Y0EXAUF}Kinjirou"/>
       <name name="{=YscUSvVM}Kinsaburou"/>
       <name name="{=XFTScKgz}Kingorou"/>
-      <name name="{=NGdaEade}Kinjūrou" />
+      <name name="{=NGdaEade}Kinjūrou"/>
       <name name="{=TZ1EuCNG}Kinsuke"/>
       <name name="{=4MflqKiV}Kinnosuke"/>
-      <name name="{=FNMFahJE}Kinzou" />
+      <name name="{=FNMFahJE}Kinzou"/>
       <name name="{=cRihXQNl}Kinbē"/>
       <name name="{=4CONhzCA}Kinzaemon"/>
       <name name="{=96CxYziS}Kin'emon"/>
@@ -4424,7 +3973,7 @@
       <name name="{=a01TqKHx}Kamejirou"/>
       <name name="{=OfQZK6DU}Kamesaburou"/>
       <name name="{=xyMCyFya}Kamegorou"/>
-      <name name="{=4enmAjQG}Kamejūrou" />
+      <name name="{=4enmAjQG}Kamejūrou"/>
       <name name="{=2RTqEBHZ}Kamesuke"/>
       <name name="{=DsdZZ7ls}Kamenosuke"/>
       <name name="{=nhWIvnQN}Kamezou"/>
@@ -4433,7 +3982,7 @@
       <name name="{=kfHjrOIs}Tsurujirou"/>
       <name name="{=5CSrGJfb}Tsurusaburou"/>
       <name name="{=wkcqyrPI}Tsurugorou"/>
-      <name name="{=EugzWPXo}Tsurujūrou" />
+      <name name="{=EugzWPXo}Tsurujūrou"/>
       <name name="{=p0vR6eJa}Tsurusuke"/>
       <name name="{=7N515T5W}Tsurunosuke"/>
       <name name="{=oUA7SxtT}Tsuruzou"/>
@@ -4442,14 +3991,14 @@
       <name name="{=VHEgq8bQ}Sakujirou"/>
       <name name="{=7qfdlqBi}Sakusaburou"/>
       <name name="{=WeUjfIJ1}Sakugorou"/>
-      <name name="{=ZzfKmRnj}Sakujūrou" />
+      <name name="{=ZzfKmRnj}Sakujūrou"/>
       <name name="{=vSeWlxFv}Sakusuke"/>
       <name name="{=PruyWPPU}Sakunosuke"/>
       <name name="{=IqqhbpKT}Sakuzou"/>
       <name name="{=Jts7a19A}Sakubē"/>
       <name name="{=uzEmlox6}Iichirou"/>
       <name name="{=9iBq0QQK}Izaburou"/>
-      <name name="{=2AiJGGSn}Ijūrou" />
+      <name name="{=2AiJGGSn}Ijūrou"/>
       <name name="{=CTOORbUG}Isuke"/>
       <name name="{=jGQAK7wi}Inosuke"/>
       <name name="{=ZzQtwy55}Izou"/>
@@ -4488,7 +4037,7 @@
       <name name="{=G3bhQAAE}Ise"/>
       <name name="{=c7q2fLjb}Iso"/>
       <name name="{=p3I674Qb}Iti"/>
-      <name name="Ito"/>
+      <name name="{=Shokuho6BE7f533}Ito"/>
       <name name="{=B3kJ5DP4}Ina"/>
       <name name="{=soDfj3wG}Ine"/>
       <name name="{=Tz4Dextk}Ino"/>
@@ -4710,7 +4259,6 @@
       <feat id="tosan_terrain_speed"/>
       <feat id="tosan_villages_production_bonus"/>
       <feat id="tosan_slower_hearth_production"/>
-
     </cultural_feats>
     <possible_clan_banner_icon_ids>
       <icon id="596"/>
@@ -4787,81 +4335,7 @@
       <template name="NPCCharacter.yumi_ashigaru"/>
     </basic_mercenary_troops>
   </Culture>
-  <Culture id="tokai"
-       name="{=701yWNGe}Toukai"
-       is_main_culture="true"
-       color="0xffd1d1d1"
-       color2="0xffd48916"
-       faction_banner_key="11.163.166.1528.1528.764.764.1.0.0.695.171.171.483.483.764.764.0.0.0"
-       elite_basic_troop="NPCCharacter.tokai_hatamoto"
-       basic_troop="NPCCharacter.tokai_militia_peasant"
-       melee_militia_troop="NPCCharacter.yari_ashigaru"
-       ranged_militia_troop="NPCCharacter.yumi_ashigaru"
-       melee_elite_militia_troop="NPCCharacter.trained_yari_ashigaru"
-       ranged_elite_militia_troop="NPCCharacter.trained_yumi_ashigaru"
-       can_have_settlement="true"
-       town_edge_number="16"
-       villager_party_template="PartyTemplate.villager_template"
-       default_party_template="PartyTemplate.kingdom_hero_party_tokai_template"
-       caravan_party_template="PartyTemplate.caravan_template"
-       elite_caravan_party_template="PartyTemplate.elite_caravan_template"
-       militia_party_template="PartyTemplate.militia_template"
-       rebels_party_template="PartyTemplate.rebels_template"
-       vassal_reward_party_template="PartyTemplate.vassal_reward_troops_tokai"
-       prosperity_bonus="1"
-       encounter_background_mesh="encounter_sho_lord"
-       default_face_key="0000F80E4000000EB8708BD6CD185229D3F98B3ABDFE344CD22D3D5038898868007776030796723B00000000000000000000000000000000000000003EFC1000"
-       text="{=PJnJuW3o}The Toukai people hail from the fertile lowlands and coastlines of central-southern Honshu, which serves as the ideal boundary between west and east of the country. This has led the Toukai to develop a highly rural society based around sprawling village communities, while urban centers are limited to relatively small settlements unable to compete with the thriving towns of the rest of Japan. Despite the seemingly idyllic setting, such a strategic position makes the region a target for ambitious neighbours, and the Toukai have learnt the imperative of remaining united in arms in the face of external threats much longer than most normally would."
-       tournament_master="NPCCharacter.tournament_master_saikai"
-       villager="NPCCharacter.townsman_saikai"
-       caravan_master="NPCCharacter.saikai_mounted_samurai"
-       armed_trader="NPCCharacter.saikai_mounted_samurai"
-       caravan_guard="NPCCharacter.saikai_mounted_samurai"
-       veteran_caravan_guard="NPCCharacter.saikai_mounted_samurai"
-       prison_guard="NPCCharacter.prison_guard_tokai"
-       guard="NPCCharacter.guard_tokai"
-       blacksmith="NPCCharacter.blacksmith_saikai"
-       weaponsmith="NPCCharacter.weaponsmith_saikai"
-       townswoman="NPCCharacter.townswoman_saikai"
-       townswoman_infant="NPCCharacter.townswoman_infant_saikai"
-       townswoman_child="NPCCharacter.townswoman_child_saikai"
-       townswoman_teenager="NPCCharacter.townswoman_teenager_saikai"
-       townsman="NPCCharacter.townsman_saikai"
-       townsman_infant="NPCCharacter.townsman_infant_saikai"
-       townsman_child="NPCCharacter.townsman_child_saikai"
-       village_woman="NPCCharacter.townswoman_saikai"
-       villager_male_child="NPCCharacter.townsman_child_saikai"
-       villager_male_teenager="NPCCharacter.townsman_teenager_saikai"
-       villager_female_child="NPCCharacter.townswoman_child_saikai"
-       villager_female_teenager="NPCCharacter.townswoman_teenager_saikai"
-       townsman_teenager="NPCCharacter.townsman_teenager_saikai"
-       ransom_broker="NPCCharacter.ransom_broker_saikai"
-       gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_tokai"
-       merchant_notary="NPCCharacter.merchant_notary_saikai"
-       artisan_notary="NPCCharacter.townsman_saikai"
-       preacher_notary="NPCCharacter.townsman_saikai"
-       rural_notable_notary="NPCCharacter.townsman_saikai"
-       shop_worker="NPCCharacter.shop_worker_saikai"
-       tavernkeeper="NPCCharacter.tavernkeeper_saikai"
-       taverngamehost="NPCCharacter.taverngamehost_saikai"
-       musician="NPCCharacter.musician_saikai"
-       tavern_wench="NPCCharacter.tavern_wench_saikai"
-       armorer="NPCCharacter.armorer_saikai"
-       horseMerchant="NPCCharacter.horseMerchant_saikai"
-       barber="NPCCharacter.barber_saikai"
-       merchant="NPCCharacter.merchant_saikai"
-       beggar="NPCCharacter.beggar_saikai"
-       female_beggar="NPCCharacter.female_beggar_saikai"
-       female_dancer="NPCCharacter.townswoman_saikai"
-       gear_practice_dummy="NPCCharacter.gear_practice_dummy_tokai"
-       weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1"
-       weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2"
-       weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3"
-       gear_dummy="NPCCharacter.gear_practice_dummy_tokai"
-       default_battle_equipment_roster="EquipmentRoster.tokai_bat_template_medium_male"
-       default_civilian_equipment_roster="EquipmentRoster.tokai_civ_template_default_male"
-       duel_preset_equipment_roster="EquipmentRoster.npc_armed_wanderer_equipment_template_tokai"
-       board_game_type="Tablut">
+  <Culture id="tokai" name="{=701yWNGe}Toukai" is_main_culture="true" color="0xffd1d1d1" color2="0xffd48916" faction_banner_key="11.163.166.1528.1528.764.764.1.0.0.695.171.171.483.483.764.764.0.0.0" elite_basic_troop="NPCCharacter.tokai_hatamoto" basic_troop="NPCCharacter.tokai_militia_peasant" melee_militia_troop="NPCCharacter.yari_ashigaru" ranged_militia_troop="NPCCharacter.yumi_ashigaru" melee_elite_militia_troop="NPCCharacter.trained_yari_ashigaru" ranged_elite_militia_troop="NPCCharacter.trained_yumi_ashigaru" can_have_settlement="true" town_edge_number="16" villager_party_template="PartyTemplate.villager_template" default_party_template="PartyTemplate.kingdom_hero_party_tokai_template" caravan_party_template="PartyTemplate.caravan_template" elite_caravan_party_template="PartyTemplate.elite_caravan_template" militia_party_template="PartyTemplate.militia_template" rebels_party_template="PartyTemplate.rebels_template" vassal_reward_party_template="PartyTemplate.vassal_reward_troops_tokai" prosperity_bonus="1" encounter_background_mesh="encounter_sho_lord" default_face_key="0000F80E4000000EB8708BD6CD185229D3F98B3ABDFE344CD22D3D5038898868007776030796723B00000000000000000000000000000000000000003EFC1000" text="{=PJnJuW3o}The Toukai people hail from the fertile lowlands and coastlines of central-southern Honshu, which serves as the ideal boundary between west and east of the country. This has led the Toukai to develop a highly rural society based around sprawling village communities, while urban centers are limited to relatively small settlements unable to compete with the thriving towns of the rest of Japan. Despite the seemingly idyllic setting, such a strategic position makes the region a target for ambitious neighbours, and the Toukai have learnt the imperative of remaining united in arms in the face of external threats much longer than most normally would." tournament_master="NPCCharacter.tournament_master_saikai" villager="NPCCharacter.townsman_saikai" caravan_master="NPCCharacter.saikai_mounted_samurai" armed_trader="NPCCharacter.saikai_mounted_samurai" caravan_guard="NPCCharacter.saikai_mounted_samurai" veteran_caravan_guard="NPCCharacter.saikai_mounted_samurai" prison_guard="NPCCharacter.prison_guard_tokai" guard="NPCCharacter.guard_tokai" blacksmith="NPCCharacter.blacksmith_saikai" weaponsmith="NPCCharacter.weaponsmith_saikai" townswoman="NPCCharacter.townswoman_saikai" townswoman_infant="NPCCharacter.townswoman_infant_saikai" townswoman_child="NPCCharacter.townswoman_child_saikai" townswoman_teenager="NPCCharacter.townswoman_teenager_saikai" townsman="NPCCharacter.townsman_saikai" townsman_infant="NPCCharacter.townsman_infant_saikai" townsman_child="NPCCharacter.townsman_child_saikai" village_woman="NPCCharacter.townswoman_saikai" villager_male_child="NPCCharacter.townsman_child_saikai" villager_male_teenager="NPCCharacter.townsman_teenager_saikai" villager_female_child="NPCCharacter.townswoman_child_saikai" villager_female_teenager="NPCCharacter.townswoman_teenager_saikai" townsman_teenager="NPCCharacter.townsman_teenager_saikai" ransom_broker="NPCCharacter.ransom_broker_saikai" gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_tokai" merchant_notary="NPCCharacter.merchant_notary_saikai" artisan_notary="NPCCharacter.townsman_saikai" preacher_notary="NPCCharacter.townsman_saikai" rural_notable_notary="NPCCharacter.townsman_saikai" shop_worker="NPCCharacter.shop_worker_saikai" tavernkeeper="NPCCharacter.tavernkeeper_saikai" taverngamehost="NPCCharacter.taverngamehost_saikai" musician="NPCCharacter.musician_saikai" tavern_wench="NPCCharacter.tavern_wench_saikai" armorer="NPCCharacter.armorer_saikai" horseMerchant="NPCCharacter.horseMerchant_saikai" barber="NPCCharacter.barber_saikai" merchant="NPCCharacter.merchant_saikai" beggar="NPCCharacter.beggar_saikai" female_beggar="NPCCharacter.female_beggar_saikai" female_dancer="NPCCharacter.townswoman_saikai" gear_practice_dummy="NPCCharacter.gear_practice_dummy_tokai" weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1" weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2" weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3" gear_dummy="NPCCharacter.gear_practice_dummy_tokai" default_battle_equipment_roster="EquipmentRoster.tokai_bat_template_medium_male" default_civilian_equipment_roster="EquipmentRoster.tokai_civ_template_default_male" duel_preset_equipment_roster="EquipmentRoster.npc_armed_wanderer_equipment_template_tokai" board_game_type="Tablut">
     <vassal_reward_items>
       <item id="Item.sho_tachi_tiger"/>
     </vassal_reward_items>
@@ -4995,7 +4469,7 @@
       <name name="{=7GGb9pks}Matajirou"/>
       <name name="{=Mi6jEdGA}Matasaburou"/>
       <name name="{=50m6bXju}Matagorou"/>
-      <name name="{=HEpg6hFQ}Matajūrou" />
+      <name name="{=HEpg6hFQ}Matajūrou"/>
       <name name="{=EjYlRDvH}Matasuke"/>
       <name name="{=irRONE36}Matanosuke"/>
       <name name="{=XGQmrAxZ}Matakichi"/>
@@ -5008,7 +4482,7 @@
       <name name="{=INK1MJlR}Tokujirou"/>
       <name name="{=jlDVjQnu}Tokusaburou"/>
       <name name="{=HQ7qfRgD}Tokugorou"/>
-      <name name="{=clrovKXi}Tokujūrou" />
+      <name name="{=clrovKXi}Tokujūrou"/>
       <name name="{=FQlRLvY9}Tokusuke"/>
       <name name="{=CCUwTZYL}Tokunosuke"/>
       <name name="{=9qQ9evZv}Tokukichi"/>
@@ -5021,7 +4495,7 @@
       <name name="{=k0kehmUu}Yajirou"/>
       <name name="{=XKMzktuD}Yasaburou"/>
       <name name="{=EfW7Ru9p}Yagorou"/>
-      <name name="{=UUNZapL6}Yajūrou" />
+      <name name="{=UUNZapL6}Yajūrou"/>
       <name name="{=4TAPNSDP}Yasuke"/>
       <name name="{=STLLrKL8}Yanosuke"/>
       <name name="{=fPHEbh56}Yakichi"/>
@@ -5065,7 +4539,7 @@
       <name name="{=bOaRvMKu}Soujirou"/>
       <name name="{=KOYIX6bo}Souzaburou"/>
       <name name="{=hQ8J9ehd}Sougorou"/>
-      <name name="{=WpNXQ2Wg}Soujūrou" />
+      <name name="{=WpNXQ2Wg}Soujūrou"/>
       <name name="{=MSQw9m26}Sousuke"/>
       <name name="{=MSA98yTk}Sounosuke"/>
       <name name="{=BcZmXIib}Soukichi"/>
@@ -5081,7 +4555,7 @@
       <name name="{=1YstbZrT}Jinsuke"/>
       <name name="{=ZUSD95RW}Jinnosuke"/>
       <name name="{=CifluU3w}Jinkichi"/>
-      <name name="{=RtC7Igb8}Jinzou" />
+      <name name="{=RtC7Igb8}Jinzou"/>
       <name name="{=WYjJfaRF}Jinbē"/>
       <name name="{=li6FcW6d}Jinzaemon"/>
       <name name="{=OFRiI1ZH}Jinemon"/>
@@ -5089,7 +4563,7 @@
       <name name="{=qOHD4hmz}Hikojirou"/>
       <name name="{=claatCYX}Hikozaburou"/>
       <name name="{=LVSnchon}Hikogorou"/>
-      <name name="{=Md3I4b9A}Hikojūrou" />
+      <name name="{=Md3I4b9A}Hikojūrou"/>
       <name name="{=NOhSVuEd}Hikosuke"/>
       <name name="{=IyWeSdrc}Hikonosuke"/>
       <name name="{=Wz5ivE3j}Hikozou"/>
@@ -5100,7 +4574,7 @@
       <name name="{=YqIBnGJg}Seijirou"/>
       <name name="{=eZf87dj4}Seizaburou"/>
       <name name="{=CiuuF7Zt}Seigorou"/>
-      <name name="{=Xtf9w0UQ}Seijūrou" />
+      <name name="{=Xtf9w0UQ}Seijūrou"/>
       <name name="{=ryPxfNOi}Seisuke"/>
       <name name="{=OMsFEksS}Seinosuke"/>
       <name name="{=Bt3wxgJc}Seizou"/>
@@ -5111,10 +4585,10 @@
       <name name="{=1XiYQZec}Senjirou"/>
       <name name="{=PHWNIb1U}Senzaburou"/>
       <name name="{=aIRIvtzt}Sengorou"/>
-      <name name="{=jXS4Xyuz}Senjūrou" />
+      <name name="{=jXS4Xyuz}Senjūrou"/>
       <name name="{=wOXwXos9}Sensuke"/>
       <name name="{=o6ipx7CX}Sennosuke"/>
-      <name name="{=GbzQmodT}Senzou" />
+      <name name="{=GbzQmodT}Senzou"/>
       <name name="{=6HSVwyHm}Senbē"/>
       <name name="{=k0QkYUKf}Senzaemon"/>
       <name name="{=HDO43hmP}Senemon"/>
@@ -5122,10 +4596,10 @@
       <name name="{=EaxgVhEA}Manjirou"/>
       <name name="{=oHVTd16T}Manzaburou"/>
       <name name="{=W1f3Xyka}Mangorou"/>
-      <name name="{=KQJB6tIF}Manjūrou" />
+      <name name="{=KQJB6tIF}Manjūrou"/>
       <name name="{=Dgnokr0s}Mansuke"/>
       <name name="{=ZuY3PKvk}Mannosuke"/>
-      <name name="{=2zvbXuvD}Manzou" />
+      <name name="{=2zvbXuvD}Manzou"/>
       <name name="{=DemRvjqX}Manbē"/>
       <name name="{=xqLuC100}Manzaemon"/>
       <name name="{=bKpT7ydh}Manemon"/>
@@ -5133,7 +4607,7 @@
       <name name="{=9YfwfCjt}Koujirou"/>
       <name name="{=OiQWNnCC}Kouzaburou"/>
       <name name="{=alsRXQfE}Kougorou"/>
-      <name name="{=tiQigL4M}Koujūrou" />
+      <name name="{=tiQigL4M}Koujūrou"/>
       <name name="{=5vy1Kcut}Kousuke"/>
       <name name="{=ewIhSqSg}Kounosuke"/>
       <name name="{=uUuyf0oq}Kouzou"/>
@@ -5144,7 +4618,7 @@
       <name name="{=adSaxUtg}Ichijirou"/>
       <name name="{=PHZYnyJG}Ichisaburou"/>
       <name name="{=2Zz5tOGM}Ichigorou"/>
-      <name name="{=UE8Q9iLC}Ichijūrou" />
+      <name name="{=UE8Q9iLC}Ichijūrou"/>
       <name name="{=A38aKm8V}Ichisuke"/>
       <name name="{=6maHAom2}Ichinosuke"/>
       <name name="{=jGDO6UVX}Ichizou"/>
@@ -5156,7 +4630,7 @@
       <name name="{=1jKdOkXK}Denjirou"/>
       <name name="{=oS7aAM2u}Densaburou"/>
       <name name="{=0676hgZd}Dengorou"/>
-      <name name="{=4rt2PIJj}Denjūrou" />
+      <name name="{=4rt2PIJj}Denjūrou"/>
       <name name="{=vrNgITIa}Densuke"/>
       <name name="{=bSnAdlUv}Dennosuke"/>
       <name name="{=n8ygcUdT}Denzou"/>
@@ -5169,10 +4643,10 @@
       <name name="{=3kNHKBLR}Bunjirou"/>
       <name name="{=bxtXeEFE}Bunsaburou"/>
       <name name="{=0iBcR9Oj}Bungorou"/>
-      <name name="{=Fg3jIKFw}Bunjūrou" />
+      <name name="{=Fg3jIKFw}Bunjūrou"/>
       <name name="{=rvIN9ZTT}Bunsuke"/>
       <name name="{=7I5vZfW3}Bunnosuke"/>
-      <name name="{=6wEnMxwM}Bunzou" />
+      <name name="{=6wEnMxwM}Bunzou"/>
       <name name="{=csOTlDG2}Bunnai"/>
       <name name="{=Ild4lSX7}Bunbē"/>
       <name name="{=IhUPTgiY}Bunzaemon"/>
@@ -5197,7 +4671,7 @@
       <name name="{=cPCDrqQ9}Tomojirou"/>
       <name name="{=FrCZl1Kc}Tomosaburou"/>
       <name name="{=aTLCRfbo}Tomogorou"/>
-      <name name="{=VJ8JjKdn}Tomojūrou" />
+      <name name="{=VJ8JjKdn}Tomojūrou"/>
       <name name="{=eybQD7fW}Tomosuke"/>
       <name name="{=ouJSaXMs}Tomonosuke"/>
       <name name="{=5cUv40An}Tomozou"/>
@@ -5208,10 +4682,10 @@
       <name name="{=7Y0EXAUF}Kinjirou"/>
       <name name="{=YscUSvVM}Kinsaburou"/>
       <name name="{=XFTScKgz}Kingorou"/>
-      <name name="{=NGdaEade}Kinjūrou" />
+      <name name="{=NGdaEade}Kinjūrou"/>
       <name name="{=TZ1EuCNG}Kinsuke"/>
       <name name="{=4MflqKiV}Kinnosuke"/>
-      <name name="{=FNMFahJE}Kinzou" />
+      <name name="{=FNMFahJE}Kinzou"/>
       <name name="{=cRihXQNl}Kinbē"/>
       <name name="{=4CONhzCA}Kinzaemon"/>
       <name name="{=96CxYziS}Kin'emon"/>
@@ -5220,7 +4694,7 @@
       <name name="{=a01TqKHx}Kamejirou"/>
       <name name="{=OfQZK6DU}Kamesaburou"/>
       <name name="{=xyMCyFya}Kamegorou"/>
-      <name name="{=4enmAjQG}Kamejūrou" />
+      <name name="{=4enmAjQG}Kamejūrou"/>
       <name name="{=2RTqEBHZ}Kamesuke"/>
       <name name="{=DsdZZ7ls}Kamenosuke"/>
       <name name="{=nhWIvnQN}Kamezou"/>
@@ -5229,7 +4703,7 @@
       <name name="{=kfHjrOIs}Tsurujirou"/>
       <name name="{=5CSrGJfb}Tsurusaburou"/>
       <name name="{=wkcqyrPI}Tsurugorou"/>
-      <name name="{=EugzWPXo}Tsurujūrou" />
+      <name name="{=EugzWPXo}Tsurujūrou"/>
       <name name="{=p0vR6eJa}Tsurusuke"/>
       <name name="{=7N515T5W}Tsurunosuke"/>
       <name name="{=oUA7SxtT}Tsuruzou"/>
@@ -5238,14 +4712,14 @@
       <name name="{=VHEgq8bQ}Sakujirou"/>
       <name name="{=7qfdlqBi}Sakusaburou"/>
       <name name="{=WeUjfIJ1}Sakugorou"/>
-      <name name="{=ZzfKmRnj}Sakujūrou" />
+      <name name="{=ZzfKmRnj}Sakujūrou"/>
       <name name="{=vSeWlxFv}Sakusuke"/>
       <name name="{=PruyWPPU}Sakunosuke"/>
       <name name="{=IqqhbpKT}Sakuzou"/>
       <name name="{=Jts7a19A}Sakubē"/>
       <name name="{=uzEmlox6}Iichirou"/>
       <name name="{=9iBq0QQK}Izaburou"/>
-      <name name="{=2AiJGGSn}Ijūrou" />
+      <name name="{=2AiJGGSn}Ijūrou"/>
       <name name="{=CTOORbUG}Isuke"/>
       <name name="{=jGQAK7wi}Inosuke"/>
       <name name="{=ZzQtwy55}Izou"/>
@@ -5284,7 +4758,7 @@
       <name name="{=G3bhQAAE}Ise"/>
       <name name="{=c7q2fLjb}Iso"/>
       <name name="{=p3I674Qb}Iti"/>
-      <name name="Ito"/>
+      <name name="{=Shokuho6BE7f533}Ito"/>
       <name name="{=B3kJ5DP4}Ina"/>
       <name name="{=soDfj3wG}Ine"/>
       <name name="{=Tz4Dextk}Ino"/>
@@ -5582,81 +5056,7 @@
       <template name="NPCCharacter.yumi_ashigaru"/>
     </basic_mercenary_troops>
   </Culture>
-  <Culture id="kanto"
-       name="{=JSiAyodh}Kantou"
-       is_main_culture="true"
-       color="0xff1f4a6a"
-       color2="0xffd1d1d1"
-       faction_banner_key="11.163.166.1528.1528.764.764.1.0.0.724.171.171.483.483.764.764.0.0.0"
-       elite_basic_troop="NPCCharacter.kanto_jizamurai"
-       basic_troop="NPCCharacter.kanto_militia_peasant"
-       melee_militia_troop="NPCCharacter.yari_ashigaru"
-       ranged_militia_troop="NPCCharacter.yumi_ashigaru"
-       melee_elite_militia_troop="NPCCharacter.trained_yari_ashigaru"
-       ranged_elite_militia_troop="NPCCharacter.trained_yumi_ashigaru"
-       can_have_settlement="true"
-       town_edge_number="16"
-       villager_party_template="PartyTemplate.villager_template"
-       default_party_template="PartyTemplate.kingdom_hero_party_kanto_template"
-       caravan_party_template="PartyTemplate.caravan_template"
-       elite_caravan_party_template="PartyTemplate.elite_caravan_template"
-       militia_party_template="PartyTemplate.militia_template"
-       rebels_party_template="PartyTemplate.rebels_template"
-       vassal_reward_party_template="PartyTemplate.vassal_reward_troops_kanto"
-       prosperity_bonus="1"
-       encounter_background_mesh="encounter_sho_lord"
-       default_face_key="0000F80E4000000EB8708BD6CD185229D3F98B3ABDFE344CD22D3D5038898868007776030796723B00000000000000000000000000000000000000003EFC1000"
-       text="{=y6BfVZul}The people of Kantou, the spiritual homeland of the samurai class, live in a predominantly flat region that is perfect for extensive agriculture and the breeding of its renowned battle steeds, which yield abundant harvests and allow Kantou to field and maintain cavalry forces more easily. Imbued with the secular martial tradition in which they have their roots, the lords of Kantou can more easily raise large armies to face their enemies, but their great emphasis on military preparedness makes it more expensive to pay the wages of their soldiers."
-       tournament_master="NPCCharacter.tournament_master_saikai"
-       villager="NPCCharacter.townsman_saikai"
-       caravan_master="NPCCharacter.saikai_mounted_samurai"
-       armed_trader="NPCCharacter.saikai_mounted_samurai"
-       caravan_guard="NPCCharacter.saikai_mounted_samurai"
-       veteran_caravan_guard="NPCCharacter.saikai_mounted_samurai"
-       prison_guard="NPCCharacter.prison_guard_kanto"
-       guard="NPCCharacter.guard_kanto"
-       blacksmith="NPCCharacter.blacksmith_saikai"
-       weaponsmith="NPCCharacter.weaponsmith_saikai"
-       townswoman="NPCCharacter.townswoman_saikai"
-       townswoman_infant="NPCCharacter.townswoman_infant_saikai"
-       townswoman_child="NPCCharacter.townswoman_child_saikai"
-       townswoman_teenager="NPCCharacter.townswoman_teenager_saikai"
-       townsman="NPCCharacter.townsman_saikai"
-       townsman_infant="NPCCharacter.townsman_infant_saikai"
-       townsman_child="NPCCharacter.townsman_child_saikai"
-       village_woman="NPCCharacter.townswoman_saikai"
-       villager_male_child="NPCCharacter.townsman_child_saikai"
-       villager_male_teenager="NPCCharacter.townsman_teenager_saikai"
-       villager_female_child="NPCCharacter.townswoman_child_saikai"
-       villager_female_teenager="NPCCharacter.townswoman_teenager_saikai"
-       townsman_teenager="NPCCharacter.townsman_teenager_saikai"
-       ransom_broker="NPCCharacter.ransom_broker_saikai"
-       gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_kanto"
-       merchant_notary="NPCCharacter.merchant_notary_saikai"
-       artisan_notary="NPCCharacter.townsman_saikai"
-       preacher_notary="NPCCharacter.townsman_saikai"
-       rural_notable_notary="NPCCharacter.townsman_saikai"
-       shop_worker="NPCCharacter.shop_worker_saikai"
-       tavernkeeper="NPCCharacter.tavernkeeper_saikai"
-       taverngamehost="NPCCharacter.taverngamehost_saikai"
-       musician="NPCCharacter.musician_saikai"
-       tavern_wench="NPCCharacter.tavern_wench_saikai"
-       armorer="NPCCharacter.armorer_saikai"
-       horseMerchant="NPCCharacter.horseMerchant_saikai"
-       barber="NPCCharacter.barber_saikai"
-       merchant="NPCCharacter.merchant_saikai"
-       beggar="NPCCharacter.beggar_saikai"
-       female_beggar="NPCCharacter.female_beggar_saikai"
-       female_dancer="NPCCharacter.townswoman_saikai"
-       gear_practice_dummy="NPCCharacter.gear_practice_dummy_kanto"
-       weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1"
-       weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2"
-       weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3"
-       gear_dummy="NPCCharacter.gear_practice_dummy_kanto"
-       default_battle_equipment_roster="EquipmentRoster.kanto_bat_template_medium_male"
-       default_civilian_equipment_roster="EquipmentRoster.kanto_civ_template_default_male"
-       duel_preset_equipment_roster="EquipmentRoster.npc_armed_wanderer_equipment_template_kanto"
-       board_game_type="Tablut">
+  <Culture id="kanto" name="{=JSiAyodh}Kantou" is_main_culture="true" color="0xff1f4a6a" color2="0xffd1d1d1" faction_banner_key="11.163.166.1528.1528.764.764.1.0.0.724.171.171.483.483.764.764.0.0.0" elite_basic_troop="NPCCharacter.kanto_jizamurai" basic_troop="NPCCharacter.kanto_militia_peasant" melee_militia_troop="NPCCharacter.yari_ashigaru" ranged_militia_troop="NPCCharacter.yumi_ashigaru" melee_elite_militia_troop="NPCCharacter.trained_yari_ashigaru" ranged_elite_militia_troop="NPCCharacter.trained_yumi_ashigaru" can_have_settlement="true" town_edge_number="16" villager_party_template="PartyTemplate.villager_template" default_party_template="PartyTemplate.kingdom_hero_party_kanto_template" caravan_party_template="PartyTemplate.caravan_template" elite_caravan_party_template="PartyTemplate.elite_caravan_template" militia_party_template="PartyTemplate.militia_template" rebels_party_template="PartyTemplate.rebels_template" vassal_reward_party_template="PartyTemplate.vassal_reward_troops_kanto" prosperity_bonus="1" encounter_background_mesh="encounter_sho_lord" default_face_key="0000F80E4000000EB8708BD6CD185229D3F98B3ABDFE344CD22D3D5038898868007776030796723B00000000000000000000000000000000000000003EFC1000" text="{=y6BfVZul}The people of Kantou, the spiritual homeland of the samurai class, live in a predominantly flat region that is perfect for extensive agriculture and the breeding of its renowned battle steeds, which yield abundant harvests and allow Kantou to field and maintain cavalry forces more easily. Imbued with the secular martial tradition in which they have their roots, the lords of Kantou can more easily raise large armies to face their enemies, but their great emphasis on military preparedness makes it more expensive to pay the wages of their soldiers." tournament_master="NPCCharacter.tournament_master_saikai" villager="NPCCharacter.townsman_saikai" caravan_master="NPCCharacter.saikai_mounted_samurai" armed_trader="NPCCharacter.saikai_mounted_samurai" caravan_guard="NPCCharacter.saikai_mounted_samurai" veteran_caravan_guard="NPCCharacter.saikai_mounted_samurai" prison_guard="NPCCharacter.prison_guard_kanto" guard="NPCCharacter.guard_kanto" blacksmith="NPCCharacter.blacksmith_saikai" weaponsmith="NPCCharacter.weaponsmith_saikai" townswoman="NPCCharacter.townswoman_saikai" townswoman_infant="NPCCharacter.townswoman_infant_saikai" townswoman_child="NPCCharacter.townswoman_child_saikai" townswoman_teenager="NPCCharacter.townswoman_teenager_saikai" townsman="NPCCharacter.townsman_saikai" townsman_infant="NPCCharacter.townsman_infant_saikai" townsman_child="NPCCharacter.townsman_child_saikai" village_woman="NPCCharacter.townswoman_saikai" villager_male_child="NPCCharacter.townsman_child_saikai" villager_male_teenager="NPCCharacter.townsman_teenager_saikai" villager_female_child="NPCCharacter.townswoman_child_saikai" villager_female_teenager="NPCCharacter.townswoman_teenager_saikai" townsman_teenager="NPCCharacter.townsman_teenager_saikai" ransom_broker="NPCCharacter.ransom_broker_saikai" gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_kanto" merchant_notary="NPCCharacter.merchant_notary_saikai" artisan_notary="NPCCharacter.townsman_saikai" preacher_notary="NPCCharacter.townsman_saikai" rural_notable_notary="NPCCharacter.townsman_saikai" shop_worker="NPCCharacter.shop_worker_saikai" tavernkeeper="NPCCharacter.tavernkeeper_saikai" taverngamehost="NPCCharacter.taverngamehost_saikai" musician="NPCCharacter.musician_saikai" tavern_wench="NPCCharacter.tavern_wench_saikai" armorer="NPCCharacter.armorer_saikai" horseMerchant="NPCCharacter.horseMerchant_saikai" barber="NPCCharacter.barber_saikai" merchant="NPCCharacter.merchant_saikai" beggar="NPCCharacter.beggar_saikai" female_beggar="NPCCharacter.female_beggar_saikai" female_dancer="NPCCharacter.townswoman_saikai" gear_practice_dummy="NPCCharacter.gear_practice_dummy_kanto" weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1" weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2" weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3" gear_dummy="NPCCharacter.gear_practice_dummy_kanto" default_battle_equipment_roster="EquipmentRoster.kanto_bat_template_medium_male" default_civilian_equipment_roster="EquipmentRoster.kanto_civ_template_default_male" duel_preset_equipment_roster="EquipmentRoster.npc_armed_wanderer_equipment_template_kanto" board_game_type="Tablut">
     <vassal_reward_items>
       <item id="Item.sho_tachi_tiger"/>
     </vassal_reward_items>
@@ -5790,7 +5190,7 @@
       <name name="{=7GGb9pks}Matajirou"/>
       <name name="{=Mi6jEdGA}Matasaburou"/>
       <name name="{=50m6bXju}Matagorou"/>
-      <name name="{=HEpg6hFQ}Matajūrou" />
+      <name name="{=HEpg6hFQ}Matajūrou"/>
       <name name="{=EjYlRDvH}Matasuke"/>
       <name name="{=irRONE36}Matanosuke"/>
       <name name="{=XGQmrAxZ}Matakichi"/>
@@ -5803,7 +5203,7 @@
       <name name="{=INK1MJlR}Tokujirou"/>
       <name name="{=jlDVjQnu}Tokusaburou"/>
       <name name="{=HQ7qfRgD}Tokugorou"/>
-      <name name="{=clrovKXi}Tokujūrou" />
+      <name name="{=clrovKXi}Tokujūrou"/>
       <name name="{=FQlRLvY9}Tokusuke"/>
       <name name="{=CCUwTZYL}Tokunosuke"/>
       <name name="{=9qQ9evZv}Tokukichi"/>
@@ -5816,7 +5216,7 @@
       <name name="{=k0kehmUu}Yajirou"/>
       <name name="{=XKMzktuD}Yasaburou"/>
       <name name="{=EfW7Ru9p}Yagorou"/>
-      <name name="{=UUNZapL6}Yajūrou" />
+      <name name="{=UUNZapL6}Yajūrou"/>
       <name name="{=4TAPNSDP}Yasuke"/>
       <name name="{=STLLrKL8}Yanosuke"/>
       <name name="{=fPHEbh56}Yakichi"/>
@@ -5860,7 +5260,7 @@
       <name name="{=bOaRvMKu}Soujirou"/>
       <name name="{=KOYIX6bo}Souzaburou"/>
       <name name="{=hQ8J9ehd}Sougorou"/>
-      <name name="{=WpNXQ2Wg}Soujūrou" />
+      <name name="{=WpNXQ2Wg}Soujūrou"/>
       <name name="{=MSQw9m26}Sousuke"/>
       <name name="{=MSA98yTk}Sounosuke"/>
       <name name="{=BcZmXIib}Soukichi"/>
@@ -5876,7 +5276,7 @@
       <name name="{=1YstbZrT}Jinsuke"/>
       <name name="{=ZUSD95RW}Jinnosuke"/>
       <name name="{=CifluU3w}Jinkichi"/>
-      <name name="{=RtC7Igb8}Jinzou" />
+      <name name="{=RtC7Igb8}Jinzou"/>
       <name name="{=WYjJfaRF}Jinbē"/>
       <name name="{=li6FcW6d}Jinzaemon"/>
       <name name="{=OFRiI1ZH}Jinemon"/>
@@ -5884,7 +5284,7 @@
       <name name="{=qOHD4hmz}Hikojirou"/>
       <name name="{=claatCYX}Hikozaburou"/>
       <name name="{=LVSnchon}Hikogorou"/>
-      <name name="{=Md3I4b9A}Hikojūrou" />
+      <name name="{=Md3I4b9A}Hikojūrou"/>
       <name name="{=NOhSVuEd}Hikosuke"/>
       <name name="{=IyWeSdrc}Hikonosuke"/>
       <name name="{=Wz5ivE3j}Hikozou"/>
@@ -5895,7 +5295,7 @@
       <name name="{=YqIBnGJg}Seijirou"/>
       <name name="{=eZf87dj4}Seizaburou"/>
       <name name="{=CiuuF7Zt}Seigorou"/>
-      <name name="{=Xtf9w0UQ}Seijūrou" />
+      <name name="{=Xtf9w0UQ}Seijūrou"/>
       <name name="{=ryPxfNOi}Seisuke"/>
       <name name="{=OMsFEksS}Seinosuke"/>
       <name name="{=Bt3wxgJc}Seizou"/>
@@ -5906,10 +5306,10 @@
       <name name="{=1XiYQZec}Senjirou"/>
       <name name="{=PHWNIb1U}Senzaburou"/>
       <name name="{=aIRIvtzt}Sengorou"/>
-      <name name="{=jXS4Xyuz}Senjūrou" />
+      <name name="{=jXS4Xyuz}Senjūrou"/>
       <name name="{=wOXwXos9}Sensuke"/>
       <name name="{=o6ipx7CX}Sennosuke"/>
-      <name name="{=GbzQmodT}Senzou" />
+      <name name="{=GbzQmodT}Senzou"/>
       <name name="{=6HSVwyHm}Senbē"/>
       <name name="{=k0QkYUKf}Senzaemon"/>
       <name name="{=HDO43hmP}Senemon"/>
@@ -5917,10 +5317,10 @@
       <name name="{=EaxgVhEA}Manjirou"/>
       <name name="{=oHVTd16T}Manzaburou"/>
       <name name="{=W1f3Xyka}Mangorou"/>
-      <name name="{=KQJB6tIF}Manjūrou" />
+      <name name="{=KQJB6tIF}Manjūrou"/>
       <name name="{=Dgnokr0s}Mansuke"/>
       <name name="{=ZuY3PKvk}Mannosuke"/>
-      <name name="{=2zvbXuvD}Manzou" />
+      <name name="{=2zvbXuvD}Manzou"/>
       <name name="{=DemRvjqX}Manbē"/>
       <name name="{=xqLuC100}Manzaemon"/>
       <name name="{=bKpT7ydh}Manemon"/>
@@ -5928,7 +5328,7 @@
       <name name="{=9YfwfCjt}Koujirou"/>
       <name name="{=OiQWNnCC}Kouzaburou"/>
       <name name="{=alsRXQfE}Kougorou"/>
-      <name name="{=tiQigL4M}Koujūrou" />
+      <name name="{=tiQigL4M}Koujūrou"/>
       <name name="{=5vy1Kcut}Kousuke"/>
       <name name="{=ewIhSqSg}Kounosuke"/>
       <name name="{=uUuyf0oq}Kouzou"/>
@@ -5939,7 +5339,7 @@
       <name name="{=adSaxUtg}Ichijirou"/>
       <name name="{=PHZYnyJG}Ichisaburou"/>
       <name name="{=2Zz5tOGM}Ichigorou"/>
-      <name name="{=UE8Q9iLC}Ichijūrou" />
+      <name name="{=UE8Q9iLC}Ichijūrou"/>
       <name name="{=A38aKm8V}Ichisuke"/>
       <name name="{=6maHAom2}Ichinosuke"/>
       <name name="{=jGDO6UVX}Ichizou"/>
@@ -5951,7 +5351,7 @@
       <name name="{=1jKdOkXK}Denjirou"/>
       <name name="{=oS7aAM2u}Densaburou"/>
       <name name="{=0676hgZd}Dengorou"/>
-      <name name="{=4rt2PIJj}Denjūrou" />
+      <name name="{=4rt2PIJj}Denjūrou"/>
       <name name="{=vrNgITIa}Densuke"/>
       <name name="{=bSnAdlUv}Dennosuke"/>
       <name name="{=n8ygcUdT}Denzou"/>
@@ -5964,10 +5364,10 @@
       <name name="{=3kNHKBLR}Bunjirou"/>
       <name name="{=bxtXeEFE}Bunsaburou"/>
       <name name="{=0iBcR9Oj}Bungorou"/>
-      <name name="{=Fg3jIKFw}Bunjūrou" />
+      <name name="{=Fg3jIKFw}Bunjūrou"/>
       <name name="{=rvIN9ZTT}Bunsuke"/>
       <name name="{=7I5vZfW3}Bunnosuke"/>
-      <name name="{=6wEnMxwM}Bunzou" />
+      <name name="{=6wEnMxwM}Bunzou"/>
       <name name="{=csOTlDG2}Bunnai"/>
       <name name="{=Ild4lSX7}Bunbē"/>
       <name name="{=IhUPTgiY}Bunzaemon"/>
@@ -5992,7 +5392,7 @@
       <name name="{=cPCDrqQ9}Tomojirou"/>
       <name name="{=FrCZl1Kc}Tomosaburou"/>
       <name name="{=aTLCRfbo}Tomogorou"/>
-      <name name="{=VJ8JjKdn}Tomojūrou" />
+      <name name="{=VJ8JjKdn}Tomojūrou"/>
       <name name="{=eybQD7fW}Tomosuke"/>
       <name name="{=ouJSaXMs}Tomonosuke"/>
       <name name="{=5cUv40An}Tomozou"/>
@@ -6003,10 +5403,10 @@
       <name name="{=7Y0EXAUF}Kinjirou"/>
       <name name="{=YscUSvVM}Kinsaburou"/>
       <name name="{=XFTScKgz}Kingorou"/>
-      <name name="{=NGdaEade}Kinjūrou" />
+      <name name="{=NGdaEade}Kinjūrou"/>
       <name name="{=TZ1EuCNG}Kinsuke"/>
       <name name="{=4MflqKiV}Kinnosuke"/>
-      <name name="{=FNMFahJE}Kinzou" />
+      <name name="{=FNMFahJE}Kinzou"/>
       <name name="{=cRihXQNl}Kinbē"/>
       <name name="{=4CONhzCA}Kinzaemon"/>
       <name name="{=96CxYziS}Kin'emon"/>
@@ -6015,7 +5415,7 @@
       <name name="{=a01TqKHx}Kamejirou"/>
       <name name="{=OfQZK6DU}Kamesaburou"/>
       <name name="{=xyMCyFya}Kamegorou"/>
-      <name name="{=4enmAjQG}Kamejūrou" />
+      <name name="{=4enmAjQG}Kamejūrou"/>
       <name name="{=2RTqEBHZ}Kamesuke"/>
       <name name="{=DsdZZ7ls}Kamenosuke"/>
       <name name="{=nhWIvnQN}Kamezou"/>
@@ -6024,7 +5424,7 @@
       <name name="{=kfHjrOIs}Tsurujirou"/>
       <name name="{=5CSrGJfb}Tsurusaburou"/>
       <name name="{=wkcqyrPI}Tsurugorou"/>
-      <name name="{=EugzWPXo}Tsurujūrou" />
+      <name name="{=EugzWPXo}Tsurujūrou"/>
       <name name="{=p0vR6eJa}Tsurusuke"/>
       <name name="{=7N515T5W}Tsurunosuke"/>
       <name name="{=oUA7SxtT}Tsuruzou"/>
@@ -6033,14 +5433,14 @@
       <name name="{=VHEgq8bQ}Sakujirou"/>
       <name name="{=7qfdlqBi}Sakusaburou"/>
       <name name="{=WeUjfIJ1}Sakugorou"/>
-      <name name="{=ZzfKmRnj}Sakujūrou" />
+      <name name="{=ZzfKmRnj}Sakujūrou"/>
       <name name="{=vSeWlxFv}Sakusuke"/>
       <name name="{=PruyWPPU}Sakunosuke"/>
       <name name="{=IqqhbpKT}Sakuzou"/>
       <name name="{=Jts7a19A}Sakubē"/>
       <name name="{=uzEmlox6}Iichirou"/>
       <name name="{=9iBq0QQK}Izaburou"/>
-      <name name="{=2AiJGGSn}Ijūrou" />
+      <name name="{=2AiJGGSn}Ijūrou"/>
       <name name="{=CTOORbUG}Isuke"/>
       <name name="{=jGQAK7wi}Inosuke"/>
       <name name="{=ZzQtwy55}Izou"/>
@@ -6079,7 +5479,7 @@
       <name name="{=G3bhQAAE}Ise"/>
       <name name="{=c7q2fLjb}Iso"/>
       <name name="{=p3I674Qb}Iti"/>
-      <name name="Ito"/>
+      <name name="{=Shokuho6BE7f533}Ito"/>
       <name name="{=B3kJ5DP4}Ina"/>
       <name name="{=soDfj3wG}Ine"/>
       <name name="{=Tz4Dextk}Ino"/>
@@ -6378,81 +5778,7 @@
       <template name="NPCCharacter.yumi_ashigaru"/>
     </basic_mercenary_troops>
   </Culture>
-  <Culture id="ou"
-       name="{=OFkIDiZT}Ouu"
-       is_main_culture="true"
-       color="0xff212c4a"
-       color2="0xfffbad1c"
-       faction_banner_key="11.163.166.1528.1528.764.764.1.0.0.752.171.171.483.483.764.764.0.0.0"
-       elite_basic_troop="NPCCharacter.ou_jizamurai"
-       basic_troop="NPCCharacter.ou_militia_peasant"
-       melee_militia_troop="NPCCharacter.yari_ashigaru"
-       ranged_militia_troop="NPCCharacter.yumi_ashigaru"
-       melee_elite_militia_troop="NPCCharacter.trained_yari_ashigaru"
-       ranged_elite_militia_troop="NPCCharacter.trained_yumi_ashigaru"
-       can_have_settlement="true"
-       town_edge_number="16"
-       villager_party_template="PartyTemplate.villager_template"
-       default_party_template="PartyTemplate.kingdom_hero_party_ou_template"
-       caravan_party_template="PartyTemplate.caravan_template"
-       elite_caravan_party_template="PartyTemplate.elite_caravan_template"
-       militia_party_template="PartyTemplate.militia_template"
-       rebels_party_template="PartyTemplate.rebels_template"
-       vassal_reward_party_template="PartyTemplate.vassal_reward_troops_ou"
-       prosperity_bonus="1"
-       encounter_background_mesh="encounter_sho_lord"
-       default_face_key="0000F80E4000000EB8708BD6CD185229D3F98B3ABDFE344CD22D3D5038898868007776030796723B00000000000000000000000000000000000000003EFC1000"
-       text="{=kc0qT7ks}The Ouu people, native to the harsh, snow-covered lands of northern Honshu, have adapted to their frosty environment with remarkable resilience. Skilled in traversing snowy terrain, the Ouu navigate blizzards and icy conditions with ease, moving swiftly where others would struggle, and are accustomed to strict rationing when foraging is not possible, allowing them to endure longer in the snowy wastelands. However, the relentless winters take their toll, and their remote and rugged villages struggle to grow as rapidly as those in more temperate regions, limiting their expansion and development."
-       tournament_master="NPCCharacter.tournament_master_saikai"
-       villager="NPCCharacter.townsman_saikai"
-       caravan_master="NPCCharacter.saikai_mounted_samurai"
-       armed_trader="NPCCharacter.saikai_mounted_samurai"
-       caravan_guard="NPCCharacter.saikai_mounted_samurai"
-       veteran_caravan_guard="NPCCharacter.saikai_mounted_samurai"
-       prison_guard="NPCCharacter.prison_guard_ou"
-       guard="NPCCharacter.guard_ou"
-       blacksmith="NPCCharacter.blacksmith_saikai"
-       weaponsmith="NPCCharacter.weaponsmith_saikai"
-       townswoman="NPCCharacter.townswoman_saikai"
-       townswoman_infant="NPCCharacter.townswoman_infant_saikai"
-       townswoman_child="NPCCharacter.townswoman_child_saikai"
-       townswoman_teenager="NPCCharacter.townswoman_teenager_saikai"
-       townsman="NPCCharacter.townsman_saikai"
-       townsman_infant="NPCCharacter.townsman_infant_saikai"
-       townsman_child="NPCCharacter.townsman_child_saikai"
-       village_woman="NPCCharacter.townswoman_saikai"
-       villager_male_child="NPCCharacter.townsman_child_saikai"
-       villager_male_teenager="NPCCharacter.townsman_teenager_saikai"
-       villager_female_child="NPCCharacter.townswoman_child_saikai"
-       villager_female_teenager="NPCCharacter.townswoman_teenager_saikai"
-       townsman_teenager="NPCCharacter.townsman_teenager_saikai"
-       ransom_broker="NPCCharacter.ransom_broker_saikai"
-       gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_ou"
-       merchant_notary="NPCCharacter.merchant_notary_saikai"
-       artisan_notary="NPCCharacter.townsman_saikai"
-       preacher_notary="NPCCharacter.townsman_saikai"
-       rural_notable_notary="NPCCharacter.townsman_saikai"
-       shop_worker="NPCCharacter.shop_worker_saikai"
-       tavernkeeper="NPCCharacter.tavernkeeper_saikai"
-       taverngamehost="NPCCharacter.taverngamehost_saikai"
-       musician="NPCCharacter.musician_saikai"
-       tavern_wench="NPCCharacter.tavern_wench_saikai"
-       armorer="NPCCharacter.armorer_saikai"
-       horseMerchant="NPCCharacter.horseMerchant_saikai"
-       barber="NPCCharacter.barber_saikai"
-       merchant="NPCCharacter.merchant_saikai"
-       beggar="NPCCharacter.beggar_saikai"
-       female_beggar="NPCCharacter.female_beggar_saikai"
-       female_dancer="NPCCharacter.townswoman_saikai"
-       gear_practice_dummy="NPCCharacter.gear_practice_dummy_ou"
-       weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1"
-       weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2"
-       weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3"
-       gear_dummy="NPCCharacter.gear_practice_dummy_ou"
-       default_battle_equipment_roster="EquipmentRoster.ou_bat_template_medium_male"
-       default_civilian_equipment_roster="EquipmentRoster.ou_civ_template_default_male"
-       duel_preset_equipment_roster="EquipmentRoster.npc_armed_wanderer_equipment_template_ou"
-       board_game_type="Tablut">
+  <Culture id="ou" name="{=OFkIDiZT}Ouu" is_main_culture="true" color="0xff212c4a" color2="0xfffbad1c" faction_banner_key="11.163.166.1528.1528.764.764.1.0.0.752.171.171.483.483.764.764.0.0.0" elite_basic_troop="NPCCharacter.ou_jizamurai" basic_troop="NPCCharacter.ou_militia_peasant" melee_militia_troop="NPCCharacter.yari_ashigaru" ranged_militia_troop="NPCCharacter.yumi_ashigaru" melee_elite_militia_troop="NPCCharacter.trained_yari_ashigaru" ranged_elite_militia_troop="NPCCharacter.trained_yumi_ashigaru" can_have_settlement="true" town_edge_number="16" villager_party_template="PartyTemplate.villager_template" default_party_template="PartyTemplate.kingdom_hero_party_ou_template" caravan_party_template="PartyTemplate.caravan_template" elite_caravan_party_template="PartyTemplate.elite_caravan_template" militia_party_template="PartyTemplate.militia_template" rebels_party_template="PartyTemplate.rebels_template" vassal_reward_party_template="PartyTemplate.vassal_reward_troops_ou" prosperity_bonus="1" encounter_background_mesh="encounter_sho_lord" default_face_key="0000F80E4000000EB8708BD6CD185229D3F98B3ABDFE344CD22D3D5038898868007776030796723B00000000000000000000000000000000000000003EFC1000" text="{=kc0qT7ks}The Ouu people, native to the harsh, snow-covered lands of northern Honshu, have adapted to their frosty environment with remarkable resilience. Skilled in traversing snowy terrain, the Ouu navigate blizzards and icy conditions with ease, moving swiftly where others would struggle, and are accustomed to strict rationing when foraging is not possible, allowing them to endure longer in the snowy wastelands. However, the relentless winters take their toll, and their remote and rugged villages struggle to grow as rapidly as those in more temperate regions, limiting their expansion and development." tournament_master="NPCCharacter.tournament_master_saikai" villager="NPCCharacter.townsman_saikai" caravan_master="NPCCharacter.saikai_mounted_samurai" armed_trader="NPCCharacter.saikai_mounted_samurai" caravan_guard="NPCCharacter.saikai_mounted_samurai" veteran_caravan_guard="NPCCharacter.saikai_mounted_samurai" prison_guard="NPCCharacter.prison_guard_ou" guard="NPCCharacter.guard_ou" blacksmith="NPCCharacter.blacksmith_saikai" weaponsmith="NPCCharacter.weaponsmith_saikai" townswoman="NPCCharacter.townswoman_saikai" townswoman_infant="NPCCharacter.townswoman_infant_saikai" townswoman_child="NPCCharacter.townswoman_child_saikai" townswoman_teenager="NPCCharacter.townswoman_teenager_saikai" townsman="NPCCharacter.townsman_saikai" townsman_infant="NPCCharacter.townsman_infant_saikai" townsman_child="NPCCharacter.townsman_child_saikai" village_woman="NPCCharacter.townswoman_saikai" villager_male_child="NPCCharacter.townsman_child_saikai" villager_male_teenager="NPCCharacter.townsman_teenager_saikai" villager_female_child="NPCCharacter.townswoman_child_saikai" villager_female_teenager="NPCCharacter.townswoman_teenager_saikai" townsman_teenager="NPCCharacter.townsman_teenager_saikai" ransom_broker="NPCCharacter.ransom_broker_saikai" gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_ou" merchant_notary="NPCCharacter.merchant_notary_saikai" artisan_notary="NPCCharacter.townsman_saikai" preacher_notary="NPCCharacter.townsman_saikai" rural_notable_notary="NPCCharacter.townsman_saikai" shop_worker="NPCCharacter.shop_worker_saikai" tavernkeeper="NPCCharacter.tavernkeeper_saikai" taverngamehost="NPCCharacter.taverngamehost_saikai" musician="NPCCharacter.musician_saikai" tavern_wench="NPCCharacter.tavern_wench_saikai" armorer="NPCCharacter.armorer_saikai" horseMerchant="NPCCharacter.horseMerchant_saikai" barber="NPCCharacter.barber_saikai" merchant="NPCCharacter.merchant_saikai" beggar="NPCCharacter.beggar_saikai" female_beggar="NPCCharacter.female_beggar_saikai" female_dancer="NPCCharacter.townswoman_saikai" gear_practice_dummy="NPCCharacter.gear_practice_dummy_ou" weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1" weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2" weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3" gear_dummy="NPCCharacter.gear_practice_dummy_ou" default_battle_equipment_roster="EquipmentRoster.ou_bat_template_medium_male" default_civilian_equipment_roster="EquipmentRoster.ou_civ_template_default_male" duel_preset_equipment_roster="EquipmentRoster.npc_armed_wanderer_equipment_template_ou" board_game_type="Tablut">
     <vassal_reward_items>
       <item id="Item.sho_tachi_tiger"/>
     </vassal_reward_items>
@@ -6586,7 +5912,7 @@
       <name name="{=7GGb9pks}Matajirou"/>
       <name name="{=Mi6jEdGA}Matasaburou"/>
       <name name="{=50m6bXju}Matagorou"/>
-      <name name="{=HEpg6hFQ}Matajūrou" />
+      <name name="{=HEpg6hFQ}Matajūrou"/>
       <name name="{=EjYlRDvH}Matasuke"/>
       <name name="{=irRONE36}Matanosuke"/>
       <name name="{=XGQmrAxZ}Matakichi"/>
@@ -6599,7 +5925,7 @@
       <name name="{=INK1MJlR}Tokujirou"/>
       <name name="{=jlDVjQnu}Tokusaburou"/>
       <name name="{=HQ7qfRgD}Tokugorou"/>
-      <name name="{=clrovKXi}Tokujūrou" />
+      <name name="{=clrovKXi}Tokujūrou"/>
       <name name="{=FQlRLvY9}Tokusuke"/>
       <name name="{=CCUwTZYL}Tokunosuke"/>
       <name name="{=9qQ9evZv}Tokukichi"/>
@@ -6612,7 +5938,7 @@
       <name name="{=k0kehmUu}Yajirou"/>
       <name name="{=XKMzktuD}Yasaburou"/>
       <name name="{=EfW7Ru9p}Yagorou"/>
-      <name name="{=UUNZapL6}Yajūrou" />
+      <name name="{=UUNZapL6}Yajūrou"/>
       <name name="{=4TAPNSDP}Yasuke"/>
       <name name="{=STLLrKL8}Yanosuke"/>
       <name name="{=fPHEbh56}Yakichi"/>
@@ -6656,7 +5982,7 @@
       <name name="{=bOaRvMKu}Soujirou"/>
       <name name="{=KOYIX6bo}Souzaburou"/>
       <name name="{=hQ8J9ehd}Sougorou"/>
-      <name name="{=WpNXQ2Wg}Soujūrou" />
+      <name name="{=WpNXQ2Wg}Soujūrou"/>
       <name name="{=MSQw9m26}Sousuke"/>
       <name name="{=MSA98yTk}Sounosuke"/>
       <name name="{=BcZmXIib}Soukichi"/>
@@ -6672,7 +5998,7 @@
       <name name="{=1YstbZrT}Jinsuke"/>
       <name name="{=ZUSD95RW}Jinnosuke"/>
       <name name="{=CifluU3w}Jinkichi"/>
-      <name name="{=RtC7Igb8}Jinzou" />
+      <name name="{=RtC7Igb8}Jinzou"/>
       <name name="{=WYjJfaRF}Jinbē"/>
       <name name="{=li6FcW6d}Jinzaemon"/>
       <name name="{=OFRiI1ZH}Jinemon"/>
@@ -6680,7 +6006,7 @@
       <name name="{=qOHD4hmz}Hikojirou"/>
       <name name="{=claatCYX}Hikozaburou"/>
       <name name="{=LVSnchon}Hikogorou"/>
-      <name name="{=Md3I4b9A}Hikojūrou" />
+      <name name="{=Md3I4b9A}Hikojūrou"/>
       <name name="{=NOhSVuEd}Hikosuke"/>
       <name name="{=IyWeSdrc}Hikonosuke"/>
       <name name="{=Wz5ivE3j}Hikozou"/>
@@ -6691,7 +6017,7 @@
       <name name="{=YqIBnGJg}Seijirou"/>
       <name name="{=eZf87dj4}Seizaburou"/>
       <name name="{=CiuuF7Zt}Seigorou"/>
-      <name name="{=Xtf9w0UQ}Seijūrou" />
+      <name name="{=Xtf9w0UQ}Seijūrou"/>
       <name name="{=ryPxfNOi}Seisuke"/>
       <name name="{=OMsFEksS}Seinosuke"/>
       <name name="{=Bt3wxgJc}Seizou"/>
@@ -6702,10 +6028,10 @@
       <name name="{=1XiYQZec}Senjirou"/>
       <name name="{=PHWNIb1U}Senzaburou"/>
       <name name="{=aIRIvtzt}Sengorou"/>
-      <name name="{=jXS4Xyuz}Senjūrou" />
+      <name name="{=jXS4Xyuz}Senjūrou"/>
       <name name="{=wOXwXos9}Sensuke"/>
       <name name="{=o6ipx7CX}Sennosuke"/>
-      <name name="{=GbzQmodT}Senzou" />
+      <name name="{=GbzQmodT}Senzou"/>
       <name name="{=6HSVwyHm}Senbē"/>
       <name name="{=k0QkYUKf}Senzaemon"/>
       <name name="{=HDO43hmP}Senemon"/>
@@ -6713,10 +6039,10 @@
       <name name="{=EaxgVhEA}Manjirou"/>
       <name name="{=oHVTd16T}Manzaburou"/>
       <name name="{=W1f3Xyka}Mangorou"/>
-      <name name="{=KQJB6tIF}Manjūrou" />
+      <name name="{=KQJB6tIF}Manjūrou"/>
       <name name="{=Dgnokr0s}Mansuke"/>
       <name name="{=ZuY3PKvk}Mannosuke"/>
-      <name name="{=2zvbXuvD}Manzou" />
+      <name name="{=2zvbXuvD}Manzou"/>
       <name name="{=DemRvjqX}Manbē"/>
       <name name="{=xqLuC100}Manzaemon"/>
       <name name="{=bKpT7ydh}Manemon"/>
@@ -6724,7 +6050,7 @@
       <name name="{=9YfwfCjt}Koujirou"/>
       <name name="{=OiQWNnCC}Kouzaburou"/>
       <name name="{=alsRXQfE}Kougorou"/>
-      <name name="{=tiQigL4M}Koujūrou" />
+      <name name="{=tiQigL4M}Koujūrou"/>
       <name name="{=5vy1Kcut}Kousuke"/>
       <name name="{=ewIhSqSg}Kounosuke"/>
       <name name="{=uUuyf0oq}Kouzou"/>
@@ -6735,7 +6061,7 @@
       <name name="{=adSaxUtg}Ichijirou"/>
       <name name="{=PHZYnyJG}Ichisaburou"/>
       <name name="{=2Zz5tOGM}Ichigorou"/>
-      <name name="{=UE8Q9iLC}Ichijūrou" />
+      <name name="{=UE8Q9iLC}Ichijūrou"/>
       <name name="{=A38aKm8V}Ichisuke"/>
       <name name="{=6maHAom2}Ichinosuke"/>
       <name name="{=jGDO6UVX}Ichizou"/>
@@ -6747,7 +6073,7 @@
       <name name="{=1jKdOkXK}Denjirou"/>
       <name name="{=oS7aAM2u}Densaburou"/>
       <name name="{=0676hgZd}Dengorou"/>
-      <name name="{=4rt2PIJj}Denjūrou" />
+      <name name="{=4rt2PIJj}Denjūrou"/>
       <name name="{=vrNgITIa}Densuke"/>
       <name name="{=bSnAdlUv}Dennosuke"/>
       <name name="{=n8ygcUdT}Denzou"/>
@@ -6760,10 +6086,10 @@
       <name name="{=3kNHKBLR}Bunjirou"/>
       <name name="{=bxtXeEFE}Bunsaburou"/>
       <name name="{=0iBcR9Oj}Bungorou"/>
-      <name name="{=Fg3jIKFw}Bunjūrou" />
+      <name name="{=Fg3jIKFw}Bunjūrou"/>
       <name name="{=rvIN9ZTT}Bunsuke"/>
       <name name="{=7I5vZfW3}Bunnosuke"/>
-      <name name="{=6wEnMxwM}Bunzou" />
+      <name name="{=6wEnMxwM}Bunzou"/>
       <name name="{=csOTlDG2}Bunnai"/>
       <name name="{=Ild4lSX7}Bunbē"/>
       <name name="{=IhUPTgiY}Bunzaemon"/>
@@ -6788,7 +6114,7 @@
       <name name="{=cPCDrqQ9}Tomojirou"/>
       <name name="{=FrCZl1Kc}Tomosaburou"/>
       <name name="{=aTLCRfbo}Tomogorou"/>
-      <name name="{=VJ8JjKdn}Tomojūrou" />
+      <name name="{=VJ8JjKdn}Tomojūrou"/>
       <name name="{=eybQD7fW}Tomosuke"/>
       <name name="{=ouJSaXMs}Tomonosuke"/>
       <name name="{=5cUv40An}Tomozou"/>
@@ -6799,10 +6125,10 @@
       <name name="{=7Y0EXAUF}Kinjirou"/>
       <name name="{=YscUSvVM}Kinsaburou"/>
       <name name="{=XFTScKgz}Kingorou"/>
-      <name name="{=NGdaEade}Kinjūrou" />
+      <name name="{=NGdaEade}Kinjūrou"/>
       <name name="{=TZ1EuCNG}Kinsuke"/>
       <name name="{=4MflqKiV}Kinnosuke"/>
-      <name name="{=FNMFahJE}Kinzou" />
+      <name name="{=FNMFahJE}Kinzou"/>
       <name name="{=cRihXQNl}Kinbē"/>
       <name name="{=4CONhzCA}Kinzaemon"/>
       <name name="{=96CxYziS}Kin'emon"/>
@@ -6811,7 +6137,7 @@
       <name name="{=a01TqKHx}Kamejirou"/>
       <name name="{=OfQZK6DU}Kamesaburou"/>
       <name name="{=xyMCyFya}Kamegorou"/>
-      <name name="{=4enmAjQG}Kamejūrou" />
+      <name name="{=4enmAjQG}Kamejūrou"/>
       <name name="{=2RTqEBHZ}Kamesuke"/>
       <name name="{=DsdZZ7ls}Kamenosuke"/>
       <name name="{=nhWIvnQN}Kamezou"/>
@@ -6820,7 +6146,7 @@
       <name name="{=kfHjrOIs}Tsurujirou"/>
       <name name="{=5CSrGJfb}Tsurusaburou"/>
       <name name="{=wkcqyrPI}Tsurugorou"/>
-      <name name="{=EugzWPXo}Tsurujūrou" />
+      <name name="{=EugzWPXo}Tsurujūrou"/>
       <name name="{=p0vR6eJa}Tsurusuke"/>
       <name name="{=7N515T5W}Tsurunosuke"/>
       <name name="{=oUA7SxtT}Tsuruzou"/>
@@ -6829,14 +6155,14 @@
       <name name="{=VHEgq8bQ}Sakujirou"/>
       <name name="{=7qfdlqBi}Sakusaburou"/>
       <name name="{=WeUjfIJ1}Sakugorou"/>
-      <name name="{=ZzfKmRnj}Sakujūrou" />
+      <name name="{=ZzfKmRnj}Sakujūrou"/>
       <name name="{=vSeWlxFv}Sakusuke"/>
       <name name="{=PruyWPPU}Sakunosuke"/>
       <name name="{=IqqhbpKT}Sakuzou"/>
       <name name="{=Jts7a19A}Sakubē"/>
       <name name="{=uzEmlox6}Iichirou"/>
       <name name="{=9iBq0QQK}Izaburou"/>
-      <name name="{=2AiJGGSn}Ijūrou" />
+      <name name="{=2AiJGGSn}Ijūrou"/>
       <name name="{=CTOORbUG}Isuke"/>
       <name name="{=jGQAK7wi}Inosuke"/>
       <name name="{=ZzQtwy55}Izou"/>
@@ -6875,7 +6201,7 @@
       <name name="{=G3bhQAAE}Ise"/>
       <name name="{=c7q2fLjb}Iso"/>
       <name name="{=p3I674Qb}Iti"/>
-      <name name="Ito"/>
+      <name name="{=Shokuho6BE7f533}Ito"/>
       <name name="{=B3kJ5DP4}Ina"/>
       <name name="{=soDfj3wG}Ine"/>
       <name name="{=Tz4Dextk}Ino"/>
@@ -7173,29 +6499,14 @@
       <template name="NPCCharacter.yumi_ashigaru"/>
     </basic_mercenary_troops>
   </Culture>
-
   <!--Duelist Culture-->
-  <Culture id="duelists"
-       name="{=1sbJQR4H}Duelists"
-       elite_basic_troop="NPCCharacter.looter"
-       basic_troop="NPCCharacter.looter"
-       is_bandit="false"
-       can_have_settlement="false"
-       encounter_background_mesh="encounter_looter">
+  <Culture id="duelists" name="{=1sbJQR4H}Duelists" elite_basic_troop="NPCCharacter.looter" basic_troop="NPCCharacter.looter" is_bandit="false" can_have_settlement="false" encounter_background_mesh="encounter_looter">
     <banner_bearer_replacement_weapons>
       <item id="Item.sho_wakizashi_1"/>
     </banner_bearer_replacement_weapons>
   </Culture>
-
   <!--Temple Cultures-->
-  <Culture id="buddhists"
-       name="{=jKviMpbP}Monks"
-       basic_troop="NPCCharacter.monk_temple_follower"
-       default_battle_equipment_roster="EquipmentRoster.buddhists_bat_template_medium_male"
-       default_civilian_equipment_roster="EquipmentRoster.buddhists_civ_template_default_male"
-       color="0xffd1d1d1"
-       color2="0xff093b6b"
-       faction_banner_key="11.163.166.1528.1528.764.764.1.0.0.740.171.171.483.483.764.764.0.0.0">
+  <Culture id="buddhists" name="{=jKviMpbP}Monks" basic_troop="NPCCharacter.monk_temple_follower" default_battle_equipment_roster="EquipmentRoster.buddhists_bat_template_medium_male" default_civilian_equipment_roster="EquipmentRoster.buddhists_civ_template_default_male" color="0xffd1d1d1" color2="0xff093b6b" faction_banner_key="11.163.166.1528.1528.764.764.1.0.0.740.171.171.483.483.764.764.0.0.0">
     <banner_bearer_replacement_weapons>
       <item id="Item.sho_wakizashi_1"/>
     </banner_bearer_replacement_weapons>
@@ -7208,109 +6519,38 @@
       <template name="NPCCharacter.lord_template_saikai_female"/>
     </rebellion_hero_templates>
   </Culture>
-
   <!--Bandit Cultures-->
-  <Culture id="looters"
-       name="{=FguhKirf}Oihagi Looters"
-       elite_basic_troop="NPCCharacter.looter"
-       basic_troop="NPCCharacter.looter"
-       is_bandit="true"
-       can_have_settlement="false"
-       encounter_background_mesh="encounter_looter">
+  <Culture id="looters" name="{=FguhKirf}Oihagi Looters" elite_basic_troop="NPCCharacter.looter" basic_troop="NPCCharacter.looter" is_bandit="true" can_have_settlement="false" encounter_background_mesh="encounter_looter">
     <banner_bearer_replacement_weapons>
       <item id="Item.sho_wakizashi_1"/>
     </banner_bearer_replacement_weapons>
   </Culture>
-
-  <Culture id="zoku"
-       name="{=mx7L9bFB}Zoku Thieves"
-       bandit_chief="NPCCharacter.zoku_bandit"
-       bandit_raider="NPCCharacter.zoku_bandit"
-       bandit_bandit="NPCCharacter.zoku_thief"
-       bandit_boss="NPCCharacter.zoku_bandit_boss"
-       elite_basic_troop="NPCCharacter.zoku_bandit"
-       basic_troop="NPCCharacter.zoku_thief"
-       is_bandit="true"
-       can_have_settlement="true"
-       bandit_boss_party_template="PartyTemplate.zoku_bandits_boss_party_template"
-       encounter_background_mesh="encounter_looter">
+  <Culture id="zoku" name="{=mx7L9bFB}Zoku Thieves" bandit_chief="NPCCharacter.zoku_bandit" bandit_raider="NPCCharacter.zoku_bandit" bandit_bandit="NPCCharacter.zoku_thief" bandit_boss="NPCCharacter.zoku_bandit_boss" elite_basic_troop="NPCCharacter.zoku_bandit" basic_troop="NPCCharacter.zoku_thief" is_bandit="true" can_have_settlement="true" bandit_boss_party_template="PartyTemplate.zoku_bandits_boss_party_template" encounter_background_mesh="encounter_looter">
     <banner_bearer_replacement_weapons>
       <item id="Item.sho_wakizashi_1"/>
     </banner_bearer_replacement_weapons>
   </Culture>
-  <Culture id="yato"
-       name="{=sTvDztWN}Yato Bandits"
-       bandit_chief="NPCCharacter.yato_bandit"
-       bandit_raider="NPCCharacter.yato_bandit"
-       bandit_bandit="NPCCharacter.yato_thief"
-       bandit_boss="NPCCharacter.yato_bandit_boss"
-       elite_basic_troop="NPCCharacter.yato_bandit"
-       basic_troop="NPCCharacter.yato_thief"
-       is_bandit="true"
-       can_have_settlement="true"
-       bandit_boss_party_template="PartyTemplate.yato_bandits_boss_party_template"
-       encounter_background_mesh="encounter_looter">
+  <Culture id="yato" name="{=sTvDztWN}Yato Bandits" bandit_chief="NPCCharacter.yato_bandit" bandit_raider="NPCCharacter.yato_bandit" bandit_bandit="NPCCharacter.yato_thief" bandit_boss="NPCCharacter.yato_bandit_boss" elite_basic_troop="NPCCharacter.yato_bandit" basic_troop="NPCCharacter.yato_thief" is_bandit="true" can_have_settlement="true" bandit_boss_party_template="PartyTemplate.yato_bandits_boss_party_template" encounter_background_mesh="encounter_looter">
     <banner_bearer_replacement_weapons>
       <item id="Item.sho_wakizashi_1"/>
     </banner_bearer_replacement_weapons>
   </Culture>
-  <Culture id="wokou"
-       name="{=MEQv3Fvs}Wokou Pirates"
-       bandit_chief="NPCCharacter.wokou_raider"
-       bandit_raider="NPCCharacter.hardened_wokou_pirate"
-       bandit_bandit="NPCCharacter.wokou_pirate"
-       bandit_boss="NPCCharacter.wokou_bandit_boss"
-       elite_basic_troop="NPCCharacter.hardened_wokou_pirate"
-       basic_troop="NPCCharacter.wokou_pirate"
-       is_bandit="true"
-       can_have_settlement="true"
-       bandit_boss_party_template="PartyTemplate.wokou_bandits_boss_party_template"
-       encounter_background_mesh="encounter_looter">
+  <Culture id="wokou" name="{=MEQv3Fvs}Wokou Pirates" bandit_chief="NPCCharacter.wokou_raider" bandit_raider="NPCCharacter.hardened_wokou_pirate" bandit_bandit="NPCCharacter.wokou_pirate" bandit_boss="NPCCharacter.wokou_bandit_boss" elite_basic_troop="NPCCharacter.hardened_wokou_pirate" basic_troop="NPCCharacter.wokou_pirate" is_bandit="true" can_have_settlement="true" bandit_boss_party_template="PartyTemplate.wokou_bandits_boss_party_template" encounter_background_mesh="encounter_looter">
     <banner_bearer_replacement_weapons>
       <item id="Item.sho_wakizashi_1"/>
     </banner_bearer_replacement_weapons>
   </Culture>
-  <Culture id="sanzoku"
-       name="{=4S24PmMZ}Sanzoku Mountain Bandits"
-       bandit_chief="NPCCharacter.sanzoku_raider"
-       bandit_raider="NPCCharacter.sanzoku_robber"
-       bandit_bandit="NPCCharacter.sanzoku_bandit"
-       bandit_boss="NPCCharacter.sanzoku_bandit_boss"
-       elite_basic_troop="NPCCharacter.sanzoku_raider"
-       basic_troop="NPCCharacter.sanzoku_bandit"
-       is_bandit="true"
-       can_have_settlement="true"
-       bandit_boss_party_template="PartyTemplate.sanzoku_bandits_boss_party_template"
-       encounter_background_mesh="encounter_looter">
+  <Culture id="sanzoku" name="{=4S24PmMZ}Sanzoku Mountain Bandits" bandit_chief="NPCCharacter.sanzoku_raider" bandit_raider="NPCCharacter.sanzoku_robber" bandit_bandit="NPCCharacter.sanzoku_bandit" bandit_boss="NPCCharacter.sanzoku_bandit_boss" elite_basic_troop="NPCCharacter.sanzoku_raider" basic_troop="NPCCharacter.sanzoku_bandit" is_bandit="true" can_have_settlement="true" bandit_boss_party_template="PartyTemplate.sanzoku_bandits_boss_party_template" encounter_background_mesh="encounter_looter">
     <banner_bearer_replacement_weapons>
       <item id="Item.sho_wakizashi_1"/>
     </banner_bearer_replacement_weapons>
   </Culture>
-  <Culture id="ochimusya"
-       name="{=rW0j3kZA}Ochimusya-gari Manhunters"
-       bandit_chief="NPCCharacter.ochimusya"
-       bandit_raider="NPCCharacter.ochimusya"
-       bandit_bandit="NPCCharacter.ochimusya"
-       bandit_boss="NPCCharacter.ochimusya_bandit_boss"
-       elite_basic_troop="NPCCharacter.ochimusya"
-       basic_troop="NPCCharacter.ochimusya"
-       is_bandit="true"
-       can_have_settlement="true"
-       bandit_boss_party_template="PartyTemplate.ochimusya_bandits_boss_party_template"
-       encounter_background_mesh="encounter_looter">
+  <Culture id="ochimusya" name="{=rW0j3kZA}Ochimusya-gari Manhunters" bandit_chief="NPCCharacter.ochimusya" bandit_raider="NPCCharacter.ochimusya" bandit_bandit="NPCCharacter.ochimusya" bandit_boss="NPCCharacter.ochimusya_bandit_boss" elite_basic_troop="NPCCharacter.ochimusya" basic_troop="NPCCharacter.ochimusya" is_bandit="true" can_have_settlement="true" bandit_boss_party_template="PartyTemplate.ochimusya_bandits_boss_party_template" encounter_background_mesh="encounter_looter">
     <banner_bearer_replacement_weapons>
       <item id="Item.sho_wakizashi_1"/>
     </banner_bearer_replacement_weapons>
-
   </Culture>
-  <Culture id="neutral_culture"
-       name="{=jKviMpbP}Japanese"
-       elite_basic_troop="NPCCharacter.guard"
-       basic_troop="NPCCharacter.guard"
-       militia_party_template="PartyTemplate.militia_template"
-       encounter_background_mesh="encounter_sho_lord"
-       default_battle_equipment_roster="EquipmentRoster.neutral_culture_bat_template_medium_male"
-       default_civilian_equipment_roster="EquipmentRoster.neutral_culture_civ_template_default_male">
+  <Culture id="neutral_culture" name="{=jKviMpbP}Japanese" elite_basic_troop="NPCCharacter.guard" basic_troop="NPCCharacter.guard" militia_party_template="PartyTemplate.militia_template" encounter_background_mesh="encounter_sho_lord" default_battle_equipment_roster="EquipmentRoster.neutral_culture_bat_template_medium_male" default_civilian_equipment_roster="EquipmentRoster.neutral_culture_civ_template_default_male">
     <banner_bearer_replacement_weapons>
       <item id="Item.sho_wakizashi_1"/>
     </banner_bearer_replacement_weapons>

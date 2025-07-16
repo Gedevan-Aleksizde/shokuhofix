@@ -2465,7 +2465,7 @@
       <Location id="prison" scene_name="sho_prison_b"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_CHUB21_1" name="Itou" posX="1262.788" posY="596.914" culture="Culture.tokai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_CHUB21_1" name="{=A5CCc511}Itou" posX="1262.788" posY="596.914" culture="Culture.tokai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_CHUB21_1" village_type="VillageType.logger" hearth="200" gate_rotation="0.008" bound="Settlement.castle_CHUB21" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -4973,7 +4973,7 @@
       <Location id="prison" scene_name="sho_prison_b"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KIN9_1" name="Nagahama" posX="923.383" posY="662.079" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_KIN9_1" name="{=Z6IR3pmc}Nagahama" posX="923.383" posY="662.079" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_KIN9_1" village_type="VillageType.logger" hearth="200" gate_rotation="0.008" bound="Settlement.castle_KIN9" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7703,7 +7703,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_SHI2_1" name="Nagahama" posX="546.757" posY="435.274" culture="Culture.nankai" text="{=vEYNurYp}No Description">
+  <Settlement id="castle_village_SHI2_1" name="{=Z6IR3pmc}Nagahama" posX="546.757" posY="435.274" culture="Culture.nankai" text="{=vEYNurYp}No Description">
     <Components>
       <Village id="castle_village_comp_SHI2_1" village_type="VillageType.dye_farm" hearth="100" gate_rotation="0.000" bound="Settlement.castle_SHI2" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
