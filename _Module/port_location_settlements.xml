@@ -414,7 +414,7 @@
         </Locations>
     </Settlement>
     <Settlement id="sho_port_village_KY10_2"
-                name="{=MlIOP9DE}Port Dozaki"
+                name="{=MlIOP9DE}Port Douzaki"
                 posX="273.395"
                 posY="253.896"
                 culture="Culture.neutral_culture"

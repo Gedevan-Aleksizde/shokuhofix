@@ -60,7 +60,7 @@
 		text="{=fKuxXywF}I'm a soldier by trade. I've served in the Amago's army for 20 years. Once upon a time they were worthy of respect. I served them for years, but war was not kind to them." />
 	<string
 		id="backstory_b.spc_wanderer_saikai_4"
-		text="{=os4ZW2gc}But Amago Yoshihisa led the army into a failed siege defense at Gassantoda Castle. You may have heard that story. I was laid up sick at the time. But a lot of my comrades didn't come back, and things were never the same afterward." />
+		text="{=os4ZW2gc}But Amago Yoshihisa led the army into a failed siege defense at Gassan-Toda Castle. You may have heard that story. I was laid up sick at the time. But a lot of my comrades didn't come back, and things were never the same afterward." />
 	<string
 		id="backstory_c.spc_wanderer_saikai_4"
 		text="{=08t1XV2r}After the siege, The Amago were forced to a small island in northern San'you, with no hope of reconquering their lands." />
@@ -295,7 +295,7 @@
 		text="{=fKuxXywF}I'm a soldier by trade. I've served in the Amago's army for 20 years. Once upon a time they were worthy of respect. I served them for years, but war was not kind to them." />
 	<string
 		id="backstory_b.spc_wanderer_nankai_4"
-		text="{=os4ZW2gc}But Amago Yoshihisa led the army into a failed siege defense at Gassantoda Castle. You may have heard that story. I was laid up sick at the time. But a lot of my comrades didn't come back, and things were never the same afterward." />
+		text="{=os4ZW2gc}But Amago Yoshihisa led the army into a failed siege defense at Gassan-Toda Castle. You may have heard that story. I was laid up sick at the time. But a lot of my comrades didn't come back, and things were never the same afterward." />
 	<string
 		id="backstory_c.spc_wanderer_nankai_4"
 		text="{=08t1XV2r}After the siege, The Amago were forced to a small island in northern San'you, with no hope of reconquering their lands." />
@@ -562,7 +562,7 @@
 		text="{=fKuxXywF}I'm a soldier by trade. I've served in the Amago's army for 20 years. Once upon a time they were worthy of respect. I served them for years, but war was not kind to them." />
 	<string
 		id="backstory_b.spc_wanderer_sanyo_4"
-		text="{=os4ZW2gc}But Amago Yoshihisa led the army into a failed siege defense at Gassantoda Castle. You may have heard that story. I was laid up sick at the time. But a lot of my comrades didn't come back, and things were never the same afterward." />
+		text="{=os4ZW2gc}But Amago Yoshihisa led the army into a failed siege defense at Gassan-Toda Castle. You may have heard that story. I was laid up sick at the time. But a lot of my comrades didn't come back, and things were never the same afterward." />
 	<string
 		id="backstory_c.spc_wanderer_sanyo_4"
 		text="{=08t1XV2r}After the siege, The Amago were forced to a small island in northern San'you, with no hope of reconquering their lands." />
@@ -830,7 +830,7 @@
 		text="{=fKuxXywF}I'm a soldier by trade. I've served in the Amago's army for 20 years. Once upon a time they were worthy of respect. I served them for years, but war was not kind to them." />
 	<string
 		id="backstory_b.spc_wanderer_kinai_4"
-		text="{=os4ZW2gc}But Amago Yoshihisa led the army into a failed siege defense at Gassantoda Castle. You may have heard that story. I was laid up sick at the time. But a lot of my comrades didn't come back, and things were never the same afterward." />
+		text="{=os4ZW2gc}But Amago Yoshihisa led the army into a failed siege defense at Gassan-Toda Castle. You may have heard that story. I was laid up sick at the time. But a lot of my comrades didn't come back, and things were never the same afterward." />
 	<string
 		id="backstory_c.spc_wanderer_kinai_4"
 		text="{=08t1XV2r}After the siege, The Amago were forced to a small island in northern San'you, with no hope of reconquering their lands." />
@@ -1098,7 +1098,7 @@
 		text="{=fKuxXywF}I'm a soldier by trade. I've served in the Amago's army for 20 years. Once upon a time they were worthy of respect. I served them for years, but war was not kind to them." />
 	<string
 		id="backstory_b.spc_wanderer_hokuriku_4"
-		text="{=os4ZW2gc}But Amago Yoshihisa led the army into a failed siege defense at Gassantoda Castle. You may have heard that story. I was laid up sick at the time. But a lot of my comrades didn't come back, and things were never the same afterward." />
+		text="{=os4ZW2gc}But Amago Yoshihisa led the army into a failed siege defense at Gassan-Toda Castle. You may have heard that story. I was laid up sick at the time. But a lot of my comrades didn't come back, and things were never the same afterward." />
 	<string
 		id="backstory_c.spc_wanderer_hokuriku_4"
 		text="{=08t1XV2r}After the siege, The Amago were forced to a small island in northern San'you, with no hope of reconquering their lands." />
@@ -1365,7 +1365,7 @@
 		text="{=fKuxXywF}I'm a soldier by trade. I've served in the Amago's army for 20 years. Once upon a time they were worthy of respect. I served them for years, but war was not kind to them." />
 	<string
 		id="backstory_b.spc_wanderer_tosan_4"
-		text="{=os4ZW2gc}But Amago Yoshihisa led the army into a failed siege defense at Gassantoda Castle. You may have heard that story. I was laid up sick at the time. But a lot of my comrades didn't come back, and things were never the same afterward." />
+		text="{=os4ZW2gc}But Amago Yoshihisa led the army into a failed siege defense at Gassan-Toda Castle. You may have heard that story. I was laid up sick at the time. But a lot of my comrades didn't come back, and things were never the same afterward." />
 	<string
 		id="backstory_c.spc_wanderer_tosan_4"
 		text="{=08t1XV2r}After the siege, The Amago were forced to a small island in northern San'you, with no hope of reconquering their lands." />
@@ -1632,7 +1632,7 @@
 		text="{=fKuxXywF}I'm a soldier by trade. I've served in the Amago's army for 20 years. Once upon a time they were worthy of respect. I served them for years, but war was not kind to them." />
 	<string
 		id="backstory_b.spc_wanderer_tokai_4"
-		text="{=os4ZW2gc}But Amago Yoshihisa led the army into a failed siege defense at Gassantoda Castle. You may have heard that story. I was laid up sick at the time. But a lot of my comrades didn't come back, and things were never the same afterward." />
+		text="{=os4ZW2gc}But Amago Yoshihisa led the army into a failed siege defense at Gassan-Toda Castle. You may have heard that story. I was laid up sick at the time. But a lot of my comrades didn't come back, and things were never the same afterward." />
 	<string
 		id="backstory_c.spc_wanderer_tokai_4"
 		text="{=08t1XV2r}After the siege, The Amago were forced to a small island in northern San'you, with no hope of reconquering their lands." />
@@ -1867,7 +1867,7 @@
 		text="{=fKuxXywF}I'm a soldier by trade. I've served in the Amago's army for 20 years. Once upon a time they were worthy of respect. I served them for years, but war was not kind to them." />
 	<string
 		id="backstory_b.spc_wanderer_kanto_4"
-		text="{=os4ZW2gc}But Amago Yoshihisa led the army into a failed siege defense at Gassantoda Castle. You may have heard that story. I was laid up sick at the time. But a lot of my comrades didn't come back, and things were never the same afterward." />
+		text="{=os4ZW2gc}But Amago Yoshihisa led the army into a failed siege defense at Gassan-Toda Castle. You may have heard that story. I was laid up sick at the time. But a lot of my comrades didn't come back, and things were never the same afterward." />
 	<string
 		id="backstory_c.spc_wanderer_kanto_4"
 		text="{=08t1XV2r}After the siege, The Amago were forced to a small island in northern San'you, with no hope of reconquering their lands." />
@@ -2100,7 +2100,7 @@
 		text="{=fKuxXywF}I'm a soldier by trade. I've served in the Amago's army for 20 years. Once upon a time they were worthy of respect. I served them for years, but war was not kind to them." />
 	<string
 		id="backstory_b.spc_wanderer_ou_4"
-		text="{=os4ZW2gc}But Amago Yoshihisa led the army into a failed siege defense at Gassantoda Castle. You may have heard that story. I was laid up sick at the time. But a lot of my comrades didn't come back, and things were never the same afterward." />
+		text="{=os4ZW2gc}But Amago Yoshihisa led the army into a failed siege defense at Gassan-Toda Castle. You may have heard that story. I was laid up sick at the time. But a lot of my comrades didn't come back, and things were never the same afterward." />
 	<string
 		id="backstory_c.spc_wanderer_ou_4"
 		text="{=08t1XV2r}After the siege, The Amago were forced to a small island in northern San'you, with no hope of reconquering their lands." />

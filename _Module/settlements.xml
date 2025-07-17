@@ -272,7 +272,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_CHU5" name="{=5CN8ewVp}Gassantoda" owner="Faction.clan_amano_1" posX="611.402" posY="658.955" culture="Culture.sanyo" gate_posX="612.7092" gate_posY="655.8139" text="{=eDhJwiwf}Gassantoda is a castle town in San'in that traces its origins back to the Kamakura period and before that to the Heian period when a fortress was built to protect trade routes and the renowned local steel production. More recently, Gassantoda became the stage for the last stand of the once dominant Amago clan against the ascendant Ōuchi and Mouri clans, with the conquest by Mouri Motonari marking the definitive shift of power in the region.">
+  <Settlement id="town_CHU5" name="{=5CN8ewVp}Gassan-Toda" owner="Faction.clan_amano_1" posX="611.402" posY="658.955" culture="Culture.sanyo" gate_posX="612.7092" gate_posY="655.8139" text="{=eDhJwiwf}Gassan-Toda is a castle town in San'in that traces its origins back to the Kamakura period and before that to the Heian period when a fortress was built to protect trade routes and the renowned local steel production. More recently, Gassan-Toda became the stage for the last stand of the once dominant Amago clan against the ascendant Ōuchi and Mouri clans, with the conquest by Mouri Motonari marking the definitive shift of power in the region.">
     <Components>
       <Town id="town_comp_CHU5" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1679"/>
     </Components>
@@ -6511,7 +6511,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY10_2" name="{=HT1TJQRB}Dozaki" posX="267.235" posY="256.896" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY10_2" name="{=HT1TJQRB}Douzaki" posX="267.235" posY="256.896" culture="Culture.saikai" text="{=shokuho47a91543}">
     <Components>
       <Village id="castle_village_comp_KY10_2" village_type="VillageType.fishing" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY10" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
