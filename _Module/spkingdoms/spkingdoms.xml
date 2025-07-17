@@ -10,7 +10,7 @@
     <relationships> </relationships>
     <policies> </policies>
   </Kingdom>
-  <Kingdom id="soma" owner="Hero.lord_1_soma" banner_key="11.163.166.1528.1528.764.764.1.0.0.748.171.171.483.483.764.764.0.0.0" primary_banner_color="0xffFF7F32" secondary_banner_color="0xff0f172a" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.ou" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=NuFjU4h9}Souma Ryougoku" short_name="{=lVx3gqqL}Souma" title="Souma" ruler_title="{=tRwThwR8}Daimyou" text="">
+  <Kingdom id="soma" owner="Hero.lord_1_soma" banner_key="11.163.166.1528.1528.764.764.1.0.0.748.171.171.483.483.764.764.0.0.0" primary_banner_color="0xffFF7F32" secondary_banner_color="0xff0f172a" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.ou" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=NuFjU4h9}Souma Ryougoku" short_name="{=lVx3gqqL}Souma" title="{=d43c2D07}Souma" ruler_title="{=tRwThwR8}Daimyou" text="">
     <relationships> </relationships>
     <policies> </policies>
   </Kingdom>
@@ -64,7 +64,7 @@
     <relationships> </relationships>
     <policies> </policies>
   </Kingdom>
-  <Kingdom id="honjo" owner="Hero.lord_1_honjo" banner_key="11.163.166.1528.1528.764.764.1.0.0.709.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff28062b" secondary_banner_color="0xff2e8485" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.hokuriku" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=8kilNkSs}Honjou Ryougoku" short_name="{=74a8af8f}Honjou" title="Honjou" ruler_title="{=tRwThwR8}Daimyou" text="">
+  <Kingdom id="honjo" owner="Hero.lord_1_honjo" banner_key="11.163.166.1528.1528.764.764.1.0.0.709.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff28062b" secondary_banner_color="0xff2e8485" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.hokuriku" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=8kilNkSs}Honjou Ryougoku" short_name="{=74a8af8f}Honjou" title="{=2E4f816E}Honjou" ruler_title="{=tRwThwR8}Daimyou" text="">
     <relationships> </relationships>
     <policies> </policies>
   </Kingdom>
@@ -144,7 +144,7 @@
     <relationships> </relationships>
     <policies> </policies>
   </Kingdom>
-  <Kingdom id="ito" owner="Hero.lord_1_ito" banner_key="11.163.166.1528.1528.764.764.1.0.0.600.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff873973" secondary_banner_color="0xff0d0d0d" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.saikai" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=16fyo47M}Itou Ryougoku" short_name="{=0rDc1SBx}Itou" title="Itou" ruler_title="{=tRwThwR8}Daimyou" text="">
+  <Kingdom id="ito" owner="Hero.lord_1_ito" banner_key="11.163.166.1528.1528.764.764.1.0.0.600.171.171.483.483.764.764.0.0.0" primary_banner_color="0xff873973" secondary_banner_color="0xff0d0d0d" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.saikai" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=16fyo47M}Itou Ryougoku" short_name="{=0rDc1SBx}Itou" title="{=76aF1c31}Itou" ruler_title="{=tRwThwR8}Daimyou" text="">
     <relationships> </relationships>
     <policies> </policies>
   </Kingdom>
