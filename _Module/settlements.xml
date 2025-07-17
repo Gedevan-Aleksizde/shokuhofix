@@ -331,7 +331,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_CHU6" name="{=qti2YofG}Okayama" owner="Faction.clan_ukita_1" posX="681.632" posY="557.362" culture="Culture.sanyo" gate_posX="681.7552" gate_posY="560.7621" text="{=ALnnHm7B}Okayama is a castle town located in the western part of the Chūgoku region, providing both military and economic advantages through access to maritime trade routes and strategic passage between Honshu and Shikoku">
+  <Settlement id="town_CHU6" name="{=qti2YofG}Okayama" owner="Faction.clan_ukita_1" posX="681.632" posY="557.362" culture="Culture.sanyo" gate_posX="681.7552" gate_posY="560.7621" text="{=ALnnHm7B}Okayama is a castle town located in the western part of the Chūgoku region, providing both military and economic advantages through access to maritime trade routes and strategic passage between Honshu and Shikoku.">
     <Components>
       <Town id="town_comp_CHU6" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1440"/>
     </Components>
@@ -1321,7 +1321,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_CHUB7" name="{=za4xFjbt}Koufu" owner="Faction.clan_takeda_1" posX="1211.036" posY="697.49" culture="Culture.tosan" gate_posX="1208.991" gate_posY="700.2092" text="{=G1Gwql28}Kōfu, a castle town in the heart of Kai Province in the southern part of the Tōsan region, has been the home of the Takena clan since its beginnings, but has only recently grown considerably thanks to Takeda Shingen, who has made it the centre of his expanding domain and undertaken major flood control projects to increase agricultural production and quality of life">
+  <Settlement id="town_CHUB7" name="{=za4xFjbt}Koufu" owner="Faction.clan_takeda_1" posX="1211.036" posY="697.49" culture="Culture.tosan" gate_posX="1208.991" gate_posY="700.2092" text="{=G1Gwql28}Kōfu, a castle town in the heart of Kai Province in the southern part of the Tōsan region, has been the home of the Takena clan since its beginnings, but has only recently grown considerably thanks to Takeda Shingen, who has made it the centre of his expanding domain and undertaken major flood control projects to increase agricultural production and quality of life.">
     <Components>
       <Town id="town_comp_CHUB7" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="840"/>
     </Components>

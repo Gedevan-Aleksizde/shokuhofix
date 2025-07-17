@@ -121,7 +121,7 @@
   <Hero id="lord_1_maeda_14" faction="Faction.clan_maeda_1" spouse="Hero.lord_1_maeda_13" text=""/>
   <Hero id="lord_1_maeda_15" faction="Faction.clan_maeda_1" father="Hero.lord_1_maeda_13" mother="Hero.lord_1_maeda_14" text=""/>
   <!--Akechi Clan-->
-  <Hero id="lord_1_akechi" faction="Faction.clan_akechi_1" spouse="Hero.lord_1_akechi_1" text="{=540e3dFA}Akechi Mitsuhide (明智光秀), born as Hikotarou (彦太郎), identified himself as Akechi Jūbē (明智十兵衛) later. He and his family don't serve the Oda clan hereditarily. After over a decade wandering, he began to serve Oda Nobunaga. Now, Nobunaga favored his talent and frankly called him Kinka Aatama, the Kumquat Head, which means that he teased his bald head."/>
+  <Hero id="lord_1_akechi" faction="Faction.clan_akechi_1" spouse="Hero.lord_1_akechi_1" text="{=540e3dFA}Akechi Mitsuhide (明智光秀), born as Hikotarou (彦太郎), identified himself as Akechi Jūbē (明智十兵衛) later. He and his family don't serve the Oda clan hereditarily. After over a decade wandering, he began to serve Oda Nobunaga. Now, Nobunaga favors his talent and frankly calls him Kinka Aatama, the Kumquat Head, which means that he teased his bald head."/>
   <Hero id="lord_1_akechi_1" faction="Faction.clan_akechi_1" spouse="Hero.lord_1_akechi" text=""/>
   <Hero id="lord_1_akechi_2" faction="Faction.clan_akechi_1" father="Hero.lord_1_akechi" mother="Hero.lord_1_akechi_1" text=""/>
   <Hero id="lord_1_akechi_3" faction="Faction.clan_akechi_1" spouse="Hero.lord_1_akechi_4" father="Hero.lord_1_akechi" mother="Hero.lord_1_akechi_1" text=""/>

@@ -38,7 +38,7 @@
   <Hero id="lord_1_bessho_10" faction="Faction.clan_bessho_1" spouse="Hero.lord_1_bessho_9" text=""/>
   <!-- Miyoshi Faction (Other Miyoshi clans are in shikoku_heroes.xml) -->
   <!-- Matsunaga Clan -->
-  <Hero id="lord_1_matsunaga" faction="Faction.clan_matsunaga_1" spouse="Hero.lord_1_matsunaga_1" text="{=8a0aa05A}Hisahide, called himself Matsunaga Soudai (松永霜台), also known as Matsunaga Danjou (松永弾正), served the Miyoshi clan. However, in Kinai, he is increasing his presence by his ability and opportunistic decision"/>
+  <Hero id="lord_1_matsunaga" faction="Faction.clan_matsunaga_1" spouse="Hero.lord_1_matsunaga_1" text="{=8a0aa05A}Matsunaga Hisahide (松永久秀), called himself Matsunaga Soudai (松永霜台), also known as Matsunaga Danjou (松永弾正), served the Miyoshi clan. However, in Kinai, he is increasing his presence by his ability and opportunistic decision."/>
   <Hero id="lord_1_matsunaga_1" faction="Faction.clan_matsunaga_1" spouse="Hero.lord_1_matsunaga" text=""/>
   <Hero id="lord_1_matsunaga_2" faction="Faction.clan_matsunaga_1" spouse="Hero.lord_1_matsunaga_3" father="Hero.lord_1_bessho" text=""/>
   <Hero id="lord_1_matsunaga_3" faction="Faction.clan_matsunaga_1" spouse="Hero.lord_1_matsunaga_2" text=""/>
