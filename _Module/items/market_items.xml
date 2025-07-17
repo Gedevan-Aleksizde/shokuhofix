@@ -102,7 +102,7 @@
     <Item id="cotton" name="{=HwA94EF2}Raw Cotton{@Plural}bundles of cotton{\@}" mesh="merchandise_raw_silk" item_category="sho_cotton" value="50" weight="10" Type="Goods">
         <Flags Civilian="true"/>
     </Item>    
-    <Item id="silk" name="{=Vqu67a3b}Raw Silk{@Plural}bundles of raw silk{\@}" mesh="merchandise_raw_silk" item_category="sho_silk" value="70" weight="10" Type="Goods">
+    <Item id="silk" name="{=6DaF3eDC}Raw Silk{@Plural}bundles of raw silk{\@}" mesh="merchandise_raw_silk" item_category="sho_silk" value="70" weight="10" Type="Goods">
         <Flags Civilian="true"/>
     </Item>
     <Item id="hides" name="{=r1cUMuSQ}Hide{@Plural}packs of hides{\@}" mesh="hung_fur_b" item_category="sho_fur" value="80" weight="10" Type="Goods">
@@ -123,7 +123,7 @@
     <Item id="dye" name="{=1jQdEqC6}Dye{@Plural}loads of Dye{\@}" mesh="sho_goods_dye_blue" item_category="sho_dye" value="60" weight="10" Type="Goods">
         <Flags Civilian="true"/>
     </Item>
-    <Item id="hardwood" name="{=ExjMoUiT}Hardwood{@Plural}Hardwood logs{\@}" mesh="hardwood" item_category="sho_wood" value="25" weight="10" Type="Goods">
+    <Item id="hardwood" name="{=4Eb32194}Hardwood{@Plural}Hardwood logs{\@}" mesh="hardwood" item_category="sho_wood" value="25" weight="10" Type="Goods">
         <Flags Civilian="true"/>
     </Item>
     <Item id="iron" name="{=Kw6BkhIf}Iron Ore{@Plural}loads of iron ore{\@}" mesh="iron_ore" item_category="sho_iron" value="50" weight="10" Type="Goods">
@@ -199,7 +199,7 @@
     <Item id="fine_steel_ingot" name="{=azjMBa86}Fine Steel{@Plural}loads of fine steel{\@}" mesh="fine_steel" item_category="sho_iron" value="160" weight="0.5" Type="Goods">
         <Flags Civilian="true"/>
     </Item>    
-    <Item id="thamaskene_steel_ingot" name="{=azjMBa86}Tamahagane Steel{@Plural}loads of Tamagahane Steel{\@}" mesh="thamaskene_steel" item_category="sho_iron" value="260" weight="0.5" Type="Goods">
+    <Item id="thamaskene_steel_ingot" name="{=49927896}Tamahagane Steel{@Plural}loads of Tamagahane Steel{\@}" mesh="thamaskene_steel" item_category="sho_iron" value="260" weight="0.5" Type="Goods">
         <Flags Civilian="true"/>
     </Item>
 
