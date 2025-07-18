@@ -1064,7 +1064,7 @@
 		<string id="ZqMNObKk" text="Miki"/>
 		<string id="CQHwBFdV" text="Akashi"/>
 		<string id="M0osfYXn" text="Takiyama Castle"/>
-		<string id="TA6vAIHp" text="Hyogo"/>
+		<string id="TA6vAIHp" text="Hyougo"/>
 		<string id="HCBBJbxX" text="Arima"/>
 		<string id="PKP1FMJk" text="Akutagawasan Castle"/>
 		<string id="1lijcoPq" text="Itami"/>
@@ -1227,7 +1227,7 @@
 		<string id="6weMf3aJ" text="Kitsuki Castle"/>
 		<string id="QsnLEOc2" text="Nata"/>
 		<string id="GP8I3F8l" text="Takada"/>
-		<string id="HrvBj1b6" text="Takaidake Castle"/>
+		<string id="HrvBj1b6" text="Takahashi Castle"/>
 		<string id="dCD739MX" text="Ishimatsu"/>
 		<string id="MfCOiZMx" text="Yamashita Castle"/>
 		<string id="eBLaHjSJ" text="Mizoguchi"/>
@@ -1345,7 +1345,7 @@
 		<string id="69FUsSqB" text="Sakata is a a key port in the northern part of the Tōhoku region, the castle town has grown into a vital hub for trade, particularly due to its access to the Sea of Japan and its proximity to the rich agricultural lands of the surrounding region."/>
 		<string id="mv5V2ut6" text="Fukiura"/>
 		<string id="HYWVIvb5" text="Kamegasaki"/>
-		<string id="hMUcPr79" text="Dewa-Ōura"/>
+		<string id="hMUcPr79" text="Oura"/>
 		<string id="KGp4U6ZT" text="Tsuchizaki-Minato"/>
 		<string id="QBjyZBVp" text="Strategically positioned on the coast of the Noto Peninsula, Tsuchizaki-Minato has long served as a crucial point for maritime trade and the transport of goods between the main islands and the northern provinces."/>
 		<string id="31TCIXhh" text="Wakimoto"/>
@@ -1451,7 +1451,7 @@
 		<string id="Yyc80YCh" text="Shichinohe Castle"/>
 		<string id="j8k6HP7X" text="Yokohama"/>
 		<string id="aUExdpE1" text="Nobeji"/>
-		<string id="fVzszw07" text="Ōura Castle"/>
+		<string id="fVzszw07" text="Oura Castle"/>
 		<string id="0gDY3o31" text="Ajigasawa"/>
 		<string id="2YQh9dGU" text="Itchouda"/>
 		<string id="FHNWihyd" text="Namioka Castle"/>
@@ -1550,73 +1550,73 @@
 		<string id="0DQupUdt" text="temple_location_id"/>
 		<string id="R4JpXvY0" text="Fukusho-ji Temple"/>
 		<string id="Si4k8WmG" text="A temple location."/>
-		<string id="87LciUCw" text="Chozen-ji Temple"/>
+		<string id="87LciUCw" text="Chouzen-ji Temple"/>
 		<string id="vwJYFEGl" text="This is a temple."/>
 		<string id="TuOaIlxm" text="Aso-jinja Shrine"/>
-		<string id="aYlihxWz" text="Shimen-gu Shrine"/>
-		<string id="iQjU16zu" text="Hikosan-jingu Shrine"/>
-		<string id="2kgUIre0" text="Munkakata-taisha Shrine"/>
-		<string id="4nOGmlY9" text="Usa-jingu Shrine"/>
+		<string id="aYlihxWz" text="Shimen-gū Shrine"/>
+		<string id="iQjU16zu" text="Hikosan-jingū Shrine"/>
+		<string id="2kgUIre0" text="Munakata-taisha Shrine"/>
+		<string id="4nOGmlY9" text="Hachiman Daibosatsu Usa-miya Shrine"/>
 		<string id="Fh93w5KA" text="Udo-jinja Shrine"/>
 		<string id="aw4yZS3Z" text="Tsuno-jinja Shrine"/>
 		<string id="506uOr0t" text="Yasaka-ji Temple"/>
 		<string id="zf2Nix5X" text="Kurotaki-ji Temple"/>
 		<string id="FTb5qBNu" text="Dainei-ji Temple"/>
-		<string id="CzFzF6JY" text="Itsukushima-jinjya Shrine"/>
+		<string id="CzFzF6JY" text="Itsukushima-jinja Shrine"/>
 		<string id="8HaDQkiS" text="Ankoku-ji Temple"/>
 		<string id="ND6k2VtX" text="Izumo-taisha Shrine"/>
 		<string id="5df7Fkj0" text="Daisen-ji Temple"/>
-		<string id="s4HcHt8z" text="Kibitsu-jinjya Shrine"/>
-		<string id="eFFFYdX4" text="Ube-jinjya Shrine"/>
-		<string id="4km8JvuA" text="Entsu-ji Temple"/>
+		<string id="s4HcHt8z" text="Kibitsu-jinja Shrine"/>
+		<string id="eFFFYdX4" text="Ube-jinja Shrine"/>
+		<string id="4km8JvuA" text="Entsū-ji Temple"/>
 		<string id="UhssI9wI" text="Sokoku-ji Temple"/>
-		<string id="Ip43Hzlk" text="Aga-jinjya Shrine"/>
+		<string id="Ip43Hzlk" text="Aga-jinja Shrine"/>
 		<string id="5XYyFXoo" text="Enryaku-ji Temple"/>
 		<string id="J45GVL0N" text="Seishū-ji Temple"/>
 		<string id="3jL1K7Kl" text="Sangaku-ji Temple"/>
-		<string id="460iveMd" text="Ise-jingu Shrine"/>
-		<string id="x0PqiBJo" text="Kofuku-ji Temple"/>
+		<string id="460iveMd" text="Ise-jingū Shrine"/>
+		<string id="x0PqiBJo" text="Koufuku-ji Temple"/>
 		<string id="Lv2Livt5" text="Kongobu-ji Temple"/>
 		<string id="pIXzEmMC" text="Kokawa-dera Temple"/>
 		<string id="KIwlIEWa" text="Negoro-ji Temple"/>
 		<string id="29o58h8m" text="Kumano-taisha Shrine"/>
 		<string id="ngGmkx81" text="Heiraku-ji Temple"/>
-		<string id="GNqy3kcD" text="Atsuta-jingu Shrine"/>
+		<string id="GNqy3kcD" text="Atsuta-jingū Shrine"/>
 		<string id="UO9D69pD" text="Ten'on-ji Temple"/>
-		<string id="mehE9vcH" text="Shotoku-ji Temple"/>
+		<string id="mehE9vcH" text="Shoutoku-ji Temple"/>
 		<string id="TARKzLog" text="Daien-ji Temple"/>
 		<string id="fgxZttfG" text="Zentoku-ji Temple"/>
 		<string id="NB4iE6LD" text="Erin-ji Temple"/>
 		<string id="AjDRS76B" text="Suwa-taisha Shrine"/>
-		<string id="Ccdy6bqL" text="Zenko-ji Temple"/>
-		<string id="nQn0ACae" text="Togakure-jinjya Shrine"/>
+		<string id="Ccdy6bqL" text="Zenkou-ji Temple"/>
+		<string id="nQn0ACae" text="Togakure-jinja Shrine"/>
 		<string id="nR7WMWdY" text="Heisen-ji Temple"/>
 		<string id="nOnqP9yy" text="Shoren-ji Temple"/>
-		<string id="JSicPK3A" text="Kotoku-Ji Temple"/>
+		<string id="JSicPK3A" text="Koutoku-ji Temple"/>
 		<string id="0dsvBndi" text="Tenpyo-ji Temple"/>
 		<string id="3slk01d5" text="Rinsen-ji Temple"/>
 		<string id="CVwSl3hk" text="Zuirin-ji Temple"/>
-		<string id="ejDtH8Y0" text="Akagi-jinjya Shrine"/>
-		<string id="GUFqF8DN" text="Nukisaki-jinjya Shrine"/>
-		<string id="2oq4lE3Y" text="Choraku-ji Temple"/>
-		<string id="yUnpSlWs" text="Hikawa-jinjya Shrine"/>
-		<string id="GYBhJBcH" text="Hoyo-ji Temple"/>
-		<string id="OZevhEZP" text="Samukawa-jinjya Shrine"/>
-		<string id="h9MNfQeF" text="Awa-jinjya Shrine"/>
+		<string id="ejDtH8Y0" text="Akagi-jinja Shrine"/>
+		<string id="GUFqF8DN" text="Nukisaki-jinja Shrine"/>
+		<string id="2oq4lE3Y" text="Chouraku-ji Temple"/>
+		<string id="yUnpSlWs" text="Hikawa-jinja Shrine"/>
+		<string id="GYBhJBcH" text="Houyou-ji Temple"/>
+		<string id="OZevhEZP" text="Samukawa-jinja Shrine"/>
+		<string id="h9MNfQeF" text="Awa-jinja Shrine"/>
 		<string id="H6ijkAJT" text="Enmei-ji Temple"/>
-		<string id="Cp3EojqA" text="Kashima-jingu Shrine"/>
-		<string id="0HlO0Dos" text="Zenjü-ji Temple"/>
-		<string id="ydJ6Rh2V" text="Isasumi-jinjya Shrine"/>
+		<string id="Cp3EojqA" text="Kashima-jingū Shrine"/>
+		<string id="0HlO0Dos" text="Zenjū-ji Temple"/>
+		<string id="ydJ6Rh2V" text="Isasumi-jinja Shrine"/>
 		<string id="9YK5P3zV" text="Zuigan-ji Temple"/>
-		<string id="ykaB9sA8" text="Futarayama-jinjya Shrine"/>
+		<string id="ykaB9sA8" text="Futarayama-jinja Shrine"/>
 		<string id="d0Kti2EG" text="Rinnouji Temple"/>
 		<string id="dkIkCHIA" text="Enichi-ji Temple"/>
-		<string id="tB7LnnOo" text="Yudonoyama Shrine"/>
+		<string id="tB7LnnOo" text="Yudonosan Shrine"/>
 		<string id="sF2SuBSg" text="Risshaku-ji Temple"/>
 		<string id="aMP9NGXm" text="Gyokurin-ji Temple"/>
 		<string id="F3HACKlw" text="Hyakutaku-ji Temple"/>
 		<string id="0UCCvP98" text="Touwan-ji Temple"/>
-		<string id="BqiXh4Ub" text="Chuson-ji Temple"/>
+		<string id="BqiXh4Ub" text="Chūson-ji Temple"/>
 		<string id="bBB5fI4t" text="This is the training field."/>
 		<string id="O1w7CPkZ" text="japan_female_01"/>
 		<string id="HgU8Wnnu" text="japan_female_02"/>
@@ -2134,7 +2134,7 @@
 		<string id="AIZlkqa4" text="Wide Jūmonji Yari Blade"/>
 		<string id="fdw3Hrfo" text="Crude Thin Sasaho Yari Blade"/>
 		<string id="jlp0Gjup" text="Simple Sasaho Yari Blade"/>
-		<string id="25Oe4cqK" text="Simple Yagi Yari Blade"/>
+		<string id="25Oe4cqK" text="Simple Kagi Yari Blade"/>
 		<string id="dybH9x5l" text="Rough Tsukinari Yari Blade"/>
 		<string id="CixJIH5v" text="Hien Yari Blade"/>
 		<string id="QCx1G6Qi" text="Simple Sasumata Yari Blade"/>
@@ -2142,7 +2142,7 @@
 		<string id="sBsuQTdZ" text="Kama Yari Blade"/>
 		<string id="Ur2TppcT" text="Thin Sasaho Yari Blade"/>
 		<string id="VncxCbv5" text="Sasaho Yari Blade"/>
-		<string id="jv16YJLV" text="Yagi Yari Blade"/>
+		<string id="jv16YJLV" text="Kagi Yari Blade"/>
 		<string id="qXvlWFPY" text="Tsukinari Yari Blade"/>
 		<string id="5C3iljcw" text="Simple Hien Yari Blade"/>
 		<string id="HJ3pa3CF" text="Sasumata Yari Blade"/>
@@ -3724,11 +3724,11 @@
 		<string id="NMpgBieK" text="Crude Omi Yari"/>
 		<string id="Bmx2LAnm" text="Dull Sasaho Yari"/>
 		<string id="V1BsWSsg" text="Long Crude Sasaho Yari"/>
-		<string id="wBHTjf0g" text="Crude Yagi Yari"/>
+		<string id="wBHTjf0g" text="Crude Kagi Yari"/>
 		<string id="3ZW5C5X0" text="Simple Hien Yari"/>
 		<string id="gchwJFj5" text="Old Kama Yari"/>
 		<string id="MRHmgVUe" text="Simple Sasaho Yari"/>
-		<string id="VySyanq6" text="Simple Yagi Yari"/>
+		<string id="VySyanq6" text="Simple Kagi Yari"/>
 		<string id="mg35aEMk" text="Long Kama Yari"/>
 		<string id="YDxvbE82" text="Sasaho Yari"/>
 		<string id="bUUaQilR" text="Hien Yari"/>
@@ -5145,11 +5145,11 @@
 		<string id="sr41aBJq" text="ou conservative headman"/>
 		<string id="hbnlojVk" text="ou devious headman"/>
 		<string id="gvj5GUOS" text="Brother {FIRSTNAME}"/>
-		<string id="zVp7PDAV" text="Shuncho-bo of the Yamakuguri-shū"/>
-		<string id="BPyoOEPM" text="Shinren-bo of the Yamakuguri-shū"/>
-		<string id="GCsq3ig0" text="Nagaku-bo of the Yamakuguri-shū"/>
-		<string id="drBumCCI" text="Rencho-bo of the Yamakuguri-shū"/>
-		<string id="AyM70U5G" text="Dendayu of the Shiwaku-shū"/>
+		<string id="zVp7PDAV" text="Shunchou-bou of the Yamakuguri-shū"/>
+		<string id="BPyoOEPM" text="Shinren-bou of the Yamakuguri-shū"/>
+		<string id="GCsq3ig0" text="Nagaku-bou of the Yamakuguri-shū"/>
+		<string id="drBumCCI" text="Renchou-bou of the Yamakuguri-shū"/>
+		<string id="AyM70U5G" text="Dendayū of the Shiwaku-shū"/>
 		<string id="l31cZiIC" text="Hikozaemon of the Shiwaku-shū"/>
 		<string id="0KCQiQmk" text="Matazaemon of the Shiwaku-shū"/>
 		<string id="fvYQ5nHm" text="Shirouzaemon of the Shiwaku-shū"/>

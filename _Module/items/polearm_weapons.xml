@@ -285,7 +285,7 @@
         </Pieces>
     </CraftedItem>
     <CraftedItem id="sho_yari_6"
-                 name="{=wBHTjf0g}Crude Yagi Yari"
+                 name="{=wBHTjf0g}Crude Kagi Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>
@@ -350,7 +350,7 @@
         </Pieces>
     </CraftedItem>
     <CraftedItem id="sho_yari_10"
-                 name="{=VySyanq6}Simple Yagi Yari"
+                 name="{=VySyanq6}Simple Kagi Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>

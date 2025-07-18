@@ -2517,7 +2517,7 @@
     </NPCCharacter>
 	<!-- Train Troops Characters END -->
 	<!--minor faction lords-->
-	<NPCCharacter id="spc_yamakuguri_shu_leader_0" name="{=zVp7PDAV}Shuncho-bo of the Yamakuguri-shū" voice="curt" age="23" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.saikai" occupation="Lord">
+	<NPCCharacter id="spc_yamakuguri_shu_leader_0" name="{=zVp7PDAV}Shunchou-bou of the Yamakuguri-shū" voice="curt" age="23" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.saikai" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -2536,7 +2536,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_saikai"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_yamakuguri_shu_leader_1" name="{=BPyoOEPM}Shinren-bo of the Yamakuguri-shū" voice="curt" age="25" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.saikai" occupation="Lord">
+	<NPCCharacter id="spc_yamakuguri_shu_leader_1" name="{=BPyoOEPM}Shinren-bou of the Yamakuguri-shū" voice="curt" age="25" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.saikai" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -2555,7 +2555,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_saikai"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_yamakuguri_shu_leader_2" name="{=GCsq3ig0}Nagaku-bo of the Yamakuguri-shū" voice="curt" age="30" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.saikai" occupation="Lord">
+	<NPCCharacter id="spc_yamakuguri_shu_leader_2" name="{=GCsq3ig0}Nagaku-bou of the Yamakuguri-shū" voice="curt" age="30" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.saikai" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -2574,7 +2574,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_saikai"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_yamakuguri_shu_leader_3" name="{=drBumCCI}Rencho-bo of the Yamakuguri-shū" voice="curt" age="28" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.saikai" occupation="Lord">
+	<NPCCharacter id="spc_yamakuguri_shu_leader_3" name="{=drBumCCI}Renchou-bou of the Yamakuguri-shū" voice="curt" age="28" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.saikai" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -2593,7 +2593,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_saikai"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_shiwaku_shu_leader_0" name="{=AyM70U5G}Dendayu of the Shiwaku-shū" voice="curt" age="32" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.nankai" occupation="Lord">
+	<NPCCharacter id="spc_shiwaku_shu_leader_0" name="{=AyM70U5G}Dendayū of the Shiwaku-shū" voice="curt" age="32" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.nankai" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
