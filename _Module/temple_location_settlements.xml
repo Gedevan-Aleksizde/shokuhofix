@@ -5,42 +5,42 @@
       <TempleLocationComponent id="temple_location_id_1" religion="Religion.soto" prosperity="120" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_2" name="{=87LciUCw}Chozen-ji Temple" posX="358.943" posY="270.109" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_2" name="{=87LciUCw}Chouzen-ji Temple" posX="358.943" posY="270.109" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_2" religion="Religion.soto" prosperity="142" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_3" name="{=TuOaIlxm}Aso-jinja Shrine" posX="385.128" posY="351.605" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_3" name="{=TuOaIlxm}Aso-jinja Shrine" posX="385.128" posY="351.605" text="Enshrined: Takeiwatastu no mikoto" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_3" religion="Religion.shinto" prosperity="151" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_4" name="{=aYlihxWz}Shimen-gu Shrine" posX="252.356" posY="335.15" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_4" name="{=aYlihxWz}Shimen-gū Shrine" posX="252.356" posY="335.15" text="Enshrined: Amaterasu-ōmikami, Ōnamuchi-ōkami, and Sukunabikona-ōkami" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_4" religion="Religion.shinto" prosperity="121" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_6" name="{=iQjU16zu}Hikosan-jingu Shrine" posX="351.273" posY="403.024" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_6" name="{=iQjU16zu}Hikosan-jingū Shrine" posX="351.273" posY="403.024" text="Enshrined: Mount Hikosan" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_6" religion="Religion.shinto" prosperity="135" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_7" name="{=2kgUIre0}Munkakata-taisha Shrine" posX="310.32" posY="464.4" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_7" name="{=2kgUIre0}Munakata-jinja Trinity Shrine" posX="310.32" posY="464.4" text="Enshrined: Tagorihime no kami, Tagitsuhime no kami, and Ichikishimahime no kami" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_7" religion="Religion.shinto" prosperity="292" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_8" name="{=4nOGmlY9}Usa-jingu Shrine" posX="403.736" posY="423.686" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_8" name="{=4nOGmlY9}Hachiman Daibosatsu Usa-miya Shrine" posX="403.736" posY="423.686" text="Enshrined: Hachiman-ōmikami" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_8" religion="Religion.shinto" prosperity="124" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_9" name="{=Fh93w5KA}Udo-jinja Shrine" posX="415.248" posY="194.641" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_9" name="{=Fh93w5KA}Udo-jinja Shrine" posX="415.248" posY="194.641" text="Enshrined: Hikonagisatakeugayahukiaezu no mikoto" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_9" religion="Religion.shinto" prosperity="162" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_10" name="{=aw4yZS3Z}Tsuno-jinja Shrine" posX="426.37" posY="272.24" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_10" name="{=aw4yZS3Z}Tsuno-jinja Shrine" posX="426.37" posY="272.24" text="Ōnamuchi no mikoto, aka Ōkuninushi no mikoto" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_10" religion="Religion.shinto" prosperity="141" />
     </Components>
@@ -60,7 +60,7 @@
       <TempleLocationComponent id="temple_location_id_14" religion="Religion.soto" prosperity="162" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_15" name="{=CzFzF6JY}Itsukushima-jinjya Shrine" posX="497.158" posY="512.152" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_15" name="{=CzFzF6JY}Itsukushima-jinja Shrine" posX="497.158" posY="512.152" text="Enshrined: Ichikishimahime no mikoto" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_15" religion="Religion.shinto" prosperity="152" />
     </Components>
@@ -70,7 +70,7 @@
       <TempleLocationComponent id="temple_location_id_16" religion="Religion.rinzai" prosperity="129" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_17" name="{=ND6k2VtX}Izumo-taisha Shrine" posX="555.261" posY="657.199" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_17" name="{=ND6k2VtX}Izumo-ōyashiro Shrine" posX="555.261" posY="657.199" text="Enshrined: Ōkuninushi no ōkami" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_17" religion="Religion.shinto" prosperity="252" />
     </Components>
@@ -80,17 +80,17 @@
       <TempleLocationComponent id="temple_location_id_18" religion="Religion.tendai" prosperity="149" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_19" name="{=s4HcHt8z}Kibitsu-jinjya Shrine" posX="697.311" posY="563.087" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_19" name="{=s4HcHt8z}Kibitsu-jinja Shrine" posX="697.311" posY="563.087" text="Enshrined: Ōkibitsuhiko no Mikoto, Kourei Tennou's son, the origin of the popular fairy tale Peach Boy." culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_19" religion="Religion.shinto" prosperity="156" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_20" name="{=eFFFYdX4}Ube-jinjya Shrine" posX="709.196" posY="657.67" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_20" name="{=eFFFYdX4}Ube-jinja Shrine" posX="709.196" posY="657.67" text="Enshrined: Takeuchi no sukune no mikoto" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_20" religion="Religion.shinto" prosperity="167" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_21" name="{=4km8JvuA}Entsu-ji Temple" posX="797.801" posY="685.82" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_21" name="{=4km8JvuA}Entsū-ji Temple" posX="797.801" posY="685.82" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_21" religion="Religion.rinzai" prosperity="147" />
     </Components>
@@ -100,7 +100,7 @@
       <TempleLocationComponent id="temple_location_id_22" religion="Religion.rinzai" prosperity="248" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_23" name="{=Ip43Hzlk}Aga-jinjya Shrine" posX="754.294" posY="588.335" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_23" name="{=Ip43Hzlk}Aga-jinja Shrine" posX="754.294" posY="588.335" text="Enshrined: Masakatsuakatsukachihayahiamenooshihomimi no mikoto" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_23" religion="Religion.shinto" prosperity="154" />
     </Components>
@@ -120,12 +120,12 @@
       <TempleLocationComponent id="temple_location_id_26" religion="Religion.tendai" prosperity="168" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_27" name="{=460iveMd}Ise-jingu Shrine" posX="985.906" posY="548.17" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_27" name="{=460iveMd}Ise-jingū Shrine" posX="985.906" posY="548.17" text="Enshrined: Amaterasu-ōmikami" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_27" religion="Religion.shinto" prosperity="262" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_28" name="{=x0PqiBJo}Kofuku-ji Temple" posX="911.281" posY="542.791" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_28" name="{=x0PqiBJo}Koufuku-ji Temple" posX="911.281" posY="542.791" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_28" religion="Religion.soto" prosperity="247" />
     </Components>
@@ -145,7 +145,7 @@
       <TempleLocationComponent id="temple_location_id_32" religion="Religion.shingon" prosperity="90" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_33" name="{=29o58h8m}Kumano-taisha Shrine" posX="856.916" posY="460.972" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_33" name="{=29o58h8m}Kumano-taisha Shrine" posX="856.916" posY="460.972" text="Enshrined: Kushimikenu no mikoto, aka Sunanō no mikoto" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_33" religion="Religion.shinto" prosperity="262" />
     </Components>
@@ -155,7 +155,7 @@
       <TempleLocationComponent id="temple_location_id_34" religion="Religion.shingon" prosperity="128" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_35" name="{=GNqy3kcD}Atsuta-jingu Shrine" posX="1017.918" posY="631.652" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_35" name="{=GNqy3kcD}Atsuta-jingū Shrine" posX="1017.918" posY="631.652" text="Enshrined: Kusanagi no mitsurugi, aka Amenomurakumo no tsurugi." culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_35" religion="Religion.shinto" prosperity="68" />
     </Components>
@@ -165,7 +165,7 @@
       <TempleLocationComponent id="temple_location_id_36" religion="Religion.rinzai" prosperity="121" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_37" name="{=mehE9vcH}Shotoku-ji Temple" posX="1022.203" posY="657.607" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_37" name="{=mehE9vcH}Shoutoku-ji Temple" posX="1022.203" posY="657.607" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_37" religion="Religion.shin" prosperity="128" />
     </Components>
@@ -185,17 +185,17 @@
       <TempleLocationComponent id="temple_location_id_40" religion="Religion.rinzai" prosperity="167" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_41" name="{=AjDRS76B}Suwa-taisha Shrine" posX="1181.834" posY="725.528" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_41" name="{=AjDRS76B}Suwa-taisha Shrine" posX="1181.834" posY="725.528" text="Enshrined: Takeminakata no mikoto" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_41" religion="Religion.shinto" prosperity="269" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_42" name="{=Ccdy6bqL}Zenko-ji Temple" posX="1156.628" posY="809.484" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_42" name="{=Ccdy6bqL}Zenkou-ji Temple" posX="1156.628" posY="809.484" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_42" religion="Religion.shin" prosperity="264" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_43" name="{=nQn0ACae}Togakure-jinjya Shrine" posX="1176.332" posY="817.255" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_43" name="{=nQn0ACae}Togakushi-jinja Shrine" posX="1176.332" posY="817.255" text="Enshrined: Mount Togakushiyama, where Ama no iwato have fallen" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_43" religion="Religion.shinto" prosperity="186" />
     </Components>
@@ -210,7 +210,7 @@
       <TempleLocationComponent id="temple_location_id_45" religion="Religion.shin" prosperity="184" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_46" name="{=JSicPK3A}Kotoku-Ji Temple" posX="980.147" posY="790.809" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_46" name="{=JSicPK3A}Koutoku-ji Temple" posX="980.147" posY="790.809" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_46" religion="Religion.shin" prosperity="154" />
     </Components>
@@ -230,37 +230,37 @@
       <TempleLocationComponent id="temple_location_id_49" religion="Religion.rinzai" prosperity="146" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_50" name="{=ejDtH8Y0}Akagi-jinjya Shrine" posX="1297.404" posY="807.395" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_50" name="{=ejDtH8Y0}Akagi-jinja Shrine" posX="1297.404" posY="807.395" text="Enshrined: Mount Akagiyama" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_50" religion="Religion.shinto" prosperity="132" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_51" name="{=GUFqF8DN}Nukisaki-jinjya Shrine" posX="1286.645" posY="728.458" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_51" name="{=GUFqF8DN}Nukiboko-Nukisaki-jinja Shrine" posX="1286.645" posY="728.458" text="Enshrined: Fhutsunushi no kami and Hime no ōkami" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_51" religion="Religion.shinto" prosperity="147" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_52" name="{=2oq4lE3Y}Choraku-ji Temple" posX="1298.458" posY="766.768" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_52" name="{=2oq4lE3Y}Chouraku-ji Temple" posX="1298.458" posY="766.768" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_52" religion="Religion.rinzai" prosperity="126" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_53" name="{=yUnpSlWs}Hikawa-jinjya Shrine" posX="1323.973" posY="735.348" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_53" name="{=yUnpSlWs}Hikawa-jinja Shrine" posX="1323.973" posY="735.348" text="Enshrined: Susanō no mikoto" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_53" religion="Religion.shinto" prosperity="181" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_54" name="{=GYBhJBcH}Hoyo-ji Temple" posX="1299.951" posY="738.699" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_54" name="{=GYBhJBcH}Houyou-ji Temple" posX="1299.951" posY="738.699" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_54" religion="Religion.shingon" prosperity="156" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_55" name="{=OZevhEZP}Samukawa-jinjya Shrine" posX="1299.508" posY="662.108" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_55" name="{=OZevhEZP}Samukawa-jinja Shrine" posX="1299.508" posY="662.108" text="Enshrined: Samukawahiko no mikoto and Samukawahime no mikoto" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_55" religion="Religion.shinto" prosperity="171" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_56" name="{=h9MNfQeF}Awa-jinjya Shrine" posX="1349.171" posY="607.945" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_56" name="{=h9MNfQeF}Awa-jinja Shrine" posX="1349.171" posY="607.945" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_56" religion="Religion.shinto" prosperity="160" />
     </Components>
@@ -270,17 +270,17 @@
       <TempleLocationComponent id="temple_location_id_57" religion="Religion.soto" prosperity="130" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_58" name="{=Cp3EojqA}Kashima-jingu Shrine" posX="1436.513" posY="746.374" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_58" name="{=Cp3EojqA}Kashima-jingū Shrine" posX="1436.513" posY="746.374" text="Enshrined: Takemikazuchi no mikoto" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_58" religion="Religion.shinto" prosperity="248" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_59" name="{=0HlO0Dos}Zenjü-ji Temple" posX="1420.024" posY="772.168" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_59" name="{=0HlO0Dos}Zenjū-ji Temple" posX="1420.024" posY="772.168" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_59" religion="Religion.shin" prosperity="182" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_60" name="{=ydJ6Rh2V}Isasumi-jinjya Shrine" posX="1334.815" posY="895.459" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_60" name="{=ydJ6Rh2V}Isasumi-jinja Shrine" posX="1334.815" posY="895.459" text="Enshrined: Izanagi no mikoto, Izanami no mikoto, Ōhiko no mikoto, and Takenukawawake no mikoto" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_60" religion="Religion.shinto" prosperity="152" />
     </Components>
@@ -290,7 +290,7 @@
       <TempleLocationComponent id="temple_location_id_61" religion="Religion.rinzai" prosperity="143" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_62" name="{=ykaB9sA8}Futarayama-jinjya Shrine" posX="1337.424" posY="817.328" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_62" name="{=ykaB9sA8}Futarayama-jinja Shrine" posX="1337.424" posY="817.328" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_62" religion="Religion.shinto" prosperity="145" />
     </Components>
@@ -305,7 +305,7 @@
       <TempleLocationComponent id="temple_location_id_64" religion="Religion.shingon" prosperity="182" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_65" name="{=tB7LnnOo}Yudonoyama Shrine" posX="1356.257" posY="1042.58" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_65" name="{=tB7LnnOo}Yudonosan Shrine" posX="1356.257" posY="1042.58" text="Enshrined: Ōyamatsumi no kami and Dainichi-nyorai" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_65" religion="Religion.shinto" prosperity="145" />
     </Components>
@@ -330,7 +330,7 @@
       <TempleLocationComponent id="temple_location_id_69" religion="Religion.shingon" prosperity="182" />
     </Components>
   </Settlement>
-  <Settlement id="temple_location_70" name="{=BqiXh4Ub}Chuson-ji Temple" posX="1500.02" posY="1157.802" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_70" name="{=BqiXh4Ub}Chūson-ji Temple" posX="1500.02" posY="1157.802" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_70" religion="Religion.tendai" prosperity="241" />
     </Components>
