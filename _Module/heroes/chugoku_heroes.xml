@@ -2,8 +2,8 @@
 <Heroes>
   <!--mori kingdom-->
   <!--Mouri clan-->
-  <Hero id="lord_1_mori" faction="Faction.clan_mori_1" father="Hero.lord_1_mori_3" mother="Hero.lord_1_mori_4" text="Mouri Terumoto (毛利輝元) was born as Koutsurumaru (幸鶴丸). He identifies himself as Mouri Jibunoshou (毛利少輔太郎). He had no choice but to initiate the genpuku, the coming-of-age ceremony at age 11, and inherited the head of the Mouri clan after his father passed away suddenly. His name, Terumoto, derives from the ex-shogun Yoshiteru. However, Shogun Yoshiteru was killed right after that. Terumonoto needs to confront several problems, but is supported by Motonari, his great grandfather, and his uncles."/>
-  <Hero id="lord_1_mori_1" faction="Faction.clan_mori_1" spouse="Hero.lord_1_mori_2" text="Mouri Motonari (毛利元就), born as Shoujumaru (松寿丸), identified himself as Ōe Shounojirou (大江治部少輔), the root clan of Mouri. He was born in a family of a minor local lord, and his parents died in his young. In this era, such local minor lords are forced to be involved in power and succession struggles with relatives, and also in diplomacy with neighboring major daimyos. Starting his career to get back his land and castle, which was taken by his uncle, Motonari is finally took almost the whole of the San'you and San'in regions, which were dominated by daimyos that he once flattered,  by merging many minor and larger clans. Definitely, he is one of the greatest strategists and diplomats during this period."/>
+  <Hero id="lord_1_mori" faction="Faction.clan_mori_1" father="Hero.lord_1_mori_3" mother="Hero.lord_1_mori_4" text="{=6Da818C5}Mouri Terumoto (毛利輝元) was born as Koutsurumaru (幸鶴丸). He identifies himself as Mouri Shoutarou (毛利少輔太郎). He had no choice but to initiate the genpuku, the coming-of-age ceremony at age 11, and inherited the head of the Mouri clan after his father passed away suddenly. His name, Terumoto, derives from the ex-shogun Yoshiteru. However, Shogun Yoshiteru was killed right after that. Terumonoto needs to confront several problems, but is supported by Motonari, his great grandfather, and his uncles."/>
+  <Hero id="lord_1_mori_1" faction="Faction.clan_mori_1" spouse="Hero.lord_1_mori_2" text="{=F3032095}Mouri Motonari (毛利元就), born as Shoujumaru (松壽丸), identified himself as Ōe Jibunoshou (大江治部少輔), the root clan of Mouri. He was born in a family of a minor local lord, and his parents died in his young. In this era, such local minor lords are forced to be involved in power and succession struggles with relatives, and also in diplomacy with neighboring major daimyos appointed by Imperial Court in Kyōto. Starting his career to get back his land and castle, which was taken by his uncle, Motonari is finally took almost the whole of the San'you and San'in regions, which were dominated by daimyos that he once flattered,  by merging many minor and larger clans. Definitely, he is one of the greatest strategists and diplomats during this period."/>
   <Hero id="lord_1_mori_2" alive="false" faction="Faction.clan_mori_1" spouse="Hero.lord_1_mori_1" text=""/>
   <Hero id="lord_1_mori_3" alive="false" faction="Faction.clan_mori_1" spouse="Hero.lord_1_mori_4" father="Hero.lord_1_mori_1" mother="Hero.lord_1_mori_2" text=""/>
   <Hero id="lord_1_mori_4" faction="Faction.clan_mori_1" spouse="Hero.lord_1_mori_3" text=""/>
@@ -31,10 +31,10 @@
   <Hero id="lord_1_yoshimi_1" faction="Faction.clan_yoshimi_1" spouse="Hero.lord_1_yoshimi" text=""/>
   <Hero id="lord_1_yoshimi_2" faction="Faction.clan_yoshimi_1" spouse="Hero.lord_1_yoshimi_3" father="Hero.lord_1_yoshimi" mother="Hero.lord_1_yoshimi_1" text=""/>
   <Hero id="lord_1_yoshimi_3" faction="Faction.clan_yoshimi_1" spouse="Hero.lord_1_yoshimi_2" text=""/>
-  <Hero id="lord_1_yoshimi_4" faction="Faction.clan_yoshimi_1" spouse="Hero.lord_1_yoshimi_5" father="Hero.lord_1_yoshimi" mother="Hero.lord_1_yoshimi_1" text="{=shokuho12F9A162}Citation needed"/>
+  <Hero id="lord_1_yoshimi_4" faction="Faction.clan_yoshimi_1" spouse="Hero.lord_1_yoshimi_5" father="Hero.lord_1_yoshimi" mother="Hero.lord_1_yoshimi_1" text="{=12F9A162}Citation needed"/>
   <Hero id="lord_1_yoshimi_5" faction="Faction.clan_yoshimi_1" spouse="Hero.lord_1_yoshimi_4" text=""/>
   <!--naito clan-->
-  <Hero id="lord_1_naito" faction="Faction.clan_naito_1" spouse="Hero.lord_1_naito_1" text="{=shokuhoa4B648bc}Citation Needed"/>
+  <Hero id="lord_1_naito" faction="Faction.clan_naito_1" spouse="Hero.lord_1_naito_1" text="{=a4B648bc}Citation Needed"/>
   <Hero id="lord_1_naito_1" faction="Faction.clan_naito_1" spouse="Hero.lord_1_naito" text=""/>
   <Hero id="lord_1_naito_2" faction="Faction.clan_naito_1" text=""/>
   <!--Nanjou clan-->
@@ -79,7 +79,7 @@
   <Hero id="lord_1_kawano" faction="Faction.clan_kawano_1" spouse="Hero.lord_1_kawano_1" father="Hero.dead_lord_1_kawano_1" mother="Hero.dead_lord_1_kawano_2" text=""/>
   <Hero id="lord_1_kawano_1" faction="Faction.clan_kawano_1" spouse="Hero.lord_1_kawano" text=""/>
   <Hero id="lord_1_kawano_2" faction="Faction.clan_kawano_1" father="Hero.lord_1_kawano" mother="Hero.lord_1_kawano_1" text=""/>
-  <Hero id="dead_lord_1_kawano_1" alive="false" faction="Faction.clan_kawano_1" spouse="Hero.dead_lord_1_kawano_2" text="{=shokuho12F9A162}Citation needed"/>
+  <Hero id="dead_lord_1_kawano_1" alive="false" faction="Faction.clan_kawano_1" spouse="Hero.dead_lord_1_kawano_2" text="{=12F9A162}Citation needed"/>
   <Hero id="dead_lord_1_kawano_2" alive="false" faction="Faction.clan_kawano_1" spouse="Hero.dead_lord_1_kawano_1" text=""/>
   <!--uragami kingdom-->
   <!--uragami clan-->

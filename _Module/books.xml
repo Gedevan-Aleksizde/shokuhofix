@@ -117,11 +117,11 @@
     <Benefit skill="Skill.Athletics" exp="40000" finalExp="5000" addFocus="true"/>
   </Book>
   <!--Sanbusōjō hossokumikki-->
-  <Book id="book_26" item="Item.book_26" length="266" rarity="unique" desc="{=unC8XMbS}A book of scrolls compiling rituals and doctrines related to mountain ascetic practices of Shugendo. Written by Akyubou Sokuden, a mountain ascetic from Mount Nikko." addFreeFocus="true">
+  <Book id="book_26" item="Item.book_26" length="266" rarity="unique" desc="{=unC8XMbS}A book of scrolls compiling rituals and doctrines related to mountain ascetic practices of Shugendo. Written by Akübou Sokuden, a mountain ascetic from Mount Nikko." addFreeFocus="true">
     <Benefit skill="Skill.Athletics" exp="40000" finalExp="5000" addFocus="true"/>
   </Book>
   <!--Shugenshuyo hiketsushu-->
-  <Book id="book_27" item="Item.book_27" length="258" rarity="unique" desc="{=pYmNTiMK}A book of letters testifying to the transmission of ritual doctrine in Shugendo. Written by Akyubou Sokuden, a mountain ascetic from Mount Nikko." addFreeFocus="true">
+  <Book id="book_27" item="Item.book_27" length="258" rarity="unique" desc="{=pYmNTiMK}A book of letters testifying to the transmission of ritual doctrine in Shugendo. Written by Akübou Sokuden, a mountain ascetic from Mount Nikko." addFreeFocus="true">
     <Benefit skill="Skill.Athletics" exp="40000" finalExp="5000" addFocus="true"/>
   </Book>
   <!--Hidanshō-->
@@ -157,7 +157,7 @@
     <Benefit skill="Skill.Scouting" exp="22500" finalExp="2000" addFocus="false"/>
   </Book>
   <!--Kaikoku zakki-->
-  <Book id="book_36" item="Item.book_36" length="110" rarity="rare" desc="{=PGtz6eGJ}A book, written by Shōgoin Dōkō, cataloging various materials of his travels on the Hokuriku Route. Includes various writings on the Ōshū region, multiple kinds of poems, legends, and writings on historical sites." addFreeFocus="false">
+  <Book id="book_36" item="Item.book_36" length="110" rarity="rare" desc="{=PGtz6eGJ}A book, written by Shōgoin Dōkō, cataloging various materials of his travels on the Hokuriku Route. Includes various writings on the Ou-shü region, multiple kinds of poems, legends, and writings on historical sites." addFreeFocus="false">
     <Benefit skill="Skill.Scouting" exp="29000" finalExp="2900" addFocus="true"/>
   </Book>
   <!--Zinkokuki-->
@@ -280,7 +280,7 @@
     <Benefit skill="Skill.Scouting" exp="9000" finalExp="900" addFocus="false"/>
   </Book>
   <!--Kagakushū-->
-  <Book id="book_63" item="Item.book_63" length="172" rarity="rare" desc="{=xFWvS5gM}An Encyclopaedia by Tōroku Hanō with eighteen sections on society, seasonal events, quantities, language, human ethics, and more." addFreeFocus="false">
+  <Book id="book_63" item="Item.book_63" length="172" rarity="rare" desc="{=xFWvS5gM}An Encyclopaedia by  Tōroku no Hanō with eighteen sections on society, seasonal events, quantities, language, human ethics, and more." addFreeFocus="false">
     <Benefit skill="Skill.Trade" exp="26000" finalExp="2500" addFocus="false"/>
     <Benefit skill="Skill.Charm" exp="8000" finalExp="800" addFocus="false"/>
   </Book>
@@ -294,7 +294,7 @@
     <Benefit skill="Skill.Trade" exp="34500" finalExp="3500" addFocus="true"/>
   </Book>
   <!--Goseibaishikimoku-->
-  <Book id="book_66" item="Item.book_66" length="156" rarity="unique" desc="{=sBKwO1Rh}Fifty-one articles comprising the codes of the Kamakura shogunate. Filled with diverse content including the duties of guardians and landowners and codifies unique samurai jurisprudence that differs from the traditional court law and manor law." addFreeFocus="false">
+  <Book id="book_66" item="Item.book_66" length="156" rarity="unique" desc="{=sBKwO1Rh}Fifty-one articles comprising the codes of the Kamakura shogunate. Filled with diverse content including the duties of Shugo guardians and Jitou constables and codifies unique samurai jurisprudence that differs from the traditional court law and manor law." addFreeFocus="false">
     <Benefit skill="Skill.Steward" exp="34500" finalExp="3500" addFocus="true"/>
   </Book>
   <!--Sikimokushō-->
@@ -350,7 +350,7 @@
     <Benefit skill="Skill.Engineering" exp="39000" finalExp="4000" addFocus="true"/>
   </Book>
   <!--Bukeisōyō-->
-  <Book id="book_80" item="Item.book_80" length="148" rarity="rare" desc="{=jXNpbKGC}Sou Kouryo's completed collection of Shu military writings from the Song Dynasty. Each volume is filled with theories and doctrines on assorted military knowledge as well as descriptions of various siege engines and defensive equipment." addFreeFocus="false">
+  <Book id="book_80" item="Item.book_80" length="148" rarity="rare" desc="{=jXNpbKGC}Sou Kouryou (Zeng Gongliang)'s completed collection of military writings from the Song Dynasty. Each volume is filled with theories and doctrines on assorted military knowledge as well as descriptions of various siege engines and defensive equipment." addFreeFocus="false">
     <Benefit skill="Skill.Engineering" exp="31000" finalExp="3000" addFocus="true"/>
   </Book>
 </Books>
