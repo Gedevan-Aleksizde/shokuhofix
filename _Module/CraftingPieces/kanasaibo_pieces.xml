@@ -13,5 +13,5 @@
       <Material id="Iron4" count="3"/>
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="kanasaibo_empty_handle" name="{=koX9okuG}None" tier="1" piece_type="Handle" mesh="" length="0" weight="0" is_default="true"/>
+  <CraftingPiece id="kanasaibo_empty_handle" name="{=aa9227aa}None" tier="1" piece_type="Handle" mesh="" length="0" weight="0" is_default="true"/>
 </CraftingPieces>

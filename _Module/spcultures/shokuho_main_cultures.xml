@@ -6500,13 +6500,13 @@
     </basic_mercenary_troops>
   </Culture>
   <!--Duelist Culture-->
-  <Culture id="duelists" name="{=1sbJQR4H}Duelists" elite_basic_troop="NPCCharacter.looter" basic_troop="NPCCharacter.looter" is_bandit="false" can_have_settlement="false" encounter_background_mesh="encounter_looter">
+  <Culture id="duelists" name="{=aeAd4a91}Duelists" elite_basic_troop="NPCCharacter.looter" basic_troop="NPCCharacter.looter" is_bandit="false" can_have_settlement="false" encounter_background_mesh="encounter_looter">
     <banner_bearer_replacement_weapons>
       <item id="Item.sho_wakizashi_1"/>
     </banner_bearer_replacement_weapons>
   </Culture>
   <!--Temple Cultures-->
-  <Culture id="buddhists" name="{=jKviMpbP}Monks" basic_troop="NPCCharacter.monk_temple_follower" default_battle_equipment_roster="EquipmentRoster.buddhists_bat_template_medium_male" default_civilian_equipment_roster="EquipmentRoster.buddhists_civ_template_default_male" color="0xffd1d1d1" color2="0xff093b6b" faction_banner_key="11.163.166.1528.1528.764.764.1.0.0.740.171.171.483.483.764.764.0.0.0">
+  <Culture id="buddhists" name="{=8167C93f}Monks" basic_troop="NPCCharacter.monk_temple_follower" default_battle_equipment_roster="EquipmentRoster.buddhists_bat_template_medium_male" default_civilian_equipment_roster="EquipmentRoster.buddhists_civ_template_default_male" color="0xffd1d1d1" color2="0xff093b6b" faction_banner_key="11.163.166.1528.1528.764.764.1.0.0.740.171.171.483.483.764.764.0.0.0">
     <banner_bearer_replacement_weapons>
       <item id="Item.sho_wakizashi_1"/>
     </banner_bearer_replacement_weapons>

@@ -3888,7 +3888,7 @@
 	</string>
 	<string
 		id="str_salutation.father"
-		text="{=22a9fyiQ}Father">
+		text="{=d2321253}Father">
 		<tags>
 			<tag
 				tag_name="PlayerIsFatherTag"
@@ -3897,7 +3897,7 @@
 	</string>
 	<string
 		id="str_salutation.mother"
-		text="{=UB4sqrWx}Mother">
+		text="{=E1C1a873}Mother">
 		<tags>
 			<tag
 				tag_name="PlayerIsMotherTag"

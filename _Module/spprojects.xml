@@ -2,7 +2,7 @@
 <Projects>
 	<Project
 		id="none"
-		name="{=koX9okuG}None"
+		name="{=aa9227aa}None"
 		on_condition="none_on_condition"
 		needed_work_days="1000" />
 	<!--Project id="castle_light" name="Castle" on_condition="castle_on_condition" is_center_building="false" needed_work_days="20" on_project_start="castle_on_project_start" on_project_finish="castle_on_project_finish"/>
@@ -48,7 +48,7 @@
 		id="salt_mine"
 		converted_to="VillageType.salt_mine"
 		on_condition="salt_mine_on_condition"
-		name="{=3aOIY6wl}Salt Evaporation Pond"
+		name="{=FbA65608}Salt Evaporation Pond"
 		needed_work_days="30"
 		is_center_building="false"
 		on_project_start="salt_mine_on_project_start"

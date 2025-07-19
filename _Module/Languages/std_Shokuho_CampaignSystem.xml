@@ -77,7 +77,7 @@
     <string id="0wj3HIbh" text="Caravan entered {SETTLEMENT_LINK}." />
     <string id="0wlWgIeL" text="Wall Breaker" />
     <string id="0WOPfOIH" text="I'm afraid I don't have time to fight but I can use my influence." />
-    <string id="0wxRZ9AV" text="Armies led by Tier 5+ nobles require 10% less influence{newline}Influence of the ruler clan is reduced by 1 per day" />
+    <string id="B9745863" text="Armies led by Tier 5+ nobles require 10% less influence{newline}Influence of the ruler clan is reduced by 1 per day" />
     <string id="0XEaaoah" text="Rosazia" />
     <string id="0XOii9tg" text="The noble did not let {CHILD.NAME} go hand-to-hand with other warriors, but the young {?CHILD.GENDER}woman{?}man{\?} joined the archers as they traded shots with enemy scouts." />
     <string id="0XuFh3cX" text="Forest Kin" />
@@ -258,7 +258,7 @@
     <string id="38DvG2ba" text="Yeah? What is it now?" />
     <string id="38W2WloI" text="50% less speed penalty and 15% sight range bonus in forests." />
     <string id="3a6tmImq" text="{VALUE}% recruitment cost of infantry." />
-    <string id="3aOIY6wl" text="Salt Evaporation Pond" />
+    <string id="FbA65608" text="Salt Evaporation Pond" />
     <string id="3ApJ6LaX" text="You have transferred the recruits to {QUEST_GIVER.LINK} as promised." />
     <string id="3b4sjuMu" text="{VALUE} relationships with lords and ladies for succesful crafting orders." />
     <string id="3BvfOe1y" text="Very well then. You catch some more and you want me to take them off of your hands, you know where to find me..." />
@@ -2584,7 +2584,7 @@
     <string id="KODafKT7" text="Architectural Commissions" />
     <string id="kolBffjD" text="On The March" />
     <string id="KOlw0Na1" text="{VALUE}% reload speed to troops in your formation." />
-    <string id="koX9okuG" text="None" />
+    <string id="aa9227aa" text="None" />
     <string id="kOxu3Lw0" text="Yes... I run caravans, as you may know. I lose a few to bandits from time to time, but generally my caravans are sufficiently well guarded to scare off the small gangs and move quickly enough to outrun the big ones.The problem is that there's a new bandit chief out there who knows his business, who has outfitted his men with horses and uses proper cavalry tactics.I’ve lost three caravans in a row, and I can’t afford to keep this up for long." />
     <string id="kp19y5Hh" text="You paid off the landlords' retainers to forestall a mutiny. The village notables were grateful to you." />
     <string id="kPqs7EIf" text="giving the ruler more power to summon armies" />

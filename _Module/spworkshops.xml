@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <WorkshopTypes>
-	<WorkshopType id="sho_artisans" name="{=cMXsFSI8}Artisans" equipment_cost="1000000" frequency="0" jobname="{=qfzkMuLj}Artisan" isHidden="true" description="{=AfiEQPky}Every town has a few craftsman. Someone has to make everyday stuff for everyday people and most do it themselves.">
+	<WorkshopType id="sho_artisans" name="{=cMXsFSI8}Artisans" equipment_cost="1000000" frequency="0" jobname="{=qfzkMuLj}Artisan" isHidden="true" description="{=0cCa21d7}Every town has a few craftsman. Someone has to make everyday stuff for everyday people and most do it themselves.">
 		<Meshes sign_mesh_name="shop_sign_merchantbakery" shop_prop_mesh_name_1="shop_prop_merchantflour_a" shop_prop_mesh_name_2="shop_prop_merchantflour_b" shop_prop_mesh_name_3_1="shop_prop_merchantflour_c" shop_prop_mesh_name_4="Shop_prop_merchantbakery_d" shop_prop_mesh_name_5="Shop_prop_merchantbakery_e" shop_prop_mesh_name_6="Shop_prop_merchantbakery_f"/>
 		<Production conversion_speed="1">
 			<Inputs>
@@ -320,7 +320,7 @@
 			</Outputs>
 		</Production>
 	</WorkshopType>
-	<WorkshopType id="sho_oil_press" name="{=boupIGPX}Oil Press" frequency="2" equipment_cost="2000" jobname="{=wCuAxt4m}Oil Presser" description="{=vf74vJIL}Perilla or whale oil are converted into smooth oil in the press. Oil is used to light lamps, for soap, and for many other purposes.">
+	<WorkshopType id="sho_oil_press" name="{=5b72F69d}Oil Press" frequency="2" equipment_cost="2000" jobname="{=F91c0C2C}Oil Presser" description="{=vf74vJIL}Perilla or whale oil are converted into smooth oil in the press. Oil is used to light lamps, for soap, and for many other purposes.">
 		<Meshes sign_mesh_name="shop_sign_merchantpottery" shop_prop_mesh_name_1="shop_prop_merchantpottery_a" shop_prop_mesh_name_2="shop_prop_merchantpottery_b" shop_prop_mesh_name_3_1="shop_prop_merchantpottery_c" shop_prop_mesh_name_4="shop_prop_merchantpottery_d" shop_prop_mesh_name_5="shop_prop_merchantpottery_e" shop_prop_mesh_name_6="shop_prop_merchantpottery_f"/>
 		<Production conversion_speed="2.5">
 			<Inputs>
@@ -597,7 +597,7 @@
 			</Outputs>
 		</Production>
 	</WorkshopType>
-	<WorkshopType id="sho_tannery" name="{=7hx2Nlmd}Tannery" frequency="2" equipment_cost="2000" jobname="{=ousGnzju}Tanner" description="{=cawbOcb1}We treat raw hides with lime and other chemicals, and turn them into supple leather.">
+	<WorkshopType id="sho_tannery" name="{=7hx2Nlmd}Tannery" frequency="2" equipment_cost="2000" jobname="{=ousGnzju}Tanner" description="{=8aE2D858}We treat raw hides with lime and other chemicals, and turn them into supple leather.">
 		<Meshes sign_mesh_name="shop_sign_merchantleather" shop_prop_mesh_name_1="shop_prop_merchantarmory_a" shop_prop_mesh_name_2="shop_prop_merchantleather_b" shop_prop_mesh_name_3_1="shop_prop_merchantarmory_medium_c" shop_prop_mesh_name_4="shop_prop_merchantleather_d" shop_prop_mesh_name_5="shop_prop_merchantleather_e" shop_prop_mesh_name_6="shop_prop_merchantleather_f"/>
 		<Production conversion_speed="2">
 			<Inputs>
