@@ -132,7 +132,7 @@
   <Book id="book_29" item="Item.book_29" length="94" rarity="common" desc="{=EwYMTiHV}A scroll containing a list of names of katana smiths by region. Includes each smith’s inscriptions, weapon characteristics, anecdotes, and genealogical information." addFreeFocus="false">
     <Benefit skill="Skill.Crafting" exp="24000" finalExp="2500" addFocus="false"/>
   </Book>
-  <!--Oujyakushū-->
+  <!--Ousekishou-->
   <Book id="book_30" item="Item.book_30" length="106" rarity="common" desc="{=b5wKRFvG}A book finished by Saitou Toshimasa, started by his father, that covers around eight hundred forty Katana. Includes Katana from Awataguchi, Soushū, Chūgoku-Shikoku, Hokuriku, Bizen-Bitchū, and Kyushu." addFreeFocus="false">
     <Benefit skill="Skill.Crafting" exp="21000" finalExp="2300" addFocus="false"/>
   </Book>

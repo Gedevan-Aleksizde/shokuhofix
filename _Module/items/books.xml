@@ -154,7 +154,7 @@
 
 
     </Item>
-    <Item id="book_30" name="{=9ur29XYx}Oujyakushū" mesh="sho_book_a_1" item_category="sho_book" is_merchandise="false" value="11650" weight="1" Type="Book">
+    <Item id="book_30" name="{=9ur29XYx}Ousekishou" mesh="sho_book_a_1" item_category="sho_book" is_merchandise="false" value="11650" weight="1" Type="Book">
 
 
     </Item>
