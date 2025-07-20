@@ -638,8 +638,8 @@
   <string id="str_game_over_stat_item.BiggestArmyByPlayer" text="{=9a6ZBSGw}Biggest Army Formed by the Player"/>
   <string id="str_game_over_stat_item.EnemyClansDestroyed" text="{=BNynfsuy}Enemy Clans Destroyed"/>
   <string id="str_game_over_stat_item.HeroesKilledInBattle" text="{=ggMFUCVT}Heroes Killed In Battles"/>
-  <string id="str_game_over_stat_item.TroopsEliminatedByPlayer" text="{=HHaRDiuO}Troops Killed or Knocked Ouut In Person"/>
-  <string id="str_game_over_stat_item.TroopsEliminatedByParty" text="{=cLHMjwb5}Troops Killed or Knocked Ouut As A Party"/>
+  <string id="str_game_over_stat_item.TroopsEliminatedByPlayer" text="{=35c077a8}Troops Killed or Knocked Ouut In Person"/>
+  <string id="str_game_over_stat_item.TroopsEliminatedByParty" text="{=1e8fB869}Troops Killed or Knocked Ouut As A Party"/>
   <string id="str_game_over_stat_item.HeroPrisonersTaken" text="{=DV7u7B6A}Hero Prisoners Taken"/>
   <string id="str_game_over_stat_item.TroopPrisonersTaken" text="{=B8qJSb66}Troop Prisoners Taken"/>
   <string id="str_game_over_stat_item.CapturedTowns" text="{=3o6FDRsq}Captured Towns"/>
@@ -676,7 +676,7 @@
   <string id="str_arena_reward" text="{=LL6GkIfg}If you can beat {OPPONENT_COUNT_1} opponents before going down, you'll earn {PRIZE_1}{GOLD_ICON}. You'll get {PRIZE_2}{GOLD_ICON} for striking down at least {OPPONENT_COUNT_2} opponents, {PRIZE_3}{GOLD_ICON} if you can defeat {OPPONENT_COUNT_3} opponents, and an additional {PRIZE_4}{GOLD_ICON} for every additional opponent past {OPPONENT_COUNT_4} opponents. If you can manage to be the last fighter standing, you'll earn the great prize of the fights, {PRIZE_5}{GOLD_ICON}. Sounds good, eh?[if:convo_nonchalant]"/>
   <string id="str_random_spectator_line.1" text="{=OfsDA5TG}Get him!"/>
   <string id="str_random_spectator_line.2" text="{=ViYtcsBS}The left! No the other left!"/>
-  <string id="str_random_spectator_line.3" text="{=UPWxQMpj}Ouuch, that much have hurt."/>
+  <string id="str_random_spectator_line.3" text="{=UPWxQMpj}Ouch, that much have hurt."/>
   <string id="str_random_spectator_line.4" text="{=NQUCueoN}Put your legs into it!"/>
   <string id="str_kinai_vanguard_cost" text="{=psFYPrQx}Kinai Ashigaru Vanguard additional cost"/>
   <string id="str_tokai_hatamoto_cost" text="{=VbkKKYfL}Toukai Hatamoto additional cost"/>
@@ -685,8 +685,8 @@
   <!--Hideout Descriptions-->
   <string id="str_hideout_description.zoku" text="{=cu2cLT5r}You spy though the trees what seems to be a clearing in the forest with what appears to be the outlines of a camp."/>
   <string id="str_hideout_description.yato" text="{=cu2cLT5r}You spy though the trees what seems to be a clearing in the forest with what appears to be the outlines of a camp."/>
-  <string id="str_hideout_description.sanzoku" text="{=iyWUDSm8}Passing by the slopes of the mountains, you see an outcrop crowned with what appears to be the outlines of a camp."/>
-  <string id="str_hideout_description.wokou" text="{=bJ6ygV3P}As you travel along the coast, you see a section of beach with what appears to the outlines of a camp."/>
+  <string id="str_hideout_description.sanzoku" text="{=f043c6da}Passing by the slopes of the mountains, you see an outcrop crowned with what appears to be the outlines of a camp."/>
+  <string id="str_hideout_description.wokou" text="{=7243833f}As you travel along the coast, you see a section of beach with what appears to the outlines of a camp."/>
   <string id="str_hideout_description.ochimusya" text="{=cu2cLT5r}You spy though the trees what seems to be a clearing in the forest with what appears to be the outlines of a camp."/>
   <string id="str_temple_donation_no_gold" text="{=J13JMzI3}You do not have any money"/>
   <string id="str_gacha_inqure" text="{=9fZNPNmV}For {GOLD_COST} Gold you can take one of these crates off my hands and keep whatever is inside. It’s only fair I give you an equal chance, so I haven’t looked inside. It could be something I regret giving up or something I’ll be glad I parted with. Only one way to find out!{newline}What do you say?"/>

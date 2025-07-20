@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
   <strings>
     <string id="00bd3Huo" text="performing new rituals that treat the ruler as semi-divine" />
     <string id="00mulBcs" text="{VALUE}% damage bonus from speed with polearms by troops in your formation." />
@@ -2321,7 +2324,6 @@
     <string id="Iy5rylN0" text="I have {STOLEN_GOODS_SIZE} {.%}{?(STOLEN_GOODS_SIZE &gt; 1)}{PLURAL(STOLEN_GOOD)}{?}{STOLEN_GOOD}{\?}{.%}. I'll let you have them for {REQUESTED_PRICE}{GOLD_ICON}. You can't ask fairer than that - it's half the normal market price these days. I wouldn't try to sell them here - they might be recognized. But go to the next big city and no one will be any wiser. So, what you say?" />
     <string id="iyJaisRb" text="Village is successfully raided by the army you are following." />
     <string id="iYtzlRSN" text="I would rather be your middleman on this matter. I need to keep my money. You can have your men load up the {.%}{SELECTED_ITEM}{.%} already." />
-    <string id="iyWUDSm8" text="Passing by the slopes of the mountains, you see an outcrop crowned with the ruins of an ancient fortress." />
     <string id="izaW6jEJ" text="You can say that I am interested." />
     <string id="iZKtGI6Y" text="Your family arranged for you to accompany a minor baron of the Vlandian kingdom. You were not given major responsibilities - mostly carrying messages and tending to his horse -- but it did give you a chance to see how campaigns were planned and men were deployed in battle." />
     <string id="izzbaMUf" text="Wise decision." />

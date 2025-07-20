@@ -5573,7 +5573,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY1_1" name="{=j25R8lHH}Takasu" posX="345.262" posY="155.883" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY1_1" name="{=j25R8lHH}Takasu" posX="345.262" posY="155.883" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY1_1" village_type="VillageType.fishing" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5586,7 +5586,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY1_2" name="{=kWIpce0W}Aira" posX="353.817" posY="161.709" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY1_2" name="{=kWIpce0W}Aira" posX="353.817" posY="161.709" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY1_2" village_type="VillageType.vegetable_farm" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5599,7 +5599,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY1_3" name="{=LUmsTlq0}Kanoya" posX="348.055" posY="167.325" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY1_3" name="{=LUmsTlq0}Kanoya" posX="348.055" posY="167.325" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY1_3" village_type="VillageType.rice_farm" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5632,7 +5632,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY2_1" name="{=L6kjepZF}Kawakami" posX="316.008" posY="193.12" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY2_1" name="{=L6kjepZF}Kawakami" posX="316.008" posY="193.12" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY2_1" village_type="VillageType.copper_mine" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY2" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5645,7 +5645,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY2_2" name="{=p6O0gMzu}Imuta" posX="301.388" posY="198.767" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY2_2" name="{=p6O0gMzu}Imuta" posX="301.388" posY="198.767" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY2_2" village_type="VillageType.mandarin_farm" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY2" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5658,7 +5658,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY2_3" name="{=eJyaOfUD}Chiran" posX="301.075" posY="156.932" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY2_3" name="{=eJyaOfUD}Chiran" posX="301.075" posY="156.932" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY2_3" village_type="VillageType.lacquer" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY2" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5691,7 +5691,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY3_1" name="{=4XJg880P}Miyazaki" posX="410.391" posY="227.243" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY3_1" name="{=4XJg880P}Miyazaki" posX="410.391" posY="227.243" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY3_1" village_type="VillageType.ramie_farm" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY3" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5704,7 +5704,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY3_2" name="{=SVbVfUM2}Kiwaki" posX="400.7" posY="233.328" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY3_2" name="{=SVbVfUM2}Kiwaki" posX="400.7" posY="233.328" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY3_2" village_type="VillageType.rice_farm" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY3" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5717,7 +5717,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY3_3" name="{=BNks4KgV}Yuyae" posX="397.291" posY="262.544" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY3_3" name="{=BNks4KgV}Yuyae" posX="397.291" posY="262.544" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY3_3" village_type="VillageType.logger" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY3" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5750,7 +5750,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY4_1" name="{=4HuxiIxy}Okoba" posX="346.149" posY="251.182" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY4_1" name="{=4HuxiIxy}Okoba" posX="346.149" posY="251.182" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY4_1" village_type="VillageType.stone_mine" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5763,7 +5763,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY4_2" name="{=oFXG6Da7}Kinoue" posX="357.549" posY="249.671" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY4_2" name="{=oFXG6Da7}Kinoue" posX="357.549" posY="249.671" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY4_2" village_type="VillageType.rice_farm" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5776,7 +5776,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY4_3" name="{=5eaNziO9}Yamada" posX="348.137" posY="264.912" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY4_3" name="{=5eaNziO9}Yamada" posX="348.137" posY="264.912" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY4_3" village_type="VillageType.logger" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5809,7 +5809,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY5_1" name="{=ffcYS6qW}Hikiji" posX="465.682" posY="350.402" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY5_1" name="{=ffcYS6qW}Hikiji" posX="465.682" posY="350.402" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY5_1" village_type="VillageType.logger" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY5" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5822,7 +5822,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY5_2" name="{=sRoPcqQk}Isshakuya" posX="451.125" posY="380.071" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY5_2" name="{=sRoPcqQk}Isshakuya" posX="451.125" posY="380.071" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY5_2" village_type="VillageType.fishing" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY5" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5855,7 +5855,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY6_1" name="{=272067a2}Honjou" posX="359.867" posY="420.057" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY6_1" name="{=272067a2}Honjou" posX="359.867" posY="420.057" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY6_1" village_type="VillageType.sulfur_mine" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY6" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5868,7 +5868,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY6_2" name="{=ZqZ1vTUG}Hirotsu" posX="375.765" posY="430.58" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY6_2" name="{=ZqZ1vTUG}Hirotsu" posX="375.765" posY="430.58" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY6_2" village_type="VillageType.fishing" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY6" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5881,7 +5881,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY6_3" name="{=mlSVyux6}Urustu" posX="361.851" posY="443.866" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY6_3" name="{=mlSVyux6}Urustu" posX="361.851" posY="443.866" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY6_3" village_type="VillageType.fishing" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY6" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5914,7 +5914,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY7_1" name="{=HsmYTQSG}Shiozuka" posX="311.101" posY="366.029" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY7_1" name="{=HsmYTQSG}Shiozuka" posX="311.101" posY="366.029" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY7_1" village_type="VillageType.vegetable_farm" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY7" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5927,7 +5927,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY7_2" name="{=ul6hJmhX}Sarukaki" posX="291.18" posY="386.078" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY7_2" name="{=ul6hJmhX}Sarukaki" posX="291.18" posY="386.078" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY7_2" village_type="VillageType.tea_farm" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY7" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5940,7 +5940,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY7_3" name="{=FfxSAyD5}Tachiarai" posX="306.816" posY="405.544" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY7_3" name="{=FfxSAyD5}Tachiarai" posX="306.816" posY="405.544" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY7_3" village_type="VillageType.lacquer" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY7" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5974,7 +5974,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY8_1" name="{=r0VfhBU0}Mifune" posX="341.704" posY="320.003" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY8_1" name="{=r0VfhBU0}Mifune" posX="341.704" posY="320.003" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY8_1" village_type="VillageType.silk_farm" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY8" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5987,7 +5987,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY8_2" name="{=RGjU5dz5}Umeo" posX="320.523" posY="354.16" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY8_2" name="{=RGjU5dz5}Umeo" posX="320.523" posY="354.16" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY8_2" village_type="VillageType.clay_mine" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY8" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6000,7 +6000,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY8_3" name="{=DAWFhgck}Kikuchi" posX="354.103" posY="360.145" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY8_3" name="{=DAWFhgck}Kikuchi" posX="354.103" posY="360.145" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY8_3" village_type="VillageType.dye_farm" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY8" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6033,7 +6033,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY9_1" name="{=vAe5refA}Mizuki" posX="318.793" posY="426.571" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY9_1" name="{=vAe5refA}Mizuki" posX="318.793" posY="426.571" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY9_1" village_type="VillageType.clay_mine" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY9" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6046,7 +6046,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY9_2" name="{=CpUJiWgf}Komono" posX="318.725" posY="452.309" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY9_2" name="{=CpUJiWgf}Komono" posX="318.725" posY="452.309" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY9_2" village_type="VillageType.iron_mine" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY9" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6079,7 +6079,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY10_1" name="{=XVb1ehch}Tokushima" posX="277.018" posY="386.583" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY10_1" name="{=XVb1ehch}Tokushima" posX="277.018" posY="386.583" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY10_1" village_type="VillageType.horse_ranch" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY10" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6092,7 +6092,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY10_2" name="{=0aitRUqP}Sarushi" posX="270.961" posY="389.538" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY10_2" name="{=0aitRUqP}Sarushi" posX="270.961" posY="389.538" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY10_2" village_type="VillageType.ramie_farm" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY10" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6125,7 +6125,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY11_1" name="{=EjeToav7}Kuchinotsu" posX="269.847" posY="319.412" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY11_1" name="{=EjeToav7}Kuchinotsu" posX="269.847" posY="319.412" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY11_1" village_type="VillageType.whale" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY11" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6138,7 +6138,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY11_2" name="{=31c5fbDc}Koujirou" posX="282.294" posY="339.982" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY11_2" name="{=31c5fbDc}Koujirou" posX="282.294" posY="339.982" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY11_2" village_type="VillageType.logger" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY11" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6151,7 +6151,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KY11_3" name="{=UxE57P3d}Hamano" posX="291.635" posY="329.435" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="village_KY11_3" name="{=UxE57P3d}Hamano" posX="291.635" posY="329.435" culture="Culture.saikai" text="">
     <Components>
       <Village id="village_comp_KY11_3" village_type="VillageType.fishing" hearth="218" gate_rotation="0.008" bound="Settlement.town_KY11" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6174,7 +6174,7 @@
       <Location id="prison" scene_name="sho_prison_b"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY1_1" name="{=rRgHbmlr}Nejime" posX="347.085" posY="128.559" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY1_1" name="{=rRgHbmlr}Nejime" posX="347.085" posY="128.559" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY1_1" village_type="VillageType.cotton_farm" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6187,7 +6187,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY1_2" name="{=WZH3w9tF}Noma" posX="346.178" posY="144.408" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY1_2" name="{=WZH3w9tF}Noma" posX="346.178" posY="144.408" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY1_2" village_type="VillageType.fishing" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6210,7 +6210,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY2_1" name="{=tQmhIOIF}Shibushitsu" posX="376.916" posY="174.199" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY2_1" name="{=tQmhIOIF}Shibushitsu" posX="376.916" posY="174.199" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY2_1" village_type="VillageType.tea_farm" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY2" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6223,7 +6223,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY2_2" name="{=OIi5cXVf}Anraku" posX="366.816" posY="182.566" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY2_2" name="{=OIi5cXVf}Anraku" posX="366.816" posY="182.566" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY2_2" village_type="VillageType.stone_mine" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY2" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6246,7 +6246,7 @@
       <Location id="prison" scene_name="sho_prison_b"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY3_1" name="{=1Fr3VoTo}Tarumizu" posX="340.952" posY="174.947" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY3_1" name="{=1Fr3VoTo}Tarumizu" posX="340.952" posY="174.947" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY3_1" village_type="VillageType.rice_farm" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY3" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6259,7 +6259,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY3_2" name="{=hLETw6Gd}Nogata" posX="358.984" posY="172.317" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY3_2" name="{=hLETw6Gd}Nogata" posX="358.984" posY="172.317" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY3_2" village_type="VillageType.iron_mine" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY3" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6282,7 +6282,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY4_1" name="{=GKxseaL3}Umekita" posX="372.196" posY="199.082" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY4_1" name="{=GKxseaL3}Umekita" posX="372.196" posY="199.082" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY4_1" village_type="VillageType.lacquer" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6295,7 +6295,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY4_2" name="{=NH7hv1F0}Takarabe" posX="359.379" posY="209.388" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY4_2" name="{=NH7hv1F0}Takarabe" posX="359.379" posY="209.388" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY4_2" village_type="VillageType.rice_farm" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6318,7 +6318,7 @@
       <Location id="prison" scene_name="sho_prison_b"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY5_1" name="{=yIiSFFeh}Kamou" posX="313.048" posY="210.614" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY5_1" name="{=yIiSFFeh}Kamou" posX="313.048" posY="210.614" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY5_1" village_type="VillageType.vegetable_farm" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY5" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6331,7 +6331,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY5_2" name="{=NahCzVBn}Hiramatsu" posX="316.808" posY="202.625" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY5_2" name="{=NahCzVBn}Hiramatsu" posX="316.808" posY="202.625" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY5_2" village_type="VillageType.lacquer" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY5" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6354,7 +6354,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY6_1" name="{=DHj4tjcO}Tajiri" posX="294.488" posY="169.299" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY6_1" name="{=DHj4tjcO}Tajiri" posX="294.488" posY="169.299" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY6_1" village_type="VillageType.whale" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY6" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6367,7 +6367,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY6_2" name="{=J9ojWArl}Bounotsu" posX="280.822" posY="147" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY6_2" name="{=J9ojWArl}Bounotsu" posX="280.822" posY="147" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY6_2" village_type="VillageType.whale" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY6" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6390,7 +6390,7 @@
       <Location id="prison" scene_name="sho_prison_b"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY7_1" name="{=1PXeijMQ}Yamagawa" posX="310.603" posY="157.417" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY7_1" name="{=1PXeijMQ}Yamagawa" posX="310.603" posY="157.417" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY7_1" village_type="VillageType.fishing" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY7" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6403,7 +6403,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY7_2" name="{=f1qlejME}Ibusuki" posX="305.726" posY="146.8" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY7_2" name="{=f1qlejME}Ibusuki" posX="305.726" posY="146.8" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY7_2" village_type="VillageType.fishing" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY7" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6426,7 +6426,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY8_1" name="{=fCbUH9xs}Ikejima" posX="345.943" posY="233.224" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY8_1" name="{=fCbUH9xs}Ikejima" posX="345.943" posY="233.224" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY8_1" village_type="VillageType.copper_mine" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY8" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6439,7 +6439,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY8_2" name="{=ABY7N8bq}Shiratori" posX="347.037" posY="225.071" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY8_2" name="{=ABY7N8bq}Shiratori" posX="347.037" posY="225.071" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY8_2" village_type="VillageType.stone_mine" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY8" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6462,7 +6462,7 @@
       <Location id="prison" scene_name="sho_prison_b"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY9_1" name="{=5cBCgUn1}Kushikino" posX="291.199" posY="201.194" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY9_1" name="{=5cBCgUn1}Kushikino" posX="291.199" posY="201.194" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY9_1" village_type="VillageType.trapper" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY9" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6475,7 +6475,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY9_2" name="{=fzrGQOuD}Fujikawa" posX="288.195" posY="222.576" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY9_2" name="{=fzrGQOuD}Fujikawa" posX="288.195" posY="222.576" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY9_2" village_type="VillageType.gold_mine" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY9" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6498,7 +6498,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY10_1" name="{=FKAHnPeI}Akune" posX="280.576" posY="229.265" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY10_1" name="{=FKAHnPeI}Akune" posX="280.576" posY="229.265" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY10_1" village_type="VillageType.whale" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY10" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6511,7 +6511,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY10_2" name="{=HT1TJQRB}Douzaki" posX="267.235" posY="256.896" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY10_2" name="{=HT1TJQRB}Douzaki" posX="267.235" posY="256.896" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY10_2" village_type="VillageType.fishing" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY10" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6534,7 +6534,7 @@
       <Location id="prison" scene_name="sho_prison_b"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY11_1" name="{=cXYrWwnD}Sakatani" posX="390.827" posY="194.836" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY11_1" name="{=cXYrWwnD}Sakatani" posX="390.827" posY="194.836" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY11_1" village_type="VillageType.dye_farm" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY11" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6547,7 +6547,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY11_2" name="{=hih1prHh}Aburatsu" posX="402.57" posY="180.694" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY11_2" name="{=hih1prHh}Aburatsu" posX="402.57" posY="180.694" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY11_2" village_type="VillageType.logger" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY11" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6570,7 +6570,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY12_1" name="{=JHhvCoXG}Kagamizu" posX="401.386" posY="205.194" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY12_1" name="{=JHhvCoXG}Kagamizu" posX="401.386" posY="205.194" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY12_1" village_type="VillageType.logger" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY12" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6583,7 +6583,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY12_2" name="{=o7OrcwcK}Soi" posX="401.929" posY="224.284" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY12_2" name="{=o7OrcwcK}Soi" posX="401.929" posY="224.284" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY12_2" village_type="VillageType.horse_ranch" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY12" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6606,7 +6606,7 @@
       <Location id="prison" scene_name="sho_prison_b"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY13_1" name="{=3DfoUkQy}Nojiri" posX="383.851" posY="227.06" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY13_1" name="{=3DfoUkQy}Nojiri" posX="383.851" posY="227.06" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY13_1" village_type="VillageType.clay_mine" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY13" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6619,7 +6619,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY13_2" name="{=UysYG0ST}Minou" posX="399.32" posY="250.152" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY13_2" name="{=UysYG0ST}Minou" posX="399.32" posY="250.152" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY13_2" village_type="VillageType.sulfur_mine" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY13" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6642,7 +6642,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY14_1" name="{=52F3249d}Shiomi" posX="428.195" posY="278.43" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY14_1" name="{=52F3249d}Shiomi" posX="428.195" posY="278.43" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY14_1" village_type="VillageType.salt_mine" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY14" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6655,7 +6655,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY14_2" name="{=8sz0tXhd}Sasouzu" posX="428.095" posY="308.877" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY14_2" name="{=8sz0tXhd}Sasouzu" posX="428.095" posY="308.877" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY14_2" village_type="VillageType.trapper" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY14" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6678,7 +6678,7 @@
       <Location id="prison" scene_name="sho_prison_b"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY15_1" name="{=RnY20xbi}Kume" posX="363.723" posY="258.569" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY15_1" name="{=RnY20xbi}Kume" posX="363.723" posY="258.569" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY15_1" village_type="VillageType.cotton_farm" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY15" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6691,7 +6691,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY15_2" name="{=52F3249d}Shiomi" posX="381.1" posY="259.09" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY15_2" name="{=52F3249d}Shiomi" posX="381.1" posY="259.09" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY15_2" village_type="VillageType.rice_farm" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY15" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6714,7 +6714,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY16_1" name="{=7CLX8g0B}Hatsuki" posX="307.359" posY="230.644" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY16_1" name="{=7CLX8g0B}Hatsuki" posX="307.359" posY="230.644" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY16_1" village_type="VillageType.logger" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY16" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6727,7 +6727,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY16_2" name="{=UiKJPgNh}Ushikusoin" posX="323.211" posY="240.409" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY16_2" name="{=UiKJPgNh}Ushikusoin" posX="323.211" posY="240.409" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY16_2" village_type="VillageType.rice_farm" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY16" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6750,7 +6750,7 @@
       <Location id="prison" scene_name="sho_prison_b"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY17_1" name="{=VtJMB9Su}Tokubuchitsu" posX="319.02" posY="292.38" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY17_1" name="{=VtJMB9Su}Tokubuchitsu" posX="319.02" posY="292.38" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY17_1" village_type="VillageType.fishing" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY17" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6763,7 +6763,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY17_2" name="{=MnzEGhcs}Sashiki" posX="321.771" posY="273.857" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY17_2" name="{=MnzEGhcs}Sashiki" posX="321.771" posY="273.857" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY17_2" village_type="VillageType.trapper" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY17" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6786,7 +6786,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY18_1" name="{=3E9YRaFR}Terajihama" posX="430.367" posY="371.324" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY18_1" name="{=3E9YRaFR}Terajihama" posX="430.367" posY="371.324" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY18_1" village_type="VillageType.chestnut_farm" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY18" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6799,7 +6799,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY18_2" name="{=TLZ8fwHD}Senzai" posX="425.135" posY="386.948" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY18_2" name="{=TLZ8fwHD}Senzai" posX="425.135" posY="386.948" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY18_2" village_type="VillageType.fishing" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY18" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6822,7 +6822,7 @@
       <Location id="prison" scene_name="sho_prison_b"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY19_1" name="{=RJwm8sOR}Fujikita" posX="404.436" posY="380.971" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY19_1" name="{=RJwm8sOR}Fujikita" posX="404.436" posY="380.971" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY19_1" village_type="VillageType.rice_farm" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY19" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6835,7 +6835,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY19_2" name="{=OHnTDMNl}Ichimada" posX="397.882" posY="372.685" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY19_2" name="{=OHnTDMNl}Ichimada" posX="397.882" posY="372.685" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY19_2" village_type="VillageType.cotton_farm" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY19" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6858,7 +6858,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY20_1" name="{=91EB12f9}Nada" posX="407.756" posY="403.072" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY20_1" name="{=91EB12f9}Nada" posX="407.756" posY="403.072" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY20_1" village_type="VillageType.ramie_farm" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY20" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6871,7 +6871,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY20_2" name="{=GP8I3F8l}Takada" posX="393.29" posY="414.855" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY20_2" name="{=GP8I3F8l}Takada" posX="393.29" posY="414.855" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY20_2" village_type="VillageType.dye_farm" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY20" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6894,7 +6894,7 @@
       <Location id="prison" scene_name="sho_prison_b"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY21_1" name="{=svF9a3AO}Chikushū-Sakamoto" posX="346.522" posY="413.405" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY21_1" name="{=svF9a3AO}Chikushū-Sakamoto" posX="346.522" posY="413.405" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY21_1" village_type="VillageType.tea_farm" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY21" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6907,7 +6907,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY21_2" name="{=dCD739MX}Ishimatsu" posX="355.953" posY="407.124" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY21_2" name="{=dCD739MX}Ishimatsu" posX="355.953" posY="407.124" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY21_2" village_type="VillageType.logger" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY21" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6930,7 +6930,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY22_1" name="{=eBLaHjSJ}Mizoguchi" posX="314.517" posY="391.836" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY22_1" name="{=eBLaHjSJ}Mizoguchi" posX="314.517" posY="391.836" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY22_1" village_type="VillageType.rice_farm" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY22" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6943,7 +6943,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY22_2" name="{=YIGWJwKV}Yabe" posX="333.443" posY="362.602" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY22_2" name="{=YIGWJwKV}Yabe" posX="333.443" posY="362.602" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY22_2" village_type="VillageType.salt_mine" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY22" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6966,7 +6966,7 @@
       <Location id="prison" scene_name="sho_prison_b"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY23_1" name="{=5OrsY3Wz}Maki" posX="367.829" posY="329.937" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY23_1" name="{=1C2cA1b6}Maki" posX="367.829" posY="329.937" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY23_1" village_type="VillageType.logger" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY23" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -6979,7 +6979,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY23_2" name="{=Ucg7oX28}Takaba" posX="345.161" posY="347.985" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY23_2" name="{=Ucg7oX28}Takaba" posX="345.161" posY="347.985" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY23_2" village_type="VillageType.horse_ranch" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY23" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7002,7 +7002,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY24_1" name="{=aopAmhHp}Okurayama" posX="334.082" posY="455.144" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY24_1" name="{=aopAmhHp}Okurayama" posX="334.082" posY="455.144" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY24_1" village_type="VillageType.rice_farm" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY24" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7015,7 +7015,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY24_2" name="{=XqBNIq9G}Ousaka" posX="343.675" posY="437.57" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY24_2" name="{=XqBNIq9G}Ousaka" posX="343.675" posY="437.57" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY24_2" village_type="VillageType.mandarin_farm" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY24" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7038,7 +7038,7 @@
       <Location id="prison" scene_name="sho_prison_b"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY25_1" name="{=0QTdZKo2}Moji" posX="359.794" posY="473.612" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY25_1" name="{=0QTdZKo2}Moji" posX="359.794" posY="473.612" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY25_1" village_type="VillageType.fishing" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY25" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7051,7 +7051,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY25_2" name="{=aALll4Gm}Nagano" posX="351.218" posY="454.378" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY25_2" name="{=aALll4Gm}Nagano" posX="351.218" posY="454.378" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY25_2" village_type="VillageType.gold_mine" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY25" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7074,7 +7074,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY26_1" name="{=qTl7CJAl}Kanoe" posX="299.019" posY="398.166" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY26_1" name="{=qTl7CJAl}Kanoe" posX="299.019" posY="398.166" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY26_1" village_type="VillageType.stone_mine" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY26" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7087,7 +7087,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY26_2" name="{=5u0Pc117}Sakimura" posX="283.687" posY="388.419" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY26_2" name="{=5u0Pc117}Sakimura" posX="283.687" posY="388.419" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY26_2" village_type="VillageType.rice_farm" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY26" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7110,7 +7110,7 @@
       <Location id="prison" scene_name="sho_prison_b"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY27_1" name="{=SBckHhdZ}Chifu" posX="279.986" posY="407.234" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY27_1" name="{=SBckHhdZ}Chifu" posX="279.986" posY="407.234" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY27_1" village_type="VillageType.vegetable_farm" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY27" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7123,7 +7123,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY27_2" name="{=2lDJWmDh}Imayama" posX="275.65" posY="417.902" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY27_2" name="{=2lDJWmDh}Imayama" posX="275.65" posY="417.902" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY27_2" village_type="VillageType.cotton_farm" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY27" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7146,7 +7146,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY28_1" name="{=TMiJJOHo}Hazama" posX="257.47" posY="404.265" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY28_1" name="{=TMiJJOHo}Hazama" posX="257.47" posY="404.265" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY28_1" village_type="VillageType.sulfur_mine" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY28" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7159,7 +7159,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY28_2" name="{=kYDrfyq9}Haruke" posX="267.325" posY="406.523" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY28_2" name="{=kYDrfyq9}Haruke" posX="267.325" posY="406.523" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY28_2" village_type="VillageType.iron_mine" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY28" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7182,7 +7182,7 @@
       <Location id="prison" scene_name="sho_prison_b"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY29_1" name="{=nBaMGgNo}Iwamatsu" posX="260.274" posY="336.184" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY29_1" name="{=nBaMGgNo}Iwamatsu" posX="260.274" posY="336.184" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY29_1" village_type="VillageType.rice_farm" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY29" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7195,7 +7195,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY29_2" name="{=b7yO79tn}Nagasaki" posX="237.517" posY="326.026" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY29_2" name="{=b7yO79tn}Nagasaki" posX="237.517" posY="326.026" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY29_2" village_type="VillageType.fishing" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY29" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7218,7 +7218,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KY30_1" name="{=0AIh4sLQ}Ojima" posX="262.842" posY="370.758" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY30_1" name="{=0AIh4sLQ}Ojima" posX="262.842" posY="370.758" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY30_1" village_type="VillageType.silver_mine" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY30" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7231,7 +7231,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KY30_2" name="{=pyqR4PGc}Kishima" posX="251.248" posY="372.44" culture="Culture.saikai" text="{=shokuho47a91543}">
+  <Settlement id="castle_village_KY30_2" name="{=pyqR4PGc}Kishima" posX="251.248" posY="372.44" culture="Culture.saikai" text="">
     <Components>
       <Village id="castle_village_comp_KY30_2" village_type="VillageType.trapper" hearth="218" gate_rotation="0.008" bound="Settlement.castle_KY30" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7336,7 +7336,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_SHI1_1" name="{=r2zh2zgG}Kashiwajima" posX="553.702" posY="338.281" culture="Culture.nankai" text="{=shokuho47a91543}">
+  <Settlement id="village_SHI1_1" name="{=r2zh2zgG}Kashiwajima" posX="553.702" posY="338.281" culture="Culture.nankai" text="">
     <Components>
       <Village id="village_comp_SHI1_1" village_type="VillageType.salt_mine" hearth="218" gate_rotation="0.008" bound="Settlement.town_SHI1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7349,7 +7349,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_SHI1_2" name="{=62C1a440}Tosa-Shimizu" posX="576.518" posY="335.32" culture="Culture.nankai" text="{=shokuho47a91543}">
+  <Settlement id="village_SHI1_2" name="{=62C1a440}Tosa-Shimizu" posX="576.518" posY="335.32" culture="Culture.nankai" text="">
     <Components>
       <Village id="village_comp_SHI1_2" village_type="VillageType.clay_mine" hearth="218" gate_rotation="0.008" bound="Settlement.town_SHI1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7362,7 +7362,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_SHI1_3" name="{=v1JzXhFl}Irino" posX="587.687" posY="365.634" culture="Culture.nankai" text="{=shokuho47a91543}">
+  <Settlement id="village_SHI1_3" name="{=v1JzXhFl}Irino" posX="587.687" posY="365.634" culture="Culture.nankai" text="">
     <Components>
       <Village id="village_comp_SHI1_3" village_type="VillageType.whale" hearth="218" gate_rotation="0.008" bound="Settlement.town_SHI1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7395,7 +7395,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_SHI2_1" name="{=nP4eDvur}Itashima" posX="551.633" posY="391.336" culture="Culture.nankai" text="{=shokuho47a91543}">
+  <Settlement id="village_SHI2_1" name="{=nP4eDvur}Itashima" posX="551.633" posY="391.336" culture="Culture.nankai" text="">
     <Components>
       <Village id="village_comp_SHI2_1" village_type="VillageType.silk_farm" hearth="218" gate_rotation="0.008" bound="Settlement.town_SHI2" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7408,7 +7408,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_SHI2_2" name="{=5RlNrax2}Yawatahama" posX="558.904" posY="404.831" culture="Culture.nankai" text="{=shokuho47a91543}">
+  <Settlement id="village_SHI2_2" name="{=5RlNrax2}Yawatahama" posX="558.904" posY="404.831" culture="Culture.nankai" text="">
     <Components>
       <Village id="village_comp_SHI2_2" village_type="VillageType.silver_mine" hearth="218" gate_rotation="0.008" bound="Settlement.town_SHI2" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7421,7 +7421,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_SHI2_3" name="{=Y3U6iVbc}Hoketsu" posX="572.452" posY="392.783" culture="Culture.nankai" text="{=shokuho47a91543}">
+  <Settlement id="village_SHI2_3" name="{=Y3U6iVbc}Hoketsu" posX="572.452" posY="392.783" culture="Culture.nankai" text="">
     <Components>
       <Village id="village_comp_SHI2_3" village_type="VillageType.vegetable_farm" hearth="218" gate_rotation="0.008" bound="Settlement.town_SHI2" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7454,7 +7454,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_SHI4_1" name="{=cOkHyAGW}Ebara" posX="580.677" posY="450.65" culture="Culture.nankai" text="{=shokuho47a91543}">
+  <Settlement id="village_SHI4_1" name="{=cOkHyAGW}Ebara" posX="580.677" posY="450.65" culture="Culture.nankai" text="">
     <Components>
       <Village id="village_comp_SHI4_1" village_type="VillageType.horse_ranch" hearth="218" gate_rotation="0.008" bound="Settlement.town_SHI4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7467,7 +7467,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_SHI4_2" name="{=nlTcnzDH}Masaki" posX="562.48" posY="453.926" culture="Culture.nankai" text="{=shokuho47a91543}">
+  <Settlement id="village_SHI4_2" name="{=nlTcnzDH}Masaki" posX="562.48" posY="453.926" culture="Culture.nankai" text="">
     <Components>
       <Village id="village_comp_SHI4_2" village_type="VillageType.ramie_farm" hearth="218" gate_rotation="0.008" bound="Settlement.town_SHI4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7480,7 +7480,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_SHI4_3" name="{=wQMWYpmM}Mitsuhama" posX="568.832" posY="471.427" culture="Culture.nankai" text="{=shokuho47a91543}">
+  <Settlement id="village_SHI4_3" name="{=wQMWYpmM}Mitsuhama" posX="568.832" posY="471.427" culture="Culture.nankai" text="">
     <Components>
       <Village id="village_comp_SHI4_3" village_type="VillageType.rice_farm" hearth="218" gate_rotation="0.008" bound="Settlement.town_SHI4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7513,7 +7513,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_SHI5_1" name="{=q6ybFEVI}Urado" posX="647.327" posY="425.535" culture="Culture.nankai" text="{=shokuho47a91543}">
+  <Settlement id="village_SHI5_1" name="{=q6ybFEVI}Urado" posX="647.327" posY="425.535" culture="Culture.nankai" text="">
     <Components>
       <Village id="village_comp_SHI5_1" village_type="VillageType.lacquer" hearth="218" gate_rotation="0.008" bound="Settlement.town_SHI5" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7526,7 +7526,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_SHI5_2" name="{=7XDTcaQb}Motoyama" posX="663.01" posY="447.21" culture="Culture.nankai" text="{=shokuho47a91543}">
+  <Settlement id="village_SHI5_2" name="{=7XDTcaQb}Motoyama" posX="663.01" posY="447.21" culture="Culture.nankai" text="">
     <Components>
       <Village id="village_comp_SHI5_2" village_type="VillageType.rice_farm" hearth="218" gate_rotation="0.008" bound="Settlement.town_SHI5" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7539,7 +7539,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_SHI5_3" name="{=nmm8Bu6b}Kouso" posX="670.984" posY="432.153" culture="Culture.nankai" text="{=shokuho47a91543}">
+  <Settlement id="village_SHI5_3" name="{=nmm8Bu6b}Kouso" posX="670.984" posY="432.153" culture="Culture.nankai" text="">
     <Components>
       <Village id="village_comp_SHI5_3" village_type="VillageType.logger" hearth="218" gate_rotation="0.008" bound="Settlement.town_SHI5" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7572,7 +7572,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_SHI6_1" name="{=AnrHVvKK}Nio" posX="666.77" posY="497.28" culture="Culture.nankai" text="{=shokuho47a91543}">
+  <Settlement id="village_SHI6_1" name="{=AnrHVvKK}Nio" posX="666.77" posY="497.28" culture="Culture.nankai" text="">
     <Components>
       <Village id="village_comp_SHI6_1" village_type="VillageType.salt_mine" hearth="218" gate_rotation="0.008" bound="Settlement.town_SHI6" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7585,7 +7585,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_SHI6_2" name="{=aMpkMmHq}Tadotsu" posX="678.412" posY="516.316" culture="Culture.nankai" text="{=shokuho47a91543}">
+  <Settlement id="village_SHI6_2" name="{=aMpkMmHq}Tadotsu" posX="678.412" posY="516.316" culture="Culture.nankai" text="">
     <Components>
       <Village id="village_comp_SHI6_2" village_type="VillageType.salt_mine" hearth="218" gate_rotation="0.008" bound="Settlement.town_SHI6" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7618,7 +7618,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_SHI7_1" name="{=ku69fD7c}Tachibana" posX="753.427" posY="471.229" culture="Culture.nankai" text="{=shokuho47a91543}">
+  <Settlement id="village_SHI7_1" name="{=ku69fD7c}Tachibana" posX="753.427" posY="471.229" culture="Culture.nankai" text="">
     <Components>
       <Village id="village_comp_SHI7_1" village_type="VillageType.logger" hearth="218" gate_rotation="0.008" bound="Settlement.town_SHI7" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7631,7 +7631,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_SHI7_2" name="{=x0ujuUWA}Hirashima" posX="762.172" posY="491.726" culture="Culture.nankai" text="{=shokuho47a91543}">
+  <Settlement id="village_SHI7_2" name="{=x0ujuUWA}Hirashima" posX="762.172" posY="491.726" culture="Culture.nankai" text="">
     <Components>
       <Village id="village_comp_SHI7_2" village_type="VillageType.dye_farm" hearth="218" gate_rotation="0.008" bound="Settlement.town_SHI7" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7644,7 +7644,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_SHI7_3" name="{=7a11B557}Yuki" posX="760.98" posY="458.215" culture="Culture.nankai" text="{=shokuho47a91543}">
+  <Settlement id="village_SHI7_3" name="{=7a11B557}Yuki" posX="760.98" posY="458.215" culture="Culture.nankai" text="">
     <Components>
       <Village id="village_comp_SHI7_3" village_type="VillageType.tea_farm" hearth="218" gate_rotation="0.008" bound="Settlement.town_SHI7" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -8466,7 +8466,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_TOHO8" name="{=d2r4B3vq}Tosaminato" owner="Faction.clan_namioka_1" posX="1412.494" posY="1384.683" culture="Culture.ou" gate_posX="1415.896" gate_posY="1384.651" text="{=oUeaHLhb}Located in the northernmost reaches of Honshu, Tosaminato serves as a key trade hub with the Ainu people of Hokkaido although the harsh winters and isolation make it difficult to defend, leaving it vulnerable to raids. Once a thriving port and administrative center of the Andō clan, Tosaminato has declined following the clan’s expulsion.">
+  <Settlement id="town_TOHO8" name="{=d2r4B3vq}Tosaminato" owner="Faction.clan_namioka_1" posX="1412.494" posY="1384.683" culture="Culture.ou" gate_posX="1415.896" gate_posY="1384.651" text="{=oUeaHLhb}Located in the northernmost reaches of Honshu, Tosaminato serves as a key trade hub with the Ainu people of Hokkaido although the harsh winters and isolation make it difficult to defend, leaving it vulnerable to raids. Once a thriving port and administrative center of the Andou clan, Tosaminato has declined following the clan’s expulsion.">
     <Components>
       <Town id="town_comp_TOHO8" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="2880"/>
     </Components>

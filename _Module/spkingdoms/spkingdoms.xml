@@ -148,7 +148,7 @@
     <relationships> </relationships>
     <policies> </policies>
   </Kingdom>
-  <Kingdom id="aso" owner="Hero.lord_1_aso" banner_key="11.163.166.1528.1528.764.764.1.0.0.612.171.171.483.483.764.764.0.0.0" primary_banner_color="0xffAD0017" secondary_banner_color="0xffF3F4F8" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.saikai" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=aFBneNkA}Aso Ryougoku" short_name="{=ONWqd9Hd}Aso" title="{=ONWqd9Hd}Aso" ruler_title="{=tRwThwR8}Daimyou" text="">
+  <Kingdom id="aso" owner="Hero.lord_1_aso" banner_key="11.163.166.1528.1528.764.764.1.0.0.612.171.171.483.483.764.764.0.0.0" primary_banner_color="0xffAD0017" secondary_banner_color="0xffF3F4F8" label_color="FFDB8330" color="FF9E5072" color2="FFDE9953" alternative_color="FF1F1D1F" alternative_color2="FFc28446" culture="Culture.saikai" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" name="{=aFBneNkA}Aso Ryougoku" short_name="{=EFBD0B8}Aso" title="{=20adb94}Aso" ruler_title="{=tRwThwR8}Daimyou" text="">
     <relationships> </relationships>
     <policies> </policies>
   </Kingdom>

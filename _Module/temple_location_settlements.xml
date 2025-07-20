@@ -40,7 +40,7 @@
       <TempleLocationComponent id="temple_location_id_9" religion="Religion.shinto" prosperity="162"/>
     </Components>
   </Settlement>
-  <Settlement id="temple_location_10" name="{=aw4yZS3Z}Tsuno-jinja Shrine" posX="426.37" posY="272.24" text="{=c4B95E26}Ōnamuchi no mikoto, aka Ōkuninushi no mikoto" culture="Culture.buddhists">
+  <Settlement id="temple_location_10" name="{=aw4yZS3Z}Tsuno-jinja Shrine" posX="426.37" posY="272.24" text="{=c4B95E26}Enshrined: Ōnamuchi no mikoto, aka Ōkuninushi no mikoto" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_10" religion="Religion.shinto" prosperity="141"/>
     </Components>
@@ -255,7 +255,7 @@
       <TempleLocationComponent id="temple_location_id_54" religion="Religion.shingon" prosperity="156"/>
     </Components>
   </Settlement>
-  <Settlement id="temple_location_55" name="{=OZevhEZP}Samukawa-jinja Shrine" posX="1299.508" posY="662.108" text="{=ShokuhoCb71A969}{~36A24b10}Enshrined: Samukawahiko no mikoto and Samukawahime no mikoto" culture="Culture.buddhists">
+  <Settlement id="temple_location_55" name="{=OZevhEZP}Samukawa-jinja Shrine" posX="1299.508" posY="662.108" text="{=36A24b10}Enshrined: Samukawahiko no mikoto and Samukawahime no mikoto" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_55" religion="Religion.shinto" prosperity="171"/>
     </Components>
