@@ -2,14 +2,12 @@
 <LanguageData id="English">
 	<LanguageFile xml_path="civil_war_strings_xml.xml" />
 	<LanguageFile xml_path="faction_names_xml.xml" />
-	<LanguageFile xml_path="help_strings_xml.xml" />
-	<LanguageFile xml_path="std_module_strings_xml.xml" />
+	<LanguageFile xml_path="help_strings_xml.xml" />	
 	<LanguageFile xml_path="war_exhaustion_strings.xml" />
 	<LanguageFile xml_path="module_localization_strings.xml" />
 	<LanguageFile xml_path="module_localization_wanderer_strings" />
-	<LanguageFile xml_path="module_settlement_production_strings.xml" />
+	<LanguageFile xml_path="module_quest_strings.xml" />
 	<LanguageFile xml_path="std_module_strings_xml.xml" />
 	<LanguageFile xml_path="war_exhaustion_strings" />
-	<LanguageFile xml_path="module_quest_strings.xml" />
-	<LanguageFile  xml_path="std_Shokuho_CampaignSystem" />
+	<LanguageFile xml_path="std_Shokuho_CampaignSystem" />
 </LanguageData>
