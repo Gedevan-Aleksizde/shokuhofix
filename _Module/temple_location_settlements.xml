@@ -220,7 +220,7 @@
       <TempleLocationComponent id="temple_location_id_47" religion="Religion.shingon" prosperity="148"/>
     </Components>
   </Settlement>
-  <Settlement id="temple_location_48" name="{=3slk01d5}Rinsen-ji Temple" posX="1157.369" posY="876.627" text="{=Shokuho71316c4b}Uesugi Kenshin lived in this temple in his childhood." culture="Culture.buddhists">
+  <Settlement id="temple_location_48" name="{=3slk01d5}Rinsen-ji Temple" posX="1157.369" posY="876.627" text="{=71316c4b}Uesugi Kenshin lived in this temple in his childhood." culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_48" religion="Religion.soto" prosperity="135"/>
     </Components>

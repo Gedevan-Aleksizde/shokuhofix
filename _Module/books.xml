@@ -179,7 +179,7 @@
     <Benefit skill="Skill.Tactics" exp="19000" finalExp="2000" addFocus="false"/>
   </Book>
   <!--Sonshi-->
-  <Book id="book_41" item="Item.book_41" length="100" rarity="unique" desc="{=shokuhob8DDdAe6}This book, is revered as one of China's major military strategy books, also known as The Art of War, written by Sonshi (Sun Tzu). With advances in organized conflict, this text has become increasingly important for strategists across Japan. Utilized as a source for the writings of Takeda Shingen." addFreeFocus="false">
+  <Book id="book_41" item="Item.book_41" length="100" rarity="unique" desc="{=b8DDdAe6}This book, is revered as one of China's major military strategy books, also known as The Art of War, written by Sonshi (Sun Tzu). With advances in organized conflict, this text has become increasingly important for strategists across Japan. Utilized as a source for the writings of Takeda Shingen." addFreeFocus="false">
     <Benefit skill="Skill.Tactics" exp="30000" finalExp="3000" addFocus="true"/>
   </Book>
   <!--Goshi-->
@@ -342,7 +342,7 @@
     <Benefit skill="Skill.Medicine" exp="32000" finalExp="3000" addFocus="true"/>
   </Book>
   <!--Keitekishu-->
-  <Book id="book_78" item="Item.book_78" length="163" rarity="unique" desc="{=PtJNY3zY}A set of eight volumes on diseases and treatments by Manaze Dousan. Contains information on diverse etiologies from ancient and modern Chinese sources and is vital for the cataloging and treating of numerous ailments across Japan." addFreeFocus="false">
+  <Book id="book_78" item="Item.book_78" length="163" rarity="unique" desc="{=PtJNY3zY}A set of eight volumes on diseases and treatments by Manase Dousan. Contains information on diverse etiologies from ancient and modern Chinese sources and is vital for the cataloging and treating of numerous ailments across Japan." addFreeFocus="false">
     <Benefit skill="Skill.Medicine" exp="36000" finalExp="3500" addFocus="true"/>
   </Book>
   <!--Chikujyōki-->

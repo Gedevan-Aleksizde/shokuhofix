@@ -610,9 +610,9 @@
   <string id="str_game_tip.campaign5" text="{=CQZJLWfw}You can reset your perks at the tournament master...for the right price. "/>
   <string id="str_hero" text="{=qc9Llr3x}Hero"/>
   <string id="str_leave_training_field" text="{=D9GkBqyW}You can leave the training field by holding {LEAVE_KEY}{newline}You can return at any time from the campaign map."/>
-  <string id="str_workshop_upgrade_explain" text="{=shokuhoe6207e94}Upgrading a workshop will ETC ETC TODO_CAMPAIGN"/>
-  <string id="str_workshop_downgrade_explain" text="{=shokuho95DBb970}Downgrading a workshop will ETC ETC TODO_CAMPAIGN"/>
-  <string id="str_workshop_sell_explain" text="{=shokuho752043e0}Selling a workshop will ETC ETC TODO_CAMPAIGN"/>
+  <string id="str_workshop_upgrade_explain" text="{=e6207e94}Upgrading a workshop will ETC ETC TODO_CAMPAIGN"/>
+  <string id="str_workshop_downgrade_explain" text="{=95DBb970}Downgrading a workshop will ETC ETC TODO_CAMPAIGN"/>
+  <string id="str_workshop_sell_explain" text="{=752043e0}Selling a workshop will ETC ETC TODO_CAMPAIGN"/>
   <string id="str_kingdom_political_inclination.Authoritarian" text="{=NaMPa4ML}Authoritarian"/>
   <string id="str_kingdom_political_inclination.Oligarchic" text="{=hR6Zo6pD}Oligarchic"/>
   <string id="str_kingdom_political_inclination.Egalitarian" text="{=HMFb1gaq}Egalitarian"/>
@@ -673,7 +673,7 @@
   <string id="str_no_companions_with_kills" text="{=aaEgGfCX}No Companions with Kills"/>
   <string id="str_no_companions_with_issues_solved" text="{=Kqkf6HBN}No Companions with Issues Solved"/>
   <string id="str_havent_met_character" text="{=HWNEo6pa}You are yet to meet this character."/>
-  <string id="str_arena_reward" text="{=LL6GkIfg}If you can beat {OPPONENT_COUNT_1} opponents before going down, you'll earn {PRIZE_1}{GOLD_ICON}. You'll get {PRIZE_2}{GOLD_ICON} for striking down at least {OPPONENT_COUNT_2} opponents, {PRIZE_3}{GOLD_ICON} if you can defeat {OPPONENT_COUNT_3} opponents, and an additional {PRIZE_4}{GOLD_ICON} for every additional opponent past {OPPONENT_COUNT_4} opponents. If you can manage to be the last fighter standing, you'll earn the great prize of the fights, {PRIZE_5}{GOLD_ICON}. Sounds good, eh?[if:convo_nonchalant]"/>
+  <string id="str_arena_reward" text="{=de88b508}If you can beat {OPPONENT_COUNT_1} opponents before going down, you'll earn {PRIZE_1}{GOLD_ICON}. You'll get {PRIZE_2}{GOLD_ICON} for striking down at least {OPPONENT_COUNT_2} opponents, {PRIZE_3}{GOLD_ICON} if you can defeat {OPPONENT_COUNT_3} opponents, and an additional {PRIZE_4}{GOLD_ICON} for every additional opponent past {OPPONENT_COUNT_4} opponents. If you can manage to be the last fighter standing, you'll earn the great prize of the fights, {PRIZE_5}{GOLD_ICON}. Sounds good, eh?[if:convo_nonchalant]"/>
   <string id="str_random_spectator_line.1" text="{=OfsDA5TG}Get him!"/>
   <string id="str_random_spectator_line.2" text="{=ViYtcsBS}The left! No the other left!"/>
   <string id="str_random_spectator_line.3" text="{=UPWxQMpj}Ouch, that much have hurt."/>
