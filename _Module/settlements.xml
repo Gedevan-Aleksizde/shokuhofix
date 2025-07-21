@@ -2622,7 +2622,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_CHUB25_2" name="{=37059562}Suruga-Komatsubara" posX="1074.914" posY="577.247" culture="Culture.tokai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_CHUB25_2" name="{=37059562}Mikawa-Komatsubara" posX="1074.914" posY="577.247" culture="Culture.tokai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_CHUB25_2" village_type="VillageType.stone_mine" hearth="200" gate_rotation="0.008" bound="Settlement.castle_CHUB25" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
