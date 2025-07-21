@@ -653,7 +653,7 @@
       <tag tag_name="HostileRelationshipTag" weight="+1"/>
     </tags>
   </string>
-  <string id="str_surrender_demand_hero.cunning" text="{=f2eZL7w5}Oh, I suppose I'm obligated to give you a chance to grovel for your life. Will you surrender, then?[ib:warrior][if:convo_mocking_predatory]">
+  <string id="str_surrender_demand_hero.cunning" text="{=92BfC9e9}Oh, I suppose I'm obligated to give you a chance to grovel for your life. Will you surrender, then?[ib:warrior][if:convo_mocking_predatory]">
     <tags>
       <tag tag_name="AmoralTag" weight="+1"/>
       <tag tag_name="PersonaIronicTag" weight="+1"/>

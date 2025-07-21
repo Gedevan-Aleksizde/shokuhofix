@@ -592,7 +592,7 @@
 		</tags>
 	</string>
 	<string id="reputation.rogue"
-			text="{=fgkQSbUE}a bit of a rogue, but a heart of gold">
+			text="{=f67C4A79}a bit of a rogue, but a heart of gold">
 		<tags>
 			<tag tag_name="GenerosityTag"
 				 weight="1" />
