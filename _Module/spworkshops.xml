@@ -177,37 +177,12 @@
 				<Output output="ItemCategory.ranged_weapons_5"/>
 			</Outputs>
 		</Production>
-		<Production conversion_speed="1.2">
-			<Inputs>
-				<Input input_item="sho_wood"/>
-				<Input input_item="sho_sulfur"/>
-				<Input input_item="sho_iron"/>
-			</Inputs>
+		<Production conversion_speed="0.04">
 			<Outputs>
-				<Output output="ItemCategory.sho_gun_1"/>
+				<Output output="ItemCategory.sho_gun_5"/>
 			</Outputs>
 		</Production>
-		<Production conversion_speed="0.6">
-			<Inputs>
-				<Input input_item="sho_wood"/>
-				<Input input_item="sho_sulfur"/>
-				<Input input_item="sho_iron"/>
-			</Inputs>
-			<Outputs>
-				<Output output="ItemCategory.sho_gun_2"/>
-			</Outputs>
-		</Production>
-		<Production conversion_speed="0.3">
-			<Inputs>
-				<Input input_item="sho_wood"/>
-				<Input input_item="sho_sulfur"/>
-				<Input input_item="sho_iron"/>
-			</Inputs>
-			<Outputs>
-				<Output output="ItemCategory.sho_gun_3"/>
-			</Outputs>
-		</Production>
-        <Production conversion_speed="0.8">
+        <Production conversion_speed="0.5">
 			<Inputs>
 				<Input input_item="sho_sulfur"/>
 			</Inputs>
@@ -352,12 +327,12 @@
 	</WorkshopType>
 	<WorkshopType id="sho_fletcher" name="{=TfxYxPz8}Fletchery" frequency="1" equipment_cost="10000" jobname="{=0OU0Y4yH}Fletcher" description="{=gyESp13H}We work wood and ramie into fine bows and arrows.">
 		<Meshes sign_mesh_name="shop_sign_merchantshields" shop_prop_mesh_name_1="shop_prop_merchantcarpenter_a" shop_prop_mesh_name_2="shop_prop_merchantcarpenter_b" shop_prop_mesh_name_3_1="shop_prop_merchantsmithing_tools_c" shop_prop_mesh_name_3_2="shop_prop_merchantweapons_ranged_c" shop_prop_mesh_name_3_3="shop_prop_merchantweapons_shield_c" shop_prop_mesh_name_4="shop_prop_merchantcarpenter_d" shop_prop_mesh_name_5="shop_prop_merchantcarpenter_e" shop_prop_mesh_name_6="shop_prop_merchantcarpenter_f"/>
-		<Production conversion_speed="2">
+		<Production conversion_speed="1">
 			<Inputs>
 				<Input input_item="sho_wood"/>
 			</Inputs>
 			<Outputs>
-				<Output output="ItemCategory.arrows" output_count="2"/>
+				<Output output="ItemCategory.arrows" output_count="1"/>
 			</Outputs>
 		</Production>
 		<Production conversion_speed="1">
@@ -366,7 +341,7 @@
 				<Input input_item="sho_ramie_cloth"/>
 			</Inputs>
 			<Outputs>
-				<Output output="ItemCategory.ranged_weapons" output_count="3"/>
+				<Output output="ItemCategory.ranged_weapons" output_count="1"/>
 			</Outputs>
 		</Production>
 		<Production conversion_speed="0.7">
@@ -375,7 +350,7 @@
 				<Input input_item="sho_ramie_cloth"/>
 			</Inputs>
 			<Outputs>
-				<Output output="ItemCategory.ranged_weapons_2" output_count="2"/>
+				<Output output="ItemCategory.ranged_weapons_2" output_count="1"/>
 			</Outputs>
 		</Production>
 		<Production conversion_speed="0.5">
@@ -444,10 +419,10 @@
 				<Input input_item="sho_iron"/>
 			</Inputs>
 			<Outputs>
-				<Output output="ItemCategory.light_armor" output_count="2"/>
+				<Output output="ItemCategory.light_armor" output_count="1"/>
 			</Outputs>
 		</Production>
-		<Production conversion_speed="1">
+		<Production conversion_speed=".7">
 			<Inputs>
 				<Input input_item="sho_iron"/>
 				<Input input_item="sho_wood"/>
@@ -457,7 +432,7 @@
 				<Output output="ItemCategory.medium_armor"/>
 			</Outputs>
 		</Production>
-		<Production conversion_speed="1">
+		<Production conversion_speed=".7">
 			<Inputs>
 				<Input input_item="sho_iron"/>
 				<Input input_item="sho_wood"/>
@@ -467,7 +442,7 @@
 				<Output output="ItemCategory.medium_armor"/>
 			</Outputs>
 		</Production>
-		<Production conversion_speed="0.3">
+		<Production conversion_speed="0.25">
 			<Inputs>
 				<Input input_item="sho_iron"/>
 				<Input input_item="sho_wood"/>
@@ -478,7 +453,7 @@
 				<Output output="ItemCategory.heavy_armor"/>
 			</Outputs>
 		</Production>
-		<Production conversion_speed="0.3">
+		<Production conversion_speed="0.25">
 			<Inputs>
 				<Input input_item="sho_iron"/>
 				<Input input_item="sho_wood"/>
@@ -555,7 +530,7 @@
 				<Input input_item="sho_wood"/>
 			</Inputs>
 			<Outputs>
-				<Output output="ItemCategory.melee_weapons" output_count="2"/>
+				<Output output="ItemCategory.melee_weapons" output_count="1"/>
 			</Outputs>
 		</Production>
 		<Production conversion_speed=".8">
@@ -564,7 +539,7 @@
 				<Input input_item="sho_wood"/>
 			</Inputs>
 			<Outputs>
-				<Output output="ItemCategory.melee_weapons_2" output_count="2"/>
+				<Output output="ItemCategory.melee_weapons_2" output_count="1"/>
 			</Outputs>
 		</Production>
 		<Production conversion_speed="0.6">
@@ -712,7 +687,7 @@
 	</WorkshopType>-->
 	<WorkshopType id="sho_gunsmith" name="{=RQzaCz8L}Gun Smithy" frequency="1" equipment_cost="10000" jobname="{=sh2tS2Td}Gunsmith" description="{=JESzISwn}We create Tanegashima guns using iron, wood, and sulfur.">
 		<Meshes sign_mesh_name="shop_sign_merchantshields" shop_prop_mesh_name_1="shop_prop_merchantcarpenter_a" shop_prop_mesh_name_2="shop_prop_merchantcarpenter_b" shop_prop_mesh_name_3_1="shop_prop_merchantsmithing_tools_c" shop_prop_mesh_name_3_2="shop_prop_merchantweapons_ranged_c" shop_prop_mesh_name_3_3="shop_prop_merchantweapons_shield_c" shop_prop_mesh_name_4="shop_prop_merchantcarpenter_d" shop_prop_mesh_name_5="shop_prop_merchantcarpenter_e" shop_prop_mesh_name_6="shop_prop_merchantcarpenter_f"/>
-        <Production conversion_speed="1">
+        <Production conversion_speed=".5">
             <Inputs>
                 <Input input_item="sho_iron"/>
             </Inputs>
@@ -760,7 +735,7 @@
 				<Output output="ItemCategory.sho_gun_4" output_count="1"/>
 			</Outputs>
 		</Production>-->
-		<Production conversion_speed="1">
+		<Production conversion_speed=".6">
 			<Inputs>
 				<Input input_item="sho_wood"/>
 				<Input input_item="sho_iron"/>

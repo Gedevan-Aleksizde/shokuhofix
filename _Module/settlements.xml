@@ -200,7 +200,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_CHU3_3" name="{=YhbInKsq}Miyoshi" posX="540.1" posY="587.747" culture="Culture.sanyo" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="village_CHU3_3" name="{=nVDIrAUN}Miyoshi" posX="540.1" posY="587.747" culture="Culture.sanyo" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="village_comp_CHU3_3" village_type="VillageType.trapper" hearth="200" gate_rotation="0.008" bound="Settlement.town_CHU3" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1025,7 +1025,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_CHUB2" name="{=6PgvlbUT}Oyama" owner="Faction.clan_shimotsuma_1" posX="999.99" posY="808.456" culture="Culture.hokuriku" gate_posX="998.2476" gate_posY="805.5337" text="{=lVVZzX8n}Originally established as a humble supply post at the edge of fertile plains, Oyama has evolved into a bustling castle town along eastern Japan's trade routes and a vital military outpost at the crossroads of the competing Uesugi and Hojo clans.">
+  <Settlement id="town_CHUB2" name="{=6PgvlbUT}Oyama" owner="Faction.clan_shimotsuma_1" posX="999.99" posY="808.456" culture="Culture.hokuriku" gate_posX="998.2476" gate_posY="805.5337" text="{=lVVZzX8n}Originally a fortified temple complex of the Kaga Ikko movement, Oyama has evolved into a significant stronghold in the Hokuriku region and its strategic and religious value has drawn the attention of powerful neighbors.">
     <Components>
       <Town id="town_comp_CHUB2" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="3200" />
     </Components>
@@ -1615,7 +1615,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_CHUB12" name="{=lXdj1TtH}Sakurabora" owner="Faction.clan_anekouji_1" posX="1063.217" posY="717.787" culture="Culture.tosan" gate_posX="1064.716" gate_posY="714.7329" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="town_CHUB12" name="{=lXdj1TtH}Sakurabora" owner="Faction.clan_anekouji_1" posX="1063.217" posY="717.787" culture="Culture.tosan" gate_posX="1064.716" gate_posY="714.7329" text="{=nYD2Zvp6}Hidden deep within the mountainous interior of the Tosan region, Sakurabora has long served as the fortified residence of the Anekouji, guarding key approaches into central Japan. Its elevated position offers commanding views of the rugged valleys below, making it a valuable asset in controlling travel and communication through the region.">
     <Components>
       <Town id="town_comp_CHUB12" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1440" />
     </Components>
@@ -2607,7 +2607,7 @@
       <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_CHUB25_1" name="{=xqyUiSCO}Muro" posX="1070.852" posY="584.186" culture="Culture.tokai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_CHUB25_1" name="{=Z1I0sr9p}Muro" posX="1070.852" posY="584.186" culture="Culture.tokai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_CHUB25_1" village_type="VillageType.vegetable_farm" hearth="200" gate_rotation="0.008" bound="Settlement.castle_CHUB25" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -4054,7 +4054,7 @@
       <Location id="prison" scene_name="sho_prison_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KA23_1" name="{=NBk1hBZz}Oda" posX="1364.684" posY="762.017" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_KA23_1" name="{=Z31UOoXV}Oda" posX="1364.684" posY="762.017" culture="Culture.kanto" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_KA23_1" village_type="VillageType.rice_farm" hearth="200" gate_rotation="0.008" bound="Settlement.castle_KA23" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -5832,7 +5832,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_KY6" name="{=HHWkdmFT}Kiidani" owner="Faction.clan_kii_1" posX="353.295" posY="426.237" culture="Culture.saikai" gate_posX="350.0088" gate_posY="425.3559" text="{=DFE7hHDt}Kiidani is a fortified town in the southernmost part of the Kinki region, protected more by geography than by its walls, with its isolated location making it largely untouched by surrounding conflicts so far.">
+  <Settlement id="town_KY6" name="{=HHWkdmFT}Kiidani" owner="Faction.clan_kii_1" posX="353.295" posY="426.237" culture="Culture.saikai" gate_posX="350.0088" gate_posY="425.3559" text="{=DFE7hHDt}Nestled within the rugged highlands of northern Kyushu, Kiidani has long served as a fortified settlement, guarding the access to the western island of Japan. Its position overlooking vital inland routes has given it strategic relevance amid the growing contest for control over Kyushu and has already turned Kiidani into a conflict point between the Ouchi and Otomo in the past.">
     <Components>
       <Town id="town_comp_KY6" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.808" prosperity="2700" />
     </Components>
@@ -7664,7 +7664,7 @@
       <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_SHI1_1" name="{=k2dvsiaD}Yotsu" posX="598.31" posY="374.638" culture="Culture.nankai" text="{=vEYNurYp}No Description">
+  <Settlement id="castle_village_SHI1_1" name="{=k2dvsiaD}Yotsu" posX="603.46" posY="380.579" culture="Culture.nankai" text="{=vEYNurYp}No Description">
     <Components>
       <Village id="castle_village_comp_SHI1_1" village_type="VillageType.mandarin_farm" hearth="100" gate_rotation="0.000" bound="Settlement.castle_SHI1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -7677,7 +7677,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_SHI1_2" name="{=nAzazSPE}Susaki" posX="603.039" posY="386.562" culture="Culture.nankai" text="{=vEYNurYp}No Description">
+  <Settlement id="castle_village_SHI1_2" name="{=nAzazSPE}Susaki" posX="614.611" posY="410.307" culture="Culture.nankai" text="{=vEYNurYp}No Description">
     <Components>
       <Village id="astle_village_comp_SHI1_2" village_type="VillageType.cotton_farm" hearth="100" gate_rotation="0.000" bound="Settlement.castle_SHI1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -7870,7 +7870,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_SHI7" name="{=ehKkRG65}Onishi Castle" owner="Faction.clan_onishi_1" posX="672.117" posY="466.036" culture="Culture.nankai" gate_posX="672.6506" gate_posY="464.0096">
+  <Settlement id="castle_SHI7" name="{=ehKkRG65}Onishi Castle" owner="Faction.clan_onishi_1" posX="687.543" posY="479.899" culture="Culture.nankai" gate_posX="686.4266" gate_posY="481.6724">
     <Components>
       <Town id="castle_comp_SHI7" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_town" gate_rotation="0.000" prosperity="1035" />
     </Components>
@@ -7880,7 +7880,7 @@
       <Location id="prison" scene_name="sho_prison_b" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_SHI7_1" name="{=3Gtl1ZWV}Umaji" posX="669.077" posY="454.55" culture="Culture.nankai" text="{=vEYNurYp}No Description">
+  <Settlement id="castle_village_SHI7_1" name="{=3Gtl1ZWV}Umaji" posX="677.91" posY="488.617" culture="Culture.nankai" text="{=vEYNurYp}No Description">
     <Components>
       <Village id="castle_village_comp_SHI7_1" village_type="VillageType.horse_ranch" hearth="100" gate_rotation="0.000" bound="Settlement.castle_SHI7" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -7893,7 +7893,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_SHI7_2" name="{=Ydi2eMWL}Shuzu" posX="684.742" posY="457.821" culture="Culture.nankai" text="{=vEYNurYp}No Description">
+  <Settlement id="castle_village_SHI7_2" name="{=Ydi2eMWL}Shuzu" posX="694.109" posY="491.57" culture="Culture.nankai" text="{=vEYNurYp}No Description">
     <Components>
       <Village id="castle_village_comp_SHI7_2" village_type="VillageType.logger" hearth="100" gate_rotation="0.000" bound="Settlement.castle_SHI7" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -8345,7 +8345,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_TOHO6" name="{=KGp4U6ZT}Tzuchizaki-Minato" owner="Faction.clan_ando_1" posX="1383.089" posY="1223.086" culture="Culture.ou" gate_posX="1386.319" gate_posY="1224.155" text="{=QBjyZBVp}Strategically positioned on the coast of the Noto Peninsula, Tsuchizaki-Minato has long served as a crucial point for maritime trade and the transport of goods between the main islands and the northern provinces.">
+  <Settlement id="town_TOHO6" name="{=KGp4U6ZT}Tzuchizaki-Minato" owner="Faction.clan_ando_1" posX="1383.089" posY="1223.086" culture="Culture.ou" gate_posX="1386.319" gate_posY="1224.155" text="{=QBjyZBVp}Situated along the windswept coastline of northern Honshu, Tzuchizaki‑Minato has long served as a crucial point for maritime trade and the transport of goods between the main islands and the northern provinces.">
     <Components>
       <Town id="town_comp_TOHO6" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="2080" />
     </Components>

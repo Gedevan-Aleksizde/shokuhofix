@@ -199,7 +199,7 @@
     <Item id="fine_steel_ingot" name="{=azjMBa86}Fine Steel{@Plural}loads of fine steel{\@}" mesh="fine_steel" item_category="sho_iron" value="160" weight="0.5" Type="Goods">
         <Flags Civilian="true"/>
     </Item>    
-    <Item id="thamaskene_steel_ingot" name="{=azjMBa86}Tamahagane Steel{@Plural}loads of Tamagahane Steel{\@}" mesh="thamaskene_steel" item_category="sho_iron" value="260" weight="0.5" Type="Goods">
+    <Item id="thamaskene_steel_ingot" name="{=p8STbpcO}Tamahagane Steel{@Plural}loads of Tamagahane Steel{\@}" mesh="thamaskene_steel" item_category="sho_iron" value="260" weight="0.5" Type="Goods">
         <Flags Civilian="true"/>
     </Item>
 

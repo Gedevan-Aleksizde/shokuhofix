@@ -47,7 +47,63 @@
             <tag tag_name="OuTag"/>
         </tags>
     </string>
-    <string id="str_faction_ruler.saikai" text="{=tRwThwR8}Daimyo"/>
+
+	<string id="str_liege_title_female.saikai"
+			text="{=tRwThwR8}Daimyo">
+		<tags>
+			<tag tag_name="SaikaiTag"/>
+		</tags>
+	</string>
+	<string id="str_liege_title_female.nankai"
+			text="{=tRwThwR8}Daimyo">
+		<tags>
+			<tag tag_name="NankaiTag"/>
+		</tags>
+	</string>
+	<string id="str_liege_title_female.sanyo"
+			text="{=tRwThwR8}Daimyo">
+		<tags>
+			<tag tag_name="SanyoTag"/>
+		</tags>
+	</string>
+	<string id="str_liege_title_female.kinai"
+			text="{=tRwThwR8}Daimyo">
+		<tags>
+			<tag tag_name="KinaiTag"/>
+		</tags>
+	</string>
+	<string id="str_liege_title_female.hokuriku"
+			text="{=tRwThwR8}Daimyo">
+		<tags>
+			<tag tag_name="HokurikuTag"/>
+		</tags>
+	</string>
+	<string id="str_liege_title_female.tosan"
+			text="{=tRwThwR8}Daimyo">
+		<tags>
+			<tag tag_name="TosanTag"/>
+		</tags>
+	</string>
+	<string id="str_liege_title_female.tokai"
+			text="{=tRwThwR8}Daimyo">
+		<tags>
+			<tag tag_name="TokaiTag"/>
+		</tags>
+	</string>
+	<string id="str_liege_title_female.kanto"
+			text="{=tRwThwR8}Daimyo">
+		<tags>
+			<tag tag_name="KantoTag"/>
+		</tags>
+	</string>
+	<string id="str_liege_title_female.ou"
+			text="{=tRwThwR8}Daimyo">
+		<tags>
+			<tag tag_name="OuTag"/>
+		</tags>
+	</string>
+
+	<string id="str_faction_ruler.saikai" text="{=tRwThwR8}Daimyo"/>
     <string id="str_faction_ruler.nankai" text="{=tRwThwR8}Daimyo"/>
     <string id="str_faction_ruler.sanyo" text="{=tRwThwR8}Daimyo"/>
     <string id="str_faction_ruler.kinai" text="{=tRwThwR8}Daimyo"/>
@@ -57,15 +113,15 @@
     <string id="str_faction_ruler.kanto" text="{=tRwThwR8}Daimyo"/>
     <string id="str_faction_ruler.ou" text="{=tRwThwR8}Daimyo"/>
 
-    <string id="str_faction_official.saikai" text="{=tRwThwR8}Daimyo"/>
-    <string id="str_faction_official.nankai" text="{=tRwThwR8}Daimyo"/>
-    <string id="str_faction_official.sanyo" text="{=tRwThwR8}Daimyo"/>
-    <string id="str_faction_official.kinai" text="{=tRwThwR8}Daimyo"/>
-    <string id="str_faction_official.hokuriku" text="{=tRwThwR8}Daimyo"/>
-    <string id="str_faction_official.tosan" text="{=tRwThwR8}Daimyo"/>
-    <string id="str_faction_official.tokai" text="{=tRwThwR8}Daimyo"/>
-    <string id="str_faction_official.kanto" text="{=tRwThwR8}Daimyo"/>
-    <string id="str_faction_official.ou" text="{=tRwThwR8}Daimyo"/>
+    <string id="str_faction_official.saikai" text="{=LGjLJV7J}a lord"/>
+    <string id="str_faction_official.nankai" text="{=LGjLJV7J}a lord"/>
+    <string id="str_faction_official.sanyo" text="{=LGjLJV7J}a lord"/>
+    <string id="str_faction_official.kinai" text="{=LGjLJV7J}a lord"/>
+    <string id="str_faction_official.hokuriku" text="{=LGjLJV7J}a lord"/>
+    <string id="str_faction_official.tosan" text="{=LGjLJV7J}a lord"/>
+    <string id="str_faction_official.tokai" text="{=LGjLJV7J}a lord"/>
+    <string id="str_faction_official.kanto" text="{=LGjLJV7J}a lord"/>
+    <string id="str_faction_official.ou" text="{=LGjLJV7J}a lord"/>
 
 	<string id="str_faction_ruler_name_with_title.saikai" text="{=n6nnkLxo}Daimyo {RULER.NAME}"/>
 	<string id="str_faction_noble_name_with_title.saikai" text="{=UdiPb3xt}Lord {RULER.NAME}"/>
@@ -274,7 +330,7 @@
 
     <string id="str_weapon_usage.SHO_Yari" text="{=t78atYqH}Two Handed"/>
     <string id="str_weapon_usage.SHO_Yari_Couch" text="{=MciIqod6}Couch Lance"/>
-    <string id="str_weapon_usage.SHO_Yari_Bracing" text="{=MciIqod6}Spear Brace"/>
+    <string id="str_weapon_usage.SHO_Yari_Bracing" text="{=s2vaPUdG}Spear Brace"/>
     <string id="str_weapon_usage.SHO_TwoHandedPolearm" text="{=t78atYqH}Two Handed"/>
     <string id="str_weapon_usage.SHO_TwoHandedSword" text="{=t78atYqH}Two Handed"/>
     <string id="str_weapon_usage.SHO_Tachi_TwoHandedSword" text="{=t78atYqH}Two Handed"/>
@@ -821,4 +877,11 @@
     <string id="str_terrain_types.14" text="{=zHKHwHMr}Rural Area"/>
     <string id="str_terrain_types.15" text="{=vNm8fo7R}Ocean"/>
 
+
+    <string id="str_promo_inquiry_title"
+            text="{=SqdpqFgu}Are you sure?"/>
+    <string id="str_promo_inquiry_body"
+            text="{=W9aYBhyT}Are you sure you would like to promote this unit?"/>
+    <string id="str_promot_reward_hint"
+            text="{=Ui98BXUq}Rewarding a troop provides additional experience to all other troops in its formation."/>
 </strings>

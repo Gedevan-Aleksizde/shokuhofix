@@ -524,7 +524,7 @@
     <Equipments>
       <EquipmentRoster civilian="true">
         <equipment slot="Item0" id="Item.sho_new_yumi_3"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_hankyu_a"/>
         <equipment slot="Item2" id="Item.sho_tachi_16"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_c"/>
         <equipment slot="Body" id="Item.sho_new_kozane_f"/>
@@ -534,7 +534,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_3"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_hankyu_a"/>
         <equipment slot="Item2" id="Item.sho_tachi_10"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_a"/>
         <equipment slot="Body" id="Item.sho_new_kozane_d"/>
@@ -544,7 +544,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_3"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_hankyu_a"/>
         <equipment slot="Item2" id="Item.sho_tachi_20"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_b"/>
         <equipment slot="Body" id="Item.sho_new_kozane_a"/>
@@ -554,7 +554,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_3"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_hankyu_a"/>
         <equipment slot="Item2" id="Item.sho_tachi_20"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_b"/>
         <equipment slot="Body" id="Item.sho_new_kozane_b"/>
@@ -564,7 +564,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_3"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_hankyu_b"/>
         <equipment slot="Item2" id="Item.sho_tachi_20"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_c"/>
         <equipment slot="Body" id="Item.sho_new_kozane_d"/>
@@ -574,7 +574,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_3_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_hankyu_b"/>
         <equipment slot="Item2" id="Item.sho_tachi_5"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_c"/>
         <equipment slot="Body" id="Item.sho_new_kozane_b"/>
@@ -584,7 +584,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_3_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_hankyu_b"/>
         <equipment slot="Item2" id="Item.sho_tachi_5"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_b"/>
         <equipment slot="Body" id="Item.sho_new_kozane_f"/>
@@ -594,7 +594,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_3_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_hankyu_b"/>
         <equipment slot="Item2" id="Item.sho_tachi_19"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_d"/>
         <equipment slot="Body" id="Item.sho_new_kozane_d"/>
@@ -604,7 +604,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_3"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_hankyu_a"/>
         <equipment slot="Item2" id="Item.sho_tachi_5"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_a"/>
         <equipment slot="Body" id="Item.sho_new_kozane_f"/>
@@ -614,7 +614,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_3"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_hankyu_a"/>
         <equipment slot="Item2" id="Item.sho_tachi_16"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_c"/>
         <equipment slot="Body" id="Item.sho_new_kozane_h"/>

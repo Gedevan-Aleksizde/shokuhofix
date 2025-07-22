@@ -375,14 +375,14 @@
 			<Color id="207" hex="0xff181818" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
 			<!--Miyoshi Green-->
 			<Color id="208" hex="0xff3F7D20" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
-			<!--Saionji Purple Background-->
-			<Color id="209" hex="0xff6e0c9f" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
-			<!--Saionji Gold Mon Color-->
-			<Color id="210" hex="0xffd2b23d" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
-			<!--Ichijo Light Purple Background-->
-			<Color id="211" hex="0xffe2ceec" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
-			<!--Ichijo Dark Purple Mon Color-->
-			<Color id="212" hex="0xff33064a" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
+			<!--Saionji olive green Background-->
+			<Color id="209" hex="0xff7fa464" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
+			<!--Saionji black Mon Color-->
+			<Color id="210" hex="0xff201a1a" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
+			<!--Ichijo dark teal Background-->
+			<Color id="211" hex="0xff84b3ac" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
+			<!--Ichijo black Mon Color-->
+			<Color id="212" hex="0xff201a1a" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
 			<!--Amago Black-->
 			<Color id="213" hex="0xff020202" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
 			<!--Uragami Blue-->
