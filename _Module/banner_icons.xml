@@ -5,7 +5,7 @@
 		To initialize a png of mons, place the png in the asset_sources, then in editor, go to the assets/banner_clans folder. Click the + in the top left to import a new asset.
 		make a copy of an existing mtl (the white 3d object), set the name equal to the tpac file it generated, then make sure the settings are the same.
 		Then, put them here with the appropiate texture_index's. The top left of the image is 0, and it goes right and vertically. The bottom right is 15.-->
-		<BannerIconGroup id="7" name="{=!}Shokuho custom banner group- character creation" is_pattern="false">
+		<BannerIconGroup id="7" name="{=!}Shokuhō custom banner group- character creation" is_pattern="false">
 			<Icon id="536" material_name="sho_cl_mon_custom_1" texture_index="0" />
 			<Icon id="537" material_name="sho_cl_mon_custom_1" texture_index="1" />
 			<Icon id="538" material_name="sho_cl_mon_custom_1" texture_index="2" />
@@ -93,8 +93,8 @@
                   texture_index="12" />
 
         </BannerIconGroup>
-		<BannerIconGroup id="8" name="{=!}Shokuho custom banner group- clans" is_pattern="false">
-			<!--Kyushu-->
+		<BannerIconGroup id="8" name="{=!}Shokuhō custom banner group- clans" is_pattern="false">
+			<!--Kyūshū-->
 			<Icon id="597" material_name="sho_cl_mon_kyushu_1" texture_index="0" is_reserved ="true" />
 			<Icon id="598" material_name="sho_cl_mon_kyushu_1" texture_index="1" is_reserved ="true" />
 			<Icon id="599" material_name="sho_cl_mon_kyushu_1" texture_index="2" is_reserved ="true" />
@@ -375,14 +375,14 @@
 			<Color id="207" hex="0xff181818" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
 			<!--Miyoshi Green-->
 			<Color id="208" hex="0xff3F7D20" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
-			<!--Saionji Purple Background-->
-			<Color id="209" hex="0xff6e0c9f" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
-			<!--Saionji Gold Mon Color-->
-			<Color id="210" hex="0xffd2b23d" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
-			<!--Ichijou Light Purple Background-->
-			<Color id="211" hex="0xffe2ceec" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
-			<!--Ichijou Dark Purple Mon Color-->
-			<Color id="212" hex="0xff33064a" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
+			<!--Saionji olive green Background-->
+			<Color id="209" hex="0xff7fa464" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
+			<!--Saionji black Mon Color-->
+			<Color id="210" hex="0xff201a1a" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
+			<!--Ichijou dark teal Background-->
+			<Color id="211" hex="0xff84b3ac" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
+			<!--Ichijou black Mon Color-->
+			<Color id="212" hex="0xff201a1a" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
 			<!--Amago Black-->
 			<Color id="213" hex="0xff020202" player_can_choose_for_sigil="true" player_can_choose_for_background="true"/>
 			<!--Uragami Blue-->
@@ -424,7 +424,7 @@
 				   hex="0xffcf6f8b"
 				   player_can_choose_for_sigil="true"
 				   player_can_choose_for_background="true"/>
-			<!--Ikko Ikki Background-->
+			<!--Ikkou Ikki Background-->
 			<Color id="223"
 				   hex="0xffda8418"
 				   player_can_choose_for_sigil="true"

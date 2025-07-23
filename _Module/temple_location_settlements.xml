@@ -25,7 +25,7 @@
       <TempleLocationComponent id="temple_location_id_6" religion="Religion.shinto" prosperity="135"/>
     </Components>
   </Settlement>
-  <Settlement id="temple_location_7" name="{=2kgUIre0}Munakata-jinja Trinity Shrine" posX="310.32" posY="464.4" text="{=E5A05591}Enshrined: Tagorihime no kami, Tagitsuhime no kami, and Ichikishimahime no kami" culture="Culture.buddhists">
+  <Settlement id="temple_location_7" name="{=2kgUIre0}Munakata-jinja Triple Goddes Shrine" posX="310.32" posY="464.4" text="{=E5A05591}Enshrined: Tagorihime no kami, Tagitsuhime no kami, and Ichikishimahime no kami" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_7" religion="Religion.shinto" prosperity="292"/>
     </Components>
@@ -120,7 +120,7 @@
       <TempleLocationComponent id="temple_location_id_26" religion="Religion.tendai" prosperity="168"/>
     </Components>
   </Settlement>
-  <Settlement id="temple_location_27" name="{=460iveMd}Ise-jingū Shrine" posX="985.906" posY="548.17" text="{=7D8cfb31}Enshrined: Amaterasu-ōmikami" culture="Culture.buddhists">
+  <Settlement id="temple_location_27" name="{=460iveMd}Jingū Shrine of Ise" posX="985.906" posY="548.17" text="{=7D8cfb31}Enshrined: Amaterasu-ōmikami" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_27" religion="Religion.shinto" prosperity="262"/>
     </Components>

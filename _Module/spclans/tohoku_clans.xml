@@ -22,7 +22,7 @@
 	<Faction id="clan_rusu_1" is_noble="true" name="{=Mmlec0W6}Rusu-shi" tier="2" owner="Hero.lord_1_rusu" culture="Culture.ou" super_faction="Kingdom.date" banner_key="11.163.166.1528.1528.764.764.1.0.0.759.171.171.483.483.764.764.0.0.0"/>
 	<!--Mogami Faction-->
 	<Faction id="clan_mogami_1" is_noble="true" name="{=5opAomPm}Mogami-shi" tier="6" owner="Hero.lord_1_mogami" culture="Culture.ou" super_faction="Kingdom.mogami" banner_key="11.163.166.1528.1528.764.764.1.0.0.778.171.171.483.483.764.764.0.0.0"/>
-	<Faction id="clan_tendo_1" is_noble="true" name="{=e0X7neFB}Tendo-shi" tier="5" owner="Hero.lord_1_tendo" culture="Culture.ou" super_faction="Kingdom.mogami" banner_key="11.163.166.1528.1528.764.764.1.0.0.756.171.171.483.483.764.764.0.0.0"/>
+	<Faction id="clan_tendo_1" is_noble="true" name="{=e0X7neFB}Tendou-shi" tier="5" owner="Hero.lord_1_tendo" culture="Culture.ou" super_faction="Kingdom.mogami" banner_key="11.163.166.1528.1528.764.764.1.0.0.756.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_ujiie_1" is_noble="true" name="{=piDj6z9f}Ujiie-shi" tier="4" owner="Hero.lord_1_ujiie" culture="Culture.ou" super_faction="Kingdom.mogami" banner_key="11.163.166.1528.1528.764.764.1.0.0.760.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_nobesawa_1" is_noble="true" name="{=0rKkFwOg}Nobesawa-shi" tier="4" owner="Hero.lord_1_nobesawa" culture="Culture.ou" super_faction="Kingdom.mogami" banner_key="11.163.166.1528.1528.764.764.1.0.0.761.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_tateoka_1" is_noble="true" name="{=k1xUIUj8}Tateoka-shi" tier="3" owner="Hero.lord_1_tateoka" culture="Culture.ou" super_faction="Kingdom.mogami" banner_key="11.163.166.1528.1528.764.764.1.0.0.762.171.171.483.483.764.764.0.0.0"/>

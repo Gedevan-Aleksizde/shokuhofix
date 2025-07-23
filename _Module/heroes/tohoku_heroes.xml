@@ -124,7 +124,7 @@
   <Hero id="lord_1_mogami_3" faction="Faction.clan_mogami_1" spouse="Hero.lord_1_mogami_2" text=""/>
   <Hero id="lord_1_mogami_4" faction="Faction.clan_mogami_1" father="Hero.lord_1_mogami" mother="Hero.lord_1_mogami_1" text=""/>
   <Hero id="lord_1_mogami_5" faction="Faction.clan_mogami_1" father="Hero.lord_1_mogami" mother="Hero.lord_1_mogami_1" text=""/>
-  <!--Tendo Clan-->
+  <!--Tendou Clan-->
   <Hero id="lord_1_tendo" faction="Faction.clan_tendo_1" spouse="Hero.lord_1_tendo_1" text=""/>
   <Hero id="lord_1_tendo_1" faction="Faction.clan_tendo_1" spouse="Hero.lord_1_tendo" text=""/>
   <Hero id="lord_1_tendo_2" faction="Faction.clan_tendo_1" father="Hero.lord_1_tendo" mother="Hero.lord_1_tendo_1" text=""/>

@@ -541,7 +541,7 @@
                    scale_factor="110"/>
         </Pieces>
     </CraftedItem>
-    <!--Tokai Enlisted Ashigaru Spear 1-->
+    <!--Toukai Enlisted Ashigaru Spear 1-->
     <CraftedItem id="sho_yari_22"
                  name="{=cNXKUQX7}Simple Owari Omi Yari"
                  crafting_template="SHO_Yari"
@@ -695,7 +695,7 @@
                    scale_factor="95"/>
         </Pieces>
     </CraftedItem>
-    <!--Tokai Enlisted Ashigaru Spear 2-->
+    <!--Toukai Enlisted Ashigaru Spear 2-->
     <CraftedItem id="sho_yari_31"
                  name="{=C6zh5DoX}Owari Omi Yari"
                  crafting_template="SHO_Yari"

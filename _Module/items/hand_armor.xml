@@ -48,50 +48,50 @@
         <ItemComponent>
             <Armor arm_armor="5" body_armor="1" modifier_group="cloth" material_type="Cloth"/>
         </ItemComponent>
-        <Flags Civilian="false"/>
+        <Flags Civilian="true"/>
     </Item>
     <Item id="sho_tier_1_kote_a_2" name="{=v60sSwHB}Unarmored Kote" mesh="sho_unarmored_kote_a_2" weight="0.4" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="5" body_armor="1" modifier_group="cloth" material_type="Cloth"/>
         </ItemComponent>
-        <Flags Civilian="false"/>
+        <Flags Civilian="true"/>
     </Item>
     <Item id="sho_tier_1_kote_a_3" name="{=v60sSwHB}Unarmored Kote" mesh="sho_unarmored_kote_a_3" weight="0.4" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="5" body_armor="1" modifier_group="cloth" material_type="Cloth"/>
         </ItemComponent>
-        <Flags Civilian="false"/>
+        <Flags Civilian="true"/>
     </Item>
     <Item id="sho_tier_1_kote_a_4" name="{=v60sSwHB}Unarmored Kote" mesh="sho_unarmored_kote_a_4" weight="0.4" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="5" body_armor="1" modifier_group="cloth" material_type="Cloth"/>
         </ItemComponent>
-        <Flags Civilian="false"/>
+        <Flags Civilian="true"/>
     </Item>
     <Item id="sho_tier_1_kote_a_5" name="{=v60sSwHB}Unarmored Kote" mesh="sho_unarmored_kote_a_5" weight="0.4" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="5" body_armor="1" modifier_group="cloth" material_type="Cloth"/>
         </ItemComponent>
-        <Flags Civilian="false"/>
+        <Flags Civilian="true"/>
     </Item>
     <Item id="sho_tier_1_kote_a_6" name="{=v60sSwHB}Unarmored Kote" mesh="sho_unarmored_kote_a_6" weight="0.4" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="5" body_armor="1" modifier_group="cloth" material_type="Cloth"/>
         </ItemComponent>
-        <Flags Civilian="false"/>
+        <Flags Civilian="true"/>
     </Item>
     <Item id="sho_tier_1_kote_a_7" name="{=v60sSwHB}Unarmored Kote" mesh="sho_unarmored_kote_a_7" weight="0.4" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="5" body_armor="1" modifier_group="cloth" material_type="Cloth"/>
         </ItemComponent>
-        <Flags Civilian="false"/>
+        <Flags Civilian="true"/>
     </Item>
 
     <Item id="sho_tier_1_kote_a_8" name="{=v60sSwHB}Unarmored Kote" mesh="sho_unarmored_kote_a_8" weight="0.4" difficulty="0" appearance="1" Type="HandArmor">
         <ItemComponent>
             <Armor arm_armor="5" body_armor="1" modifier_group="cloth" material_type="Cloth"/>
         </ItemComponent>
-        <Flags Civilian="false"/>
+        <Flags Civilian="true"/>
     </Item>
 
     <!--tier 2-->

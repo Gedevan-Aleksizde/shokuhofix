@@ -1,26 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <CustomBattleScenes>
-  <Scene id="sho_feature_testing_a" name="{=DxEzfAU0}SHOKUHO FEATURE TESTING A (Shokuho)" terrain="Plain" is_siege_map="false"/>
-	<Scene id="sho_castle_map_b" name="{=cbomGbmj}Castle Map B (Shokuho)" terrain="Plain" is_siege_map="true"/>
-	<Scene id="sho_castle_map_e" name="{=03I2HSYO}Castle Map E (Shokuho)" terrain="Plain" is_siege_map="true"/>
-	<Scene id="sho_castle_map_c" name="{=V5az8S3s}Castle Map C (Shokuho)" terrain="Plain" is_siege_map="true"/>
-	<Scene id="sho_castle_map_d" name="{=K67hukBd}Castle Map D (Shokuho)" terrain="Plain" is_siege_map="true"/>
-   	<Scene id="sho_castle_map_h" name="{=RylGzwit}Castle Map H (Shokuho)" terrain="Plain" is_siege_map="true"/>
-      	<Scene id="sho_castle_map_i" name="{=nwoUImAL}Castle Map I (Shokuho)" terrain="Plain" is_siege_map="true"/>
-        <Scene id="sho_castle_map_j" name="{=AT0yqBIa}Castle Map J (Shokuho)" terrain="Plain" is_siege_map="true"/>
-        <Scene id="sho_castle_map_k" name="{=oZNT6AZM}Castle Map K (Shokuho)" terrain="Plain" is_siege_map="true"/>   
+  <Scene id="sho_feature_testing_a" name="{=DxEzfAU0}SHOKUHO FEATURE TESTING A (Shokuhō)" terrain="Plain" is_siege_map="false"/>
+  <!--<Scene id="sho_bandit_hideout_3" name="AAA" terrain="Plain" is_siege_map="false"/>-->
+	<Scene id="sho_castle_map_b" name="{=cbomGbmj}Castle Map B (Shokuhō)" terrain="Plain" is_siege_map="true"/>
+	<Scene id="sho_castle_map_e" name="{=03I2HSYO}Castle Map E (Shokuhō)" terrain="Plain" is_siege_map="true"/>
+	<Scene id="sho_castle_map_c" name="{=V5az8S3s}Castle Map C (Shokuhō)" terrain="Plain" is_siege_map="true"/>
+	<Scene id="sho_castle_map_d" name="{=K67hukBd}Castle Map D (Shokuhō)" terrain="Plain" is_siege_map="true"/>
+   	<Scene id="sho_castle_map_h" name="{=RylGzwit}Castle Map H (Shokuhō)" terrain="Plain" is_siege_map="true"/>
+      	<Scene id="sho_castle_map_i" name="{=nwoUImAL}Castle Map I (Shokuhō)" terrain="Plain" is_siege_map="true"/>
+        <Scene id="sho_castle_map_j" name="{=AT0yqBIa}Castle Map J (Shokuhō)" terrain="Plain" is_siege_map="true"/>
+        <Scene id="sho_castle_map_k" name="{=oZNT6AZM}Castle Map K (Shokuhō)" terrain="Plain" is_siege_map="true"/>   
    
-         	<Scene id="sho_town_a" name="{=BLJGF47r}Town A (Shokuho)" terrain="Plain" is_siege_map="true"/>
+         	<Scene id="sho_town_a" name="{=BLJGF47r}Town A (Shokuhō)" terrain="Plain" is_siege_map="true"/>
 
-         	<Scene id="sho_town_b" name="{=yS9RnZ2F}Town B (Shokuho)" terrain="Plain" is_siege_map="true"/>   
+         	<Scene id="sho_town_b" name="{=yS9RnZ2F}Town B (Shokuhō)" terrain="Plain" is_siege_map="true"/>   
 
-         	<Scene id="sho_town_c" name="{=VKyZARmF}Town C (Shokuho)" terrain="Plain" is_siege_map="true"/>      
+         	<Scene id="sho_town_c" name="{=VKyZARmF}Town C (Shokuhō)" terrain="Plain" is_siege_map="true"/>      
    
 	<!--<Scene id="sho_naval_test"
-		name="{=!}AAA Naval Test (Shokuho)"
+		name="{=!}AAA Naval Test (Shokuhō)"
 		terrain="Water"
 		is_siege_map="false"></Scene>-->
-	<Scene id="sho_naval_open_ocean" name="{=1Q2wKbus}Naval Battle (Shokuho)" terrain="Water"/>
+	<Scene id="sho_naval_open_ocean" name="{=1Q2wKbus}Naval Battle (Shokuhō)" terrain="Water"/>
 	<!--<Scene id="sho_naval_empty_test_nonavmesh"
 		   name="{=!}AAC Naval Empty Test no navmesh"
 		   terrain="Water"></Scene>-->
@@ -29,78 +30,78 @@
 		   terrain="Water"></Scene>-->
 	
 	
-		<Scene id="sho_battle_coast_a" name="{=B7h0jhvw}Coast A (Shokuho)" terrain="Plain" is_siege_map="false"/>
+		<Scene id="sho_battle_coast_a" name="{=B7h0jhvw}Coast A (Shokuhō)" terrain="Plain" is_siege_map="false"/>
 		
-		<Scene id="sho_battle_farm_a" name="{=Eg26gMoP}Farm A (Shokuho)" terrain="Plain" is_siege_map="false"/>
+		<Scene id="sho_battle_farm_a" name="{=Eg26gMoP}Farm A (Shokuhō)" terrain="Plain" is_siege_map="false"/>
 		
-		<Scene id="sho_battle_farm_b" name="{=W5gWgGJh}Farm B (Shokuho)" terrain="Plain" is_siege_map="false"/>
+		<Scene id="sho_battle_farm_b" name="{=W5gWgGJh}Farm B (Shokuhō)" terrain="Plain" is_siege_map="false"/>
 		
-		<Scene id="sho_battle_farm_c" name="{=qUEVIEyC}Farm C (Shokuho)" terrain="Plain" is_siege_map="false"/>		
+		<Scene id="sho_battle_farm_c" name="{=qUEVIEyC}Farm C (Shokuhō)" terrain="Plain" is_siege_map="false"/>		
 		
-		<Scene id="sho_battle_farm_d" name="{=eWfJkOlG}Farm D (Shokuho)" terrain="Plain" is_siege_map="false"/>	
+		<Scene id="sho_battle_farm_d" name="{=eWfJkOlG}Farm D (Shokuhō)" terrain="Plain" is_siege_map="false"/>	
 	
-		<Scene id="sho_battle_foothills_a" name="{=eguaZmhF}Foothills A (Shokuho)" terrain="Plain" is_siege_map="false"/>
+		<Scene id="sho_battle_foothills_a" name="{=eguaZmhF}Foothills A (Shokuhō)" terrain="Plain" is_siege_map="false"/>
 		
-		<Scene id="sho_battle_foothills_b" name="{=pn93crYc}Foothills B (Shokuho)" terrain="Plain" is_siege_map="false"/>
+		<Scene id="sho_battle_foothills_b" name="{=pn93crYc}Foothills B (Shokuhō)" terrain="Plain" is_siege_map="false"/>
 		
-	    <Scene id="sho_battle_foothills_c" name="{=ZyAjqrfa}Foothills C (Shokuho)" terrain="Plain" is_siege_map="false"/>
+	    <Scene id="sho_battle_foothills_c" name="{=ZyAjqrfa}Foothills C (Shokuhō)" terrain="Plain" is_siege_map="false"/>
 		
-		<Scene id="sho_battle_foothills_d" name="{=9ozY6aQ6}Foothills D (Shokuho)" terrain="Plain" is_siege_map="false"/>
+		<Scene id="sho_battle_foothills_d" name="{=9ozY6aQ6}Foothills D (Shokuhō)" terrain="Plain" is_siege_map="false"/>
 
-		<Scene id="sho_battle_foothills_e" name="{=We7PPdnk}Foothills E (Shokuho)" terrain="Plain" is_siege_map="false"/>
+		<Scene id="sho_battle_foothills_e" name="{=We7PPdnk}Foothills E (Shokuhō)" terrain="Plain" is_siege_map="false"/>
 		
-		<Scene id="sho_battle_forest_a" name="{=jUny20B6}Forest A (Shokuho)" terrain="Plain" is_siege_map="false"/>
+		<Scene id="sho_battle_forest_a" name="{=jUny20B6}Forest A (Shokuhō)" terrain="Plain" is_siege_map="false"/>
 		
-		<Scene id="sho_battle_forest_b" name="{=ga4D6wMb}Forest B (Shokuho)" terrain="Plain" is_siege_map="false"/>	
+		<Scene id="sho_battle_forest_b" name="{=ga4D6wMb}Forest B (Shokuhō)" terrain="Plain" is_siege_map="false"/>	
 		
-		<Scene id="sho_battle_forest_c" name="{=tSd1PydX}Forest C (Shokuho)" terrain="Plain" is_siege_map="false"/>		
+		<Scene id="sho_battle_forest_c" name="{=tSd1PydX}Forest C (Shokuhō)" terrain="Plain" is_siege_map="false"/>		
 
-		<Scene id="sho_battle_forest_d" name="{=hrvYSyvD}Forest D (Shokuho)" terrain="Plain" is_siege_map="false"/>	
+		<Scene id="sho_battle_forest_d" name="{=hrvYSyvD}Forest D (Shokuhō)" terrain="Plain" is_siege_map="false"/>	
 		
-		<Scene id="sho_battle_island_a" name="{=oYbo7ePj}Island A (Shokuho)" terrain="Plain" is_siege_map="false"/>	
+		<Scene id="sho_battle_island_a" name="{=oYbo7ePj}Island A (Shokuhō)" terrain="Plain" is_siege_map="false"/>	
 		
-		<Scene id="sho_battle_plain_a" name="{=PINYkjWA}Plain A (Shokuho)" terrain="Plain" is_siege_map="false"/>		
+		<Scene id="sho_battle_plain_a" name="{=PINYkjWA}Plain A (Shokuhō)" terrain="Plain" is_siege_map="false"/>		
 
-		<Scene id="sho_battle_plain_b" name="{=fFmqJrkr}Plain B (Shokuho)" terrain="Plain" is_siege_map="false"/>	
+		<Scene id="sho_battle_plain_b" name="{=fFmqJrkr}Plain B (Shokuhō)" terrain="Plain" is_siege_map="false"/>	
 
-		<Scene id="sho_battle_plain_c" name="{=6zIJiNPJ}Plain C (Shokuho)" terrain="Plain" is_siege_map="false"/>	
+		<Scene id="sho_battle_plain_c" name="{=6zIJiNPJ}Plain C (Shokuhō)" terrain="Plain" is_siege_map="false"/>	
 		
-		<Scene id="sho_battle_plain_d" name="{=Wsc3R5eG}Plain D (Shokuho)" terrain="Plain" is_siege_map="false"/>	
+		<Scene id="sho_battle_plain_d" name="{=Wsc3R5eG}Plain D (Shokuhō)" terrain="Plain" is_siege_map="false"/>	
 
-		<Scene id="sho_battle_plain_e" name="{=YVZHBwX5}Plain E (Shokuho)" terrain="Plain" is_siege_map="false"/>	
+		<Scene id="sho_battle_plain_e" name="{=YVZHBwX5}Plain E (Shokuhō)" terrain="Plain" is_siege_map="false"/>	
 
-		<Scene id="sho_battle_plain_f" name="{=LXrKHChh}Plain F (Shokuho)" terrain="Plain" is_siege_map="false"/>		
+		<Scene id="sho_battle_plain_f" name="{=LXrKHChh}Plain F (Shokuhō)" terrain="Plain" is_siege_map="false"/>		
 
-		<Scene id="sho_battle_plain_g" name="{=unjLZ2wl}Plain G (Shokuho)" terrain="Plain" is_siege_map="false"/>	
+		<Scene id="sho_battle_plain_g" name="{=unjLZ2wl}Plain G (Shokuhō)" terrain="Plain" is_siege_map="false"/>	
 
-		<!--<Scene id="sho_battle_plain_h" name="{=SHqEzRa9}Plain H (Shokuho)" terrain="Plain" is_siege_map="false"/>-->	
+		<!--<Scene id="sho_battle_plain_h" name="{=SHqEzRa9}Plain H (Shokuhō)" terrain="Plain" is_siege_map="false"/>-->	
 
-		<Scene id="sho_battle_plain_i" name="{=lBWkMM5N}Plain I (Shokuho)" terrain="Plain" is_siege_map="false"/>	
+		<Scene id="sho_battle_plain_i" name="{=lBWkMM5N}Plain I (Shokuhō)" terrain="Plain" is_siege_map="false"/>	
 
-		<Scene id="sho_battle_plain_j" name="{=jd8T9XYw}Plain J (Shokuho)" terrain="Plain" is_siege_map="false"/>		
+		<Scene id="sho_battle_plain_j" name="{=jd8T9XYw}Plain J (Shokuhō)" terrain="Plain" is_siege_map="false"/>		
 
-		<Scene id="sho_battle_plain_k" name="{=6xz95lJL}Plain K (Shokuho)" terrain="Plain" is_siege_map="false"/>			
+		<Scene id="sho_battle_plain_k" name="{=6xz95lJL}Plain K (Shokuhō)" terrain="Plain" is_siege_map="false"/>			
 
-		<Scene id="sho_battle_valley_a" name="{=Nc40Hzjf}Valley A (Shokuho)" terrain="Plain" is_siege_map="false"/>		
+		<Scene id="sho_battle_valley_a" name="{=Nc40Hzjf}Valley A (Shokuhō)" terrain="Plain" is_siege_map="false"/>		
 
-		<Scene id="sho_battle_valley_b" name="{=XZadR2dg}Valley B (Shokuho)" terrain="Plain" is_siege_map="false"/>	
+		<Scene id="sho_battle_valley_b" name="{=XZadR2dg}Valley B (Shokuhō)" terrain="Plain" is_siege_map="false"/>	
 
-		<Scene id="sho_battle_valley_c" name="{=jQx4tL9T}Valley C (Shokuho)" terrain="Plain" is_siege_map="false"/>	
+		<Scene id="sho_battle_valley_c" name="{=jQx4tL9T}Valley C (Shokuhō)" terrain="Plain" is_siege_map="false"/>	
 
-		<Scene id="sho_battle_valley_d" name="{=EySu7EgD}Valley D (Shokuho)" terrain="Plain" is_siege_map="false"/>	
+		<Scene id="sho_battle_valley_d" name="{=EySu7EgD}Valley D (Shokuhō)" terrain="Plain" is_siege_map="false"/>	
 
-		<Scene id="sho_battle_bridge_a" name="{=R54GCPQR}Bridge A (Shokuho)" terrain="Plain" is_siege_map="false"/>
+		<Scene id="sho_battle_bridge_a" name="{=R54GCPQR}Bridge A (Shokuhō)" terrain="Plain" is_siege_map="false"/>
     
-    <Scene id="sho_village_a" name="{=UPm6ZsyP}Village A (Shokuho)" terrain="Plain" is_village_map="true"/>		
+    <Scene id="sho_village_a" name="{=UPm6ZsyP}Village A (Shokuhō)" terrain="Plain" is_village_map="true"/>		
     
-    <Scene id="sho_village_b" name="{=eQ8kbRrJ}Village B (Shokuho)" terrain="Plain" is_village_map="true"/>		
+    <Scene id="sho_village_b" name="{=eQ8kbRrJ}Village B (Shokuhō)" terrain="Plain" is_village_map="true"/>		
     
-    <Scene id="sho_village_c" name="{=fKA5VPyZ}Village C (Shokuho)" terrain="Plain" is_village_map="true"/>		
+    <Scene id="sho_village_c" name="{=fKA5VPyZ}Village C (Shokuhō)" terrain="Plain" is_village_map="true"/>		
     
-    <Scene id="sho_village_d" name="{=unt66UlF}Village D (Shokuho)" terrain="Plain" is_village_map="true"/>		
+    <Scene id="sho_village_d" name="{=unt66UlF}Village D (Shokuhō)" terrain="Plain" is_village_map="true"/>		
     
-    <Scene id="sho_village_f" name="{=1bHXmG3u}Village F (Shokuho)" terrain="Plain" is_village_map="true"/>
+    <Scene id="sho_village_f" name="{=1bHXmG3u}Village F (Shokuhō)" terrain="Plain" is_village_map="true"/>
     
-    <Scene id="sho_village_h" name="{=FJJfpbiF}Village H (Shokuho)" terrain="Plain" is_village_map="true"/>		
+    <Scene id="sho_village_h" name="{=FJJfpbiF}Village H (Shokuhō)" terrain="Plain" is_village_map="true"/>		
 		
 </CustomBattleScenes>

@@ -596,7 +596,7 @@
 			<EquipmentSet id="sanyo_civ_template_default_female" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="lord_1_yoshimi_4" name="{=p4gAtQ44}Yoshimi Hiroymasa" age="28" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+	<NPCCharacter id="lord_1_yoshimi_4" name="{=p4gAtQ44}Yoshimi Hiromasa" age="28" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
 		<face>
 			<BodyProperties version="4" age="28.00" weight="0.5114" build="0.5084" key="002AF00EC0000604956456C948B8748B627759567C8C39BCC4377BD558A9BB980768867806A6828B000000000000000000000000000000000000000062D400C0"/>
 		</face>

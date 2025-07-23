@@ -35,7 +35,7 @@
             <Piece id="sho_nodachi_curved_handle_4_yellow" Type="Handle" scale_factor="94"/>
         </Pieces>
     </CraftedItem>
-    <CraftedItem id="sho_nodachi_6" name="{=sVC9Ht6h}Old Curved Straight No-Dachi" crafting_template="SHO_TwoHandedLargeSword" modifier_group="sword">
+    <CraftedItem id="sho_nodachi_6" name="{=sVC9Ht6h}Old Straight No-Dachi" crafting_template="SHO_TwoHandedLargeSword" modifier_group="sword">
         <Pieces>
             <Piece id="sho_nodachi_blade_3" Type="Blade" scale_factor="108"/>
             <Piece id="sho_ka_tsuba_a_2" Type="Guard" scale_factor="102"/>

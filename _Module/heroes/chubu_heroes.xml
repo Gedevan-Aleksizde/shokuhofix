@@ -57,7 +57,7 @@
   <Hero id="lord_1_uchigashima_7" faction="Faction.clan_uchigashima_1" father="Hero.dead_lord_1_uchigashima_2" mother="Hero.dead_lord_1_uchigashima_3" text=""/>
   <Hero id="lord_1_uchigashima_8" faction="Faction.clan_uchigashima_1" father="Hero.dead_lord_1_uchigashima_2" mother="Hero.dead_lord_1_uchigashima_3" text=""/>
   <Hero id="lord_1_uchigashima_9" faction="Faction.clan_uchigashima_1" father="Hero.dead_lord_1_uchigashima_2" mother="Hero.dead_lord_1_uchigashima_3" text=""/>
-  <!--Ikko-Ikki Faction
+  <!--Ikkou-Ikki Faction
 	Shimotsuma  Clan-->
   <Hero id="lord_1_shimotsuma" faction="Faction.clan_shimotsuma_1" spouse="Hero.lord_1_shimotsuma_1" text=""/>
   <Hero id="lord_1_shimotsuma_1" faction="Faction.clan_shimotsuma_1" spouse="Hero.lord_1_shimotsuma" text=""/>
@@ -77,7 +77,7 @@
   <Hero id="lord_1_shichiri_2" faction="Faction.clan_shichiri_1" father="Hero.lord_1_shichiri" mother="Hero.lord_1_shichiri_1" text=""/>
   <Hero id="lord_1_shichiri_3" faction="Faction.clan_shichiri_1" father="Hero.lord_1_shichiri" mother="Hero.lord_1_shichiri_1" text=""/>
   <!--Hatakeyama Faction
-	Noto-Hatakeyama Clan-->
+	Hatakeyama Clan-->
   <Hero id="lord_1_notohatakeyama" faction="Faction.clan_notohatakeyama_1" spouse="Hero.lord_1_notohatakeyama_1" father="Hero.dead_lord_1_notohatakeyama_2" mother="Hero.dead_lord_1_notohatakeyama_3" text=""/>
   <Hero id="lord_1_notohatakeyama_1" faction="Faction.clan_notohatakeyama_1" spouse="Hero.lord_1_notohatakeyama" text=""/>
   <Hero id="dead_lord_1_notohatakeyama_2" alive="false" faction="Faction.clan_notohatakeyama_1" spouse="Hero.dead_lord_1_notohatakeyama_3" text=""/>

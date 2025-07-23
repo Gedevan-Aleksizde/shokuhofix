@@ -423,9 +423,9 @@
         <Flags UseTeamColor="true"/>
     </Item>
 
-    <Item id="sho_tsutsu_suneate_c_2" name="{=jtXzAqSU}Fur Mail Tsutsu Suneate" mesh="sho_tsutsu_suneate_c_2" weight="2.4" appearance="1" Type="LegArmor">
+    <Item id="sho_tsutsu_suneate_c_2" name="{=E2QlAoyf}Mail Tsutsu Suneate" mesh="sho_tsutsu_suneate_c_2" weight="2.4" appearance="1" Type="LegArmor">
         <ItemComponent>
-            <Armor leg_armor="22" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+            <Armor leg_armor="21" covers_legs="true" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags UseTeamColor="true"/>
     </Item>
@@ -474,28 +474,28 @@
 
     <Item id="sho_tsutsu_suneate_c_9" name="{=jtXzAqSU}Fur Mail Tsutsu Suneate" mesh="sho_tsutsu_suneate_c_9" weight="2.4" appearance="1" Type="LegArmor">
         <ItemComponent>
-            <Armor leg_armor="22" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+            <Armor leg_armor="22" covers_legs="false" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags UseTeamColor="true"/>
     </Item>
 
     <Item id="sho_tsutsu_suneate_c_10" name="{=jtXzAqSU}Fur Mail Tsutsu Suneate" mesh="sho_tsutsu_suneate_c_10" weight="2.4" appearance="1" Type="LegArmor">
         <ItemComponent>
-            <Armor leg_armor="22" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+            <Armor leg_armor="22" covers_legs="false" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags UseTeamColor="true"/>
     </Item>
 
     <Item id="sho_tsutsu_suneate_c_11" name="{=jtXzAqSU}Fur Mail Tsutsu Suneate" mesh="sho_tsutsu_suneate_c_11" weight="2.4" appearance="1" Type="LegArmor">
         <ItemComponent>
-            <Armor leg_armor="22" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+            <Armor leg_armor="22" covers_legs="false" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags UseTeamColor="true"/>
     </Item>
 
     <Item id="sho_tsutsu_suneate_c_12" name="{=jtXzAqSU}Fur Mail Tsutsu Suneate" mesh="sho_tsutsu_suneate_c_12" weight="2.4" appearance="1" Type="LegArmor">
         <ItemComponent>
-            <Armor leg_armor="22" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+            <Armor leg_armor="22" covers_legs="false" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
         <Flags UseTeamColor="true"/>
     </Item>

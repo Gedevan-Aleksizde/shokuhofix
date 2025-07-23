@@ -123,7 +123,7 @@
   <Hero id="lord_1_yukawa_4" faction="Faction.clan_yukawa_1" father="Hero.dead_lord_1_yukawa_2" mother="Hero.dead_lord_1_yukawa_3" text=""/>
   <Hero id="lord_1_yukawa_5" faction="Faction.clan_yukawa_1" father="Hero.dead_lord_1_yukawa_2" mother="Hero.dead_lord_1_yukawa_3" text=""/>
   <Hero id="lord_1_yukawa_6" faction="Faction.clan_yukawa_1" father="Hero.dead_lord_1_yukawa_2" mother="Hero.dead_lord_1_yukawa_3" text="{=12F9A162}Citation needed"/>
-  <!--Ikko Ikki Faction-->
+  <!--Ikkou Ikki Faction-->
   <!-- Honganji Clan -->
   <Hero id="lord_1_honganji" faction="Faction.clan_honganji_1" spouse="Hero.lord_1_honganji_2" text=""/>
   <Hero id="lord_1_honganji_1" faction="Faction.clan_honganji_1" spouse="Hero.lord_1_honganji" text=""/>

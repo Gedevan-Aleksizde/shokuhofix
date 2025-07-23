@@ -1192,7 +1192,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="saikai_otzutsu_samurai" default_group="Ranged" level="26" occupation="Soldier" culture="Culture.saikai" name="{=ClreU3ev}Saikai Ozutsu Samurai">
+  <NPCCharacter id="saikai_otzutsu_samurai" default_group="Ranged" level="26" occupation="Soldier" culture="Culture.saikai" name="{=ClreU3ev}Saikai Ōzutsu Samurai">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>

@@ -2859,7 +2859,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_hokuriku"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_hakusan_shuto_leader_2" name="{=7PyHI5XI}Hoju-bo of the Hakusan-shūto" voice="curt" age="25" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.hokuriku" occupation="Lord">
+	<NPCCharacter id="spc_hakusan_shuto_leader_2" name="{=7PyHI5XI}Houju-bou of the Hakusan-shūto" voice="curt" age="25" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.hokuriku" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>
@@ -2878,7 +2878,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_hokuriku"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="spc_hakusan_shuto_leader_3" name="{=n1AUVAjG}Daien-bo of the Hakusan-shūto" voice="curt" age="28" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.hokuriku" occupation="Lord">
+	<NPCCharacter id="spc_hakusan_shuto_leader_3" name="{=n1AUVAjG}Daien-bou of the Hakusan-shūto" voice="curt" age="28" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.hokuriku" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.townsman_saikai"/>
 		</face>

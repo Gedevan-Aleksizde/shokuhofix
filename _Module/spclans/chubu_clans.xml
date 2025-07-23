@@ -9,7 +9,7 @@
 <Faction id="clan_anekouji_1" is_noble="true" name="{=lo1uTEQ8}Anekouji-shi" tier="5" owner="Hero.lord_1_anekouji" culture="Culture.tosan" super_faction="Kingdom.anekouji" banner_key="11.163.166.1528.1528.764.764.1.0.0.683.171.171.483.483.764.764.0.0.0"/>
 <Faction id="clan_miki_1" is_noble="true" name="{=SNvfboK3}Miki-shi" tier="4" owner="Hero.lord_1_miki" culture="Culture.tosan" super_faction="Kingdom.anekouji" banner_key="11.163.166.1528.1528.764.764.1.0.0.683.171.171.483.483.764.764.0.0.0"/>
 <Faction id="clan_uchigashima_1" is_noble="true" name="{=LboIPHhY}Uchigashima-shi" tier="3" owner="Hero.lord_1_uchigashima" culture="Culture.tosan" super_faction="Kingdom.anekouji" banner_key="11.163.166.1528.1528.764.764.1.0.0.684.171.171.483.483.764.764.0.0.0"/>
-<!--Ikko-Shu Faction (other clans in Kinki)-->
+<!--Ikkou-Shu Faction (other clans in Kinki)-->
 <Faction id="clan_shimotsuma_1" is_noble="true" name="{=8Kqhx9R1}Shimotsuma-shi" tier="5" owner="Hero.lord_1_shimotsuma" culture="Culture.hokuriku" super_faction="Kingdom.ikko_shu" banner_key="11.163.166.1528.1528.764.764.1.0.0.685.171.171.483.483.764.764.0.0.0"/>
 <Faction id="clan_shichiri_1" is_noble="true" name="{=kXGcCns5}Shichiri-shi" tier="4" owner="Hero.lord_1_shichiri" culture="Culture.hokuriku" super_faction="Kingdom.ikko_shu" banner_key="11.163.166.1528.1528.764.764.1.0.0.686.171.171.483.483.764.764.0.0.0"/>
 <!--Hatakeyama Faction (other clans in Kinki)-->

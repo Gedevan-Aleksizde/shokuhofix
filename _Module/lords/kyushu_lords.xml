@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <NPCCharacters>
-  <!--Lords of Kyushu-->
+  <!--Lords of Kyūshū-->
   <!--SHIMAZU KINGDOM-->
   <!--Clan Shimazu 13 ids-->
   <!--Parents-->
@@ -75,7 +75,7 @@
       <EquipmentSet id="saikai_civ_template_default_female" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_shimazu_2" name="{=czGM0U4X}Shimazu Ohira" age="17" voice="curt" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_shimazu_2" name="{=czGM0U4X}Shimazu Ōhira" age="17" voice="curt" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="17.00" weight="0.5248" build="0.6379" key="0031E40D000000029E8578449BE4AAC399D283520B71944AB5B3809A816E14FC027A86240740591300000000000000000000000000000000000000007AFC30C1"/>
     </face>
@@ -1018,7 +1018,7 @@
     </Equipments>
   </NPCCharacter>
   <!--relative 2-->
-  <NPCCharacter id="lord_1_kawakami_11" name="{=ODtiTkOv}Kawakami Hisatoki" age="33" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kawakami_11" name="{=Ht8hAJcl}Kawakami Tadatomo" age="33" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="33.00" weight="0.4052" build="0.7799" key="003AD40E400004C0B462852949B7677AB2683A675BBB4857C42C49755889AEA8017C661307B8C369000000000000000000000000000000000000000046EC0001"/>
     </face>
@@ -1093,7 +1093,7 @@
     </Equipments>
   </NPCCharacter>
   <!--relative 2 son 3-->
-  <NPCCharacter id="lord_1_kawakami_15" name="{=HjyxWWhy}Kawakami Tadatomo" age="4" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kawakami_15" name="{=HjyxWWhy}Kawakami Hisatomo" age="4" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="4.00" weight="0.3925" build="0.2605" key="001DE40E400003038562559956A8776C91674A865BBC3567D34A58754899BD68017466130797A35A00000000000000000000000000000000000000004AEC0103"/>
     </face>
@@ -1354,7 +1354,7 @@
     </Equipments>
   </NPCCharacter>
   <!--Son-->
-  <NPCCharacter id="lord_1_niro_2" name="{=VHFYSwnu}Niro Tadataka" age="14" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_niro_2" name="{=VHFYSwnu}Nīro Tadataka" age="14" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="14.00" weight="0.2272" build="0.7947" key="001BD00E400004C2B66365573DB5775A91695A5758CE355CC32D5A953889CB78057C365707B9B36700000000000000000000000000000000000000005EEC0041"/>
     </face>

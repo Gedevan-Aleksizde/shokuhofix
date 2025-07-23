@@ -5,8 +5,8 @@
 	</tags>
 	<strings>
 		<string id="eyYSXAYZ" text="On Water" />
-		<string id="yULrgzDc" text="San'youwater bonus" />
-		<string id="O4taxYRX" text="Tosan terrain bonus" />
+		<string id="yULrgzDc" text="San'you water bonus" />
+		<string id="O4taxYRX" text="Tousan terrain bonus" />
 		<string id="URx8JRet" text="The rules of the tournament are standard across Japan. We match the fighters up by drawing lots. Sometimes you're part of a team, and sometimes you fight by yourself." />
 		<string id="EyRAR9Kg" text="As well you might! They're a grand old custom that's now spread all over Japan. Back in the old days, they'd give a hundred condemned criminals swords and have them slash at each other until the sands were drenched in blood![if:convo_merry]" />
 		<string id="URx8JRet" text="The rules of the tournament are standard across Japan. We match the fighters up by drawing lots. Sometimes you're part of a team, and sometimes you fight by yourself." />
@@ -19,10 +19,10 @@
 		<string id="nusayWyH" text="It varies. I fancy that I have a fine eye for assessing a ransom. There are a dozen little things about a man that will tell you whether he goes to bed hungry, or spices his meat with pepper and cloves. The real money of course is in the aristocracy, and if you ever want to do my job you'll want to learn about every landowning family or tribal chief in Japan, their estates, their offspring both lawful and bastard, and, of course, their credit with the merchants." />
 		<string id="aEEQlMqZ" text="Of course. I'm welcome in every court in Japan. There's not many who can say that! So always be sure to keep a pot of mon buried somewhere, and a loyal servant who can find it in a hurry." />
 		<string id="FBuhv8Jg" text="Monkey sings up in the pine. 'I stole the daimyo’s favorite wine.'{newline}Crow replies with feathered grin, 'That lord of Kai is drunk again.'" />
-		<string id="JsW9KxLD" text="Miyoshi rule Osaka fair. But daggers flash within the lair.{newline}One by one their lights go out. And whispers take the halls with doubt." />
+		<string id="JsW9KxLD" text="Miyoshi rule Ozaka fair. But daggers flash within the lair.{newline}One by one their lights go out. And whispers take the halls with doubt." />
 		<string id="ttL93wls" text="Nobunaga always schemes. Talks of guns and foreign dreams.{newline}Builds a castle in a day, then burns ten temples on the way." />
 		<string id="9maEg7Ua" text="Ieyasu sits, both calm and still. Waiting as the rice fields fill.{newline}Speaks but once, and none deny. A turtle's patience wins the sky." />
-		<string id="dWF3fKhE" text="Chosokabe grows his rice. And counts his sons like clans of mice.{newline}The island sleeps, but not for long. He teaches peasants to be strong." />
+		<string id="dWF3fKhE" text="Chousokabe grows his rice. And counts his sons like clans of mice.{newline}The island sleeps, but not for long. He teaches peasants to be strong." />
 		<string id="Zs3yoCF0" text="The priest of Enryaku rang his bell. To scare off demons back to hell.{newline}But the demon laughed and stayed the night. Said ‘Your prayer was weak, now pass the rice.’" />
 		<string id="ZCGsUe7B" text="Saburo Saburo fought a boar. Drove it screaming to the floor.{newline}Not with blade or sharpened spear. But garlic breath and gourd of beer." />
 		<string id="rC4A84Dg" text="You have conquered Japan!" />
@@ -144,137 +144,78 @@
 		<string id="IpGnHz35" text="San'you culture" />
 		<string id="JkVr31bc" text="Port" />
 		<string id="VHL5RrsC" text="5% of the village income is paid to the ruler clan as tax{newline}5% less village income for clans" />
-		<string id="4UnDmPyE" text="reevaluating taxes for farms and fields " />
 		<string id="F54WozWc" text="Conduct surveys to evaluate taxes for farms and fields by considering not only their size but also the quality of their harvests." />
 		<string id="vYPCiRBE" text="Land Survey" />
-		<string id="Z1NtYP2o" text="monopolizing control of markets to a single merchant" />
 		<string id="MFcAnzED" text="Choosing a single merchant to lead over the rest of the domain's merchants means they will have supervision over market peddlers, authority to collect taxes from merchants, and sole control over market affairs. This brings in more income through taxes at the cost of certain maketplace freedoms." />
 		<string id="lA0mPm9W" text="Privileged Merchant" />
 		<string id="k1gfysGK" text="allowing the ruler to appoint magistrates" />
 		<string id="H47ATnu9" text="Assigning magistrates, called Daikan, to solve disputes and render verdicts on crimes will help cut down on gang activity and lawlessness. Unfortunately, this is often greatly resented by affected communities." />
-		<string id="3oQrKDje" text="Ruler clan gains 100 denars per day for each town in the domain{newline}Settlement loyalty is decreased by 1 per day" />
 		<string id="3sObWneW" text="allowing crude currencies" />
 		<string id="BsTxHnOQ" text="Currency shortages can be allieviated by allowing imported coins and wartime minted coins to have monetary value. The people will likely be reluctant to accept these new currencies." />
 		<string id="jYFwdo2g" text="Allowing Crude Currency" />
-		<string id="hzk9w79t" text="collecting dues from ships at port" />
 		<string id="6qnhZeSs" text="Ships entering ports or harbors must pay taxes according to their size, amount, and type of cargo they are carrying." />
 		<string id="nkD0DZL0" text="Port Dues" />
-		<string id="lD9d7twE" text="Towns held by the ruler clan gain 1 Loyalty and 1 Prosperity per day{newline}Towns held by non-ruler clans lose 0.3 Loyalty per day" />
-		<string id="8YKVPQ2j" text="deregulating merchants and markets" />
 		<string id="6AMcEE9C" text="Establish an economic policy that denies certain merchants privileges in towns and ports, but gives certain guarantees and tax exemptions for businesses." />
 		<string id="wSsysW7A" text="Market Deregulation" />
-		<string id="vund6SFZ" text="The influence cost of creating an army is reduced by 30% for the ruler{newline}Armies led by the ruler earn cohesion at 30% less cost{newline}Armies led by non-ruler nobles cost 10% more influence to create" />
-		<string id="SRn4QAxs" text="expanding and organizing armies" />
 		<string id="DQTIUpyl" text="In response to the need for a stronger and more organized military, lesser lords could be added to the ranks of armies in the field to bolster their concentration of power." />
-		<string id="mS2iTES5" text="Expand and Organize Military" />
-		<string id="DyetgQnu" text="Ruler's party size is increased by 60{newline}Non-ruling clans lose 0.2 influence per day." />
-		<string id="QDJoG03M" text="forming the Umamawari" />
+		<string id="mS2iTES5" text="Expand and Organize Military" />	
 		<string id="AdhGIkTC" text="Talented warriors excelling in martial arts are recruited into the umamawari, an organized escort for the ruler." />
 		<string id="Hk7pdbqU" text="Formation of the Umamawari" />
-		<string id="wzps9c9J" text="Ruler gains 5% tax from all settlements{newline}Towns lose 1 prosperity per day{newline}The influence cost of declaring war is doubled for the ruler clan" />
-		<string id="KARlmFu1" text="letting the ruler collect extra taxes in wartime" />
 		<string id="V0D9CQx3" text="Wartime taxes, called yasen, can be collected from temples, shrines, and merchants. Doing so will increase tax gain at the cost of town prosperity and more influence needed to declare war." />
 		<string id="x7veeMf0" text="War Tax" />
-		<string id="w4od0h2z" text="For kingdom decisions, the influence cost of the ruler overriding the popular decision outcome is reduced by 20%" />
-		<string id="Xh8pwzmR" text="establishing veto powers" />
 		<string id="nTYKvGaF" text="The ruler may consider the opinions of those lower in the hierarchy to suppress discontent but the final decision will remain the ruler's alone. Establishing this will allow the ruler greater authority when overriding certain decisions." />
 		<string id="nyjtKOxv" text="Veto Powers" />
-		<string id="IeQWvBHl" text="Tier 3+ clans gain 0.5 influence per day, influence cost of inviting lower tier clans to army are increased by 10%" />
-		<string id="Dbuiga01" text="appointing imperial court officials" />
 		<string id="D8wehYJB" text="Samurai clans can be incorporated into the imperial court hierarchy, further separating the power between the ranks of each clan." />
 		<string id="PRumNcaW" text="Appointment of Imperial Court Officials" />
-		<string id="9admf6bl" text="Tier 5+ clans gain 0.5 influence per day, influence cost of inviting lower tier clans to army are increased by 20%" />
 		<string id="Hh90ygaB" text="Council of Ministers" />
-		<string id="eq5ZbWAg" text="Military achievements grant 20% more influence{newline}Troop wages are increased by 10%" />
-		<string id="pgJyGhnB" text="granting awards for deeds in the field" />
 		<string id="05Qjtn2c" text="Samurai who make strides on the battlefield can be rewarded for their service. These can include fiefdoms and certificates of gratitude, bringing honor to their clan and families." />
 		<string id="eE54jEQr" text="Issuance of Certificates and Distribution of Territories" />
 		<string id="TBvCYBNp" text="Domains can specify strict and formal laws of inheritance making it more difficult to revoke land." />
-		<string id="NHcMbLnd" text="Feudal Inheritance" />
-		<string id="qJQI8HNQ" text="Villages grant 0.2 influence per day to the owner clan{newline}Towns gain 1 security but lose 1 militia per day" />
-		<string id="dFNKkfs3" text="issuing orders for peasants to return to their land" />
 		<string id="ONo3jqpz" text="By fleeing villages, peasants can escape the path of war at the risk of leaving the area abandoned. Doing so can cause hardships for those left behind and those of neighboring regions, who must now do the work of those who fled. Peasants can be ordered to return, with exemptions of burden for abiding and severe punishments for refusing." />
 		<string id="AoaVOvpW" text="Decree of Return to The Village" />
-		<string id="BfDe8woc" text="Tier 5+ clans lose 1 influence per day and the party size of their leaders is increased by 40" />
-		<string id="vfWdpzhS" text="encouraging lords to have large armies" />
 		<string id="xqBUVSc3" text="Nobles will now be expected to raise sizable retinues. Those who do so are referred to as yoriki." />
-		<string id="60eWOhxU" text="Noble Retinues" />
-		<string id="aFHLkARr" text="Food production in towns and castles are increased by 2{newline}Town loyalty is decreased by 0.2" />
-		<string id="HMsoLVhh" text="granting lords exclusive hunting rights to nearby fields" />
 		<string id="TJ9wNxZ8" text="Nobles and other landowners will have exclusive rights to hunt in fields." />
-		<string id="mNQXJ0Dy" text="Hunting Rights" />
-		<string id="cCXN8qcY" text="Trade tax paid to the town owner is increased by 3%{newline}Town prosperity is decreased by 0.2" />
-		<string id="PxIxX83j" text="allowing lords tolls on trade routes running through their holdings" />
 		<string id="YxIGyxtd" text="Landowners as well as holders of sea routes will be granted the right to collect tolls on commerce." />
 		<string id="58dF5qGa" text="Toll Taxes" />
-		<string id="B9745863" text="Armies led by Tier 5+ nobles require 10% less influence{newline}Influence of the ruler clan is reduced by 1 per day" />
-		<string id="jkYeMJr2" text="granting prestigious nobles the right to summon large armies" />
 		<string id="MUecyiQC" text="The most prestigious samurai clans are preferred when entrusting lords with armies." />
 		<string id="XaI0fmpd" text="Prestigious Retainers" />
 		<string id="Xmi7zKeE" text="Each notable yields 0.1 influence per day to the settlement's owner clan{newline}Tax from fortifications 5% decreased" />
-		<string id="95h6diLA" text="allowing the ruler to resolve disagreements" />
 		<string id="ZSOk03ZL" text="Long-standing disputes over land boundaries, water rights, mountain rights, or any other disagreements between parties can be exhaustive. By allowing the ruler final judgment, these issues can be resolved quickly." />
 		<string id="l9wbd5gC" text="Adjudication of Disputes" />
-		<string id="Q98O0BJ3" text="+0.5 Loyalty per day to settlements that have the same culture as their owner clan{newline}Settlement militia production is increased by 1{newline}-0.5 Loyalty per day to settlements with a different culture than its owner clan" />
-		<string id="9PcA9uGr" text="offering positions of power to relatives" />
 		<string id="du0Z03Z5" text="Dominion can be concentrated within the domain by arranging powerful positions in the territory with people closely related to the ruling clan." />
 		<string id="JsnkAQba" text="Nepotism" />
-		<string id="qgBY9ipZ" text="Settlement loyalty is increased by 2 per day{newline}Settlement production is reduced by 5%" />
-		<string id="Qbdm9qpR" text="ordering the forgiveness of debts" />
 		<string id="0GXnvsPI" text="Creditors and financiers can be commanded to release those with debt, providing relief to impoverished fiefdoms. Doing so will help the livelihood of those in need but will be detrimental to parts of the domain's economy." />
 		<string id="rGlQBC96" text="Order Debt Forgiveness" />
-		<string id="k4hsx3Es" text="Town taxes paid to the ruler are reduced by 5%{newline}Town loyalty is increased by 1 per day" />
-		<string id="tUikYxx1" text="establishing a lawsuit suggestion box" />
 		<string id="rvIRhZJG" text="Establishes a lawsuit suggestion box to guarantee the right of a court trial for peasants. Doing this will prevent accusations of unjustness by local officials and prevent disputes among residents from escalating into violence." />
 		<string id="hpb2htpi" text="Establishment of Litigation Suggestion Box" />
-		<string id="1mzjsWLo" text="Settlement loyalty is increased by 0.5 per day{newline}Daily hearth production at villages decreases by 0.25 per day" />
-		<string id="N3jJBxnU" text="appointmenting a mountain magistrate" />
 		<string id="GuMxVwvA" text="Local lords can grant temples, shrines, samurai, and wealthy peasants the right to manage the forests on behalf of the community. Allowing this would promote resource management, prevent competition for timber, and avert the destruction of mountainous areas." />
 		<string id="SXYPmx72" text="Appointment of a Mountain Magistrate" />
-		<string id="O6niXTV9" text="All clans whose leader has high Charm gain 1 influence per day{newline}All clans whose leader has low Charm lose 1 influence per day" />
-		<string id="7IPkuJuU" text="inviting lords to participate in cultural activities" />
 		<string id="f1piSGja" text="Promotes cultural activites such as tea ceremony, Renga poetry, Sarugaku drama, etc., and stimulate exchanges between feudal lords. This brought together feudal lords, court nobles, and merchants to increase their power, but it was not good for those who were considered uncultured." />
 		<string id="yo9AvBkT" text="Cultural Promotion" />
-		<string id="9icnZOqA" text="Settlement loyalty is increased by 0.5 per day{newline}Settlement security is decreased by 0.2 per day{newline}Clans lose 1 influence per day" />
-		<string id="ntToWkDf" text="granting villages increased autonomy" />
 		<string id="KqToK1ta" text="Villages can be given more autonomy, becoming more cohesive by establishing village codes and laws. This can lead to unchecked power amongst the village leadership, reducing the influence of lords, which can lead to conflicts between the two parties." />
 		<string id="qirmHGQJ" text="Right to Village Autonomy" />
-		<string id="f08W8pO3" text="Daily militia production is increased by 1{newline}Recruits replenish 20% faster{newline}Tax income in settlements are reduced by 10%" />
-		<string id="xZ9ddNRa" text="mobilizing the masses for war" />
 		<string id="xUCN6EHi" text="Orders can be issued to the population to take up arms and prepare for war, no matter if they are a peasant, merchant, or an artisan. They may not be the best of forces, but they are better than nothing." />
 		<string id="RRh7tpYZ" text="General Mobilization Orders" />
-		<string id="XCrxvWWG" text="Settlement security is increased by 1 per day{newline}Settlement militia production is decreased by 1 per day" />
-		<string id="yUPsc246" text="confiscating swords from commoners across the domain" />
 		<string id="jIBNcHK5" text="Sending troops throughout the realm to confiscate weapons will help to decrease the chance of successful rebellions. This also divides the classes of commoners and nobility even further by allowing samurai to keep their armaments, but not peasants." />
 		<string id="rkxUnIPf" text="Sword Hunt" />
-		<string id="TWPRiiOT" text="Settlement security is increased by 1 per day{newline}Settlement loyalty is increased by 1 per day{newline}Settlement prosperity is decreased by 1 per day{newline}Village hearths are decreased by .5 per day" />
-		<string id="n9eXIaCo" text="expelling new residents from villages" />
 		<string id="ELA02msn" text="Establishing a census for villages and expelling new residents. Bandits and troublesome rounin will have difficulties taking root in the area. It will severely limit the growth of villages but will lower the chances of banditry in the area." />
 		<string id="eLaOLHCX" text="Village Expulsion" />
-		<string id="Nr4EabjP" text="Settlement prosperity is increased by .5 per day{newline}Settlement loyalty is decreased by .5 per day{newline}Clans lose 1 influence per day" />
-		<string id="JNTTKEhK" text="heeding the counsel of foreign advisors" />
 		<string id="yuGHxYwt" text="Heeding the counsel of foreign advisors will open up new ideas and relations with external powers. This will help with foreign relations and trade but nobles may distrust the spread of outside influence." />
 		<string id="IxbGb5os" text="Foreign Advisors" />
 		<string id="JVR5WVFs" text="utilizing hostages as diplomatic leverage" />
 		<string id="SSl4gkwh" text="Utilizing family as a bargaining tool is an effective way to solidify the relations between factions and ensure that treatises are obeyed. Hostages will dramatically assist in matters of diplomacy but will cause a loss to the faction's influence." />
 		<string id="UGrZNVUg" text="Hostage Diplomacy" />
-		<string id="5QGXXdmK" text="The influence cost of recruiting lords into an army is reduced by 30%{newline}Recruitment availability of units from religious sites increased by 1{newline}Workshop production is reduced by 15%{newline}Clans lose 1 influence per day" />
-		<string id="8oXJxTdK" text="promoting religious fanaticism" />
 		<string id="khuPBoIW" text="With religious influence reaching far across the lands, more fanatical followers will emerge. Fostering this kind of religious fervor will help to encourage religious leaders to donate more men to fight on behalf of lords whose beliefs align with their own." />
 		<string id="MWwnFMyX" text="Religious Fanaticism" />
-		<string id="iT0nHkGf" text="Settlement taxes paid to the ruler are reduced by 5%{newline}Ships are 25% cheaper and build 25% faster" />
-		<string id="vGQtYp8D" text="reserving high-quality material for shipbuilders" />
 		<string id="UOJciCIl" text="Opportunities in trade with distant regions and the need to bolster the quality of naval vessels mean that the priority of high-quality resources should rest with shipbuilders. The faction's territory will see cheaper and faster ships to craft, as well as an increase in growth to port cities, at the cost of income from villages." />
 		<string id="7Hpm5QtC" text="Seaborne Priority" />
 		<string id="jdOF6aeb" text="donating lands for use by religious sects" />
 		<string id="9ggpdQ2k" text="Lords can donate some of their territory to religious sects. Territories donated this way are difficult to take away, even for rulers." />
 		<string id="O0Tyn8EQ" text="Donation of Land to Religion" />
 		<string id="zVxGmYAL" text="Settlement prosperity increases by 2 per day{newline}Clans lose 1 influence per day{newline}Tax income in settlements are increased by 15%{newline}Settlement loyalty is decreased by 1 per day{newline}Settlement Security is decreased by 1 per day{newline}Each notable yields -.25 influence per day to the settlement's owner clan{newline}Access to Naval Cannons during sieges" />
-		<string id="qXRvQFVF" text="importing foreign wares" />
 		<string id="BrPGVFVw" text="Opening local markets to exotic imports will introduce unique wares, technology, and culture to the region. Even though new export and import opportunities will arise, some notables and merchants may harbor disdain for the competition to domestic trade." />
 		<string id="oiIiCvRk" text="Foreign Imports" />
 		<string id="3MOWcJtw" text="Settlement prosperity decreases by 2 per day{newline}Tax income in settlements are decreased by 5%{newline}Allows access to Ammo Caches during offensive sieges" />
-		<string id="A8otglCP" text="stockpiling for wartime" />
 		<string id="jdXFG0m4" text="To prevent supply complications during siege operations, towns will need to give up some of their supplies intended for the markets. Doing so will allow for supplies to be prioritized for offensive sieges, but will also cause negative impacts to prosperity in towns." />
 		<string id="jSJruOkV" text="Wartime Stockpiling" />
 		<string id="7rVB5l3B" text=" Religions" />
@@ -428,17 +369,17 @@
 		<string id="2wY88rzX" text="A scroll containing over three decades of esoteric iconography and scriptures, assembled by Kintaibō Kakuzen. Contains over one hundred volumes and is one of the largest collections of its kind."/>
 		<string id="RuQ4TZhh" text="A scroll containing the different scholastic and oral traditions from various schools of esoteric Buddhism, organized into two hundred twenty-eight volumes. Organized by Gokurakubou Jouchou, taking over thirty years to compile."/>
 		<string id="OBbYaTVr" text="A scroll containing the oral traditions, events, and manners from various schools of esoteric Buddhism. Organized by Sōkushoin Koushū, a learned monk of the Tendai sect, who ascended Mount Hiei to study the unique sects of Buddhism."/>
-		<string id="unC8XMbS" text="A book of scrolls compiling rituals and doctrines related to mountain ascetic practices of Shugendo. Written by Akübou Sokuden, a mountain ascetic from Mount Nikko."/>
-		<string id="pYmNTiMK" text="A book of letters testifying to the transmission of ritual doctrine in Shugendo. Written by Akübou Sokuden, a mountain ascetic from Mount Nikko."/>
+		<string id="unC8XMbS" text="A book of scrolls compiling rituals and doctrines related to mountain ascetic practices of Shugendo. Written by Akūbou Sokuden, a mountain ascetic from Mount Nikko."/>
+		<string id="pYmNTiMK" text="A book of letters testifying to the transmission of ritual doctrine in Shugendo. Written by Akūbou Sokuden, a mountain ascetic from Mount Nikko."/>
 		<string id="AYhzKPj2" text="Five volumes authored by, Utsunomiya Sadamune,an officer in charge of managing the Katana of the Shogun Ashikaga Yoshimitsu. He categorized katana by period and presented a genealogy of katana smiths, as well as famous swords and their measurements."/>
 		<string id="EwYMTiHV" text="A scroll containing a list of names of katana smiths by region. Includes each smith’s inscriptions, weapon characteristics, anecdotes, and genealogical information."/>
-		<string id="b5wKRFvG" text="A book finished by Saitou Toshimasa, started by his father, that covers around eight hundred forty Katana. Includes Katana from Awataguchi, Soushū, Chūgoku-Shikoku, Hokuriku, Bizen-Bitchū, and Kyushu."/>
+		<string id="b5wKRFvG" text="A book finished by Saitou Toshimasa, started by his father, that covers around eight hundred forty Katana. Includes Katana from Awataguchi, Sou-shū, Chūgoku-Shikoku, Hokuriku, Bizen-Bitchü, and Kyūshū."/>
 		<string id="kCaKCo01" text="A book classifying katana smiths in different countries into five levels of evaluation and includes highlights of their blades, the date of their production, and examples of famous swords."/>
 		<string id="sLDnkOCe" text="A book describing beliefs, origins, and history of the mountains of the Kinki region."/>
 		<string id="z0uNk7ZU" text="A book composed of experiences traveling from to Kamakura to Kyoto in 1223. It is filled with phrases from old Chinese texts, poetry, Buddhist writings, as well as detailed descriptions of landscapes and landmarks."/>
 		<string id="Docmd9xI" text="A travelogue book composed of experiences on the way from Higashiyama, Kyoto to Kamakura in 1242. It is filled with detailed descriptions of landscapes."/>
 		<string id="415dA2QQ" text="A collection of diary entries written by Abutsuni, consort of Fujiwara no Tameie. The entries focused on her travels from Kyoto to Kamakura to appeal to the Kamakura Shogunate over a territorial dispute between her son and his half-brother."/>
-		<string id="PGtz6eGJ" text="A book, written by Shōgoin Dōkō, cataloging various materials of his travels on the Hokuriku Route. Includes various writings on the Ou-shü region, multiple kinds of poems, legends, and writings on historical sites."/>
+		<string id="PGtz6eGJ" text="A book, written by Shōgoin Dōkō, cataloging various materials of his travels on the Hokuriku Route. Includes various writings on the Ou-shū region, multiple kinds of poems, legends, and writings on historical sites."/>
 		<string id="UPBYYWDk" text="A book describing the life and culture of the warriors and provinces of Japan during the Muromachi period."/>
 		<string id="0juzWg0C" text="A collection of studies on Japan’s geography, customs, manners, and natural history. Written by Tei Shunkō who was sent to Japan to help in the suppression of Japanese Pirates."/>
 		<string id="efFEbXCp" text="A book detailing the relations between Korea and Japan, prepared by the Yi Dynasty diplomat Shin Suk-ju. It records the politics of Japan and Ryukyu, including history of diplomatic exchanges and reception of envoys."/>
@@ -461,24 +402,24 @@
 		<string id="SjVaQf1a" text="An Encyclopaedia by Minamoto no Shitagō, containing about three thousand entries on his opinions of various matters."/>
 		<string id="edDbDSHL" text="A book of six hundred twenty articles filled with miscellaneous meanings of Japanese and Chinese words and phrases. Includes celestial phenomena, deities, countries, inner regions, geography, plants, grass, birds, beasts and insects, human affairs, the human body, Buddhism, treasures, clothing, musical instruments, miscellaneous items, food and drink, and more."/>
 		<string id="AspEeudR" text="An Encyclopaedia of the Middle Ages, authored by Tōin Kinkata.  Includes astronomy, geography, the divisions of court, literature, manners and customs, arts and crafts, religion, and taboos."/>
-		<string id="xFWvS5gM" text="An Encyclopaedia by  Tōroku no Hanō with eighteen sections on society, seasonal events, quantities, language, human ethics, and more."/>
+		<string id="xFWvS5gM" text="An Encyclopaedia by Touroku Hanou (東麓破衲) with eighteen sections on society, seasonal events, quantities, language, human ethics, and more."/>
 		<string id="r13LNEG0" text="A scroll filled with an assortment of writings. Includes astronomy, geography, literature, divisions of court, customs, goods, arts and crafts, religion, and taboos."/>
 		<string id="qYy1U6EE" text="A collection of thirty-one articles codifying the customary laws of maritime traders in the Seto Inland Sea. Includes regulations for ships, shipowners, sailors, maritime salvage, and nautical rituals."/>
-		<string id="sBKwO1Rh" text="Fifty-one articles comprising the codes of the Kamakura shogunate. Filled with diverse content including the duties of  Shugo guardians and Jitou constables and codifies unique samurai jurisprudence that differs from the traditional court law and manor law."/>
+		<string id="sBKwO1Rh" text="Fifty-one articles comprising the codes of the Kamakura shogunate. Filled with diverse content including the duties of Shugo guardians and Jitou constables and codifies unique samurai jurisprudence that differs from the traditional court law and manor law."/>
 		<string id="er6VQ05c" text="A commentary on the shogunate's basic code of law, the Goseibaishikimoku, authored by Kiyohara no Nobukata. The contents contain quotes and explanations of the various theories of kōke law and discusses the blending of different kōke laws within samurai families."/>
 		<string id="tRpBlqV8" text="Seventeen articles consisting of laws authored by Asakura Takakage, given to his heir Ujikage. The contents cover directives on the control of vassals, recruitment of personnel, strengthening of military power, emphasis on civil administration, fostering of territorial culture, strictness of justice, and vigilance against other domains."/>
 		<string id="gsOIC4l7" text="An assorted set of laws written by Date Tanemune detailing a number of regulations on the governance of his territory. It is characterized by detailed provisions on criminal offenses such as murder and robbery, the broad recognition of landowners' right to rule, and preferential treatment in the sale and purchase of land to craftsmen of arms and farming implements."/>
 		<string id="XKXBAN3A" text="An article of law written by Imagawa Yoshimoto detailing a number of regulations on the governance of his territory. It provides stipulation on relations between lords and peasants, boundary disputes, responses in case of conflicts and banditry, restrictions on the sale and purchase of territory, provisions for the vassal system, non-interventionist rights, and inheritance and court procedures, and much more."/>
 		<string id="3ybFlk33" text="A set of laws written by Takeda Harunobu (Shingen) for the realms under the control of the Takeda Clan. A total of fifty-five articles, It stipulates the prohibition of private wars, the regulation of letters to other domains, the prohibition of sectarian disputes, and the prohibition of private alliances."/>
-		<string id="l5m8ME5Y" text="A set of laws written by Sagara Haruhiro for the realms under the control of the Sagara Clan. Includes stipulations on the sale and purchase of rice fields, master-servant relations, water access, fines for sheltering fugitives, and prohibits the Ikko sect. Prayers by anyone other than Buddhists, Shintou, or mountain dwelling priests are strictly prohibited."/>
+		<string id="l5m8ME5Y" text="A set of laws written by Sagara Haruhiro for the realms under the control of the Sagara Clan. Includes stipulations on the sale and purchase of rice fields, master-servant relations, water access, fines for sheltering fugitives, and prohibits the Ikkou sect. Prayers by anyone other than Buddhists, Shintou, or mountain dwelling priests are strictly prohibited."/>
 		<string id="peUDJ52f" text="A medical treatise compiled by Izumo no Hirosada from the Heian period, sporting a collection of medicinal herbs across the region."/>
-		<string id="16fh1qth" text="A medical treatise compiled by Tanba Yasuyori, a doctor of acupuncture who served as court physician during the Heian period. It compiled into thirty volumes and consists of doctors' ethics, general medical theory, therapies for various diseases, health and hygiene regimen, medical techniques and medical thought."/>
-		<string id="vq0zLdDx" text="A leading medical treatise of the Kamakura period, compiled by the physician Kajiwara Shouzen. Kajiwara utilized his knowledge of medicine and references from the latest Chinese Medical texts of the period to assemble this set of volumes. Includes details on vast amount of illnesses and diagrams of internal organs."/>
-		<string id="irBHhwiz" text="Kajiwara Shouzen’s medical treatise written around 1313 and entirely in Chinese. Intended to transmit and preserve the art of medicine."/>
-		<string id="WOuDgTfK" text="Ten volumes of Yū Souritsu’s Ming dynasty medical texts reprinted and published by Asaino Sōzui, a merchant in Sakai. Intended for en-masse sale, this collection is vital for spreading knowledge on a plethora of ailments."/>
-		<string id="PtJNY3zY" text="A set of eight volumes on diseases and treatments by Manase Dousan. Contains information on diverse etiologies from ancient and modern Chinese sources and is vital for the cataloging and treating of numerous ailments across Japan."/>
+		<string id="16fh1qth" text="A medical treatise compiled by Tamba Yasuyori, a doctor of acupuncture who served as court physician during the Heian period. It compiled into thirty volumes and consists of doctors' ethics, general medical theory, therapies for various diseases, health and hygiene regimen, medical techniques and medical thought."/>
+		<string id="vq0zLdDx" text="A leading medical treatise of the Kamakura period, compiled by the physician Kajiwara Shouzen (梶原性全). Kajiwara utilized his knowledge of medicine and references from the latest Chinese Medical texts of the period to assemble this set of volumes. Includes details on vast amount of illnesses and diagrams of internal organs."/>
+		<string id="irBHhwiz" text="Kajiwara Shouzen (梶原性全)’s medical treatise written around 1313 and entirely in Chinese. Intended to transmit and preserve the art of medicine."/>
+		<string id="WOuDgTfK" text="Ten volumes of Yū Sōritsu’s Ming dynasty medical texts reprinted and published by Asaino Sōzui, a merchant in Sakai. Intended for en-masse sale, this collection is vital for spreading knowledge on a plethora of ailments."/>
+		<string id="PtJNY3zY" text="A set of eight volumes on diseases and treatments by Manase Dousan (曲直瀬道三). Contains information on diverse etiologies from ancient and modern Chinese sources and is vital for the cataloging and treating of numerous ailments across Japan."/>
 		<string id="hWxWyNii" text="A comprehensive collection of articles on the methods and procedures of castle building. Inside are detailed descriptions of the material, manpower, and techniques required of castles depending on their terrain and complexity."/>
-		<string id="jXNpbKGC" text="Sou Kouryo's completed collection of military writings from the Song Dynasty. Each volume is filled with theories and doctrines on assorted military knowledge as well as descriptions of various siege engines and defensive equipment."/>
+		<string id="jXNpbKGC" text="Sou Kouryo's completed collection of Military writings from the Song Dynasty. Each volume is filled with theories and doctrines on assorted military knowledge as well as descriptions of various siege engines and defensive equipment."/>
 		<string id="6daF7Znq" text="sho_ashigaru"/>
 		<string id="tZRYsmrp" text="sho_jinbaori"/>
 		<string id="g9pnFwtv" text="sho_kamishimono++"/>
@@ -494,11 +435,11 @@
 		<string id="hKRUVU17" text="Postbattle"/>
 		<string id="i0g76dhq" text="A postbattle location is the result of two armies clashing on the battlefield, leaving dead bodies on the ground. These bodies have armor and weapons that can be worth a fortune, but acquiring these items come at a serious risk. Scavengers will come from all over to plunder and loot the items, and you must compete with others to get as much as you can and get out before you are overwhelmed.{newline}{newline}A post battle can appear when two armies clash and a certain threshold of casualties take place, which is customizable in the options. When entering a post battle, you can select a small number of troops to accompany you. The number of troops you can bring in is dependent on the Roguery skill. Once inside, other looters will be there, collecting the loot of the previous battle. There are several loot piles on the map, which can be interacted with to loot the items. If you press “Alt”, you can see the location of all the loot piles. You can command your troops to loot the piles as well by telling them to do so as a command. Select the formation and left click on the pile you want them to loot.{newline}{newline}Enemy looters are focused on the loot and will only attack the player if they interrupt their looting, or if the player has looted a lot and they want to take it for themselves. These looters are more cowardly than normal troops and will be likely to flee if wounded. The enemy looters will the piles, stealing potential loot from you for themselves, so you must race to get as much loot as possible, or you can attack them for their loot if you’re brave enough. You can also leave them alone, focus on getting as much as you can, and get out by exiting the area and retreating through the red barrier like a normal map. You will keep any loot collected if you retreat this way.{newline}{newline}More enemies will show up over time, equipped with ranged weapons and better armor. They will target the player if the player has loot, so be careful and try not to stay too long or you’ll be overwhelmed."/>
 		<string id="dHyVxYSO" text="Guns"/>
-		<string id="TmU0OGY8" text="Guns played a key part in this period of Japanese history. The designs were imported from the west and mass produced in Japan. Known as Tanegashima guns, they were musket-based matchlocks that proved extremely deadly and were able to penetrate Japanese armor with ease. Shokuho has a wide variety of guns, including pistols, muskets, and even an Ozutsu, a small handheld cannon.{newline}{newline}Guns deal high damage, and are highly accurate with the right skills, but are slow to reload. Gunners are vulnerable to cavalry charges, so keep them protected with melee infantry. If you are having trouble dealing with gun troops, try baiting a volley fire from them at a distance, and quickly close the distance with cavalry to disrupt their reloading.{newline}{newline}Gun wielding troops in the first line of a formation will crouch, so the 2nd line in the formation can fire over them. The player may also fire a gun while crouching. Firing a gun while crouching is more accurate. This happens automatically for troops in formation and works even if there are archer troops in the formation as well."/>
+		<string id="TmU0OGY8" text="Guns played a key part in this period of Japanese history. The designs were imported from the west and mass produced in Japan. Known as Tanegashima guns, they were musket-based matchlocks that proved extremely deadly and were able to penetrate Japanese armor with ease. Shokuhō has a wide variety of guns, including pistols, muskets, and even an Ōzutsu, a small handheld cannon.{newline}{newline}Guns deal high damage, and are highly accurate with the right skills, but are slow to reload. Gunners are vulnerable to cavalry charges, so keep them protected with melee infantry. If you are having trouble dealing with gun troops, try baiting a volley fire from them at a distance, and quickly close the distance with cavalry to disrupt their reloading.{newline}{newline}Gun wielding troops in the first line of a formation will crouch, so the 2nd line in the formation can fire over them. The player may also fire a gun while crouching. Firing a gun while crouching is more accurate. This happens automatically for troops in formation and works even if there are archer troops in the formation as well."/>
 		<string id="j6jVT4t8" text="Ports"/>
 		<string id="quokpMTR" text="Due to Japan being made up of several islands, boats are required to travel between them. This can be done at ports. There are dozens of ports around Japan. To travel around Japan, you will need to acquire boats. Ports are where you buy or build boats. Larger boats will require them to be built, which takes time. You can see boats in production in the Naval Management screen, which can be accessed by pressing H or clicking the icon in the bottom left corner of the screen.{newline}{newline}Once you have enough boats to carry your army, you can go on the water by clicking the “Set Sail” button. If you can’t afford to buy boats, you can also take a ferry, which will take you to a specific port you choose. The ferry will cost more money depending on how many troops you have in your party, and how much your party is carrying. Finally, ports are where you buy or build boats. Larger boats will require them to be built, which takes time. You can see boats in production in the Naval Management screen."/>
 		<string id="uTu4F2nl" text="Naval Battles"/>
-		<string id="WRnHpCFa" text="Naval battles are a custom feature unique to Shokuho. It has been designed from scratch to feel like the naval battles of 16th century Japan.{newline}{newline}Naval battles work in custom battles and in the Campaign. For custom battles, boats are chosen automatically based on the number of troops selected for each side. For campaign battles, there is a custom UI to let the player choose which boats they want to select, and which troops go in what specific ship the player selects.All naval battles happen on the open ocean, with each side starting apart from each other. The player can control their ships with simple commands. Each ship has their own formation. The player can tell a ship to move to a specific point by giving the move order command while selecting that ship’s formation. They can also tell ships to charge, causing them to sail towards the nearest enemy ship. If you order a ship to target a specific enemy formation, they will sail towards that specific ship. You can also tell a ship to stop by issuing the stop order. All other movement orders have no function in naval battles.{newline}{newline}You can pilot the ship manually by walking up to the pilot position, near the rear of each ship, and using it. You can steer it by using the movement keys.{newline}{newline}Ships can be sunk and lost. A ship can be sunk by taking too much damage, and almost certainly guaranteeing the death of any crew on board. The most common way of a ship sinking is through collision damage. A ship getting repeatedly collided with will cause a lot of damage, and if a ship takes enough damage, it will begin to sink. Guns can also do a large amount of damage to ships. When a ship starts sinking, it will slowly fill up with water until it is below the surface completely. If one of your ships sinks, even if you win the battle, it will be removed from your list of available ships. Losing a naval battle will also force you to lose all the ships brought into the battle.{newline}{newline}Any agent that falls in the water will drown and die. This is accompanied by a custom drowning animation. This is part of why a sinking ship is so deadly for any troops inside.{newline}{newline}Boarding is the main way to fight in naval battles. Two ships can be boarded when they are near each other, not moving, and facing the same parallel direction. Boarding can happen with ships facing opposite direction, or the same direction. Once boarding begins, the ships will slowing start to align next to each other until they line up, then they will strafe towards each other until they collide. Once this happens, boarding begins, and troops on one boat will begin to board the other. The troops who board are decided by whether the player is issuing the charge command on that formation or not. The player can also board by pressing the use key on the side of the ship that is touching the other ship, which will place them on the other ship. Once all the troops on one side are dead, the troops will head back to their ship and positions and sail out again to find another ship to attack{newline}{newline}{newline}{newline}{newline}{newline}."/>
+		<string id="WRnHpCFa" text="Naval battles are a custom feature unique to Shokuhō. It has been designed from scratch to feel like the naval battles of 16th century Japan.{newline}{newline}Naval battles work in custom battles and in the Campaign. For custom battles, boats are chosen automatically based on the number of troops selected for each side. For campaign battles, there is a custom UI to let the player choose which boats they want to select, and which troops go in what specific ship the player selects.All naval battles happen on the open ocean, with each side starting apart from each other. The player can control their ships with simple commands. Each ship has their own formation. The player can tell a ship to move to a specific point by giving the move order command while selecting that ship’s formation. They can also tell ships to charge, causing them to sail towards the nearest enemy ship. If you order a ship to target a specific enemy formation, they will sail towards that specific ship. You can also tell a ship to stop by issuing the stop order. All other movement orders have no function in naval battles.{newline}{newline}You can pilot the ship manually by walking up to the pilot position, near the rear of each ship, and using it. You can steer it by using the movement keys.{newline}{newline}Ships can be sunk and lost. A ship can be sunk by taking too much damage, and almost certainly guaranteeing the death of any crew on board. The most common way of a ship sinking is through collision damage. A ship getting repeatedly collided with will cause a lot of damage, and if a ship takes enough damage, it will begin to sink. Guns can also do a large amount of damage to ships. When a ship starts sinking, it will slowly fill up with water until it is below the surface completely. If one of your ships sinks, even if you win the battle, it will be removed from your list of available ships. Losing a naval battle will also force you to lose all the ships brought into the battle.{newline}{newline}Any agent that falls in the water will drown and die. This is accompanied by a custom drowning animation. This is part of why a sinking ship is so deadly for any troops inside.{newline}{newline}Boarding is the main way to fight in naval battles. Two ships can be boarded when they are near each other, not moving, and facing the same parallel direction. Boarding can happen with ships facing opposite direction, or the same direction. Once boarding begins, the ships will slowing start to align next to each other until they line up, then they will strafe towards each other until they collide. Once this happens, boarding begins, and troops on one boat will begin to board the other. The troops who board are decided by whether the player is issuing the charge command on that formation or not. The player can also board by pressing the use key on the side of the ship that is touching the other ship, which will place them on the other ship. Once all the troops on one side are dead, the troops will head back to their ship and positions and sail out again to find another ship to attack{newline}{newline}{newline}{newline}{newline}{newline}."/>
 		<string id="LloqrmHl" text="Duels"/>
 		<string id="m2AfE7ai" text="Duel locations are spread out across Japan. You can enter these locations and initiate a duel with a duelist. These are intended to be more difficult one on one fights, and they also have some cinematics, along with beautiful, handcrafted scenes to set the tone. Winning a duel will give you renown and respect throughout Japan."/>
 		<string id="lXePKGIt" text="Temples"/>
@@ -511,61 +452,62 @@
 		<string id="gby5uRZS" text="Troops that perform well in battle can be promoted to companions. After a battle you will receive a notification that a troop or some troops are ready to promote. To promote a troop, enter the camp and select the promote troop option. Here you will see a list of troops available to promote, with their skills on the left side of the screen. Selecting them and hitting the promote button will make them a companion. Hitting the reward button will give all troops of that type an XP boost, but they will no longer be promotable."/>
 		<string id="niQJr7Gr" text="Enlistment"/>
 		<string id="ciELdzfe" text="The enlistment feature lets you enlist with a lord as a normal troop, much like troops do with the player’s party. To enlist in a lord’s party, simply choose the “I wish to enlist in your army” dialogue option. You will follow the lord’s army and engage in battles they engage in. Overtime you will earn XP and promote to the next unit. You will be given equipment based on your troop, or you can equip your own equipment that you find if you prefer that. When at peace time, your lord may order a mock battle to take place between two sides of the lord’s party. This is a way for you to gain valuable experience without being at war. Once you reach the noble tier of troops (tier 4), you will start receiving tasks from your lord, where you will be asked to leave the party and complete them. Such tasks include scouting enemy settlements, picking up supplies from towns, engaging enemy parties, or when at peace, dealing with looters. Once you reach the max tier of troop and gain enough XP, it will be possible to become a direct vassal of the clan you are enlisted with, even if your renown is lower than normally possible to become a vassal."/>
-		<string id="N6rT0EFe" text="Shinto, meaning &quot;way of the spirits&quot;, is Japan's ancestral native religion, rooted in nature and spiritualism. Followers of Shinto worship the Kami, the spirits that inhabit all things, from towering mountains to flowing rivers. Shinto shrines, often found in groves or on mountaintops, serve as places of worship and are tended to by both priests and priestesses who act as keepers of spiritual traditions and intermediaries between humans and spirits. "/>
+		<string id="N6rT0EFe" text="Shintou, meaning &quot;way of the spirits&quot;, is Japan's ancestral native religion, rooted in nature and spiritualism. Followers of Shintou worship the Kami, the spirits that inhabit all things, from towering mountains to flowing rivers. Shintou shrines, often found in groves or on mountaintops, serve as places of worship and are tended to by both priests and priestesses who act as keepers of spiritual traditions and intermediaries between humans and spirits. "/>
 		<string id="H2nZxMg6" text="Rinzai Buddhism is a sect of Zen Buddhism, a disciplined and austere path to enlightenment that focuses not only on study but on sudden insight through rigorous meditation and riddles. Introduced to Japan from the continent centuries ago , Rinzai has long held sway among the warrior elite and has flourished in monasteries , often  fortified, where many monks train in martial arts, seeing no contradiction between sword and spirit."/>
 		<string id="uDmgp8Hy" text="Shingon Buddhism is one of the major schools of Buddhism in Japan, tracing its roots in the esoteric teachings of Tang China. Shingon embraces ritual, symbolism, and mystical practices to bring the faithful closer to enlightenment, while monks serve as keepers of the sacred mandalas, mantras, and mudras that are used to unlock wisdom."/>
 		<string id="yw6hLM21" text="Tendai Buddhism is one of the oldest and most prestigious Buddhist schools in Japan, boasting ancient and deep ties with the Imperial Court in Kyoto. Established on sacred Mount Hiei, where the main temple Enryaku-ji is located, Tendai teachings present a comprehensive system open to both elite and commoner, as monks study the Lotus Sutra as the highest truth, teaching that all beings may attain Buddhahood. On the other hand, the Tendai great monasteries, have become formidable power centers in their own right, some aable to field armies of warrior-monks."/>
 		<string id="pDRw90Ji" text="Soto Buddhism is a sect of Zen Buddhism, often considered the quieter sibling to Rinzai, that emphasizes patient, silent sitting, or &quot;just sitting&quot;, as the true expression of enlightenment. Spreading more among rural folk and modest temples, Soto has fewer ties to lords and warriors, instead favouring service to village communities and secluded monastic life, Soto monks being known for their simplicity."/>
 		<string id="B1muhS5n" text="Shin Buddhism is the youngest school of Buddhism in Japan, established by former Tendai monk Shinran.  Also known as Jodo Shinshu, meaning True Pure Land, Shin Buddhism rejects elitism in favour of faith accessible to all, teaching that enlightenment  cannot be achieved through effort or meditation alone, but through sincere trust in Buddha. Thanks to this approach, Shin Buddhism has spread widely among commoners weary of the constant wars between daimyos. In some provinces, leagues of peasant believers, known as ikkō-ikki, have taken up arms to defend their faith and their land, challenging samurai rule."/>
-		<string id="DxEzfAU0" text="SHOKUHO FEATURE TESTING A (Shokuho)"/>
-		<string id="cbomGbmj" text="Castle Map B (Shokuho)"/>
-		<string id="03I2HSYO" text="Castle Map E (Shokuho)"/>
-		<string id="V5az8S3s" text="Castle Map C (Shokuho)"/>
-		<string id="K67hukBd" text="Castle Map D (Shokuho)"/>
-		<string id="RylGzwit" text="Castle Map H (Shokuho)"/>
-		<string id="nwoUImAL" text="Castle Map I (Shokuho)"/>
-		<string id="AT0yqBIa" text="Castle Map J (Shokuho)"/>
-		<string id="oZNT6AZM" text="Castle Map K (Shokuho)"/>
-		<string id="BLJGF47r" text="Town A (Shokuho)"/>
-		<string id="yS9RnZ2F" text="Town B (Shokuho)"/>
-		<string id="VKyZARmF" text="Town C (Shokuho)"/>
-		<string id="1Q2wKbus" text="Naval Battle (Shokuho)"/>
-		<string id="B7h0jhvw" text="Coast A (Shokuho)"/>
-		<string id="Eg26gMoP" text="Farm A (Shokuho)"/>
-		<string id="W5gWgGJh" text="Farm B (Shokuho)"/>
-		<string id="qUEVIEyC" text="Farm C (Shokuho)"/>
-		<string id="eWfJkOlG" text="Farm D (Shokuho)"/>
-		<string id="eguaZmhF" text="Foothills A (Shokuho)"/>
-		<string id="pn93crYc" text="Foothills B (Shokuho)"/>
-		<string id="ZyAjqrfa" text="Foothills C (Shokuho)"/>
-		<string id="9ozY6aQ6" text="Foothills D (Shokuho)"/>
-		<string id="We7PPdnk" text="Foothills E (Shokuho)"/>
-		<string id="jUny20B6" text="Forest A (Shokuho)"/>
-		<string id="ga4D6wMb" text="Forest B (Shokuho)"/>
-		<string id="tSd1PydX" text="Forest C (Shokuho)"/>
-		<string id="hrvYSyvD" text="Forest D (Shokuho)"/>
-		<string id="oYbo7ePj" text="Island A (Shokuho)"/>
-		<string id="PINYkjWA" text="Plain A (Shokuho)"/>
-		<string id="fFmqJrkr" text="Plain B (Shokuho)"/>
-		<string id="6zIJiNPJ" text="Plain C (Shokuho)"/>
-		<string id="Wsc3R5eG" text="Plain D (Shokuho)"/>
-		<string id="YVZHBwX5" text="Plain E (Shokuho)"/>
-		<string id="LXrKHChh" text="Plain F (Shokuho)"/>
-		<string id="unjLZ2wl" text="Plain G (Shokuho)"/>
-		<string id="lBWkMM5N" text="Plain I (Shokuho)"/>
-		<string id="jd8T9XYw" text="Plain J (Shokuho)"/>
-		<string id="6xz95lJL" text="Plain K (Shokuho)"/>
-		<string id="Nc40Hzjf" text="Valley A (Shokuho)"/>
-		<string id="XZadR2dg" text="Valley B (Shokuho)"/>
-		<string id="jQx4tL9T" text="Valley C (Shokuho)"/>
-		<string id="EySu7EgD" text="Valley D (Shokuho)"/>
-		<string id="R54GCPQR" text="Bridge A (Shokuho)"/>
-		<string id="UPm6ZsyP" text="Village A (Shokuho)"/>
-		<string id="eQ8kbRrJ" text="Village B (Shokuho)"/>
-		<string id="fKA5VPyZ" text="Village C (Shokuho)"/>
-		<string id="unt66UlF" text="Village D (Shokuho)"/>
-		<string id="1bHXmG3u" text="Village F (Shokuho)"/>
-		<string id="FJJfpbiF" text="Village H (Shokuho)"/>
+		<string id="DxEzfAU0" text="SHOKUHO FEATURE TESTING A (Shokuhō)"/>
+		<string id="cbomGbmj" text="Castle Map B (Shokuhō)"/>
+		<string id="03I2HSYO" text="Castle Map E (Shokuhō)"/>
+		<string id="V5az8S3s" text="Castle Map C (Shokuhō)"/>
+		<string id="K67hukBd" text="Castle Map D (Shokuhō)"/>
+		<string id="RylGzwit" text="Castle Map H (Shokuhō)"/>
+		<string id="nwoUImAL" text="Castle Map I (Shokuhō)"/>
+		<string id="AT0yqBIa" text="Castle Map J (Shokuhō)"/>
+		<string id="oZNT6AZM" text="Castle Map K (Shokuhō)"/>
+		<string id="BLJGF47r" text="Town A (Shokuhō)"/>
+		<string id="yS9RnZ2F" text="Town B (Shokuhō)"/>
+		<string id="VKyZARmF" text="Town C (Shokuhō)"/>
+		<string id="1Q2wKbus" text="Naval Battle (Shokuhō)"/>
+		<string id="B7h0jhvw" text="Coast A (Shokuhō)"/>
+		<string id="Eg26gMoP" text="Farm A (Shokuhō)"/>
+		<string id="W5gWgGJh" text="Farm B (Shokuhō)"/>
+		<string id="qUEVIEyC" text="Farm C (Shokuhō)"/>
+		<string id="eWfJkOlG" text="Farm D (Shokuhō)"/>
+		<string id="eguaZmhF" text="Foothills A (Shokuhō)"/>
+		<string id="pn93crYc" text="Foothills B (Shokuhō)"/>
+		<string id="ZyAjqrfa" text="Foothills C (Shokuhō)"/>
+		<string id="9ozY6aQ6" text="Foothills D (Shokuhō)"/>
+		<string id="We7PPdnk" text="Foothills E (Shokuhō)"/>
+		<string id="jUny20B6" text="Forest A (Shokuhō)"/>
+		<string id="ga4D6wMb" text="Forest B (Shokuhō)"/>
+		<string id="tSd1PydX" text="Forest C (Shokuhō)"/>
+		<string id="hrvYSyvD" text="Forest D (Shokuhō)"/>
+		<string id="oYbo7ePj" text="Island A (Shokuhō)"/>
+		<string id="PINYkjWA" text="Plain A (Shokuhō)"/>
+		<string id="fFmqJrkr" text="Plain B (Shokuhō)"/>
+		<string id="6zIJiNPJ" text="Plain C (Shokuhō)"/>
+		<string id="Wsc3R5eG" text="Plain D (Shokuhō)"/>
+		<string id="YVZHBwX5" text="Plain E (Shokuhō)"/>
+		<string id="LXrKHChh" text="Plain F (Shokuhō)"/>
+		<string id="unjLZ2wl" text="Plain G (Shokuhō)"/>
+		<string id="SHqEzRa9" text="Plain H (Shokuhō)"/>
+		<string id="lBWkMM5N" text="Plain I (Shokuhō)"/>
+		<string id="jd8T9XYw" text="Plain J (Shokuhō)"/>
+		<string id="6xz95lJL" text="Plain K (Shokuhō)"/>
+		<string id="Nc40Hzjf" text="Valley A (Shokuhō)"/>
+		<string id="XZadR2dg" text="Valley B (Shokuhō)"/>
+		<string id="jQx4tL9T" text="Valley C (Shokuhō)"/>
+		<string id="EySu7EgD" text="Valley D (Shokuhō)"/>
+		<string id="R54GCPQR" text="Bridge A (Shokuhō)"/>
+		<string id="UPm6ZsyP" text="Village A (Shokuhō)"/>
+		<string id="eQ8kbRrJ" text="Village B (Shokuhō)"/>
+		<string id="fKA5VPyZ" text="Village C (Shokuhō)"/>
+		<string id="unt66UlF" text="Village D (Shokuhō)"/>
+		<string id="1bHXmG3u" text="Village F (Shokuhō)"/>
+		<string id="FJJfpbiF" text="Village H (Shokuhō)"/>
 		<string id="cmNJ45Xl" text="Lean {ITEMNAME}"/>
 		<string id="DXzpdjAq" text="Stubborn {ITEMNAME}"/>
 		<string id="yIZDvo8I" text="Headstrong {ITEMNAME}"/>
@@ -650,7 +592,7 @@
 		<string id="HoKuRuB7" text="Port Nīgata"/>
 		<string id="Q47m8zth" text="Post Battle Location"/>
 		<string id="wqGUjgrp" text="Shintou"/>
-		<string id="lHzRv41P" text="Shintouists"/>
+		<string id="lHzRv41P" text="Shintoists"/>
 		<string id="aeKSwLj2" text="Rinzai Buddhists"/>
 		<string id="L1BBQe3R" text="Shingon Buddhists"/>
 		<string id="Cya6ST9A" text="Tendai Buddhists"/>
@@ -661,7 +603,7 @@
 		<string id="KEX5sbP0" text="REPLACE_DESCRIPTION"/>
 		<string id="Nw6vXG2r" text="Chiburi"/>
 		<string id="UvTpCUpH" text="Kushizaki"/>
-		<string id="BDnW3J67" text="Strategically located in the westernmost part of the San'yō region, near the Kanmon Straits that separate Honshu from Kyushu, Kushizaki is a port castle town originally by the Naitou clan, from which it is possible to control the sea and the flow of trade and people across the western provinces."/>
+		<string id="BDnW3J67" text="Strategically located in the westernmost part of the San'yō region, near the Kanmon Straits that separate Honshū from Kyūshū, Kushizaki is a port castle town originally by the Naitou clan, from which it is possible to control the sea and the flow of trade and people across the western provinces."/>
 		<string id="stpD675i" text="Backstreet"/>
 		<string id="fR2M5ZdV" text="Clearing"/>
 		<string id="MAusOuPK" text="Waterfront"/>
@@ -683,18 +625,18 @@
 		<string id="ryejJvC5" text="Tomogaura"/>
 		<string id="VDGlQJwd" text="Ishigane"/>
 		<string id="r5ANVqKb" text="Hane"/>
-		<string id="5CN8ewVp" text="Gassan-Toda"/>
-		<string id="eDhJwiwf" text="Gassan-Toda is a castle town in San'in that traces its origins back to the Kamakura period and before that to the Heian period when a fortress was built to protect trade routes and the renowned local steel production. More recently, Gassan-Toda became the stage for the last stand of the once dominant Amago clan against the ascendant Ōuchi and Mouri clans, with the conquest by Mouri Motonari marking the definitive shift of power in the region."/>
+		<string id="5CN8ewVp" text="Gassan-toda"/>
+		<string id="eDhJwiwf" text="Gassan-toda is a castle town in San'in that traces its origins back to the Kamakura period and before that to the Heian period when a fortress was built to protect trade routes and the renowned local steel production. More recently, Gassan-toda became the stage for the last stand of the once dominant Amago clan against the ascendant Ōuchi and Mouri clans, with the conquest by Mouri Motonari marking the definitive shift of power in the region."/>
 		<string id="LwUShO8j" text="Yasugi"/>
 		<string id="EOMv6L5Q" text="Mihonoseki"/>
 		<string id="9aMOSRHh" text="Yodoe"/>
 		<string id="qti2YofG" text="Okayama"/>
-		<string id="ALnnHm7B" text="Okayama is a castle town located in the western part of the Chūgoku region, providing both military and economic advantages through access to maritime trade routes and strategic passage between Honshu and Shikoku."/>
+		<string id="ALnnHm7B" text="Okayama is a castle town located in the western part of the Chūgoku region, providing both military and economic advantages through access to maritime trade routes and strategic passage between Honshū and Shikoku."/>
 		<string id="7MPxSfAc" text="Kibitsu"/>
 		<string id="U5Vy1oxO" text="Hachihama"/>
 		<string id="wwAiZo2v" text="Saidaiji"/>
 		<string id="sZfJiRtF" text="Aratakiyama Castle"/>
-		<string id="rdMHs0On" text="Hijū"/>
+		<string id="rdMHs0On" text="Hiju"/>
 		<string id="Tk7cr6rz" text="Setozaki"/>
 		<string id="ggBeWjpi" text="Kounomine Castle"/>
 		<string id="hYa3ko4i" text="Mitajiri"/>
@@ -746,8 +688,8 @@
 		<string id="cT34Ebdw" text="Mizuochi"/>
 		<string id="t2wPJnTl" text="Kitanosho"/>
 		<string id="6yl5DIfX" text="Heisenji"/>
-		<string id="1a9cEBfe" text="Oyama Gobou"/>
-		<string id="lVVZzX8n" text="Originally established as a humble supply post at the edge of fertile plains, Oyama has evolved into a bustling castle town along eastern Japan's trade routes and a vital military outpost at the crossroads of the competing Uesugi and Houjou clans."/>
+		<string id="6PgvlbUT" text="Oyama Gobou"/>
+		<string id="lVVZzX8n" text="Originally a fortified temple complex of the Kaga Ikkou movement, Oyama has evolved into a significant stronghold in the Hokuriku region and its strategic and religious value has drawn the attention of powerful neighbors."/>
 		<string id="JyG9eqDR" text="Hakusan"/>
 		<string id="6HTGkGwu" text="Ataka"/>
 		<string id="VPbrsyV3" text="Miyanokoshi"/>
@@ -772,7 +714,7 @@
 		<string id="Epzs9bvB" text="Asaka"/>
 		<string id="jewHO3R5" text="Suwa"/>
 		<string id="za4xFjbt" text="Koufu"/>
-		<string id="G1Gwql28" text="Kōfu, a castle town in the heart of Kai Province in the southern part of the Tōsan region, has been the home of the Takena clan since its beginnings, but has only recently grown considerably thanks to Takeda Shingen, who has made it the centre of his expanding domain and undertaken major flood control projects to increase agricultural production and quality of life."/>
+		<string id="G1Gwql28" text="Koufu, a castle town in the heart of Kai Province in the southern part of the Tōsan region, has been the home of the Takena clan since its beginnings, but has only recently grown considerably thanks to Takeda Shingen, who has made it the centre of his expanding domain and undertaken major flood control projects to increase agricultural production and quality of life"/>
 		<string id="9ZpFMf9j" text="Iwama"/>
 		<string id="etBS08Ko" text="Uwato"/>
 		<string id="hKFfL2SM" text="Enzan"/>
@@ -851,7 +793,7 @@
 		<string id="0auCw7Uk" text="Higano"/>
 		<string id="cRX7KAze" text="Ueda Castle"/>
 		<string id="Hu5KORDr" text="Sakaki"/>
-		<string id="whinybNk" text="Yamabe"/>
+		<string id="whinybNk" text="Yamaga"/>
 		<string id="Hd7GiElO" text="Komoro Castle"/>
 		<string id="RLsQENAd" text="Tateshina"/>
 		<string id="YsHcsOZG" text="Iwamurada"/>
@@ -894,8 +836,8 @@
 		<string id="zNtx1PQ0" text="Furukawa"/>
 		<string id="AIzmEXqU" text="Kojima"/>
 		<string id="NY1GGm2P" text="Mori Castle"/>
-		<string id="sNI8ZZHb" text="Ikeda"/>
-		<string id="Jo0WieRJ" text="Sakishina"/>
+		<string id="sNI8ZZHb" text="Sakishina"/>
+		<string id="Jo0WieRJ" text="Sarashina"/>
 		<string id="JXcJCRXa" text="Kiso-Fukushima Castle"/>
 		<string id="4nFCr6ZB" text="Seba"/>
 		<string id="qVMNO1bw" text="Tsumago"/>
@@ -983,12 +925,13 @@
 		<string id="rZXDni5c" text="Tatebayashi"/>
 		<string id="fVwXqwlO" text="Karasawayama Castle"/>
 		<string id="xRwhSNem" text="Akami"/>
+		<string id="TuSOLp1h" text="Sano"/>
 		<string id="C8avRQxs" text="Yūki Castle"/>
 		<string id="VWIh1O6T" text="Mibu"/>
 		<string id="CwUpZL5t" text="Shimodate"/>
 		<string id="Rw5bAtwn" text="Masuko Castle"/>
 		<string id="GXGaCaHX" text="Haga"/>
-		<string id="9OKrr8tM" text="Mōka"/>
+		<string id="9OKrr8tM" text="Mooka"/>
 		<string id="S931liPY" text="Kasama Castle"/>
 		<string id="uapC71GC" text="Kasama"/>
 		<string id="lKDCjpUw" text="Akasawa"/>
@@ -1024,7 +967,7 @@
 		<string id="qh0lJtT0" text="Kusabe"/>
 		<string id="43fknY0a" text="Haze"/>
 		<string id="gvK789wT" text="Nara"/>
-		<string id="Rfd9cOAd" text="Once the great imperial capital of Japan, Nara remains a center of Buddhist influence and cultural heritage. The massive temples of Tōdaiji and Kōfukuji stand as reminders of its former glory, housing powerful monastic factions."/>
+		<string id="Rfd9cOAd" text="Once the great imperial capital of Japan, Nara remains a center of Buddhist influence and cultural heritage. The massive temples of Tōdaiji and Koufukuji stand as reminders of its former glory, housing powerful monastic factions."/>
 		<string id="YJwLUC98" text="Kōriyama"/>
 		<string id="HPJqbRGp" text="Ikaruga"/>
 		<string id="kEOZW3MW" text="Imai"/>
@@ -1045,6 +988,7 @@
 		<string id="idWuOFGc" text="Shiozu"/>
 		<string id="4fxOILfF" text="Shiota Castle"/>
 		<string id="8zJovLxd" text="Shisou"/>
+		<string id="fif8CY4b" text="Iwa"/>
 		<string id="UORxMVZv" text="Ikuno Castle"/>
 		<string id="B4rIgAXu" text="Asago"/>
 		<string id="kvIfk7Pn" text="Awaga"/>
@@ -1090,7 +1034,7 @@
 		<string id="dfHStZUp" text="Yuasa"/>
 		<string id="dXkBXUQ2" text="Kī-Yura"/>
 		<string id="td8qkkz0" text="Toba Castle"/>
-		<string id="scbRMDG2" text="Kuzaki"/>
+		<string id="scbRMDG2" text="Kunisak"/>
 		<string id="Z06Isd7R" text="Ōminato"/>
 		<string id="t2ioc3tv" text="Tsu Castle"/>
 		<string id="vYdmdRjj" text="Aritaki"/>
@@ -1114,7 +1058,7 @@
 		<string id="RmvKSL4R" text="Kī-Kameyama Castle"/>
 		<string id="HbMqTOlK" text="Gobou"/>
 		<string id="bbUOxTCp" text="Koyama"/>
-		<string id="7o1ufRGz" text="Koyama is strategic stronghold in Southern Kyushu, nestled in the rugged terrain of Higo Province, where mountain passes connect inland domains to the western coast."/>
+		<string id="7o1ufRGz" text="Koyama is strategic stronghold in Southern Kyūshū, nestled in the rugged terrain of Ōsumi Province, where mountain passes connect inland domains to the western coast."/>
 		<string id="j25R8lHH" text="Takasu"/>
 		<string id="kWIpce0W" text="Aira"/>
 		<string id="LUmsTlq0" text="Kanoya"/>
@@ -1124,12 +1068,12 @@
 		<string id="p6O0gMzu" text="Imuta"/>
 		<string id="eJyaOfUD" text="Chiran"/>
 		<string id="9w6vlX8J" text="Sadowara"/>
-		<string id="7zKX3k7y" text="The castle town of Sadowara, located in the southern portion of Kyushu, has served as the seat of the Itou clan for generations. Benefiting from fertile plains and proximity to maritime routes, Sadowara has flourished as both an administrative and agricultural center becoming the epicenter of the Itou clan's expansion attempts in the region."/>
+		<string id="7zKX3k7y" text="The castle town of Sadowara, located in the southern portion of Kyūshū, has served as the seat of the Itou clan for generations. Benefiting from fertile plains and proximity to maritime routes, Sadowara has flourished as both an administrative and agricultural center becoming the epicenter of the Itou clan's expansion attempts in the region."/>
 		<string id="4XJg880P" text="Miyazaki"/>
 		<string id="SVbVfUM2" text="Kiwaki"/>
 		<string id="BNks4KgV" text="Yuyae"/>
 		<string id="bXE3Eti6" text="Hitoyoshi"/>
-		<string id="reqICg9a" text="A castle town nestled deep in the mountains of South-western Kyushu, Hitoyoshi has served as the seat of the Sagara clan since the Kamakura period. It is said that during the construction work a moon-shaped stone was unearthed, thus giving rise to the alternative folk name of moon castle. Popular tales aside, Hitoyoshi stands as an imposing fortification that has only once been attacked by an enemy and with a fatal outcome."/>
+		<string id="reqICg9a" text="A castle town nestled deep in the mountains of South-western Kyūshū, Hitoyoshi has served as the seat of the Sagara clan since the Kamakura period. It is said that during the construction work a moon-shaped stone was unearthed, thus giving rise to the alternative folk name of moon castle. Popular tales aside, Hitoyoshi stands as an imposing fortification that has only once been attacked by an enemy and with a fatal outcome."/>
 		<string id="4HuxiIxy" text="Okoba"/>
 		<string id="oFXG6Da7" text="Kinoue"/>
 		<string id="5eaNziO9" text="Yamada"/>
@@ -1138,30 +1082,30 @@
 		<string id="ffcYS6qW" text="Hikiji"/>
 		<string id="sRoPcqQk" text="Isshakuya"/>
 		<string id="HHWkdmFT" text="Kīdani"/>
-		<string id="DFE7hHDt" text="Kīdani is a fortified town in the southernmost part of the Kinki region, protected more by geography than by its walls, with its isolated location making it largely untouched by surrounding conflicts so far."/>
+		<string id="DFE7hHDt" text="Nestled within the rugged highlands of northern Kyūshū, Kīdani has long served as a fortified settlement, guarding the access to the western island of Japan. Its position overlooking vital inland routes has given it strategic relevance amid the growing contest for control over Kyūshū and has already turned Kīdani into a conflict point between the Ouchi and Ōtomo in the past."/>
 		<string id="ASyaMblp" text="Honjou"/>
 		<string id="ZqZ1vTUG" text="Hirotsu"/>
 		<string id="mlSVyux6" text="Urustu"/>
 		<string id="p7K9495f" text="Yanagawa"/>
-		<string id="fOOOFAf4" text="Located in north-western Kyushu, Yanagawa is strategically located on the banks of the Chikugo River, at the crossroads of trade routes connecting much of the region, which facilitates both trade and military movements."/>
+		<string id="fOOOFAf4" text="Located in north-western Kyūshū, Yanagawa is strategically located on the banks of the Chikugo River, at the crossroads of trade routes connecting much of the region, which facilitates both trade and military movements."/>
 		<string id="HsmYTQSG" text="Shiozuka"/>
 		<string id="ul6hJmhX" text="Sarukaki"/>
 		<string id="FfxSAyD5" text="Tachiarai"/>
 		<string id="k2e9Z4Cn" text="Kumamoto"/>
-		<string id="JwSGTyTV" text="Well-positioned between coastal trade routes and mountain strongholds of western Kyushu, Kumamoto has enjoyed steady growth thanks to the flow of trade and local production that made it a thriving and well-defended castle town."/>
+		<string id="JwSGTyTV" text="Well-positioned between coastal trade routes and mountain strongholds of western Kyūshū, Kumamoto has enjoyed steady growth thanks to the flow of trade and local production that made it a thriving and well-defended castle town."/>
 		<string id="r0VfhBU0" text="Mifune"/>
 		<string id="RGjU5dz5" text="Umeo"/>
 		<string id="DAWFhgck" text="Kikuchi"/>
 		<string id="tfwfgbGr" text="Tachibanayama"/>
-		<string id="QK5trJCE" text="Perched on a prominent hill in northern Kyushu, Tachibanayama was originally built for its namesake Tachibana clan as a fortified town, whose control over the surrounding areas remains vital for securing key trade routes and access to both land and sea."/>
+		<string id="QK5trJCE" text="Perched on a prominent hill in northern Kyūshū, Tachibanayama was originally built for its namesake Tachibana clan as a fortified town, whose control over the surrounding areas remains vital for securing key trade routes and access to both land and sea."/>
 		<string id="vAe5refA" text="Mizuki"/>
 		<string id="CpUJiWgf" text="Komono"/>
 		<string id="eL3o2vmZ" text="Muranaka"/>
-		<string id="kw7kEnWY" text="Muranaka has long served as a local stronghold in Western Kyushu, functioning as a minor seat of governance under the protection of the Asou clan, whose authority once extended across the central highlands. With the Asou clan’s power sharply declined under pressure from the Shimazu to the south and the Ōtomo to the east, Muranaka is now left vulnerable."/>
+		<string id="kw7kEnWY" text="Muranaka has long served as a local stronghold in Western Kyūshū, functioning as a minor seat of governance under the protection of the Aso clan, whose authority once extended across the central highlands. With the Aso clan’s power sharply declined under pressure from the Shimazu to the south and the Ōtomo to the east, Muranaka is now left vulnerable."/>
 		<string id="XVb1ehch" text="Tokushima"/>
 		<string id="0aitRUqP" text="Sarushi"/>
 		<string id="NjWKX8LI" text="Hinoe"/>
-		<string id="rRdiqxwR" text="The castle town of Hinoe sits on the west coast of Kyushu on the Shimabara Peninsula. Built in the early Kamakura period, Hinoe has since served as the home base and major source of profits for the Arima clan, who from here controlled maritime trade routes and more recently the Nanban foreign trade."/>
+		<string id="rRdiqxwR" text="The castle town of Hinoe sits on the west coast of Kyūshū on the Shimabara Peninsula. Built in the early Kamakura period, Hinoe has since served as the home base and major source of profits for the Arima clan, who from here controlled maritime trade routes and more recently the Nanban foreign trade."/>
 		<string id="EjeToav7" text="Kuchinotsu"/>
 		<string id="9YfwfCjt" text="Koujirou"/>
 		<string id="UxE57P3d" text="Hamano"/>
@@ -1262,7 +1206,7 @@
 		<string id="Xycc7oGz" text="Nakamura"/>
 		<string id="RzWkXm61" text="Nakamura, is a castle town in Western Shikoku. Surrounded by rivers and mountains, it enjoys a natural defensive advantage, benefitting from the fertile lands that produce rice and timber."/>
 		<string id="r2zh2zgG" text="Kashiwajima"/>
-		<string id="RLbLgutH" text="Shimizu"/>
+		<string id="htHL9YA2" text="Shimizu"/>
 		<string id="v1JzXhFl" text="Irino"/>
 		<string id="2W7Fq6SK" text="Kurose"/>
 		<string id="lhPHAUHU" text="Located in the inland reaches of Shikoku, Kurose is a strategically placed castle town that provides control over the inland routes and a valuable defensive position against neighbouring domains."/>
@@ -1284,7 +1228,7 @@
 		<string id="AnrHVvKK" text="Nio"/>
 		<string id="aMpkMmHq" text="Tadotsu"/>
 		<string id="0R2n2Ghr" text="Ushiki"/>
-		<string id="McWUwCaM" text="Ushiki is a castle town in eastern Kyushu built by the Daimyou Ōtomo Srin as the main base for his expanding domain. Located on what is virtually an island connected to the rest of Kyushu only during low tides, Ushiki dominates the eponymous bay."/>
+		<string id="McWUwCaM" text="Ushiki is a castle town in eastern Kyūshū built by the Daimyou Ōtomo Sourin as the main base for his expanding domain. Located on what is virtually an island connected to the rest of Kyūshū only during low tides, Ushiki dominates the eponymous bay."/>
 		<string id="ku69fD7c" text="Tachibana"/>
 		<string id="x0ujuUWA" text="Hirashima"/>
 		<string id="vOc88PUp" text="Yuki"/>
@@ -1342,19 +1286,19 @@
 		<string id="69FUsSqB" text="Sakata is a a key port in the northern part of the Tōhoku region, the castle town has grown into a vital hub for trade, particularly due to its access to the Sea of Japan and its proximity to the rich agricultural lands of the surrounding region."/>
 		<string id="mv5V2ut6" text="Fukiura"/>
 		<string id="HYWVIvb5" text="Kamegasaki"/>
-		<string id="hMUcPr79" text="Oura"/>
+		<string id="hMUcPr79" text="Dewa-Ōura"/>
 		<string id="KGp4U6ZT" text="Tsuchizaki-Minato"/>
-		<string id="QBjyZBVp" text="Strategically positioned on the coast of the Noto Peninsula, Tsuchizaki-Minato has long served as a crucial point for maritime trade and the transport of goods between the main islands and the northern provinces."/>
+		<string id="QBjyZBVp" text="Situated along the windswept coastline of northern Honshū, Tsuchizaki‑Minato has long served as a crucial point for maritime trade and the transport of goods between the main islands and the northern provinces."/>
 		<string id="31TCIXhh" text="Wakimoto"/>
 		<string id="74v8alVP" text="Akitanada"/>
 		<string id="H1j9IJpL" text="Toshima"/>
 		<string id="YUFX5LdB" text="Sannohe"/>
-		<string id="4i6COw8g" text="Located along a key mountain pass, Sannohe is a fortified town that serves as a military outpost, guarding vital routes for trade and troop movements on the borders of competing powers."/>
+		<string id="4i6COw8g" text="Located along a key mountain pass, Sannohoe is a fortified town that serves as a military outpost, guarding vital routes for trade and troop movements on the borders of competing powers."/>
 		<string id="REnRF8j7" text="Okuze"/>
 		<string id="g5nOB4NF" text="Tonai"/>
 		<string id="JD0A5H5Z" text="Tago"/>
 		<string id="d2r4B3vq" text="Tosaminato"/>
-		<string id="oUeaHLhb" text="Located in the northernmost reaches of Honshu, Tosaminato serves as a key trade hub with the Ainu people of Hokkaido although the harsh winters and isolation make it difficult to defend, leaving it vulnerable to raids. Once a thriving port and administrative center of the Andou clan, Tosaminato has declined following the clan’s expulsion."/>
+		<string id="oUeaHLhb" text="Located in the northernmost reaches of Honshū, Tosaminato serves as a key trade hub with the Ainu people of Hokkaido although the harsh winters and isolation make it difficult to defend, leaving it vulnerable to raids. Once a thriving port and administrative center of the Andou clan, Tosaminato has declined following the clan’s expulsion."/>
 		<string id="PUlURumW" text="Minmaya"/>
 		<string id="fBj65a4D" text="Isomatsu"/>
 		<string id="1SYbPUL2" text="Ushiogata"/>
@@ -1362,7 +1306,7 @@
 		<string id="bQNPHfvT" text="Sekishiba"/>
 		<string id="QaEH7Dir" text="Funaoka"/>
 		<string id="Yz5C61wb" text="Inawashiro Castle"/>
-		<string id="0nigus9o" text="Shorotsu"/>
+		<string id="0nigus9o" text="Shirotsu"/>
 		<string id="DYJqFlFJ" text="Inawashiro"/>
 		<string id="s7rze40X" text="Nihonmatsu Castle"/>
 		<string id="PyJrv2Zi" text="Adachi"/>
@@ -1552,7 +1496,7 @@
 		<string id="TuOaIlxm" text="Aso-jinja Shrine"/>
 		<string id="aYlihxWz" text="Shimen-gū Shrine"/>
 		<string id="iQjU16zu" text="Hikosan-jingū Shrine"/>
-		<string id="2kgUIre0" text="Munakata-jinja Trinity Shrine"/>
+		<string id="2kgUIre0" text="Munakata-jinja Triple Goddess Shrine"/>
 		<string id="4nOGmlY9" text="Hachiman Daibosatsu Usa-miya Shrine"/>
 		<string id="Fh93w5KA" text="Udo-jinja Shrine"/>
 		<string id="aw4yZS3Z" text="Tsuno-jinja Shrine"/>
@@ -1571,7 +1515,7 @@
 		<string id="5XYyFXoo" text="Enryaku-ji Temple"/>
 		<string id="J45GVL0N" text="Seishū-ji Temple"/>
 		<string id="3jL1K7Kl" text="Sangaku-ji Temple"/>
-		<string id="460iveMd" text="Ise-jingū Shrine"/>
+		<string id="460iveMd" text="Jingū Shrine of Ise"/>
 		<string id="x0PqiBJo" text="Koufuku-ji Temple"/>
 		<string id="Lv2Livt5" text="Kongobu-ji Temple"/>
 		<string id="pIXzEmMC" text="Kokawa-dera Temple"/>
@@ -1589,7 +1533,7 @@
 		<string id="nQn0ACae" text="Togakushi-jinja Shrine"/>
 		<string id="nR7WMWdY" text="Heisen-ji Temple"/>
 		<string id="nOnqP9yy" text="Shoren-ji Temple"/>
-		<string id="JSicPK3A" text="Koutoku-ji Temple"/>
+		<string id="JSicPK3A" text="Koutoku-Ji Temple"/>
 		<string id="0dsvBndi" text="Tenpyo-ji Temple"/>
 		<string id="3slk01d5" text="Rinsen-ji Temple"/>
 		<string id="CVwSl3hk" text="Zuirin-ji Temple"/>
@@ -1606,7 +1550,7 @@
 		<string id="ydJ6Rh2V" text="Isasumi-jinja Shrine"/>
 		<string id="9YK5P3zV" text="Zuigan-ji Temple"/>
 		<string id="ykaB9sA8" text="Futarayama-jinja Shrine"/>
-		<string id="d0Kti2EG" text="Rinnouji Temple"/>
+		<string id="d0Kti2EG" text="Rin'nō-ji Temple"/>
 		<string id="dkIkCHIA" text="Enichi-ji Temple"/>
 		<string id="tB7LnnOo" text="Yudonosan Shrine"/>
 		<string id="sF2SuBSg" text="Risshaku-ji Temple"/>
@@ -1768,7 +1712,7 @@
 		<string id="xygN2d0a" text="Saikai Teppou Samurai"/>
 		<string id="jOPEyttO" text="Skilled Saikai Teppou Samurai"/>
 		<string id="0QKB711W" text="Saikai Samurai Marksman"/>
-		<string id="ClreU3ev" text="Saikai Ozutsu Samurai"/>
+		<string id="ClreU3ev" text="Saikai Ōzutsu Samurai"/>
 		<string id="U6PqbXTr" text="Saikai Samurai Infantry"/>
 		<string id="1nZFXSW4" text="Skilled Saikai Samurai Infantry"/>
 		<string id="THEGTlDf" text="Saikai Mounted Samurai"/>
@@ -2322,7 +2266,7 @@
 		<string id="rfdnxhDr" text="Hattori Yasumari"/>
 		<string id="qNbyhQaj" text="Uesugi Kenshin"/>
 		<string id="6etIEETB" text="Uesugi Tamekage"/>
-		<string id="Weis43hU" text="Uesugi Seigan-in"/>
+		<string id="Weis43hU" text="uesugi Seigan-in"/>
 		<string id="8Iv9ecNC" text="Uesugi Aya"/>
 		<string id="RWQCCx4o" text="Uesugi Kagekatsu"/>
 		<string id="shVCPmCc" text="Uesugi Madoka"/>
@@ -2376,7 +2320,7 @@
 		<string id="CmHdCNgW" text="Takeda Shingen"/>
 		<string id="4i6fDyD8" text="Takeda Sanjo-no-kata"/>
 		<string id="zKMW1v8g" text="takeda Nobutora"/>
-		<string id="Jc58jQNn" text="Takeda Oi"/>
+		<string id="Jc58jQNn" text="takeda Oi"/>
 		<string id="86eH8vEV" text="Takeda Katsuyori"/>
 		<string id="v3Z4a3yT" text="Takeda Nobukiyo"/>
 		<string id="DaR7ks4O" text="Takeda Mari"/>
@@ -2423,6 +2367,7 @@
 		<string id="Dg5B2zhF" text="Oyamada Momo"/>
 		<string id="g45BojcX" text="Oyamada Nobutsuna"/>
 		<string id="zF6jIhMK" text="Oyamada Harusuke"/>
+		<string id="diLqkUYp" text="Oyamada Nobutada"/>
 		<string id="LkcZ0r5Y" text="Oyamada Fuchi"/>
 		<string id="foSkGqkk" text="Yamagata Masakage"/>
 		<string id="HjUZWMTO" text="Yamagata Yumi"/>
@@ -2524,7 +2469,8 @@
 		<string id="Id4pOfky" text="Daidouji Naoshige"/>
 		<string id="SwQ02lSF" text="Narita Ujinaga"/>
 		<string id="Vm16qd8L" text="Narita Araragi"/>
-		<string id="HvKdwFFQ" text="Narita Chikayasu"/>
+		<string id="HvKdwFFQ" text="narita Chikayasu"/>
+		<string id="ZDygI93n" text="narita Myoukou-in"/>
 		<string id="QWiufJBx" text="Narita Kai"/>
 		<string id="z0hkNFGC" text="Narita Yasuchika"/>
 		<string id="l0dKAD1a" text="Narita Futaba"/>
@@ -2553,12 +2499,14 @@
 		<string id="tCf4lIPu" text="Ashikaga Yoshiuji"/>
 		<string id="NxaysxUC" text="Ashikaga Jyoko-in"/>
 		<string id="O06DIhu2" text="Ashikaga Haruuji"/>
-		<string id="MsX1Hln6" text="Ashikaga Houshun-in"/>
+		<string id="MsX1Hln6" text="ashikaga Houshun-in"/>
 		<string id="9zqTKcqA" text="Ashikaga Fujimasa"/>
 		<string id="2cUjpzfQ" text="Ashikaga Teruuji"/>
 		<string id="F9XMsCHI" text="Ashikaga Iekuni"/>
 		<string id="olSVCZmf" text="Ashikaga Sato"/>
+		<string id="lVNG6nvY" text="Sano Masatsuna"/>
 		<string id="OjtJRVA8" text="Sano Moto"/>
+		<string id="2dwqNcV0" text="Sano Yasutsuna"/>
 		<string id="aVzIfT5b" text="Sano Kousen-in"/>
 		<string id="jTPsXTQs" text="Sano Munetsuna"/>
 		<string id="CimHJY3v" text="Sano Chikatsuna"/>
@@ -2692,6 +2640,7 @@
 		<string id="pAupiXnj" text="Tsutsui Tai"/>
 		<string id="z8vSvDSj" text="Tsutsui Junsai"/>
 		<string id="bPdxO4MG" text="Tsutsui Hiroyuki"/>
+		<string id="RenGY8Fh" text="Tsutsui Nobuyasu"/>
 		<string id="avHcE1yf" text="Tsutsui Sawa"/>
 		<string id="zSUIhhTo" text="Tsutsui Fuyuyasu"/>
 		<string id="fzgQ5psq" text="Tsutsui Keiten-in"/>
@@ -2737,18 +2686,18 @@
 		<string id="QQ62CWn2" text="Yukawa Nobuharu"/>
 		<string id="Bqky19ae" text="Yukawa Kageharu"/>
 		<string id="NbKeRcPM" text="Yukawa Harunobu"/>
-		<string id="vVdUl9kZ" text="Honganji Kennyo"/>
+		<string id="vVdUl9kZ" text="Honganji Ken'nyo"/>
 		<string id="uhGVlVcb" text="Honganji Nyosyun-ni"/>
 		<string id="ZHgHiq5g" text="Honganji Kyounyo"/>
 		<string id="dLk4Mfmb" text="Honganji Kenson"/>
 		<string id="CGMTB5IR" text="Ganshouji Syoui"/>
 		<string id="RqrjjOwd" text="Ganshouji Shoumyou-in"/>
-		<string id="dcTmgzR2" text="Ganshouji Kennin"/>
+		<string id="dcTmgzR2" text="Ganshouji Ken'nin"/>
 		<string id="KyBM4EGe" text="Rokkaku Yoshikata"/>
 		<string id="YKfuhIdz" text="Rokkaku Shizuno"/>
 		<string id="5c4QE4T3" text="Rokkaku Yoshiharu"/>
 		<string id="f4nYiBuo" text="Rokkaku Tomoe"/>
-		<string id="0TCCnJ52" text="Rokkaku Yoshisada"/>
+		<string id="0TCCnJ52" text="Rokkaku Tomonaga"/>
 		<string id="ejRgtgY3" text="Rokkaku Chizuru"/>
 		<string id="rUBu7S4M" text="Gamou Katahide"/>
 		<string id="3d9HHjwb" text="Gamou Mitsuki"/>
@@ -2837,7 +2786,7 @@
 		<string id="XTnJEsYW" text="Itou Yoshisuke"/>
 		<string id="Zo5RCGJQ" text="Itou Asa"/>
 		<string id="4atnqu27" text="Itou Takashiro"/>
-		<string id="uihfZdNy" text="Itou Asou"/>
+		<string id="uihfZdNy" text="Itou Aso"/>
 		<string id="zc3RATLY" text="Itou Yoshimasu"/>
 		<string id="bi2KysQW" text="Itou Houjyo"/>
 		<string id="lVI3T9fG" text="Itou Machigami"/>
@@ -2851,7 +2800,7 @@
 		<string id="ZtJyjDvr" text="Mera Namomi"/>
 		<string id="IGRDYaLn" text="Nagakura Sukemasa"/>
 		<string id="kxPhkWeY" text="Nagakura Asa"/>
-		<string id="a0POjhcf" text="Nagakura Douunsai"/>
+		<string id="a0POjhcf" text="Nagakura Dōunsai"/>
 		<string id="zE5EwPDa" text="Nagakura Suketoshi"/>
 		<string id="4EowmW3n" text="Nagakura Hisame"/>
 		<string id="5eZfB982" text="Sagara Yoshihi"/>
@@ -2918,16 +2867,16 @@
 		<string id="uBCOrdQV" text="Takahashi Kai"/>
 		<string id="Z2GCOUtm" text="Takahashi Ochiyo"/>
 		<string id="x6R93cIi" text="Takahashi Kaya"/>
-		<string id="NYlbLufq" text="Asou Koremasa"/>
-		<string id="fo7AmZvZ" text="Asou Hinageshi"/>
-		<string id="VwVczw6S" text="Asou Koretane"/>
-		<string id="LRFeUoJn" text="Asou Azami"/>
+		<string id="NYlbLufq" text="Aso Koremasa"/>
+		<string id="fo7AmZvZ" text="Aso Hinageshi"/>
+		<string id="VwVczw6S" text="Aso Koretane"/>
+		<string id="LRFeUoJn" text="Aso Azami"/>
 		<string id="9rmhZ9SX" text="Kai Souun"/>
 		<string id="0YMRJmlt" text="Kai Oume"/>
 		<string id="AwDyF3fr" text="Kai Chikahide"/>
 		<string id="0dn4iBEk" text="Kai Chikamasa"/>
 		<string id="1erzaD8X" text="Kai Nobunari"/>
-		<string id="nCvG3JeX" text="Nawa Yukinao"/>
+		<string id="nCvG3JeX" text="nawa Yukinao"/>
 		<string id="ZQpSL7UA" text="Nawa Anzu"/>
 		<string id="SQP2yZeu" text="Nawa Akitaka"/>
 		<string id="KrF8FmSs" text="Nawa Akiteru"/>
@@ -2951,7 +2900,12 @@
 		<string id="P5bd2ucF" text="Arima Yuri"/>
 		<string id="B67b5TXq" text="Arima Chikashi"/>
 		<string id="HbzP5AAB" text="Arima Harunobu"/>
-		<string id="hPnLYYJO" text="Yasutomi Sadanao"/>
+		<string id="DrxNkMPh" text="Omura Sumitada"/>
+		<string id="adfnCVYV" text="Omura Oen"/>
+		<string id="i2ihnVmH" text="Omura Yoshiaki"/>
+		<string id="38sUEkUk" text="Omura Yuugao"/>
+		<string id="Y7RBrR1o" text="Omura Shirasame"/>
+		<string id="hPnLYYJO" text="Yasutomi Suminao"/>
 		<string id="UxSkwZcc" text="Yasutomi Fuse"/>
 		<string id="iqiu9axQ" text="Yasutomi Sumiharu"/>
 		<string id="M9fL4iOG" text="Yasutomi Kesa"/>
@@ -3014,7 +2968,7 @@
 		<string id="aACMcMnP" text="Kumabe Akafuji"/>
 		<string id="7s4dxFt3" text="Shimazu Yoshihisa"/>
 		<string id="gv3wrMe3" text="Shimazu Enshin-inden"/>
-		<string id="czGM0U4X" text="Shimazu Ohira"/>
+		<string id="czGM0U4X" text="Shimazu Ōhira"/>
 		<string id="yquLAovd" text="Shimazu Shinjo"/>
 		<string id="p9NeUjUw" text="Shimazu Yoshihiro"/>
 		<string id="8fj2kDNi" text="Shimazu Kochou"/>
@@ -3049,7 +3003,7 @@
 		<string id="Z7OeNcGK" text="Kimotsuki Kanesuke"/>
 		<string id="N5VldQQt" text="Kimotsuki Kanemori"/>
 		<string id="aUgD8yWg" text="Kimotsuki Kanetsugu"/>
-		<string id="A8Iz9ZZT" text="Kimotsuki Ominami"/>
+		<string id="A8Iz9ZZT" text="Kimotsuki Onan"/>
 		<string id="qyCDkM5m" text="Tanegashima Tokitaka"/>
 		<string id="QF3JI70b" text="Tanegashima Nishi"/>
 		<string id="zy3vzsD2" text="Tanegashima Hisatoki"/>
@@ -3069,7 +3023,7 @@
 		<string id="emI5NXQu" text="Kawakami Yae"/>
 		<string id="Ax7ZFxHb" text="Kawakami Tadakata"/>
 		<string id="fexWXUPu" text="Kawakami Tadae"/>
-		<string id="HjyxWWhy" text="Kawakami Tadatomo"/>
+		<string id="HjyxWWhy" text="Kawakami Hisatomo"/>
 		<string id="u6vPOWe7" text="Kawakami Sachi"/>
 		<string id="KhqU55r0" text="Uwai Kunikane"/>
 		<string id="3vLKX0xu" text="Uwai Matsu"/>
@@ -3083,7 +3037,7 @@
 		<string id="yU00LUuA" text="Uwai Aki"/>
 		<string id="dcCPC5JH" text="Nīro Tadamoto"/>
 		<string id="uOiEhWdc" text="Nīro Shima"/>
-		<string id="VHFYSwnu" text="Niro Tadataka"/>
+		<string id="VHFYSwnu" text="Nīro Tadaaki"/>
 		<string id="we21zLIb" text="Nīro Tadamasu"/>
 		<string id="8SPgT8lv" text="Nīro Kaya"/>
 		<string id="JhlzLqNk" text="Nīro Yasuhisa"/>
@@ -3220,6 +3174,7 @@
 		<string id="CrgYCr35" text="Souma Moritane"/>
 		<string id="ppxVSFKS" text="Souma Kake"/>
 		<string id="CkTKok6g" text="Souma Yoshitane"/>
+		<string id="bI1XmCI8" text="Souma Takatane"/>
 		<string id="YwuGBeax" text="Souma Satotane"/>
 		<string id="nci1JssK" text="Souma Haru"/>
 		<string id="BGJzNDaJ" text="Nihonmatsu Yoshikuni"/>
@@ -3276,7 +3231,7 @@
 		<string id="qyv1DVLK" text="Iwaki Chikataka"/>
 		<string id="zS1xCtvl" text="Iwaki Keiju-in"/>
 		<string id="A91ldYIn" text="Iwaki Shigetaka"/>
-		<string id="OMoDuAqu" text="Iwaki Kubo"/>
+		<string id="OMoDuAqu" text="Iwaki Jomei-in"/>
 		<string id="uGlEqEJX" text="Iwaki Tsunetaka"/>
 		<string id="NpV12vkH" text="Iwaki Takatoki"/>
 		<string id="rg6sw1Q9" text="Iwaki Keiju-in"/>
@@ -3291,11 +3246,11 @@
 		<string id="4GWpCzJZ" text="Mogami Toshiyo"/>
 		<string id="AgF95oLC" text="Mogami Yoshitoki"/>
 		<string id="XWlzkdNm" text="Mogami Mitsunao"/>
-		<string id="PHvwg0Xu" text="Tendo Yorisada"/>
-		<string id="PF8gDLpE" text="Tendo Kikyo"/>
-		<string id="JjgMoz43" text="Tendo Kaede"/>
-		<string id="9ipPC2rK" text="Tendo Yorizumi"/>
-		<string id="dUHmrYee" text="Tendo Yorikage"/>
+		<string id="PHvwg0Xu" text="Tendou Yorisada"/>
+		<string id="PF8gDLpE" text="Tendou Kikyou"/>
+		<string id="JjgMoz43" text="Tendou Kaede"/>
+		<string id="9ipPC2rK" text="Tendou Yorizumi"/>
+		<string id="dUHmrYee" text="Tendou Yorikage"/>
 		<string id="6AupeJ2N" text="Ujiie Morimune"/>
 		<string id="tY6vS3gw" text="Ujiie Satsuki"/>
 		<string id="KqISOYEY" text="Ujiie Akimune"/>
@@ -3350,6 +3305,7 @@
 		<string id="kmuEpByR" text="Tozawa Michimori"/>
 		<string id="ZPBJZyhY" text="Tozawa Kiku"/>
 		<string id="97vWqS1S" text="Tozawa Morishige"/>
+		<string id="tePWyu1J" text="Tozawa Moriyasu"/>
 		<string id="qDo4xRn3" text="Nanbu Harumasa"/>
 		<string id="kD2IsTSN" text="Nanbu Tsuki"/>
 		<string id="4HJGGKQV" text="Nanbu Nobunao"/>
@@ -3389,7 +3345,7 @@
 		<string id="PH6vnz2s" text="Namioka Tomokazu"/>
 		<string id="UUC5lMpW" text="Namioka Tama"/>
 		<string id="7VsSFAbY" text="Namioka Tomomune"/>
-		<string id="aCGR0aAJ" text="Namioka Joko-in"/>
+		<string id="aCGR0aAJ" text="Namioka Joukou-in"/>
 		<string id="vi4WkU82" text="Namioka Akimura"/>
 		<string id="A3IWaEnQ" text="Namioka Akinori"/>
 		<string id="JcbZs4It" text="Namioka Kata"/>
@@ -3401,19 +3357,19 @@
 		<string id="WO3J90Rm" text="Guarded Kama"/>
 		<string id="DHRls4Z8" text="Fukinuki Banner of Range"/>
 		<string id="aDHkLCVu" text="Banner of Naruto"/>
-		<string id="ub8ZUT6a" text="Banner of Fearsome Violence"/>
+		<string id="ub8ZUT6a" text="Banner of Violence"/>
 		<string id="AInORbTr" text="Banner of Extreme Violence"/>
 		<string id="cGy4pi7l" text="Banner of Raijin's Fury"/>
 		<string id="0Gadzaq8" text="Banner of Iron Skin"/>
-		<string id="drWCtLlz" text="Banner of Violence"/>
+		<string id="drWCtLlz" text="Banner"/>
 		<string id="jMQBjjFi" text="Banner of Distinction"/>
-		<string id="7HHrUYJL" text="Aisu Kageno-ryū Mokuroku"/>
+		<string id="7HHrUYJL" text="Aisu-Kageno-ryū Mokuroku"/>
 		<string id="YYOAy662" text="Shintou-ryū Gokui Kaidensho"/>
 		<string id="DIXsxyaD" text="Shinkage-ryū Kagemokuroku"/>
 		<string id="w7qeAydI" text="Ten-ryū Shomokuroku"/>
 		<string id="3sx8VYLl" text="Toda-ryū Hidennosho"/>
 		<string id="frd6g7E0" text="Marumeshinkage-ryū Mokuroku"/>
-		<string id="7oGHcWiG" text="Houzouin-ryū Hyouhoumokuroku"/>
+		<string id="7oGHcWiG" text="Houzouin-ryū Hyouhou Mokuroku"/>
 		<string id="qQ5Qe8Wa" text="Sharaishiki"/>
 		<string id="EXkXfJZA" text="Utsubo No Shidai"/>
 		<string id="je3n5qAB" text="Shishiashi No Shidai"/>
@@ -3424,16 +3380,16 @@
 		<string id="Fc6fFeIM" text="Yabusame Shidai"/>
 		<string id="PHjULD4d" text="Kasagakeki"/>
 		<string id="FBLYEYkh" text="Kishahishou"/>
-		<string id="3qyIiLlH" text="Teppou Yakunokata Narabini Chougou Shidai"/>
+		<string id="3qyIiLlH" text="Teppou Yakunokata Narabini Chougoushidai"/>
 		<string id="8qvAXz9z" text="Tamagusuri Chougou Shidai"/>
 		<string id="zHV5iFpv" text="Tamakoshirae No Koto"/>
 		<string id="AD9DmG2I" text="Shidennoshū"/>
 		<string id="geRKOU03" text="Teppou Meate No Daiji"/>
-		<string id="0cxuFVQZ" text="Hyakukanshou"/>
+		<string id="0cxuFVQZ" text="Hyakukanshō"/>
 		<string id="MDUF6dFs" text="Asabashou"/>
 		<string id="iRp0l1Nj" text="Keiranshūyoshū"/>
 		<string id="P1uqYOn0" text="Sanbusoujou Hossokumikki"/>
-		<string id="dFKJ15IC" text="Shugenshuyo Hiketsushu"/>
+		<string id="dFKJ15IC" text="Shugenshūyo Hiketsushū"/>
 		<string id="C1r69eSR" text="Hidanshou"/>
 		<string id="ocT1p1U6" text="Kaji Myoujikou"/>
 		<string id="9ur29XYx" text="Ousekishou"/>
@@ -3448,7 +3404,7 @@
 		<string id="XVSN8760" text="Kaitou Shokokuki"/>
 		<string id="xddPDjBw" text="Tousenkyou"/>
 		<string id="wtuE6Ll9" text="Sonshi"/>
-		<string id="yt7Uv0U9" text="Goshi"/>
+		<string id="yt7Uv0U9" text="goshi"/>
 		<string id="GXle1JL8" text="Utsuryoushi"/>
 		<string id="M6t6WQ51" text="Rikutou"/>
 		<string id="fcDYAFnd" text="Kousekikou Sanryaku"/>
@@ -3465,7 +3421,7 @@
 		<string id="XHu6RqD5" text="Gikeiki"/>
 		<string id="6ciNxHnD" text="Taiheiki"/>
 		<string id="sPKN0rSw" text="Sogamonogatari"/>
-		<string id="66235LB1" text="Shisho-Gokyou"/>
+		<string id="66235LB1" text="Shisho Gokyou"/>
 		<string id="GzpOzopK" text="Wamyou Ruijushou"/>
 		<string id="iWBtmfhY" text="Chiribukuro"/>
 		<string id="VEuXwb4n" text="Shūgaishou"/>
@@ -3479,7 +3435,7 @@
 		<string id="uSDoJYGa" text="Imagawa Kanamokuroku"/>
 		<string id="CEjhDvd7" text="Koushū Hatto No Shidai"/>
 		<string id="6Gqxd9s2" text="Sagarashi Hatto"/>
-		<string id="LVwq6jaC" text="Daitouryūijūhou"/>
+		<string id="LVwq6jaC" text="Daitou-ryū Jūhou"/>
 		<string id="dWCGYQD6" text="Ishinpou"/>
 		<string id="ZvOqsITf" text="Ton'ishou"/>
 		<string id="3qPZwQmw" text="Man'anpou"/>
@@ -3517,11 +3473,11 @@
 		<string id="FSQBKQfP" text="Arquebus"/>
 		<string id="elFuMatP" text="Samurai Zutsu"/>
 		<string id="pmslilcc" text="Tanegashima"/>
-		<string id="b2H3pbSq" text="Small Ozutsu"/>
-		<string id="PzGFwFj9" text="Large Ozutsu"/>
+		<string id="b2H3pbSq" text="Small Ōzutsu"/>
+		<string id="PzGFwFj9" text="Large Ōzutsu"/>
 		<string id="cZ4rg27o" text="Explosive Teppou Ammunition"/>
-		<string id="0IZlpSDy" text="Ozutsu Explosive Ammunition"/>
-		<string id="dfzeWUCf" text="Ozutsu Ammunition"/>
+		<string id="0IZlpSDy" text="Ōzutsu Explosive Ammunition"/>
+		<string id="dfzeWUCf" text="Ōzutsu Ammunition"/>
 		<string id="jASYDOcA" text="Teppou Ammunition"/>
 		<string id="q1KgboXi" text="Ō-yoroi Kote"/>
 		<string id="v60sSwHB" text="Unarmored Kote"/>
@@ -3710,7 +3666,7 @@
 		<string id="QJ4qdK6d" text="Simple Curved No-Dachi"/>
 		<string id="zd318OIO" text="Reliable Curved No-Dachi"/>
 		<string id="FdDnltys" text="Fabled Straight No-Dachi"/>
-		<string id="sVC9Ht6h" text="Old Curved Straight No-Dachi"/>
+		<string id="sVC9Ht6h" text="Old Straight No-Dachi"/>
 		<string id="S3stBthx" text="Rough Straight No-Dachi"/>
 		<string id="hjDclRN3" text="Solid Straight No-Dachi"/>
 		<string id="q2bIcqLi" text="Crude Straight No-Dachi"/>
@@ -3895,9 +3851,9 @@
 		<string id="DFrIaaPX" text="Tachihara Nami"/>
 		<string id="ayqIRS5x" text="Obata Nobusada"/>
 		<string id="78h2ApYu" text="Narita Nagayasu"/>
-		<string id="5Zj9vfbh" text="Narita Shirai"/>
+		<string id="5Zj9vfbh" text="Narita Jishou-in"/>
 		<string id="dP4NuLXZ" text="Narita Chikayasu"/>
-		<string id="PiGMjXxP" text="Narita Myuokou-in"/>
+		<string id="PiGMjXxP" text="Narita Myoukou-in"/>
 		<string id="xKCKGPUy" text="Ashikaga Houshun-in"/>
 		<string id="8doVlvNw" text="Ashikaga Iekuni"/>
 		<string id="7JhWt0Cr" text="Sano Masatuna"/>
@@ -4073,7 +4029,7 @@
 		<string id="FHrTjQq8" text="Indou-shi"/>
 		<string id="hepAMIkF" text="Amakusa-shi"/>
 		<string id="fHnbNu30" text="Ōtomo-shi"/>
-		<string id="A8L5TLZI" text="One of the dominant clans in Kyushu, the Ōtomo lay claim to swathes of the hilly eastern side of the island. Flourishing port cities along the coast have introduced Christianity and trade to the Ōtomo lands. Thanks to this cooperation with Europe, the Ōtomo clan have gained an upper hand in Japan's technological arms race by bolstering their ranks with imported matchlock weapons. With land reaching from Bungo in the south to Hakata in the north the realm of the Ōtomo is not without contention. The Mouri clan have come from Honshu taking Moji castle and now threatening Ōtomo control of the vital port city of Hakata. With a Mouri foothold now in Kyushu and with Ryūzouji power rising in the west, the Ōtomo must rally under clan daimyo Ōtomo Sourin or risk losing vital land and ports."/>
+		<string id="A8L5TLZI" text="One of the dominant clans in Kyūshū, the Ōtomo lay claim to swathes of the hilly eastern side of the island. Flourishing port cities along the coast have introduced Christianity and trade to the Ōtomo lands. Thanks to this cooperation with Europe, the Ōtomo clan have gained an upper hand in Japan's technological arms race by bolstering their ranks with imported matchlock weapons. With land reaching from Bungo in the south to Hakata in the north the realm of the Ōtomo is not without contention. The Mouri clan have come from Honshū taking Moji castle and now threatening Ōtomo control of the vital port city of Hakata. With a Mouri foothold now in Kyūshū and with Ryūzouji power rising in the west, the Ōtomo must rally under clan daimyo Ōtomo Sourin or risk losing vital land and ports."/>
 		<string id="2yKuCKTm" text="Kī-shi"/>
 		<string id="nKMoFXSw" text="Kamachi-shi"/>
 		<string id="kAG0Yn7Z" text="Bekki-shi"/>
@@ -4148,7 +4104,7 @@
 		<string id="GghWbhMx" text="Iwaki-shi"/>
 		<string id="Mmlec0W6" text="Rusu-shi"/>
 		<string id="5opAomPm" text="Mogami-shi"/>
-		<string id="e0X7neFB" text="Tendo-shi"/>
+		<string id="e0X7neFB" text="Tendou-shi"/>
 		<string id="piDj6z9f" text="Ujiie-shi"/>
 		<string id="0rKkFwOg" text="Nobesawa-shi"/>
 		<string id="k1xUIUj8" text="Tateoka-shi"/>
@@ -4170,7 +4126,7 @@
 		<string id="aArztftR" text="Namioka-shi"/>
 		<string id="gVZxlFB4" text="Ashigaru"/>
 		<string id="XM9EPZDi" text="Saikai"/>
-		<string id="60nJZSa2" text="Saikaidō, meaning 'West Sea Circuit', is the westernmost region of Japan, comprising the island of Kyushu. Far from the power struggles for control of the shogunate in the capital and closer to the Asian mainland, the region has grown into a maritime and trade center, with goods and new ideas being brought by Chinese and Korean traders and most recently by newly come nanban foreigners. Although the Saikai people have a long tradition of sea commerce with other countries, they are no strangers to warfare either, as daimyo battle for control of the islands while swarms of pirates harass the profitable trade routes for plunder."/>
+		<string id="60nJZSa2" text="Saikaidō, meaning 'West Sea Circuit', is the westernmost region of Japan, comprising the island of Kyūshū. Far from the power struggles for control of the shogunate in the capital and closer to the Asian mainland, the region has grown into a maritime and trade center, with goods and new ideas being brought by Chinese and Korean traders and most recently by newly come nanban foreigners. Although the Saikai people have a long tradition of sea commerce with other countries, they are no strangers to warfare either, as daimyo battle for control of the islands while swarms of pirates harass the profitable trade routes for plunder."/>
 		<string id="686xcJ5S" text="Tarou"/>
 		<string id="xbwRkO5Z" text="Ichirou"/>
 		<string id="0T1OCfRY" text="Jirou"/>
@@ -4972,7 +4928,7 @@
 		<string id="5DNXNGmY" text="Mouri Ryougoku"/>
 		<string id="2TWnRnkw" text="Saionji"/>
 		<string id="1kGV1kZG" text="Saionji Ryougoku"/>
-		<string id="44ThIRyK" text="Ichijou"/>
+		<string id="44ThIRyK" text="ichijou"/>
 		<string id="aUUSaL8k" text="Ichijou Ryougoku"/>
 		<string id="do4c1Wld" text="Chousokabe"/>
 		<string id="pWLiqObw" text="Chousokabe Ryougoku"/>
@@ -5160,8 +5116,8 @@
 		<string id="fa3anLu5" text="Tanetsugu of the Saika-shū"/>
 		<string id="KWrYKrXN" text="Hoko-in of the Hakusan-shūto"/>
 		<string id="ro5HIPkS" text="Daigaku-in of the Hakusan-shūto"/>
-		<string id="7PyHI5XI" text="Hoju-bo of the Hakusan-shūto"/>
-		<string id="n1AUVAjG" text="Daien-bo of the Hakusan-shūto"/>
+		<string id="7PyHI5XI" text="Houju-bou of the Hakusan-shūto"/>
+		<string id="n1AUVAjG" text="Daien-bou of the Hakusan-shūto"/>
 		<string id="A34GSK7R" text="Yosuke of the Katsurayama-shū"/>
 		<string id="pmRhqZjW" text="Genzaemon of the Katsurayama-shū"/>
 		<string id="7JS920AH" text="Hikoshiro of the Katsurayama-shū"/>
@@ -5175,7 +5131,7 @@
 		<string id="4MEC7NCo" text="Tatsugorou of the Kazama-shū"/>
 		<string id="FAMP0ZXN" text="Gensuke of the Kazama-shū"/>
 		<string id="xw0Kltyn" text="Kurando of the Kurohabaki-shū"/>
-		<string id="PBCfHu7Z" text="Tobei of the Kurohabaki-shū"/>
+		<string id="PBCfHu7Z" text="Toubē of the Kurohabaki-shū"/>
 		<string id="2hJS88Ov" text="Kinsuke of the Kurohabaki-shū"/>
 		<string id="3bY5KuXN" text="Shunkai of the Kurohabaki-shū"/>
 		<string id="fBoiescJ" text="Thug"/>
@@ -5221,20 +5177,20 @@
 		<string id="K6sg7GNj" text="Kantou"/>
 		<string id="MigIA2T0" text="Ouu"/>
 		<string id="A8YrI6XH" text="a lord"/>
-		<string id="BTSZWScx" text="The Saikai people hail from the westernmost region of Japan, encompassing the island of Kyushu, which is closer to the Asian mainland than the shogunal capital and its power struggles. Thanks to their unique position, the Saikai have grown into expert seafarers and merchants with longstanding trade relations with China and Korea, and most recently with the newly come nanban foreigners who provide the Saikai with easier access to Western firearms. Yet not all the Saikai embrace trade as their call, as many take to the sea as pirates to plunder the rich trade routes, while the local lords battle to preserve their autonomy from any central authority."/>
+		<string id="BTSZWScx" text="The Saikai people hail from the westernmost region of Japan, encompassing the island of Kyūshū, which is closer to the Asian mainland than the shogunal capital and its power struggles. Thanks to their unique position, the Saikai have grown into expert seafarers and merchants with longstanding trade relations with China and Korea, and most recently with the newly come nanban foreigners who provide the Saikai with easier access to Western firearms. Yet not all the Saikai embrace trade as their call, as many take to the sea as pirates to plunder the rich trade routes, while the local lords battle to preserve their autonomy from any central authority."/>
 		<string id="Da97C2Ky" text="The Nankai people dwell on the mountainous islands of Awaji and Shikoku. Despite being skilled seafarers, the Nankai have developed a strong identity and deep attachment to their homeland which they cultivate with dedication and reverence yielding much more than the average harvest. On the other hand, Nankai have grown isolated and suspicious of the denizens of the other regions, leading them to focus more on the defense of their hometowns and their people."/>
-		<string id="OOBz6uxY" text="The San'yo people are native to the westernmost region of Honshu, whose challenging and mountainous terrain has driven them towards the coast, making the San'yo expert sailors who navigate the seas of Japan with ease and great agility. Thanks to their renowned maritime prowess, the San'yo home region has turned into a major trade hub, with large port cities such as Onomichi flourishing and yielding large tax revenues."/>
-		<string id="2FMOGwys" text="The Kinki people reside in the central part of Honshu representing the cultural, economic, and political heart of Japan. The direct heirs of the potentates who once ruled over the entire country, the Kinki benefit from the power structures left behind by their forebears, making it easier for them to consolidate their control over the different regions of Japan. The poetic tradition that flourished around Kyoto contributes to a growing renown of victorious warlords who emulate the deeds of legendary heroes. Nevertheless, years of armed clashes and political scheming for power make it consistently difficult for the Kinki lords to put aside their differences and unite against a common enemy."/>
-		<string id="vNsphaDa" text="The Hokuriku people reside in the strategically vital mountain passes and fertile coastal plains of northern Honshu that have long been targeted by neighboring warlords to control their key position. Over time, the Hokuriku have developed exceptional skills in defending their territory, often bolstering their ranks with warrior monks thanks to their proximity to powerful Buddhist temples. However, the internal stability of the region is increasingly threatened by the rise of the Jōdo Shinshū Buddhist sect that is gaining popularity among the Hokuriku and the Ikko Ikki rebels, whose fervor and uprisings challenge the traditional power structures."/>
+		<string id="OOBz6uxY" text="The San'yo people are native to the westernmost region of Honshū, whose challenging and mountainous terrain has driven them towards the coast, making the San'yo expert sailors who navigate the seas of Japan with ease and great agility. Thanks to their renowned maritime prowess, the San'yo home region has turned into a major trade hub, with large port cities such as Onomichi flourishing and yielding large tax revenues."/>
+		<string id="2FMOGwys" text="The Kinki people reside in the central part of Honshū representing the cultural, economic, and political heart of Japan. The direct heirs of the potentates who once ruled over the entire country, the Kinki benefit from the power structures left behind by their forebears, making it easier for them to consolidate their control over the different regions of Japan. The poetic tradition that flourished around Kyoto contributes to a growing renown of victorious warlords who emulate the deeds of legendary heroes. Nevertheless, years of armed clashes and political scheming for power make it consistently difficult for the Kinki lords to put aside their differences and unite against a common enemy."/>
+		<string id="vNsphaDa" text="The Hokuriku people reside in the strategically vital mountain passes and fertile coastal plains of northern Honshū that have long been targeted by neighboring warlords to control their key position. Over time, the Hokuriku have developed exceptional skills in defending their territory, often bolstering their ranks with warrior monks thanks to their proximity to powerful Buddhist temples. However, the internal stability of the region is increasingly threatened by the rise of the Jōdo Shinshū Buddhist sect that is gaining popularity among the Hokuriku and the Ikkou Ikki rebels, whose fervor and uprisings challenge the traditional power structures."/>
 		<string id="Sux6Gaed" text="The people of Tousan reside in a region characterized by rugged mountainous terrain, which almost completely cuts off the local communities from the rest of the country, who have long become self-sufficient in order to survive the harsh climate. The Tousan have mastered the adverse terrain they traverse with surprising ease to reach timber and mineral deposits, and have developed a subsistence economy around the villages in the fertile valleys that allows them to sustain minimal growth and some excellences such as the renowned horses of the Kiso Valley."/>
-		<string id="PJnJuW3o" text="The Tokai people hail from the fertile lowlands and coastlines of central-southern Honshu, which serves as the ideal boundary between west and east of the country. This has led the Tokai to develop a highly rural society based around sprawling village communities, while urban centers are limited to relatively small settlements unable to compete with the thriving towns of the rest of Japan. Despite the seemingly idyllic setting, such a strategic position makes the region a target for ambitious neighbours, and the Tokai have learnt the imperative of remaining united in arms in the face of external threats much longer than most normally would."/>
-		<string id="y6BfVZul" text="The people of Kanto, the spiritual homeland of the samurai class, live in a predominantly flat region that is perfect for extensive agriculture and the breeding of its renowned battle steeds, which yield abundant harvests and allow Kanto to field and maintain cavalry forces more easily. Imbued with the secular martial tradition in which they have their roots, the lords of Kanto can more easily raise large armies to face their enemies, but their great emphasis on military preparedness makes it more expensive to pay the wages of their soldiers."/>
-		<string id="kc0qT7ks" text="The Ou people, native to the harsh, snow-covered lands of northern Honshu, have adapted to their frosty environment with remarkable resilience. Skilled in traversing snowy terrain, the Ou navigate blizzards and icy conditions with ease, moving swiftly where others would struggle, and are accustomed to strict rationing when foraging is not possible, allowing them to endure longer in the snowy wastelands. However, the relentless winters take their toll, and their remote and rugged villages struggle to grow as rapidly as those in more temperate regions, limiting their expansion and development."/>
+		<string id="PJnJuW3o" text="The Toukai people hail from the fertile lowlands and coastlines of central-southern Honshū, which serves as the ideal boundary between west and east of the country. This has led the Toukai to develop a highly rural society based around sprawling village communities, while urban centers are limited to relatively small settlements unable to compete with the thriving towns of the rest of Japan. Despite the seemingly idyllic setting, such a strategic position makes the region a target for ambitious neighbours, and the Toukai have learnt the imperative of remaining united in arms in the face of external threats much longer than most normally would."/>
+		<string id="y6BfVZul" text="The people of Kantou, the spiritual homeland of the samurai class, live in a predominantly flat region that is perfect for extensive agriculture and the breeding of its renowned battle steeds, which yield abundant harvests and allow Kantou to field and maintain cavalry forces more easily. Imbued with the secular martial tradition in which they have their roots, the lords of Kantou can more easily raise large armies to face their enemies, but their great emphasis on military preparedness makes it more expensive to pay the wages of their soldiers."/>
+		<string id="kc0qT7ks" text="The Ouu people, native to the harsh, snow-covered lands of northern Honshū, have adapted to their frosty environment with remarkable resilience. Skilled in traversing snowy terrain, the Ouu navigate blizzards and icy conditions with ease, moving swiftly where others would struggle, and are accustomed to strict rationing when foraging is not possible, allowing them to endure longer in the snowy wastelands. However, the relentless winters take their toll, and their remote and rugged villages struggle to grow as rapidly as those in more temperate regions, limiting their expansion and development."/>
 		<string id="Zexkzij5" text="Veteran"/>
 		<string id="mW1MVc2r" text="Peasant"/>
 		<string id="d1wVlKKo" text="Zen school of Buddhism"/>
 		<string id="Lzz5gc1g" text="Shingon school of Buddhism"/>
-		<string id="27cVja0G" text="Shinto faith"/>
+		<string id="27cVja0G" text="Shintou faith"/>
 		<string id="IilS7uTN" text="Yari"/>
 		<string id="kH3iUyvW" text="Naginata"/>
 		<string id="Mrb17sF6" text="Nagamaki"/>
@@ -5243,7 +5199,7 @@
 		<string id="L51mmx1Y" text="Katana"/>
 		<string id="ukjtYL70" text="Kama"/>
 		<string id="oQxIUUB1" text="No-Dachi"/>
-		<string id="6D9iLFzI" text="Kanasaibo"/>
+		<string id="6D9iLFzI" text="Kanasaibou"/>
 		<string id="xM4xB5Fh" text="Axe"/>
 		<string id="TeojAjR1" text="Ship"/>
 		<string id="CSNEzu93" text="Buy or Build a Ship"/>
@@ -5458,12 +5414,12 @@
 		<string id="UPWxQMpj" text="Ouch, that much have hurt."/>
 		<string id="NQUCueoN" text="Put your legs into it!"/>
 		<string id="psFYPrQx" text="Kinai Ashigaru Vanguard additional cost"/>
-		<string id="VbkKKYfL" text="Tokai Hatamoto additional cost"/>
+		<string id="VbkKKYfL" text="Toukai Hatamoto additional cost"/>
 		<string id="M4ydNAS7" text="Ichiryogusoku additional cost"/>
 		<string id="OROp0LAK" text="Gun troop additional cost"/>
 		<string id="J13JMzI3" text="You do not have any money"/>
-		<string id="rKPe0b8E" text="Buddhist sects care more about their fellow temples opinion of you than Shinto shrines."/>
-		<string id="EorZaHEK" text="Shokuho has its own set of options in the MCM."/>
+		<string id="rKPe0b8E" text="Buddhist sects care more about their fellow temples opinion of you than Shintou shrines."/>
+		<string id="EorZaHEK" text="Shokuhō has its own set of options in the MCM."/>
 		<string id="uHCDjiRc" text="Crouching while firing a gun improves your accuracy."/>
 		<string id="tlBJxwv5" text="Autofill"/>
 		<string id="qUP6igXN" text="Choose Your Ships"/>
@@ -5551,14 +5507,14 @@
 		<string id="oYz4tvSZ" text="Shader Quality Low" />
 		<string id="Q09vLHIj" text="Your Shader Quality appears to be set to a value lower than High, we recommend that you set your Shader Quality to high for best results." />
 		<string id="G1bAMCTQ" text="Warning!" />
-		<string id="lCQYBdsy" text="You appear to have Diplomacy loading alongside Shokuho, Diplomacy has been integrated directly into Shokuho and will crash if loaded alongside the Shokuho module\r\nPlease relaunch without Diplomacy enabled" />
-		<string id="Il0gqhSh" text="Teppo Ashigaru" />
+		<string id="lCQYBdsy" text="You appear to have Diplomacy loading alongside Shokuhō, Diplomacy has been integrated directly into Shokuhō and will crash if loaded alongside the Shokuhō module\r\nPlease relaunch without Diplomacy enabled" />
+		<string id="Il0gqhSh" text="Teppou Ashigaru" />
 		<string id="H4P7Jtw5" text="Ranged Ikki Radical" />
-		<string id="BCuRcqLL" text="Kanasaibo" />
+		<string id="BCuRcqLL" text="Kanasaibou" />
 		<string id="x0l2zvKO" text="Nanban Do" />
 		<!--chubu shibata clan-->
 		<string id="dKQsidWH" text="Shibata-shi" />
-		<!--Kanto Oda clan-->
+		<!--Kantou Oda clan-->
 		<string id="obBB8IMs" text="Oda-shi" />
 		<string id="J9yYwEDg" text="You approach {CURRENT_SETTLEMENT}, a {TEMPLE_SHRINE} of the {FAITH_TEXT}. {PROSPERITY_STATEMENT}" />
 		<string id="u6XoxKje" text="The {TEMPLE_SHRINE} appears to be half-abandoned and scarcely visited by local inhabitants, showing the poverty of the sacred place." />
@@ -5863,7 +5819,7 @@
 		<string id="ujpvQZRt" text="Yoshimi Ōmiya"/>
 		<string id="tMK6TwxL" text="Yoshimi Hiroyori"/>
 		<string id="O6uSZlqz" text="Yoshimi Makomo"/>
-		<string id="p4gAtQ44" text="Yoshimi Hiroymasa"/>
+		<string id="p4gAtQ44" text="Yoshimi Hiromasa"/>
 		<string id="fFw7eVr9" text="Yoshimi Hagi"/>
 		<string id="eqnHNZTn" text="Naitou Masayori"/>
 		<string id="FjERkhTK" text="Naitou Ōmiya"/>
@@ -5938,47 +5894,26 @@
 		<string id="8IWeJkxs" text="reevaluating taxes for farms and fields" />
 		<string id="22jztq3h" text="monopolizing control of markets to a single merchant" />
 		<string id="NBa1B6CI" text="Ruler clan gains 100 denars per day for each town in the domain{newline}Settlement loyalty is decreased by 1 per day" />
-		<string id="PxYQM4sF" text="allowing crude currencies" />
 		<string id="llEjLwul" text="collecting dues from ships at port" />
-		<string id="VJwnqtDM" text="Towns held by the ruler clan gain 1 Loyalty and 1 Prosperity per day{newline}Towns held by non-ruler clans lose 0.3 Loyalty per day" />
 		<string id="FH7tvZJG" text="deregulating merchants and markets" />
 		<string id="mbNv1Fmn" text="The influence cost of creating an army is reduced by 30% for the ruler{newline}Armies led by the ruler earn cohesion at 30% less cost{newline}Armies led by non-ruler nobles cost 10% more influence to create" />
 		<string id="WFq6kjg3" text="expanding and organizing armies" />
-		<string id="LF8lP6Zv" text="Ruler's party size is increased by 60{newline}Non-ruling clans lose 0.2 influence per day." />
 		<string id="YGMztJ6u" text="forming the Umamawari" />
-		<string id="hepIsp42" text="Ruler gains 5% tax from all settlements{newline}Towns lose 1 prosperity per day{newline}The influence cost of declaring war is doubled for the ruler clan" />
 		<string id="2tHK82h3" text="letting the ruler collect extra taxes in wartime" />
-		<string id="vVZUYBNe" text="For kingdom decisions, the influence cost of the ruler overriding the popular decision outcome is reduced by 20%" />
 		<string id="nNdNCX7R" text="establishing veto powers" />
-		<string id="A0S7WqrJ" text="Tier 3+ clans gain 0.5 influence per day, influence cost of inviting lower tier clans to army are increased by 10%" />
 		<string id="1l2gNRuH" text="appointing imperial court officials" />
-		<string id="qMVkMP6P" text="Military achievements grant 20% more influence{newline}Troop wages are increased by 10%" />
-		<string id="y43nySUg" text="granting awards for deeds in the field" />
-		<string id="j6IMMyJH" text="Villages grant 0.2 influence per day to the owner clan{newline}Towns gain 1 security but lose 1 militia per day" />
 		<string id="G4cuQmxm" text="issuing orders for peasants to return to their land" />
-		<string id="O1S1AyrO" text="Tier 5+ clans lose 1 influence per day and the party size of their leaders is increased by 40" />
 		<string id="3w9fb5BQ" text="encouraging lords to have large armies" />
-		<string id="wUVNfpFk" text="Food production in towns and castles are increased by 2{newline}Town loyalty is decreased by 0.2" />
 		<string id="kV03hiGq" text="granting lords exclusive hunting rights to nearby fields" />
-		<string id="LjG6m6i0" text="Trade tax paid to the town owner is increased by 3%{newline}Town prosperity is decreased by 0.2" />
 		<string id="8pTg5PiA" text="allowing lords tolls on trade routes running through their holdings" />
-		<string id="B9745863" text="Armies led by Tier 5+ nobles require 10% less influence{newline}Influence of the ruler clan is reduced by 1 per day" />
 		<string id="fgHiiI8T" text="granting prestigious nobles the right to summon large armies" />
-		<string id="fxMqfUMz" text="Each notable yields 0.1 influence per day to the settlement's owner clan{newline}Tax from fortifications 5% decreased" />
 		<string id="OlsCZYJz" text="allowing the ruler to resolve disagreements" />
-		<string id="lxXRO85F" text="+0.5 Loyalty per day to settlements that have the same culture as their owner clan{newline}Settlement militia production is increased by 1{newline}-0.5 Loyalty per day to settlements with a different culture than its owner clan" />
 		<string id="VhoIzOFo" text="offering positions of power to relatives" />
-		<string id="WOQzjvgk" text="Settlement loyalty is increased by 2 per day{newline}Settlement production is reduced by 5%" />
 		<string id="miabEuVG" text="ordering the forgiveness of debts" />
-		<string id="95IGZPvx" text="Town taxes paid to the ruler are reduced by 5%{newline}Town loyalty is increased by 1 per day" />
 		<string id="ptsjea9T" text="establishing a lawsuit suggestion box" />
-		<string id="uj7qqY3e" text="Settlement loyalty is increased by 0.5 per day{newline}Daily hearth production at villages decreases by 0.25 per day" />
 		<string id="WXYQJVDf" text="appointmenting a mountain magistrate" />
-		<string id="K9IdcT0U" text="All clans whose leader has high Charm gain 1 influence per day{newline}All clans whose leader has low Charm lose 1 influence per day" />
 		<string id="IllgM7Kx" text="inviting lords to participate in cultural activities" />
-		<string id="8PvPIban" text="Settlement loyalty is increased by 0.5 per day{newline}Settlement security is decreased by 0.2 per day{newline}Clans lose 1 influence per day" />
 		<string id="f1z5RbSI" text="granting villages increased autonomy" />
-		<string id="wrFX2Uc9" text="Daily militia production is increased by 1{newline}Recruits replenish 20% faster{newline}Tax income in settlements are reduced by 10%" />
 		<string id="PUIiY4xj" text="mobilizing the masses for war" />
 		<string id="cKeAwTgH" text="Settlement security is increased by 1 per day{newline}Settlement militia production is decreased by 1 per day" />
 		<string id="cZjWy4Gz" text="confiscating swords from commoners across the domain" />
@@ -5996,5 +5931,112 @@
 		<string id="WKTJ5B9w" text="importing foreign wares" />
 		<string id="xchx7qGu" text="Settlement prosperity decreases by 1 per day{newline}Tax income in settlements are decreased by 5%{newline}Allows access to Ammo Caches during offensive sieges" />
 		<string id="m62vfFP9" text="stockpiling for wartime" />
+		<string id="RZnGckTy" text="You do not have enough ships to transport all your units and prisoners." />
+		<string id="SqdpqFgu" text="Are you sure?" />
+		<string id="W9aYBhyT" text="Are you sure you would like to promote this unit?" />
+		<string id="Ui98BXUq" text="Rewarding a troop provides additional experience to all other troops in its formation." />
+		<string id="D5URAD0z" text="You cannot view kingdom details while enlisted." />
+		<string id="oMH9zxwf" text="Wakizashis. Good, sharp, light wakizashis that they can hide under their clothes, so the guards won't stop them. We want to order {REQUESTED_AMOUNT} wakizashis and I guarantee a minimum of {REWARD_PER_DAGGER} denars for each, more if they're of exceptional quality. Also I can arrange things with the smith of {QUEST_SETTLEMENT} for you to work in his workshop." />
+		<string id="OjmOVttG" text="Alright I will forge your wakizashis." />
+		<string id="grBbtkAN" text="{QUEST_GIVER.LINK} told you that {?QUEST_GIVER.GENDER}her{?}his{\\?} men need a special wakizashi that should be light and small enough to hide from the city guards. {?QUEST_GIVER.GENDER}She{?}He{\\?} asked you to forge {REQUESTED_AMOUNT} wakizashis at the smith of {QUEST_SETTLEMENT}. {?QUEST_GIVER.GENDER}She{?}He{\\?} guaranteed to pay at least {REWARD_PER_ITEM} denars for each wakizashi and he is ready to pay extra depending on the quality of the weapons." />
+		<string id="fWvxR6qu" text="You now have enough wakizashis to complete the quest. Return to {QUEST_GIVER.LINK} to hand them over." />
+		<string id="Tl06cyie" text="The wakizashis are almost ready. They just need a little more work..." />
+		<string id="BShw5zoY" text="There you go, that should be enough wakizashis for your men." />
+		<string id="TR6lh3QR" text="{QUEST_GIVER.NAME} won’t need anymore wakizashis. You can go back to {?QUEST_GIVER.GENDER}her{?}him{\\?} to get your reward." />
+		<string id="JhNOq2CJ" text="one-handed swords" />
+		<string id="C3cwPzsB" text="two-handed swords" />
+		<string id="sJ1xR4zT" text="Campaign Settings" />
+		<string id="Ua2CxEoB" text="Mission and Combat Settings" />
+		<string id="oXTvd5od" text="Opens a browser window to post a bug report for shokuho (thank you!)" />
+		<string id="VWn4YikW" text="Post Bug Report" />
+		<string id="qKrU4nRJ" text="Historic Events Enabled" />
+		<string id="7HhF6DhY" text="Enables historically based world events. Many of these events will not occur after a certain date, if enabled past those dates the events will not occur" />
+		<string id="q4RLZ9qp" text="Reduce Nearby Relations When Duel Is Lost" />
+		<string id="sY29YKrW" text="Enables or Disables losing relation with nearby notables after losing a duel" />
+		<string id="zNvVoX7w" text="Reading Speed Multiplier" />
+		<string id="2LC0ZuTq" text="Increases or decreases the speed at which you and companions read books (Default: 1.0)" />
+		<string id="RMWxF6Lf" text="Pause Game When Entering Towns While Enlisted" />
+		<string id="AmF8WwYx" text="If checked, pauses the game when enlisted party enters a town" />
+		<string id="2UsKvAqP" text="Disable Funny Music" />
+		<string id="79Bq2VVi" text="When checked, disables funny music you might find that could be copywritable" />
+		<string id="sMUG2nEm" text="Battle Sashimono Percentage" />
+		<string id="cK5pUQrB" text="Controls the percentage of player and AI troops that will spawn with sashimono (flags), set to 0 to disable" />
+		<string id="4ALcy1NP" text="Battle Size Threshold" />
+		<string id="p4Aiv6XG" text="Increases or decreases the number of combat casualties needed for a battle to leave behind remains" />
+		<string id="L8jA9CnR" text="Enable Duel Cinematic" />
+		<string id="dNzM5xNz" text="Enables the cinematic camera at the start of a duel" />
+		<string id="M8VmqKMJ" text="Troop Promotion Speed" />
+		<string id="uFV3PT2z" text="Increases or decreases the likelihood of troops becoming eligible for promotion" />
+		<string id="mEoHv3E8" text="Enable Retreating While Enlisted" />
+		<string id="bNCix8Yc" text="If checked, allows the player to retreat while enlisted, disabled by default" />
+		<string id="5LtYI0Nj" text="Enable crouch firing" />
+		<string id="dcXYrEZc" text="If checked, front row gun troops will crouch to allow rear ranks to fire over them" />
+		<string id="eC3o2YrE" text="Enable Debugging Tools" />
+		<string id="4GCZqAbv" text="Enables some debugging features for Shokuhō, does not affect gameplay" />
+		<!--Miyoshi village in Chūgoku-->
+		<string id="nVDIrAUN" text="Miyoshi" />
+		<string id="FlooLAMd" text="Monks" />
+		<string id="CKvsb2RB" text="Japanese" />
+		<string id="X73pTaoL" text="Guns" />
+		<string id="Glz6TpKU" text="Knowledge of operating and maintaining guns." />
+		<string id="uU8Ibi86" text="You are already encamped" />
+		<string id="WCO6rwqA" text="You cannot encamp while in an army" />
+		<string id="rsz7Ub0w" text="You cannot encamp now" />
+		<string id="3jP411a4" text="You cannot encamp here" />
+		<string id="ABC123xy" text="I’ve heard reports that {SETTLEMENT} is low on manpower and vulnerable to a siege. It might prove a good target for us." />
+		<string id="Q8pzYbKn" text="Your settlement of {SETTLEMENT} has a small garrison. It is vulnerable to an enemy siege. We should recruit more men to garrison its walls. They could also serve as reinforcements if needed." />
+		<string id="ZpT91jXt" text="How is your division doing?" />
+		<string id="mQ5e2DkA" text="We currently have {NUM_OF_UNIT_TYPE} {NAME_OF_UNIT_TYPE} which make up {PERCENT_OF_UNIT_TYPE}% of our army. {RATIO_OF_UNIT_TYPE_StATUS}. {EXPERIENCE_OF_UNIT_TYPE_STATUS}. {OVERALL_STATUS_OF_UNIT_TYPE}." />
+		<string id="gD4qNxXe" text="What are your current thoughts on our army?" />
+		<string id="WnL8sUoR" text="Is there anything you wish to convey to me?" />
+		<!--oda kanto village-->
+		<string id="Z31UOoXV" text="Oda" />
+		<string id="p8STbpcO" text="Tamahagane Steel{@Plural}loads of Tamagahane Steel{\@}" />
+		<string id="Qcs1hp25" text="{CLAN_NAME} Ryougoku" />
+		<string id="LGjLJV7J" text="a lord" />
+		<string id="eY1FJhML" text="The Ashina domain has emerged as a major regional power under the leadership of Ashina Moriuji and now commands the heart of Aizu, a strategic crossroads between the plains of Kantou and northern Japan. However, the Ashina’s position is increasingly tested by the ambitions of their neighbours, the rising Date to the north, the Uesugi to the west and the Satake to the south. Although the Ashina domain remains well-fortified thanks to Aizu's mountainous terrain, its defences might soon be tested on multiple fronts."/>
+		<string id="nYwPDoPH" text="The Soma domain, located at the crossroad between the Kantou and Ouu regions, has so far managed to maintain its independence amid the growing pressure of larger domains. Though the rugged and remote terrain have provided a natural defense against invasions, the Soma domain remains surrounded by stronger and more aggressive neighbors and renewed threats loom over its fate, as the Date in the west recover from internal conflicts while the Satake and Ashina in the south might take advantage of any weakness."/>
+		<string id="92JF2pqv" text="The Date domain, centered in the inland valleys of Northern Japan, has grown into a powerful regional player over generations, although its position has most recently been weakened by a bitter succession dispute. With the domain stablised under the rule of Date Tanemune and his son Harumune, the Date are not yet a dominant power, but their control over fertile plains, mountain fortresses, and key inland routes provides the groundwork for future expansion against neighbouring rivals like the Ashina and Mogami."/>
+		<string id="Nv7oBbND" text="The Mogami domain lies in the remote and mountainous of northern Japan, with its main center located in the namesake Yamagata Basin. Though once a minor power, the Mogami clan has been quietly consolidating its influence under the watchful eye of Mogami Yoshimori, but is still surrounded by by larger and powerful rivals like the Date."/>
+		<string id="VT26i5uM" text="The Andou domain, isolated in the remote northern Honshū, commands a unique and strategic position along the rugged coastlines of the Sea of Japan. Known as masters of the northern seas, the Andou domain has long maintained influence over the shipping routes and outposts stretching as far as Ezo, but now finds itself in a precarious situation due to the combined pressure of the rising Nanbu in the east and the Mogami from the south."/>
+		<string id="o457szOu" text="The Nanbu domain occupies the vast and rugged lands of northernmost reaches of Honshū. Isolated by distance and harsh climate, the Nanbu clan has ruled this territory for generations, maintaining a stable domain and trade with the Emishi and Ainu peoples of the frontier. While relatively untouched by the chaos engulfing the rest of Japan, the Nanbu domain cannot remain aloof forever and will soon have to more resolutely interact with neighboring domains."/>
+		<string id="xsyQs09g" text="The Houjou domain, based in the prosperous Kantou region and ruled from the imposing Odawara Castle, has expanded through diplomacy and relentless conquest under the leadership of Houjou Ujiyasu and stands now as one of the most formidable powers in eastern Japan. However, as Ujiyasu left the rule of the domain to his son Ujimasa, the rise of Oda Nobunaga in the west and the ambitions of the Takeda and Uesugi on their borders place the Houjou domain in an increasingly precarious position, with potential enemies an all fronts."/>
+		<string id="Pu1ruQ4o" text="The Satomi domain, based in the southern tip of the Bōsō Peninsula, from where it commands the eastern shores of Edo Bay and the maritime routes of southern Kantou, has long asserted its independence against both the Ashikaga Shogunate and the rising Houjou to the west. While smaller, the Satomi domain has managed to repel Houjou invasions for many years, but as more and more territories bow to Odawara it  might soon be left alone in preserving its independence."/>
+		<string id="3Qp3tQAp" text="The Utsunomiya domain, situated in the fertile plains of the Kantou region, lies along the vital routes that connect the northern regions with the political centers of the south, making it both a gateway and a bulwark for northern Kantou. Once powerful retainers of the Kamakura Shogunate, the Utsunomiya have seen their influence wane amid the conflicts of the region and under the leadership of Utsunomiya Hirotsuna the domain struggles to maintain a stable position in front of the threat of the expansionist Houjou advancing further into Kantou and the Uesugi from the north trying to restore their foothold in the region."/>
+		<string id="bNYeItS7" text="The Satake domain, based in the northeastern Kantou region, remains one of the most resilient and established powers of eastern Japan, as it weathered the fragmentation of the Ashikaga order and the violent rise and fall of neighboring clans. Though geographically distant from the central conflict unfolding around Kyoto, the Satake domain finds itself at the center of conflicts, as both the Houjou and Uesugi battle for dominance of the volatile Kantou region while new threats might rise from the mountains of the north."/>
+		<string id="CGhEAAEk" text="The Asakura domain has long been a powerhouse in the Hokuriku region, where the Asakura rose to prominence as stewards of Echizen ruling from their stronghold of Ichijoudani The Asakura domain has tried to maintain stability amid the chaos of the warring state period, but must now prepare for inevitable military confrontation as Oda Nobunaga’s forces press into the region, and now find itself caught between the ambitions of Nobunaga to the south and the powerful Azai clan to the west, with whom they maintain an uneasy alliance."/>
+		<string id="223fsYNu" text="The Anekouji domain, nestled in the mountainous province of Hida, has long stood apart from the fierce rivalries of the lowland daimyō, protected by the region’s formidable terrain and natural isolation. However, the Anekouji's position is now increasingly threatened by neighbours, like the powerful Takeda to the east and expanding Oda to the south, who seek control over the valuable mountain passes and timber resources of Hida."/>
+		<string id="jsfn2IAQ" text="The Tokugawa domain, based in the western edges of the strategic Toukai region, finds itself at an existential turning point under the rising leadership of Tokugawa Ieyasu. After the momentous Battle of Okehazama, the Tokugawa have broken the shackles of vassalage under the Imagawa and have seized the western territories of its former overlords, with the northern border secured by the newly formed alliance with the victor of Okehazama, Oda Nobunaga, who now prepares to march on Kyoto. Nevertheless, the position of the young Tokugawa domain remains vulnerable as the risk looms that a resurgent Imagawa or the ambitious Takeda of the north will take advantage of Nobunaga's absence to crush it under their own heel."/>
+		<string id="z7frdeaW" text="The Uesugi domain, centered in the mountainous province of Echigo, maintains a strong influence over eastern Japan as one of the main actors in shaping the political landscape, although years of war against the Houjou for control of the Kantou region have reduced its territorial expansion. Under the leadership of Uesugi Kenshin, called the Dragon of Echigo, the Uesugi domain is on the path to reestablish its dominance in the east, but it must first deal with the rebellious Honjou, before the combined threat of the Houjou and the new Takeda rivals threatens the Uesugi hold on Kantou and the very heart of the domain."/>
+		<string id="YSHijcWu" text="The Honjou domain, nestled in the contested province of Echigo, has long been bound to the fortunes of its powerful Uesugi overlords, has recently broken its vassal ties under the leadership of Honjouu Shigenaga, seeking to elevate his own position in a typical attempt of gekokujo, the underling usurping the superior. Though not vast in size and surrounded by powerful neighbours, the Honjou can count on the mountainous terrain of the region and the  rivalries among the larger domains in securing independence from the Uesugi."/>
+		<string id="wvnuJYRp" text="The Takeda domain, centered in Kai Province, stands as one of the most feared and accomplished powers in all of Japan under the formidable leadership of Takeda Shingen, called the Tiger of Kai, who has expanded the domain’s borders well beyond its mountainous homeland through years of relentless campaigning. While the Takeda’s main focus remains the long standing conflict with their Uesugi rivals, the death of Imagawa Yoshimoto at the Battle of Okehazama might soon cause the breakup of the triple alliance that secured the Takeda’s southern border, opening more opportunities for expansion but also new threats."/>
+		<string id="S2rrDM36" text="The Imagawa domain, once a dominant force in Toukai, has fallen into a deep decline following the death of its daimyo Imagawa Yoshimoto at the Battle of Okehazama, with former vassals like the Tokugawa breaking away to side with Oda Nobunaga. From his seat in Sunpu, the new daimyo Imagawa Ujizane struggles to maintain control over the domain and his vassals, while neighbours wait for the moment to strike to seize what remains of the once great Imagawa domain, and even the triple alliance with the Houjou and Takeda has started squeaking."/>
+		<string id="xDXDCM2N" text="The Akamatsu domain rose to power after supporting the nascent Ashikaga Shogunate, becoming one the most powerful in western Honshū, but has later seen its power and territory fade in the wake of shifting allegiances and internal decline. The Akamatsu now find themselves diminished, with their holdings reduced to few holdouts contested by the rising Uragami and the ever expanding Mori. Weakened and surrounded by ambitious warlords, the Akamatsu must rely on their remaining retainers to preserve what little remains of their influence and try to regain their former power in the region."/>
+		<string id="l1FNS1s2" text="Once the undisputed rulers of Japan, the Ashikaga Shogunate has seen its authority collapse into mere symbolism after the Onin War destroyed the capital Kyoto and what little actual power the Shogun still had. After more than a century of internal conflict, the Shoguns are now mere figureheads who struggle to maintain even a semblance of control on Kyoto. With yet another succession conflict dividing the Ashikaga clan, the very existence of the Shogunate is now at a crossroad: Ashikaga Yoshihide may still resist the tide and try to restore the Shogunate to its ancient power against all odds, while Ashikaga Yoshiaki marches at the side of Oda Nobunaga to retake Kyoto for himself, although his authority would be bound to Nobunaga’s ambition."/>
+		<string id="X4zkzPVE" text="The Hatakeyama domain, once a dominant power during the height of the Ashikaga shogunate, which the Hatakeyama controlled as Kanrei, has fractured into splintered territories across the Kinai region, home to ruling clan, and Hokuriku region, where the Noto branch of the Hatakeyama clan maintains a tenuous grasp over their coastal territories. Weakened and divided both geographically and politically, the Hatakeyama domain now faces the risk of disappearing entirely as their former vassals, the Myoshi, seek to expand their control over the capital region, while Uesugi Kenshin casts a long shadow over Noto."/>
+		<string id="LhZcrfqy" text="The Rokkaku domain, once one of the largest in the capital region and a powerhouse under the Ashikaga Shogunate, is now reduced to a portion of its past extension, its influence steadily eroded as it struggled to fend off neighboring rivals and rebellions of ambitious vassals such as the Azai. While the Rokkaku domain attempts to recover under the leadership Rokkaku Yoshikata, a new critical threat comes now from the east,  as Oda Nobunaga plans to march on Kyoto to install Ashikaga Yoshiaki as Shogun, vowing to crush any resistance on his path, including the Rokkaku."/>
+		<string id="lLqaLhzl" text="The Azai domain, based in the rugged hills of northern Kinai region, has risen swiftly under the leadership of Azai Nagamasa, who broke free from his Rokkaku overlords and secured his clan's position at Odani Castle. The Azai domain sits on key routes between Kyoto and the East of the country, ensuring control over vital trade arteries, but also making it a target for any warlord wishing to reach the capital. Thanks to the ancient alliance with the neighbouring Asakura and recent marriage ties to Oda, the Azai domain has so far managed to balance its position amidst the shifting tides, but with Oda Nobunaga marching towards Kyoto to install Ashikaga Yoshiaki as Shogun, the time might soon come to decide between old and new allies."/>
+		<string id="aHd21BNV" text="The Oda domain, centered in Owari Province, stands at the heart of a revolutionary change. Once a minor player embroiled in local petty feuds, the Oda have risen to national prominence under the leadership of the audacious and unrelenting Oda Nobunaga, who swiftly secured control of his home territory and conquered neighboring territories such as Gifu. With these conquests and the southern border secured by the alliance with the Tokugawa after defeating the Imagawa march on Kyoto, the Oda domain has turned into a staging ground for conquest, as Oda Nobunaga sets his eyes on the capital and plans his own path towards national rule."/>
+		<string id="EHEKPIRb" text="The Ikkou-shū, meaning Sect of Single-Minded Devotion, is not a feudal domain ruled by a daimyo, but a theocratic coalition of warrior-monks and peasant believers bound together by the teachings of Shin Buddhism, also known as Jodo Shinshu, under the leadership of Chief Abbot Ken’nyo. Over years of confrontation against samurai rule, the Ikkou-shū have established control over key parts of the Kinai and Hokuriku regions, with their main temple-fortress located in Ozaka. Virtually surrounded by hostile samurai warlords wishing to destroy them, the Ikkou-shū must rely on their warrior monks and devoted followers to survive and spread their interpretation of Shin Buddhism."/>
+		<string id="6yN2Mn1R" text="The Uragami domain, nestled in the mountainous areas of the San'you region, stands at a crossroads of strategic importance, ruling over the routes that connect western Japan with the Kinai region and the capital of Kyoto. Small in size compared to its neighbors, under the leadership of Uragami Munekage the Uragami domain has emerged  from the fall of the Akamatsu and established itself as a buffer between rising Mouri and the remnants of the old order, although its continued independence rests in the ability to pit its larger neighbors against each other."/>
+		<string id="VwQITTl2" text="The Amago domain rose to power under the leadership of Amago Haruhisa, whose aggressive campaigns challenged the ouchi and Mouri clans for supremacy over western Japan. Once a dominant force in the San'you region, however, the Amago domain almost completely collapsed after the death of Haruhisa, its lands carved up by their former enemies and vassals alike. Now scattered and weakened, the last hope of the Amago now lies with Amago Katsuhisa, a former monk who has turned into a claimant and has begun to rally remnants of the clan and loyal warriors, seeking to reclaim their lost honour and territory."/>
+		<string id="0KYD9IKs" text="The Mouri domain, eclipsing and defeating their former masters the Ōuchi, have become one of the most formidable powers in Japan. Five years following the mysterious death of the former daimyo Mouri Takamoto, his 15-year-old son Mouri Terumoto is set to rule. His grandfather, Mouri Motonari watches over the clan in regency, but his health is failing, and the kingdom is filled with uncertainty. The many mountains and coastal valleys of the San'you region create natural barriers for invading armies and led to a uniquely decentralized rule over numerous other smaller clans. Masters of the sea, the Mouri clan host the Murakami pirates of the Seto inland sea, who wreak havoc on unsuspecting ships. After gaining a foothold in Kyūshū, the Mouri clan now sets their eyes on the valuable trade city of Hakata, under control of the Ōtomo clan."/>
+		<string id="3EIYubRB" text="The Saionji domain lies in the southwestern reaches of Shikoku, where the Saionji clan relocated after the unrest around the imperial court in Kyoto. From their stronghold in Kurose the Saionji solidified control of the province while competing with the neighbouring Ichijou. Yet their authority is increasingly threatened by the expansionist ambitions of the Mouri to the north and the Chousokabe to the east. Isolated by the mountainous terrain, the Saionji domain must forge powerful alliances to preserve its independence, or the noble legacy of the Saionji may soon come to its end."/>
+		<string id="iAlki3Jx" text="The Ichijou domain was once one of the main powers on the island of Shikoku, where the courtly Ichijou clan fled during the Ōnin War. From their seat of Nakamura the Ichijou established firm control over most of Southern Shikoku and attempted to recreate the orderly and cultured rule they knew in Kyoto. Yet despite their efforts their power has waned amidst rising dissent and the ambitions of former retainers, chief among them the Chousokabe clan, who have broken their vassal bonds and taken over much of Tosa Province. Left vulnerable and surrounded on all sides by hostile daimyos, in order to survive the incoming onslaught the Ichijou domain must reassert its control over its former vassals and repel any further aggression from old rivals Saionji and the newly established Mouri."/>
+		<string id="hvkG6C1K" text="The Chousokabe domain, long confined to the Southern reaches of Shikoku, has just recently begun its dramatic rise under the leadership of Daimyo Chousokabe Motochika, challenging the weakened Ichijou clan, once the undisputed masters of the province. Though surrounded by powerful neighbors such as the Mouri and Saionji, the Chousokabe are in a solid position to conquer the entire island of Shikoku should they manage to finally oust their former masters."/>
+		<string id="PbLmdBP2" text="The Miyoshi domain has risen from relative obscurity to become a dominant force in the political heart of Japan under the leadership of their late Daimyo Miyoshi Nagayoshi. Once mere retainers to the Hosokawa, the Miyoshi overthrew their former masters and seized control of large swathes of Western Kinai and Eastern Shikoku, wresting control from the crumbling Ashikaga shogunate. While the Miyoshi have extended their influence over much of central Japan, after the passing of their charismatic leader they now stand on the brink of losing everything in the coming storm, as rumours spread of Oda Nobunaga planning to toward Kyoto with Ashikaga Yoshiaki in tow."/>
+		<string id="yPkAFvDs" text="The Shimazu domain has recently emerged from an extensive civil war that left the domain fractured and in decline. Taking charge of his father's desire to reunite their previous dominion, the newly succeeded Yoshihisa has succeeded in restoring vital regions back into the Shimazu fold. This string of recent victories for the Shimazu and its vassals has secured them a place of considerable power in the region. Possessing exceptional leadership, imported technology, and flourishing port cities has graced them advantages on and off the battlefield. With the fragmented domains returning under their combined might, Yoshihisa and his brothers’ eyes are turning towards the rest of Kyūshū, where a grand conquest is primed to begin."/>
+		<string id="ia1G8yFA" text="The Kimotsuki domain lies in the rugged reaches of southern Kyūshū, between volcanic highlands and the sea, whose natural defences allowed it to maintain a fiercely independent stance against their larger and more aggressive neighbors. With the powerful Shimazu emerging from an internal conflict and resuming their expansion, the Kimotsuki domain must make its final stand for survival."/>
+		<string id="vcfqZy3J" text="The Itou domain, claiming descent from a minor branch of the Fujiwara, are a powerful and ancient clan. They established their seat of power in the Hyūga province as vassals of the Shimazu Clan during the Kamakura period. The current Daimyo, Itou Yoshisuke, came to power after claiming victory against his uncle in a bloody struggle for the leadership of the Clan. Under the uncontested leadership of Yoshisuke, the Itou have expanded their control across the province and drove their former overlords and now bitter rivals from Southern Hyūga. For their independence to not be wasted, the Itou must reach out for allies across Japan, for the inevitable war against the Shimazu which will determine the future of the Itou."/>
+		<string id="EJu8DweB" text="The Aso domain, situated in the mountainous heart of central Kyūshū, is among the most ancient in Japan, as the Aso clan held both spiritual and temporal authority over their territory thanks to their unique connection to Aso Shrine. Despite their illustrious ancestry, however, the Aso domain has long fallen into decline, and now finds itself surrounded by larger domains battling for control over Kyūshū, facing mounting pressure from the aggressive expansion of the neighboring Ōtomo and Shimazu with limited military strength at its disposal."/>
+		<string id="q0eaFPt4" text="The Sagara domain retained their independence in the past by defeating the Shimazu. Despite their victory, the war has seen their position weakened to dangerous levels. Their manpower is depleted, and their enemies remain strong. The greatest strength of the Sagara is the naturally occurring mountains in their domain, which offer an excellent defensive position. They are a tenacious clan and will fight to the last man. Despite their perilous situation, perhaps destiny will favor the Sagara, and Japan will see a new age of domination in their name."/>
+		<string id="L8hNZI3y" text="The Ōtomo domain is one of the dominant clans in the Kyūshū region, laying claim to vast swathes of the hilly eastern side of the island. Flourishing port cities along the coast have introduced Christianity and trade to the Ōtomo lands. As a result of the cultural and technological exchange between the Ōtomo and the Europeans, they have gained an upper hand in Japan's technological arms race, bolstering their ranks with imported matchlock weapons. With land reaching all the way from Bungo in the south, to Hakata in the north, their lands stretch far and wide across Kyūshū. However, the Ōtomo are by no means without contention. The Mouri clan have invaded from San'yō, taking Moji castle, and threatening the Ōtomo's control of the vital port city of Hakata. With a Mouri foothold now digging its fangs into Kyūshū, and with the Ryūzouji's rise to power occurring in the west, the Ōtomo must rally under their daimyo, Ōtomo Sourin, or risk losing the very land and ports that their power rests on."/>
+		<string id="0yO00JvY" text="The Arima domain has become a beacon of prosperity where trade has flourished. Foreigners bring weapons of war and exotic goods from faraway lands, seeking to establish trade routes with Japan. This has made their domain rich, and their enemies jealous. They are situated on the western edge of the Hizen province, where they are surrounded by many islands. The Arima domain has the potential to dominate Japan using their strength of trade and foreign weapons, but they must be wary of the other clans seeing their land as an attractive target."/>
+		<string id="qJG8cyGT" text="The Ryūzouji domain is feared by its enemies. They are every-growing and rapidly expanding their lands. They have faced off against enemies many times stronger than themselves and come out on top. Their greatest strength is strategy, making use of ambush tactics to great effect. The Ryūzouji domain lies on the eastern part of the Hizen province, where they sit trapped between the Ōtomo, the Mouri, and the Arima. Despite their reputation, they will need to tread lightly and courteously, lest their ambitions be crushed prematurely."/>
+		<!--Muro village in southern Chubu (Tokai)-->
+		<string id="Z1I0sr9p" text="Muro" />
+		<string id="nYD2Zvp6" text="Hidden deep within the mountainous interior of the Tousan region, Sakurabora has long served as the fortified residence of the Anekouji, guarding key approaches into central Japan. Its elevated position offers commanding views of the rugged valleys below, making it a valuable asset in controlling travel and communication through the region." />
+		<string id="WtjHvAqv" text="Naval Cannon Ammunition" />
+		<string id="MfNoq6Ly" text="Overloaded Ship Capacity" />
 	</strings>
 </base>

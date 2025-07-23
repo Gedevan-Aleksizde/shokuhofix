@@ -10,7 +10,6 @@
     "bit of something, is possible to oversalt the soup
 
     -->
-	
 
 
 
@@ -37,7 +36,7 @@
 	<string id="prebackstory.spc_wanderer_saikai_2" text="{=LWjvkvyj}I am from one of the highland clans, in the far north. I do not know if you are familiar with their ways. I will try to explain." />
 	<string id="backstory_a.spc_wanderer_saikai_2" text="{=IUbGYeJV}A man of another clan slew my father. My father had slain his uncle many years before. It was my job to avenge my father, but the plague carried off his killer first. So I would be expected to kill his brother instead. This is how it is with us." />
 	<string id="backstory_b.spc_wanderer_saikai_2" text="{=qRwX7d5K}I wanted to go to the other clan and negotiate a settlement. I had always had a talent for setting conflicts, and in this case it seemed to me clearly that fate had ended the feud. But my mother begged me not to; my cousins begged me not to. They said I should spill blood, not words." />
-	<string id="backstory_c.spc_wanderer_saikai_2" text="{=lysNQWEE}MY family said others would mock my father's memory. They said no one would fear to steal our cow and horses, to molest my sisters. They told me I had a choice: do my duty, or I would no longer be of their blood. So be it. I chose exile. Why should more men die? " />
+	<string id="backstory_c.spc_wanderer_saikai_2" text="{=JAqysRea}MY family said others would mock my father's memory. They said no one would fear to steal our cow and horses, to molest my sisters. They told me I had a choice: do my duty, or I would no longer be of their blood. So be it. I chose exile. Why should more men die? " />
 	<string id="response_1.spc_wanderer_saikai_2" text="{=T07xEuQR}A noble decision!" />
 	<string id="response_2.spc_wanderer_saikai_2" text="{=atWYxZBh}What? Does no one respect their parents anymore?" />
 	<string id="backstory_d.spc_wanderer_saikai_2" text="{=B7iZITxb}If an enemy chooses to stand in a battle-line and face my arrows, I would not hesitate to kill him. But our feuds - I cannot accept that I have no choice but to kill a man who had no choice but to be my enemy. I left my people. Here I can choose what I do." />
@@ -54,7 +53,7 @@
 	<!-- the boar -->
 	<string
 		id="prebackstory.spc_wanderer_saikai_4"
-		text="{=B4UQTCRE}Refill my glass and I'll tell you." />
+		text="{=B3UQTCRE}Refill my glass and I'll tell you." />
 	<string
 		id="backstory_a.spc_wanderer_saikai_4"
 		text="{=fKuxXywF}I'm a soldier by trade. I've served in the Amago's army for 20 years. Once upon a time they were worthy of respect. I served them for years, but war was not kind to them." />
@@ -260,7 +259,7 @@
 	<string id="backstory_b.spc_wanderer_nankai_2"
 			text="{=qRwX7d5K}I wanted to go to the other clan and negotiate a settlement. I had always had a talent for setting conflicts, and in this case it seemed to me clearly that fate had ended the feud. But my mother begged me not to; my cousins begged me not to. They said I should spill blood, not words." />
 	<string id="backstory_c.spc_wanderer_nankai_2"
-			text="{=lysNQWEE}MY family said others would mock my father's memory. They said no one would fear to steal our cow and horses, to molest my sisters. They told me I had a choice: do my duty, or I would no longer be of their blood. So be it. I chose exile. Why should more men die? " />
+			text="{=JAqysRea}MY family said others would mock my father's memory. They said no one would fear to steal our cow and horses, to molest my sisters. They told me I had a choice: do my duty, or I would no longer be of their blood. So be it. I chose exile. Why should more men die? " />
 	<string id="response_1.spc_wanderer_nankai_2"
 			text="{=T07xEuQR}A noble decision!" />
 	<string id="response_2.spc_wanderer_nankai_2"
@@ -289,7 +288,7 @@
 	<!-- the boar -->
 	<string
 		id="prebackstory.spc_wanderer_nankai_4"
-		text="{=B4UQTCRE}Refill my glass and I'll tell you." />
+		text="{=B3UQTCRE}Refill my glass and I'll tell you." />
 	<string
 		id="backstory_a.spc_wanderer_nankai_4"
 		text="{=fKuxXywF}I'm a soldier by trade. I've served in the Amago's army for 20 years. Once upon a time they were worthy of respect. I served them for years, but war was not kind to them." />
@@ -527,7 +526,7 @@
 	<string id="backstory_b.spc_wanderer_sanyo_2"
 			text="{=qRwX7d5K}I wanted to go to the other clan and negotiate a settlement. I had always had a talent for setting conflicts, and in this case it seemed to me clearly that fate had ended the feud. But my mother begged me not to; my cousins begged me not to. They said I should spill blood, not words." />
 	<string id="backstory_c.spc_wanderer_sanyo_2"
-			text="{=lysNQWEE}MY family said others would mock my father's memory. They said no one would fear to steal our cow and horses, to molest my sisters. They told me I had a choice: do my duty, or I would no longer be of their blood. So be it. I chose exile. Why should more men die? " />
+			text="{=JAqysRea}MY family said others would mock my father's memory. They said no one would fear to steal our cow and horses, to molest my sisters. They told me I had a choice: do my duty, or I would no longer be of their blood. So be it. I chose exile. Why should more men die? " />
 	<string id="response_1.spc_wanderer_sanyo_2"
 			text="{=T07xEuQR}A noble decision!" />
 	<string id="response_2.spc_wanderer_sanyo_2"
@@ -556,7 +555,7 @@
 	<!-- the boar -->
 	<string
 		id="prebackstory.spc_wanderer_sanyo_4"
-		text="{=B4UQTCRE}Refill my glass and I'll tell you." />
+		text="{=B3UQTCRE}Refill my glass and I'll tell you." />
 	<string
 		id="backstory_a.spc_wanderer_sanyo_4"
 		text="{=fKuxXywF}I'm a soldier by trade. I've served in the Amago's army for 20 years. Once upon a time they were worthy of respect. I served them for years, but war was not kind to them." />
@@ -795,7 +794,7 @@
 	<string id="backstory_b.spc_wanderer_kinai_2"
 			text="{=qRwX7d5K}I wanted to go to the other clan and negotiate a settlement. I had always had a talent for setting conflicts, and in this case it seemed to me clearly that fate had ended the feud. But my mother begged me not to; my cousins begged me not to. They said I should spill blood, not words." />
 	<string id="backstory_c.spc_wanderer_kinai_2"
-			text="{=lysNQWEE}MY family said others would mock my father's memory. They said no one would fear to steal our cow and horses, to molest my sisters. They told me I had a choice: do my duty, or I would no longer be of their blood. So be it. I chose exile. Why should more men die? " />
+			text="{=JAqysRea}MY family said others would mock my father's memory. They said no one would fear to steal our cow and horses, to molest my sisters. They told me I had a choice: do my duty, or I would no longer be of their blood. So be it. I chose exile. Why should more men die? " />
 	<string id="response_1.spc_wanderer_kinai_2"
 			text="{=T07xEuQR}A noble decision!" />
 	<string id="response_2.spc_wanderer_kinai_2"
@@ -824,7 +823,7 @@
 	<!-- the boar -->
 	<string
 		id="prebackstory.spc_wanderer_kinai_4"
-		text="{=B4UQTCRE}Refill my glass and I'll tell you." />
+		text="{=B3UQTCRE}Refill my glass and I'll tell you." />
 	<string
 		id="backstory_a.spc_wanderer_kinai_4"
 		text="{=fKuxXywF}I'm a soldier by trade. I've served in the Amago's army for 20 years. Once upon a time they were worthy of respect. I served them for years, but war was not kind to them." />
@@ -1063,7 +1062,7 @@
 	<string id="backstory_b.spc_wanderer_hokuriku_2"
 			text="{=qRwX7d5K}I wanted to go to the other clan and negotiate a settlement. I had always had a talent for setting conflicts, and in this case it seemed to me clearly that fate had ended the feud. But my mother begged me not to; my cousins begged me not to. They said I should spill blood, not words." />
 	<string id="backstory_c.spc_wanderer_hokuriku_2"
-			text="{=lysNQWEE}MY family said others would mock my father's memory. They said no one would fear to steal our cow and horses, to molest my sisters. They told me I had a choice: do my duty, or I would no longer be of their blood. So be it. I chose exile. Why should more men die? " />
+			text="{=JAqysRea}MY family said others would mock my father's memory. They said no one would fear to steal our cow and horses, to molest my sisters. They told me I had a choice: do my duty, or I would no longer be of their blood. So be it. I chose exile. Why should more men die? " />
 	<string id="response_1.spc_wanderer_hokuriku_2"
 			text="{=T07xEuQR}A noble decision!" />
 	<string id="response_2.spc_wanderer_hokuriku_2"
@@ -1092,7 +1091,7 @@
 	<!-- the boar -->
 	<string
 		id="prebackstory.spc_wanderer_hokuriku_4"
-		text="{=B4UQTCRE}Refill my glass and I'll tell you." />
+		text="{=B3UQTCRE}Refill my glass and I'll tell you." />
 	<string
 		id="backstory_a.spc_wanderer_hokuriku_4"
 		text="{=fKuxXywF}I'm a soldier by trade. I've served in the Amago's army for 20 years. Once upon a time they were worthy of respect. I served them for years, but war was not kind to them." />
@@ -1330,7 +1329,7 @@
 	<string id="backstory_b.spc_wanderer_tosan_2"
 			text="{=qRwX7d5K}I wanted to go to the other clan and negotiate a settlement. I had always had a talent for setting conflicts, and in this case it seemed to me clearly that fate had ended the feud. But my mother begged me not to; my cousins begged me not to. They said I should spill blood, not words." />
 	<string id="backstory_c.spc_wanderer_tosan_2"
-			text="{=lysNQWEE}MY family said others would mock my father's memory. They said no one would fear to steal our cow and horses, to molest my sisters. They told me I had a choice: do my duty, or I would no longer be of their blood. So be it. I chose exile. Why should more men die? " />
+			text="{=JAqysRea}MY family said others would mock my father's memory. They said no one would fear to steal our cow and horses, to molest my sisters. They told me I had a choice: do my duty, or I would no longer be of their blood. So be it. I chose exile. Why should more men die? " />
 	<string id="response_1.spc_wanderer_tosan_2"
 			text="{=T07xEuQR}A noble decision!" />
 	<string id="response_2.spc_wanderer_tosan_2"
@@ -1359,7 +1358,7 @@
 	<!-- the boar -->
 	<string
 		id="prebackstory.spc_wanderer_tosan_4"
-		text="{=B4UQTCRE}Refill my glass and I'll tell you." />
+		text="{=B3UQTCRE}Refill my glass and I'll tell you." />
 	<string
 		id="backstory_a.spc_wanderer_tosan_4"
 		text="{=fKuxXywF}I'm a soldier by trade. I've served in the Amago's army for 20 years. Once upon a time they were worthy of respect. I served them for years, but war was not kind to them." />
@@ -1597,7 +1596,7 @@
 	<string id="backstory_b.spc_wanderer_tokai_2"
 			text="{=qRwX7d5K}I wanted to go to the other clan and negotiate a settlement. I had always had a talent for setting conflicts, and in this case it seemed to me clearly that fate had ended the feud. But my mother begged me not to; my cousins begged me not to. They said I should spill blood, not words." />
 	<string id="backstory_c.spc_wanderer_tokai_2"
-			text="{=lysNQWEE}MY family said others would mock my father's memory. They said no one would fear to steal our cow and horses, to molest my sisters. They told me I had a choice: do my duty, or I would no longer be of their blood. So be it. I chose exile. Why should more men die? " />
+			text="{=JAqysRea}MY family said others would mock my father's memory. They said no one would fear to steal our cow and horses, to molest my sisters. They told me I had a choice: do my duty, or I would no longer be of their blood. So be it. I chose exile. Why should more men die? " />
 	<string id="response_1.spc_wanderer_tokai_2"
 			text="{=T07xEuQR}A noble decision!" />
 	<string id="response_2.spc_wanderer_tokai_2"
@@ -1626,7 +1625,7 @@
 	<!-- the boar -->
 	<string
 		id="prebackstory.spc_wanderer_tokai_4"
-		text="{=B4UQTCRE}Refill my glass and I'll tell you." />
+		text="{=B3UQTCRE}Refill my glass and I'll tell you." />
 	<string
 		id="backstory_a.spc_wanderer_tokai_4"
 		text="{=fKuxXywF}I'm a soldier by trade. I've served in the Amago's army for 20 years. Once upon a time they were worthy of respect. I served them for years, but war was not kind to them." />
@@ -1844,7 +1843,7 @@
 	<string id="prebackstory.spc_wanderer_kanto_2" text="{=LWjvkvyj}I am from one of the highland clans, in the far north. I do not know if you are familiar with their ways. I will try to explain." />
 	<string id="backstory_a.spc_wanderer_kanto_2" text="{=IUbGYeJV}A man of another clan slew my father. My father had slain his uncle many years before. It was my job to avenge my father, but the plague carried off his killer first. So I would be expected to kill his brother instead. This is how it is with us." />
 	<string id="backstory_b.spc_wanderer_kanto_2" text="{=qRwX7d5K}I wanted to go to the other clan and negotiate a settlement. I had always had a talent for setting conflicts, and in this case it seemed to me clearly that fate had ended the feud. But my mother begged me not to; my cousins begged me not to. They said I should spill blood, not words." />
-	<string id="backstory_c.spc_wanderer_kanto_2" text="{=lysNQWEE}MY family said others would mock my father's memory. They said no one would fear to steal our cow and horses, to molest my sisters. They told me I had a choice: do my duty, or I would no longer be of their blood. So be it. I chose exile. Why should more men die? " />
+	<string id="backstory_c.spc_wanderer_kanto_2" text="{=JAqysRea}MY family said others would mock my father's memory. They said no one would fear to steal our cow and horses, to molest my sisters. They told me I had a choice: do my duty, or I would no longer be of their blood. So be it. I chose exile. Why should more men die? " />
 	<string id="response_1.spc_wanderer_kanto_2" text="{=T07xEuQR}A noble decision!" />
 	<string id="response_2.spc_wanderer_kanto_2" text="{=atWYxZBh}What? Does no one respect their parents anymore?" />
 	<string id="backstory_d.spc_wanderer_kanto_2" text="{=B7iZITxb}If an enemy chooses to stand in a battle-line and face my arrows, I would not hesitate to kill him. But our feuds - I cannot accept that I have no choice but to kill a man who had no choice but to be my enemy. I left my people. Here I can choose what I do." />
@@ -1861,7 +1860,7 @@
 	<!-- the boar -->
 	<string
 		id="prebackstory.spc_wanderer_kanto_4"
-		text="{=B4UQTCRE}Refill my glass and I'll tell you." />
+		text="{=B3UQTCRE}Refill my glass and I'll tell you." />
 	<string
 		id="backstory_a.spc_wanderer_kanto_4"
 		text="{=fKuxXywF}I'm a soldier by trade. I've served in the Amago's army for 20 years. Once upon a time they were worthy of respect. I served them for years, but war was not kind to them." />
@@ -2065,7 +2064,7 @@
 	<string id="backstory_b.spc_wanderer_ou_2"
 			text="{=qRwX7d5K}I wanted to go to the other clan and negotiate a settlement. I had always had a talent for setting conflicts, and in this case it seemed to me clearly that fate had ended the feud. But my mother begged me not to; my cousins begged me not to. They said I should spill blood, not words." />
 	<string id="backstory_c.spc_wanderer_ou_2"
-			text="{=lysNQWEE}MY family said others would mock my father's memory. They said no one would fear to steal our cow and horses, to molest my sisters. They told me I had a choice: do my duty, or I would no longer be of their blood. So be it. I chose exile. Why should more men die? " />
+			text="{=JAqysRea}MY family said others would mock my father's memory. They said no one would fear to steal our cow and horses, to molest my sisters. They told me I had a choice: do my duty, or I would no longer be of their blood. So be it. I chose exile. Why should more men die? " />
 	<string id="response_1.spc_wanderer_ou_2"
 			text="{=T07xEuQR}A noble decision!" />
 	<string id="response_2.spc_wanderer_ou_2"
@@ -2094,7 +2093,7 @@
 	<!-- the boar -->
 	<string
 		id="prebackstory.spc_wanderer_ou_4"
-		text="{=B4UQTCRE}Refill my glass and I'll tell you." />
+		text="{=B3UQTCRE}Refill my glass and I'll tell you." />
 	<string
 		id="backstory_a.spc_wanderer_ou_4"
 		text="{=fKuxXywF}I'm a soldier by trade. I've served in the Amago's army for 20 years. Once upon a time they were worthy of respect. I served them for years, but war was not kind to them." />

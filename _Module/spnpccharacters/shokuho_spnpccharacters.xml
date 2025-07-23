@@ -454,7 +454,7 @@
             <EquipmentSet id="nankai_civ_template_default_male" civilian="true"/>
         </Equipments>
     </NPCCharacter>
-    <!--Shokuho NPC Templates-->
+    <!--Shokuhō NPC Templates-->
     <NPCCharacter id="townswoman_saikai" default_group="Infantry" level="1" name="{=17a84f40}Townswoman" occupation="Townsfolk" culture="Culture.saikai" is_female="true" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
 		<face>
 			<face_key_template value="BodyProperty.townswoman_saikai"/>

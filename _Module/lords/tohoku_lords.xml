@@ -1865,9 +1865,9 @@
       <EquipmentSet id="ou_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <!-- Tendo Clan -->
+  <!-- Tendou Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_tendo" name="{=PHvwg0Xu}Tendo Yorisada" age="36" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_tendo" name="{=PHvwg0Xu}Tendou Yorisada" age="36" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="36.00" weight="0.8148" build="0.6176" key="003AF40EC00005C386686589B9A55A5961684A454DA949B9C347653548A9DD780879C68907A7C25900000000000000000000000000000000000000001AE40043"/>
     </face>
@@ -1886,7 +1886,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_tendo_1" name="{=PF8gDLpE}Tendo Kikyo" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_tendo_1" name="{=PF8gDLpE}Tendou Kikyou" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="38.00" weight="0.4784" build="0.3416" key="000FE00D00000002AD828272A2836EDAC496860D1120C4B327DF33678B3A478F03457635046666750000000000000000000000000000000000000000087C3081"/>
     </face>
@@ -1904,7 +1904,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Daughter -->
-  <NPCCharacter id="lord_1_tendo_2" name="{=JjgMoz43}Tendo Kaede" age="4" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_tendo_2" name="{=JjgMoz43}Tendou Kaede" age="4" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="4.00" weight="0.5287" build="0.2507" key="0034F00DC0000001148A14B84468B9B1C395823FEA685A2791B768B582444A4D042486460241804F0000000000000000000000000000000000000000304C1001"/>
     </face>
@@ -1922,7 +1922,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son -->
-  <NPCCharacter id="lord_1_tendo_3" name="{=9ipPC2rK}Tendo Yorizumi" age="1" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_tendo_3" name="{=9ipPC2rK}Tendou Yorizumi" age="1" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="1.00" weight="0.6983" build="0.4693" key="003DC80EC0000044877569688CC5655AB2758A4667BE34ABD22BBB755899CD980367A63506A7D23A00000000000000000000000000000000000000001CCC0102"/>
     </face>
@@ -1941,7 +1941,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son 2 -->
-  <NPCCharacter id="lord_1_tendo_4" name="{=dUHmrYee}Tendo Yorikage" age="0" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_tendo_4" name="{=dUHmrYee}Tendou Yorikage" age="0" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="0.00" weight="0.8357" build="0.2873" key="0025D00E80000682A76275D969C8594C71793A875CDD478BD3377DA558998CA80774D67807A6D33900000000000000000000000000000000000000001CDC0102"/>
     </face>
@@ -3733,7 +3733,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Mother -->
-  <NPCCharacter id="lord_1_namioka_3" name="{=aCGR0aAJ}Namioka Joko-in" age="56" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_namioka_3" name="{=aCGR0aAJ}Namioka Joukou-in" age="56" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="56.00" weight="0.3445" build="0.3903" key="002CE80CC00000022B8CA478D77F3828CEB28146CDA76C46D955CE6F8B9239AD032656350262375500000000000000000000000000000000000000002E4C2001"/>
     </face>
