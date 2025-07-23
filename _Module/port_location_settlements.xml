@@ -1,5 +1,5 @@
 <Settlements>
-  <Settlement id="sho_port_KY5_2" name="{=dmNn1iRw}Port Nyushima" posX="453.95" posY="376.98" gate_posX="453.95" gate_posY="376.98" culture="Culture.neutral_culture" text="{=zEXjYqDm}This is the port.">
+  <Settlement id="sho_port_KY5_2" name="{=dmNn1iRw}Port Niujima" posX="453.95" posY="376.98" gate_posX="453.95" gate_posY="376.98" culture="Culture.neutral_culture" text="{=zEXjYqDm}This is the port.">
     <Components>
       <PortLocation id="port_location_id_KY5_2" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="empire_twn_scene_bg" wait_mesh="wait_hideout_forest" gate_rotation="0.0" bound="Settlement.town_KY5" />
     </Components>
