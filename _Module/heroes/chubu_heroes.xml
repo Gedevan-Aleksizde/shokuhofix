@@ -81,9 +81,9 @@
 	
 	<!--Hatakeyama Faction
 	Noto-Hatakeyama Clan-->
-	<Hero id="lord_1_notohatakeyama" faction="Faction.clan_notohatakeyama_1" spouse="Hero.lord_1_notohatakeyama_1" father="Hero.dead_lord_1_notohatakeyama_2" mother="Hero.dead_lord_1_notohatakeyama_3" text="{=zzPufQWW}Noto-Hatakeyama Yoshikage"/>
+	<Hero id="lord_1_notohatakeyama" faction="Faction.clan_notohatakeyama_1" spouse="Hero.lord_1_notohatakeyama_1" father="Hero.dead_lord_1_notohatakeyama_2" mother="Hero.dead_lord_1_notohatakeyama_3" text="{=zzPufQWW}Noto-Hatakeyama Yoshitsuna"/>
 	<Hero id="lord_1_notohatakeyama_1" faction="Faction.clan_notohatakeyama_1" spouse="Hero.lord_1_notohatakeyama" text="{=Uq5GEfN0}Noto-Hatakeyama Keiko"/>
-	<Hero id="dead_lord_1_notohatakeyama_2" alive="false" faction="Faction.clan_notohatakeyama_1" spouse="Hero.dead_lord_1_notohatakeyama_3" text="{=uWclrYkK}Noto-Hatakeyama Yoshitsuna"/>
+	<Hero id="dead_lord_1_notohatakeyama_2" alive="false" faction="Faction.clan_notohatakeyama_1" spouse="Hero.dead_lord_1_notohatakeyama_3" text="{=uWclrYkK}Noto-Hatakeyama Yoshitsugu"/>
 	<Hero id="dead_lord_1_notohatakeyama_3" alive="false" faction="Faction.clan_notohatakeyama_1" spouse="Hero.dead_lord_1_notohatakeyama_2" text="{=L7cUrjNA}Noto-Hatakeyama Keisei-in"/>
 	<Hero id="lord_1_notohatakeyama_4" faction="Faction.clan_notohatakeyama_1" father="Hero.dead_lord_1_notohatakeyama_2" mother="Hero.dead_lord_1_notohatakeyama_3" text="{=MzeRfL4G}Noto-Hatakeyama Yoshitaka"/>
 	<!--Cho Clan-->
