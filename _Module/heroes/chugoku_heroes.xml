@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <Heroes>
 	<!--mori kingdom-->
 	<!--Mori clan-->
@@ -7,7 +7,7 @@
 		  father="Hero.lord_1_mori_3"
 		  mother="Hero.lord_1_mori_4"
 		  text="{=6Da818C5}Mouri Terumoto (毛利輝元) was born as Koutsurumaru (幸鶴丸). He identifies himself as Mouri Shoutarou (毛利少輔太郎). He had no choice but to initiate the genpuku, the coming-of-age ceremony at age 11, and inherited the head of the Mouri clan after his father passed away suddenly. His name, Terumoto, derives from the ex-shogun Yoshiteru. However, Shogun Yoshiteru was killed right after that. Terumonoto needs to confront several problems, but is supported by Motonari, his great grandfather, and his uncles." />
-	<Hero id="lordu_1_mori_1"
+	<Hero id="lord_1_mori_1"
 		  faction="Faction.clan_mori_1"
 		  spouse="Hero.lord_1_mori_2"
 		  text="{=F3032095}Mouri Motonari (毛利元就), born as Shoujumaru (松壽丸), identified himself as Ōe Jibunoshou (大江治部少輔), the root clan of Mouri. He was born in a family of a minor local lord, and his parents died in his young. In this era, such local minor lords are forced to be involved in power and succession struggles with relatives, and also in diplomacy with neighboring major daimyos appointed by Imperial Court in Kyōto. Starting his career to get back his land and castle, which was taken by his uncle, Motonari is finally took almost the whole of the San'you and San'in regions, which were dominated by daimyos that he once flattered,  by merging many minor and larger clans. Definitely, he is one of the greatest strategists and diplomats during this period." />
@@ -15,33 +15,33 @@
 		  alive="false"
 		  faction="Faction.clan_mori_1"
 		  spouse="Hero.lord_1_mori_1"
-		  text="Mouri Myokyu." />
+		  text="Mori Myokyu." />
 	<Hero id="lord_1_mori_3"
 		  alive="false"
 		  faction="Faction.clan_mori_1"
 		  spouse="Hero.lord_1_mori_4"
 		  father="Hero.lord_1_mori_1"
 		  mother="Hero.lord_1_mori_2"
-		  text="Mouri Takamoto." />
+		  text="Mori Takamoto." />
 	<Hero id="lord_1_mori_4"
 		  faction="Faction.clan_mori_1"
 		  spouse="Hero.lord_1_mori_3"
-		  text="Mouri Ayaya." />
+		  text="Mori Ayaya." />
 	<Hero id="lord_1_mori_5"
 		  faction="Faction.clan_mori_1"
 		  father="Hero.lord_1_mori_1"
 		  mother="Hero.lord_1_mori_2"
-		  text="Mouri Motoaki." />
+		  text="Mori Motoaki." />
 	<Hero id="lord_1_mori_6"
 		  faction="Faction.clan_mori_1"
 		  father="Hero.lord_1_mori_1"
 		  mother="Hero.lord_1_mori_2"
-		  text="Mouri Hidekane." />
+		  text="Mori Hidekane." />
 	<!--kobayakawa clan-->
 	<Hero id="lord_1_kobayakawa"
 		  faction="Faction.clan_kobayakawa_1"
 		  spouse="Hero.lord_1_kobayakawa_1"
-		  text="K{=8294a96e}Mouri Takakage (毛利隆景), born as Tokujumaru (徳寿丸), identified himself as Kobayakawa Matashirou (小早川又四郎), is the third son of Mouri Motonari. Like his brother, He was adopted into the Kobayakawa family, a local notable family in the Aki province, and inherited the family. These adoptions are Motonari's plot to expand his domain. After the death of his oldest brother, he assists Terumoto, his nephew, with his brother and father." />
+		  text="{=8294a96e}Mouri Takakage (毛利隆景), born as Tokujumaru (徳寿丸), identified himself as Kobayakawa Matashirou (小早川又四郎), is the third son of Mouri Motonari. Like his brother, He was adopted into the Kobayakawa family, a local notable family in the Aki province, and inherited the family. These adoptions are Motonari's plot to expand his domain. After the death of his oldest brother, he assists Terumoto, his nephew, with his brother and father." />
 	<Hero id="lord_1_kobayakawa_1"
 		  faction="Faction.clan_kobayakawa_1"
 		  spouse="Hero.lord_1_kobayakawa"
@@ -149,7 +149,7 @@
 	<Hero id="lord_1_naito_2"
 		  faction="Faction.clan_naito_1"
 		  text="Naitou Motoyasu." />
-	<!--Nanjou clan-->
+	<!--Nanjo clan-->
 	<Hero id="lord_1_nanjo"
 		  faction="Faction.clan_nanjo_1"
 		  spouse="Hero.lord_1_nanjo_1"
