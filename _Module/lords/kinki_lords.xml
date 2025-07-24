@@ -1781,7 +1781,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother 2 -->
-  <NPCCharacter id="lord_1_yukawa_5" name="{=Bqky19ae}Yukawa Kageharu" age="16" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_yukawa_5" name="{=Bqky19ae}Yukawa Hiroharu" age="16" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="16.00" weight="0.6088" build="0.5398" key="0019E40EC0000301A5637A876CB4672CD2784A669BDC37AAD43A57555899DA980078960307C8835A000000000000000000000000000000000000000030EC0002"/>
     </face>
@@ -1800,7 +1800,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother 3 -->
-  <NPCCharacter id="lord_1_yukawa_6" name="{=NbKeRcPM}Yukawa Harunobu" age="13" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_yukawa_6" name="{=NbKeRcPM}Yukawa Kageharu" age="13" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="13.00" weight="0.7022" build="0.7222" key="001CE40EC0000202B47777367AB6686BC2764A7977AE357BC339587548A9BB78077BB67807B7D23A000000000000000000000000000000000000000062EC0040"/>
     </face>

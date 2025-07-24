@@ -690,7 +690,7 @@
 		<string id="6yl5DIfX" text="Heisenji"/>
 		<string id="6PgvlbUT" text="Oyama Gobou"/>
 		<string id="lVVZzX8n" text="Originally a fortified temple complex of the Kaga Ikkou movement, Oyama has evolved into a significant stronghold in the Hokuriku region and its strategic and religious value has drawn the attention of powerful neighbors."/>
-		<string id="JyG9eqDR" text="Hakusan"/>
+		<string id="JyG9eqDR" text="Shirayama"/>
 		<string id="6HTGkGwu" text="Ataka"/>
 		<string id="VPbrsyV3" text="Miyanokoshi"/>
 		<string id="WYXGfvnF" text="Nanao"/>
@@ -2552,7 +2552,7 @@
 		<string id="YMsdSa5O" text="Utsunomiya Kunitsuna"/>
 		<string id="gwB9W7mm" text="Haga Takasada"/>
 		<string id="J0VnbU4a" text="Haga Tama"/>
-		<string id="0xmB7XJS" text="Haga Takatake"/>
+		<string id="0xmB7XJS" text="Haga Takakage"/>
 		<string id="l2brrFCq" text="Haga Chiyo"/>
 		<string id="WO5zvxR8" text="Haga Takatsugu"/>
 		<string id="tGEgf2XE" text="Haga Miki"/>
@@ -2684,8 +2684,8 @@
 		<string id="WCJsiBsB" text="Yukawa Naomitsu"/>
 		<string id="xG7Mnax1" text="Yukawa Komyo-in"/>
 		<string id="QQ62CWn2" text="Yukawa Nobuharu"/>
-		<string id="Bqky19ae" text="Yukawa Kageharu"/>
-		<string id="NbKeRcPM" text="Yukawa Harunobu"/>
+		<string id="Bqky19ae" text="Yukawa Hiroharu"/>
+		<string id="NbKeRcPM" text="Yukawa Kageharu"/>
 		<string id="vVdUl9kZ" text="Honganji Ken'nyo"/>
 		<string id="uhGVlVcb" text="Honganji Nyosyun-ni"/>
 		<string id="ZHgHiq5g" text="Honganji Kyounyo"/>
@@ -3480,7 +3480,7 @@
 		<string id="dfzeWUCf" text="Ōzutsu Ammunition"/>
 		<string id="jASYDOcA" text="Teppou Ammunition"/>
 		<string id="q1KgboXi" text="Ō-yoroi Kote"/>
-		<string id="v60sSwHB" text="Unarmored Kote"/>
+		<string id="v60sSwHB" text="Ubu-gote"/>
 		<string id="nfrAzQOE" text="Kusari-gote"/>
 		<string id="CoaDkHgm" text="Ornate Kusari-gote"/>
 		<string id="XSdMBA4v" text="Reinforced Kusari-gote"/>
