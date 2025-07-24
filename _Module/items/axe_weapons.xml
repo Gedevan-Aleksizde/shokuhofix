@@ -38,26 +38,26 @@
         </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="sho_samurai_axe_1" name="{=Bcg6BahH}Samurai Axe" crafting_template="SHO_TwoHandedAxe" modifier_group="axe">
+    <CraftedItem id="sho_samurai_axe_1" name="{=Bcg6BahH}Yamabushi's Axe" crafting_template="SHO_TwoHandedAxe" modifier_group="axe">
         <Pieces>
             <Piece id="sho_axe_head_7" Type="Blade" scale_factor="100"/>
             <Piece id="sho_axe_handle_2" Type="Handle" scale_factor="100"/>
         </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="sho_samurai_axe_2" name="{=Bcg6BahH}Samurai Axe" crafting_template="SHO_TwoHandedAxe" modifier_group="axe">
+    <CraftedItem id="sho_samurai_axe_2" name="{=Bcg6BahH}Yamabushi's Axe" crafting_template="SHO_TwoHandedAxe" modifier_group="axe">
         <Pieces>
             <Piece id="sho_axe_head_8" Type="Blade" scale_factor="100"/>
             <Piece id="sho_axe_handle_3" Type="Handle" scale_factor="100"/>
         </Pieces>
     </CraftedItem>
-    <CraftedItem id="sho_samurai_axe_3" name="{=Bcg6BahH}Samurai Axe" crafting_template="SHO_TwoHandedAxe" modifier_group="axe">
+    <CraftedItem id="sho_samurai_axe_3" name="{=Bcg6BahH}Yamabushi's Axe" crafting_template="SHO_TwoHandedAxe" modifier_group="axe">
         <Pieces>
             <Piece id="sho_axe_head_8" Type="Blade" scale_factor="100"/>
             <Piece id="sho_axe_handle_4" Type="Handle" scale_factor="100"/>
         </Pieces>
     </CraftedItem>
-	<CraftedItem id="sho_samurai_axe_4" name="{=Bcg6BahH}Samurai Axe" crafting_template="SHO_TwoHandedAxe" modifier_group="axe">
+	<CraftedItem id="sho_samurai_axe_4" name="{=Bcg6BahH}Yamabushi's Axe" crafting_template="SHO_TwoHandedAxe" modifier_group="axe">
 		<Pieces>
 			<Piece id="sho_axe_head_8" Type="Blade" scale_factor="100"/>
 			<Piece id="sho_axe_handle_2" Type="Handle" scale_factor="100"/>

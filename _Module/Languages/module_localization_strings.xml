@@ -1767,7 +1767,7 @@
 		<string id="0vOYQXFq" text="Bronze Striped Axe Handle"/>
 		<string id="TJd0APDo" text="Iron Axe Head"/>
 		<string id="gV8kqN7q" text="Doubled-Sided Axe Head"/>
-		<string id="KOubITlD" text="Samurai Axe Head"/>
+		<string id="KOubITlD" text="Yamabushi's Axe Head"/>
 		<string id="yPyZjPKZ" text="Guarded Handle"/>
 		<string id="jw3IWUYy" text="Red Handle"/>
 		<string id="nfqkavPq" text="Wooden Handle"/>
@@ -3350,7 +3350,7 @@
 		<string id="A3IWaEnQ" text="Namioka Akinori"/>
 		<string id="JcbZs4It" text="Namioka Kata"/>
 		<string id="ETIKKEst" text="Namioka Akitada"/>
-		<string id="Bcg6BahH" text="Samurai Axe"/>
+		<string id="Bcg6BahH" text="Yamabushi's Axe"/>
 		<string id="sUeowQpk" text="Rustic Kama"/>
 		<string id="q2Vsio86" text="Simple Kama"/>
 		<string id="fS5sr8gs" text="Red Kama"/>
@@ -5669,7 +5669,7 @@
 		<string id="PnRQZEfa" text="By the way, my prices are going up to {GOLD_COST}{GOLD_ICON}. I'm sure you won't mind." />
 		<string id="FMZ0ghV3" text="Inoguchi" />
 		<!--Tohoku Kakizaki clan-->
-		<string id="xy3cU9cP" text="Kakizaki-shi" />
+		<string id="xy3cU9cP" text="Matsumae-Kakizaki-shi" />
 		<string id="8x7RoWTn" text="{VALUE}% damage in plains, roads and beaches when your troops are sent to confront the enemy." />
 		<string id="CxvvRIGF" text="{VALUE}% hit points to rams." />
 		<string id="uw2EJ926" text="{VALUE}% accuracy to fire arrows during siege bombardment." />
