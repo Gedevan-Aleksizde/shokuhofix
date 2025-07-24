@@ -56,7 +56,7 @@
 	<Hero id="lord_1_amakusa_6" faction="Faction.clan_amakusa_1" father="Hero.lord_1_amakusa_4" mother="Hero.lord_1_amakusa_5" text="{=57TkTUlx}Amakusa Tanemoto"/>
 	<!--otomo kingdom-->
 	<!--otomo clan 10 ids-->
-	<Hero id="lord_1_otomo" faction="Faction.clan_otomo_1" spouse="Hero.lord_1_otomo_1" father="Hero.dead_lord_1_otomo_1" mother="Hero.dead_lord_1_otomo_2" text="{=Knylet1a}Otomo Sorin"/>
+	<Hero id="lord_1_otomo" faction="Faction.clan_otomo_1" spouse="Hero.lord_1_otomo_1" father="Hero.dead_lord_1_otomo_1" mother="Hero.dead_lord_1_otomo_2" text="{=3AFE1DCF}Ōtomo Yoshishige (大友義鎮), born as Shiohoushimaru (塩法師丸), became a Zen sect monk whose Buddhist name was Sourin (宗麟). While, later, he invited a Padre from Nanban named Shibieru (しびえる), also known as Xavier. He is a man of high culture and often invites intellectual people. He also seems to be interested in overseas much. However, his curiosity may not be pure, but also from a practical reason. Now, he is close to accessing a new weapon from Nanban."/>
 	<Hero id="lord_1_otomo_1" faction="Faction.clan_otomo_1" spouse="Hero.lord_1_otomo" text="{=UIKx01xx}Otomo Lady Nata"/>
 	<Hero id="lord_1_otomo_2" faction="Faction.clan_otomo_1" father="Hero.lord_1_otomo" mother="Hero.lord_1_otomo_1" text="{=7sbPoa0a}Otomo Yoshimune"/>
 	<Hero id="lord_1_otomo_3" faction="Faction.clan_otomo_1" father="Hero.lord_1_otomo" mother="Hero.lord_1_otomo_1" text="{=a5rohL3A}Otomo Chikaie"/>
@@ -224,7 +224,7 @@
 	<Hero id="lord_1_kumabe_8" faction="Faction.clan_kumabe_1" spouse="Hero.lord_1_kumabe_7" text="{=aACMcMnP}Kumabe Akafuji"/>
 	<!--Shimazu Kingdom-->
 	<!--Clan Shimazu 13 ids-->
-	<Hero id="lord_1_shimazu" faction="Faction.clan_shimazu_1" spouse="Hero.lord_1_shimazu_1" father="Hero.lord_1_shimazu_11" mother="Hero.dead_lord_1_shimazu_2" text="{=7s4dxFt3}Shimazu Yoshihisa"/>
+	<Hero id="lord_1_shimazu" faction="Faction.clan_shimazu_1" spouse="Hero.lord_1_shimazu_1" father="Hero.lord_1_shimazu_11" mother="Hero.dead_lord_1_shimazu_2" text="{=C3C99df1}Shimazu Yoshihisa (嶋津義久), born as Torajumaru (虎寿丸), identified himself as Shimazu Matasaburou (嶋津又三郎). First, his given name was Tadayoshi (忠良), same name as Jisshin-sai (日新斎), his great-grandfather; however, he later renamed himself Yoshihisa. He has a talented warlord, while his brothers are also skilled warriors."/>
 	<Hero id="lord_1_shimazu_1" faction="Faction.clan_shimazu_1" spouse="Hero.lord_1_shimazu" text="{=gv3wrMe3}Shimazu Enshin-inden"/>
 	<Hero id="lord_1_shimazu_2" faction="Faction.clan_shimazu_1" father="Hero.lord_1_shimazu" mother="Hero.lord_1_shimazu_1" text="{=czGM0U4X}Shimazu Ohira"/>
 	<Hero id="lord_1_shimazu_3" faction="Faction.clan_shimazu_1" father="Hero.lord_1_shimazu" mother="Hero.lord_1_shimazu_1" text="{=yquLAovd}Shimazu Shinjo"/>

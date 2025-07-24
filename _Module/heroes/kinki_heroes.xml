@@ -80,7 +80,7 @@
 	<Hero id="dead_lord_1_ashikaga_5" alive="false" faction="Faction.clan_ashikaga_1" spouse="Hero.dead_lord_1_ashikaga_4" text="{=hsD5bJui}Ashikaga Daiyou-in"/>
 	<Hero id="lord_1_ashikaga_6" faction="Faction.clan_ashikaga_1" text="{=dKcLiTvb}Ashikaga Yoshihide"/>--&gt;
 	<!-- Hosokawa Clan -->
-	<Hero id="lord_1_hosokawa" faction="Faction.clan_hosokawa_1" spouse="Hero.lord_1_hosokawa_1" text="{=DavzUQup}Hosokawa Fujitaka"/>
+	<Hero id="lord_1_hosokawa" faction="Faction.clan_hosokawa_1" spouse="Hero.lord_1_hosokawa_1" text="{=27063725}Hosokawa Fujitaka (細川藤孝) was born as Mankichi (萬吉) and adopted into a branch family of the Hosokawa clan. The Hosokawa clan is a distinguished clan that produces Kanrei, the Shogun's assistant or chief steward, generation by generation. He identifies himself as Hosokawa Yoichirou (細川与一郎). Living in the high society in Kyōto, Fujitaka is a nobleman with talent in various domains of arts: Poetry, Sarugaku act, Sadou tea party, Kemari football, and martial arts. However, the Hosokawa clan is now falling with the Shogunate. Fujitaka decided to escape from Kyōto with Yoshiaki, a brother of the killed Shogun, and asked for aid from Oda Nobunaga."/>
 	<Hero id="lord_1_hosokawa_1" faction="Faction.clan_hosokawa_1" spouse="Hero.lord_1_hosokawa" text="{=EmiPhqA0}Hosokawa Jyako"/>
 	<Hero id="lord_1_hosokawa_2" faction="Faction.clan_hosokawa_1" father="Hero.lord_1_hosokawa" mother="Hero.lord_1_hosokawa_1" text="{=HQiKv4QF}Hosokawa Tadaoki"/>
 	<Hero id="lord_1_hosokawa_3" faction="Faction.clan_hosokawa_1" father="Hero.lord_1_hosokawa" mother="Hero.lord_1_hosokawa_1" text="{=DtWZ2i3N}Hosokawa Okimoto"/>
@@ -175,7 +175,7 @@
 	<Hero id="lord_1_akao_3" faction="Faction.clan_akao_1" spouse="Hero.lord_1_akao_2" text="{=quPWUb7d}Akao Yuki"/>
 	<!-- Oda Faction
  Oda Clan -->
-	<Hero id="lord_1_oda" faction="Faction.clan_oda_1" spouse="Hero.lord_1_oda_1" father="Hero.dead_lord_1_oda_2" mother="Hero.lord_1_oda_3" text="{=wqjEk0zZ}Oda Nobunaga"/>
+	<Hero id="lord_1_oda" faction="Faction.clan_oda_1" spouse="Hero.lord_1_oda_1" father="Hero.dead_lord_1_oda_2" mother="Hero.lord_1_oda_3" text="{=ea421876}Oda Nobunaga (織田信長), born as Kippoushi (吉法師), identified himself as Oda Saburou (織田三郎) or Kazusa-no-kami (上総守), the son of Nobuhide, serving the mainstream of the Oda clan. In his adolescence, He plays arrogantly and tracklessly. There was no doubt that succession problems arose when his father died. However, Nobunaga defeated all of his conflict relatives and succeeded in ruling the whole of Owari province, which was once ruled by his branch families. Then, following the successive military triumphs, his domain is expanding more and more.{NEWLINE}{NEWLINE}Saitou Dousan (斎藤道三), his father-in-law and the ruler of Mino province, once predicted Nobunaga's great leaping out at first glance before the marriage between his daughter and Nobunaga, when he still had a reputation as ō-utsuke, the most foolish guy. However, its answer is forthcoming."/>
 	<Hero id="lord_1_oda_1" faction="Faction.clan_oda_1" spouse="Hero.lord_1_oda" text="{=aCLFE9fV}Oda Nou"/>
 	<Hero id="dead_lord_1_oda_2" alive="false" faction="Faction.clan_oda_1" spouse="Hero.lord_1_oda_3" text="{=6fpqsOCb}Oda Nobuhide"/>
 	<Hero id="lord_1_oda_3" faction="Faction.clan_oda_1" spouse="Hero.lord_1_oda_2" text="{=WKW8zGVB}Oda Dota-gezen"/>
@@ -188,7 +188,7 @@
 	<Hero id="lord_1_oda_10" faction="Faction.clan_oda_1" father="Hero.dead_lord_1_oda_2" mother="Hero.lord_1_oda_3" spouse="Hero.lord_1_oda_11" text="{=8BhkuRWC}Oda Nagamasu"/>
 	<Hero id="lord_1_oda_11" faction="Faction.clan_oda_1" spouse="Hero.lord_1_oda_10" text="{=Jn0K7PNf}Oda Sei"/>
 	<!--	Kinoshita (Toyotomi) Clan-->
-	<Hero id="lord_1_kinoshita" faction="Faction.clan_kinoshita_1" spouse="Hero.lord_1_kinoshita_1" father="Hero.dead_lord_1_kinoshita_2" mother="Hero.lord_1_kinoshita_3" text="{=gqt0QIl5}Kinoshita Hideyoshi"/>
+	<Hero id="lord_1_kinoshita" faction="Faction.clan_kinoshita_1" spouse="Hero.lord_1_kinoshita_1" father="Hero.dead_lord_1_kinoshita_2" mother="Hero.lord_1_kinoshita_3" text="{=3698eF33}Kinoshita Hideyoshi (木下秀吉), born as Hiyoshimaru (日吉丸), identified himself as Kinoshita Toukichirou (木下藤吉郎), is one of Oda's vassals. He is not from a distinguished family and has served a few minor samurai clans. However, now he is emerging among the vassals of the Oda clan by his talent."/>
 	<Hero id="lord_1_kinoshita_1" faction="Faction.clan_kinoshita_1" spouse="Hero.lord_1_kinoshita" text="{=gqt0QIl5}Kinoshita Hideyoshi"/>
 	<Hero id="dead_lord_1_kinoshita_2" alive="false" faction="Faction.clan_kinoshita_1" spouse="Hero.lord_1_kinoshita_3" text="{=9zZwFuMM}Kinoshita Yaemon"/>
 	<Hero id="lord_1_kinoshita_3" faction="Faction.clan_kinoshita_1" spouse="Hero.lord_1_kinoshita_2" text="{=YCkbvrI5}Kinoshita Naka"/>
