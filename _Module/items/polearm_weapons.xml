@@ -220,7 +220,7 @@
 
     <!--Yari-->
     <CraftedItem id="sho_yari_1"
-                 name="{=jqCTZuvY}Simple Omi Yari"
+                 name="{=jqCTZuvY}Simple Ōmi Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>
@@ -236,7 +236,7 @@
         </Pieces>
     </CraftedItem>
     <CraftedItem id="sho_yari_2"
-                 name="{=NMpgBieK}Crude Omi Yari"
+                 name="{=NMpgBieK}Crude Ōmi Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>
@@ -510,7 +510,7 @@
         </Pieces>
     </CraftedItem>
     <CraftedItem id="sho_yari_20"
-                 name="{=W0vGkIp1}Solid Omi Yari"
+                 name="{=W0vGkIp1}Solid Ōmi Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>
@@ -526,7 +526,7 @@
         </Pieces>
     </CraftedItem>
     <CraftedItem id="sho_yari_21"
-                 name="{=rblmdgxM}Fabled Omi Yari"
+                 name="{=rblmdgxM}Fabled Ōmi Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>
@@ -543,7 +543,7 @@
     </CraftedItem>
     <!--Toukai Enlisted Ashigaru Spear 1-->
     <CraftedItem id="sho_yari_22"
-                 name="{=cNXKUQX7}Simple Owari Omi Yari"
+                 name="{=cNXKUQX7}Simple Owari Ōmi Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>
@@ -561,7 +561,7 @@
 
 
     <CraftedItem id="sho_yari_23"
-                 name="{=WPxY0RTQ}Venerable Omi Yari"
+                 name="{=WPxY0RTQ}Venerable Ōmi Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>
@@ -578,7 +578,7 @@
     </CraftedItem>
 
     <CraftedItem id="sho_yari_24"
-                 name="{=iYPPHwXa}Mythic Omi Yari"
+                 name="{=iYPPHwXa}Mythic Ōmi Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>
@@ -646,7 +646,7 @@
     </CraftedItem>
 
     <CraftedItem id="sho_yari_28"
-                 name="{=i8TMmnq3}Heroic Omi Yari"
+                 name="{=i8TMmnq3}Heroic Ōmi Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>
@@ -697,7 +697,7 @@
     </CraftedItem>
     <!--Toukai Enlisted Ashigaru Spear 2-->
     <CraftedItem id="sho_yari_31"
-                 name="{=C6zh5DoX}Owari Omi Yari"
+                 name="{=C6zh5DoX}Owari Ōmi Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>

@@ -357,7 +357,7 @@
 		<string id="DY9tJx32" text="This scroll details the medicinal method of horse breeding and contains a depiction of the patron god of horse doctors as well as medicinal herbs used as horse medicine."/>
 		<string id="zDkXRI5J" text="This scroll contains the teachings of the Anzai-ryū school of horse medicine and describes the relationship between esoteric philosophy and horse diseases, including the methods and effects of treatment with acupuncture."/>
 		<string id="Nqt9jf0G" text="This book describes the secrets of horse treatment written by Kuwashima Hirotsuna and provides details on the parts of the horse's body and various methods of moxibustion treatment."/>
-		<string id="VNF4HoAS" text="A book containing the teachings of Hachijō Fusashige, founder of the Hachijou-ryū school of horsemanship."/>
+		<string id="VNF4HoAS" text="A book containing the teachings of Hachijou Fusashige, founder of the Hachijou-ryū school of horsemanship."/>
 		<string id="uchnzXJ3" text="This book by Ogasawara Mochinaga, master of archery for Shogun Ashikaga Yoshinori, describes the manners and techniques of the Yabusame mounted archery."/>
 		<string id="u2cqrvgL" text="This book by Ogasawara Motonaga, son of Mochinaga master of archery for the Ashikaga Shogunate, details the manners and techniques of the Kasagake mounted archery."/>
 		<string id="FtTUGDMu" text="This book by Ogasawara Mochinaga, master of archery for Shogun Ashikaga Yoshinori, describes the manners and techniques of the Inuoumono mounted archery."/>
@@ -2079,7 +2079,7 @@
 		<string id="dybH9x5l" text="Rough Tsukinari Yari Blade"/>
 		<string id="CixJIH5v" text="Hien Yari Blade"/>
 		<string id="QCx1G6Qi" text="Simple Sasumata Yari Blade"/>
-		<string id="KbFFpobi" text="Crude Omi Yari Blade"/>
+		<string id="KbFFpobi" text="Crude Ōmi Yari Blade"/>
 		<string id="sBsuQTdZ" text="Kama Yari Blade"/>
 		<string id="Ur2TppcT" text="Thin Sasaho Yari Blade"/>
 		<string id="VncxCbv5" text="Sasaho Yari Blade"/>
@@ -2087,8 +2087,8 @@
 		<string id="qXvlWFPY" text="Tsukinari Yari Blade"/>
 		<string id="5C3iljcw" text="Simple Hien Yari Blade"/>
 		<string id="HJ3pa3CF" text="Sasumata Yari Blade"/>
-		<string id="arC7n29e" text="Omi Yari Blade"/>
-		<string id="eJEc63g2" text="Sharp Omi Yari Blade"/>
+		<string id="arC7n29e" text="Ōmi Yari Blade"/>
+		<string id="eJEc63g2" text="Sharp Ōmi Yari Blade"/>
 		<string id="38tHyVC6" text="Solid Jūmonji Yari Blade"/>
 		<string id="pLHs1mwP" text="Simple Yari Shaft"/>
 		<string id="6SIgOjXf" text="Strong Yari Shaft"/>
@@ -3673,8 +3673,8 @@
 		<string id="JstR3q8B" text="Sharp Curved No-Dachi"/>
 		<string id="YAiwQ5ar" text="Bamboo Spear"/>
 		<string id="M0ylD4qT" text="Blunted Naginata"/>
-		<string id="jqCTZuvY" text="Simple Omi Yari"/>
-		<string id="NMpgBieK" text="Crude Omi Yari"/>
+		<string id="jqCTZuvY" text="Simple Ōmi Yari"/>
+		<string id="NMpgBieK" text="Crude Ōmi Yari"/>
 		<string id="Bmx2LAnm" text="Dull Sasaho Yari"/>
 		<string id="V1BsWSsg" text="Long Crude Sasaho Yari"/>
 		<string id="wBHTjf0g" text="Crude Kagi Yari"/>
@@ -3691,18 +3691,18 @@
 		<string id="UctETje4" text="Solid Jūmonji Yari"/>
 		<string id="dAdZFb9m" text="Excellent Jūmonji Yari"/>
 		<string id="uq5f5ogO" text="Renowned Jūmonji Yari"/>
-		<string id="W0vGkIp1" text="Solid Omi Yari"/>
-		<string id="rblmdgxM" text="Fabled Omi Yari"/>
-		<string id="cNXKUQX7" text="Simple Owari Omi Yari"/>
-		<string id="WPxY0RTQ" text="Venerable Omi Yari"/>
-		<string id="iYPPHwXa" text="Mythic Omi Yari"/>
+		<string id="W0vGkIp1" text="Solid Ōmi Yari"/>
+		<string id="rblmdgxM" text="Fabled Ōmi Yari"/>
+		<string id="cNXKUQX7" text="Simple Owari Ōmi Yari"/>
+		<string id="WPxY0RTQ" text="Venerable Ōmi Yari"/>
+		<string id="iYPPHwXa" text="Mythic Ōmi Yari"/>
 		<string id="OnOvaRTI" text="Noble Jūmonji Yari"/>
 		<string id="rso9zQtp" text="Divine Jūmonji Yari"/>
 		<string id="JnjIgiXD" text="Venerable Jūmonji Yari"/>
-		<string id="i8TMmnq3" text="Heroic Omi Yari"/>
+		<string id="i8TMmnq3" text="Heroic Ōmi Yari"/>
 		<string id="7ogCF4QM" text="Solid Kama Yari"/>
 		<string id="5AKr6qk0" text="Reliable Kama Yari"/>
-		<string id="C6zh5DoX" text="Owari Omi Yari"/>
+		<string id="C6zh5DoX" text="Owari Ōmi Yari"/>
 		<string id="h9vqUlJE" text="Rough Naginata"/>
 		<string id="lF14FTg1" text="Strong Naginata"/>
 		<string id="4TJ0UTh3" text="Simple Naginata"/>

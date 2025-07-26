@@ -204,7 +204,7 @@
         </Materials>
     </CraftingPiece>
     <CraftingPiece id="sho_yari_blade_10"
-                   name="{=KbFFpobi}Crude Omi Yari Blade"
+                   name="{=KbFFpobi}Crude Ōmi Yari Blade"
                    tier="1"
                    piece_type="Blade"
                    mesh="sho_yari_blade_20"
@@ -377,7 +377,7 @@
         </Materials>
     </CraftingPiece>
     <CraftingPiece id="sho_yari_blade_20"
-                   name="{=arC7n29e}Omi Yari Blade"
+                   name="{=arC7n29e}Ōmi Yari Blade"
                    tier="3"
                    piece_type="Blade"
                    mesh="sho_yari_blade_10"
@@ -398,7 +398,7 @@
         </Materials>
     </CraftingPiece>
     <CraftingPiece id="sho_yari_blade_21"
-                   name="{=eJEc63g2}Sharp Omi Yari Blade"
+                   name="{=eJEc63g2}Sharp Ōmi Yari Blade"
                    tier="5"
                    piece_type="Blade"
                    mesh="sho_yari_blade_10"
