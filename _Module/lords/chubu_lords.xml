@@ -788,7 +788,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son -->
-  <NPCCharacter id="lord_1_uchigashima_4" name="{=BFpJOH9B}Uchigashima Ujiyuji" age="4" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_uchigashima_4" name="{=BFpJOH9B}Uchigashima Ujiyuki" age="4" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="4.00" weight="0.1397" build="0.656" key="002DC40EC0000700B56656682CB6633A92796A775BD83779C34AAC3568899E98077A267807AAC27A00000000000000000000000000000000000000002CEC0040"/>
     </face>
