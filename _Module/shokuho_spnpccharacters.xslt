@@ -54,15 +54,6 @@
     <xsl:template match="NPCCharacter[@id='beggar_saikai']/@name" ><xsl:attribute name="name">{=953W3FGg}Beggar</xsl:attribute></xsl:template>
     <xsl:template match="NPCCharacter[@id='female_beggar_saikai']/@name" ><xsl:attribute name="name">{=953W3FGg}Beggar</xsl:attribute></xsl:template>
     <xsl:template match="NPCCharacter[@id='tournament_master_saikai']/@name" ><xsl:attribute name="name">{=IHKXNP9H}Tournament Master</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='tournament_template_saikai_one_participant_set_v1']/@name" ><xsl:attribute name="name">{=I0sEHwDL}tournament_template_saikai_one_participant_set_v1</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='tournament_template_nankai_one_participant_set_v1']/@name" ><xsl:attribute name="name">{=FemgdgPp}tournament_template_nankai_one_participant_set_v1</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='tournament_template_sanyo_one_participant_set_v1']/@name" ><xsl:attribute name="name">{=xGrcB7wX}tournament_template_sanyo_one_participant_set_v1</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='tournament_template_kinai_one_participant_set_v1']/@name" ><xsl:attribute name="name">{=GOI7KNfu}tournament_template_kinai_one_participant_set_v1</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='tournament_template_hokuriku_one_participant_set_v1']/@name" ><xsl:attribute name="name">{=sblMrceF}tournament_template_hokuriku_one_participant_set_v1</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='tournament_template_tosan_one_participant_set_v1']/@name" ><xsl:attribute name="name">{=PFMcJKCP}tournament_template_tosan_one_participant_set_v1</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='tournament_template_tokai_one_participant_set_v1']/@name" ><xsl:attribute name="name">{=0hnJJ6Im}tournament_template_tokai_one_participant_set_v1</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='tournament_template_kanto_one_participant_set_v1']/@name" ><xsl:attribute name="name">{=u6RI0ofc}tournament_template_kanto_one_participant_set_v1</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='tournament_template_ou_one_participant_set_v1']/@name" ><xsl:attribute name="name">{=zB6KrNXs}tournament_template_ou_one_participant_set_v1</xsl:attribute></xsl:template>
     <xsl:template match="NPCCharacter[@id='generic_monk']/@name" ><xsl:attribute name="name">{=i4cbh9JR}Monk</xsl:attribute></xsl:template>
     <xsl:template match="NPCCharacter[@id='head_monk']/@name" ><xsl:attribute name="name">{=IiWKrT2f}Head Priest</xsl:attribute></xsl:template>
     <xsl:template match="NPCCharacter[@id='gacha_man']/@name" ><xsl:attribute name="name">{=Nvd0m2Az}Kaito</xsl:attribute></xsl:template>

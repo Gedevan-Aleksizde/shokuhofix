@@ -13,13 +13,13 @@
     <xsl:template match="Settlement[@id='castle_village_AMA1_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=k1yojJ4A}Nishino</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_AMA1_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=Nw6vXG2r}Chiburi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_CHU1']">
@@ -31,19 +31,19 @@
     <xsl:template match="Settlement[@id='village_CHU1_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=kD3Q4P0u}Akamagazeki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHU1_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=VIWC07Rb}Chofu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHU1_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=GuFaRjgy}Aio</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_CHU2']">
@@ -55,19 +55,19 @@
     <xsl:template match="Settlement[@id='village_CHU2_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=vHOOBCB9}Hagi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHU2_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=aK0HSc4W}Ōi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHU2_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=GxkGnl8i}Mikazura</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_CHU3']">
@@ -79,19 +79,19 @@
     <xsl:template match="Settlement[@id='village_CHU3_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=ntbMy243}Togouchi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHU3_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=uxffoc1I}Kabe</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHU3_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=nVDIrAUN}Miyoshi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_CHU4']">
@@ -103,19 +103,19 @@
     <xsl:template match="Settlement[@id='village_CHU4_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=ryejJvC5}Tomogaura</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHU4_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=VDGlQJwd}Ishigane</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHU4_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=r5ANVqKb}Hane</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_CHU5']">
@@ -127,19 +127,19 @@
     <xsl:template match="Settlement[@id='village_CHU5_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=LwUShO8j}Yasugi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHU5_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=EOMv6L5Q}Mihonoseki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHU5_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=9aMOSRHh}Yodoe</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_CHU6']">
@@ -151,19 +151,19 @@
     <xsl:template match="Settlement[@id='village_CHU6_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=7MPxSfAc}Kibitsu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHU6_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=U5Vy1oxO}Hachihama</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHU6_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=wwAiZo2v}Saidaiji</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHU1']">
@@ -174,13 +174,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHU1_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=rdMHs0On}Hijū</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHU1_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=Tk7cr6rz}Setozaki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHU2']">
@@ -191,13 +191,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHU2_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=hYa3ko4i}Mitajiri</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHU2_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=vuFxEg9A}Miyaichi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHU3']">
@@ -208,13 +208,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHU3_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=ScnAHUPM}Susa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHU3_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=jX87tqV5}Nakazu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHU4']">
@@ -225,13 +225,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHU4_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=s36OCLVb}Murozumi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHU4_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=P01HZUoY}Iwakuni</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHU5']">
@@ -242,13 +242,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHU5_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=OPAS78bG}Kuba</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHU5_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=glsWfxE7}Itsukushima</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHU6']">
@@ -259,13 +259,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHU6_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=1nlzOWW9}Misumiminato</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHU6_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=p15FKoXR}Goutsu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHU7']">
@@ -276,13 +276,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHU7_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=dZN5LLR7}Seto</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHU7_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=jIQ8ABmU}Kure</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHU8']">
@@ -293,13 +293,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHU8_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=dYC6hZpp}Takehara</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHU8_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=eqDZ9V5G}Shiraichi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHU9']">
@@ -310,13 +310,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHU9_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=QNTlHbu0}Kizuki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHU9_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=BSLeHhbG}Shirakata</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHU10']">
@@ -327,13 +327,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHU10_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=i2U342nt}Oji</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHU10_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=ZyJVH3pK}Miyaura</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHU11']">
@@ -344,13 +344,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHU11_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=gqR6QX1Z}Nakanoshou</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHU11_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=6lrC1jYV}Setoda</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHU12']">
@@ -361,13 +361,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHU12_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=E9fVF5iD}Onomichi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHU12_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=MCoAiEZz}Kasaoka</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHU13']">
@@ -378,13 +378,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHU13_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=uyVTNrO8}Tsurajima</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHU13_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=bBkiYp7q}Shimotsu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHU14']">
@@ -395,13 +395,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHU14_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=v81uLwPi}Ushimado</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHU14_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=qMUrlmZh}Inbe</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHU15']">
@@ -412,13 +412,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHU15_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=Nr6GaOhH}Shioyu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHU15_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=MTe8tb9b}Togawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHU16']">
@@ -429,13 +429,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHU16_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=0WX9hA8s}Hashizu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHU16_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=04PwDqo1}Karo</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_CHUB1']">
@@ -447,19 +447,19 @@
     <xsl:template match="Settlement[@id='village_CHUB1_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=cT34Ebdw}Mizuochi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB1_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=t2wPJnTl}Kitanosho</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB1_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=6yl5DIfX}Heisenji</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_CHUB2']">
@@ -471,19 +471,19 @@
     <xsl:template match="Settlement[@id='village_CHUB2_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=JyG9eqDR}Shirayama</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB2_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=6HTGkGwu}Ataka</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB2_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=VPbrsyV3}Miyanokoshi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_CHUB3']">
@@ -495,19 +495,19 @@
     <xsl:template match="Settlement[@id='village_CHUB3_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=JwZnAQwK}Noto-Fukura</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB3_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=NgWPLmrQ}Hakui</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB3_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=30Bb9CUF}Himi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_CHUB4']">
@@ -519,19 +519,19 @@
     <xsl:template match="Settlement[@id='village_CHUB4_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=POZGi4zI}Funai</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB4_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=fLVmeCsk}Naoetsu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB4_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=RVCdQOAQ}Arai</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_CHUB5']">
@@ -543,19 +543,19 @@
     <xsl:template match="Settlement[@id='village_CHUB5_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=2UhVzhNg}Kanbara</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB5_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=FXLQqRDx}Shibata</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB5_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=4Hvmfg62}Tsugawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_CHUB6']">
@@ -567,19 +567,19 @@
     <xsl:template match="Settlement[@id='village_CHUB6_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=4J5DeSPz}Shiojiri</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB6_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=Epzs9bvB}Azumi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB6_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=jewHO3R5}Suwa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_CHUB7']">
@@ -591,19 +591,19 @@
     <xsl:template match="Settlement[@id='village_CHUB7_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=9ZpFMf9j}Iwama</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB7_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=etBS08Ko}Uwato</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB7_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=hKFfL2SM}Enzan</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_CHUB8']">
@@ -615,19 +615,19 @@
     <xsl:template match="Settlement[@id='village_CHUB8_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=F555c76a}Yaizu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB8_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=BUEoaNBS}Kunoujii</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB8_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=RLbLgutH}Shimizu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_CHUB9']">
@@ -639,19 +639,19 @@
     <xsl:template match="Settlement[@id='village_CHUB9_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=piCQps0D}Kakezuka</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB9_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=TCosghZ8}Asawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB9_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=pQeaKfeW}Hamanoura</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_CHUB10']">
@@ -663,19 +663,19 @@
     <xsl:template match="Settlement[@id='village_CHUB10_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=DDYwxAgB}Utsumi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB10_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=Unk1zUdF}Ōhama</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB10_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=yXgoIejT}Kariya</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_CHUB11']">
@@ -687,19 +687,19 @@
     <xsl:template match="Settlement[@id='village_CHUB11_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=vJbZkdX7}Tsushima</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB11_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=YiKQhjoQ}Nagono</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB11_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=JjNW477Q}Atsuta</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_CHUB12']">
@@ -711,19 +711,19 @@
     <xsl:template match="Settlement[@id='village_CHUB12_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=3rm0moPF}Gero</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB12_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=5MsVakpv}Maze</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB12_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=yOZsTIzn}Hagiwara</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_CHUB13']">
@@ -735,19 +735,19 @@
     <xsl:template match="Settlement[@id='village_CHUB13_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=bjDeU9E6}Kani</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB13_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=yjHtAEEM}Kakamigahara</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_CHUB13_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=yOZsTIzn}Hagiwara</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB1']">
@@ -758,13 +758,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB1_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=BdXzJLer}Tsuruga</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB1_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=ijmNcreb}Obama</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB2']">
@@ -775,13 +775,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB2_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=qEewJDux}Kounoura</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB2_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=DUDOlYTC}Estufu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB3']">
@@ -792,13 +792,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB3_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=P5SW4Or6}Mikuniminato</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB3_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=9VFHLA3r}Kanazu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB4']">
@@ -809,13 +809,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB4_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=T2Q4WFMt}Yoshizaki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB4_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=Ecd8IGJg}Miyukizuka</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB5']">
@@ -826,13 +826,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB5_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=y0hE60ln}Houjouzu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB5_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=CepFf3AB}Uozu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB6']">
@@ -843,13 +843,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB6_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=xvGZzqHc}Nakai</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB6_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=h7DlJtQC}Wajima</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB7']">
@@ -860,13 +860,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB7_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=5rC2HuFe}Oumi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB7_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=6sQmsU2E}Nou</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB8']">
@@ -877,13 +877,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB8_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=7JtnPd3c}Kakizaki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB8_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=VB9q8lt1}Kasiwazaki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB9']">
@@ -894,13 +894,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB9_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=vcwfVYcz}Izumosaki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB9_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=Lsn74WcF}Teradomari</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB10']">
@@ -911,13 +911,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB10_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=7t3vyHmx}Sawane</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB10_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=d7QHPRHE}Matsugasaki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB11']">
@@ -928,13 +928,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB11_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=8qvbF7TU}Hirabayashi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB11_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=hWQ6aSCk}Iwafune</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB12']">
@@ -945,13 +945,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB12_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=Ko1h36Co}Murakami</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB12_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=J9ywrIPV}Sarusawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB13']">
@@ -962,13 +962,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB13_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=n7NdjTwb}Zaodo</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB13_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=F0FJSIJ3}Sanjo</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB14']">
@@ -979,13 +979,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB14_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=RJ7ntwZm}Īyama</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB14_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=A9F0D2da}Echigo-Yuzawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB15']">
@@ -996,13 +996,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB15_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=ESwxpHkr}Imoi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB15_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=0auCw7Uk}Higano</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB16']">
@@ -1013,13 +1013,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB16_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=Hu5KORDr}Sakaki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB16_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=whinybNk}Yamaga</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB17']">
@@ -1030,13 +1030,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB17_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=RLsQENAd}Tateshina</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB17_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=YsHcsOZG}Iwamurada</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB18']">
@@ -1047,13 +1047,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB18_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=jDTmVPMc}Yoshida</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB18_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=RbZ6aQZJ}Tsuru</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB19']">
@@ -1064,13 +1064,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB19_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=N3c8Rw9g}Okanomiya</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB19_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=gx1JDkqp}Mishima</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB20']">
@@ -1081,13 +1081,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB20_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=XZY1KrYO}Numazu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB20_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=ckiCB6KN}Dohi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB21']">
@@ -1098,13 +1098,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB21_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=A5CCc511}Itou</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB21_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=nykU8Y8J}Shimoda</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB22']">
@@ -1115,13 +1115,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB22_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=u3qEz2Sj}Ōmiya</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB22_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=uGXJfGNs}Yoshiwara</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB23']">
@@ -1132,13 +1132,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB23_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=9u6MWvx2}Kakegawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB23_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=BAkfKBd7}Sagara-Minato</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB24']">
@@ -1149,13 +1149,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB24_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=RVCdQOAQ}Arai</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB24_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=zulU0Gkq}Murakushi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB25']">
@@ -1166,13 +1166,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB25_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=Z1I0sr9p}Muro</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB25_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=37059562}Mikawa-Komatsubara</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB26']">
@@ -1183,13 +1183,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB26_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=63YZvplM}Miyakawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB26_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=gVfxpn0b}Yourou</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB28']">
@@ -1200,13 +1200,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB28_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=drRb1eJx}Joganj</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB28_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=ZwLyRZ4l}Maeba</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB29']">
@@ -1217,13 +1217,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB29_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=ccQlu1Kg}Kaerikumo</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB29_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=ckPgXqYM}Shirakawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB30']">
@@ -1234,13 +1234,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB30_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=RYgkBrwy}Hachiga</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB30_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=JddcPSQa}Yoshiki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB31']">
@@ -1251,13 +1251,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB31_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=zNtx1PQ0}Furukawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB31_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=AIzmEXqU}Kojima</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB32']">
@@ -1268,13 +1268,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB32_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=sNI8ZZHb}Ikeda</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB32_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=Jo0WieRJ}Sakishina</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB33']">
@@ -1285,13 +1285,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB33_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=4nFCr6ZB}Seba</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB33_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=qVMNO1bw}Tsumago</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB34']">
@@ -1302,13 +1302,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB34_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=kpvsA1WL}Tera</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB34_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=Gc9lqI9K}Fukuchi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_CHUB35']">
@@ -1319,13 +1319,13 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB35_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=SPg1xeg2}Nirasaki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_CHUB35_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=2Fd9b166}Kai-Ichikawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_KA1']">
@@ -1337,19 +1337,19 @@
     <xsl:template match="Settlement[@id='village_KA1_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=rSHDe4X7}Atami</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_KA1_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=wpQ2ndaa}Suga</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_KA1_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=w4XrPFPx}Kamakura</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_KA2']">
@@ -1361,19 +1361,19 @@
     <xsl:template match="Settlement[@id='village_KA2_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=dIIiTxyA}Shinagawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_KA2_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=TbCoWKJH}Funabashi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_KA2_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=A3cOvSag}Ichikawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_KA3']">
@@ -1385,19 +1385,19 @@
     <xsl:template match="Settlement[@id='village_KA3_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=3afDSFUm}Nukada</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_KA3_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=OeVsHQQJ}Kuzihama</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_KA3_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=BEXJ1F23}Ōkubo</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_KA4']">
@@ -1409,19 +1409,19 @@
     <xsl:template match="Settlement[@id='village_KA4_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=71698EPm}Kanuma</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_KA4_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=jVHfshhL}Yashū-Īyama</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_KA4_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=9hFMeM35}Shioya</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_KA5']">
@@ -1433,19 +1433,19 @@
     <xsl:template match="Settlement[@id='village_KA5_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=BuDdh2hN}Annaka</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_KA5_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=IwK2OW0t}Kuragano</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_KA5_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=BYtxHdvg}Umayabashi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA1']">
@@ -1456,13 +1456,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA1_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=m6eYZWMH}Misaki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA1_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=AcrA0peb}Uraga</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA2']">
@@ -1473,13 +1473,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA2_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=UmtiRMvI}Mutsura</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA2_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=qsDR6nPt}Kanagawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA3']">
@@ -1490,13 +1490,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA3_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=8K5XNHMS}Sakura</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA3_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=8uc0Kj7G}Narita</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA4']">
@@ -1507,13 +1507,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA4_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=4Qm8SgWv}Ichihara</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA4_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=Gv5tERn8}Oyumi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA5']">
@@ -1524,13 +1524,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA5_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=VBw6AtIt}Kisarazu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA5_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=6OLFNFPW}Shīzu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA6']">
@@ -1541,13 +1541,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA6_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=1s4zTkO1}Sanuki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA6_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=cPnEh9c9}Futtsu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA7']">
@@ -1558,13 +1558,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA7_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=o9lZQluw}Tateyama</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA7_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=3vIIUJfX}Hota</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA8']">
@@ -1575,13 +1575,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA8_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=JaeqMZbL}Kominato</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA8_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=1czltRYb}Katsuura</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA9']">
@@ -1592,13 +1592,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA9_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=mlDukSZk}Kururi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA9_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=vRxccLfw}Mariyatsu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA10']">
@@ -1609,13 +1609,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA10_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=2cLzFoE1}Hatsukaichi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA10_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=vehvdeEq}Īnuma</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA11']">
@@ -1626,13 +1626,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA11_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=63kkGmr0}Takahama</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA11_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=t7zPXy1y}Hokota</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA12']">
@@ -1643,13 +1643,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA12_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=unBMdPnQ}Mito</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA12_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=S3r12ca1}Nakaminato</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA13']">
@@ -1660,13 +1660,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA13_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=dr8GFyIJ}Fukuhara</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA13_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=EalLYsws}Ōtawara</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA14']">
@@ -1677,13 +1677,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA14_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=GuVB0o4t}Shibukawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA14_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=yNbrNqwD}Numata</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA15']">
@@ -1694,13 +1694,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA15_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=t1inD5Lx}Obata</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA15_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=o57onn7Q}Okudaira</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA16']">
@@ -1711,13 +1711,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA16_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=9FKbt4zD}Fukaya</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA16_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=J65jYwD3}Kumagaya</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA17']">
@@ -1728,13 +1728,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA17_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=JndaZB2w}Kawagoe</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA17_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=zRanyUdc}Urawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA18']">
@@ -1745,13 +1745,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA18_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=8UOoxztL}Nitta</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA18_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=rZXDni5c}Tatebayashi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA19']">
@@ -1762,13 +1762,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA19_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=xRwhSNem}Akami</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA19_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=5f1d48E3}Sano</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA20']">
@@ -1779,13 +1779,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA20_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=VWIh1O6T}Mibu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA20_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=CwUpZL5t}Shimodate</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA21']">
@@ -1796,13 +1796,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA21_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=GXGaCaHX}Haga</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA21_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=9OKrr8tM}Mōka</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA22']">
@@ -1813,13 +1813,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA22_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=uapC71GC}Kasama</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA22_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=lKDCjpUw}Akasawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA23']">
@@ -1830,13 +1830,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA23_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=NBk1hBZz}Ōda</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA23_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=XneOdQah}Tsuchiura</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA24']">
@@ -1847,13 +1847,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA24_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=5JkMs0GN}Ushiku</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA24_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=Q2NujO9N}Yatabe</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA25']">
@@ -1864,13 +1864,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA25_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=B0U7VE21}Kogane</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA25_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=02LbyErE}Matsuyama</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA26']">
@@ -1881,13 +1881,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA26_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=XpOX5VFs}Koga</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA26_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=kX8k2MwY}Sekiyado</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA27']">
@@ -1898,13 +1898,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA27_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=qtzqW2Oy}Sahara</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA27_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=dvlPiU2U}Kashima</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KA28']">
@@ -1915,13 +1915,13 @@
     <xsl:template match="Settlement[@id='castle_village_KA28_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=KHJX6ldN}Fujita</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KA28_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=dVLQGITS}Chichibu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_KIN1']">
@@ -1933,19 +1933,19 @@
     <xsl:template match="Settlement[@id='village_KIN1_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=LSCpqFPj}Naba</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_KIN1_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=xqyUiSCO}Muro</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_KIN1_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=hl01ZaFi}Aga</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_KIN2']">
@@ -1957,19 +1957,19 @@
     <xsl:template match="Settlement[@id='village_KIN2_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=qMS6rcJ7}Amagasaki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_KIN2_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=PNF5BqUL}Hirakata</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_KIN2_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=NU4XA4XB}Wakae</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_KIN3']">
@@ -1981,19 +1981,19 @@
     <xsl:template match="Settlement[@id='village_KIN3_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=qh0lJtT0}Kusabe</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_KIN3_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=43fknY0a}Haze</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_KIN3_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=RiByzBoT}Ishizu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_KIN4']">
@@ -2005,19 +2005,19 @@
     <xsl:template match="Settlement[@id='village_KIN4_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=a8Aa87e1}Yamato-Kōriyama</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_KIN4_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=HPJqbRGp}Ikaruga</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_KIN4_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=kEOZW3MW}Imai</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_KIN5']">
@@ -2029,19 +2029,19 @@
     <xsl:template match="Settlement[@id='village_KIN5_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=UombAy1F}Kameoka</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_KIN5_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=fc4uciRX}Ōtsu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_KIN5_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=SqhunkSg}Yamashina</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_KIN6']">
@@ -2053,19 +2053,19 @@
     <xsl:template match="Settlement[@id='village_KIN6_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=svF9a3AO}Sakamoto</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_KIN6_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=zPlJZ4Et}Katata</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_KIN6_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=GdmtbPuu}Azuchi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_KIN7']">
@@ -2077,19 +2077,19 @@
     <xsl:template match="Settlement[@id='village_KIN7_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=4768c9E2}Imahama</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_KIN7_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=nvn46but}Kunitomo</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_KIN7_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=idWuOFGc}Shiozu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KIN1']">
@@ -2100,13 +2100,13 @@
     <xsl:template match="Settlement[@id='castle_village_KIN1_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=8zJovLxd}Shisou</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KIN1_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=feDB9C56}Iwa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KIN2']">
@@ -2117,13 +2117,13 @@
     <xsl:template match="Settlement[@id='castle_village_KIN2_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=B4rIgAXu}Asago</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KIN2_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=kvIfk7Pn}Awaga</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KIN3']">
@@ -2134,13 +2134,13 @@
     <xsl:template match="Settlement[@id='castle_village_KIN3_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=FQrxDEty}Yabu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KIN3_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=AKm44xSa}Kinosaki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KIN4']">
@@ -2151,13 +2151,13 @@
     <xsl:template match="Settlement[@id='castle_village_KIN4_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=31sB29eI}Miyazu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KIN4_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=4989c941}Tango-Tanabe</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KIN5']">
@@ -2168,13 +2168,13 @@
     <xsl:template match="Settlement[@id='castle_village_KIN5_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=TNmMVECR}Oshio</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KIN5_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=wjCmFvz8}Takasago</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KIN6']">
@@ -2185,13 +2185,13 @@
     <xsl:template match="Settlement[@id='castle_village_KIN6_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=Bf5D3324}Miki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KIN6_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=CQHwBFdV}Akashi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KIN7']">
@@ -2202,13 +2202,13 @@
     <xsl:template match="Settlement[@id='castle_village_KIN7_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=TA6vAIHp}Hyougo</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KIN7_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=HCBBJbxX}Arima</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KIN8']">
@@ -2219,13 +2219,13 @@
     <xsl:template match="Settlement[@id='castle_village_KIN8_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=1lijcoPq}Itami</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KIN8_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=8RAd0mOi}Tona</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KIN9']">
@@ -2236,13 +2236,13 @@
     <xsl:template match="Settlement[@id='castle_village_KIN9_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=Z6IR3pmc}Nagahama</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KIN9_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=ssuKNazT}Kaizu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KIN10']">
@@ -2253,13 +2253,13 @@
     <xsl:template match="Settlement[@id='castle_village_KIN10_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=kJ7GSg2b}Taga</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KIN10_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=eiBJgTd6}Koura</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KIN11']">
@@ -2270,13 +2270,13 @@
     <xsl:template match="Settlement[@id='castle_village_KIN11_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=8BeZLj90}Tomi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KIN11_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=d6koZFZX}Heguri</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KIN12']">
@@ -2287,13 +2287,13 @@
     <xsl:template match="Settlement[@id='castle_village_KIN12_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=H96dzZca}Kyūhouji</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KIN12_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=hJXbIbcC}Tondabayashi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KIN13']">
@@ -2304,13 +2304,13 @@
     <xsl:template match="Settlement[@id='castle_village_KIN13_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=jxkb3kzF}Kaizuka</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KIN13_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=zDhlobyA}Tannowa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KIN14']">
@@ -2321,13 +2321,13 @@
     <xsl:template match="Settlement[@id='castle_village_KIN14_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=AvIvF9cQ}Yura</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KIN14_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=4E2Osk84}Fukura</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KIN15']">
@@ -2338,13 +2338,13 @@
     <xsl:template match="Settlement[@id='castle_village_KIN15_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=LZQI2qYV}Kada</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KIN15_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=JiCy0cGU}Kinominato</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KIN16']">
@@ -2355,13 +2355,13 @@
     <xsl:template match="Settlement[@id='castle_village_KIN16_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=dfHStZUp}Yuasa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KIN16_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=dXkBXUQ2}Kī-Yura</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KIN17']">
@@ -2372,13 +2372,13 @@
     <xsl:template match="Settlement[@id='castle_village_KIN17_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=scbRMDG2}Kuzaki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KIN17_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=Z06Isd7R}Ōminato</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KIN18']">
@@ -2389,19 +2389,19 @@
     <xsl:template match="Settlement[@id='castle_village_KIN18_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=vYdmdRjj}Aritaki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KIN18_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=mV7Ib8JR}Hosokumi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KIN18_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=hN7GTqtN}Anotsu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KIN19']">
@@ -2412,13 +2412,13 @@
     <xsl:template match="Settlement[@id='castle_village_KIN19_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=WhNyyoAt}Nabari</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KIN19_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=t93lkmYo}Tsuge</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KIN20']">
@@ -2429,13 +2429,13 @@
     <xsl:template match="Settlement[@id='castle_village_KIN20_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=DT6ynFvP}Minakuchi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KIN20_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=vecUUwJp}Otowa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KIN21']">
@@ -2446,13 +2446,13 @@
     <xsl:template match="Settlement[@id='castle_village_KIN21_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=4VCQnnAN}Shirako</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KIN21_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=8ikUEhbQ}Kusu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KIN22']">
@@ -2463,13 +2463,13 @@
     <xsl:template match="Settlement[@id='castle_village_KIN22_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=ZnlA58aj}Kuwana</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KIN22_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=P5GkX0F8}Nakaei</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KIN23']">
@@ -2480,13 +2480,13 @@
     <xsl:template match="Settlement[@id='castle_village_KIN23_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=JrStOL0U}Oyamazaki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KIN23_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=02pX6hRh}Uji</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KIN24']">
@@ -2497,13 +2497,13 @@
     <xsl:template match="Settlement[@id='castle_village_KIN24_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=1rfay3TH}Kī-Komatsubara</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KIN24_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=HbMqTOlK}Gobou</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_KY1']">
@@ -3270,13 +3270,13 @@
     <xsl:template match="Settlement[@id='castle_village_KY31_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=j1XEMyqn}Mashiki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KY31_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=Tr73jAZQ}Udo</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KY32']">
@@ -3287,13 +3287,13 @@
     <xsl:template match="Settlement[@id='castle_village_KY32_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=y19oi5PN}Katashida</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_KY32_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=ROS1fAAN}Kusa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_SHI1']">
@@ -3630,19 +3630,19 @@
     <xsl:template match="Settlement[@id='village_TOHO1_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=qZJxFCAP}Kouzashi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_TOHO1_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=lUgrIbsy}Shingū</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_TOHO1_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=x3I1aFDf}Sakigawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_TOHO2']">
@@ -3654,19 +3654,19 @@
     <xsl:template match="Settlement[@id='village_TOHO2_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=ucQBmrCG}Nagai</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_TOHO2_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=F5azEbwE}Komatsu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_TOHO2_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=2vWUQEjx}Takahata</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_TOHO3']">
@@ -3678,19 +3678,19 @@
     <xsl:template match="Settlement[@id='village_TOHO3_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=gaUB4BnH}Kashikura</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_TOHO3_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=df4bDfVc}Narisawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_TOHO3_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=tVLZhzFJ}Iwanami</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_TOHO4']">
@@ -3702,19 +3702,19 @@
     <xsl:template match="Settlement[@id='village_TOHO4_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=uz57gbic}Monou</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_TOHO4_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=I7PkmB8a}Yokoura</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_TOHO4_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=7rgGkG5A}Hagihama</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_TOHO5']">
@@ -3726,19 +3726,19 @@
     <xsl:template match="Settlement[@id='village_TOHO5_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=mv5V2ut6}Fukiura</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_TOHO5_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=HYWVIvb5}Kamegasaki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_TOHO5_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=hMUcPr79}Dewa-Ōura</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_TOHO6']">
@@ -3750,19 +3750,19 @@
     <xsl:template match="Settlement[@id='village_TOHO6_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=31TCIXhh}Wakimoto</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_TOHO6_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=74v8alVP}Akitanada</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_TOHO6_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=H1j9IJpL}Toshima</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_TOHO7']">
@@ -3774,19 +3774,19 @@
     <xsl:template match="Settlement[@id='village_TOHO7_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=REnRF8j7}Okuze</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_TOHO7_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=g5nOB4NF}Tonai</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_TOHO7_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=JD0A5H5Z}Tago</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_TOHO8']">
@@ -3798,19 +3798,19 @@
     <xsl:template match="Settlement[@id='village_TOHO8_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=PUlURumW}Minmaya</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_TOHO8_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=fBj65a4D}Isomatsu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='village_TOHO8_3']">
         <xsl:copy>
             <xsl:attribute name='name'>{=1SYbPUL2}Ushiogata</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO1']">
@@ -3821,13 +3821,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO1_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=bQNPHfvT}Sekishiba</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO1_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=QaEH7Dir}Funaoka</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO2']">
@@ -3838,13 +3838,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO2_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=0nigus9o}Shirotsu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO2_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=DYJqFlFJ}Inawashiro</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO3']">
@@ -3855,13 +3855,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO3_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=PyJrv2Zi}Adachi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO3_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=6EjtiE1h}Nihonmatsu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO4']">
@@ -3872,13 +3872,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO4_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=umB4cBex}Tamura</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO4_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=YJwLUC98}Kōriyama</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO5']">
@@ -3889,13 +3889,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO5_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=Epzs9bvB}Asaka</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO5_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=gJ8oFcbF}Iwase</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO6']">
@@ -3906,13 +3906,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO6_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=uJ6CdWHi}Shirado</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO6_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=7Hq10uGX}Funao</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO7']">
@@ -3923,13 +3923,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO7_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=i3yQgaJa}Kusano</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO7_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=QF5ogRWa}Odaka</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO8']">
@@ -3940,13 +3940,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO8_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=C2H4DaQK}Kakeda</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO8_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=6lW35QHG}Nakamuta</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO9']">
@@ -3957,13 +3957,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO9_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=QOPgjGHV}Nishiyama</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO9_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=bD7XR9fp}Marumori</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO10']">
@@ -3974,13 +3974,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO10_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=FXqfnZn9}Sakatsuda</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO10_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=ZwoRpuj0}Watari</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO11']">
@@ -3991,13 +3991,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO11_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=bK3dj8lF}Shiraiwa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO11_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=gBu1s21m}Aterazawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO12']">
@@ -4008,13 +4008,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO12_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=OMLWJ5Fr}Shiogama</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO12_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=vsV1qXqp}Sendai</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO13']">
@@ -4025,13 +4025,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO13_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=FvBaL0TE}Ōhira</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO13_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=5avzU4Vd}Kurokawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO14']">
@@ -4042,13 +4042,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO14_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=76tvhW5p}Ichikuri</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO14_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=Z4W1hXLz}Isoda</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO15']">
@@ -4059,13 +4059,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO15_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=wqtco3R9}Miyazawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO15_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=WyzxYdII}Furukawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO16']">
@@ -4076,13 +4076,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO16_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=nWaehi3F}Sanuma</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO16_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=hodlaZbm}Matsuzaki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO17']">
@@ -4093,13 +4093,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO17_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=9FV8t8dZ}Obanazawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO17_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=pJZ7r6bs}Nobesawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO18']">
@@ -4110,13 +4110,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO18_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=Zofovajl}Kisakata</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO18_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=UKEAbrPY}Niwatsuki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO19']">
@@ -4127,13 +4127,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO19_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=f0FDBBf2}Akouzu</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO19_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=ocaoj1QX}Konoura</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO20']">
@@ -4144,13 +4144,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO20_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=vjlhfzst}Iwasaki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO20_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=1soJweIO}Yuzawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO21']">
@@ -4161,13 +4161,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO21_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=Izs9VpaL}Inooka</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO21_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=6gi0UGoC}Nabekura</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO22']">
@@ -4178,13 +4178,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO22_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=BONgbdKq}Karakuwa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO22_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=hEKTynbL}Kesennuma</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO23']">
@@ -4195,13 +4195,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO23_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=7CRT9rFq}Tōno</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO23_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=7wjzzonU}Ōtsuchi</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO24']">
@@ -4212,13 +4212,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO24_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=UogO5FoZ}Takusari</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO24_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=5c3BJNVM}Miyako</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO25']">
@@ -4229,13 +4229,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO25_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=pbXTKvQy}Kozukata</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO25_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=AzsAhFFD}Toyagasaki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO26']">
@@ -4246,13 +4246,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO26_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=FVZd8Tl0}Naraoka</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO26_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=o9liYcr7}Tomaki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO27']">
@@ -4263,13 +4263,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO27_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=YxF2cu41}Noshiro</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO27_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=0V9ZvruS}Yonaizawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO28']">
@@ -4280,13 +4280,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO28_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=uces05JF}Hanaoka</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO28_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=YlXMYatL}Sugisawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO29']">
@@ -4297,13 +4297,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO29_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=QZ9ZAS3I}Jouhou-ji</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO29_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=kcAqbMj0}Kuzumaki</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO30']">
@@ -4314,13 +4314,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO30_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=IrLmW3mx}Kuji</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO30_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=uk7bwWFE}Tamagawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO31']">
@@ -4331,13 +4331,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO31_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=REnRF8j7}Okuze</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO31_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=pAmrC57D}Hachinohe</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO32']">
@@ -4348,13 +4348,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO32_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=j8k6HP7X}Yokohama</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO32_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=aUExdpE1}Nobeji</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO33']">
@@ -4365,13 +4365,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO33_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=0gDY3o31}Ajigasawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO33_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=2YQh9dGU}Itchouda</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO34']">
@@ -4382,13 +4382,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO34_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=EUW4qdGe}Aburakawa</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO34_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=hXqRZVEA}Hirota</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_TOHO35']">
@@ -4399,13 +4399,13 @@
     <xsl:template match="Settlement[@id='castle_village_TOHO35_1']">
         <xsl:copy>
             <xsl:attribute name='name'>{=w65n9Jva}Ōhata</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_village_TOHO35_2']">
         <xsl:copy>
             <xsl:attribute name='name'>{=I64Wuxzl}Tanabe</xsl:attribute>
-            <xsl:attribute name='text'>{=KEX5sbP0}REPLACE_DESCRIPTION</xsl:attribute>            
+                    
         </xsl:copy>
     </xsl:template>
     <xsl:template match="Settlement[@id='hideout_1']">

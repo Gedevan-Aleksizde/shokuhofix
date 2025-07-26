@@ -14,27 +14,27 @@
 	</xsl:template>
 	<xsl:template match="Culture[@id='saikai']/clan_names">
 			<xsl:copy>
-			<name><xsl:attribute name="name">{=ZdBXMo7L}Akizuki</xsl:attribute></name>
-			<name><xsl:attribute name="name">{=46fsk7gw}Asou</xsl:attribute></name>
-			<name><xsl:attribute name="name">{=JWeFzVlO}Nuki</xsl:attribute></name>
-			<name><xsl:attribute name="name">{=pwYAuMyG}Katsuki</xsl:attribute></name>
-			<name><xsl:attribute name="name">{=YgTsZMc0}Kuroki</xsl:attribute></name>
-			<name><xsl:attribute name="name">{=i3yQgaJa}Kusano</xsl:attribute></name>
-			<name><xsl:attribute name="name">{=UeORdILD}Chikushi</xsl:attribute></name>
-			<name><xsl:attribute name="name">{=KssObQt2}Saigou</xsl:attribute></name>
-			<name><xsl:attribute name="name">{=VSE45J5r}Shiga</xsl:attribute></name>
-			<name><xsl:attribute name="name">{=JkFrZzdM}Kamata</xsl:attribute></name>
-			<name><xsl:attribute name="name">{=0QTdZKo2}Moji</xsl:attribute></name>
-			<name><xsl:attribute name="name">{=p0krwhS7}Himeno</xsl:attribute></name>
-			<name><xsl:attribute name="name">{=TztBu7HI}Shibue</xsl:attribute></name>
-			<name><xsl:attribute name="name">{=ac95GhXU}Shisa</xsl:attribute></name>
-			<name><xsl:attribute name="name">{=pdwy8MTC}Mitai</xsl:attribute></name>
-			<name><xsl:attribute name="name">{=gWlW80aW}Fukabori</xsl:attribute></name>
-			<name><xsl:attribute name="name">{=Ie9Vn818}Akahoshi</xsl:attribute></name>
-			<name><xsl:attribute name="name">{=uboP42ci}Ijichi</xsl:attribute></name>
-			<name><xsl:attribute name="name">{=AuwGwWpz}Hishikari</xsl:attribute></name>
-			<name><xsl:attribute name="name">{=ADarelik}Shikine</xsl:attribute></name>
-			<name><xsl:attribute name="name">{=ZdBXMo7L}Akizuki</xsl:attribute></name>
+				<name><xsl:attribute name="name">{=ZdBXMo7L}Akizuki</xsl:attribute></name>
+				<name><xsl:attribute name="name">{=46fsk7gw}Asou</xsl:attribute></name>
+				<name><xsl:attribute name="name">{=JWeFzVlO}Nuki</xsl:attribute></name>
+				<name><xsl:attribute name="name">{=pwYAuMyG}Katsuki</xsl:attribute></name>
+				<name><xsl:attribute name="name">{=YgTsZMc0}Kuroki</xsl:attribute></name>
+				<name><xsl:attribute name="name">{=i3yQgaJa}Kusano</xsl:attribute></name>
+				<name><xsl:attribute name="name">{=UeORdILD}Chikushi</xsl:attribute></name>
+				<name><xsl:attribute name="name">{=KssObQt2}Saigou</xsl:attribute></name>
+				<name><xsl:attribute name="name">{=VSE45J5r}Shiga</xsl:attribute></name>
+				<name><xsl:attribute name="name">{=JkFrZzdM}Kamata</xsl:attribute></name>
+				<name><xsl:attribute name="name">{=0QTdZKo2}Moji</xsl:attribute></name>
+				<name><xsl:attribute name="name">{=p0krwhS7}Himeno</xsl:attribute></name>
+				<name><xsl:attribute name="name">{=TztBu7HI}Shibue</xsl:attribute></name>
+				<name><xsl:attribute name="name">{=ac95GhXU}Shisa</xsl:attribute></name>
+				<name><xsl:attribute name="name">{=pdwy8MTC}Mitai</xsl:attribute></name>
+				<name><xsl:attribute name="name">{=gWlW80aW}Fukabori</xsl:attribute></name>
+				<name><xsl:attribute name="name">{=Ie9Vn818}Akahoshi</xsl:attribute></name>
+				<name><xsl:attribute name="name">{=uboP42ci}Ijichi</xsl:attribute></name>
+				<name><xsl:attribute name="name">{=AuwGwWpz}Hishikari</xsl:attribute></name>
+				<name><xsl:attribute name="name">{=ADarelik}Shikine</xsl:attribute></name>
+				<name><xsl:attribute name="name">{=ZdBXMo7L}Akizuki</xsl:attribute></name>
 			</xsl:copy>
 	</xsl:template>
 
