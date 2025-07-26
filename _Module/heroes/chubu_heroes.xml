@@ -52,7 +52,7 @@
 	<Hero id="lord_1_uchigashima_1" faction="Faction.clan_uchigashima_1" spouse="Hero.lord_1_uchigashima" text="{=ZAVB59DI}Uchigashima Tsune"/>
 	<Hero id="dead_lord_1_uchigashima_2" alive="false" faction="Faction.clan_uchigashima_1" spouse="Hero.dead_lord_1_uchigashima_3" text="{=x5bCceO3}Uchigashima Ujitoshi"/>
 	<Hero id="dead_lord_1_uchigashima_3" alive="false" faction="Faction.clan_uchigashima_1" spouse="Hero.dead_lord_1_uchigashima_2" text="{=0wP2NHjx}Uchigashima Shinko-in"/>
-	<Hero id="lord_1_uchigashima_4" faction="Faction.clan_uchigashima_1" father="Hero.lord_1_uchigashima" mother="Hero.lord_1_uchigashima_1" text="{=BFpJOH9B}Uchigashima Ujiyuji"/>
+	<Hero id="lord_1_uchigashima_4" faction="Faction.clan_uchigashima_1" father="Hero.lord_1_uchigashima" mother="Hero.lord_1_uchigashima_1" text="{=BFpJOH9B}Uchigashima Ujiyuki"/>
 	<Hero id="lord_1_uchigashima_5" faction="Faction.clan_uchigashima_1" father="Hero.lord_1_uchigashima" mother="Hero.lord_1_uchigashima_1" text="{=oWMNADvQ}Uchigashima Chise"/>
 	<Hero id="lord_1_uchigashima_6" faction="Faction.clan_uchigashima_1" father="Hero.dead_lord_1_uchigashima_2" mother="Hero.dead_lord_1_uchigashima_3" text="{=VkHrE7QN}Uchigashima Ujinori"/>
 	<Hero id="lord_1_uchigashima_7" faction="Faction.clan_uchigashima_1" father="Hero.dead_lord_1_uchigashima_2" mother="Hero.dead_lord_1_uchigashima_3" text="{=8Njl5F1v}Uchigashima Ujifusa"/>
