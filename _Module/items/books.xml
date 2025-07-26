@@ -66,7 +66,7 @@
 
 
     </Item>
-    <Item id="book_8" name="{=qQ5Qe8Wa}Sharaishiki" mesh="sho_book_a_1" item_category="sho_book" is_merchandise="false" value="48000" weight="1" Type="Book">
+    <Item id="book_8" name="{=qQ5Qe8Wa}Jaraishiki" mesh="sho_book_a_1" item_category="sho_book" is_merchandise="false" value="48000" weight="1" Type="Book">
 
 
     </Item>

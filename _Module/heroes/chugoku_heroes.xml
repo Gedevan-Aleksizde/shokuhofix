@@ -10,7 +10,7 @@
 	<Hero id="lord_1_mori_1"
 		  faction="Faction.clan_mori_1"
 		  spouse="Hero.lord_1_mori_2"
-		  text="{=F3032095}Mouri Motonari (毛利元就), born as Shoujumaru (松壽丸), identified himself as Ōe Jibunoshou (大江治部少輔), the root clan of Mouri. He was born in a family of a minor local lord, and his parents died in his young. In this era, such local minor lords are forced to be involved in power and succession struggles with relatives, and also in diplomacy with neighboring major daimyos appointed by Imperial Court in Kyōto. Starting his career to get back his land and castle, which was taken by his uncle, Motonari is finally took almost the whole of the San'you and San'in regions, which were dominated by daimyos that he once flattered,  by merging many minor and larger clans. Definitely, he is one of the greatest strategists and diplomats during this period." />
+		  text="{=F3032095}Mouri Motonari (毛利元就), born as Shoujumaru (松壽丸), identified himself as Ōe Jibunoshou (大江治部少輔), named from the root clan of Mouri. He was born in a family of a minor local lord, and his parents died in his young. In this era, such local minor lords are forced to be involved in power and succession struggles with relatives, and also in diplomacy with neighboring major daimyos appointed by Imperial Court in Kyōto. Starting his career to get back his land and castle, which was taken by his uncle, Motonari is finally took almost the whole of the San'you and San'in regions, which were dominated by daimyos that he once flattered,  by merging many minor and larger clans. Definitely, he is one of the greatest strategists and diplomats during this period." />
 	<Hero id="lord_1_mori_2"
 		  alive="false"
 		  faction="Faction.clan_mori_1"

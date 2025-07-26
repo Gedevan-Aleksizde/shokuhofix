@@ -38,7 +38,7 @@
   <Book id="book_7" item="Item.book_7" length="160" rarity="unique" desc="{=YDassFgV}A scroll depicting the techniques of Houzouin-ryū school, a spear martial arts specialised in the use of the Jūmonji sickle spear to enable diverse offensive and defensive techniques." addFreeFocus="true">
     <Benefit skill="Skill.Polearm" exp="45000" finalExp="4500" addFocus="true"/>
   </Book>
-  <!--Sharaishiki-->
+  <!--Jaraishiki-->
   <Book id="book_8" item="Item.book_8" length="118" rarity="rare" desc="{=IUww3Wm5}A book written by Ogasawara Mochinaga, master of archery for Shogun Ashikaga Yoshinori, that explains how to handle the bow and what to do when it is broken." addFreeFocus="false">
     <Benefit skill="Skill.Bow" exp="29000" finalExp="3000" addFocus="true"/>
   </Book>

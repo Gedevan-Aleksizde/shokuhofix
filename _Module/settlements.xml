@@ -786,7 +786,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_CHU12" name="{=nag3Cuo5}Niitakayama Castle" owner="Faction.clan_kobayakawa_1" posX="626.517" posY="558.746" culture="Culture.sanyo" gate_posX="625.0101" gate_posY="557.2898">
+  <Settlement id="castle_CHU12" name="{=nag3Cuo5}Nītakayama Castle" owner="Faction.clan_kobayakawa_1" posX="626.517" posY="558.746" culture="Culture.sanyo" gate_posX="625.0101" gate_posY="557.2898">
     <Components>
       <Town id="castle_comp_CHU12" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="986"/>
     </Components>
@@ -832,7 +832,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_CHU13_1" name="{=uyVTNrO8}Tsuarjima" posX="652.903" posY="547.659" culture="Culture.sanyo" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_CHU13_1" name="{=uyVTNrO8}Tsurajima" posX="652.903" posY="547.659" culture="Culture.sanyo" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_CHU13_1" village_type="VillageType.logger" hearth="200" gate_rotation="0.008" bound="Settlement.castle_CHU13" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -953,7 +953,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_CHU16_2" name="{=04PwDqo1}Kara" posX="702.98" posY="672.833" culture="Culture.sanyo" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_CHU16_2" name="{=04PwDqo1}Karo" posX="702.98" posY="672.833" culture="Culture.sanyo" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_CHU16_2" village_type="VillageType.vegetable_farm" hearth="200" gate_rotation="0.008" bound="Settlement.castle_CHU16" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
