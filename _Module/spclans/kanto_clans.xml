@@ -18,7 +18,7 @@
 	<!--Satomi Faction-->
 	<Faction id="clan_satomi_1" is_noble="true" name="{=UOfUWQw6}Satomi-shi" tier="5" owner="Hero.lord_1_satomi" culture="Culture.kanto" super_faction="Kingdom.satomi" banner_key="11.163.166.1528.1528.764.764.1.0.0.733.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_masaki_1" is_noble="true" name="{=O1t78okp}Masaki-shi" tier="4" owner="Hero.lord_1_masaki" culture="Culture.kanto" super_faction="Kingdom.satomi" banner_key="11.163.166.1528.1528.764.764.1.0.0.734.171.171.483.483.764.764.0.0.0"/>
-	<Faction id="clan_sakai_2" is_noble="true" name="{=8ARCCCRo}Sakai-shi" tier="3" owner="Hero.lord_2_sakai" culture="Culture.kanto" super_faction="Kingdom.satomi" banner_key="11.163.166.1528.1528.764.764.1.0.0.617.171.171.483.483.764.764.0.0.0"/>
+	<Faction id="clan_sakai_2" is_noble="true" name="Toke-Sakai-shi" tier="3" owner="Hero.lord_2_sakai" culture="Culture.kanto" super_faction="Kingdom.satomi" banner_key="11.163.166.1528.1528.764.764.1.0.0.617.171.171.483.483.764.764.0.0.0"/>
 	<!--Utsunomiya Faction-->
 	<Faction id="clan_utsunomiya_1" is_noble="true" name="{=2u6WvxxW}Utsunomiya-shi" tier="5" owner="Hero.lord_1_utsunomiya" culture="Culture.kanto" super_faction="Kingdom.utsunomiya" banner_key="11.163.166.1528.1528.764.764.1.0.0.617.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_haga_1" is_noble="true" name="{=9zQ8kYAR}Haga-shi" tier="4" owner="Hero.lord_1_haga" culture="Culture.kanto" super_faction="Kingdom.utsunomiya" banner_key="11.163.166.1528.1528.764.764.1.0.0.617.171.171.483.483.764.764.0.0.0"/>

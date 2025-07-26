@@ -18,7 +18,7 @@
 <Faction id="clan_honganji_1" is_noble="true" name="{=xRnrOdTc}Honganji-shi" tier="4" owner="Hero.lord_1_honganji" culture="Culture.kinai" super_faction="Kingdom.ikko_shu" banner_key="11.163.166.1528.1528.764.764.1.0.0.659.171.171.483.483.764.764.0.0.0"/>
 <Faction id="clan_ganshoji_1" is_noble="true" name="{=Hkaz0M4C}Ganshouji-shi" tier="3" owner="Hero.lord_1_ganshoji" culture="Culture.kinai" super_faction="Kingdom.ikko_shu" banner_key="11.163.166.1528.1528.764.764.1.0.0.660.171.171.483.483.764.764.0.0.0"/>
 <!-- Hatakeyama Faction -->
-<Faction id="clan_hatakeyama_1" is_noble="true" name="{=lx34RrxX}Hatakeyama-shi" tier="6" owner="Hero.lord_1_hatakeyama" culture="Culture.kinai" super_faction="Kingdom.hatakeyama" banner_key="11.163.166.1528.1528.764.764.1.0.0.661.171.171.483.483.764.764.0.0.0"/>
+<Faction id="clan_hatakeyama_1" is_noble="true" name="{=lx34RrxX}Noto-Hatakeyama-shi" tier="6" owner="Hero.lord_1_hatakeyama" culture="Culture.kinai" super_faction="Kingdom.hatakeyama" banner_key="11.163.166.1528.1528.764.764.1.0.0.661.171.171.483.483.764.764.0.0.0"/>
 <Faction id="clan_yasumi_1" is_noble="true" name="{=99Mh6vBQ}Yasumi-shi" tier="4" owner="Hero.lord_1_yasumi" culture="Culture.kinai" super_faction="Kingdom.hatakeyama" banner_key="11.163.166.1528.1528.764.764.1.0.0.662.171.171.483.483.764.764.0.0.0"/>
 <Faction id="clan_yukawa_1" is_noble="true" name="{=ikViyOmi}Yukawa-shi" tier="3" owner="Hero.lord_1_yukawa" culture="Culture.kinai" super_faction="Kingdom.hatakeyama" banner_key="11.163.166.1528.1528.764.764.1.0.0.678.171.171.483.483.764.764.0.0.0"/>
 <!-- Rokkaku Faction -->

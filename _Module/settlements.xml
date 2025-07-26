@@ -1771,7 +1771,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_CHUB2" name="{=kePZsN6S}Fuchū Castle" owner="Faction.clan_yamazaki_1" posX="953.842" posY="706.263" culture="Culture.hokuriku" gate_posX="951.7618" gate_posY="706.0095">
+  <Settlement id="castle_CHUB2" name="Echizen-Fuchū Castle" owner="Faction.clan_yamazaki_1" posX="953.842" posY="706.263" culture="Culture.hokuriku" gate_posX="951.7618" gate_posY="706.0095">
     <Components>
       <Town id="castle_comp_CHUB2" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="731"/>
     </Components>
@@ -4636,7 +4636,7 @@
       <Area type="Waterfront" name="{=MAusOuPK}Waterfront"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_KIN7_1" name="{=Z6IR3pmc}Nagahama" posX="968.881" posY="663.387" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="village_KIN7_1" name="Imahama" posX="968.881" posY="663.387" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="village_comp_KIN7_1" village_type="VillageType.logger" hearth="200" gate_rotation="0.008" bound="Settlement.town_KIN7" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -7703,7 +7703,7 @@
       <Location id="prison" scene_name="sho_prison_a"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_SHI2_1" name="{=Z6IR3pmc}Nagahama" posX="546.757" posY="435.274" culture="Culture.nankai" text="{=vEYNurYp}No Description">
+  <Settlement id="castle_village_SHI2_1" name="Iyo-Nagahama" posX="546.757" posY="435.274" culture="Culture.nankai" text="{=vEYNurYp}No Description">
     <Components>
       <Village id="castle_village_comp_SHI2_1" village_type="VillageType.dye_farm" hearth="100" gate_rotation="0.000" bound="Settlement.castle_SHI2" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -8053,7 +8053,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_TOHO1" name="{=5avzU4Vd}Kurokawa" owner="Faction.clan_ashina_1" posX="1355.986" posY="927.764" culture="Culture.ou" gate_posX="1357.668" gate_posY="930.7212" text="{=eIQDsF1J}The castle town of Kurokawa was built by the Ashina clan as its seat in the southernmost part of Ōu region, an isolated area that ensured that Kurokawa could grow while avoiding the worst of the conflicts between neighbouring lords.">
+  <Settlement id="town_TOHO1" name="Aizu-Kurokawa" owner="Faction.clan_ashina_1" posX="1355.986" posY="927.764" culture="Culture.ou" gate_posX="1357.668" gate_posY="930.7212" text="{=eIQDsF1J}The castle town of Kurokawa was built by the Ashina clan as its seat in the southernmost part of Ōu region, an isolated area that ensured that Kurokawa could grow while avoiding the worst of the conflicts between neighbouring lords.">
     <Components>
       <Town id="town_comp_TOHO1" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="1120"/>
     </Components>
