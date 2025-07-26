@@ -8,8 +8,10 @@
 	<xsl:template match="Culture[@id='lord_1_asakura']/@name" ><xsl:attribute name="name">{=gVZxlFB4}Ashigaru</xsl:attribute></xsl:template>
 	<xsl:template match="Culture[@id='saikai']">
 		<xsl:copy>
+			<xsl:apply-templates select="@*"/>
 			<xsl:attribute name='name'>{=XM9EPZDi}Saikai</xsl:attribute>
 			<xsl:attribute name='text'>{=BTSZWScx}The Saikai people hail from the westernmost region of Japan, encompassing the island of Kyūshū, which is closer to the Asian mainland than the shogunal capital and its power struggles. Thanks to their unique position, the Saikai have grown into expert seafarers and merchants with longstanding trade relations with China and Korea, and most recently with the newly come nanban foreigners who provide the Saikai with easier access to Western firearms. Yet not all the Saikai embrace trade as their call, as many take to the sea as pirates to plunder the rich trade routes, while the local lords battle to preserve their autonomy from any central authority.</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
 	<xsl:template match="Culture[@id='saikai']/clan_names">
@@ -40,8 +42,10 @@
 
 	<xsl:template match="Culture[@id='nankai']">
 		<xsl:copy>
+			<xsl:apply-templates select="@*"/>
 			<xsl:attribute name='name'>{=DEmMv6H8}Nankai</xsl:attribute>
 			<xsl:attribute name='text'>{=Da97C2Ky}The Nankai people dwell on the mountainous islands of Awaji and Shikoku. Despite being skilled seafarers, the Nankai have developed a strong identity and deep attachment to their homeland which they cultivate with dedication and reverence yielding much more than the average harvest. On the other hand, Nankai have grown isolated and suspicious of the denizens of the other regions, leading them to focus more on the defense of their hometowns and their people.</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
 	<xsl:template match="Culture[@id='nankai']/clan_names">
@@ -65,8 +69,10 @@
 	</xsl:template>
 	<xsl:template match="Culture[@id='sanyo']">
 		<xsl:copy>
+			<xsl:apply-templates select="@*"/>
 			<xsl:attribute name='name'>{=NFOJEwiL}San'you</xsl:attribute>
 			<xsl:attribute name='text'>{=OOBz6uxY}The San'you people are native to the westernmost region of Honshū, whose challenging and mountainous terrain has driven them towards the coast, making the San'yo expert sailors who navigate the seas of Japan with ease and great agility. Thanks to their renowned maritime prowess, the San'yo home region has turned into a major trade hub, with large port cities such as Onomichi flourishing and yielding large tax revenues.</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
 	<xsl:template match="Culture[@id='sanyo']/clan_names">
@@ -95,8 +101,10 @@
 	</xsl:template>
 	<xsl:template match="Culture[@id='kinai']">
 		<xsl:copy>
+			<xsl:apply-templates select="@*"/>
 			<xsl:attribute name='name'>{=Rsom7ttN}Kinai</xsl:attribute>
 			<xsl:attribute name='text'>{=2FMOGwys}The Kinki people reside in the central part of Honshū representing the cultural, economic, and political heart of Japan. The direct heirs of the potentates who once ruled over the entire country, the Kinki benefit from the power structures left behind by their forebears, making it easier for them to consolidate their control over the different regions of Japan. The poetic tradition that flourished around Kyoto contributes to a growing renown of victorious warlords who emulate the deeds of legendary heroes. Nevertheless, years of armed clashes and political scheming for power make it consistently difficult for the Kinki lords to put aside their differences and unite against a common enemy." tournament_master="NPCCharacter.tournament_master_saikai</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
 	<xsl:template match="Culture[@id='kinai']/clan_names">
@@ -126,8 +134,10 @@
 
 	<xsl:template match="Culture[@id='hokuriku']">
 		<xsl:copy>
+			<xsl:apply-templates select="@*"/>
 			<xsl:attribute name='name'>{=wIaHKYMr}Hokuriku</xsl:attribute>
 			<xsl:attribute name='text'>{=vNsphaDa}The Hokuriku people reside in the strategically vital mountain passes and fertile coastal plains of northern Honshū that have long been targeted by neighboring warlords to control their key position. Over time, the Hokuriku have developed exceptional skills in defending their territory, often bolstering their ranks with warrior monks thanks to their proximity to powerful Buddhist temples. However, the internal stability of the region is increasingly threatened by the rise of the Jōdo Shinshū Buddhist sect that is gaining popularity among the Hokuriku and the Ikkou Ikki rebels, whose fervor and uprisings challenge the traditional power structures.</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
 	<xsl:template match="Culture[@id='hokuriku']/clan_names">
@@ -157,8 +167,10 @@
 
 	<xsl:template match="Culture[@id='tosan']">
 		<xsl:copy>
+			<xsl:apply-templates select="@*"/>
 			<xsl:attribute name='name'>{=Z1qR2REA}Tousan</xsl:attribute>
 			<xsl:attribute name='text'>{=Sux6Gaed}The people of Tousan reside in a region characterized by rugged mountainous terrain, which almost completely cuts off the local communities from the rest of the country, who have long become self-sufficient in order to survive the harsh climate. The Tousan have mastered the adverse terrain they traverse with surprising ease to reach timber and mineral deposits, and have developed a subsistence economy around the villages in the fertile valleys that allows them to sustain minimal growth and some excellences such as the renowned horses of the Kiso Valley.</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
 	<xsl:template match="Culture[@id='tosan']/clan_names">
@@ -188,8 +200,10 @@
 
 	<xsl:template match="Culture[@id='tokai']">
 		<xsl:copy>
+			<xsl:apply-templates select="@*"/>
 			<xsl:attribute name='name'>{=701yWNGe}Toukai</xsl:attribute>
 			<xsl:attribute name='text'>{=PJnJuW3o}The Toukai people hail from the fertile lowlands and coastlines of central-southern Honshū, which serves as the ideal boundary between west and east of the country. This has led the Toukai to develop a highly rural society based around sprawling village communities, while urban centers are limited to relatively small settlements unable to compete with the thriving towns of the rest of Japan. Despite the seemingly idyllic setting, such a strategic position makes the region a target for ambitious neighbours, and the Toukai have learnt the imperative of remaining united in arms in the face of external threats much longer than most normally would.</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
 	<xsl:template match="Culture[@id='tokai']/clan_names">
@@ -219,8 +233,10 @@
 
 	<xsl:template match="Culture[@id='kanto']">
 		<xsl:copy>
+			<xsl:apply-templates select="@*"/>
 			<xsl:attribute name='name'>{=JSiAyodh}Kantou</xsl:attribute>
 			<xsl:attribute name='text'>{=y6BfVZul}The people of Kantou, the spiritual homeland of the samurai class, live in a predominantly flat region that is perfect for extensive agriculture and the breeding of its renowned battle steeds, which yield abundant harvests and allow Kantou to field and maintain cavalry forces more easily. Imbued with the secular martial tradition in which they have their roots, the lords of Kantou can more easily raise large armies to face their enemies, but their great emphasis on military preparedness makes it more expensive to pay the wages of their soldiers.</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
 	<xsl:template match="Culture[@id='kanto']/clan_names">
@@ -250,8 +266,10 @@
 
 	<xsl:template match="Culture[@id='ou']">
 		<xsl:copy>
+			<xsl:apply-templates select="@*"/>
 			<xsl:attribute name='name'>{=OFkIDiZT}Ouu</xsl:attribute>
 			<xsl:attribute name='text'>{=kc0qT7ks}The Ouu people, native to the harsh, snow-covered lands of northern Honshū, have adapted to their frosty environment with remarkable resilience. Skilled in traversing snowy terrain, the Ouu navigate blizzards and icy conditions with ease, moving swiftly where others would struggle, and are accustomed to strict rationing when foraging is not possible, allowing them to endure longer in the snowy wastelands. However, the relentless winters take their toll, and their remote and rugged villages struggle to grow as rapidly as those in more temperate regions, limiting their expansion and development.</xsl:attribute>
+			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
 	<xsl:template match="Culture[@id='ou']/clan_names">

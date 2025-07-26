@@ -5,5 +5,5 @@
             <xsl:apply-templates select="@*|node()"/>
         </xsl:copy>
     </xsl:template>
-    <xsl:template match="Location[@id='postbattle_location_id']/@name" ><xsl:attribute name="name">{=Q47m8zth}Post Battle Location</xsl:attribute></xsl:template> 
+    <xsl:template match="Location[@id='postbattle_location_id']/@name" ><xsl:attribute name="name">{=Q47m8zth}Post Battle Location</xsl:attribute></xsl:template>
 </xsl:stylesheet>
