@@ -178,15 +178,63 @@
   <xsl:template match="Faction[@id='sanzoku']/@name" ><xsl:attribute name="name">{=4S24PmMZ}Sanzoku Mountain Bandits</xsl:attribute></xsl:template> 
   <xsl:template match="Faction[@id='ochimusya']/@name" ><xsl:attribute name="name">{=rW0j3kZA}Ochimusya-gari Manhunters</xsl:attribute></xsl:template> 
   <xsl:template match="Faction[@id='deserters']/@name" ><xsl:attribute name="name">{=Vfsbslpv}Deserters</xsl:attribute></xsl:template> 
-  <xsl:template match="Faction[@id='yamakuguri_shu']/@name" ><xsl:attribute name="name">{=6HH6w5ZG}Yamakuguri-shū</xsl:attribute></xsl:template> 
-  <xsl:template match="Faction[@id='Shiwaku_shu']/@name" ><xsl:attribute name="name">{=ejUONAWz}Shiwaku-shū</xsl:attribute></xsl:template> 
-  <xsl:template match="Faction[@id='tango_kaizoku']/@name" ><xsl:attribute name="name">{=7FYD9CMy}Tango-Kaizoku</xsl:attribute></xsl:template> 
-  <xsl:template match="Faction[@id='saika_shu']/@name" ><xsl:attribute name="name">{=alnKa3Bg}Saika-shū</xsl:attribute></xsl:template> 
-  <xsl:template match="Faction[@id='hakusan_shuto']/@name" ><xsl:attribute name="name">{=GPVvKObz}Hakusan-shūto</xsl:attribute></xsl:template> 
-  <xsl:template match="Faction[@id='katsurayama_shu']/@name" ><xsl:attribute name="name">{=7RJeJS64}Katsurayama-shū</xsl:attribute></xsl:template> 
-  <xsl:template match="Faction[@id='suruga_shu']/@name" ><xsl:attribute name="name">{=TjluN6ig}Suruga-shū</xsl:attribute></xsl:template> 
-  <xsl:template match="Faction[@id='kazama_shu']/@name" ><xsl:attribute name="name">{=qX0hsHoS}Kazama-shū</xsl:attribute></xsl:template> 
-  <xsl:template match="Faction[@id='kurohabaki_shu']/@name" ><xsl:attribute name="name">{=kEoddDyL}Kurohabaki-shū</xsl:attribute></xsl:template> 
+  
+  <xsl:template match="Faction[@id='yamakuguri_shu']">
+    <xsl:copy>
+      <xsl:attribute name='name'>{=6HH6w5ZG}Yamakuguri-shū</xsl:attribute>
+      <xsl:attribute name='text'>{=PLkAXWwi}The Yamakuguri-shū are a mercenary company of mountain priests originating from Mount Kinpo. They act as shinobi to investigate and spy on enemies, and are a competent fighting force.</xsl:attribute>            
+    </xsl:copy>
+  </xsl:template>
+  
+  <xsl:template match="Faction[@id='Shiwaku_shu']">
+    <xsl:copy>
+      <xsl:attribute name='name'>{=ejUONAWz}Shiwaku-shū</xsl:attribute>
+      <xsl:attribute name='text'>{=jnVmfhDo}The Shiwaku-shū are a mercenary company consisting of mainly transport vessels. They have served many clans in their logistical efforts, but are not known for their military prowess.</xsl:attribute>            
+    </xsl:copy>
+  </xsl:template>
+  <xsl:template match="Faction[@id='tango_kaizoku']">
+    <xsl:copy>
+      <xsl:attribute name='name'>{=7FYD9CMy}Tango-Kaizoku</xsl:attribute>
+      <xsl:attribute name='text'>{=Qihoea4H}The Tango-Kaizoku are a mercenary company of pirates with a stronghold in the Tango province. They are one of the biggest pirate factions and boast a fleet of hundreds of ships. Their numbers are something to be feared.</xsl:attribute>            
+    </xsl:copy>
+  </xsl:template>
+  <xsl:template match="Faction[@id='saika_shu']">
+    <xsl:copy>
+      <xsl:attribute name='name'>{=alnKa3Bg}Saika-shū</xsl:attribute>
+      <xsl:attribute name='text'>{=zZCKPklj}The Saika-shū are a mercenary company consisting of teppo troops and jizamurai. They were quick to adopt the use of matchlocks and prove their effectiveness. Now they are known for their accurate and deadly use of guns.</xsl:attribute>            
+    </xsl:copy>
+  </xsl:template>
+  <xsl:template match="Faction[@id='hakusan_shuto']">
+    <xsl:copy>
+      <xsl:attribute name='name'>{=GPVvKObz}Hakusan-shūto</xsl:attribute>
+      <xsl:attribute name='text'>{=XrdlGOOd}The Hakusan-shūto are a mercenary company of warrior monks. They worked closely with the Asakura clan and much of their strength is thanks to them. They come from the Hakusan Heisenji temple, and are a formidable group of warriors.</xsl:attribute>            
+    </xsl:copy>
+  </xsl:template>
+  <xsl:template match="Faction[@id='katsurayama_shu']">
+    <xsl:copy>
+      <xsl:attribute name='name'>{=7RJeJS64}Katsurayama-shū</xsl:attribute>
+      <xsl:attribute name='text'>{=JRiczAx9}The Katsurayama-shū are a mercenary company of former samurai turned monk. They are based on the mountains of Togakushi and Iizuna. They are known for their knowledge of mountain terrain and gun usage.</xsl:attribute>            
+    </xsl:copy>
+  </xsl:template>
+  <xsl:template match="Faction[@id='suruga_shu']">
+    <xsl:copy>
+      <xsl:attribute name='name'>{=TjluN6ig}Suruga-shū</xsl:attribute>
+      <xsl:attribute name='text'>{=U71vvdhm}The Suruga-shū are a mercenary company focused on naval warfare. They are known for logisitcal support in the southern Chubu region.</xsl:attribute>            
+    </xsl:copy>
+  </xsl:template>
+  <xsl:template match="Faction[@id='kazama_shu']">
+    <xsl:copy>
+      <xsl:attribute name='name'>{=qX0hsHoS}Kazama-shū</xsl:attribute>
+      <xsl:attribute name='text'>{=jycPZTp7}The Kazama-shū are a mercenary company focused on espionage and reconnaissance. They have a bad reputation due to their looting and theft, but are effective in combat.</xsl:attribute>            
+    </xsl:copy>
+  </xsl:template>
+  <xsl:template match="Faction[@id='kurohabaki_shu']">
+    <xsl:copy>
+      <xsl:attribute name='name'>{=kEoddDyL}Kurohabaki-shū</xsl:attribute>
+      <xsl:attribute name='text'>{=bgA6na9m}The Kurohabaki-shū are a mercenary company focused on espionage and sabotage. They are known for their unconvential and disruptive tactics.</xsl:attribute>            
+    </xsl:copy>
+  </xsl:template>
+  
   <xsl:template match="Faction[@id='clan_ashina_1']/@name" ><xsl:attribute name="name">{=eC2ASTQN}Ashina-shi</xsl:attribute></xsl:template> 
   <xsl:template match="Faction[@id='clan_inawashiro_1']/@name" ><xsl:attribute name="name">{=fynHJTwu}Inawashiro-shi</xsl:attribute></xsl:template> 
   <xsl:template match="Faction[@id='clan_saze_1']/@name" ><xsl:attribute name="name">{=8FEa2FoG}Saze-shi</xsl:attribute></xsl:template> 
@@ -227,13 +275,5 @@
   <xsl:template match="Faction[@id='clan_asonuma_1']/@name" ><xsl:attribute name="name">{=BMQyxH2f}Asonuma-shi</xsl:attribute></xsl:template> 
   <xsl:template match="Faction[@id='clan_namioka_1']/@name" ><xsl:attribute name="name">{=aArztftR}Namioka-shi</xsl:attribute></xsl:template> 
   
-  <xsl:template match="Faction[@id='yamakuguri_shu']/@text" ><xsl:attribute name="text">{=PLkAXWwi}The Yamakuguri-shū are a mercenary company of mountain priests originating from Mount Kinpo. They act as shinobi to investigate and spy on enemies, and are a competent fighting force.</xsl:attribute></xsl:template> 
-  <xsl:template match="Faction[@id='Shiwaku_shu']/@text" ><xsl:attribute name="text">{=jnVmfhDo}The Shiwaku-shū are a mercenary company consisting of mainly transport vessels. They have served many clans in their logistical efforts, but are not known for their military prowess.</xsl:attribute></xsl:template> 
-  <xsl:template match="Faction[@id='tango_kaizoku']/@text" ><xsl:attribute name="text">{=Qihoea4H}The Tango-Kaizoku are a mercenary company of pirates with a stronghold in the Tango province. They are one of the biggest pirate factions and boast a fleet of hundreds of ships. Their numbers are something to be feared.</xsl:attribute></xsl:template> 
-  <xsl:template match="Faction[@id='saika_shu']/@text" ><xsl:attribute name="text">{=zZCKPklj}The Saika-shū are a mercenary company consisting of teppo troops and jizamurai. They were quick to adopt the use of matchlocks and prove their effectiveness. Now they are known for their accurate and deadly use of guns.</xsl:attribute></xsl:template> 
-  <xsl:template match="Faction[@id='hakusan_shuto']/@text" ><xsl:attribute name="text">{=XrdlGOOd}The Hakusan-shūto are a mercenary company of warrior monks. They worked closely with the Asakura clan and much of their strength is thanks to them. They come from the Hakusan Heisenji temple, and are a formidable group of warriors.</xsl:attribute></xsl:template> 
-  <xsl:template match="Faction[@id='katsurayama_shu']/@text" ><xsl:attribute name="text">{=JRiczAx9}The Katsurayama-shū are a mercenary company of former samurai turned monk. They are based on the mountains of Togakushi and Iizuna. They are known for their knowledge of mountain terrain and gun usage.</xsl:attribute></xsl:template> 
-  <xsl:template match="Faction[@id='suruga_shu']/@text" ><xsl:attribute name="text">{=U71vvdhm}The Suruga-shū are a mercenary company focused on naval warfare. They are known for logisitcal support in the southern Chubu region.</xsl:attribute></xsl:template> 
-  <xsl:template match="Faction[@id='kazama_shu']/@text" ><xsl:attribute name="text">{=jycPZTp7}The Kazama-shū are a mercenary company focused on espionage and reconnaissance. They have a bad reputation due to their looting and theft, but are effective in combat.</xsl:attribute></xsl:template> 
-  <xsl:template match="Faction[@id='kurohabaki_shu']/@text" ><xsl:attribute name="text">{=bgA6na9m}The Kurohabaki-shū are a mercenary company focused on espionage and sabotage. They are known for their unconvential and disruptive tactics.</xsl:attribute></xsl:template> 
+  
 </xsl:stylesheet>
