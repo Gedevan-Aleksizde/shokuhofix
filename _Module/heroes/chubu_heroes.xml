@@ -3,7 +3,7 @@
 	<!--Asakura Faction
 	Asakura Clan-->
 	<Hero id="lord_1_asakura" faction="Faction.clan_asakura_1" spouse="Hero.lord_1_asakura_1" text="{=yAchbdS0}Asakura Yoshikage"/>
-    <Hero id="lord_1_asakura_1" faction="Faction.clan_asakura_1" spouse="Hero.lord_1_asakura" text="{=92Plru2R}Asakura Shoko"/>
+    <Hero id="lord_1_asakura_1" faction="Faction.clan_asakura_1" spouse="Hero.lord_1_asakura" text="{=92Plru2R}Asakura Shouko"/>
 	<Hero id="lord_1_asakura_2" faction="Faction.clan_asakura_1" spouse="Hero.lord_1_asakura_3" text="{=PeZKtHl4}Asakura Kageakira"/>
 	<Hero id="lord_1_asakura_3" faction="Faction.clan_asakura_1" spouse="Hero.lord_1_asakura_2" text="{=10GS8hh6}Asakura Fusako"/>
 	<!--Yamazaki Clan-->

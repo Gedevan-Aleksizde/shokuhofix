@@ -21,7 +21,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_asakura_1" name="{=92Plru2R}Asakura Shoko" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_asakura_1" name="{=92Plru2R}Asakura Shouko" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="28.00" weight="0.5326" build="0.7366" key="0012E40CC00000050E843D3CE1654AB898F3811AE2CB068624E36E79861AA8ED027B86240732668C000000000000000000000000000000000000000038DC1100"/>
     </face>
