@@ -1,0 +1,908 @@
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+	<xsl:output version="1.0" omit-xml-declaration="yes" encoding="UTF-8" indent="yes"/>
+	<xsl:template match="@*|node()">
+		<xsl:copy>
+			<xsl:apply-templates select="@*|node()"/>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="Culture[@id='lord_1_asakura']/@name" ><xsl:attribute name="name">{=gVZxlFB4}Ashigaru</xsl:attribute></xsl:template>
+	<xsl:template match="Culture[@id='saikai']">
+		<xsl:copy>
+			<xsl:attribute name='name'>{=XM9EPZDi}Saikai</xsl:attribute>
+			<xsl:attribute name='text'>{=BTSZWScx}The Saikai people hail from the westernmost region of Japan, encompassing the island of Kyūshū, which is closer to the Asian mainland than the shogunal capital and its power struggles. Thanks to their unique position, the Saikai have grown into expert seafarers and merchants with longstanding trade relations with China and Korea, and most recently with the newly come nanban foreigners who provide the Saikai with easier access to Western firearms. Yet not all the Saikai embrace trade as their call, as many take to the sea as pirates to plunder the rich trade routes, while the local lords battle to preserve their autonomy from any central authority.</xsl:attribute>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="Culture[@id='saikai']/clan_names">
+			<xsl:copy>
+			<name><xsl:attribute name="name">{=ZdBXMo7L}Akizuki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=46fsk7gw}Asou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=JWeFzVlO}Nuki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=pwYAuMyG}Katsuki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=YgTsZMc0}Kuroki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=i3yQgaJa}Kusano</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=UeORdILD}Chikushi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=KssObQt2}Saigou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=VSE45J5r}Shiga</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=JkFrZzdM}Kamata</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=0QTdZKo2}Moji</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=p0krwhS7}Himeno</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=TztBu7HI}Shibue</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ac95GhXU}Shisa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=pdwy8MTC}Mitai</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=gWlW80aW}Fukabori</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Ie9Vn818}Akahoshi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=uboP42ci}Ijichi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=AuwGwWpz}Hishikari</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ADarelik}Shikine</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ZdBXMo7L}Akizuki</xsl:attribute></name>
+			</xsl:copy>
+	</xsl:template>
+
+	<xsl:template match="Culture[@id='nankai']">
+		<xsl:copy>
+			<xsl:attribute name='name'>{=DEmMv6H8}Nankai</xsl:attribute>
+			<xsl:attribute name='text'>{=Da97C2Ky}The Nankai people dwell on the mountainous islands of Awaji and Shikoku. Despite being skilled seafarers, the Nankai have developed a strong identity and deep attachment to their homeland which they cultivate with dedication and reverence yielding much more than the average harvest. On the other hand, Nankai have grown isolated and suspicious of the denizens of the other regions, leading them to focus more on the defense of their hometowns and their people.</xsl:attribute>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="Culture[@id='nankai']/clan_names">
+		<xsl:copy>
+			<name><xsl:attribute name="name">{=tvHNsbSX}Ichimiya</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=sA7HhHFB}Kaifu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Ppt5KaxP}Hayuka</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=gjKusDBC}Sangawa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=XhI0s8qx}Shigemi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=1YztovH5}Kutsuna</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=404D726C}Ōhira</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=FPQpRwnh}Toyonaga</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=gvK789wT}Nara</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=5eaNziO9}Yamada</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=DjV5rjFQ}Kataoka</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=hE9AOZAC}Kaneko</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=aEAoHKyE}Futagami</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=oldI3981}Asa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=BsUY9ZLW}Niu</xsl:attribute></name>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="Culture[@id='sanyo']">
+		<xsl:copy>
+			<xsl:attribute name='name'>{=NFOJEwiL}San'you</xsl:attribute>
+			<xsl:attribute name='text'>{=OOBz6uxY}The San'you people are native to the westernmost region of Honshū, whose challenging and mountainous terrain has driven them towards the coast, making the San'yo expert sailors who navigate the seas of Japan with ease and great agility. Thanks to their renowned maritime prowess, the San'yo home region has turned into a major trade hub, with large port cities such as Onomichi flourishing and yielding large tax revenues.</xsl:attribute>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="Culture[@id='sanyo']/clan_names">
+		<xsl:copy>
+			<name><xsl:attribute name="name">{=MTe8tb9b}Togawa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=kzv0BtxU}Hanafusa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=P1I5mIT8}Shou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=x8A5c8Wk}Nīmi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=KO6lqs1w}Zinzai</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=HnHDgRY0}En'ya</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Kq7WRvBH}Shinji</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=8eBExVTe}Sugihara</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=hY1KrG2x}Hiraga</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Sl3saZgp}Ura</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=OfficN1P}Kodama</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=tPGBJUID}Sugi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=KiR6iXcV}Niho</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=pQS7UiSK}Mitoya</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=dr8GFyIJ}Fukuhara</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=6kg6dx0j}Miya</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=3py6EHDc}Wachi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=R3EGi6FD}Akana</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=RLbLgutH}Shimizu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=zK2a2OoY}Awaya</xsl:attribute></name>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="Culture[@id='kinai']">
+		<xsl:copy>
+			<xsl:attribute name='name'>{=Rsom7ttN}Kinai</xsl:attribute>
+			<xsl:attribute name='text'>{=2FMOGwys}The Kinki people reside in the central part of Honshū representing the cultural, economic, and political heart of Japan. The direct heirs of the potentates who once ruled over the entire country, the Kinki benefit from the power structures left behind by their forebears, making it easier for them to consolidate their control over the different regions of Japan. The poetic tradition that flourished around Kyoto contributes to a growing renown of victorious warlords who emulate the deeds of legendary heroes. Nevertheless, years of armed clashes and political scheming for power make it consistently difficult for the Kinki lords to put aside their differences and unite against a common enemy." tournament_master="NPCCharacter.tournament_master_saikai</xsl:attribute>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="Culture[@id='kinai']/clan_names">
+		<xsl:copy>
+			<name><xsl:attribute name="name">{=JuSWnmm9}Kozukuri</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=TwGHHEo4}Hosono</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=t93lkmYo}Tsuge</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=4ryYW6y1}Ōkouchi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=yMlYRwy8}Akahori</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Z01eNIVq}Takashima</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=jahoJ9Op}Kutsuki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=kJ7GSg2b}Taga</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=DQfBZni2}Tarao</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=0kkYlPDX}Minobe</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=jmMlhdFh}Megata</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=k8yscTyR}Shinjou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=qiAah3xb}Shiomi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=RJSAXUMm}Uzu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=XCr8m7yN}Hosomi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=bxr9GN0j}Hashio</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=gP7ZPOEA}Fuse</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=1lijcoPq}Itami</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=g2tcLbk9}Tamaki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=WepUrVKw}Kakiya</xsl:attribute></name>
+		</xsl:copy>
+	</xsl:template>
+
+	<xsl:template match="Culture[@id='hokuriku']">
+		<xsl:copy>
+			<xsl:attribute name='name'>{=wIaHKYMr}Hokuriku</xsl:attribute>
+			<xsl:attribute name='text'>{=vNsphaDa}The Hokuriku people reside in the strategically vital mountain passes and fertile coastal plains of northern Honshū that have long been targeted by neighboring warlords to control their key position. Over time, the Hokuriku have developed exceptional skills in defending their territory, often bolstering their ranks with warrior monks thanks to their proximity to powerful Buddhist temples. However, the internal stability of the region is increasingly threatened by the rise of the Jōdo Shinshū Buddhist sect that is gaining popularity among the Hokuriku and the Ikkou Ikki rebels, whose fervor and uprisings challenge the traditional power structures.</xsl:attribute>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="Culture[@id='hokuriku']/clan_names">
+		<xsl:copy>
+			<name><xsl:attribute name="name">{=dfGXCBX7}Nakajou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=g1f9NiGl}Kaji</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=SbQU8rIG}Takemata</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ixwubTRf}Hirako</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=AMXQG3Vx}Togashi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=WSr2qrcS}Shida</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=yjW1VPe6}Oguni</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=bcjz1Olb}Nītsu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=8zGZnSvv}Ayukawa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=j3VYrogu}Ōida</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=VFSpSdTs}Isiguro</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=LNL0fpnx}Kuramitsu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=H4V33j6B}Yokoyama</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=sdBWDJQR}Uryū</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=zK2a2OoY}Awaya</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=MzDkJCKE}Ōkuma</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=XXcP53zB}Kamijou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=cTtUz8rk}Amakasu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=HNMqBFKC}Yamayoshi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=IBH0fyiq}Yasuda</xsl:attribute></name>
+		</xsl:copy>
+	</xsl:template>
+
+	<xsl:template match="Culture[@id='tosan']">
+		<xsl:copy>
+			<xsl:attribute name='name'>{=Z1qR2REA}Tousan</xsl:attribute>
+			<xsl:attribute name='text'>{=Sux6Gaed}The people of Tousan reside in a region characterized by rugged mountainous terrain, which almost completely cuts off the local communities from the rest of the country, who have long become self-sufficient in order to survive the harsh climate. The Tousan have mastered the adverse terrain they traverse with surprising ease to reach timber and mineral deposits, and have developed a subsistence economy around the villages in the fertile valleys that allows them to sustain minimal growth and some excellences such as the renowned horses of the Kiso Valley.</xsl:attribute>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="Culture[@id='tosan']/clan_names">
+		<xsl:copy>
+			<name><xsl:attribute name="name">{=Ugk9KYNS}Fujisawa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=BAvYCzuQ}Shimojou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=jdxpV7wS}Mochizuki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=kq6avh9h}Ōi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=gGGTekAP}Yashiro</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=JSR07qWX}Katagiri</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=VZKnCOUM}Osade</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=GfcPzkoQ}Shimosone</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=hBk9SoIe}Sakanishi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=x2WcAdbW}Kurita</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=49gZum2a}Ōhigata</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=tzR6iSFJ}Washimi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=kscN65DH}Fuwa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=NhmrBf5e}Hineno</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=KoUScJZu}Kunieda</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=pDDXXt20}Takekoshi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=yveyAGxB}Marumo</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=yBr808vb}Hirose</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=KYbMt1uP}Iwashita</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=7scrIsjj}Atobe</xsl:attribute></name>
+		</xsl:copy>
+	</xsl:template>
+
+	<xsl:template match="Culture[@id='tokai']">
+		<xsl:copy>
+			<xsl:attribute name='name'>{=701yWNGe}Toukai</xsl:attribute>
+			<xsl:attribute name='text'>{=PJnJuW3o}The Toukai people hail from the fertile lowlands and coastlines of central-southern Honshū, which serves as the ideal boundary between west and east of the country. This has led the Toukai to develop a highly rural society based around sprawling village communities, while urban centers are limited to relatively small settlements unable to compete with the thriving towns of the rest of Japan. Despite the seemingly idyllic setting, such a strategic position makes the region a target for ambitious neighbours, and the Toukai have learnt the imperative of remaining united in arms in the face of external threats much longer than most normally would.</xsl:attribute>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="Culture[@id='tokai']/clan_names">
+		<xsl:copy>
+			<name><xsl:attribute name="name">{=SNAlZ25g}Kamahara</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=s5OF0IgD}Matsushita</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=pX3UiO6u}Okuyama</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=NOdQLGHo}Uemura</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=KzddrTY6}Hiraiwa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=X62QLJ9n}Ōsuga</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=NIElosXN}Inagaki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=FbwQawMP}Itakura</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=zItxWuhw}Saji</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=DYcmhaec}Hirano</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=cKmxbhCS}Maeno</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=dPbbo3wV}Kawajiri</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=eBLaHjSJ}Mizoguchi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=TverdHvf}Tsubouchi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=4sBs4QBv}Horio</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=1VXLYCzS}Hitotsuyanagi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=eOPxRtP0}Hotta</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ymrFRnrW}Koide</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=EuZYLsjt}Kuwayama</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=TctYsNIg}Arao</xsl:attribute></name>
+		</xsl:copy>
+	</xsl:template>
+
+	<xsl:template match="Culture[@id='kanto']">
+		<xsl:copy>
+			<xsl:attribute name='name'>{=JSiAyodh}Kantou</xsl:attribute>
+			<xsl:attribute name='text'>{=y6BfVZul}The people of Kantou, the spiritual homeland of the samurai class, live in a predominantly flat region that is perfect for extensive agriculture and the breeding of its renowned battle steeds, which yield abundant harvests and allow Kantou to field and maintain cavalry forces more easily. Imbued with the secular martial tradition in which they have their roots, the lords of Kantou can more easily raise large armies to face their enemies, but their great emphasis on military preparedness makes it more expensive to pay the wages of their soldiers.</xsl:attribute>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="Culture[@id='kanto']/clan_names">
+		<xsl:copy>
+			<name><xsl:attribute name="name">{=6PgvlbUT}Oyama</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=QO79qs4N}Yamakawa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Mw9s0qdq}Minagawa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=eRxuWdyL}Kimishima</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=DOFQ3gnN}Shishido</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=RGTiMI8a}Sugaya</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=NV5iGpZr}Onozaki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=4OxgVPT4}Oguri</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=IwK2OW0t}Kuragano</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=BuDdh2hN}Annaka</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=D6bCvKQA}Tomioka</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=an9XJN76}Shirai</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=lXZFYdGf}Yanada</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=lYQNsFhs}Kido</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=dfGXCBX7}Nakajou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Y4HcFUBF}Akimoto</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=OBENaFLm}Ōmori</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=9FKbt4zD}Fukaya</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=2AjEhHx1}Mamiya</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=wsJTHUpr}Kajiwara</xsl:attribute></name>
+		</xsl:copy>
+	</xsl:template>
+
+	<xsl:template match="Culture[@id='ou']">
+		<xsl:copy>
+			<xsl:attribute name='name'>{=OFkIDiZT}Ouu</xsl:attribute>
+			<xsl:attribute name='text'>{=kc0qT7ks}The Ouu people, native to the harsh, snow-covered lands of northern Honshū, have adapted to their frosty environment with remarkable resilience. Skilled in traversing snowy terrain, the Ouu navigate blizzards and icy conditions with ease, moving swiftly where others would struggle, and are accustomed to strict rationing when foraging is not possible, allowing them to endure longer in the snowy wastelands. However, the relentless winters take their toll, and their remote and rugged villages struggle to grow as rapidly as those in more temperate regions, limiting their expansion and development.</xsl:attribute>
+		</xsl:copy>
+	</xsl:template>
+	<xsl:template match="Culture[@id='ou']/clan_names">
+		<xsl:copy>
+			<name><xsl:attribute name="name">{=Oob9PIhW}Waga</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Z3cTeGv7}Esashi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=DfPq3ube}Kashiyama</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=LQTvwI1K}Rokugou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Slnm1ecp}Akouzu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=7Wx8qIIZ}Uchikoshi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=09bt9j1U}Yajima</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=kZwk4hVf}Sagae</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=gBu1s21m}Aterazawa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=bK3dj8lF}Shiraiwa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Q0gbHS9t}Higashine</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=C2H4DaQK}Kakeda</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=bs7UCwiP}Anazawa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=B0gvz3h4}Ayugai</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=5CjjZL3Q}Kemanai</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=CQHHJRGn}Hei</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=s0ZxZxKC}Kikegawa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=odRvZoLx}Koiwa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=s0GqNvCm}Yagashiwa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=VHWUBjtv}Hienuki</xsl:attribute></name>
+		</xsl:copy>
+	</xsl:template>
+
+	<!--Duelist Culture-->
+	<xsl:template match="Culture[@id='lord_1_asakura']/@name" ><xsl:attribute name="name">{=fa6D86d4}Duelists</xsl:attribute></xsl:template>
+	<!--Temple Cultures-->
+	<xsl:template match="Culture[@id='lord_1_asakura']/@name" ><xsl:attribute name="name">{=FlooLAMd}Monks</xsl:attribute></xsl:template>
+	<!--Bandit Cultures-->
+	<xsl:template match="Culture[@id='lord_1_asakura']/@name" ><xsl:attribute name="name">{=FguhKirf}Oihagi Looters</xsl:attribute></xsl:template>
+	<xsl:template match="Culture[@id='lord_1_asakura']/@name" ><xsl:attribute name="name">{=mx7L9bFB}Zoku Thieves</xsl:attribute></xsl:template>
+	<xsl:template match="Culture[@id='lord_1_asakura']/@name" ><xsl:attribute name="name">{=sTvDztWN}Yato Bandits</xsl:attribute></xsl:template>
+	<xsl:template match="Culture[@id='lord_1_asakura']/@name" ><xsl:attribute name="name">{=MEQv3Fvs}Wokou Pirates</xsl:attribute></xsl:template>
+	<xsl:template match="Culture[@id='lord_1_asakura']/@name" ><xsl:attribute name="name">{=4S24PmMZ}Sanzoku Mountain Bandits</xsl:attribute></xsl:template>
+	<xsl:template match="Culture[@id='lord_1_asakura']/@name" ><xsl:attribute name="name">{=rW0j3kZA}Ochimusya-gari Manhunters</xsl:attribute></xsl:template>
+	<xsl:template match="Culture[@id='lord_1_asakura']/@name" ><xsl:attribute name="name">{=CKvsb2RB}Japanese</xsl:attribute></xsl:template>
+
+	<xsl:template match="Culture[@id]/male_names">
+			<xsl:copy>
+			<name><xsl:attribute name="name">{=686xcJ5S}Tarou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=xbwRkO5Z}Ichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=0T1OCfRY}Jirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=1187gbgM}Saburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=BN54hR9V}Shirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=OfanclyF}Gorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=9wz88kH7}Rokurou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=pEnQ7qL8}Shichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=BQEJpaKM}Hachirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Zf6pqP1S}Kurou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=F4wYBL82}Jūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=3cTGorVo}Jūsuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=4yJsfsiM}Suketarou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=XBtOokns}Sukejirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=5P5FkBwH}Sukesaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=tubOfaxz}Sukeshirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=3R5j7RYA}Sukegorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Ds3cZg6r}Sukebē</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=nKMOkNFw}Sukezaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=7iiIq9r6}Sukeemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=kD70iJ3J}Shintarou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=fpdWiWfz}Shinichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=A2GoIvbc}Shinjirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Bti8upGR}Sinsaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=OMBLQ8zN}Shingorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=CeFXPZ4y}ShinJūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=8AWswCXB}Shinsuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=u6o96I4Y}Shinnosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=KT8o8D8j}Shinkichi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=QXoI9qum}Shinzou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=l4hS80xv}Shinbē</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=xGgjfTcH}Shinzaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=nP12n3Fs}Shin'emon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=2HEjtotK}Kantarou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ctzwdIKa}Kannichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=nWOBDgpj}Kanjirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=NbvnNk2S}Kanzaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=kN3o6xzR}Kangorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=rtGBo128}Kanjūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=YRDygFj6}Kansuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=cGq2zXGn}Kannosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=2BhHfnxd}Kankichi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=eZOVCTrX}Kanzou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=4Nkceif9}Kanbē</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=nP12n3Fs}Shin'emon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=xGgjfTcH}Shinzaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=pr5IdVlQ}Choutarou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=6get6Y8E}Chouichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=b9VnjeKp}Choujirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ZjsS13ws}Chouzaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=QP1vL1Z5}Chouzgorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=onoKVXjp}Choujūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=8Lqk2NsA}Chousuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=XWldYuhm}Chounosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=q1a85TXt}Choukichi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=QCC1D0p5}Chouzou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=uA1I8WpX}Choubē</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=S34Gm8bG}Chouzaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=7wmjr9N6}Chouemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=FyfAPTam}Yotarou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=5yIPZNOC}Yoichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=lK7DyjrE}Yojirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=MJ1Oqpvu}Yosaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=JNR0uO1t}Yogorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=73ORmCAk}Yojūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ZMYEFBjO}Yosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=EgvAhszY}Yonosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=NC96SIAV}Yokichi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Xr2ZmWZw}Yozou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=29MCqLs8}Yohei</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=RPKbRH8T}Yozaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=FcRcfWZy}Yoemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=DhCSfZzt}Gentarou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=DvyQIA3d}Genichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ItTycCE3}Genjirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=8p1CMJc0}Genzaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=TZVh0WX4}Gengorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=WFx5O7js}Genjūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=cJ2lc6t0}Gensuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=geoBdNT4}Gennosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=m7TQ90rZ}Genzou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=TkJw9Duw}Gennai</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Z1zN5otw}Genbē</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=AbuVBtV8}Genzaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=AtsmKH9M}Gen'emon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=HG9UGvJg}Kotarou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=8kVtgCIk}Koichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=6vARoohf}Kojirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Ak4DXEag}Kosaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=xYhQ9Gab}Kogorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=KFlqyj5C}Kojūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=88kt2fqY}Shoutarou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=lUXZJHsr}Shouichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=yylgHdJi}Shoujirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=WJocHKZm}Shousaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=aoezMSUO}Shougorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=rKb72D2I}Shoujūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=8ZO6U0MK}Shousuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=FKcnKXmS}Shounosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=w3AqbTQs}Shoukichi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=m10TL2CQ}Shouzou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=enQ9CtYF}Shoubē</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=yOuFJRP1}Shouzaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=nitvYEGB}Shouemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=V8VowuPM}Toutarou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=TaQeyQCL}Touichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=qXPONqPW}Toujirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=FZDkXvEM}Tousaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=2z2LglVH}Tougorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=V9bQ7Maa}Toujūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=1QBVd4da}Tousuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=SmVurwZt}Tounosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Wq5qYwL7}Toukichi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=n1btMUnd}Touzou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=wsOx7Udj}Tounai</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ffaLCN8L}Toubē</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=WdoaF6Up}Touzaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=0TrEYRKe}Touemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=cousoQ4k}Mataichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=7GGb9pks}Matajirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Mi6jEdGA}Matasaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=50m6bXju}Matagorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=HEpg6hFQ}Matajūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=EjYlRDvH}Matasuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=irRONE36}Matanosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=XGQmrAxZ}Matakichi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Faecpmvv}Matazou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=hDYNv8cs}Matabē</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=iXpL1lbL}Matazaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=P4kQzauj}Mataemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=5i4ToX51}Tokutaro</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=pMvZ04mm}Tokuichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=INK1MJlR}Tokujirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=jlDVjQnu}Tokusaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=HQ7qfRgD}Tokugorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=clrovKXi}Tokujūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=FQlRLvY9}Tokusuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=CCUwTZYL}Tokunosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=9qQ9evZv}Tokukichi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ijnOHHSh}Tokuzou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=30Z0KoSI}Tokubē</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=lIvG7CnE}Tokuzaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=RdMNMHrY}Tokuemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=U58ZOdQG}Yataro</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ny1aqEL7}Yaichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=k0kehmUu}Yajirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=XKMzktuD}Yasaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=EfW7Ru9p}Yagorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=UUNZapL6}Yajūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=4TAPNSDP}Yasuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=STLLrKL8}Yanosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=fPHEbh56}Yakichi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=dhkBuvlk}Yazou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Nh4tadmB}Yahei</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=u1LJWWKJ}Yazaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=12lLmL2X}Yaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=9CL8y7uV}Magotaro</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=W1Uk2bMW}Magoichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=CpstFlRL}Magojirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=myxmbqU0}Magozaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=BewFYzJe}Magogorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=k2aKue4A}Magojūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Mszofuwe}Magosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=PG1lH9J9}Magonosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=DnJOcAzi}Magokichi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=PM82Pqwb}Magozou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=zIfoLUIX}Magobē</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=TTt1dATj}Magozaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=7nUQ4by7}Magoemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=kISlg1tA}Zenichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=w6XY8Pw4}Zenjirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Qm5bAnQX}Zenzaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Z3BeJBAS}Zengorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=aFnWRxFk}Zenjūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=6xE2RZ7l}Zensuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=XJ9ajAGZ}Zennosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=UhAHri58}Zenkichi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=8dQZUa4y}Zenzou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=WfUZsGO1}Zennai</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=E2TB5J7F}Zenbē</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=cs1H4EqR}Zenzaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=6sEaLkkL}Zen'emon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=i62ROvkh}Kīchiro</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=usXhU7cq}Kizaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=siR5eu2H}Kijūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=rptigya9}Kisuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=JRFFb5Yp}Kinosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=aexJxPzD}Kizou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=5iJKF6OL}Souichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=bOaRvMKu}Soujirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=KOYIX6bo}Souzaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=hQ8J9ehd}Sougorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=WpNXQ2Wg}Soujūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=MSQw9m26}Sousuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=MSA98yTk}Sounosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=BcZmXIib}Soukichi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=FDNTSgX5}Souzou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=QQyFUrjM}Soubē</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=95u0n5Gw}Souzaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=UuJecsoc}Souemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=rC6bGIYr}Jinichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=tUuATMXL}Jinjirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=5CILZ1Mw}Jinzaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=xntsULXS}Jingorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=3kZ6KnLw}Jinjūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=1YstbZrT}Jinsuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ZUSD95RW}Jinnosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=CifluU3w}Jinkichi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=RtC7Igb8}Jinzou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=WYjJfaRF}Jinbē</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=li6FcW6d}Jinzaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=OFRiI1ZH}Jinemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=PT48Pdyv}Hikoichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=qOHD4hmz}Hikojirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=claatCYX}Hikozaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=LVSnchon}Hikogorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Md3I4b9A}Hikojūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=NOhSVuEd}Hikosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=IyWeSdrc}Hikonosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Wz5ivE3j}Hikozou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=4LySx3FC}Hikobē</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=0PkorrCr}Hikozaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=leI5JyG8}Hikoemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=nrW2LLb4}Seiichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=YqIBnGJg}Seijirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=eZf87dj4}Seizaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=CiuuF7Zt}Seigorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Xtf9w0UQ}Seijūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ryPxfNOi}Seisuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=OMsFEksS}Seinosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Bt3wxgJc}Seizou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=qctPhh4n}Seibē</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=iwo72hty}Seizaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=23onjdyq}Seiemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=RP6oIBv1}Sentaro</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=1XiYQZec}Senjirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=PHWNIb1U}Senzaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=aIRIvtzt}Sengorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=jXS4Xyuz}Senjūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=wOXwXos9}Sensuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=o6ipx7CX}Sennosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=GbzQmodT}Senzou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=6HSVwyHm}Senbē</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=k0QkYUKf}Senzaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=HDO43hmP}Senemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=BZenLkHE}Mantaro</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=EaxgVhEA}Manjirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=oHVTd16T}Manzaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=W1f3Xyka}Mangorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=KQJB6tIF}Manjūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Dgnokr0s}Mansuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ZuY3PKvk}Mannosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=2zvbXuvD}Manzou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=DemRvjqX}Manbē</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=xqLuC100}Manzaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=bKpT7ydh}Manemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=qTjJ6VNB}Kouichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=9YfwfCjt}Koujirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=OiQWNnCC}Kouzaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=alsRXQfE}Kougorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=tiQigL4M}Koujūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=5vy1Kcut}Kousuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ewIhSqSg}Kounosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=uUuyf0oq}Kouzou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=6JYI2cM1}Koubē</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Ucc1XJtA}Kouzaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=c0POyeDy}Kouemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=8r6KNpJu}Ichitaro</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=adSaxUtg}Ichijirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=PHZYnyJG}Ichisaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=2Zz5tOGM}Ichigorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=UE8Q9iLC}Ichijūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=A38aKm8V}Ichisuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=6maHAom2}Ichinosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=jGDO6UVX}Ichizou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=fRC2Sv0I}Ichibē</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=vvLImum3}Ichizaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=qzEnN6b2}Ichiemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Bv1SBqYA}Dentaro</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=0iGkPeDd}Denichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=1jKdOkXK}Denjirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=oS7aAM2u}Densaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=0676hgZd}Dengorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=4rt2PIJj}Denjūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=vrNgITIa}Densuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=bSnAdlUv}Dennosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=n8ygcUdT}Denzou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=uL8OvdBZ}Dennai</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ENaKTTDb}Denbē</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=EVBmSHD1}Denzaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=F3NFayMh}Denemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=5YYTcaY5}Buntaro</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=5PkRFEfl}Bunichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=3kNHKBLR}Bunjirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=bxtXeEFE}Bunsaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=0iBcR9Oj}Bungorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Fg3jIKFw}Bunjūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=rvIN9ZTT}Bunsuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=7I5vZfW3}Bunnosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=6wEnMxwM}Bunzou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=csOTlDG2}Bunnai</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Ild4lSX7}Bunbē</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=IhUPTgiY}Bunzaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=xwzqFQHe}Bunemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=xNuFAChh}Kyūtarou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=PGONDRwL}Kyūichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=YphWCH0O}Kyūjirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=RK9XaxfL}Kyūsaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=jCPhfeQe}Kyūgorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=whdi1PqW}Kyūjūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=qboKlFcb}Kyūsuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=IqtNcUKR}Kyūnosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=EnAKh2jl}Kyūzou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=kmP42SIm}Kyūnai</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=6lv28NaV}Kyūbē</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=WtrhY68f}Kyūzaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=UoyQxG88}Kyūemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=RgM49V8I}Risuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=rOuEyl4j}Rihei</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=WtGggyWu}Tomotaro</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=FALveYtm}Tomoichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=cPCDrqQ9}Tomojirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=FrCZl1Kc}Tomosaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=aTLCRfbo}Tomogorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=VJ8JjKdn}Tomojūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=eybQD7fW}Tomosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ouJSaXMs}Tomonosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=5cUv40An}Tomozou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=EkbEmCds}Mosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=jskM3d0i}Mohei</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=NrA6HIZh}Kintaro</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=848CJxJF}Kinichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=7Y0EXAUF}Kinjirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=YscUSvVM}Kinsaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=XFTScKgz}Kingorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=NGdaEade}Kinjūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=TZ1EuCNG}Kinsuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=4MflqKiV}Kinnosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=FNMFahJE}Kinzou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=cRihXQNl}Kinbē</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=4CONhzCA}Kinzaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=96CxYziS}Kin'emon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=x0UuCfZy}Kametaro</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ZfUBVs4h}Kameichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=a01TqKHx}Kamejirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=OfQZK6DU}Kamesaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=xyMCyFya}Kamegorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=4enmAjQG}Kamejūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=2RTqEBHZ}Kamesuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=DsdZZ7ls}Kamenosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=nhWIvnQN}Kamezou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=22qdH8rc}Tsurutaro</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=sAfPsIZ8}Tsuruichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=kfHjrOIs}Tsurujirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=5CSrGJfb}Tsurusaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=wkcqyrPI}Tsurugorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=EugzWPXo}Tsurujūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=p0vR6eJa}Tsurusuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=7N515T5W}Tsurunosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=oUA7SxtT}Tsuruzou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=oTCqcyRD}Sakutaro</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=jJYN1RwQ}Sakuichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=VHEgq8bQ}Sakujirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=7qfdlqBi}Sakusaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=WeUjfIJ1}Sakugorou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ZzfKmRnj}Sakujūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=vSeWlxFv}Sakusuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=PruyWPPU}Sakunosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=IqqhbpKT}Sakuzou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Jts7a19A}Sakubē</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=uzEmlox6}Iichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=9iBq0QQK}Izaburou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=2AiJGGSn}Ijūrou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=CTOORbUG}Isuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=jGQAK7wi}Inosuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ZzQtwy55}Izou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=1DpmL0dT}Ihei</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=M24CQ7LC}Izaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=0HhVmhAb}Iemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=M7NqDxH8}Sasuke</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=mCtJGBTR}Tarouzaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=0dcfuOXl}Tarouemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=MvkAmOXM}Jirouzaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=6xKoyc6E}Hiroemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=hNnejvkq}Saburouzaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=h8G0fO3K}Saburouemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=kNjiQUn5}Shirouzaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=KeKB3A1g}Shirouemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=p2JXgAFZ}Gorouzaemon</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Z62OstUb}Gorouemon</xsl:attribute></name>
+			</xsl:copy>
+	</xsl:template>
+
+	<xsl:template match="Culture[@id]/female_names">
+			<xsl:copy>
+			<name><xsl:attribute name="name">{=ab4sZWzd}Ai</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=japJIRRy}Ao</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=VHbcxIU1}Aka</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=CMxdilZo}Aki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=oldI3981}Asa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=IrnQzBvz}Ashi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ONWqd9Hd}Aso</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=u9Pq27aa}Ama</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=bLckTBYg}Ami</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Yk5AaGis}Aya</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=9spwFIMF}Ayu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=icH6H6qJ}Ara</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=UgdrhMLn}Awa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Anthc16w}Iki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=qimV9Hxm}Iku</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=T6f6o1Bn}Isi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=G3bhQAAE}Ise</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=c7q2fLjb}Iso</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=p3I674Qb}Iti</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=6BE7f533}Ito</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=B3kJ5DP4}Ina</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=soDfj3wG}Ine</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Tz4Dextk}Ino</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=gK8vPJRo}Ima</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=TQiCvmEX}Iyo</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=fif8CY4b}Iwa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=hL7n98V7}Uki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Rjj08KZk}Usu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=1tp1eT1f}Uta</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=FNz4NI40}Une</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=HnHrluJJ}Umi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=gE3Hqou8}Ume</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=1I8FC31x}Uya</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Sl3saZgp}Ura</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=qfFDtDwr}Uri</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=RJSAXUMm}Uzu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Tr73jAZQ}Udo</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=j4HdI45k}Ena</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=L7msLwYi}Ema</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=LT0jytMw}Emi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=HFBFS90C}Oki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=DsOfIrAJ}Oku</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=s9l9Q3k4}Otu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=TxdyO9Ap}Oto</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=gyuAycqs}Kai</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=up78idxc}Kane</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=VT6HjYzj}Kano</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=8k3FCmKN}Kaho</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=KSdRaHkS}Kame</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ujfb2pFG}Kaya</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=IOqdIxCq}Kayo</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=kv3ndFaH}Kiku</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Pv7ea4X6}Kisi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=EW5X2f0M}Kise</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=zdb2NTCA}Kiso</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=jLY0MV0K}Kita</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=6wI9KqdW}Kiti</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=FEKGGq4E}Kitu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=UmIltDrq}Kina</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=RI8N5c4R}Kima</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=8WfG5S6b}Kinu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=sfFxUyMo}Kine</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=mWIkRnp4}Kino</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=KmjDf7sk}Kiyo</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=1I1ml2CF}Kin</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=TelT9dGO}Kusi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=gJqMupbd}Kuni</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ClZg7i2D}Kuma</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=evYMHyLJ}Kuri</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=0VtFmtbM}Kura</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=zKgtrFlM}Kuwa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=XvOb3Vwc}Kesa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=1JS0UhVH}Koi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=bmxZofcA}Kosi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=3O8nA90w}Koto</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=9mxqMpWp}Sai</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=5m4AaikN}Sae</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=6RyBbZzh}Saki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=TlcOPE8V}Sati</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=b5jjvG8v}Sato</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=A0nnN1Bs}Sana</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=TuSOLp1h}Sano</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=3ZG5q6fC}Sane</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=4Qq2nraH}Saya</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=LTGg9VfY}Sayo</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=te1zrRcu}Sawa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=V8ZjxSqh}San</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=uH3PP2vd}Sii</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=cltMCIte}Sie</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=eIRxHAfM}Sino</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=p0pwjEGg}Sima</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=LkpYelD5}Sira</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=qq7IhZqX}Sige</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=txd54Uxq}Sizu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Rpp0GkVb}Sue</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=DsMiOMAl}Sumi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Co6CVsTn}Suwa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=9PFPNnut}Suzu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=LciAOoxg}Seki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=dZN5LLR7}Seto</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=90tYcZnV}Sena</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=C0WToKkS}Seri</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ALmaRDqh}Sen</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=LdhmLcqT}Sono</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=p7HhzIOW}Some</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=qJl74TrM}Sora</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=hFoAOFav}Tae</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=euu2KEpY}Taka</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=BdezqiyJ}Taki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=KxoQul8K}Take</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=gHTh0qbu}Tatu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=rqJlNuAP}Tani</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=DBzh6GCw}Tane</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=gGpyeF6m}Tama</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=BtvJlQvJ}Tami</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=788TRav9}Tame</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=3ndapyaU}Tie</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=gSk9DM6l}Tika</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=FPFqiv7a}Tise</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=aHHPOcUo}Tita</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=cfJP1a1D}Tino</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=OyxDo16q}Tiyo</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=UZrCJPZv}Tuki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=fJzk4BNs}Tuta</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=whxtdqVI}Tuna</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ZBK2n7tg}Tune</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Imo98lXX}Tuya</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=PZbf10XQ}Tuyu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=6HSzptnS}Turu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=J0UsxkRC}Tei</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=g1qXRvel}Teru</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=a3VKcfJa}Toi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=T62NIiA6}Toki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=TFs4nM7I}Toku</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ZzRx1abW}Tosa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ecTaQB7j}Tosi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=TJMitVon}Tose</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=XZlG26oj}Toti</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=kFitx5pm}Tone</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=8BeZLj90}Tomi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=VRx7ynCm}Tome</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=iqkzFqot}Toyo</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=VwDXADid}Tora</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Di20AtpT}Towa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ZzWzXLht}Nae</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=nDpHHmR1}Nao</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ZEmO4WfN}Naka</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=QsnLEOc2}Nata</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=3x8xcHOj}Natu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=tT546r7c}Nana</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=eVbD6jeL}Nami</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=gvK789wT}Nara</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=VPUvGEii}Nawa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=kVvV6i76}Nisi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=NyCRcnms}Nei</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=AiQKTb3M}Nene</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=HEKsNIc0}Noe</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=nFeGwvdW}Noto</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=CGlpxIRk}Haku</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=4RaBnJJd}Hasu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=bucIcjxy}Hata</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=oA19rmhg}Hatu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=2uCie4Q2}Hana</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=OcCRaagX}Haru</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ue0urULM}Hisa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=EJpUBSCs}Hisi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=6HoPLMn3}Hina</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=vOc88PUp}Yuki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=9LTZ9XB7}Fuku</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=4UmAhqew}Fusa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=UohnfxGD}Fusi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=XCHQC5f3}Futi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=KyQ1C73j}Funa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Gnl8tupV}Fune</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=4akZ5HEq}Fumi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=kLALO29g}Fuzi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=88hLDKtN}Mai</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=5OrsY3Wz}Maki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=gxfZ2w3W}Masa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=yJXssD0P}Masu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=LJyp9AKZ}Matu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=bj63fnCB}Mana</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=4rWDHouO}Mame</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=qXNWMbUO}Mayu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=wblnzRnV}Mari</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ufNTpzmv}Mie</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ZqMNObKk}Miki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=LuePJv7g}Miti</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=PV5iDOtM}Mitu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=D7la9JKQ}Mina</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Gu1BKtTu}Mine</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=6kg6dx0j}Miya</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ZMQ1VDUl}Miyo</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=DvL7f4QU}Moto</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=aq9b50cV}Momo</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=wRPynz1h}Yae</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=eHd1rxID}Yasu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=sufwawfp}Yui</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=b6CD78e9}Yuki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=q8EmtRbW}Yuna</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=vnjOoU7B}Yumi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=0b9APW9w}Yume</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=yjmoZDpL}Yuri</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=y3LihP27}Yosi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ynSceRn1}Yona</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=llXWtjvk}Yone</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=keDd7GwF}Yono</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=p2YaumtD}Rie</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=6BuhQ3yC}Riku</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=LVLqSHsN}Risa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=dUUYeeqh}Ritu</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=xdlCLqcy}Rin</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=zLwhd8EY}Rui</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=IVbOeER4}Ruri</xsl:attribute></name>
+			</xsl:copy>
+	</xsl:template>
+</xsl:stylesheet>
