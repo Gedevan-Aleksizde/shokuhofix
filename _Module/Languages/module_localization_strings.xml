@@ -3445,25 +3445,25 @@
 		<string id="vlCFfp1l" text="Bukeisouyou"/>
 		<string id="c6TFxi8r" text="Bandit Bow"/>
 		<string id="tsfA0q0T" text="Foreign Bow"/>
-		<string id="jJ9mAeR5" text="Wakyu Yumi"/>
-		<string id="KGuj7W99" text="Hankyu Yumi"/>
-		<string id="exUcsHT9" text="Daikyu Yumi"/>
-		<string id="pkgJHe6Z" text="Solid Wakyu Yumi"/>
-		<string id="BUyjiBfN" text="Solid Hankyu Yumi"/>
-		<string id="gjbTXBIU" text="Solid Daikyu Yumi"/>
-		<string id="pu8gIwOI" text="Noble Wakyu Yumi"/>
-		<string id="S0yg2aub" text="Noble Hankyu Yumi"/>
-		<string id="E6Ov3SdY" text="Noble Daikyu Yumi"/>
-		<string id="QFhTrfAZ" text="Basic Wakyu Yumi"/>
-		<string id="x9BDfXdi" text="Basic Hankyu Yumi"/>
-		<string id="miPWykil" text="Basic Daikyu Yumi"/>
-		<string id="Fqwfyopb" text="Practice Wakyu Yumi"/>
-		<string id="krKgaoRz" text="Simple Hankyu Yumi"/>
-		<string id="v1KZHOKY" text="Simple Daikyu Yumi"/>
+		<string id="jJ9mAeR5" text="Wakyū Yumi"/>
+		<string id="KGuj7W99" text="Hankyū Yumi"/>
+		<string id="exUcsHT9" text="Daikyū Yumi"/>
+		<string id="pkgJHe6Z" text="Solid Wakyū Yumi"/>
+		<string id="BUyjiBfN" text="Solid Hankyū Yumi"/>
+		<string id="gjbTXBIU" text="Solid Daikyū Yumi"/>
+		<string id="pu8gIwOI" text="Noble Wakyū Yumi"/>
+		<string id="S0yg2aub" text="Noble Hankyū Yumi"/>
+		<string id="E6Ov3SdY" text="Noble Daikyū Yumi"/>
+		<string id="QFhTrfAZ" text="Basic Wakyū Yumi"/>
+		<string id="x9BDfXdi" text="Basic Hankyū Yumi"/>
+		<string id="miPWykil" text="Basic Daikyū Yumi"/>
+		<string id="Fqwfyopb" text="Practice Wakyū Yumi"/>
+		<string id="krKgaoRz" text="Simple Hankyū Yumi"/>
+		<string id="v1KZHOKY" text="Simple Daikyū Yumi"/>
 		<string id="ffVjgMBR" text="Ebira Cutting Arrows"/>
 		<string id="VQsSmtIb" text="Ebira Piercing Arrows"/>
 		<string id="TSutODel" text="Ebira Whistling Arrows"/>
-		<string id="MSN8TO7X" text="Hankyu Arrows"/>
+		<string id="MSN8TO7X" text="Hankyū Arrows"/>
 		<string id="sJ0lkR3w" text="Practice Arrows"/>
 		<string id="3MZmeNhd" text="Utsubo Piercing Arrows"/>
 		<string id="6wE7xpcu" text="Utsubo Whistling Arrows"/>
@@ -3479,7 +3479,7 @@
 		<string id="0IZlpSDy" text="Ōzutsu Explosive Ammunition"/>
 		<string id="dfzeWUCf" text="Ōzutsu Ammunition"/>
 		<string id="jASYDOcA" text="Teppou Ammunition"/>
-		<string id="q1KgboXi" text="Ō-yoroi Kote"/>
+		<string id="q1KgboXi" text="Ō-yoroi-gote"/>
 		<string id="v60sSwHB" text="Ubu-gote"/>
 		<string id="nfrAzQOE" text="Kusari-gote"/>
 		<string id="CoaDkHgm" text="Ornate Kusari-gote"/>
@@ -3496,9 +3496,9 @@
 		<string id="xnfE57id" text="Amigasa"/>
 		<string id="Ke3iOAek" text="Ichimegasa"/>
 		<string id="5MkZxjuj" text="Jingasa"/>
-		<string id="bbBYq8rX" text="Nomadgasa"/>
+		<string id="bbBYq8rX" text="Ayai-gasa"/>
 		<string id="Trz6pkzv" text="Rouningasa"/>
-		<string id="R9CSFKs7" text="Ryuzo"/>
+		<string id="R9CSFKs7" text="Fuka-amigasa"/>
 		<string id="WURmQCrE" text="Sandogasa"/>
 		<string id="Yk0ki91Y" text="Sugegasa"/>
 		<string id="KaHphD5i" text="Tengai"/>

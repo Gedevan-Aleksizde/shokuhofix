@@ -29,14 +29,14 @@
 	<Hero id="lord_1_nikaido" faction="Faction.clan_nikaido_1" spouse="Hero.lord_1_nikaido_1" text="{=9WmlolIC}Nikaido Moriyoshi"/>
 	<Hero id="lord_1_nikaido_1" faction="Faction.clan_nikaido_1" spouse="Hero.lord_1_nikaido" text="{=foAJh4Aw}Nikaido Onami"/>
 	<Hero id="lord_1_nikaido_2" faction="Faction.clan_nikaido_1" father="Hero.lord_1_nikaido" mother="Hero.lord_1_nikaido_1" text="{=4gtrnix8}Nikaido Moritaka"/>
-	<!--Soma Faction-->
-	<!--Soma Clan-->
-	<Hero id="lord_1_soma" faction="Faction.clan_soma_1" spouse="Hero.lord_1_soma_1" text="{=CrgYCr35}Soma Moritane"/>
-	<Hero id="lord_1_soma_1" faction="Faction.clan_soma_1" spouse="Hero.lord_1_soma" text="{=ppxVSFKS}Soma Kake"/>
-	<Hero id="lord_1_soma_2" faction="Faction.clan_soma_1" father="Hero.lord_1_soma" mother="Hero.lord_1_soma_1" text="{=CkTKok6g}Soma Yoshitane"/>
-	<Hero id="lord_1_soma_3" faction="Faction.clan_soma_1" father="Hero.lord_1_soma" mother="Hero.lord_1_soma_1" text="{=bI1XmCI8}Soma Takatane"/>
-	<Hero id="lord_1_soma_4" faction="Faction.clan_soma_1" father="Hero.lord_1_soma" mother="Hero.lord_1_soma_1" text="{=YwuGBeax}Soma Satotane"/>
-	<Hero id="lord_1_soma_5" faction="Faction.clan_soma_1" father="Hero.lord_1_soma" mother="Hero.lord_1_soma_1" text="{=nci1JssK}Soma Haru"/>
+	<!--Souma Faction-->
+	<!--Souma Clan-->
+	<Hero id="lord_1_soma" faction="Faction.clan_soma_1" spouse="Hero.lord_1_soma_1" text="{=CrgYCr35}Souma Moritane"/>
+	<Hero id="lord_1_soma_1" faction="Faction.clan_soma_1" spouse="Hero.lord_1_soma" text="{=ppxVSFKS}Souma Kake"/>
+	<Hero id="lord_1_soma_2" faction="Faction.clan_soma_1" father="Hero.lord_1_soma" mother="Hero.lord_1_soma_1" text="{=CkTKok6g}Souma Yoshitane"/>
+	<Hero id="lord_1_soma_3" faction="Faction.clan_soma_1" father="Hero.lord_1_soma" mother="Hero.lord_1_soma_1" text="{=bI1XmCI8}Souma Takatane"/>
+	<Hero id="lord_1_soma_4" faction="Faction.clan_soma_1" father="Hero.lord_1_soma" mother="Hero.lord_1_soma_1" text="{=YwuGBeax}Souma Satotane"/>
+	<Hero id="lord_1_soma_5" faction="Faction.clan_soma_1" father="Hero.lord_1_soma" mother="Hero.lord_1_soma_1" text="{=nci1JssK}Souma Haru"/>
 	<!--Inawashiro Clan-->
 	<Hero id="lord_1_inawashiro" faction="Faction.clan_inawashiro_1" spouse="Hero.lord_1_inawashiro_1" text="{=YwGkSfbK}Inawashiro Morikuni"/>
 	<Hero id="lord_1_inawashiro_1" faction="Faction.clan_inawashiro_1" spouse="Hero.lord_1_inawashiro" text="{=kDG4hH19}Inawashiro Matsu"/>

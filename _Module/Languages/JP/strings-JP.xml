@@ -1290,6 +1290,7 @@
     <string id="8Ewallt6" text="竹束"/>
     <string id="U53M9G9W" text="海大筒"/>
     <string id="yVf1b2wm" text="掻楯"/>
+    <string id="Gc0UxEgr" text="弾備え"/>
     <string id="nQPLbUa6" text="城攻め用の篝火といくらかの物資があれば、射手は矢を火で照らせる"/>
     <string id="uPDOEMCR" text="大筒のこと"/>
     <string id="2pSICaQU" text="海大筒は珍しい兵器で、設営に時間がかかるが敵の要塞に対して破滅的な一撃を与える"/>
@@ -2204,7 +2205,7 @@
     <string id="mdI2AIhF" text="服部保英"/>
     <string id="6S59Qnpu" text="服部保正"/>
     <string id="vSW8NxqF" text="服部はる"/>
-    <string id="Bd0b0fd8" text="長尾輝虎は幼名を虎千代といい、後に長尾平三を名乗った。元服直後の彼の名はは景虎だが、現在は輝虎である。彼は幼少時を寺で生活した。彼の兄たちが相次いで亡くなると、彼は長尾家に呼び戻され、ついには一族の当主の座を継承した。輝虎の幼少期が原因なのかはわからないが、彼は信仰心が篤く、特に仏教の守護神であり軍神である毘沙門天を信仰した。そして後に出家し謙信を名乗った。人々が彼の軍事的才能を認めるようになると、彼自身もまた軍神として称えられるようになった。現在の彼の名字である上杉というのは、副将軍の代行を意味する関東管領であった上杉憲政から継承したものである。"/>
+    <string id="Bd0b0fd8" text="長尾輝虎は幼名を虎千代といい、長尾爲景の庶子として生まれた。当時の侍社会では一夫多妻制が受け入れられていたが、子は生母の家格で差別されていた。彼は幼少期を林泉寺で暮らした。後に長尾家に呼び戻され、病弱な兄に代わって家督を継いだ。彼は元服すると景虎となり、長尾平三を名乗ったが、後に輝虎に改めた。輝虎の幼少期が原因なのかはわからないが、彼は信仰心が篤く、特に仏教の守護神であり軍神である毘沙門天を信仰した。そして後に出家し謙信を名乗った。人々が彼の軍事的才能を認めるようになると、彼自身もまた軍神として称えられるようになった。現在の彼の名字である上杉というのは、副将軍の代行を意味する関東管領であった上杉憲政から継承したものである。"/>
     <string id="8Iv9ecNC" text="上杉あや"/>
     <string id="RWQCCx4o" text="上杉景勝"/>
     <string id="shVCPmCc" text="上杉円"/>
@@ -2986,7 +2987,7 @@
     <string id="RySY5fQu" text="香宗我部ゆずは"/>
     <string id="hvyaWDgX" text="吉良親貞"/>
     <string id="DeCbQeHC" text="吉良ゆみ"/>
-    <string id="1YCmAvvP" text="吉良親実"/>
+    <string id="1YCmAvvP" text="吉良親實"/>
     <string id="FXZNXucw" text="吉良如淵"/>
     <string id="zcC4TL48" text="吉良親正"/>
     <string id="pGrd03pI" text="久武親信"/>
@@ -3028,7 +3029,7 @@
     <string id="4MZmJxE6" text="十河光明院"/>
     <string id="cjm2q36D" text="新開道善"/>
     <string id="0vFKvTmm" text="新開やちよ"/>
-    <string id="2yPLLgtG" text="新開実成"/>
+    <string id="2yPLLgtG" text="新開實成"/>
     <string id="cOejVaQ2" text="新開ぼたん"/>
     <string id="zQfWhCEH" text="新開れんげ"/>
     <string id="CjIwIpNQ" text="新開右近"/>
@@ -3089,9 +3090,9 @@
     <string id="23ZArAMO" text="伊達稙宗"/>
     <string id="BX6Yp0vZ" text="伊達泰心院"/>
     <string id="0bE83155" text="梵天丸"/>
-    <string id="HgsPH3W5" text="伊達実元"/>
+    <string id="HgsPH3W5" text="伊達實元"/>
     <string id="TGJrgoXP" text="伊達鏡清院"/>
-    <string id="5uYt8kLx" text="伊達成実"/>
+    <string id="5uYt8kLx" text="伊達成實"/>
     <string id="ROpC8P2s" text="片倉重次"/>
     <string id="w4XrKYdu" text="片倉影重"/>
     <string id="MlE07cvv" text="片倉なほこ"/>
@@ -3201,11 +3202,11 @@
     <string id="50jyluRi" text="八戸政榮"/>
     <string id="ly1rOf4V" text="八戸とき"/>
     <string id="IaI3rd8b" text="八戸直榮"/>
-    <string id="U2fcoM3V" text="九戸政実"/>
+    <string id="U2fcoM3V" text="九戸政實"/>
     <string id="OnWob7FY" text="九戸けい"/>
     <string id="ybA8C3Pn" text="九戸信仲"/>
     <string id="F44DRUrw" text="九戸ゆき"/>
-    <string id="TLlGQ3hu" text="九戸実親"/>
+    <string id="TLlGQ3hu" text="九戸實親"/>
     <string id="SMHA0cYX" text="九戸しの"/>
     <string id="ktJ3A4pU" text="北信愛"/>
     <string id="fCPVtYJi" text="北みき"/>
@@ -3663,7 +3664,7 @@
     <string id="WjvswJs2" text="大鎧具足"/>
     <string id="6gpCytKe" text="大鎧胴"/>
     <string id="56EX4QYD" text="裃"/>
-    <string id="VO0yxSgI" text="南蛮胴"/>
+    <string id="VO0yxSgI" text="南蛮人の具足"/>
     <string id="PKye4haM" text="革包胴"/>
     <string id="TIDwOG8g" text="五枚胴"/>
     <string id="iLoknD6a" text="尾張胴佩楯"/>
@@ -3744,7 +3745,7 @@
     <string id="HrxOrz25" text="大久保忠教"/>
     <string id="ksrFELDK" text="服部康成"/>
     <string id="qNbyhQaj" text="上杉謙信"/>
-    <string id="MLZq7awV" text="上杉爲景"/>
+    <string id="MLZq7awV" text="長尾爲景"/>
     <string id="QwRXJCmI" text="上杉青岩院"/>
     <string id="axhJs6IX" text="上杉昌景"/>
     <string id="jCqzvM9s" text="新発田綱貞"/>
@@ -5099,7 +5100,7 @@
     <string id="H4V33j6B" text="横山"/>
     <string id="sdBWDJQR" text="瓜生"/>
     <string id="MzDkJCKE" text="大隈"/>
-    <string id="XXcP53zB" text="上条"/>
+    <string id="XXcP53zB" text="上條"/>
     <string id="cTtUz8rk" text="甘粕"/>
     <string id="HNMqBFKC" text="山芳"/>
     <string id="IBH0fyiq" text="安田"/>
@@ -5963,6 +5964,7 @@
     <string id="j4lUrFwg" text="積荷の積載量"/>
     <string id="IcJXuQ6m" text="1日あたりの維持費"/>
     <string id="0dEAx8p4" text="矢弾を取る"/>
+    <string id="7KL6IPrU" text="弾の備え"/>
     <string id="d3wln31q" text="戦利品"/>
     <string id="FibVA33i" text="篝火"/>
     <string id="ApbDUy6T" text="掻楯"/>
@@ -6120,7 +6122,7 @@
     <string id="vY9Bp6uB" text="ふき"/>
     <string id="9yOqtKzp" text="毛利"/>
     <string id="44ThIRyK" text="一條"/>
-    <string id="Nvd0m2Az" text="Kaito"/>
+    <string id="Nvd0m2Az" text="不審な商人"/>
     <string id="PBCfHu7Z" text="黒脛巾衆の藤兵衛"/>
     <string id="27cVja0G" text="神道への信心"/>
     <string id="mAVRtypJ" text="鉄炮兵の雇用とアップグレード費用-10%"/>
@@ -6361,8 +6363,8 @@
     <string id="YSHijcWu" text="本庄氏の領地は越後國の争いの絶えない土地にあり、主君である強大な上杉家に命運を託してきたが、近年になって成り上がりを企む繁長の指導で臣従関係を断ち切った。身分が下の者が上の者へと刃向かう、典型的な下剋上である。本庄氏の領地は広くなく、周辺を強大な勢力に囲まれているが、上杉からの独立を確実にするため、この地の山がちな地形に頼り、そして大名間の対立を利用できる。"/>
     <string id="xDXDCM2N" text="赤松氏は足利幕府の立ち上げの貢献のために権力を得、本州西部で最も有力な一族となったが、その権力と領地は、民心の喪失と内からの衰退で翳りが見えている。赤松は今や、台頭する浦上氏や、さらには勢力拡大中の毛利氏からの挑戦を受け、拠点とその周囲の僅かな土地のみを残すほどに衰退した。野心的な武将たちに囲まれて衰退した赤松は、影響力の残る僅かな土地を守るにも、かつての権勢を取り戻すにも、残された家臣たちを頼らなければならない"/>
     <string id="6yN2Mn1R" text="浦上氏は山陽の山がちな土地に根ざす一族であり、西日本と畿内ひいては京を結ぶ街道を支配する、重要な土地にある。近隣勢力に比べると規模は小さいが、当主宗景の差配の下で、赤松氏の凋落に代わって台頭した。その独立の維持はより大きな近隣勢力同士を対立させることに依拠しているが、拡大する毛利氏と旧来の残存勢力の間の緩衝地帯としての立場を確立している。"/>
-    <string id="VwQITTl2" text="尼子氏は、西日本の覇権を求めて大内氏や毛利氏に積極的に挑んだ先代晴久のもとで力を増した。尼子氏はかつては山陽地方の一大勢力だったが、晴久の死後はほとんど崩壊しており、領地はかつての敵や家臣によってバラバラにさらている。今は四散し衰退したが、勝久は還俗し当主の地位を主張すると、残党と忠誠心の残る戦士たちを糾合し、名誉と領地を取り戻そうとしている。 一族の最後の希望は彼とともにある。"/>
-    <string id="0KYD9IKs" text="毛利氏は、かつての主君だった大内氏を倒して取り込み、日本でも最も強大な勢力の一角となっている。五年前の先代毛利隆元の急死により、十五歳の息子輝元が当主の座に就いている。祖父である毛利元就が後見として一族を監視しているが、彼の死期もまた近く、領国は不安の種に満ちている。山陽地方の多くの山と海岸まで谷のは、侵略者に対する自然の障壁を作り出し、無数の小規模な氏族による独特の分権体制をもたらした。無防備な船を襲う瀬戸内の村上水軍党を率いた毛利氏は、海の支配者でもある。九州にも足がかりを得た毛利氏は今、大友氏の支配する豊かな交易都市である博多に目を向けている。"/>
+    <string id="VwQITTl2" text="尼子氏は、西日本の覇権を求めて大内氏や毛利氏に積極的に挑んだ先代晴久のもとで力を増した。尼子氏はかつては山陽地方の一大勢力だったが、晴久の死後はほとんど崩壊しており、領地はかつての敵や家臣によってバラバラにされている。今は四散し衰退したが、勝久は還俗し当主の地位を主張すると、残党と忠誠心の残る戦士たちを糾合し、名誉と領地を取り戻そうとしている。 一族の最後の希望は彼とともにある。"/>
+    <string id="0KYD9IKs" text="毛利氏は、かつての主君だった大内氏を倒して取り込み、日本でも最も強大な勢力の一角となっている。五年前の先代毛利隆元の急死により、十五歳の息子輝元が当主の座に就いている。祖父である毛利元就が後見として一族を監視しているが、彼の死期もまた近く、領国は不安の種に満ちている。山陽地方の多くの山と海岸まで続く谷は、侵略者に対する自然の障壁を作り出し、無数の小規模な氏族による独特の分権体制をもたらした。無防備な船を襲う瀬戸内の村上水軍を率いた毛利氏は、海の支配者でもある。九州にも足がかりを得た毛利氏は今、大友氏の支配する豊かな交易都市である博多に目を向けている。"/>
     <string id="vcfqZy3J" text="伊東氏は、古代の強大な氏族である藤原氏の傍流の末裔である。鎌倉幕府の世では、嶋津氏に従属し日向國で権力の地固めをしており、現在の主である義祐は、伯父との骨肉の争いの末に勝利し一族の主導権を得てからは力をつけている。義祐のゆるがない指導の下で、伊東氏は領国の統制を拡大し、かつての主君である今の宿敵を日向南部から駆逐した。独立を無駄にしないために、一族の命運を決するであろう嶋津との避けられない戦いのために、伊東氏は日本全国から同盟者を探さねばならない。"/>
     <string id="YLn5hxVB" text="応仁の乱の時から、城攻め職人が主を替えた後に捕まることがあれば、悲惨な死を迎える。だが世は変わった。日之本の都は熟れた橘の実のように地に落ち、人々は太古のように高い防壁をめぐらせた。南海の大名は城攻め職人には金子を惜しみ、しばしば支払いは滞った。それで私は新しい仕え先があれば、鞍替えすることにした。"/>
     <string id="toWs4s58" text="そうして今に至る。結婚にはあまり興味ないが、デナールは好きだし、自由も好きだ。いつか見事な農場と、父の老後のために何人かの奴隷も揃えて、父を驚かせてやりたい。"/>

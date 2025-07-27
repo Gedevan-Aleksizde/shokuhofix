@@ -256,7 +256,7 @@
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
-    <Item id="sho_nomadgasa_hat" name="{=bbBYq8rX}Nomadgasa" subtype="head_armor" mesh="sho_nomadgasa_hat" weight="0.1" difficulty="0" appearance="1" Type="HeadArmor">
+    <Item id="sho_nomadgasa_hat" name="{=bbBYq8rX}Ayai-gasa" subtype="head_armor" mesh="sho_nomadgasa_hat" weight="0.1" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
             <Armor head_armor="2" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type1"/>
         </ItemComponent>
@@ -268,7 +268,7 @@
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
-    <Item id="sho_ryuzo_hat" name="{=R9CSFKs7}Ryuzo" subtype="head_armor" mesh="sho_ryuzo_hat" weight="0.3" difficulty="0" appearance="1" Type="HeadArmor">
+    <Item id="sho_ryuzo_hat" name="{=R9CSFKs7}Fuka-amigasa" subtype="head_armor" mesh="sho_ryuzo_hat" weight="0.3" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
             <Armor head_armor="4" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type1"/>
         </ItemComponent>
