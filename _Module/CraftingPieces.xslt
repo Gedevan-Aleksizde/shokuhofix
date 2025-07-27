@@ -6,16 +6,12 @@
 		</xsl:copy>
 	</xsl:template>
 	<!-- kama -->
+	<!--
 	<xsl:template match="CraftingPiece[@id='sho_axe_handle_1']/@name" ><xsl:attribute name="name">{=EjMCCW7z}Wooden Axe Handle</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_axe_handle_2']/@name" ><xsl:attribute name="name">{=NQU75CRQ}Long Axe Handle</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_axe_handle_3']/@name" ><xsl:attribute name="name">{=rdpMyJWO}Silver Striped Axe Handle</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_axe_handle_4']/@name" ><xsl:attribute name="name">{=0vOYQXFq}Bronze Striped Axe Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_axe_head_1']/@name" ><xsl:attribute name="name">{=TJd0APDo}Iron Axe Head</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_axe_head_2']/@name" ><xsl:attribute name="name">{=TJd0APDo}Iron Axe Head</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_axe_head_3']/@name" ><xsl:attribute name="name">{=TJd0APDo}Iron Axe Head</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_axe_head_4']/@name" ><xsl:attribute name="name">{=TJd0APDo}Iron Axe Head</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_axe_head_5']/@name" ><xsl:attribute name="name">{=TJd0APDo}Iron Axe Head</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_axe_head_6']/@name" ><xsl:attribute name="name">{=TJd0APDo}Iron Axe Head</xsl:attribute></xsl:template>
+	<xsl:template match="CraftingPiece[@name='{=TJd0APDo}Iron Axe Head']/@name" ><xsl:attribute name="name">{=TJd0APDo}Iron Axe Head</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_axe_head_7']/@name" ><xsl:attribute name="name">{=gV8kqN7q}Doubled-Sided Axe Head</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_axe_head_8']/@name" ><xsl:attribute name="name">{=KOubITlD}Inome Axe Head</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_kama_handle_1']/@name" ><xsl:attribute name="name">{=yPyZjPKZ}Guarded Handle</xsl:attribute></xsl:template>
@@ -26,12 +22,12 @@
 	<xsl:template match="CraftingPiece[@id='sho_kama_blade_2']/@name" ><xsl:attribute name="name">{=FnIX0ioo}Rustic Kama Head</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_kama_blade_3']/@name" ><xsl:attribute name="name">{=DZSD0sVL}Kama Head</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_kama_blade_4']/@name" ><xsl:attribute name="name">{=SBzNRj8W}Crossed Kama Head</xsl:attribute></xsl:template>
+	-->
 	<!-- kanasaibo -->
 	<xsl:template match="CraftingPiece[@id='sho_kanasaibo_a']/@name" ><xsl:attribute name="name">{=6Aa080bd}Kanasaibou</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='kanasaibo_empty_handle']/@name" ><xsl:attribute name="name">{=aa9227aa}None</xsl:attribute></xsl:template>
 	<!-- katana -->
-
-
+	<!--
 	<xsl:template match="CraftingPiece[@id='sho_ka_tsuba_a_1']/@name" ><xsl:attribute name="name">{=IwamgaXG}Renowned Guard</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_ka_tsuba_a_2']/@name" ><xsl:attribute name="name">{=c7YQKmdp}Superb Guard</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_ka_tsuba_a_3']/@name" ><xsl:attribute name="name">{=Gst4VU1T}Crude Guard</xsl:attribute></xsl:template>
@@ -41,7 +37,9 @@
 	<xsl:template match="CraftingPiece[@id='sho_ka_tsuba_a_7']/@name" ><xsl:attribute name="name">{=uNpA8xaW}Quality Guard</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_ka_tsuba_a_8']/@name" ><xsl:attribute name="name">{=yLPzzvrE}Dull Guard</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_ka_tsuba_a_9']/@name" ><xsl:attribute name="name">{=z6iMxZPC}Exquisite Guard</xsl:attribute></xsl:template>
+	-->
 	<!-- nagamaki -->
+	<!--
 	<xsl:template match="CraftingPiece[@id='sho_nagamaki_handle_a_1']/@name" ><xsl:attribute name="name">{=uNNR8CvG}Worn Nagamaki Handle</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_nagamaki_handle_a_2']/@name" ><xsl:attribute name="name">{=uRctUHpw}Simple Nagamaki Handle</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_nagamaki_handle_a_3']/@name" ><xsl:attribute name="name">{=2oM8XJZC}Solid Nagamaki Handle</xsl:attribute></xsl:template>
@@ -53,7 +51,9 @@
 	<xsl:template match="CraftingPiece[@id='sho_nagamaki_blade_3']/@name" ><xsl:attribute name="name">{=byFQxvcO}Fabled Curved Long Blade</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_nagamaki_blade_4']/@name" ><xsl:attribute name="name">{=PQqP7KrC}Simple Curved Long Blade</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_nagamaki_blade_5']/@name" ><xsl:attribute name="name">{=Im9TdJgu}Reliable Curved Long Blade</xsl:attribute></xsl:template>
+	-->
 	<!-- nodachi -->
+	<!--
 	<xsl:template match="CraftingPiece[@id='sho_nodachi_blade_1']/@name" ><xsl:attribute name="name">{=GvidNDfx}Strong Straight Long Blade</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_nodachi_blade_2']/@name" ><xsl:attribute name="name">{=2EeTkXyO}Renowned Straight Long Blade</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_nodachi_blade_3']/@name" ><xsl:attribute name="name">{=FwEL8m41}Old Straight Long Blade</xsl:attribute></xsl:template>
@@ -64,57 +64,10 @@
 	<xsl:template match="CraftingPiece[@id='sho_nodachi_blade_8']/@name" ><xsl:attribute name="name">{=byFQxvcO}Fabled Curved Long Blade</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_nodachi_blade_9']/@name" ><xsl:attribute name="name">{=PQqP7KrC}Simple Curved Long Blade</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_nodachi_blade_10']/@name" ><xsl:attribute name="name">{=Im9TdJgu}Reliable Curved Long Blade</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_1_black']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_1_brown']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_1_darkblue']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_1_gold']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_1_green']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_1_lightblue']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_1_orange']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_1_purple']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_1_red']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_1_yellow']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_2_black']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_2_brown']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_2_darkblue']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_2_gold']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_2_green']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_2_lightblue']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_2_orange']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_2_purple']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_2_red']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_2_yellow']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_3_black']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_3_brown']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_3_darkblue']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_3_gold']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_3_green']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_3_lightblue']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_3_orange']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_3_purple']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_3_red']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_3_yellow']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_4_black']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_4_brown']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_4_darkblue']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_4_gold']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_4_green']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_4_lightblue']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_4_orange']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_4_purple']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_4_red']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_4_yellow']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_5_black']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_5_brown']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_5_darkblue']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_5_gold']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_5_green']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_5_lightblue']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_5_orange']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_5_purple']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_5_red']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_nodachi_curved_handle_5_yellow']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
+	<xsl:template match="CraftingPiece[@name='{=aPRfMPY0}Crude Long Handle']/@name" ><xsl:attribute name="name">{=aPRfMPY0}Crude Long Handle</xsl:attribute></xsl:template>
+	-->
 	<!-- tachi -->
+	<!--
 	<xsl:template match="CraftingPiece[@id='sho_tachi_blade_1']/@name" ><xsl:attribute name="name">{=rJhdf7vW}Dull Tachi Blade</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_tachi_blade_2']/@name" ><xsl:attribute name="name">{=3PW7ATaw}Worn Tachi Blade</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_tachi_blade_3']/@name" ><xsl:attribute name="name">{=kYu7gRGF}Simple Tachi Blade</xsl:attribute></xsl:template>
@@ -140,19 +93,10 @@
 	<xsl:template match="CraftingPiece[@id='sho_tachi_handle_a_6']/@name" ><xsl:attribute name="name">{=sOis0zI7}Superb Tachi Handle</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_tachi_handle_a_7']/@name" ><xsl:attribute name="name">{=I62S878h}Veteran Tachi Handle</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_tachi_handle_a_8']/@name" ><xsl:attribute name="name">{=98MTYgWM}Fabled Tachi Handle</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_ka_tsuba_c_1']/@name" ><xsl:attribute name="name">{=Legjdvth}Tachi Tsuba</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_ka_tsuba_c_2']/@name" ><xsl:attribute name="name">{=Legjdvth}Tachi Tsuba</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_ka_tsuba_c_3']/@name" ><xsl:attribute name="name">{=Legjdvth}Tachi Tsuba</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_ka_tsuba_c_4']/@name" ><xsl:attribute name="name">{=Legjdvth}Tachi Tsuba</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_ka_tsuba_b_1']/@name" ><xsl:attribute name="name">{=Legjdvth}Tachi Tsuba</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_ka_tsuba_b_2']/@name" ><xsl:attribute name="name">{=Legjdvth}Tachi Tsuba</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_ka_tsuba_b_3']/@name" ><xsl:attribute name="name">{=Legjdvth}Tachi Tsuba</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_ka_tsuba_b_4']/@name" ><xsl:attribute name="name">{=Legjdvth}Tachi Tsuba</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_ka_tsuba_b_5']/@name" ><xsl:attribute name="name">{=Legjdvth}Tachi Tsuba</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_ka_tsuba_b_6']/@name" ><xsl:attribute name="name">{=Legjdvth}Tachi Tsuba</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_ka_tsuba_b_7']/@name" ><xsl:attribute name="name">{=Legjdvth}Tachi Tsuba</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_ka_tsuba_b_8']/@name" ><xsl:attribute name="name">{=Legjdvth}Tachi Tsuba</xsl:attribute></xsl:template>
+	<xsl:template match="CraftingPiece[@name='{=Legjdvth}Tachi Tsuba']/@name" ><xsl:attribute name="name">{=Legjdvth}Tachi Tsuba</xsl:attribute></xsl:template>
+	-->
 	<!-- wakizashi -->
+	<!--
 	<xsl:template match="CraftingPiece[@id='sho_wakizashi_blade_long_1']/@name" ><xsl:attribute name="name">{=n1TEHaDd}Dull Long Wakizashi Blade</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_wakizashi_blade_long_2']/@name" ><xsl:attribute name="name">{=35sheF2e}Simple Long Wakizashi Blade</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_wakizashi_blade_long_3']/@name" ><xsl:attribute name="name">{=UKRdmc7w}Rough Long Wakizashi Blade</xsl:attribute></xsl:template>
@@ -163,6 +107,7 @@
 	<xsl:template match="CraftingPiece[@id='sho_wakizashi_blade_1']/@name" ><xsl:attribute name="name">{=3oGF3b86}Simple Wakizashi Blade</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_wakizashi_blade_2']/@name" ><xsl:attribute name="name">{=kKd2zvEN}Reliable Wakizashi Blade</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_wakizashi_blade_3']/@name" ><xsl:attribute name="name">{=ngcopM9C}Masterwork Wakizashi Blade</xsl:attribute></xsl:template>
+	-->
 	<!-- yari -->
 	<xsl:template match="CraftingPiece[@id='sho_yari_blade_1']/@name" ><xsl:attribute name="name">{=HBpeH1q9}Crude Kama Yari Blade</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_yari_blade_2']/@name" ><xsl:attribute name="name">{=Q67OOizD}Jūmonji Yari Blade</xsl:attribute></xsl:template>
