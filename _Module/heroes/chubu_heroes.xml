@@ -381,7 +381,7 @@
 	<Hero id="dead_lord_1_okabe_2" alive="false" faction="Faction.clan_okabe_1" text="{=r9MHER6o}Okabe Chikatsuma"/>
 	<!--can they be married to a dead guy? might need to remove-->
 	<Hero id="lord_1_okabe_3" faction="Faction.clan_okabe_1" text="{=mteALoQA}Okabe Myosen-ni"/>
-	<Hero id="lord_1_okabe_4" faction="Faction.clan_okabe_1" father="Hero.lord_1_okabe" mother="Hero.lord_1_okabe_1" text="{=jDEOJ3VU}Okabe Masataka"/>
+	<Hero id="lord_1_okabe_4" faction="Faction.clan_okabe_1" father="Hero.lord_1_okabe" mother="Hero.lord_1_okabe_1" text="{=jDEOJ3VU}Okabe Sanetaka"/>
 	<Hero id="lord_1_okabe_5" faction="Faction.clan_okabe_1" father="Hero.lord_1_okabe" mother="Hero.lord_1_okabe_1" text="{=RGfPAqxo}Okabe Motoaki"/>
 	<Hero id="lord_1_okabe_6" faction="Faction.clan_okabe_1" spouse="Hero.lord_1_okabe_7" father="Hero.dead_lord_1_okabe_2" mother="Hero.lord_1_okabe_3" text="{=9yB1OZBM}Okabe Masatsuna"/>
 	<Hero id="lord_1_okabe_7" faction="Faction.clan_okabe_1" spouse="Hero.lord_1_okabe_6" text="{=NzPVJZQJ}Okabe Kame"/>

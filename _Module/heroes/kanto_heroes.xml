@@ -110,7 +110,7 @@
 	<Hero id="dead_lord_1_kogakubo_3" alive="false" faction="Faction.clan_kogakubo_1" spouse="Hero.dead_lord_1_kogakubo_2" text="{=MsX1Hln6}kogakubo Hoshun-in"/>
 	<Hero id="lord_1_kogakubo_4" faction="Faction.clan_kogakubo_1" father="Hero.dead_lord_1_kogakubo_2" mother="Hero.dead_lord_1_kogakubo_3" text="{=9zqTKcqA}Koga-Kubo Fujimasa"/>
 	<Hero id="lord_1_kogakubo_5" faction="Faction.clan_kogakubo_1" father="Hero.dead_lord_1_kogakubo_2" mother="Hero.dead_lord_1_kogakubo_3" text="{=2cUjpzfQ}Koga-Kubo Teruuji"/>
-	<Hero id="lord_1_kogakubo_6" faction="Faction.clan_kogakubo_1" father="Hero.dead_lord_1_kogakubo_2" mother="Hero.dead_lord_1_kogakubo_3" text="{=F9XMsCHI}Koga-Kubo Iekunnu"/>
+	<Hero id="lord_1_kogakubo_6" faction="Faction.clan_kogakubo_1" father="Hero.dead_lord_1_kogakubo_2" mother="Hero.dead_lord_1_kogakubo_3" text="{=F9XMsCHI}Ashikaga Iekuni"/>
 	<Hero id="lord_1_kogakubo_7" faction="Faction.clan_kogakubo_1" father="Hero.dead_lord_1_kogakubo_2" mother="Hero.dead_lord_1_kogakubo_3" text="{=olSVCZmf}Koga-Kubo Sato"/>
 	<!--sano Clan-->
 	<Hero id="lord_1_sano" faction="Faction.clan_sano_1" spouse="Hero.lord_1_sano_1" father="Hero.dead_lord_1_sano_2" mother="Hero.dead_lord_1_sano_3" text="{=lVNG6nvY}Sano Masatsuna"/>
@@ -170,7 +170,7 @@
 	<!--haga Clan-->
 	<Hero id="lord_1_haga" faction="Faction.clan_haga_1" spouse="Hero.lord_1_haga_1" text="{=gwB9W7mm}Haga Takasada"/>
 	<Hero id="lord_1_haga_1" faction="Faction.clan_haga_1" spouse="Hero.lord_1_haga" text="{=J0VnbU4a}Haga Tama"/>
-	<Hero id="lord_1_haga_2" faction="Faction.clan_haga_1" spouse="Hero.lord_1_haga_3" father="Hero.lord_1_haga" mother="Hero.lord_1_haga_1" text="{=0xmB7XJS}Haga Takakage"/>
+	<Hero id="lord_1_haga_2" faction="Faction.clan_haga_1" spouse="Hero.lord_1_haga_3" father="Hero.lord_1_haga" mother="Hero.lord_1_haga_1" text="{=0xmB7XJS}Haga Takatake"/>
 	<Hero id="lord_1_haga_3" faction="Faction.clan_haga_1" spouse="Hero.lord_1_haga_2" text="{=l2brrFCq}Haga Chiyo"/>
 	<Hero id="lord_1_haga_4" faction="Faction.clan_haga_1" spouse="Hero.lord_1_haga_5" text="{=WO5zvxR8}Haga Takatsugu"/>
 	<Hero id="lord_1_haga_5" faction="Faction.clan_haga_1" spouse="Hero.lord_1_haga_4" text="{=tGEgf2XE}Haga Miki"/>

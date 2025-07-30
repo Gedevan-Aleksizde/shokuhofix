@@ -80,7 +80,7 @@
 		<string id="SNreUESe" text="You failed to deal with the missionary in time. {QUEST_GIVER.LINK} will remember how you betrayed their trust."/>
 		<string id="HVk4GxTA" text="You have successfully escorted the missionary to a port and received a reward. Now that the missionary has been dealt with, you should now go to {QUEST_GIVER.LINK} in {TARGET_VILLAGE} to receive your original reward."/>
 		<string id="nhvDkbeE" text="Missionary"/>
-		<string id="GmBJXheK" text="Saeki Genichiro's Party"/>
+		<string id="GmBJXheK" text="Saeki Gen'ichirou's Party"/>
 		<string id="asO5RY1z" text="Go find the Christian and deal with them. I don't care how, just get rid of them. They're somewhere here in the village. Once they're gone I'll pay you.[ib:closed][if:convo_relaxed_happy]"/>
 		<string id="VzrPtR8U" text="Have you dealt with the Christian yet?[ib:closed][if:convo_innocent_smile]"/>
 		<string id="qEguDhTw" text="Hello! Would you like to hear about Jesus Christ?[ib:normal][if:convo_relaxed_happy]"/>
@@ -98,7 +98,7 @@
 		<string id="pFi1pBYB" text="Thank you. This news puts a lot of people here at ease. Here is your reward.[ib:normal][if:convo_innocent_smile]"/>
 		<string id="zeIpBe0D" text="You there! We know you’re harboring a Christian. Hand him over and nobody gets hurt.[ib: aggressive][if:convo_very_stern]"/>
 		<string id="lLTBtJFY" text="Who are you, and what do you want with him?"/>
-		<string id="yzgfbSIR" text="My name is Saeki Genichiro. I am a samurai in the service of {VILLAGE_LORD.LINK}. That Christian insulted my lord, calling him a demon. He deserves death. Now I ask again. Hand him over.[ib: aggressive][if:convo_very_stern]"/>
+		<string id="yzgfbSIR" text="My name is Saeki Gen'ichirou. I am a samurai in the service of {VILLAGE_LORD.LINK}. That Christian insulted my lord, calling him a demon. He deserves death. Now I ask again. Hand him over.[ib: aggressive][if:convo_very_stern]"/>
 		<string id="h1PtudTo" text="I don’t want any trouble. You can have him."/>
 		<string id="xwdBaHP7" text="Wise decision. Don't worry, he won't suffer.[ib: closed][if:convo_very_stern]"/>
 		<string id="SQOGC3eu" text="This Christian is under my protection. I will not give him up without a fight."/>
