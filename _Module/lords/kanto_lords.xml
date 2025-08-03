@@ -2770,7 +2770,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Adopted Son -->
-  <NPCCharacter id="lord_1_haga_2" name="{=0xmB7XJS}Haga Takakage" age="16" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_haga_2" name="{=0xmB7XJS}Haga Takatake" age="16" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="16.00" weight="0.4738" build="0.2309" key="0032F40E400004C3A4747A383CA6633A5169398669AC49BAC54C7B953889CA780173761307D9C24A00000000000000000000000000000000000000006AE40103"/>
     </face>
