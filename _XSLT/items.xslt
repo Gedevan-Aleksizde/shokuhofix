@@ -126,7 +126,7 @@
   <xsl:template match="Item[@id='sho_ozutsu_cannon']/@name" ><xsl:attribute name="name">{=b2H3pbSq}Small Ōzutsu</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='sho_ozutsu_hand_cannon']/@name" ><xsl:attribute name="name">{=PzGFwFj9}Ōzutsu</xsl:attribute></xsl:template>
 
-  <xsl:template match="Item[@name='>{=q1KgboXi}Ō-yoroi Kote']/@name" ><xsl:attribute name="name">{=q1KgboXi}Ō-yoroi-gote</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=q1KgboXi}Ō-yoroi Kote']/@name" ><xsl:attribute name="name">{=q1KgboXi}Ō-yoroi-gote</xsl:attribute></xsl:template>
   <xsl:template match="Item[@name='{=v60sSwHB}Unarmored Kote']/@name" ><xsl:attribute name="name">{=v60sSwHB}Ubu-gote</xsl:attribute></xsl:template>
   <xsl:template match="Item[@name='{=nfrAzQOE}Mail Kote']/@name" ><xsl:attribute name="name">{=nfrAzQOE}Kusari-gote</xsl:attribute></xsl:template>
   <xsl:template match="Item[@name='{=CoaDkHgm}Ornate Mail Kote' ]/@name" ><xsl:attribute name="name">{=CoaDkHgm}Ornate Kusari-gote</xsl:attribute></xsl:template>
@@ -136,9 +136,10 @@
   <xsl:template match="Item[@name='{=6roxcVNP}Armored Kote']/@name" ><xsl:attribute name="name">{=6roxcVNP}Kojino-gote</xsl:attribute></xsl:template>
 
   <xsl:template match="Item[@name='{=Oeo0q3wU}Noh Mask']/@name" ><xsl:attribute name="name">{=Oeo0q3wU}Sarugaku Mask</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@id='sho_nomadgasa_hat']/@name" ><xsl:attribute name="name">{=bbBYq8rX}Ayai-gasa</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_amigasa_hat']/@name" ><xsl:attribute name="name">{=bbBYq8rX}Ayai-gasa</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_nomadgasa_hat']/@name" ><xsl:attribute name="name">{=bbBYq8rX}Torn Tsunogasa</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='sho_roningasa_hat']/@name" ><xsl:attribute name="name">{=Trz6pkzv}Rounin-gasa</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@id='sho_ryuzo_hat']/@name" ><xsl:attribute name="name">{=R9CSFKs7}Fuka-amigasa</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_ryuzo_hat']/@name" ><xsl:attribute name="name">{=R9CSFKs7}Ryuzo's kasa</xsl:attribute></xsl:template>
 
   <xsl:template match="Item[@name='{=YOiJXHji}Suji Kabuto &amp; Menpo']/@name" ><xsl:attribute name="name">{=YOiJXHji}Suji Kabuto &amp; Menpō</xsl:attribute></xsl:template>
   <xsl:template match="Item[@name='{=us1vjvyv}Saika Kaburo &amp; Menpo']/@name" ><xsl:attribute name="name">{=us1vjvyv}Saika Kabuto &amp; Menpō</xsl:attribute></xsl:template>

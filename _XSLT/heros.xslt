@@ -24,4 +24,82 @@
   <xsl:template match="Hero[@id='lord_1_oda']/@text" ><xsl:attribute name="text">{=ea421876}Oda Nobunaga (織田信長) was born with the name Kippoushi (吉法師). He is the son of Nobuhide, serving the mainstream of the Oda clan. The Owari province is divided and ruled by some substream families of the Oda clan. He identified himself as Oda Saburou (織田三郎) or Kazusa-no-kami (上総守) later. In his adolescence, He plays arrogantly and tracklessly in his teens. There was no doubt that succession problems arose when his father passed. However, Nobunaga defeated all of his confronting relatives and vassals, and succeeded in ruling the whole of Owari province. Then, following the successive military triumphs, his domain is expanding more and more.{NEWLINE}{NEWLINE}Saitou Dousan (斎藤道三), his father-in-law and the former ruler of Mino province, once predicted Nobunaga's great leaping out at first glance before the marriage between his daughter and Nobunaga, when he still had a reputation as ō-utsuke, the most foolish guy. It is said since a long ago that fifty years in a human's life is as short as a one-night dream in Heaven. However, now, it is still halfway for Nobunaga, and the result is still unpredictable for humans.</xsl:attribute></xsl:template>
   <xsl:template match="Hero[@id='lord_1_kinoshita']/@text" ><xsl:attribute name="text">{=3698eF33}Kinoshita Hideyoshi (木下秀吉), born as Hiyoshimaru (日吉丸), identified himself as Kinoshita Toukichirou (木下藤吉郎), is one of Oda's vassals. He is not from a distinguished family and has served a few minor samurai clans. However, now he is emerging among the vassals of the Oda clan by his talent.</xsl:attribute></xsl:template>
   <xsl:template match="Hero[@id='lord_1_shimazu']/@text" ><xsl:attribute name="text">{=C3C99df1}Shimazu Yoshihisa (嶋津義久), born as Torajumaru (虎寿丸), identified himself as Shimazu Matasaburou (嶋津又三郎). First, his given name was Tadayoshi (忠良), same name as Jisshin-sai (日新斎), his great-grandfather; however, he later renamed himself Yoshihisa. He has a talented warlord, while his brothers are also skilled warriors.</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_asakura_1']/@text" ><xsl:attribute name="text">{=92Plru2R}Asakura Shouko</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_okabe_4']/@text" ><xsl:attribute name="text">{=jDEOJ3VU}Okabe Sanetaka</xsl:attribute></xsl:template>
+  
+  <xsl:template match="Hero[@id='lord_1_mori_2']/@text" ><xsl:attribute name="text">{=Shokuho6Bb23d93}Mouri Myokyu.</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_mori_3']/@text" ><xsl:attribute name="text">{=Shokuho83630ee8}Mouri Takamoto.</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_mori_4']/@text" ><xsl:attribute name="text">{=Shokuho2521e011}Mouri Ayaya.</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_mori_5']/@text" ><xsl:attribute name="text">{=Shokuhof4FE5Ad7}Mouri Motoaki.</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_mori_6']/@text" ><xsl:attribute name="text">{=Shokuhoea344E35}Mouri Hidekane.</xsl:attribute></xsl:template>
+  
+  <xsl:template match="Hero[@id='lord_1_hojo']/@text" ><xsl:attribute name="text">{=P3zTiZCm}Houjou Ujimasa</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_hojo_1']/@text" ><xsl:attribute name="text">{=RSvvwQuG}Houjou Hosho-in</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_hojo_2']/@text" ><xsl:attribute name="text">{=fpxfCA95}Houjou Ujiyasu</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_hojo_3']/@text" ><xsl:attribute name="text">{=w54S5I3N}Houjou Zuikei-in</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_hojo_4']/@text" ><xsl:attribute name="text">{=pizr75r3}Houjou Ujinao</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_hojo_5']/@text" ><xsl:attribute name="text">{=1agVt6tW}Houjou Ujiteru</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_hojo_6']/@text" ><xsl:attribute name="text">{=iUvP6aFv}Houjou Hisa</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_hojo_7']/@text" ><xsl:attribute name="text">{=fAdkH6BS}Houjou Ujikuni</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_hojo_8']/@text" ><xsl:attribute name="text">{=Ihhdccnz}Houjou Fuku</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_hojo_9']/@text" ><xsl:attribute name="text">{=I6HLatlC}Houjou Ujinori</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_hojo_10']/@text" ><xsl:attribute name="text">{=XT3whBO1}Houjou Kougen-in</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_hojo_11']/@text" ><xsl:attribute name="text">{=HMftyqYc}Houjou Gen-an</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_kogakubo_6']/@text" ><xsl:attribute name="text">{=F9XMsCHI}Ashikaga Iekuni</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_haga_2']/@text" ><xsl:attribute name="text">{=0xmB7XJS}Haga Takatake</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ito']/@text" ><xsl:attribute name="text">{=XTnJEsYW}Itou Yoshisuke</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ito_1']/@text" ><xsl:attribute name="text">{=Zo5RCGJQ}Itou Asa</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ito_2']/@text" ><xsl:attribute name="text">{=4atnqu27}Itou Takashiro</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ito_3']/@text" ><xsl:attribute name="text">{=uihfZdNy}Itou Aso</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ito_4']/@text" ><xsl:attribute name="text">{=zc3RATLY}Itou Yoshimasu</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ito_5']/@text" ><xsl:attribute name="text">{=bi2KysQW}Itou Houjyo</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ito_6']/@text" ><xsl:attribute name="text">{=lVI3T9fG}Itou Machigami</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ito_7']/@text" ><xsl:attribute name="text">{=85Bsa0wA}Itou Suketaka</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_otomo_1']/@text" ><xsl:attribute name="text">{=UIKx01xx}Ōtomo Lady Nata</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_otomo_2']/@text" ><xsl:attribute name="text">{=7sbPoa0a}Ōtomo Yoshimune</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_otomo_3']/@text" ><xsl:attribute name="text">{=a5rohL3A}Ōtomo Chikaie</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_otomo_4']/@text" ><xsl:attribute name="text">{=acpnamQM}Ōtomo Chikamori</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_otomo_5']/@text" ><xsl:attribute name="text">{=HgdZp0Wl}Ōtomo Emi</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_otomo_6']/@text" ><xsl:attribute name="text">{=5HotxjQe}Ōtomo Yuri</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_otomo_7']/@text" ><xsl:attribute name="text">{=svKW968A}Ōtomo Chikasada</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='dead_lord_1_otomo_']/@text" ><xsl:attribute name="text">{=TzTHrzds}Ōtomo Yoshiaki</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='dead_lord_1_otomo_2']/@text" ><xsl:attribute name="text">{=z3dbPelZ}Ōtomo Boujo</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ryuzoji']/@text" ><xsl:attribute name="text">{=EJFqZ0Re}Ryūzouji Takanobu</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='dead_lord_1_ryuzoji_1']/@text" ><xsl:attribute name="text">{=TVY3ysQM}Ryūzouji Chikaie</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ryuzoji_2']/@text" ><xsl:attribute name="text">{=pKRWlHY2}Ryūzouji Keigin-ni</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ryuzoji_1']/@text" ><xsl:attribute name="text">{=GJikOBTs}Ryūzouji Aoi</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ryuzoji_3']/@text" ><xsl:attribute name="text">{=IunQmBW8}Ryūzouji Masaie</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ryuzoji_4']/@text" ><xsl:attribute name="text">{=BpNWO1VW}Ryūzouji Ietane</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ryuzoji_5']/@text" ><xsl:attribute name="text">{=sLjMUtzo}Ryūzouji Ienobu</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ryuzoji_6']/@text" ><xsl:attribute name="text">{=afjOzd7v}Ryūzouji Tamatsuru</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ryuzoji_7']/@text" ><xsl:attribute name="text">{=dJrycT5U}Ryūzouji Yasu</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ryuzoji_8']/@text" ><xsl:attribute name="text">{=Bun8uTcC}Ryūzouji Nobukane</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ryuzoji_9']/@text" ><xsl:attribute name="text">{=QoJqPtiQ}Ryūzouji Shinobu</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ryuzoji_10']/@text" ><xsl:attribute name="text">{=1U8b3UIP}Ryūzouji Nobuaki</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ryuzoji_11']/@text" ><xsl:attribute name="text">{=tITu2Ofm}Ryūzouji Naganobu</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ryuzoji_12']/@text" ><xsl:attribute name="text">{=jmFzBD6r}Ryūzouji Satsuki</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ryuzoji_13']/@text" ><xsl:attribute name="text">{=oKY3txxT}Ryūzouji Yasutoshi</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ryuzoji_14']/@text" ><xsl:attribute name="text">{=uPz1Xvdn}Ryūzouji Kikyo</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ryuzoji_15']/@text" ><xsl:attribute name="text">{=UOIYnsPP}Ryūzouji Shinko-in</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ichijo']/@text" ><xsl:attribute name="text">{=l9dNB33O}Ichijou  Kanesada</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ichijo_1']/@text" ><xsl:attribute name="text">{=vZK6RwNC}Ichijou  Tamafuji</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ichijo_2']/@text" ><xsl:attribute name="text">{=aa7k9lsZ}Ichijou  Tadamasa</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ichijo_3']/@text" ><xsl:attribute name="text">{=FH6ohwg7}Ichijou  Nobuko</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ichijo_4']/@text" ><xsl:attribute name="text">{=84OJJiZg}Ichijou  Mariko</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_chosokabe']/@text" ><xsl:attribute name="text">{=EFVk0L5h}Chōsokabe Motochika</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_chosokabe_1']/@text" ><xsl:attribute name="text">{=6CK8HDZR}Chōsokabe Amane</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_chosokabe_2']/@text" ><xsl:attribute name="text">{=s6nTS5jf}Chōsokabe Nobuchika</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_chosokabe_3']/@text" ><xsl:attribute name="text">{=OdLEdQd3}Chōsokabe Chikakazu</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_chosokabe_4']/@text" ><xsl:attribute name="text">{=JVEOWyAi}Chōsokabe Suzu</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_chosokabe_5']/@text" ><xsl:attribute name="text">{=MgtskN05}Chōsokabe Honoka</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_chosokabe_6']/@text" ><xsl:attribute name="text">{=ufdDL1IS}Chōsokabe Ako</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_kosokabe']/@text" ><xsl:attribute name="text">{=U9RsqAwX}Kōsokabe Chikayasu</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_kosokabe_1']/@text" ><xsl:attribute name="text">{=RySY5fQu}Kōsokabe Yuzuha</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_soma']/@text" ><xsl:attribute name="text">{=CrgYCr35}Souma Moritane</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_soma_1']/@text" ><xsl:attribute name="text">{=ppxVSFKS}Souma Kake</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_soma_2']/@text" ><xsl:attribute name="text">{=CkTKok6g}Souma Yoshitane</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_soma_3']/@text" ><xsl:attribute name="text">{=bI1XmCI8}Souma Takatane</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_soma_4']/@text" ><xsl:attribute name="text">{=YwuGBeax}Souma Satotane</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_soma_5']/@text" ><xsl:attribute name="text">{=nci1JssK}Souma Haru</xsl:attribute></xsl:template>
 </xsl:stylesheet>
+

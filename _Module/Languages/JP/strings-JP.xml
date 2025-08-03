@@ -14,7 +14,7 @@
     <string id="fSHsjzwC" text="天流の兵法の概要が記された巻物。天流は長物術や手裏剣術や捕手術を含む兵法の流派である。"/>
     <string id="43Qyl6a1" text="中條流の師である鐘捲通宗に師事した伊藤景久によって創始された、一刀流の兵法が記された巻物。"/>
     <string id="Q4dwDikE" text="神道流を修め、丸目新陰流の創始者でもある丸目長恵の教えを記した巻物。"/>
-    <string id="YDassFgV" text="十文字鎌槍の扱いに特化した槍術の流派である宝蔵院流の技を記した巻物であり、攻めと守りの技術が分けて書かれている。"/>
+    <string id="YDassFgV" text="十文字鎌槍の扱いに特化した槍術の流派である宝蔵院流の技を記した巻物であり、攻めと守りの技に分けて書かれている。"/>
     <string id="IUww3Wm5" text="将軍足利義教の弓術の師範だった小笠原持長によって書かれた書物で、弓の扱いと、弓を破損した場合の術について書かれている。"/>
     <string id="JG93otWp" text="武田氏の弓の弓の秘術について書かれた書物 武田氏の一派の当主である武田元信によって書かれ、子孫に受け継がれていた。"/>
     <string id="OJgoEU16" text="足利将軍家も取り入れた古い馬術の流派である、大坪流馬術の記された書物である。"/>
@@ -37,8 +37,8 @@
     <string id="pYmNTiMK" text="修験道の儀式と教義の口伝をまとめた書物。日光山の山伏である阿吸房即傳によって書かれた。"/>
     <string id="AYhzKPj2" text="将軍足利義満に刀の管理を任された宇都宮三河入道によって書かれた五巻の書物。彼は刀を製作年と刀工の系譜沿って分類し、刀の知名度や寸法についても記した。"/>
     <string id="EwYMTiHV" text="各地の刀鍛冶の名簿が記された巻物。各鍛冶師の銘、作風、逸話、系譜についての記載もある。"/>
-    <string id="b5wKRFvG" text="父の始めた事業を継いだ斎藤利政が完成させた、およそ八百四十振の刀を収録した書物で、粟田口派、相州派、中国四国・北陸・備前備中・九州の刀を含んでいる。"/>
-    <string id="kCaKCo01" text="様々な國の刀鍛冶を五段階で評価し、その最高傑作、作成時期、著名な剣の実例について記した書物。"/>
+    <string id="b5wKRFvG" text="父の始めた事業を継いだ斎藤利匡が完成させた、およそ八百四十振の刀を収録した書物で、粟田口派、相州派、中国四国・北陸・備前備中・九州の刀を含んでいる。"/>
+    <string id="kCaKCo01" text="諸國の刀鍛冶を五段階で評価し、その最高傑作、作成時期、著名な剣の実例について記した書物。"/>
     <string id="sLDnkOCe" text="畿内の山々の由来と歴史について簡易に説明した書物。"/>
     <string id="z0uNk7ZU" text="貞応二年 (1223年) の鎌倉から京への旅行を記した書物。名物名所の説明のほか、古い漢籍や漢詩、あるいは仏教の説話が多数引用されている。"/>
     <string id="Docmd9xI" text="貞応三年 (1242年) に、京の東山から鎌倉への道中の見聞をまとめた旅行記。地理について詳細に書かれている。"/>
@@ -66,7 +66,7 @@
     <string id="SjVaQf1a" text="源順によって書かれた、様々な事柄に対する三千項にも及ぶ百科事典。"/>
     <string id="edDbDSHL" text="日本と唐土の様々な語句六百二十項目の意味で埋め尽くされた書物。天界の事象・神々・国・下界・地理・本草類・鳥獣虫類・人間の問題・人体・仏教・宝物・衣服・楽器・雑貨・食物・飲物その他について書かれている。"/>
     <string id="AspEeudR" text="洞院公賢によって書かれた中世の百科事典。地理天文・朝廷の各部門・文学・故実有職・技工芸・宗教と禁忌について書かれている。"/>
-    <string id="xFWvS5gM" text="東麓破衲について書かれた、社会・季節の出来事・度量衡・言語・人倫その他について書かれた十八章の百科事典。"/>
+    <string id="xFWvS5gM" text="東麓破衲 (とうろくのはのう) について書かれた、社会・季節の出来事・度量衡・言語・人倫その他について書かれた十八章の百科事典。"/>
     <string id="qYy1U6EE" text="瀬戸内海の海上交易の慣習法三十一条について明文化した書物。船・水夫・船の引き上げ・航海の儀礼の規制について書かれている。"/>
     <string id="sBKwO1Rh" text="鎌倉幕府の五十一条の法律集。守護と地頭の義務についての様々な事柄を記し、朝廷と荘園とで異なる侍の独特な法体系が記述されている。"/>
     <string id="er6VQ05c" text="幕府の基本的な成文法である御成敗式目に関する、清原宣賢の覚書。高家の法と、高家の法と武家の法を混合することへの議論に関する様々な説の引用と説明が含まれている。"/>
@@ -80,7 +80,7 @@
     <string id="vq0zLdDx" text="医師の梶原性全 (しょうぜん) によって書かれた、鎌倉時代の最先端の医学書。梶原は唐土で当時の最先端の医学書と治療技術を参照し、この複数巻の医学書を編集した。膨大な種類の病と解剖図が掲載されている。"/>
     <string id="irBHhwiz" text="正和二年 (1313年) 頃に書かれた梶原性全の医学書で、全編が漢文で書かれている。当地の医学をそのまま伝えることを意図しているとされる。"/>
     <string id="WOuDgTfK" text="明国の熊宗立による数巻の医学書を、堺の商人である阿佐井野宗瑞が書き写したもの。大量販売を意図しており、様々な疾病に対する広範な知識の普及に不可欠だった。"/>
-    <string id="PtJNY3zY" text="曲直瀬道三による病と治療についての八巻の書物。古来から近年の唐土の文献に由来する様々な用語に関する説明を含み、日本の数多の病に関する診断と治療のとって必須の内容となっている。"/>
+    <string id="PtJNY3zY" text="曲直瀬道三 (まなせどうさん) による病と治療についての八巻の書物。古来から近年の唐土の文献に由来する様々な用語に関する説明を含み、日本の数多の病に関する診断と治療のとって必須の内容となっている。"/>
     <string id="hWxWyNii" text="城の普請の方法と手順に関する諸項目を包括的に記した書物。地形とその複雑さに応じて築城に必要になる材料、人手、技術について書かれている。"/>
     <string id="jXNpbKGC" text="宋朝までに書かれた軍事著作の、曾公亮の編纂集。各巻は一連の軍事知識に関する理論と訓令と、様々な攻城兵器や防衛装置についての記述で埋め尽くされている。"/>
     <string id="Shokuho4E86c472" text="私は{CLAN_NAME}家の{CONVERSATION_CHARACTER.LINK}である。"/>
@@ -456,6 +456,8 @@
     <string id="OROp0LAK" text="鉄炮衆の追加費用"/>
     <string id="M4ydNAS7" text="一領具足の追加費用"/>
     <string id="J13JMzI3" text="金が足りない"/>
+    <string id="K3MHJOzf" text="{ITEM_NAME}を拝領いたした"/>
+    <string id="fJSTQddC" text="{QUANTITY}個の{ITEM_NAME}を得た"/>
     <string id="FdWQiM9X" text="ちょうどいい値付けだ!"/>
     <string id="D4WQ03TE" text="よいぞ。"/>
     <string id="qUP6igXN" text="船の選択"/>
@@ -482,11 +484,12 @@
     <string id="Shokuho24Ac0B1c" text="街道"/>
     <string id="ShokuhoAfE44d60" text="浜辺"/>
     <string id="vNm8fo7R" text="海"/>
+    <string id="W9aYBhyT" text="この兵士を召し抱えますか?"/>
     <string id="dmNn1iRw" text="丹生島の湊"/>
     <string id="ei2gsY4H" text="黒瀬の湊"/>
     <string id="hTC8JuAs" text="日野江の湊"/>
     <string id="Bco2qodf" text="中村の湊"/>
-    <string id="5shgbY6h" text="岡豊之湊"/>
+    <string id="5shgbY6h" text="岡豐之湊"/>
     <string id="ow0uuaTv" text="牛木の湊"/>
     <string id="NQNBpp3I" text="天霧の湊"/>
     <string id="njJsUigv" text="湯築の湊"/>
@@ -532,7 +535,7 @@
     <string id="WDYh305G" text="小田原の湊"/>
     <string id="YJihLrsc" text="江戸の湊"/>
     <string id="puuqlRZm" text="飯沼の湊"/>
-    <string id="SalUETQ2" text="讃岐の湊"/>
+    <string id="SalUETQ2" text="佐貫の湊"/>
     <string id="mHdDMayp" text="小高の湊"/>
     <string id="ReVfe0NF" text="十三湊の湊"/>
     <string id="VXRdkiBV" text="石巻の湊"/>
@@ -561,6 +564,7 @@
     <string id="ihU3yZM0" text="石見"/>
     <string id="ryejJvC5" text="鞆ヶ浦"/>
     <string id="VDGlQJwd" text="石金"/>
+    <string id="r5ANVqKb" text="波根"/>
     <string id="5CN8ewVp" text="月山富田"/>
     <string id="LwUShO8j" text="安来"/>
     <string id="EOMv6L5Q" text="美保關"/>
@@ -581,6 +585,7 @@
     <string id="s36OCLVb" text="室住"/>
     <string id="P01HZUoY" text="岩國"/>
     <string id="xkmklOPf" text="桜尾城"/>
+    <string id="OPAS78bG" text="玖波"/>
     <string id="glsWfxE7" text="嚴島"/>
     <string id="9iUfpjzA" text="火之山城"/>
     <string id="1nlzOWW9" text="三身湊"/>
@@ -590,7 +595,9 @@
     <string id="jIQ8ABmU" text="呉"/>
     <string id="cw2phJPG" text="松尾城"/>
     <string id="dYC6hZpp" text="竹原"/>
+    <string id="eqDZ9V5G" text="白市"/>
     <string id="MGzfCArb" text="三澤城"/>
+    <string id="QNTlHbu0" text="杵築"/>
     <string id="BSLeHhbG" text="白方"/>
     <string id="H4uQyBi6" text="来島城"/>
     <string id="ZyJVH3pK" text="宮浦"/>
@@ -611,6 +618,7 @@
     <string id="MTe8tb9b" text="戸川"/>
     <string id="6ccxu05w" text="羽衣石城"/>
     <string id="0WX9hA8s" text="橋津"/>
+    <string id="04PwDqo1" text="賀露"/>
     <string id="VqVNevKA" text="一乗谷"/>
     <string id="cT34Ebdw" text="水落"/>
     <string id="t2wPJnTl" text="北之庄"/>
@@ -624,7 +632,9 @@
     <string id="NgWPLmrQ" text="羽咋"/>
     <string id="30Bb9CUF" text="氷見"/>
     <string id="O2PYgcG1" text="春日山"/>
+    <string id="POZGi4zI" text="府内"/>
     <string id="fLVmeCsk" text="直江津"/>
+    <string id="RVCdQOAQ" text="新居"/>
     <string id="CK6roQ1s" text="新潟"/>
     <string id="2UhVzhNg" text="蒲原"/>
     <string id="FXLQqRDx" text="新発田"/>
@@ -675,6 +685,7 @@
     <string id="y0hE60ln" text="放生津"/>
     <string id="CepFf3AB" text="魚津"/>
     <string id="p9IiDYf9" text="穴水城"/>
+    <string id="xvGZzqHc" text="中居"/>
     <string id="h7DlJtQC" text="輪島"/>
     <string id="4atk7P2g" text="根知城"/>
     <string id="5rC2HuFe" text="近江"/>
@@ -718,6 +729,7 @@
     <string id="XZY1KrYO" text="沼津"/>
     <string id="ckiCB6KN" text="土肥"/>
     <string id="TbEP7yGe" text="下田城"/>
+    <string id="A5CCc511" text="伊東"/>
     <string id="nykU8Y8J" text="下田"/>
     <string id="VqLXxRhc" text="大宮城"/>
     <string id="u3qEz2Sj" text="大宮"/>
@@ -731,6 +743,7 @@
     <string id="Z1I0sr9p" text="牟婁"/>
     <string id="37059562" text="三河小松原"/>
     <string id="OzxYpqps" text="大垣城"/>
+    <string id="63YZvplM" text="宮川"/>
     <string id="gVfxpn0b" text="養老"/>
     <string id="d1uSH7Lb" text="成願寺城"/>
     <string id="drRb1eJx" text="成願寺"/>
@@ -740,6 +753,7 @@
     <string id="ckPgXqYM" text="白川"/>
     <string id="yyGbsWow" text="鍋山城"/>
     <string id="RYgkBrwy" text="八賀"/>
+    <string id="JddcPSQa" text="吉城"/>
     <string id="3iExDKs3" text="小鷹利城"/>
     <string id="zNtx1PQ0" text="築館"/>
     <string id="NY1GGm2P" text="森城"/>
@@ -749,7 +763,7 @@
     <string id="4nFCr6ZB" text="洗馬"/>
     <string id="qVMNO1bw" text="妻籠"/>
     <string id="xsrz8R6S" text="高遠城"/>
-    <string id="kpvsA1WL" text="寺"/>
+    <string id="kpvsA1WL" text="弖良"/>
     <string id="Gc9lqI9K" text="福地"/>
     <string id="E998dBc3" text="能見城"/>
     <string id="SPg1xeg2" text="韮崎"/>
@@ -829,6 +843,7 @@
     <string id="8UOoxztL" text="新田"/>
     <string id="rZXDni5c" text="館林"/>
     <string id="fVwXqwlO" text="唐澤山城"/>
+    <string id="xRwhSNem" text="赤見"/>
     <string id="5f1d48E3" text="佐野"/>
     <string id="C8avRQxs" text="結城城"/>
     <string id="VWIh1O6T" text="壬生"/>
@@ -838,6 +853,7 @@
     <string id="9OKrr8tM" text="真岡"/>
     <string id="S931liPY" text="笠間城"/>
     <string id="uapC71GC" text="笠間"/>
+    <string id="lKDCjpUw" text="赤澤"/>
     <string id="2nt5o1X2" text="大田城"/>
     <string id="NBk1hBZz" text="大田"/>
     <string id="XneOdQah" text="土浦"/>
@@ -851,8 +867,10 @@
     <string id="XpOX5VFs" text="古河"/>
     <string id="kX8k2MwY" text="關宿"/>
     <string id="lwTLUV3T" text="鹿島城"/>
+    <string id="qtzqW2Oy" text="佐原"/>
     <string id="dvlPiU2U" text="鹿島"/>
     <string id="VMkkWy2l" text="鉢形城"/>
+    <string id="KHJX6ldN" text="藤田"/>
     <string id="dVLQGITS" text="秩父"/>
     <string id="Ix4mcLNc" text="姫路"/>
     <string id="LSCpqFPj" text="那波"/>
@@ -894,6 +912,7 @@
     <string id="31sB29eI" text="宮津"/>
     <string id="4989c941" text="丹後田辺"/>
     <string id="R4vwFE7h" text="御着城"/>
+    <string id="TNmMVECR" text="大塩"/>
     <string id="wjCmFvz8" text="高砂"/>
     <string id="9HBXGwhM" text="三木城"/>
     <string id="Bf5D3324" text="三木"/>
@@ -910,6 +929,7 @@
     <string id="kJ7GSg2b" text="多賀"/>
     <string id="eiBJgTd6" text="甲良"/>
     <string id="VDk55ikU" text="信貴山城"/>
+    <string id="8BeZLj90" text="富雄"/>
     <string id="d6koZFZX" text="平群"/>
     <string id="X1XNarZc" text="高屋城"/>
     <string id="H96dzZca" text="久宝寺"/>
@@ -952,8 +972,12 @@
     <string id="1rfay3TH" text="小松原"/>
     <string id="HbMqTOlK" text="御坊"/>
     <string id="bbUOxTCp" text="小山"/>
+    <string id="j25R8lHH" text="高須"/>
     <string id="kWIpce0W" text="姶良"/>
+    <string id="LUmsTlq0" text="鹿屋"/>
     <string id="DvfCu92X" text="内"/>
+    <string id="L6kjepZF" text="川上"/>
+    <string id="p6O0gMzu" text="藺牟田"/>
     <string id="eJyaOfUD" text="知覧"/>
     <string id="9w6vlX8J" text="佐土原"/>
     <string id="4XJg880P" text="宮崎"/>
@@ -961,6 +985,7 @@
     <string id="bXE3Eti6" text="人吉"/>
     <string id="4HuxiIxy" text="大畑 (おこば)"/>
     <string id="oFXG6Da7" text="木上"/>
+    <string id="5eaNziO9" text="山田"/>
     <string id="sgEq01Iv" text="丹生島"/>
     <string id="ffcYS6qW" text="引地"/>
     <string id="sRoPcqQk" text="一尺屋"/>
@@ -969,6 +994,7 @@
     <string id="ZqZ1vTUG" text="廣津"/>
     <string id="mlSVyux6" text="宇留津"/>
     <string id="p7K9495f" text="柳川"/>
+    <string id="HsmYTQSG" text="塩塚"/>
     <string id="ul6hJmhX" text="猿掛"/>
     <string id="FfxSAyD5" text="大刀洗"/>
     <string id="k2e9Z4Cn" text="隈本"/>
@@ -976,17 +1002,21 @@
     <string id="RGjU5dz5" text="梅尾"/>
     <string id="DAWFhgck" text="菊池"/>
     <string id="tfwfgbGr" text="立花山"/>
+    <string id="vAe5refA" text="水城"/>
     <string id="CpUJiWgf" text="薦野"/>
     <string id="eL3o2vmZ" text="村中"/>
+    <string id="XVb1ehch" text="徳島"/>
     <string id="0aitRUqP" text="佐留志"/>
     <string id="NjWKX8LI" text="日野江"/>
     <string id="EjeToav7" text="口之津"/>
     <string id="31c5fbDc" text="神代"/>
+    <string id="UxE57P3d" text="浜野"/>
     <string id="oAgVFI62" text="富田城"/>
     <string id="rRgHbmlr" text="根占"/>
     <string id="WZH3w9tF" text="野間"/>
     <string id="MoJR4iq9" text="志布志城"/>
     <string id="tQmhIOIF" text="志布志津"/>
+    <string id="OIi5cXVf" text="安樂"/>
     <string id="72CP6gNY" text="加世田城"/>
     <string id="1Fr3VoTo" text="垂水"/>
     <string id="hLETw6Gd" text="野方"/>
@@ -994,37 +1024,47 @@
     <string id="GKxseaL3" text="梅北"/>
     <string id="NH7hv1F0" text="財部"/>
     <string id="VDOHxziL" text="加治木城"/>
+    <string id="yIiSFFeh" text="蒲生"/>
     <string id="NahCzVBn" text="平松"/>
     <string id="V4l3uOOV" text="伊作城"/>
     <string id="DHj4tjcO" text="田尻"/>
     <string id="J9ojWArl" text="坊津"/>
     <string id="YlHG1uim" text="頴娃城"/>
+    <string id="1PXeijMQ" text="山川"/>
     <string id="f1qlejME" text="指宿"/>
     <string id="cVBxmTT1" text="飯野城"/>
     <string id="fCbUH9xs" text="池島"/>
     <string id="ABY7N8bq" text="白鳥"/>
     <string id="kQ3nFXBb" text="一宇治城"/>
     <string id="5cBCgUn1" text="串木野"/>
+    <string id="fzrGQOuD" text="藤河"/>
     <string id="e0V4GJYO" text="泉城"/>
     <string id="FKAHnPeI" text="阿久根"/>
     <string id="HT1TJQRB" text="堂崎"/>
     <string id="m9VjNH76" text="飫肥城"/>
+    <string id="cXYrWwnD" text="酒谷"/>
     <string id="hih1prHh" text="油津"/>
     <string id="0peuGHvI" text="清武城"/>
     <string id="JHhvCoXG" text="鏡洲"/>
     <string id="o7OrcwcK" text="曾井"/>
     <string id="UVF2azp9" text="綾城"/>
     <string id="3DfoUkQy" text="野尻"/>
+    <string id="UysYG0ST" text="三納"/>
     <string id="0LHvahhd" text="門川城"/>
+    <string id="8sz0tXhd" text="佐志生津"/>
     <string id="J0Mo41hV" text="鍋城"/>
     <string id="RnY20xbi" text="久米"/>
     <string id="xRmEtOTl" text="大口城"/>
+    <string id="7CLX8g0B" text="羽月"/>
     <string id="UiKJPgNh" text="牛屎院"/>
     <string id="dENmoFnW" text="古麓城"/>
     <string id="VtJMB9Su" text="徳淵津"/>
     <string id="MnzEGhcs" text="佐敷"/>
     <string id="kXl5DF4d" text="鶴崎城"/>
     <string id="3E9YRaFR" text="寺地濱"/>
+    <string id="TLZ8fwHD" text="千歳"/>
+    <string id="r0l7lIjW" text="岡城"/>
+    <string id="RJwm8sOR" text="藤北"/>
     <string id="OHnTDMNl" text="一萬田"/>
     <string id="6weMf3aJ" text="杵築城"/>
     <string id="91EB12f9" text="奈多"/>
@@ -1038,18 +1078,22 @@
     <string id="EOUbYBPk" text="玉岡城"/>
     <string id="1C2cA1b6" text="真木"/>
     <string id="Ucg7oX28" text="竹迫"/>
-    <string id="LKUxUR8Y" text="香春岳城"/>
+    <string id="LKUxUR8Y" text="香春嶽城"/>
     <string id="aopAmhHp" text="小倉山"/>
     <string id="Eux6uT73" text="松山城"/>
     <string id="0QTdZKo2" text="門司"/>
     <string id="aALll4Gm" text="長野"/>
     <string id="lJKoL9IH" text="蓮池城"/>
     <string id="qTl7CJAl" text="鹿江"/>
+    <string id="5u0Pc117" text="崎村"/>
     <string id="Qhvj6XO9" text="勢福寺城"/>
+    <string id="SBckHhdZ" text="知夫"/>
     <string id="2lDJWmDh" text="今山"/>
     <string id="bsA0vCZ7" text="梶峰城"/>
+    <string id="TMiJJOHo" text="羽佐間"/>
     <string id="kYDrfyq9" text="晴気"/>
     <string id="MBqlRZU5" text="三城城"/>
+    <string id="nBaMGgNo" text="岩松"/>
     <string id="b7yO79tn" text="長崎"/>
     <string id="40woqJi6" text="須古城"/>
     <string id="pyqR4PGc" text="杵島"/>
@@ -1057,6 +1101,8 @@
     <string id="j1XEMyqn" text="益城"/>
     <string id="Tr73jAZQ" text="宇土"/>
     <string id="TvyJMitP" text="岩尾城"/>
+    <string id="y19oi5PN" text="堅志田"/>
+    <string id="ROS1fAAN" text="甲佐"/>
     <string id="Xycc7oGz" text="中村"/>
     <string id="r2zh2zgG" text="柏島"/>
     <string id="62C1a440" text="土佐清水"/>
@@ -1066,6 +1112,8 @@
     <string id="Y3U6iVbc" text="法華津"/>
     <string id="buxaDLVS" text="湯築"/>
     <string id="cOkHyAGW" text="荏原"/>
+    <string id="nlTcnzDH" text="松前"/>
+    <string id="wQMWYpmM" text="三津浜"/>
     <string id="BkQ18hKt" text="岡豐"/>
     <string id="q6ybFEVI" text="浦戸"/>
     <string id="7XDTcaQb" text="本山"/>
@@ -1112,6 +1160,7 @@
     <string id="6B8abeE6" text="会津黒川"/>
     <string id="qZJxFCAP" text="神指"/>
     <string id="lUgrIbsy" text="新宮"/>
+    <string id="x3I1aFDf" text="崎川"/>
     <string id="RCqlfDCy" text="米澤"/>
     <string id="ucQBmrCG" text="長井"/>
     <string id="F5azEbwE" text="小松"/>
@@ -1133,10 +1182,12 @@
     <string id="H1j9IJpL" text="豐島"/>
     <string id="YUFX5LdB" text="三戸"/>
     <string id="REnRF8j7" text="奥入瀬"/>
+    <string id="g5nOB4NF" text="斗内"/>
     <string id="JD0A5H5Z" text="田子"/>
     <string id="d2r4B3vq" text="十三湊"/>
     <string id="PUlURumW" text="三厩"/>
     <string id="fBj65a4D" text="磯松"/>
+    <string id="1SYbPUL2" text="潮潟"/>
     <string id="cSv4dDYF" text="船岡城"/>
     <string id="bQNPHfvT" text="關柴"/>
     <string id="QaEH7Dir" text="船岡"/>
@@ -1165,6 +1216,7 @@
     <string id="QOPgjGHV" text="西山"/>
     <string id="bD7XR9fp" text="丸森"/>
     <string id="UZpcsghh" text="亘理城"/>
+    <string id="FXqfnZn9" text="坂津田"/>
     <string id="ZwoRpuj0" text="亘理"/>
     <string id="oaO9LGPD" text="天童城"/>
     <string id="bK3dj8lF" text="白岩"/>
@@ -1290,10 +1342,12 @@
     <string id="8Ewallt6" text="竹束"/>
     <string id="U53M9G9W" text="海大筒"/>
     <string id="yVf1b2wm" text="掻楯"/>
+    <string id="Gc0UxEgr" text="弾備え"/>
     <string id="nQPLbUa6" text="城攻め用の篝火といくらかの物資があれば、射手は矢を火で照らせる"/>
     <string id="uPDOEMCR" text="大筒のこと"/>
     <string id="2pSICaQU" text="海大筒は珍しい兵器で、設営に時間がかかるが敵の要塞に対して破滅的な一撃を与える"/>
     <string id="7NqA9UJd" text="掻楯は敵の矢弾からの守りになる"/>
+    <string id="GzRqki8Q" text="弾備えは矢弾を賄う場所を用意する"/>
     <string id="5CFJRxEX" text="Serdar"/>
     <string id="Vsguc1Lx" text="ashigaru_lord_male_medium"/>
     <string id="sdOtGck6" text="ashigaru_lord_female_medium"/>
@@ -1500,6 +1554,8 @@
     <string id="a436458d" text="祭神、大山祇神・大日如来"/>
     <string id="bBB5fI4t" text="これは訓練場だ。"/>
     <string id="YLn5hxVB" text="応仁の乱の時から、城攻め職人が主を替えた後に捕まることがあれば、悲惨な死を迎える。だが世は変わった。日之本の都は熟れた橘の実のように地に落ち、人々は太古のように高い防壁をめぐらせた。南海の大名は城攻め職人には金子を惜しみ、しばしば支払いは滞った。それで私は新しい仕え先があれば、鞍替えすることにした。"/>
+    <string id="QEO5Wo1m" text="私は積年、龍造寺山城守殿のもとに馳せ参じている。物資にも金子にも十分な蓄えがある。近くの村におるあの娘は、大人しいが、元気な子を産めそうな腰つきだ。盛大な婚礼を挙げたい。"/>
+    <string id="X9IcvNnc" text="そこで、その娘の兄のもとを訪ね、馬二十頭を持参すると申し出た。だがその者は妹を「『お主ごとき』にはやらん」とぬかしおった。どういう意味だと食い下がったが、取り合おうとしないので一発殴ってやった。いや、殴ったのは一発だけではなかったかもしれんし、一発だけだったかもしれん。本当に傷つけるつもりではなかった。だがこの青二才めは、これがもとで死んでしまった。"/>
     <string id="L64od7cC" text="少年の頃、私は村で一番の戦士だった。「まだ少年なのに、大人の戦士より強い」と人々は言った。これは自慢ではない。実際に皆がそう言ったのだ。だから私は大人になって出稼ぎをすることにした。"/>
     <string id="rlHt9ZWE" text="面白そうだ。"/>
     <string id="toWs4s58" text="そうして今に至る。結婚にはあまり興味ないが、デナールは好きだし、自由も好きだ。いつか見事な農場と、父の老後のために何人かの奴隷も揃えて、父を驚かせてやりたい。"/>
@@ -2204,7 +2260,7 @@
     <string id="mdI2AIhF" text="服部保英"/>
     <string id="6S59Qnpu" text="服部保正"/>
     <string id="vSW8NxqF" text="服部はる"/>
-    <string id="Bd0b0fd8" text="長尾輝虎は幼名を虎千代といい、後に長尾平三を名乗った。元服直後の彼の名はは景虎だが、現在は輝虎である。彼は幼少時を寺で生活した。彼の兄たちが相次いで亡くなると、彼は長尾家に呼び戻され、ついには一族の当主の座を継承した。輝虎の幼少期が原因なのかはわからないが、彼は信仰心が篤く、特に仏教の守護神であり軍神である毘沙門天を信仰した。そして後に出家し謙信を名乗った。人々が彼の軍事的才能を認めるようになると、彼自身もまた軍神として称えられるようになった。現在の彼の名字である上杉というのは、副将軍の代行を意味する関東管領であった上杉憲政から継承したものである。"/>
+    <string id="Bd0b0fd8" text="長尾輝虎は幼名を虎千代といい、長尾爲景の庶子として生まれた。当時の侍社会では一夫多妻制が受け入れられていたが、子は生母の家格で差別されていた。彼は幼少期を林泉寺で暮らした。後に長尾家に呼び戻され、病弱な兄に代わって家督を継いだ。彼は元服すると景虎となり、長尾平三を名乗ったが、後に輝虎に改めた。輝虎の幼少期が原因なのかはわからないが、彼は信仰心が篤く、特に仏教の守護神であり軍神である毘沙門天を信仰した。そして後に出家し謙信を名乗った。人々が彼の軍事的才能を認めるようになると、彼自身もまた軍神として称えられるようになった。現在の彼の名字である上杉というのは、副将軍の代行を意味する関東管領であった上杉憲政から継承したものである。"/>
     <string id="8Iv9ecNC" text="上杉あや"/>
     <string id="RWQCCx4o" text="上杉景勝"/>
     <string id="shVCPmCc" text="上杉円"/>
@@ -2212,10 +2268,10 @@
     <string id="6z9bSHa7" text="色部あずき"/>
     <string id="luKhUhXh" text="色部顕長"/>
     <string id="bSqEzLcJ" text="色部長実"/>
-    <string id="XgIyv7bL" text="蠣崎景家"/>
-    <string id="wOt7PGWW" text="蠣崎きく"/>
-    <string id="RNZWsztn" text="蠣崎春家"/>
-    <string id="UX8SD6t0" text="蠣崎まつ"/>
+    <string id="XgIyv7bL" text="柿崎景家"/>
+    <string id="wOt7PGWW" text="柿崎きく"/>
+    <string id="RNZWsztn" text="柿崎春家"/>
+    <string id="UX8SD6t0" text="柿崎まつ"/>
     <string id="CQuYOgRo" text="直江景綱"/>
     <string id="9zniFw6a" text="直江らん"/>
     <string id="aizCBXYO" text="直江せん"/>
@@ -2986,7 +3042,7 @@
     <string id="RySY5fQu" text="香宗我部ゆずは"/>
     <string id="hvyaWDgX" text="吉良親貞"/>
     <string id="DeCbQeHC" text="吉良ゆみ"/>
-    <string id="1YCmAvvP" text="吉良親実"/>
+    <string id="1YCmAvvP" text="吉良親實"/>
     <string id="FXZNXucw" text="吉良如淵"/>
     <string id="zcC4TL48" text="吉良親正"/>
     <string id="pGrd03pI" text="久武親信"/>
@@ -3028,7 +3084,7 @@
     <string id="4MZmJxE6" text="十河光明院"/>
     <string id="cjm2q36D" text="新開道善"/>
     <string id="0vFKvTmm" text="新開やちよ"/>
-    <string id="2yPLLgtG" text="新開実成"/>
+    <string id="2yPLLgtG" text="新開實成"/>
     <string id="cOejVaQ2" text="新開ぼたん"/>
     <string id="zQfWhCEH" text="新開れんげ"/>
     <string id="CjIwIpNQ" text="新開右近"/>
@@ -3089,9 +3145,9 @@
     <string id="23ZArAMO" text="伊達稙宗"/>
     <string id="BX6Yp0vZ" text="伊達泰心院"/>
     <string id="0bE83155" text="梵天丸"/>
-    <string id="HgsPH3W5" text="伊達実元"/>
+    <string id="HgsPH3W5" text="伊達實元"/>
     <string id="TGJrgoXP" text="伊達鏡清院"/>
-    <string id="5uYt8kLx" text="伊達成実"/>
+    <string id="5uYt8kLx" text="伊達成實"/>
     <string id="ROpC8P2s" text="片倉重次"/>
     <string id="w4XrKYdu" text="片倉影重"/>
     <string id="MlE07cvv" text="片倉なほこ"/>
@@ -3201,11 +3257,11 @@
     <string id="50jyluRi" text="八戸政榮"/>
     <string id="ly1rOf4V" text="八戸とき"/>
     <string id="IaI3rd8b" text="八戸直榮"/>
-    <string id="U2fcoM3V" text="九戸政実"/>
+    <string id="U2fcoM3V" text="九戸政實"/>
     <string id="OnWob7FY" text="九戸けい"/>
     <string id="ybA8C3Pn" text="九戸信仲"/>
     <string id="F44DRUrw" text="九戸ゆき"/>
-    <string id="TLlGQ3hu" text="九戸実親"/>
+    <string id="TLlGQ3hu" text="九戸實親"/>
     <string id="SMHA0cYX" text="九戸しの"/>
     <string id="ktJ3A4pU" text="北信愛"/>
     <string id="fCPVtYJi" text="北みき"/>
@@ -3379,10 +3435,10 @@
     <string id="1q5oRKEM" text="烏帽子"/>
     <string id="Oeo0q3wU" text="猿楽面"/>
     <string id="bDoglJX7" text="網代笠"/>
-    <string id="xnfE57id" text="編笠"/>
+    <string id="xnfE57id" text="綾藺笠"/>
     <string id="Ke3iOAek" text="市女笠"/>
     <string id="5MkZxjuj" text="陣笠"/>
-    <string id="bbBYq8rX" text="彩藺笠"/>
+    <string id="bbBYq8rX" text="古い角笠"/>
     <string id="Trz6pkzv" text="牢人笠"/>
     <string id="R9CSFKs7" text="深編笠"/>
     <string id="WURmQCrE" text="三度笠"/>
@@ -3663,7 +3719,7 @@
     <string id="WjvswJs2" text="大鎧具足"/>
     <string id="6gpCytKe" text="大鎧胴"/>
     <string id="56EX4QYD" text="裃"/>
-    <string id="VO0yxSgI" text="南蛮胴"/>
+    <string id="VO0yxSgI" text="南蛮人の具足"/>
     <string id="PKye4haM" text="革包胴"/>
     <string id="TIDwOG8g" text="五枚胴"/>
     <string id="iLoknD6a" text="尾張胴佩楯"/>
@@ -3744,7 +3800,7 @@
     <string id="HrxOrz25" text="大久保忠教"/>
     <string id="ksrFELDK" text="服部康成"/>
     <string id="qNbyhQaj" text="上杉謙信"/>
-    <string id="MLZq7awV" text="上杉爲景"/>
+    <string id="MLZq7awV" text="長尾爲景"/>
     <string id="QwRXJCmI" text="上杉青岩院"/>
     <string id="axhJs6IX" text="上杉昌景"/>
     <string id="jCqzvM9s" text="新発田綱貞"/>
@@ -4278,7 +4334,7 @@
     <string id="kwCYCFhQ" text="山名氏"/>
     <string id="xRnrOdTc" text="本願寺派"/>
     <string id="Hkaz0M4C" text="願證寺勢"/>
-    <string id="lx34RrxX" text="畠山氏"/>
+    <string id="lx34RrxX" text="能登畠山氏"/>
     <string id="99Mh6vBQ" text="安見氏"/>
     <string id="ikViyOmi" text="湯河氏"/>
     <string id="AFuBZx4V" text="六角氏"/>
@@ -4669,8 +4725,8 @@
     <string id="xGgjfTcH" text="新左衛門"/>
     <string id="nP12n3Fs" text="新右衛門"/>
     <string id="2HEjtotK" text="勘太郎"/>
-    <string id="ctzwdIKa" text="寛一郎"/>
-    <string id="nWOBDgpj" text="寛次郎"/>
+    <string id="ctzwdIKa" text="勘一郎"/>
+    <string id="nWOBDgpj" text="勘次郎"/>
     <string id="NbvnNk2S" text="勘三郎"/>
     <string id="kN3o6xzR" text="勘五郎"/>
     <string id="rtGBo128" text="勘十郎"/>
@@ -5099,7 +5155,7 @@
     <string id="H4V33j6B" text="横山"/>
     <string id="sdBWDJQR" text="瓜生"/>
     <string id="MzDkJCKE" text="大隈"/>
-    <string id="XXcP53zB" text="上条"/>
+    <string id="XXcP53zB" text="上條"/>
     <string id="cTtUz8rk" text="甘粕"/>
     <string id="HNMqBFKC" text="山芳"/>
     <string id="IBH0fyiq" text="安田"/>
@@ -5773,6 +5829,7 @@
     <string id="zPkDoxkU" text="zPkDoxkU/Kerkos"/>
     <string id="mpnSLYUt" text="mpnSLYUt/Assikon"/>
     <string id="PiblnoTV" text="PiblnoTV/Gournaphos"/>
+    <string id="eyYSXAYZ" text="水上移動"/>
     <string id="yULrgzDc" text="山陽の水上ボーナス"/>
     <string id="O4taxYRX" text="東山の地形ボーナス"/>
     <string id="URx8JRet" text="試合の規則は日本中どこでも同じだ。対戦相手はくじ引きで決める。団体戦をすることもあれば、一対一で戦うこともある。"/>
@@ -5963,6 +6020,7 @@
     <string id="j4lUrFwg" text="積荷の積載量"/>
     <string id="IcJXuQ6m" text="1日あたりの維持費"/>
     <string id="0dEAx8p4" text="矢弾を取る"/>
+    <string id="7KL6IPrU" text="弾の備え"/>
     <string id="d3wln31q" text="戦利品"/>
     <string id="FibVA33i" text="篝火"/>
     <string id="ApbDUy6T" text="掻楯"/>
@@ -6088,10 +6146,40 @@
     <string id="M8GWvzbw" text="japan_male_03"/>
     <string id="TiXYz9WA" text="japan_male_04"/>
     <string id="KOubITlD" text="侍の斧の刃"/>
+    <string id="6etIEETB" text="上杉爲景"/>
+    <string id="LVyZvRCD" text="新発田天璋院"/>
+    <string id="ZDygI93n" text="成田妙光院"/>
+    <string id="MsX1Hln6" text="足利芳春院"/>
+    <string id="F9XMsCHI" text="足利家國"/>
+    <string id="WIMsWqlV" text="里見さか"/>
+    <string id="NGUNB04b" text="佐竹高徳院"/>
+    <string id="19IdACYb" text="別所治貞"/>
     <string id="dcTmgzR2" text="願證寺顕忍"/>
     <string id="a0POjhcf" text="長倉洞雲斎"/>
+    <string id="lNlmN4wG" text="竹崎惟光"/>
+    <string id="85PKWhYi" text="竹崎さわ"/>
+    <string id="ahYt1SDs" text="竹崎長秀"/>
+    <string id="GA5dFkPJ" text="竹崎たま"/>
+    <string id="q4kHT4nt" text="竹崎つき"/>
+    <string id="afjOzd7v" text="龍造寺たまつる"/>
+    <string id="hShr91A7" text="清水雪窓夫人"/>
     <string id="VHFYSwnu" text="新納忠堯"/>
+    <string id="vktgsLcf" text="大西頼武"/>
+    <string id="wseAsdnA" text="大西あまき"/>
+    <string id="7RyhvBYR" text="大西茂元"/>
+    <string id="OBe36Dgm" text="大西はるか"/>
+    <string id="s4GK3ysW" text="大西頼晴"/>
+    <string id="chCyXnc8" text="大西とち"/>
+    <string id="JJbwQ3jB" text="大西頼包"/>
+    <string id="EqsKtTd5" text="大西頼信"/>
+    <string id="tzDZ2CnQ" text="大西元武"/>
+    <string id="L0lMoM6a" text="大西すずらん"/>
+    <string id="WbfzMksA" text="大西貞武"/>
+    <string id="mH1Ruh1j" text="大西はまぎく"/>
+    <string id="LACOAPLK" text="大西基隆"/>
+    <string id="MVfwFwvD" text="大西恵善院"/>
     <string id="bI1XmCI8" text="相馬隆胤"/>
+    <string id="1dDTpLSL" text="大崎義隆"/>
     <string id="ub8ZUT6a" text="こわい暴力の旗"/>
     <string id="drWCtLlz" text="暴力の旗"/>
     <string id="7HHrUYJL" text="『愛洲陰流目録』"/>
@@ -6120,9 +6208,10 @@
     <string id="vY9Bp6uB" text="ふき"/>
     <string id="9yOqtKzp" text="毛利"/>
     <string id="44ThIRyK" text="一條"/>
-    <string id="Nvd0m2Az" text="Kaito"/>
+    <string id="Nvd0m2Az" text="不審な商人"/>
     <string id="PBCfHu7Z" text="黒脛巾衆の藤兵衛"/>
     <string id="27cVja0G" text="神道への信心"/>
+    <string id="rKPe0b8E" text="仏門に連なる者たちは、神道の信徒よりも寺からの意見をより尊重する。"/>
     <string id="mAVRtypJ" text="鉄炮兵の雇用とアップグレード費用-10%"/>
     <string id="URMZx9si" text="行商の結成費用-25%{NEWLINE}交易ペナルティ-15%"/>
     <string id="s9og1E3Z" text="領国の決定による好感度低下量-20%"/>
@@ -6160,11 +6249,13 @@
     <string id="G1bAMCTQ" text="警告!"/>
     <string id="lCQYBdsy" text="Diplomacyを併用しているようです。DiplomacyはShokuhōに統合されているため、外部のDiplomacyとの併用はゲームのグラッシュをもたらすことがあります。{NEWLINE}Diplomacyを無効にしてから再起動してください。"/>
     <string id="x0l2zvKO" text="南蛮胴"/>
+    <string id="27XjQKbv" text="ふむ。そなたは腕利きの者と見受ける。"/>
     <string id="A2RkHuce" text="{DUEL_INQUIRE}{NEWLINE}は果たし合いに{WEAPON_TYPE}を持ち込むつもりだ。{NEWLINE}こちらの得物は何にしようか?"/>
     <string id="2Rjo5IaH" text="刀で戦う。"/>
     <string id="NfxQKG1R" text="棒で戦う。"/>
     <string id="bvMGLEPz" text="遠くで待ち構える人影が見える。"/>
     <string id="x8w3hU4v" text="人影に近づく"/>
+    <string id="l34htB5I" text="あなたの{?RESULT}勝利{?}敗走{\?}のうわさが、近くの{SETTLEMENTS}の有力者の耳に届いた"/>
     <string id="9XjG5X7t" text="戻る"/>
     <string id="Xn0QkL0S" text="港"/>
     <string id="QeirKB2F" text="渡し船に乗る"/>
@@ -6179,6 +6270,7 @@
     <string id="YXj30vc3" text="{PORT_NAME_4}への渡し、{GOLD_COST_4}{GOLD_ICON}。"/>
     <string id="wSTrgsrS" text="{PORT_NAME_0}への渡し、 {GOLD_COST_5}{GOLD_ICON}。"/>
     <string id="Omjhrb65" text="メニューに戻る"/>
+    <string id="pocCosmq" text="ここで戦があったらしい。戰場には散らばる骸が、獣に荒らされるのを待つのみだ。{LOOT_AMOUNT_ADJECTIVE}くらいの戦利品が見つかりそうだ。"/>
     <string id="TBDYMLy9" text="戦場に入る"/>
     <string id="QPvDWCC9" text="境内に入る"/>
     <string id="f3OXL4mr" text="寺社に寄進する"/>
@@ -6200,6 +6292,7 @@
     <string id="U9u1UeDB" text="続行"/>
     <string id="ssAl8R9H" text="てすと"/>
     <string id="0iHCLKGb" text="怪しい男に近づく"/>
+    <string id="4r4s1ZZv" text="左様。"/>
     <string id="IleLQ9Ay" text="{AFTER_TEXT}{NEWLINE}Want another shot?"/>
     <string id="wSwjs0RM" text="3"/>
     <string id="BWpR6Ked" text="5"/>
@@ -6210,6 +6303,9 @@
     <string id="2Oi54ALO" text="40"/>
     <string id="9qxrE05F" text="250"/>
     <string id="gNSbsST8" text="0"/>
+    <string id="7Pwd7o03" text="市"/>
+    <string id="Ohfau1Iw" text="抜擢可能な兵士がいる"/>
+    <string id="4JzI7Y4f" text="抜擢可能な兵士がいる"/>
     <string id="PNOUdlaK" text="撃ち方"/>
     <string id="UxhnhDg9" text="騎馬弓兵"/>
     <string id="oNW3TBci" text="[DEBUG] ApplyFinalEffect called"/>
@@ -6361,13 +6457,21 @@
     <string id="YSHijcWu" text="本庄氏の領地は越後國の争いの絶えない土地にあり、主君である強大な上杉家に命運を託してきたが、近年になって成り上がりを企む繁長の指導で臣従関係を断ち切った。身分が下の者が上の者へと刃向かう、典型的な下剋上である。本庄氏の領地は広くなく、周辺を強大な勢力に囲まれているが、上杉からの独立を確実にするため、この地の山がちな地形に頼り、そして大名間の対立を利用できる。"/>
     <string id="xDXDCM2N" text="赤松氏は足利幕府の立ち上げの貢献のために権力を得、本州西部で最も有力な一族となったが、その権力と領地は、民心の喪失と内からの衰退で翳りが見えている。赤松は今や、台頭する浦上氏や、さらには勢力拡大中の毛利氏からの挑戦を受け、拠点とその周囲の僅かな土地のみを残すほどに衰退した。野心的な武将たちに囲まれて衰退した赤松は、影響力の残る僅かな土地を守るにも、かつての権勢を取り戻すにも、残された家臣たちを頼らなければならない"/>
     <string id="6yN2Mn1R" text="浦上氏は山陽の山がちな土地に根ざす一族であり、西日本と畿内ひいては京を結ぶ街道を支配する、重要な土地にある。近隣勢力に比べると規模は小さいが、当主宗景の差配の下で、赤松氏の凋落に代わって台頭した。その独立の維持はより大きな近隣勢力同士を対立させることに依拠しているが、拡大する毛利氏と旧来の残存勢力の間の緩衝地帯としての立場を確立している。"/>
-    <string id="VwQITTl2" text="尼子氏は、西日本の覇権を求めて大内氏や毛利氏に積極的に挑んだ先代晴久のもとで力を増した。尼子氏はかつては山陽地方の一大勢力だったが、晴久の死後はほとんど崩壊しており、領地はかつての敵や家臣によってバラバラにさらている。今は四散し衰退したが、勝久は還俗し当主の地位を主張すると、残党と忠誠心の残る戦士たちを糾合し、名誉と領地を取り戻そうとしている。 一族の最後の希望は彼とともにある。"/>
-    <string id="0KYD9IKs" text="毛利氏は、かつての主君だった大内氏を倒して取り込み、日本でも最も強大な勢力の一角となっている。五年前の先代毛利隆元の急死により、十五歳の息子輝元が当主の座に就いている。祖父である毛利元就が後見として一族を監視しているが、彼の死期もまた近く、領国は不安の種に満ちている。山陽地方の多くの山と海岸まで谷のは、侵略者に対する自然の障壁を作り出し、無数の小規模な氏族による独特の分権体制をもたらした。無防備な船を襲う瀬戸内の村上水軍党を率いた毛利氏は、海の支配者でもある。九州にも足がかりを得た毛利氏は今、大友氏の支配する豊かな交易都市である博多に目を向けている。"/>
+    <string id="VwQITTl2" text="尼子氏は、西日本の覇権を求めて大内氏や毛利氏に積極的に挑んだ先代晴久のもとで力を増した。尼子氏はかつては山陽地方の一大勢力だったが、晴久の死後はほとんど崩壊しており、領地はかつての敵や家臣によってバラバラにされている。今は四散し衰退したが、勝久は還俗し当主の地位を主張すると、残党と忠誠心の残る戦士たちを糾合し、名誉と領地を取り戻そうとしている。 一族の最後の希望は彼とともにある。"/>
+    <string id="0KYD9IKs" text="毛利氏は、かつての主君だった大内氏を倒して取り込み、日本でも最も強大な勢力の一角となっている。五年前の先代毛利隆元の急死により、十五歳の息子輝元が当主の座に就いている。祖父である毛利元就が後見として一族を監視しているが、彼の死期もまた近く、領国は不安の種に満ちている。山陽地方の多くの山と海岸まで続く谷は、侵略者に対する自然の障壁を作り出し、無数の小規模な氏族による独特の分権体制をもたらした。無防備な船を襲う瀬戸内の村上水軍を率いた毛利氏は、海の支配者でもある。九州にも足がかりを得た毛利氏は今、大友氏の支配する豊かな交易都市である博多に目を向けている。"/>
     <string id="vcfqZy3J" text="伊東氏は、古代の強大な氏族である藤原氏の傍流の末裔である。鎌倉幕府の世では、嶋津氏に従属し日向國で権力の地固めをしており、現在の主である義祐は、伯父との骨肉の争いの末に勝利し一族の主導権を得てからは力をつけている。義祐のゆるがない指導の下で、伊東氏は領国の統制を拡大し、かつての主君である今の宿敵を日向南部から駆逐した。独立を無駄にしないために、一族の命運を決するであろう嶋津との避けられない戦いのために、伊東氏は日本全国から同盟者を探さねばならない。"/>
+    <string id="MfNoq6Ly" text="船の積載量超過"/>
     <string id="YLn5hxVB" text="応仁の乱の時から、城攻め職人が主を替えた後に捕まることがあれば、悲惨な死を迎える。だが世は変わった。日之本の都は熟れた橘の実のように地に落ち、人々は太古のように高い防壁をめぐらせた。南海の大名は城攻め職人には金子を惜しみ、しばしば支払いは滞った。それで私は新しい仕え先があれば、鞍替えすることにした。"/>
     <string id="toWs4s58" text="そうして今に至る。結婚にはあまり興味ないが、デナールは好きだし、自由も好きだ。いつか見事な農場と、父の老後のために何人かの奴隷も揃えて、父を驚かせてやりたい。"/>
     <string id="cGerAWzT" text="私は具体的に何をすればいいでしょうか?"/>
     <string id="UqZ9mzlb" text="待たれい! 降伏いたす。攻撃をやめてくれ。[ib:weary][if:convo_terrified]"/>
+    <string id="GmBJXheK" text="佐伯源一郎の部隊"/>
+    <string id="yzgfbSIR" text="手前は佐伯源一郎と申す。{VILLAGE_LORD.LINK}に仕える侍である。あの切支丹はお屋形様を悪魔と呼んで貶したのだ。死罪に値する。もう一度言おう。彼の者を引き渡せ。[ib: aggressive][if:convo_very_stern]"/>
+    <string id="h1PtudTo" text="面倒事には関わりたくない。引き渡そう。"/>
+    <string id="xwdBaHP7" text="賢い選択だ。案ずるな、此奴を苦しませたりはしまい。[ib: closed][if:convo_very_stern]"/>
+    <string id="SQOGC3eu" text="この切支丹は私の庇護下にある。ただで奪えるとは思うな。"/>
+    <string id="38wQiiSV" text="左様か。覚悟せよ。[ib: aggressive][if:convo_very_stern]"/>
+    <string id="qUiYwHWg" text="不審な商人"/>
     <string id="9upW0V7c" text="賊徒を攻撃する"/>
     <string id="T2hy95Dq" text="すばらしい。"/>
     <string id="JLbIFa14" text="すばらしい。"/>

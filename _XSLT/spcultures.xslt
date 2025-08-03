@@ -385,7 +385,7 @@
 			<name><xsl:attribute name="name">{=RPKbRH8T}Yozaemon</xsl:attribute></name>
 			<name><xsl:attribute name="name">{=FcRcfWZy}Yoemon</xsl:attribute></name>
 			<name><xsl:attribute name="name">{=DhCSfZzt}Gentarou</xsl:attribute></name>
-			<name><xsl:attribute name="name">{=DvyQIA3d}Genichirou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=DvyQIA3d}Gen'ichirou</xsl:attribute></name>
 			<name><xsl:attribute name="name">{=ItTycCE3}Genjirou</xsl:attribute></name>
 			<name><xsl:attribute name="name">{=8p1CMJc0}Genzaburou</xsl:attribute></name>
 			<name><xsl:attribute name="name">{=TZVh0WX4}Gengorou</xsl:attribute></name>

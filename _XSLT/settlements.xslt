@@ -437,7 +437,7 @@
     <xsl:template match="Settlement[@id='castle_village_CHU10_1']">
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
-            <xsl:attribute name='name'>{=i2U342nt}Oji</xsl:attribute>
+            <xsl:attribute name='name'>{=i2U342nt}Ōjou</xsl:attribute>
                     
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
@@ -863,7 +863,7 @@
     <xsl:template match="Settlement[@id='village_CHUB9_2']">
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
-            <xsl:attribute name='name'>{=TCosghZ8}Asawa</xsl:attribute>
+            <xsl:attribute name='name'>{=TCosghZ8}Asaba</xsl:attribute>
                     
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
@@ -1290,7 +1290,7 @@
     <xsl:template match="Settlement[@id='castle_village_CHUB13_1']">
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
-            <xsl:attribute name='name'>{=n7NdjTwb}Zaodo</xsl:attribute>
+            <xsl:attribute name='name'>{=n7NdjTwb}Zaōdou</xsl:attribute>
                     
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
@@ -2916,7 +2916,7 @@
     <xsl:template match="Settlement[@id='castle_village_KIN5_1']">
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
-            <xsl:attribute name='name'>{=TNmMVECR}Oshio</xsl:attribute>
+            <xsl:attribute name='name'>{=TNmMVECR}Ōshio</xsl:attribute>
                     
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
@@ -2993,7 +2993,7 @@
     <xsl:template match="Settlement[@id='castle_village_KIN8_2']">
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
-            <xsl:attribute name='name'>{=8RAd0mOi}Tona</xsl:attribute>
+            <xsl:attribute name='name'>{=8RAd0mOi}Tonda</xsl:attribute>
                     
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
@@ -3323,7 +3323,7 @@
     <xsl:template match="Settlement[@id='castle_village_KIN22_2']">
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
-            <xsl:attribute name='name'>{=P5GkX0F8}Nakaei</xsl:attribute>
+            <xsl:attribute name='name'>{=P5GkX0F8}Nakae</xsl:attribute>
                     
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
@@ -3465,7 +3465,7 @@
     <xsl:template match="Settlement[@id='village_KY3_3']">
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
-            <xsl:attribute name='name'>{=BNks4KgV}Yuyae</xsl:attribute>
+            <xsl:attribute name='name'>{=BNks4KgV}Tsuma</xsl:attribute>
             
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
@@ -4165,7 +4165,7 @@
     <xsl:template match="Settlement[@id='castle_KY21']">
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
-            <xsl:attribute name='name'>{=HrvBj1b6}Takahashi Castle</xsl:attribute>
+            <xsl:attribute name='name'>{=HrvBj1b6}Takaidake Castle</xsl:attribute>
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
     </xsl:template>
@@ -4249,7 +4249,7 @@
     <xsl:template match="Settlement[@id='castle_village_KY24_2']">
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
-            <xsl:attribute name='name'>{=XqBNIq9G}Ousaka</xsl:attribute>
+            <xsl:attribute name='name'>{=XqBNIq9G}Soeda</xsl:attribute>
             
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
@@ -4349,7 +4349,7 @@
     <xsl:template match="Settlement[@id='castle_KY29']">
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
-            <xsl:attribute name='name'>{=MBqlRZU5}Sanjo Castle</xsl:attribute>
+            <xsl:attribute name='name'>{=MBqlRZU5}Sanjou Castle</xsl:attribute>
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
     </xsl:template>
@@ -4776,7 +4776,7 @@
     <xsl:template match="Settlement[@id='castle_village_SHI7_2']">
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
-            <xsl:attribute name='name'>{=Ydi2eMWL}Shuzu</xsl:attribute>
+            <xsl:attribute name='name'>{=Ydi2eMWL}Shūzu</xsl:attribute>
             <xsl:attribute name='text'>{=vEYNurYp}No Description</xsl:attribute>
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
@@ -5052,7 +5052,7 @@
     <xsl:template match="Settlement[@id='village_TOHO6_2']">
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
-            <xsl:attribute name='name'>{=74v8alVP}Akitanada</xsl:attribute>
+            <xsl:attribute name='name'>{=74v8alVP}Akita-minato</xsl:attribute>
                     
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
