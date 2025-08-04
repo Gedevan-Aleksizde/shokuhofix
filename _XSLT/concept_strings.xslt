@@ -2,8 +2,8 @@
     <xsl:output version="1.0" omit-xml-declaration="yes" encoding="UTF-8" indent="yes"/>
     <xsl:template match="@*|node()">
         <xsl:copy>
-			<xsl:apply-templates select="@*"/>
-		</xsl:copy>
+            <xsl:apply-templates select="@*|node()"/>
+        </xsl:copy>
     </xsl:template>
     <xsl:template match="Concept[@id='str_game_objects_character']">
         <xsl:copy>
@@ -382,7 +382,6 @@
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
     </xsl:template>
-    
     <!--SHOKUHO-->
     <xsl:template match="Concept[@id='str_postbattle']">
         <xsl:copy>
@@ -392,7 +391,6 @@
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
     </xsl:template>
-    
     <xsl:template match="Concept[@id='str_guns']">
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
@@ -401,7 +399,6 @@
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
     </xsl:template>
-    
     <xsl:template match="Concept[@id='str_ports']">
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
@@ -410,7 +407,6 @@
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
     </xsl:template>
-    
     <xsl:template match="Concept[@id='str_naval_battles']">
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
@@ -419,7 +415,6 @@
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
     </xsl:template>
-    
     <xsl:template match="Concept[@id='str_duels']">
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
@@ -428,7 +423,6 @@
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
     </xsl:template>
-    
     <xsl:template match="Concept[@id='str_temples']">
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
@@ -437,7 +431,6 @@
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
     </xsl:template>
-    
     <xsl:template match="Concept[@id='str_camp']">
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
@@ -446,7 +439,6 @@
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
     </xsl:template>
-    
     <xsl:template match="Concept[@id='str_books']">
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
@@ -455,7 +447,6 @@
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
     </xsl:template>
-    
     <xsl:template match="Concept[@id='str_promotable_troops']">
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
@@ -464,7 +455,6 @@
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
     </xsl:template>
-    
     <xsl:template match="Concept[@id='str_enlistment']">
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
@@ -473,7 +463,6 @@
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
     </xsl:template>
-    
     <!--Religions-->
     <xsl:template match="Concept[@id='str_religion_shinto']">
         <xsl:copy>
