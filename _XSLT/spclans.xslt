@@ -178,7 +178,6 @@
   <xsl:template match="Faction[@id='sanzoku']/@name" ><xsl:attribute name="name">{=4S24PmMZ}Sanzoku Mountain Bandits</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='ochimusya']/@name" ><xsl:attribute name="name">{=rW0j3kZA}Ochimusya-gari Manhunters</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='deserters']/@name" ><xsl:attribute name="name">{=Vfsbslpv}Deserters</xsl:attribute></xsl:template>
-  
   <xsl:template match="Faction[@id='yamakuguri_shu']">
     <xsl:copy>
       <xsl:apply-templates select="@*"/>
@@ -187,7 +186,6 @@
       <xsl:apply-templates select="node()"/>
     </xsl:copy>
   </xsl:template>
-  
   <xsl:template match="Faction[@id='Shiwaku_shu']">
     <xsl:copy>
       <xsl:apply-templates select="@*"/>
@@ -252,7 +250,6 @@
       <xsl:apply-templates select="node()"/>
     </xsl:copy>
   </xsl:template>
-  
   <xsl:template match="Faction[@id='clan_ashina_1']/@name" ><xsl:attribute name="name">{=eC2ASTQN}Ashina-shi</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_inawashiro_1']/@name" ><xsl:attribute name="name">{=fynHJTwu}Inawashiro-shi</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_saze_1']/@name" ><xsl:attribute name="name">{=8FEa2FoG}Saze-shi</xsl:attribute></xsl:template>
@@ -292,6 +289,4 @@
   <xsl:template match="Faction[@id='clan_shiba_1']/@name" ><xsl:attribute name="name">{=3LujlMb3}Shiba-shi</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_asonuma_1']/@name" ><xsl:attribute name="name">{=BMQyxH2f}Asonuma-shi</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_namioka_1']/@name" ><xsl:attribute name="name">{=aArztftR}Namioka-shi</xsl:attribute></xsl:template>
-  
-  
 </xsl:stylesheet>

@@ -15,31 +15,30 @@
 		</xsl:copy>
 	</xsl:template>
 	<xsl:template match="Culture[@id='saikai']/clan_names">
-			<xsl:copy>
-				<name><xsl:attribute name="name">{=ZdBXMo7L}Akizuki</xsl:attribute></name>
-				<name><xsl:attribute name="name">{=46fsk7gw}Asou</xsl:attribute></name>
-				<name><xsl:attribute name="name">{=JWeFzVlO}Nuki</xsl:attribute></name>
-				<name><xsl:attribute name="name">{=pwYAuMyG}Katsuki</xsl:attribute></name>
-				<name><xsl:attribute name="name">{=YgTsZMc0}Kuroki</xsl:attribute></name>
-				<name><xsl:attribute name="name">{=i3yQgaJa}Kusano</xsl:attribute></name>
-				<name><xsl:attribute name="name">{=UeORdILD}Chikushi</xsl:attribute></name>
-				<name><xsl:attribute name="name">{=KssObQt2}Saigou</xsl:attribute></name>
-				<name><xsl:attribute name="name">{=VSE45J5r}Shiga</xsl:attribute></name>
-				<name><xsl:attribute name="name">{=JkFrZzdM}Kamata</xsl:attribute></name>
-				<name><xsl:attribute name="name">{=0QTdZKo2}Moji</xsl:attribute></name>
-				<name><xsl:attribute name="name">{=p0krwhS7}Himeno</xsl:attribute></name>
-				<name><xsl:attribute name="name">{=TztBu7HI}Shibue</xsl:attribute></name>
-				<name><xsl:attribute name="name">{=ac95GhXU}Shisa</xsl:attribute></name>
-				<name><xsl:attribute name="name">{=pdwy8MTC}Mitai</xsl:attribute></name>
-				<name><xsl:attribute name="name">{=gWlW80aW}Fukabori</xsl:attribute></name>
-				<name><xsl:attribute name="name">{=Ie9Vn818}Akahoshi</xsl:attribute></name>
-				<name><xsl:attribute name="name">{=uboP42ci}Ijichi</xsl:attribute></name>
-				<name><xsl:attribute name="name">{=AuwGwWpz}Hishikari</xsl:attribute></name>
-				<name><xsl:attribute name="name">{=ADarelik}Shikine</xsl:attribute></name>
-				<name><xsl:attribute name="name">{=ZdBXMo7L}Akizuki</xsl:attribute></name>
-			</xsl:copy>
+		<xsl:copy>
+			<name><xsl:attribute name="name">{=ZdBXMo7L}Akizuki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=46fsk7gw}Asou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=JWeFzVlO}Nuki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=pwYAuMyG}Katsuki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=YgTsZMc0}Kuroki</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=i3yQgaJa}Kusano</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=UeORdILD}Chikushi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=KssObQt2}Saigou</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=VSE45J5r}Shiga</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=JkFrZzdM}Kamata</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=0QTdZKo2}Moji</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=p0krwhS7}Himeno</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=TztBu7HI}Shibue</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ac95GhXU}Shisa</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=pdwy8MTC}Mitai</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=gWlW80aW}Fukabori</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=Ie9Vn818}Akahoshi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=uboP42ci}Ijichi</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=AuwGwWpz}Hishikari</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ADarelik}Shikine</xsl:attribute></name>
+			<name><xsl:attribute name="name">{=ZdBXMo7L}Akizuki</xsl:attribute></name>
+		</xsl:copy>
 	</xsl:template>
-
 	<xsl:template match="Culture[@id='nankai']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
@@ -131,7 +130,6 @@
 			<name><xsl:attribute name="name">{=WepUrVKw}Kakiya</xsl:attribute></name>
 		</xsl:copy>
 	</xsl:template>
-
 	<xsl:template match="Culture[@id='hokuriku']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
@@ -164,7 +162,6 @@
 			<name><xsl:attribute name="name">{=IBH0fyiq}Yasuda</xsl:attribute></name>
 		</xsl:copy>
 	</xsl:template>
-
 	<xsl:template match="Culture[@id='tosan']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
@@ -197,7 +194,6 @@
 			<name><xsl:attribute name="name">{=7scrIsjj}Atobe</xsl:attribute></name>
 		</xsl:copy>
 	</xsl:template>
-
 	<xsl:template match="Culture[@id='tokai']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
@@ -230,7 +226,6 @@
 			<name><xsl:attribute name="name">{=TctYsNIg}Arao</xsl:attribute></name>
 		</xsl:copy>
 	</xsl:template>
-
 	<xsl:template match="Culture[@id='kanto']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
@@ -263,7 +258,6 @@
 			<name><xsl:attribute name="name">{=wsJTHUpr}Kajiwara</xsl:attribute></name>
 		</xsl:copy>
 	</xsl:template>
-
 	<xsl:template match="Culture[@id='ou']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
@@ -296,7 +290,6 @@
 			<name><xsl:attribute name="name">{=VHWUBjtv}Hienuki</xsl:attribute></name>
 		</xsl:copy>
 	</xsl:template>
-
 	<!--Duelist Culture-->
 	<xsl:template match="Culture[@id='lord_1_asakura']/@name" ><xsl:attribute name="name">{=fa6D86d4}Duelists</xsl:attribute></xsl:template>
 	<!--Temple Cultures-->
@@ -309,9 +302,8 @@
 	<xsl:template match="Culture[@id='lord_1_asakura']/@name" ><xsl:attribute name="name">{=4S24PmMZ}Sanzoku Mountain Bandits</xsl:attribute></xsl:template>
 	<xsl:template match="Culture[@id='lord_1_asakura']/@name" ><xsl:attribute name="name">{=rW0j3kZA}Ochimusya-gari Manhunters</xsl:attribute></xsl:template>
 	<xsl:template match="Culture[@id='lord_1_asakura']/@name" ><xsl:attribute name="name">{=CKvsb2RB}Japanese</xsl:attribute></xsl:template>
-
 	<xsl:template match="Culture[@id]/male_names">
-			<xsl:copy>
+		<xsl:copy>
 			<name><xsl:attribute name="name">{=686xcJ5S}Tarou</xsl:attribute></name>
 			<name><xsl:attribute name="name">{=xbwRkO5Z}Ichirou</xsl:attribute></name>
 			<name><xsl:attribute name="name">{=0T1OCfRY}Jirou</xsl:attribute></name>
@@ -702,11 +694,10 @@
 			<name><xsl:attribute name="name">{=KeKB3A1g}Shirouemon</xsl:attribute></name>
 			<name><xsl:attribute name="name">{=p2JXgAFZ}Gorouzaemon</xsl:attribute></name>
 			<name><xsl:attribute name="name">{=Z62OstUb}Gorouemon</xsl:attribute></name>
-			</xsl:copy>
+		</xsl:copy>
 	</xsl:template>
-
 	<xsl:template match="Culture[@id]/female_names">
-			<xsl:copy>
+		<xsl:copy>
 			<name><xsl:attribute name="name">{=ab4sZWzd}Ai</xsl:attribute></name>
 			<name><xsl:attribute name="name">{=japJIRRy}Ao</xsl:attribute></name>
 			<name><xsl:attribute name="name">{=VHbcxIU1}Aka</xsl:attribute></name>
@@ -921,6 +912,6 @@
 			<name><xsl:attribute name="name">{=xdlCLqcy}Rin</xsl:attribute></name>
 			<name><xsl:attribute name="name">{=zLwhd8EY}Rui</xsl:attribute></name>
 			<name><xsl:attribute name="name">{=IVbOeER4}Ruri</xsl:attribute></name>
-			</xsl:copy>
+		</xsl:copy>
 	</xsl:template>
 </xsl:stylesheet>

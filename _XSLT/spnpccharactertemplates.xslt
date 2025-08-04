@@ -18,10 +18,7 @@
     <xsl:template match="NPCCharacter[@id='gangster_1']/@name" ><xsl:attribute name="name">{=malethug}Thug</xsl:attribute></xsl:template>
     <xsl:template match="NPCCharacter[@id='gangster_2']/@name" ><xsl:attribute name="name">{=7aRhhGAs}Expert Thug</xsl:attribute></xsl:template>
     <xsl:template match="NPCCharacter[@id='gangster_3']/@name" ><xsl:attribute name="name">{=V1hoeBch}Master Thug</xsl:attribute></xsl:template>
-
     <xsl:template match="NPCCharacter[@id='quest_fighter_saikai']/@name" ><xsl:attribute name="name">{=Yy1o9iCp}Fighter</xsl:attribute></xsl:template>
-
     <xsl:template match="NPCCharacter[@id='quest_daughter']/@name" ><xsl:attribute name="name">{=n7TzRCjv}Daughter</xsl:attribute></xsl:template>
-
     <xsl:template match="NPCCharacter[@id='quest_missionary']/@name" ><xsl:attribute name="name">{=Yy1o9iCp}Fighter</xsl:attribute></xsl:template>
 </xsl:stylesheet>

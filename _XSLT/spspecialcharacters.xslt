@@ -18,7 +18,6 @@
     <xsl:template match="NPCCharacter[@id='spc_wanderer_saikai_10']/@name" ><xsl:attribute name="name">{=YRTy1Jc4}{FIRSTNAME} of the South</xsl:attribute></xsl:template>
     <xsl:template match="NPCCharacter[@id='spc_wanderer_saikai_11']/@name" ><xsl:attribute name="name">{=OqTtI69g}{FIRSTNAME} of the Onsen</xsl:attribute></xsl:template>
     <xsl:template match="NPCCharacter[@id='spc_wanderer_saikai_12']/@name" ><xsl:attribute name="name">{=6lPKo6Oc}{FIRSTNAME} Cursemaker</xsl:attribute></xsl:template>
-
     <xsl:template match="NPCCharacter[@id='spc_wanderer_nankai_0']/@name" ><xsl:attribute name="name">{=sdzaip5J}{FIRSTNAME} the Knowing</xsl:attribute></xsl:template>
     <xsl:template match="NPCCharacter[@id='spc_wanderer_nankai_1']/@name" ><xsl:attribute name="name">{=j2nVPqIX}{FIRSTNAME} the Hawk</xsl:attribute></xsl:template>
     <xsl:template match="NPCCharacter[@id='spc_wanderer_nankai_2']/@name" ><xsl:attribute name="name">{=agS5lIg7}{FIRSTNAME} the Fatherless</xsl:attribute></xsl:template>

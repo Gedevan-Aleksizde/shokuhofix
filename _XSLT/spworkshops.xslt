@@ -2,10 +2,9 @@
     <xsl:output version="1.0" omit-xml-declaration="yes" encoding="UTF-8" indent="yes"/>
     <xsl:template match="@*|node()">
         <xsl:copy>
-			<xsl:apply-templates select="@*"/>
+			<xsl:apply-templates select="@*|node()"/>
 		<xsl:copy>
     </xsl:template>
-    
     <xsl:template match="WorkshopType[@id='sho_artisans']">
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
