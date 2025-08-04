@@ -268,7 +268,7 @@
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
-    <Item id="sho_ryuzo_hat" name="{=R9CSFKs7}Ryuzo's kasa" subtype="head_armor" mesh="sho_ryuzo_hat" weight="0.3" difficulty="0" appearance="1" Type="HeadArmor">
+    <Item id="sho_ryuzo_hat" name="{=R9CSFKs7}Ryuzo's Amigasa" subtype="head_armor" mesh="sho_ryuzo_hat" weight="0.3" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
             <Armor head_armor="4" has_gender_variations="false" modifier_group="cloth_unarmored" material_type="Cloth" hair_cover_type="type1"/>
         </ItemComponent>
