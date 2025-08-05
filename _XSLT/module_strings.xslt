@@ -6,6 +6,8 @@
         </xsl:copy>
     </xsl:template>
     <xsl:template match="string[@id='str_html_notification']/@text" ><xsl:attribute name="text">{=GXdhko0L}&lt;img src=&quot;General\Icons\icon_story_quest_available&quot;&gt;</xsl:attribute></xsl:template>
+    <!--
+    <xsl:template match="string[@name='{=tRwThwR8}Daimyo']/@text" ><xsl:attribute name="text">{=tRwThwR8}Daimyou</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_liege_title.saikai']/@text" ><xsl:attribute name="text">{=tRwThwR8}Daimyou</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_liege_title.nankai']/@text" ><xsl:attribute name="text">{=tRwThwR8}Daimyou</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_liege_title.sanyo']/@text" ><xsl:attribute name="text">{=tRwThwR8}Daimyou</xsl:attribute></xsl:template>
@@ -33,6 +35,8 @@
     <xsl:template match="string[@id='str_faction_ruler.tokai']/@text" ><xsl:attribute name="text">{=tRwThwR8}Daimyou</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_faction_ruler.kanto']/@text" ><xsl:attribute name="text">{=tRwThwR8}Daimyou</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_faction_ruler.ou']/@text" ><xsl:attribute name="text">{=tRwThwR8}Daimyou</xsl:attribute></xsl:template>
+    -->
+    <!--
     <xsl:template match="string[@id='str_faction_official.saikai']/@text" ><xsl:attribute name="text">{=LGjLJV7J}a lord</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_faction_official.nankai']/@text" ><xsl:attribute name="text">{=LGjLJV7J}a lord</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_faction_official.sanyo']/@text" ><xsl:attribute name="text">{=LGjLJV7J}a lord</xsl:attribute></xsl:template>
@@ -42,24 +46,28 @@
     <xsl:template match="string[@id='str_faction_official.tokai']/@text" ><xsl:attribute name="text">{=LGjLJV7J}a lord</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_faction_official.kanto']/@text" ><xsl:attribute name="text">{=LGjLJV7J}a lord</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_faction_official.ou']/@text" ><xsl:attribute name="text">{=LGjLJV7J}a lord</xsl:attribute></xsl:template>
-    <xsl:template match="string[@id='str_faction_ruler_name_with_title.saikai']/@text" ><xsl:attribute name="text">{=n6nnkLxo}Daimyo {RULER.NAME}</xsl:attribute></xsl:template>
-    <xsl:template match="string[@id='str_faction_noble_name_with_title.saikai']/@text" ><xsl:attribute name="text">{=UdiPb3xt}Lord {RULER.NAME}</xsl:attribute></xsl:template>
-    <xsl:template match="string[@id='str_faction_ruler_name_with_title.nankai']/@text" ><xsl:attribute name="text">{=n6nnkLxo}Daimyo {RULER.NAME}</xsl:attribute></xsl:template>
-    <xsl:template match="string[@id='str_faction_noble_name_with_title.nankai']/@text" ><xsl:attribute name="text">{=UdiPb3xt}Lord {RULER.NAME}</xsl:attribute></xsl:template>
+    -->
+    <xsl:template match="string[@name='{=n6nnkLxo}Daimyo {RULER.NAME}']/@text" ><xsl:attribute name="text">{=n6nnkLxo}Daimyou {RULER.NAME}</xsl:attribute></xsl:template>
+    <!--<xsl:template match="string[@id='str_faction_ruler_name_with_title.saikai']/@text" ><xsl:attribute name="text">{=n6nnkLxo}Daimyo {RULER.NAME}</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_faction_ruler_name_with_title.sanyo']/@text" ><xsl:attribute name="text">{=n6nnkLxo}Daimyo {RULER.NAME}</xsl:attribute></xsl:template>
-    <xsl:template match="string[@id='str_faction_noble_name_with_title.sanyo']/@text" ><xsl:attribute name="text">{=UdiPb3xt}Lord {RULER.NAME}</xsl:attribute></xsl:template>
+    <xsl:template match="string[@id='str_faction_ruler_name_with_title.nankai']/@text" ><xsl:attribute name="text">{=n6nnkLxo}Daimyo {RULER.NAME}</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_faction_ruler_name_with_title.kinai']/@text" ><xsl:attribute name="text">{=n6nnkLxo}Daimyo {RULER.NAME}</xsl:attribute></xsl:template>
-    <xsl:template match="string[@id='str_faction_noble_name_with_title.kinai']/@text" ><xsl:attribute name="text">{=UdiPb3xt}Lord {RULER.NAME}</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_faction_ruler_name_with_title.hokuriku']/@text" ><xsl:attribute name="text">{=n6nnkLxo}Daimyo {RULER.NAME}</xsl:attribute></xsl:template>
-    <xsl:template match="string[@id='str_faction_noble_name_with_title.hokuriku']/@text" ><xsl:attribute name="text">{=UdiPb3xt}Lord {RULER.NAME}</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_faction_ruler_name_with_title.tosan']/@text" ><xsl:attribute name="text">{=n6nnkLxo}Daimyo {RULER.NAME}</xsl:attribute></xsl:template>
-    <xsl:template match="string[@id='str_faction_noble_name_with_title.tosan']/@text" ><xsl:attribute name="text">{=UdiPb3xt}Lord {RULER.NAME}</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_faction_ruler_name_with_title.tokai']/@text" ><xsl:attribute name="text">{=n6nnkLxo}Daimyo {RULER.NAME}</xsl:attribute></xsl:template>
-    <xsl:template match="string[@id='str_faction_noble_name_with_title.tokai']/@text" ><xsl:attribute name="text">{=UdiPb3xt}Lord {RULER.NAME}</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_faction_ruler_name_with_title.kanto']/@text" ><xsl:attribute name="text">{=n6nnkLxo}Daimyo {RULER.NAME}</xsl:attribute></xsl:template>
+    <xsl:template match="string[@id='str_faction_ruler_name_with_title.ou']/@text" ><xsl:attribute name="text">{=n6nnkLxo}Daimyo {RULER.NAME}</xsl:attribute></xsl:template>-->
+    <!--
+    <xsl:template match="string[@id='str_faction_noble_name_with_title.saikai']/@text" ><xsl:attribute name="text">{=UdiPb3xt}Lord {RULER.NAME}</xsl:attribute></xsl:template>
+    <xsl:template match="string[@id='str_faction_noble_name_with_title.nankai']/@text" ><xsl:attribute name="text">{=UdiPb3xt}Lord {RULER.NAME}</xsl:attribute></xsl:template>
+    <xsl:template match="string[@id='str_faction_noble_name_with_title.sanyo']/@text" ><xsl:attribute name="text">{=UdiPb3xt}Lord {RULER.NAME}</xsl:attribute></xsl:template>
+    <xsl:template match="string[@id='str_faction_noble_name_with_title.kinai']/@text" ><xsl:attribute name="text">{=UdiPb3xt}Lord {RULER.NAME}</xsl:attribute></xsl:template>
+    <xsl:template match="string[@id='str_faction_noble_name_with_title.hokuriku']/@text" ><xsl:attribute name="text">{=UdiPb3xt}Lord {RULER.NAME}</xsl:attribute></xsl:template>
+    <xsl:template match="string[@id='str_faction_noble_name_with_title.tosan']/@text" ><xsl:attribute name="text">{=UdiPb3xt}Lord {RULER.NAME}</xsl:attribute></xsl:template>
+    <xsl:template match="string[@id='str_faction_noble_name_with_title.tokai']/@text" ><xsl:attribute name="text">{=UdiPb3xt}Lord {RULER.NAME}</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_faction_noble_name_with_title.kanto']/@text" ><xsl:attribute name="text">{=UdiPb3xt}Lord {RULER.NAME}</xsl:attribute></xsl:template>
-    <xsl:template match="string[@id='str_faction_ruler_name_with_title.ou']/@text" ><xsl:attribute name="text">{=n6nnkLxo}Daimyo {RULER.NAME}</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_faction_noble_name_with_title.ou']/@text" ><xsl:attribute name="text">{=UdiPb3xt}Lord {RULER.NAME}</xsl:attribute></xsl:template>
+    -->
     <xsl:template match="string[@id='str_faction_informal_name_for_culture.saikai']/@text" ><xsl:attribute name="text">{=KznUzEjy}the Saikai</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_faction_informal_name_for_culture.nankai']/@text" ><xsl:attribute name="text">{=k7visbnX}the Nankai</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_faction_informal_name_for_culture.sanyo']/@text" ><xsl:attribute name="text">{=9TCedFd1}the San'you</xsl:attribute></xsl:template>
@@ -87,6 +95,8 @@
     <xsl:template match="string[@id='str_adjective_for_culture.tokai']/@text" ><xsl:attribute name="text">{=qfHVWUlQ}Toukai</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_adjective_for_culture.kanto']/@text" ><xsl:attribute name="text">{=K6sg7GNj}Kantou</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_adjective_for_culture.ou']/@text" ><xsl:attribute name="text">{=MigIA2T0}Ouu</xsl:attribute></xsl:template>
+    <!--
+    <xsl:template match="string[@id='str_faction_official.saikai']/@text" ><xsl:attribute name="text">{=A8YrI6XH}a lord</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_faction_official.saikai']/@text" ><xsl:attribute name="text">{=A8YrI6XH}a lord</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_faction_official.saikai_f']/@text" ><xsl:attribute name="text">{=A8YrI6XH}a lord</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_faction_official.nankai']/@text" ><xsl:attribute name="text">{=A8YrI6XH}a lord</xsl:attribute></xsl:template>
@@ -105,6 +115,7 @@
     <xsl:template match="string[@id='str_faction_official.kanto_f']/@text" ><xsl:attribute name="text">{=A8YrI6XH}a lord</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_faction_official.ou']/@text" ><xsl:attribute name="text">{=A8YrI6XH}a lord</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_faction_official.ou_f']/@text" ><xsl:attribute name="text">{=A8YrI6XH}a lord</xsl:attribute></xsl:template>
+    -->
     <xsl:template match="string[@id='str_culture_description.saikai']/@text" ><xsl:attribute name="text">{=BTSZWScx}The Saikai people hail from the westernmost region of Japan, encompassing the island of Kyūshū, which is closer to the Asian mainland than the shogunal capital and its power struggles. Thanks to their unique position, the Saikai have grown into expert seafarers and merchants with longstanding trade relations with China and Korea, and most recently with the newly come nanban foreigners who provide the Saikai with easier access to Western firearms. Yet not all the Saikai embrace trade as their call, as many take to the sea as pirates to plunder the rich trade routes, while the local lords battle to preserve their autonomy from any central authority.</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_faction_formal_name_for_culture.saikai']/@text" ><xsl:attribute name="text">{=3Wf8Wiuc}Saikai</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_culture_rich_name.saikai']/@text" ><xsl:attribute name="text">{=3Wf8Wiuc}Saikai</xsl:attribute></xsl:template>
