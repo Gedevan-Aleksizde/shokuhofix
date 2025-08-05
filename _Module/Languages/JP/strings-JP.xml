@@ -1216,7 +1216,7 @@
     <string id="umB4cBex" text="田村"/>
     <string id="YJwLUC98" text="郡山"/>
     <string id="4JR9iFkF" text="須賀川城"/>
-    <string id="Epzs9bvB" text="安積"/>
+    <string id="an3mt1XH" text="安積"/>
     <string id="gJ8oFcbF" text="岩瀬"/>
     <string id="YYwosnpB" text="飯野平城"/>
     <string id="uJ6CdWHi" text="白土"/>
@@ -3439,7 +3439,7 @@
     <string id="WtjHvAqv" text="海大筒の弾"/>
     <string id="jASYDOcA" text="鉄炮の弾"/>
     <string id="q1KgboXi" text="大鎧篭手"/>
-    <string id="v60sSwHB" text="布篭手"/>
+    <string id="v60sSwHB" text="産篭手"/>
     <string id="nfrAzQOE" text="鎖篭手"/>
     <string id="CoaDkHgm" text="壮麗な鎖篭手"/>
     <string id="XSdMBA4v" text="強化型鎖篭手"/>
@@ -6009,7 +6009,8 @@
     <string id="naPQeidR" text="{HERO.LINK}と話した。"/>
     <string id="cqA0b1Zy" text="{CHANGE}{GOLD_ICON}獲得した"/>
     <string id="iR1Js0Uj" text="そのとおりです伴天連殿。いかんすればよいか教えてくだされ!"/>
-    <string id="5OcgZQf4" text="不審な商人"/>
+    <string id="vYNjPfBr" text="ふむ? 面白い話だ。よく聞かせ願いたい。"/>
+    <string id="5OcgZQf4" text="怪しい商人"/>
     <string id="6nWZKIpM" text="偵察した集落"/>
     <string id="ze44FYK3" text="この本を読むには長い時間がかかる"/>
     <string id="6oKVS4TC" text="この本を読むには少し時間がかかる"/>
@@ -6447,7 +6448,40 @@
     <string id="xwdBaHP7" text="賢い選択だ。案ずるな、此奴を苦しませたりはしまい。[ib: closed][if:convo_very_stern]"/>
     <string id="SQOGC3eu" text="この切支丹は私の庇護下にある。ただで奪えるとは思うな。"/>
     <string id="38wQiiSV" text="左様か。覚悟せよ。[ib: aggressive][if:convo_very_stern]"/>
+    <string id="kV39O9Sp" text="残念なことに、その通りです。町の外である一団が、極めて安い値で商売をしているという話があります。その値が安すぎるため、だれも私から商品を買おうとしませんし、この町の他の多くの商売仲間も困っております。[ib:nervous2][if:convo_dismayed]"/>
+    <string id="sTbGAAa1" text="その一団は数週間前に現れました。並の商人が仕入れる値よりはるかに安い値で品物を売っており、{ISSUE_GIVER_SETTLEMENT}の住人は、名の知れた商人ではなく、その者たちから買い求めようと押しかけています。これが続けば、店をたたむことになりそうです。この者たちを調べて、どこから品を仕入れているのか教えていただきたい。[ib:nervous2][if:convo_dismayed]"/>
+    <string id="GCD9cq7V" text="自らその者たちを調べてもよく、お供のだれかに{ALTERNATIVE_TROOP_COUNT}ほどの人手を付けて調べさせてもよいでしょう。[ib:nervous2][if:convo_dismayed]"/>
+    <string id="5GB05CrH" text="その商人たちのことを調べよう。"/>
+    <string id="fJ1Y8vXy" text="{ISSUE_GIVER_SETTLEMENT}の商人が商売敵に困っているという話を聞いた。 {QUEST_GIVER.LINK}が助けを求めている。"/>
+    <string id="FAD2tERq" text="郎党の{COMPANION.LINK}と手勢が成功の報せとともに戻ってきた。見るからに商人は商人の風体には見えず、山賊が盗品を売っているようだったという。{COMPANION.LINK}は彼らを始末した。{QUEST_GIVER.LINK}は感謝し、{REWARD}{GOLD_ICON}の入った財布を報酬によこした。"/>
     <string id="qUiYwHWg" text="不審な商人"/>
+    <string id="h6sYRmXB" text="{QUEST_GIVER.LINK}が、妙に安い値で商品を売っている商人を見つけ出してほしいと頼んできた。彼らの儲けの理由が怪しいため、調べてほしいようだ。彼らは{QUEST_GIVER_SETTLEMENT}の惣堀の外にいる。"/>
+    <string id="2iDaIokW" text="盗品らしきものを見咎めたため、不審な商人と仲間の悪党が攻撃してきた。なんとか彼らを打ち負かし、これらが盗品であると認めた。報酬を得るため、{QUEST_GIVER_SETTLEMENT}の{QUEST_GIVER.LINK}の元へ事の次第を伝えに行こう。"/>
+    <string id="KZZJ4LNd" text="盗品らしきものを見咎めたため、不審な商人と仲間の悪党が攻撃してきた。奴らには敵わなかったが、追い払うことはできたので、依頼はこなせた。報酬を得るため、{QUEST_GIVER_SETTLEMENT}の{QUEST_GIVER.LINK}の元へ事の次第を伝えに行こう。"/>
+    <string id="OSQeWc0S" text="怪しい商人を始末した。 {QUEST_GIVER.LINK}は感謝し、{REWARD_GOLD}{GOLD_ICON}の報酬を渡した。"/>
+    <string id="ul56QMKV" text="怪しい商人との交渉は失敗した。{QUEST_GIVER.LINK}は信頼を裏切られたことを忘れないだろう。"/>
+    <string id="4tdObswz" text="あの商人たちを探してくれたか?[ib:hip][if:convo_mocking_aristocratic]"/>
+    <string id="1Q3NBA6b" text="不審な商人の一団"/>
+    <string id="IcTzfAYC" text="いらっしゃい、何かお探しかい? このあたりじゃ一番安く売ってるよ。[ib:hip2][if:convo_nonchalant]"/>
+    <string id="fwVqd12d" text="さらばだ。"/>
+    <string id="JWcnkxBz" text="扱ってる品を見せてくれ (交易)"/>
+    <string id="s4SHrjzy" text="ありがたい。またお会いしよう。[ib:confident3][if:convo_nonchalant]"/>
+    <string id="mDU7Qfnh" text="随分と安く売るんだな。どうやって仕入れてるのか教えてくれないか?"/>
+    <string id="LxuAUBPM" text="いやいや、賢い商い人は秘訣を明かさないもんでしてね。ただ、一つだけ言っておくと、うちの商売相手はこちらの言い値で卸してくれるのさ。[ib:warrior2][if:convo_stern]"/>
+    <string id="WZazV9Sb" text="なるほど…。だがお前の菜料は正しく保管されておらんようだ。蓋をしないと腐臭がするぞ。"/>
+    <string id="dcWP5LdR" text="何だって? わたしをへぼ商人呼ばわりする気か?[ib:aggressive2][if:convo_insulted]"/>
+    <string id="kUnon1O2" text="商人かどうかも怪しい。その出で立ちと拵えはまるで山賊の類だ。いわんや、町の外で商いなどとは実に怪しからん。"/>
+    <string id="mKW0SDgT" text="おいあんた、馬鹿な考えを止すか、この安売りの品を買うかして、余計な詮索はしないでくれないか。ほら、「何にいたしますか?」ってな。[ib:warrior][if:convo_furious]"/>
+    <string id="mGsuGFXn" text="これらの品々はあきらかに盗まれたものだ。私とともに己の罪を告白しに行くぞ。"/>
+    <string id="vO6b8x18" text="抵抗しないと思ったか。[rb:very_negative][ib:warrior][if:convo_furious]"/>
+    <string id="6lY2xJgr" text="そうだな、面倒事には関わりたくない。さらばだ。"/>
+    <string id="OxEd66eX" text="それが利口ってやつだ。[ib:confident3][if:convo_nonchalant]"/>
+    <string id="OAEabkxr" text="よく戻ってくれた。あの商人たちは見つかりましたか?[ib:hip][if:convo_mocking_aristocratic]"/>
+    <string id="e9fk8gIr" text="ああ、奴らは盗まれた品を商っていた。手前が詰め寄ると攻撃してきた。仕留め損ねたが、奴らは逃げ散った。"/>
+    <string id="zxxpajGk" text="ほほう。彼らと一戦交えるとは思いませんでした。さて、少なくとも奴らはどこかへ去ってくれた。約束通り報酬をお渡しいたそう。[ib:nervous2][if:convo_shocked]"/>
+    <string id="NrakA9cE" text="ああ、奴らは盗まれた品を商っていた。手前が詰め寄ると攻撃してきた。打ち倒して捕虜にした。"/>
+    <string id="Gj5pe97b" text="おお、まさか奴らと一戦交え、その上独りで倒してしまわれましたか! これに報いて賄いを多く渡さねばなりませんな。報酬はこちらになります。[rb:very_positive][ib:hip]"/>
+    <string id="aUVW1xBv" text="血は刃より利し"/>
     <string id="9upW0V7c" text="賊徒を攻撃する"/>
     <string id="T2hy95Dq" text="すばらしい。"/>
     <string id="JLbIFa14" text="すばらしい。"/>
