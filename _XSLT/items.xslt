@@ -136,7 +136,7 @@
   <xsl:template match="Item[@name='{=6roxcVNP}Armored Kote']/@name" ><xsl:attribute name="name">{=6roxcVNP}Kojino-gote</xsl:attribute></xsl:template>
 
   <xsl:template match="Item[@name='{=Oeo0q3wU}Noh Mask']/@name" ><xsl:attribute name="name">{=Oeo0q3wU}Sarugaku Mask</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@id='sho_amigasa_hat']/@name" ><xsl:attribute name="name">{=bbBYq8rX}Ayai-gasa</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_amigasa_hat']/@name" ><xsl:attribute name="name">{=xnfE57id}Ayai-gasa</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='sho_nomadgasa_hat']/@name" ><xsl:attribute name="name">{=bbBYq8rX}Torn Tsunogasa</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='sho_roningasa_hat']/@name" ><xsl:attribute name="name">{=Trz6pkzv}Rounin-gasa</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='sho_ryuzo_hat']/@name" ><xsl:attribute name="name">{=R9CSFKs7}Ryuzo's kasa</xsl:attribute></xsl:template>
