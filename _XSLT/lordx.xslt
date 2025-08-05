@@ -969,7 +969,7 @@
   <xsl:template match="NPCCharacter[@id='lord_1_fukuda_5']/@name" ><xsl:attribute name="name">{=5EDIHiUN}Fukuda koshi</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='dead_lord_1_otomo_1']/@name" ><xsl:attribute name="name">{=TzTHrzds}Ōtomo Yoshiaki</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='dead_lord_1_otomo_2']/@name" ><xsl:attribute name="name">{=z3dbPelZ}Ōtomo Boujou</xsl:attribute></xsl:template>
-  <xsl:template match="NPCCharacter[@id='lord_1_otomo']/@name" ><xsl:attribute name="name">{=Knylet1a}Ōtomo Sourin</xsl:attribute></xsl:template>
+  <xsl:template match="NPCCharacter[@id='lord_1_otomo']/@name" ><xsl:attribute name="name">{=3AFE1DCF}Ōtomo Yoshishige (大友義鎮), born as Shiohoushimaru (塩法師丸), became a Zen sect monk whose Buddhist name was Sourin (宗麟). While, later, he invited a Padre from Nanban named Shibieru (しびえる), also known as Xavier. He is a man of high culture and often invites intellectual people. He also seems to be interested in overseas much. However, his curiosity may not be pure, but also from a practical reason. Now, he is close to accessing a new weapon from Nanban.</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_otomo_1']/@name" ><xsl:attribute name="name">{=UIKx01xx}Ōtomo Lady Nata</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_otomo_2']/@name" ><xsl:attribute name="name">{=7sbPoa0a}Ōtomo Yoshimune</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_otomo_3']/@name" ><xsl:attribute name="name">{=a5rohL3A}Ōtomo Chikaie</xsl:attribute></xsl:template>
