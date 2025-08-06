@@ -560,7 +560,7 @@
     <string id="NSAkQv1M" text="吉田郡山"/>
     <string id="ntbMy243" text="戸河内"/>
     <string id="uxffoc1I" text="河辺"/>
-    <string id="nVDIrAUN" text="三芳"/>
+    <string id="nVDIrAUN" text="三次"/>
     <string id="ihU3yZM0" text="石見"/>
     <string id="ryejJvC5" text="鞆ヶ浦"/>
     <string id="VDGlQJwd" text="石金"/>
@@ -1338,7 +1338,7 @@
     <string id="Rfd9cOAd" text="かつては日本の首都であった奈良は、仏教の影響力と文化的遺産の中心地としての地位を維持していた。強力な荘園勢力を擁する東大寺や興福寺の無数の寺社は在りし日の栄光の面影を見せている。"/>
     <string id="bYxqhFC3" text="京都はかつて、日本で並ぶもののない首都であったが、中央の権力争いの末にほとんど見る影もなく破壊された。足利幕府の権威は失墜し、都は戦国大名のなすがままとなり、日本の朝廷は無力に手をこまねいているしかなかった。日本の政治の中心だった時代は過ぎ去ったが、それでもなお、京都は世俗の伝統を育み、宗教的文化的影響力を持ち続けている。"/>
     <string id="8xv7T88d" text="観音寺は衣笠山の頂上に築かれた、一見静かな城と町に見える。この城はかつての所有者である六角氏の争いに何度も巻き込まれているが、天然の要害の守りが、幾度にもわたる城攻めを凌いでいる。"/>
-    <string id="OZsf12k6" text="周辺地域を支配する浅井氏の要塞として築かれた小谷城は、急峻な尾根の上に築かれており、その守りがこの城を堅固な要塞としており、重要な交易路に隣接する立地は、城下町の繁栄を確実なものとしていた。"/>
+    <string id="OZsf12k6" text="周辺地域を支配する淺井氏の要塞として築かれた小谷城は、急峻な尾根の上に築かれており、その守りがこの城を堅固な要塞としており、重要な交易路に隣接する立地は、城下町の繁栄を確実なものとしていた。"/>
     <string id="7o1ufRGz" text="小山は南九州の戦略的に重要な要塞で、肥後国の荒れた土地に根を張っている。山道は内陸部と西の沿岸地帯をつないでいる。"/>
     <string id="GyIr6NHT" text="小規模だが戦略上重要な集落である内は旅行者や商人が国内を移動する際の重要地点である。町の立地は、周辺地域の掌握を欲するあらゆる大名にとって価値がある。"/>
     <string id="fOOOFAf4" text="九州北西部にある柳川は、筑後川の堤の、いくつもの地域へとつながる交易路の交差点という戦略上の要地にあり、交易と軍事行動を促進している。"/>
@@ -2696,7 +2696,7 @@
     <string id="2wRgcvgX" text="蒲生さな"/>
     <string id="iZkMYp72" text="淺井長政"/>
     <string id="rvDsCUpk" text="淺井市"/>
-    <string id="qIzG5074" text="浅井久政"/>
+    <string id="qIzG5074" text="淺井久政"/>
     <string id="RF8JjIdu" text="淺井あこ"/>
     <string id="Av28pOpi" text="淺井政元"/>
     <string id="VBrMcD42" text="淺井政之"/>
@@ -4309,7 +4309,7 @@
     <string id="ikViyOmi" text="湯河"/>
     <string id="AFuBZx4V" text="六角"/>
     <string id="skZuhNKm" text="蒲生"/>
-    <string id="9jmhs2Af" text="浅井"/>
+    <string id="9jmhs2Af" text="淺井"/>
     <string id="QGOk0nP3" text="藤堂"/>
     <string id="iHzPlDkM" text="磯野"/>
     <string id="Mq2WPvMA" text="赤尾"/>
@@ -5222,7 +5222,7 @@
     <string id="RTJJQ1N4" text="足利領国"/>
     <string id="lqGGI5WL" text="畠山領国"/>
     <string id="V9HoIoLf" text="六角領国"/>
-    <string id="ueioOrlR" text="浅井領国"/>
+    <string id="ueioOrlR" text="淺井領国"/>
     <string id="NE0beHdI" text="織田領国"/>
     <string id="bVqyvzea" text="一向宗領国"/>
     <string id="PaA2zlKr" text="浦上領国"/>
@@ -5260,7 +5260,7 @@
     <string id="hMz5eeje" text="足利氏"/>
     <string id="4cnmTBU0" text="畠山氏"/>
     <string id="PGOSBt3d" text="六角氏"/>
-    <string id="0PavuhnS" text="浅井氏"/>
+    <string id="0PavuhnS" text="淺井氏"/>
     <string id="cM7eTAK1o" text="織田氏"/>
     <string id="qD1vg0RF" text="一向宗"/>
     <string id="KolhtpUd" text="浦上氏"/>
@@ -5269,7 +5269,7 @@
     <string id="2TWnRnkw" text="西園寺家"/>
     <string id="44ThIRyK" text="一條家"/>
     <string id="do4c1Wld" text="長宗我部氏"/>
-    <string id="YhbInKsq" text="三芳氏"/>
+    <string id="YhbInKsq" text="三好氏"/>
     <string id="e89d6Fhr" text="嶋津氏"/>
     <string id="nuOTMFnL" text="肝付氏"/>
     <string id="0rDc1SBx" text="伊東氏"/>
@@ -5812,6 +5812,8 @@
     <string id="liYvZ9FU" text="酒一杯"/>
     <string id="9RDSUiHI" text="根深汁一椀"/>
     <string id="khqKZM8U" text="「黒船の全ての小判のために{NEWLINE}大明国の全ての朝貢のため{NEWLINE}雲南の全ての霧のため…」"/>
+    <string id="FBuhv8Jg" text="猿が松の木に登って歌う。「大名のお気に入りの酒を盗んだぞ」{NEWLINE}カラスが羽を鳴らして応える「甲斐の領主様がまた酔いつぶれておるぞ」"/>
+    <string id="ttL93wls" text="信長公はいつも何かを企んでいる。火縄銃と夢物語の話ばかりをする。一夜で城を建てたかと思えば、道中の十の寺を焼き払う。"/>
     <string id="dWF3fKhE" text="長宗我部は稲作を自ら育て、息子は鼠の一家のように多い。{newline}島は眠りにつき、だが長くは続かない。彼は農民に強くなる術を教える。"/>
     <string id="Zs3yoCF0" text="延暦寺の高僧が鐘を撞き、悪魔もろとも逃げ散りけり{NEWLINE}されど悪魔笑ひて夜を明かす、「汝の祈りは弱し、さあ一飯」と言いにけり"/>
     <string id="ZCGsUe7B" text="三郎、三郎、猪と戦さ、地に猪のたうち回る。{NEWLINE}刀も槍もなし、ただ蒜と酒の臭い吐息のみで。"/>
@@ -5954,6 +5956,8 @@
     <string id="JsnkAQba" text="縁故主義"/>
     <string id="0GXnvsPI" text="債権者や金貸しに債権の放棄を命じることで、貧しい領地を救済できる。この行為は貧しいものの生活の助けになるが、領内の経済に対してはある意味で有害である。"/>
     <string id="rGlQBC96" text="徳政令"/>
+    <string id="rvIRhZJG" text="農民たちが法に訴えられるように目安箱を設置する。代官の不正を防止したり、住民間の争いが暴力沙汰に至るのを防いだりする。"/>
+    <string id="hpb2htpi" text="目安箱の設置"/>
     <string id="GuMxVwvA" text="土地の領主は、コミュニティために寺社・武家・豪農に山林を管理する権利を認める。"/>
     <string id="f1piSGja" text="茶会・連歌・猿楽といった文化活動を奨励し、領主間の交流を刺激する。これにより、武家・公家・商人の権力が増すが、教養のない人間にとっては良くない。"/>
     <string id="yo9AvBkT" text="芸能の奨励"/>
@@ -6094,10 +6098,10 @@
     <string id="7pyR761G" text="曹洞宗徒"/>
     <string id="sfXeoNJk" text="浄土真宗徒"/>
     <string id="BDnW3J67" text="山陽地方の西端の地政学上の要地である、本州と九州を分かつ關門海峡の近くにある串崎城は、港湾設備を持つ城と城下町であり、元は内藤氏の城であった。この城から周辺海域と物流を掌握し、西方への人の流れをせき止めることが可能である。"/>
-    <string id="YhbInKsq" text="三芳氏"/>
     <string id="5CN8ewVp" text="月山富田"/>
     <string id="eDhJwiwf" text="月山富田城は山陰の城であり、その起原は鎌倉の世に遡り、平安時代以前には、この地の交易路と、有名な製鉄産業の保護のためにこの地に砦が築かれていた。つい近年になると月山富田城は、地域一帯の権力構造を決定的に変化させてしまった毛利元就による征服事業により、最後に残った旧支配層の一角である尼子氏と、台頭する大内・毛利両氏の争いの舞台となった。"/>
     <string id="6PgvlbUT" text="尾山"/>
+    <string id="Epzs9bvB" text="安曇"/>
     <string id="G1Gwql28" text="甲府は東山道南部の甲斐國の中心にある城下町であり、その起源から武田氏の拠点であった。しかし、近年の甲府の発展は、武田信玄が、甲府を拡張する版図の中心に据え、農業の保護と領民の生活の保障のために大規模な治水事業を行ったことによるものである。"/>
     <string id="kePZsN6S" text="常州府中城"/>
     <string id="DUDOlYTC" text="越府"/>
