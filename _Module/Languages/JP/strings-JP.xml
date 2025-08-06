@@ -1216,7 +1216,7 @@
     <string id="umB4cBex" text="田村"/>
     <string id="YJwLUC98" text="郡山"/>
     <string id="4JR9iFkF" text="須賀川城"/>
-    <string id="Epzs9bvB" text="安積"/>
+    <string id="an3mt1XH" text="安積"/>
     <string id="gJ8oFcbF" text="岩瀬"/>
     <string id="YYwosnpB" text="飯野平城"/>
     <string id="uJ6CdWHi" text="白土"/>
@@ -1338,7 +1338,7 @@
     <string id="Rfd9cOAd" text="かつては日本の首都であった奈良は、仏教の影響力と文化的遺産の中心地としての地位を維持していた。強力な荘園勢力を擁する東大寺や興福寺の無数の寺社は在りし日の栄光の面影を見せている。"/>
     <string id="bYxqhFC3" text="京都はかつて、日本で並ぶもののない首都であったが、中央の権力争いの末にほとんど見る影もなく破壊された。足利幕府の権威は失墜し、都は戦国大名のなすがままとなり、日本の朝廷は無力に手をこまねいているしかなかった。日本の政治の中心だった時代は過ぎ去ったが、それでもなお、京都は世俗の伝統を育み、宗教的文化的影響力を持ち続けている。"/>
     <string id="8xv7T88d" text="観音寺は衣笠山の頂上に築かれた、一見静かな城と町に見える。この城はかつての所有者である六角氏の争いに何度も巻き込まれているが、天然の要害の守りが、幾度にもわたる城攻めを凌いでいる。"/>
-    <string id="OZsf12k6" text="周辺地域を支配する浅井氏の要塞として築かれた小谷城は、急峻な尾根の上に築かれており、その守りがこの城を堅固な要塞としており、重要な交易路に隣接する立地は、城下町の繁栄を確実なものとしていた。"/>
+    <string id="OZsf12k6" text="周辺地域を支配する淺井氏の要塞として築かれた小谷城は、急峻な尾根の上に築かれており、その守りがこの城を堅固な要塞としており、重要な交易路に隣接する立地は、城下町の繁栄を確実なものとしていた。"/>
     <string id="7o1ufRGz" text="小山は南九州の戦略的に重要な要塞で、肥後国の荒れた土地に根を張っている。山道は内陸部と西の沿岸地帯をつないでいる。"/>
     <string id="GyIr6NHT" text="小規模だが戦略上重要な集落である内は旅行者や商人が国内を移動する際の重要地点である。町の立地は、周辺地域の掌握を欲するあらゆる大名にとって価値がある。"/>
     <string id="fOOOFAf4" text="九州北西部にある柳川は、筑後川の堤の、いくつもの地域へとつながる交易路の交差点という戦略上の要地にあり、交易と軍事行動を促進している。"/>
@@ -2696,7 +2696,7 @@
     <string id="2wRgcvgX" text="蒲生さな"/>
     <string id="iZkMYp72" text="淺井長政"/>
     <string id="rvDsCUpk" text="淺井市"/>
-    <string id="qIzG5074" text="浅井久政"/>
+    <string id="qIzG5074" text="淺井久政"/>
     <string id="RF8JjIdu" text="淺井あこ"/>
     <string id="Av28pOpi" text="淺井政元"/>
     <string id="VBrMcD42" text="淺井政之"/>
@@ -2714,7 +2714,7 @@
     <string id="eqrjET0Q" text="赤尾きる"/>
     <string id="HGBst1md" text="赤尾清冬"/>
     <string id="quPWUb7d" text="赤尾ゆき"/>
-    <string id="ea421876" text="織田信長は幼名を吉法師といい、織田三郎または織田上総守を名乗っており、織田氏の本家に仕える織田信秀の息子である。青年期の信長は傲岸不遜で無軌道であった。彼の父の死後に後継者争いが起こることに疑いはなかった。しかし、信長は対立する親戚をことごとく打倒し、一族の分家がそれぞれ統治していた尾張國各地を全て掌握してしまった。その後の続けざまの軍事的成功により、彼の領地はさらに拡大している。{NEWLINE}彼の舅であり、美濃國を支配していた斎藤道三はかつて、まだ信長が大うつけという評判だった頃、娘と彼との結婚の前に面会した折に、彼を一目見ただけでその後の彼の雄飛を予見したという。だが、それが真であるかがわかるのはこれからである。"/>
+    <string id="ea421876" text="織田信長は幼名を吉法師といい、織田三郎または織田上総守を名乗っており、織田氏の本家に仕える織田信秀の息子である。青年期の信長は傲岸不遜で無軌道であった。彼の父の死後に後継者争いが起こることに疑いはなかった。しかし、信長は対立する親戚をことごとく打倒し、一族の分家がそれぞれ統治していた尾張國各地を全て掌握してしまった。その後の続けざまの軍事的成功により、彼の領地はさらに拡大している。{NEWLINE}彼の舅であり、美濃國を支配していた斎藤道三はかつて、まだ信長が大うつけという評判だった頃、娘と彼との結婚の前に面会した折に、彼を一目見ただけでその後の彼の雄飛を予見したという。だが、「人間五十年下天のう内を比ぶればゆめまぼろしの如きなり」と古くから言われている。信長にとってはまだ道半ばであり、予見が真であるかはまだ誰にもわからない。"/>
     <string id="aCLFE9fV" text="織田濃"/>
     <string id="6fpqsOCb" text="織田信秀"/>
     <string id="WKW8zGVB" text="織田土田御前"/>
@@ -2726,7 +2726,7 @@
     <string id="7whQnMzi" text="織田ひさ"/>
     <string id="8BhkuRWC" text="織田長益"/>
     <string id="Jn0K7PNf" text="織田せい"/>
-    <string id="3698eF33" text="木下秀吉は幼名を日吉丸といい、木下藤吉郎を名乗っている、織田の家臣である。彼は名門の出身ではなく、以前はあちこちの小規模な侍の一族に仕えてきた。しかし、現在の彼は、自らの才覚によって織田の家臣だちの間で頭角を現しつつある。"/>
+    <string id="3698eF33" text="木下秀吉は幼名を日吉丸といい、木下藤吉郎を名乗っている、織田の家臣である。彼は名門の出身ではなく、以前はあちこちの小規模な侍の一族に仕えてきた。しかし、現在の彼は、自らの才覚によって織田の家臣たちの間で頭角を現しつつある。"/>
     <string id="gqt0QIl5" text="木下秀吉"/>
     <string id="9zZwFuMM" text="木下彌右衞門"/>
     <string id="YCkbvrI5" text="木下なか"/>
@@ -3439,7 +3439,7 @@
     <string id="WtjHvAqv" text="海大筒の弾"/>
     <string id="jASYDOcA" text="鉄炮の弾"/>
     <string id="q1KgboXi" text="大鎧篭手"/>
-    <string id="v60sSwHB" text="布篭手"/>
+    <string id="v60sSwHB" text="産篭手"/>
     <string id="nfrAzQOE" text="鎖篭手"/>
     <string id="CoaDkHgm" text="壮麗な鎖篭手"/>
     <string id="XSdMBA4v" text="強化型鎖篭手"/>
@@ -4309,7 +4309,7 @@
     <string id="ikViyOmi" text="湯河"/>
     <string id="AFuBZx4V" text="六角"/>
     <string id="skZuhNKm" text="蒲生"/>
-    <string id="9jmhs2Af" text="浅井"/>
+    <string id="9jmhs2Af" text="淺井"/>
     <string id="QGOk0nP3" text="藤堂"/>
     <string id="iHzPlDkM" text="磯野"/>
     <string id="Mq2WPvMA" text="赤尾"/>
@@ -5222,7 +5222,7 @@
     <string id="RTJJQ1N4" text="足利領国"/>
     <string id="lqGGI5WL" text="畠山領国"/>
     <string id="V9HoIoLf" text="六角領国"/>
-    <string id="ueioOrlR" text="浅井領国"/>
+    <string id="ueioOrlR" text="淺井領国"/>
     <string id="NE0beHdI" text="織田領国"/>
     <string id="bVqyvzea" text="一向宗領国"/>
     <string id="PaA2zlKr" text="浦上領国"/>
@@ -5260,7 +5260,7 @@
     <string id="hMz5eeje" text="足利氏"/>
     <string id="4cnmTBU0" text="畠山氏"/>
     <string id="PGOSBt3d" text="六角氏"/>
-    <string id="0PavuhnS" text="浅井氏"/>
+    <string id="0PavuhnS" text="淺井氏"/>
     <string id="cM7eTAK1o" text="織田氏"/>
     <string id="qD1vg0RF" text="一向宗"/>
     <string id="KolhtpUd" text="浦上氏"/>
@@ -5269,7 +5269,7 @@
     <string id="2TWnRnkw" text="西園寺家"/>
     <string id="44ThIRyK" text="一條家"/>
     <string id="do4c1Wld" text="長宗我部氏"/>
-    <string id="YhbInKsq" text="三芳氏"/>
+    <string id="YhbInKsq" text="三好氏"/>
     <string id="e89d6Fhr" text="嶋津氏"/>
     <string id="nuOTMFnL" text="肝付氏"/>
     <string id="0rDc1SBx" text="伊東氏"/>
@@ -5812,6 +5812,8 @@
     <string id="liYvZ9FU" text="酒一杯"/>
     <string id="9RDSUiHI" text="根深汁一椀"/>
     <string id="khqKZM8U" text="「黒船の全ての小判のために{NEWLINE}大明国の全ての朝貢のため{NEWLINE}雲南の全ての霧のため…」"/>
+    <string id="FBuhv8Jg" text="猿が松の木に登って歌う。「大名のお気に入りの酒を盗んだぞ」{NEWLINE}カラスが羽を鳴らして応える「甲斐の領主様がまた酔いつぶれておるぞ」"/>
+    <string id="ttL93wls" text="信長公はいつも何かを企んでいる。火縄銃と夢物語の話ばかりをする。一夜で城を建てたかと思えば、道中の十の寺を焼き払う。"/>
     <string id="dWF3fKhE" text="長宗我部は稲作を自ら育て、息子は鼠の一家のように多い。{newline}島は眠りにつき、だが長くは続かない。彼は農民に強くなる術を教える。"/>
     <string id="Zs3yoCF0" text="延暦寺の高僧が鐘を撞き、悪魔もろとも逃げ散りけり{NEWLINE}されど悪魔笑ひて夜を明かす、「汝の祈りは弱し、さあ一飯」と言いにけり"/>
     <string id="ZCGsUe7B" text="三郎、三郎、猪と戦さ、地に猪のたうち回る。{NEWLINE}刀も槍もなし、ただ蒜と酒の臭い吐息のみで。"/>
@@ -5954,6 +5956,8 @@
     <string id="JsnkAQba" text="縁故主義"/>
     <string id="0GXnvsPI" text="債権者や金貸しに債権の放棄を命じることで、貧しい領地を救済できる。この行為は貧しいものの生活の助けになるが、領内の経済に対してはある意味で有害である。"/>
     <string id="rGlQBC96" text="徳政令"/>
+    <string id="rvIRhZJG" text="農民たちが法に訴えられるように目安箱を設置する。代官の不正を防止したり、住民間の争いが暴力沙汰に至るのを防いだりする。"/>
+    <string id="hpb2htpi" text="目安箱の設置"/>
     <string id="GuMxVwvA" text="土地の領主は、コミュニティために寺社・武家・豪農に山林を管理する権利を認める。"/>
     <string id="f1piSGja" text="茶会・連歌・猿楽といった文化活動を奨励し、領主間の交流を刺激する。これにより、武家・公家・商人の権力が増すが、教養のない人間にとっては良くない。"/>
     <string id="yo9AvBkT" text="芸能の奨励"/>
@@ -6009,7 +6013,8 @@
     <string id="naPQeidR" text="{HERO.LINK}と話した。"/>
     <string id="cqA0b1Zy" text="{CHANGE}{GOLD_ICON}獲得した"/>
     <string id="iR1Js0Uj" text="そのとおりです伴天連殿。いかんすればよいか教えてくだされ!"/>
-    <string id="5OcgZQf4" text="不審な商人"/>
+    <string id="vYNjPfBr" text="ふむ? 面白い話だ。よく聞かせ願いたい。"/>
+    <string id="5OcgZQf4" text="怪しい商人"/>
     <string id="6nWZKIpM" text="偵察した集落"/>
     <string id="ze44FYK3" text="この本を読むには長い時間がかかる"/>
     <string id="6oKVS4TC" text="この本を読むには少し時間がかかる"/>
@@ -6093,10 +6098,10 @@
     <string id="7pyR761G" text="曹洞宗徒"/>
     <string id="sfXeoNJk" text="浄土真宗徒"/>
     <string id="BDnW3J67" text="山陽地方の西端の地政学上の要地である、本州と九州を分かつ關門海峡の近くにある串崎城は、港湾設備を持つ城と城下町であり、元は内藤氏の城であった。この城から周辺海域と物流を掌握し、西方への人の流れをせき止めることが可能である。"/>
-    <string id="YhbInKsq" text="三芳氏"/>
     <string id="5CN8ewVp" text="月山富田"/>
     <string id="eDhJwiwf" text="月山富田城は山陰の城であり、その起原は鎌倉の世に遡り、平安時代以前には、この地の交易路と、有名な製鉄産業の保護のためにこの地に砦が築かれていた。つい近年になると月山富田城は、地域一帯の権力構造を決定的に変化させてしまった毛利元就による征服事業により、最後に残った旧支配層の一角である尼子氏と、台頭する大内・毛利両氏の争いの舞台となった。"/>
     <string id="6PgvlbUT" text="尾山"/>
+    <string id="Epzs9bvB" text="安曇"/>
     <string id="G1Gwql28" text="甲府は東山道南部の甲斐國の中心にある城下町であり、その起源から武田氏の拠点であった。しかし、近年の甲府の発展は、武田信玄が、甲府を拡張する版図の中心に据え、農業の保護と領民の生活の保障のために大規模な治水事業を行ったことによるものである。"/>
     <string id="kePZsN6S" text="常州府中城"/>
     <string id="DUDOlYTC" text="越府"/>
@@ -6447,7 +6452,40 @@
     <string id="xwdBaHP7" text="賢い選択だ。案ずるな、此奴を苦しませたりはしまい。[ib: closed][if:convo_very_stern]"/>
     <string id="SQOGC3eu" text="この切支丹は私の庇護下にある。ただで奪えるとは思うな。"/>
     <string id="38wQiiSV" text="左様か。覚悟せよ。[ib: aggressive][if:convo_very_stern]"/>
+    <string id="kV39O9Sp" text="残念なことに、その通りです。町の外である一団が、極めて安い値で商売をしているという話があります。その値が安すぎるため、だれも私から商品を買おうとしませんし、この町の他の多くの商売仲間も困っております。[ib:nervous2][if:convo_dismayed]"/>
+    <string id="sTbGAAa1" text="その一団は数週間前に現れました。並の商人が仕入れる値よりはるかに安い値で品物を売っており、{ISSUE_GIVER_SETTLEMENT}の住人は、名の知れた商人ではなく、その者たちから買い求めようと押しかけています。これが続けば、店をたたむことになりそうです。この者たちを調べて、どこから品を仕入れているのか教えていただきたい。[ib:nervous2][if:convo_dismayed]"/>
+    <string id="GCD9cq7V" text="自らその者たちを調べてもよく、お供のだれかに{ALTERNATIVE_TROOP_COUNT}ほどの人手を付けて調べさせてもよいでしょう。[ib:nervous2][if:convo_dismayed]"/>
+    <string id="5GB05CrH" text="その商人たちのことを調べよう。"/>
+    <string id="fJ1Y8vXy" text="{ISSUE_GIVER_SETTLEMENT}の商人が商売敵に困っているという話を聞いた。 {QUEST_GIVER.LINK}が助けを求めている。"/>
+    <string id="FAD2tERq" text="郎党の{COMPANION.LINK}と手勢が成功の報せとともに戻ってきた。見るからに商人は商人の風体には見えず、山賊が盗品を売っているようだったという。{COMPANION.LINK}は彼らを始末した。{QUEST_GIVER.LINK}は感謝し、{REWARD}{GOLD_ICON}の入った財布を報酬によこした。"/>
     <string id="qUiYwHWg" text="不審な商人"/>
+    <string id="h6sYRmXB" text="{QUEST_GIVER.LINK}が、妙に安い値で商品を売っている商人を見つけ出してほしいと頼んできた。彼らの儲けの理由が怪しいため、調べてほしいようだ。彼らは{QUEST_GIVER_SETTLEMENT}の惣堀の外にいる。"/>
+    <string id="2iDaIokW" text="盗品らしきものを見咎めたため、不審な商人と仲間の悪党が攻撃してきた。なんとか彼らを打ち負かし、これらが盗品であると認めた。報酬を得るため、{QUEST_GIVER_SETTLEMENT}の{QUEST_GIVER.LINK}の元へ事の次第を伝えに行こう。"/>
+    <string id="KZZJ4LNd" text="盗品らしきものを見咎めたため、不審な商人と仲間の悪党が攻撃してきた。奴らには敵わなかったが、追い払うことはできたので、依頼はこなせた。報酬を得るため、{QUEST_GIVER_SETTLEMENT}の{QUEST_GIVER.LINK}の元へ事の次第を伝えに行こう。"/>
+    <string id="OSQeWc0S" text="怪しい商人を始末した。 {QUEST_GIVER.LINK}は感謝し、{REWARD_GOLD}{GOLD_ICON}の報酬を渡した。"/>
+    <string id="ul56QMKV" text="怪しい商人との交渉は失敗した。{QUEST_GIVER.LINK}は信頼を裏切られたことを忘れないだろう。"/>
+    <string id="4tdObswz" text="あの商人たちを探してくれたか?[ib:hip][if:convo_mocking_aristocratic]"/>
+    <string id="1Q3NBA6b" text="不審な商人の一団"/>
+    <string id="IcTzfAYC" text="いらっしゃい、何かお探しかい? このあたりじゃ一番安く売ってるよ。[ib:hip2][if:convo_nonchalant]"/>
+    <string id="fwVqd12d" text="さらばだ。"/>
+    <string id="JWcnkxBz" text="扱ってる品を見せてくれ (交易)"/>
+    <string id="s4SHrjzy" text="ありがたい。またお会いしよう。[ib:confident3][if:convo_nonchalant]"/>
+    <string id="mDU7Qfnh" text="随分と安く売るんだな。どうやって仕入れてるのか教えてくれないか?"/>
+    <string id="LxuAUBPM" text="いやいや、賢い商い人は秘訣を明かさないもんでしてね。ただ、一つだけ言っておくと、うちの商売相手はこちらの言い値で卸してくれるのさ。[ib:warrior2][if:convo_stern]"/>
+    <string id="WZazV9Sb" text="なるほど…。だがお前の菜料は正しく保管されておらんようだ。蓋をしないと腐臭がするぞ。"/>
+    <string id="dcWP5LdR" text="何だって? わたしをへぼ商人呼ばわりする気か?[ib:aggressive2][if:convo_insulted]"/>
+    <string id="kUnon1O2" text="商人かどうかも怪しい。その出で立ちと拵えはまるで山賊の類だ。いわんや、町の外で商いなどとは実に怪しからん。"/>
+    <string id="mKW0SDgT" text="おいあんた、馬鹿な考えを止すか、この安売りの品を買うかして、余計な詮索はしないでくれないか。ほら、「何にいたしますか?」ってな。[ib:warrior][if:convo_furious]"/>
+    <string id="mGsuGFXn" text="これらの品々はあきらかに盗まれたものだ。私とともに己の罪を告白しに行くぞ。"/>
+    <string id="vO6b8x18" text="抵抗しないと思ったか。[rb:very_negative][ib:warrior][if:convo_furious]"/>
+    <string id="6lY2xJgr" text="そうだな、面倒事には関わりたくない。さらばだ。"/>
+    <string id="OxEd66eX" text="それが利口ってやつだ。[ib:confident3][if:convo_nonchalant]"/>
+    <string id="OAEabkxr" text="よく戻ってくれた。あの商人たちは見つかりましたか?[ib:hip][if:convo_mocking_aristocratic]"/>
+    <string id="e9fk8gIr" text="ああ、奴らは盗まれた品を商っていた。手前が詰め寄ると攻撃してきた。仕留め損ねたが、奴らは逃げ散った。"/>
+    <string id="zxxpajGk" text="ほほう。彼らと一戦交えるとは思いませんでした。さて、少なくとも奴らはどこかへ去ってくれた。約束通り報酬をお渡しいたそう。[ib:nervous2][if:convo_shocked]"/>
+    <string id="NrakA9cE" text="ああ、奴らは盗まれた品を商っていた。手前が詰め寄ると攻撃してきた。打ち倒して捕虜にした。"/>
+    <string id="Gj5pe97b" text="おお、まさか奴らと一戦交え、その上独りで倒してしまわれましたか! これに報いて賄いを多く渡さねばなりませんな。報酬はこちらになります。[rb:very_positive][ib:hip]"/>
+    <string id="aUVW1xBv" text="血は刃より利し"/>
     <string id="9upW0V7c" text="賊徒を攻撃する"/>
     <string id="T2hy95Dq" text="すばらしい。"/>
     <string id="JLbIFa14" text="すばらしい。"/>
