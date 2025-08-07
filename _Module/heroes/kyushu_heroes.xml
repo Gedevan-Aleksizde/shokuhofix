@@ -118,7 +118,7 @@
 	<Hero id="lord_1_kai_3" faction="Faction.clan_kai_1" father="Hero.lord_1_kai" mother="Hero.lord_1_kai_1" text="{=0dn4iBEk}Kai Chikamasa"/>
 	<Hero id="lord_1_kai_4" faction="Faction.clan_kai_1" father="Hero.lord_1_kai" mother="Hero.lord_1_kai_1" text="{=1erzaD8X}Kai Nobunari"/>
 	<!--nawa_clan 7 ids-->
-	<Hero id="lord_1_nawa" faction="Faction.clan_nawa_1" spouse="Hero.lord_1_nawa_1" text="{=nCvG3JeX}nawa Yukinao"/>
+	<Hero id="lord_1_nawa" faction="Faction.clan_nawa_1" spouse="Hero.lord_1_nawa_1" text="{=nCvG3JeX}Nawa Yukinao"/>
 	<Hero id="lord_1_nawa_1" faction="Faction.clan_nawa_1" spouse="Hero.lord_1_nawa" text="{=ZQpSL7UA}Nawa Anzu"/>
 	<Hero id="lord_1_nawa_2" faction="Faction.clan_nawa_1" father="Hero.lord_1_nawa" mother="Hero.lord_1_nawa_1" text="{=SQP2yZeu}Nawa Akitaka"/>
 	<Hero id="lord_1_nawa_3" faction="Faction.clan_nawa_1" father="Hero.lord_1_nawa" mother="Hero.lord_1_nawa_1" text="{=KrF8FmSs}Nawa Akiteru"/>
