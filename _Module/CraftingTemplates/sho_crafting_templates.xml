@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- WeaponDescription order is fixed, don't change it. weapon descriptions as a whole must have onehandedsword somewhere or game breaks. -->
+<CraftingTemplates>
+	<CraftingTemplate
+		id="SHO_OneHandedSword"
+		item_type="OneHandedWeapon"
+		modifier_group="sword"
+		item_holsters="sword_left_hip_wakizashi_1:sword_left_hip_wakizashi_2"
+		piece_type_to_scale_holster_with="Blade"
+		hidden_piece_types_on_holster="Blade"
+		default_item_holster_position_offset="0,0,-0.25">
+		<PieceDatas>
+			<PieceData
+				piece_type="Handle"
+				build_order="0" />
+			<PieceData
+				piece_type="Guard"
+				build_order="1" />
+			<PieceData
+				piece_type="Blade"
+				build_order="2" />
+		</PieceDatas>
+		<WeaponDescriptions>
+			<WeaponDescription
+				id="SHO_OneHandedSword" />
+		</WeaponDescriptions>
+		<StatsData>
+			<StatData
+				stat_type="Weight"
+				max_value="7.0" />
+			<StatData
+				stat_type="WeaponReach"
+				max_value="300" />
+			<StatData
+				stat_type="ThrustSpeed"
+				max_value="200" />
+			<StatData
+				stat_type="SwingSpeed"
+				max_value="200" />
+			<StatData
+				stat_type="ThrustDamage"
+				max_value="500" />
+			<StatData
+				stat_type="SwingDamage"
+				max_value="500" />
+			<StatData
+				stat_type="Handling"
+				max_value="200" />
+			<!--<StatData stat_type="FollowUp" max_value="200" />-->
+		</StatsData>
+		<UsablePieces>
+			<UsablePiece piece_id="sho_ka_tsuba_a_1"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_2"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_3"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_4"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_5"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_6"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_7"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_8"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_9"/>
+			
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_1_black"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_1_brown"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_1_darkblue"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_1_gold"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_1_green"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_1_lightblue"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_1_orange"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_1_purple"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_1_red"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_1_yellow"/>
+
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_2_black"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_2_brown"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_2_darkblue"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_2_gold"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_2_green"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_2_lightblue"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_2_orange"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_2_purple"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_2_red"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_2_yellow"/>
+
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_3_black"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_3_brown"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_3_darkblue"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_3_gold"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_3_green"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_3_lightblue"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_3_orange"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_3_purple"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_3_red"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_3_yellow"/>
+
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_4_black"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_4_brown"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_4_darkblue"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_4_gold"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_4_green"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_4_lightblue"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_4_orange"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_4_purple"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_4_red"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_4_yellow"/>
+			
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_5_black"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_5_brown"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_5_darkblue"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_5_gold"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_5_green"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_5_lightblue"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_5_orange"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_5_purple"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_5_red"/>
+			<UsablePiece piece_id="sho_wakizashi_curved_handle_5_yellow"/>			
+
+
+			<UsablePiece piece_id="sho_wakizashi_handle_1_black"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_1_brown"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_1_darkblue"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_1_gold"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_1_green"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_1_lightblue"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_1_orange"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_1_purple"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_1_red"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_1_yellow"/>
+
+			<UsablePiece piece_id="sho_wakizashi_handle_2_black"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_2_brown"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_2_darkblue"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_2_gold"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_2_green"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_2_lightblue"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_2_orange"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_2_purple"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_2_red"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_2_yellow"/>
+
+			<UsablePiece piece_id="sho_wakizashi_handle_3_black"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_3_brown"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_3_darkblue"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_3_gold"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_3_green"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_3_lightblue"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_3_orange"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_3_purple"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_3_red"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_3_yellow"/>
+
+			<UsablePiece piece_id="sho_wakizashi_handle_4_black"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_4_brown"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_4_darkblue"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_4_gold"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_4_green"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_4_lightblue"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_4_orange"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_4_purple"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_4_red"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_4_yellow"/>
+			
+			<UsablePiece piece_id="sho_wakizashi_handle_5_black"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_5_brown"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_5_darkblue"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_5_gold"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_5_green"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_5_lightblue"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_5_orange"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_5_purple"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_5_red"/>
+			<UsablePiece piece_id="sho_wakizashi_handle_5_yellow"/>	
+
+
+
+			<UsablePiece piece_id="sho_wakizashi_blade_training"/>
+
+			<UsablePiece piece_id="sho_wakizashi_blade_1"/>
+			<UsablePiece piece_id="sho_wakizashi_blade_2"/>
+			<UsablePiece piece_id="sho_wakizashi_blade_3"/>
+
+			<UsablePiece piece_id="sho_wakizashi_blade_long_1"/>
+			<UsablePiece piece_id="sho_wakizashi_blade_long_2"/>
+			<UsablePiece piece_id="sho_wakizashi_blade_long_3"/>
+			<UsablePiece piece_id="sho_wakizashi_blade_long_4"/>
+			<UsablePiece piece_id="sho_wakizashi_blade_long_5"/>
+			<UsablePiece piece_id="sho_wakizashi_blade_long_6"/>
+
+
+
+
+
+			<UsablePiece piece_id="sho_katana_curved_handle_1_black"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_1_brown"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_1_darkblue"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_1_gold"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_1_green"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_1_lightblue"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_1_orange"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_1_purple"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_1_red"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_1_yellow"/>
+
+			<UsablePiece piece_id="sho_katana_curved_handle_2_black"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_2_brown"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_2_darkblue"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_2_gold"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_2_green"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_2_lightblue"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_2_orange"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_2_purple"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_2_red"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_2_yellow"/>
+
+			<UsablePiece piece_id="sho_katana_curved_handle_3_black"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_3_brown"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_3_darkblue"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_3_gold"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_3_green"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_3_lightblue"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_3_orange"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_3_purple"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_3_red"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_3_yellow"/>
+
+			<UsablePiece piece_id="sho_katana_curved_handle_4_black"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_4_brown"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_4_darkblue"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_4_gold"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_4_green"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_4_lightblue"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_4_orange"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_4_purple"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_4_red"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_4_yellow"/>
+
+			<UsablePiece piece_id="sho_katana_curved_handle_5_black"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_5_brown"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_5_darkblue"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_5_gold"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_5_green"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_5_lightblue"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_5_orange"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_5_purple"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_5_red"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_5_yellow"/>
+
+
+			<UsablePiece piece_id="sho_katana_handle_1_black"/>
+			<UsablePiece piece_id="sho_katana_handle_1_brown"/>
+			<UsablePiece piece_id="sho_katana_handle_1_darkblue"/>
+			<UsablePiece piece_id="sho_katana_handle_1_gold"/>
+			<UsablePiece piece_id="sho_katana_handle_1_green"/>
+			<UsablePiece piece_id="sho_katana_handle_1_lightblue"/>
+			<UsablePiece piece_id="sho_katana_handle_1_orange"/>
+			<UsablePiece piece_id="sho_katana_handle_1_purple"/>
+			<UsablePiece piece_id="sho_katana_handle_1_red"/>
+			<UsablePiece piece_id="sho_katana_handle_1_yellow"/>
+
+			<UsablePiece piece_id="sho_katana_handle_2_black"/>
+			<UsablePiece piece_id="sho_katana_handle_2_brown"/>
+			<UsablePiece piece_id="sho_katana_handle_2_darkblue"/>
+			<UsablePiece piece_id="sho_katana_handle_2_gold"/>
+			<UsablePiece piece_id="sho_katana_handle_2_green"/>
+			<UsablePiece piece_id="sho_katana_handle_2_lightblue"/>
+			<UsablePiece piece_id="sho_katana_handle_2_orange"/>
+			<UsablePiece piece_id="sho_katana_handle_2_purple"/>
+			<UsablePiece piece_id="sho_katana_handle_2_red"/>
+			<UsablePiece piece_id="sho_katana_handle_2_yellow"/>
+
+			<UsablePiece piece_id="sho_katana_handle_3_black"/>
+			<UsablePiece piece_id="sho_katana_handle_3_brown"/>
+			<UsablePiece piece_id="sho_katana_handle_3_darkblue"/>
+			<UsablePiece piece_id="sho_katana_handle_3_gold"/>
+			<UsablePiece piece_id="sho_katana_handle_3_green"/>
+			<UsablePiece piece_id="sho_katana_handle_3_lightblue"/>
+			<UsablePiece piece_id="sho_katana_handle_3_orange"/>
+			<UsablePiece piece_id="sho_katana_handle_3_purple"/>
+			<UsablePiece piece_id="sho_katana_handle_3_red"/>
+			<UsablePiece piece_id="sho_katana_handle_3_yellow"/>
+
+			<UsablePiece piece_id="sho_katana_handle_4_black"/>
+			<UsablePiece piece_id="sho_katana_handle_4_brown"/>
+			<UsablePiece piece_id="sho_katana_handle_4_darkblue"/>
+			<UsablePiece piece_id="sho_katana_handle_4_gold"/>
+			<UsablePiece piece_id="sho_katana_handle_4_green"/>
+			<UsablePiece piece_id="sho_katana_handle_4_lightblue"/>
+			<UsablePiece piece_id="sho_katana_handle_4_orange"/>
+			<UsablePiece piece_id="sho_katana_handle_4_purple"/>
+			<UsablePiece piece_id="sho_katana_handle_4_red"/>
+			<UsablePiece piece_id="sho_katana_handle_4_yellow"/>
+
+			<UsablePiece piece_id="sho_katana_handle_5_black"/>
+			<UsablePiece piece_id="sho_katana_handle_5_brown"/>
+			<UsablePiece piece_id="sho_katana_handle_5_darkblue"/>
+			<UsablePiece piece_id="sho_katana_handle_5_gold"/>
+			<UsablePiece piece_id="sho_katana_handle_5_green"/>
+			<UsablePiece piece_id="sho_katana_handle_5_lightblue"/>
+			<UsablePiece piece_id="sho_katana_handle_5_orange"/>
+			<UsablePiece piece_id="sho_katana_handle_5_purple"/>
+			<UsablePiece piece_id="sho_katana_handle_5_red"/>
+			<UsablePiece piece_id="sho_katana_handle_5_yellow"/>
+
+
+
+
+
+		</UsablePieces>
+
+	</CraftingTemplate>
+	<CraftingTemplate id="SHO_TwoHandedSword"
+					  item_type="TwoHandedWeapon"
+					  modifier_group="sword"
+					  item_holsters="sword_left_hip_katana_1:sword_left_hip_katana_2"
+					  piece_type_to_scale_holster_with="Blade"
+					  hidden_piece_types_on_holster="Blade"
+					  default_item_holster_position_offset="0,0,-0.25">
+		<PieceDatas>
+			<PieceData piece_type="Handle"
+					   build_order="0" />
+			<PieceData piece_type="Guard"
+					   build_order="1" />
+			<PieceData piece_type="Blade"
+					   build_order="2" />
+		</PieceDatas>
+		<WeaponDescriptions>
+			<WeaponDescription
+				id="SHO_OneHandedBastardSword" />
+			<WeaponDescription
+				id="SHO_TwoHandedSword" />
+		</WeaponDescriptions>
+		<StatsData>
+			<StatData stat_type="Weight"
+					  max_value="7.0"/>
+			<StatData stat_type="WeaponReach"
+					  max_value="300"/>
+			<StatData stat_type="ThrustSpeed"
+					  max_value="200"/>
+			<StatData stat_type="SwingSpeed"
+					  max_value="200"/>
+			<StatData stat_type="ThrustDamage"
+					  max_value="500"/>
+			<StatData stat_type="SwingDamage"
+					  max_value="500"/>
+			<StatData stat_type="Handling"
+					  max_value="200"/>
+			<!--<StatData stat_type="FollowUp" max_value="200" />-->
+		</StatsData>
+		<UsablePieces>	
+			<UsablePiece piece_id="sho_ka_tsuba_a_1"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_2"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_3"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_4"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_5"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_6"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_7"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_8"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_9"/>
+            
+			<UsablePiece piece_id="sho_katana_blade_1"/>
+			<UsablePiece piece_id="sho_katana_blade_2"/>
+			<UsablePiece piece_id="sho_katana_blade_3"/>
+			<UsablePiece piece_id="sho_katana_blade_4"/>
+			<UsablePiece piece_id="sho_katana_blade_5"/>
+			<UsablePiece piece_id="sho_katana_blade_6"/>
+			<UsablePiece piece_id="sho_katana_blade_7"/>
+			<UsablePiece piece_id="sho_katana_blade_8"/>
+			<UsablePiece piece_id="sho_katana_blade_9"/>
+			<UsablePiece piece_id="sho_katana_blade_10"/>
+			<UsablePiece piece_id="sho_katana_blade_tiger"/>
+			<UsablePiece piece_id="sho_katana_blade_bear"/>
+			<UsablePiece piece_id="sho_katana_blade_tanuki"/>
+			<UsablePiece piece_id="sho_katana_blade_deer"/>
+
+			<UsablePiece piece_id="sho_katana_blade_11"/>
+			<UsablePiece piece_id="sho_katana_blade_12"/>
+			<UsablePiece piece_id="sho_katana_blade_13"/>
+			<UsablePiece piece_id="sho_katana_blade_14"/>
+			<UsablePiece piece_id="sho_katana_blade_15"/>
+			<UsablePiece piece_id="sho_katana_blade_16"/>
+			<UsablePiece piece_id="sho_katana_blade_17"/>
+			<UsablePiece piece_id="sho_katana_blade_18"/>
+			<UsablePiece piece_id="sho_katana_blade_19"/>
+			<UsablePiece piece_id="sho_katana_blade_20"/>
+
+            <UsablePiece piece_id="sho_katana_blade_training_1"/>
+            <UsablePiece piece_id="sho_katana_blade_training_2"/>
+
+
+            <UsablePiece piece_id="sho_katana_curved_handle_1_black"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_1_brown"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_1_darkblue"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_1_gold"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_1_green"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_1_lightblue"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_1_orange"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_1_purple"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_1_red"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_1_yellow"/>
+
+			<UsablePiece piece_id="sho_katana_curved_handle_2_black"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_2_brown"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_2_darkblue"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_2_gold"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_2_green"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_2_lightblue"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_2_orange"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_2_purple"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_2_red"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_2_yellow"/>
+
+			<UsablePiece piece_id="sho_katana_curved_handle_3_black"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_3_brown"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_3_darkblue"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_3_gold"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_3_green"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_3_lightblue"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_3_orange"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_3_purple"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_3_red"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_3_yellow"/>
+
+			<UsablePiece piece_id="sho_katana_curved_handle_4_black"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_4_brown"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_4_darkblue"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_4_gold"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_4_green"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_4_lightblue"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_4_orange"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_4_purple"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_4_red"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_4_yellow"/>
+			
+			<UsablePiece piece_id="sho_katana_curved_handle_5_black"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_5_brown"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_5_darkblue"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_5_gold"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_5_green"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_5_lightblue"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_5_orange"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_5_purple"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_5_red"/>
+			<UsablePiece piece_id="sho_katana_curved_handle_5_yellow"/>			
+
+
+			<UsablePiece piece_id="sho_katana_handle_1_black"/>
+			<UsablePiece piece_id="sho_katana_handle_1_brown"/>
+			<UsablePiece piece_id="sho_katana_handle_1_darkblue"/>
+			<UsablePiece piece_id="sho_katana_handle_1_gold"/>
+			<UsablePiece piece_id="sho_katana_handle_1_green"/>
+			<UsablePiece piece_id="sho_katana_handle_1_lightblue"/>
+			<UsablePiece piece_id="sho_katana_handle_1_orange"/>
+			<UsablePiece piece_id="sho_katana_handle_1_purple"/>
+			<UsablePiece piece_id="sho_katana_handle_1_red"/>
+			<UsablePiece piece_id="sho_katana_handle_1_yellow"/>
+
+			<UsablePiece piece_id="sho_katana_handle_2_black"/>
+			<UsablePiece piece_id="sho_katana_handle_2_brown"/>
+			<UsablePiece piece_id="sho_katana_handle_2_darkblue"/>
+			<UsablePiece piece_id="sho_katana_handle_2_gold"/>
+			<UsablePiece piece_id="sho_katana_handle_2_green"/>
+			<UsablePiece piece_id="sho_katana_handle_2_lightblue"/>
+			<UsablePiece piece_id="sho_katana_handle_2_orange"/>
+			<UsablePiece piece_id="sho_katana_handle_2_purple"/>
+			<UsablePiece piece_id="sho_katana_handle_2_red"/>
+			<UsablePiece piece_id="sho_katana_handle_2_yellow"/>
+
+			<UsablePiece piece_id="sho_katana_handle_3_black"/>
+			<UsablePiece piece_id="sho_katana_handle_3_brown"/>
+			<UsablePiece piece_id="sho_katana_handle_3_darkblue"/>
+			<UsablePiece piece_id="sho_katana_handle_3_gold"/>
+			<UsablePiece piece_id="sho_katana_handle_3_green"/>
+			<UsablePiece piece_id="sho_katana_handle_3_lightblue"/>
+			<UsablePiece piece_id="sho_katana_handle_3_orange"/>
+			<UsablePiece piece_id="sho_katana_handle_3_purple"/>
+			<UsablePiece piece_id="sho_katana_handle_3_red"/>
+			<UsablePiece piece_id="sho_katana_handle_3_yellow"/>
+
+			<UsablePiece piece_id="sho_katana_handle_4_black"/>
+			<UsablePiece piece_id="sho_katana_handle_4_brown"/>
+			<UsablePiece piece_id="sho_katana_handle_4_darkblue"/>
+			<UsablePiece piece_id="sho_katana_handle_4_gold"/>
+			<UsablePiece piece_id="sho_katana_handle_4_green"/>
+			<UsablePiece piece_id="sho_katana_handle_4_lightblue"/>
+			<UsablePiece piece_id="sho_katana_handle_4_orange"/>
+			<UsablePiece piece_id="sho_katana_handle_4_purple"/>
+			<UsablePiece piece_id="sho_katana_handle_4_red"/>
+			<UsablePiece piece_id="sho_katana_handle_4_yellow"/>
+			
+			<UsablePiece piece_id="sho_katana_handle_5_black"/>
+			<UsablePiece piece_id="sho_katana_handle_5_brown"/>
+			<UsablePiece piece_id="sho_katana_handle_5_darkblue"/>
+			<UsablePiece piece_id="sho_katana_handle_5_gold"/>
+			<UsablePiece piece_id="sho_katana_handle_5_green"/>
+			<UsablePiece piece_id="sho_katana_handle_5_lightblue"/>
+			<UsablePiece piece_id="sho_katana_handle_5_orange"/>
+			<UsablePiece piece_id="sho_katana_handle_5_purple"/>
+			<UsablePiece piece_id="sho_katana_handle_5_red"/>
+			<UsablePiece piece_id="sho_katana_handle_5_yellow"/>	
+
+		</UsablePieces>
+	</CraftingTemplate>
+	<CraftingTemplate id="SHO_Tachi_TwoHandedSword"
+				  item_type="TwoHandedWeapon"
+				  modifier_group="sword"
+				  item_holsters="sword_left_hip_tachi_1"
+				  piece_type_to_scale_holster_with="Blade"
+				  hidden_piece_types_on_holster="Blade"
+				  default_item_holster_position_offset="0,0,-0.25">
+		<PieceDatas>
+			<PieceData piece_type="Handle"
+					   build_order="0" />
+			<PieceData piece_type="Guard"
+					   build_order="1" />
+			<PieceData piece_type="Blade"
+					   build_order="2" />
+		</PieceDatas>
+		<WeaponDescriptions>
+			<WeaponDescription
+				id="SHO_Tachi_OneHandedBastardSword" />
+			<WeaponDescription
+				id="SHO_Tachi_TwoHandedSword" />
+		</WeaponDescriptions>
+		<StatsData>
+			<StatData stat_type="Weight"
+					  max_value="7.0"/>
+			<StatData stat_type="WeaponReach"
+					  max_value="300"/>
+			<StatData stat_type="ThrustSpeed"
+					  max_value="200"/>
+			<StatData stat_type="SwingSpeed"
+					  max_value="200"/>
+			<StatData stat_type="ThrustDamage"
+					  max_value="500"/>
+			<StatData stat_type="SwingDamage"
+					  max_value="500"/>
+			<StatData stat_type="Handling"
+					  max_value="200"/>
+			<!--<StatData stat_type="FollowUp" max_value="200" />-->
+		</StatsData>
+		<UsablePieces>
+
+			<UsablePiece piece_id="sho_tachi_handle_a_1"/>
+			<UsablePiece piece_id="sho_tachi_handle_a_2"/>
+			<UsablePiece piece_id="sho_tachi_handle_a_3"/>
+			<UsablePiece piece_id="sho_tachi_handle_a_4"/>	
+			<UsablePiece piece_id="sho_tachi_handle_a_5"/>
+			<UsablePiece piece_id="sho_tachi_handle_a_6"/>
+			<UsablePiece piece_id="sho_tachi_handle_a_7"/>
+			<UsablePiece piece_id="sho_tachi_handle_a_8"/>
+
+
+			<UsablePiece piece_id="sho_tachi_blade_1"/>
+			<UsablePiece piece_id="sho_tachi_blade_2"/>
+			<UsablePiece piece_id="sho_tachi_blade_3"/>
+			<UsablePiece piece_id="sho_tachi_blade_4"/>
+			<UsablePiece piece_id="sho_tachi_blade_5"/>
+			<UsablePiece piece_id="sho_tachi_blade_6"/>
+			<UsablePiece piece_id="sho_tachi_blade_7"/>
+			<UsablePiece piece_id="sho_tachi_blade_8"/>
+			<UsablePiece piece_id="sho_tachi_blade_9"/>
+			<UsablePiece piece_id="sho_tachi_blade_10"/>
+			<UsablePiece piece_id="sho_tachi_blade_11"/>
+			<UsablePiece piece_id="sho_tachi_blade_12"/> 
+            
+			<UsablePiece piece_id="sho_tachi_blade_tiger"/> 
+			<UsablePiece piece_id="sho_tachi_blade_bear"/> 
+			<UsablePiece piece_id="sho_tachi_blade_tanuki"/> 
+			<UsablePiece piece_id="sho_tachi_blade_deer"/> 
+
+			
+			<UsablePiece piece_id="sho_ka_tsuba_a_1"/>
+            <UsablePiece piece_id="sho_ka_tsuba_a_2"/>
+            <UsablePiece piece_id="sho_ka_tsuba_a_3"/>
+            <UsablePiece piece_id="sho_ka_tsuba_a_4"/>
+            <UsablePiece piece_id="sho_ka_tsuba_a_5"/>
+            <UsablePiece piece_id="sho_ka_tsuba_a_6"/>
+            <UsablePiece piece_id="sho_ka_tsuba_a_7"/>
+            <UsablePiece piece_id="sho_ka_tsuba_a_8"/>
+            <UsablePiece piece_id="sho_ka_tsuba_a_9"/>
+
+            <UsablePiece piece_id="sho_ka_tsuba_b_1"/>
+            <UsablePiece piece_id="sho_ka_tsuba_b_2"/>
+            <UsablePiece piece_id="sho_ka_tsuba_b_3"/>
+            <UsablePiece piece_id="sho_ka_tsuba_b_4"/>
+            <UsablePiece piece_id="sho_ka_tsuba_b_5"/>
+            <UsablePiece piece_id="sho_ka_tsuba_b_6"/>
+            <UsablePiece piece_id="sho_ka_tsuba_b_7"/>
+            <UsablePiece piece_id="sho_ka_tsuba_b_8"/>
+
+            <UsablePiece piece_id="sho_ka_tsuba_c_1"/>
+            <UsablePiece piece_id="sho_ka_tsuba_c_2"/>
+            <UsablePiece piece_id="sho_ka_tsuba_c_3"/>
+            <UsablePiece piece_id="sho_ka_tsuba_c_4"/>
+			
+		</UsablePieces>
+	</CraftingTemplate>
+	<CraftingTemplate id="SHO_TwoHandedLargeSword"
+					  item_type="TwoHandedWeapon"
+					  modifier_group="sword"
+					  item_holsters="sword_back:sword_back_2:sword_back_3:sword_back_4"
+					  piece_type_to_scale_holster_with="Blade"
+					  hidden_piece_types_on_holster="Blade"
+					  default_item_holster_position_offset="0,0,-0.25">
+		<PieceDatas>
+			<PieceData piece_type="Handle"
+					   build_order="0" />
+			<PieceData piece_type="Guard"
+					   build_order="1" />
+			<PieceData piece_type="Blade"
+					   build_order="2" />
+		</PieceDatas>
+		<WeaponDescriptions>
+			<WeaponDescription
+				id="SHO_TwoHandedLargeSword" />
+		</WeaponDescriptions>
+		<StatsData>
+			<StatData stat_type="Weight"
+					  max_value="7.0"/>
+			<StatData stat_type="WeaponReach"
+					  max_value="300"/>
+			<StatData stat_type="ThrustSpeed"
+					  max_value="200"/>
+			<StatData stat_type="SwingSpeed"
+					  max_value="200"/>
+			<StatData stat_type="ThrustDamage"
+					  max_value="500"/>
+			<StatData stat_type="SwingDamage"
+					  max_value="500"/>
+			<StatData stat_type="Handling"
+					  max_value="200"/>
+			<!--<StatData stat_type="FollowUp" max_value="200" />-->
+		</StatsData>
+		<UsablePieces>
+			<UsablePiece piece_id="sho_nodachi_blade_1"/>
+			<UsablePiece piece_id="sho_nodachi_blade_2"/>
+			<UsablePiece piece_id="sho_nodachi_blade_3"/>
+			<UsablePiece piece_id="sho_nodachi_blade_4"/>
+			<UsablePiece piece_id="sho_nodachi_blade_5"/>
+			<UsablePiece piece_id="sho_nodachi_blade_6"/>
+			<UsablePiece piece_id="sho_nodachi_blade_7"/>
+			<UsablePiece piece_id="sho_nodachi_blade_8"/>
+			<UsablePiece piece_id="sho_nodachi_blade_9"/>
+			<UsablePiece piece_id="sho_nodachi_blade_10"/>
+
+			<UsablePiece piece_id="sho_nodachi_curved_handle_1_black"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_1_brown"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_1_darkblue"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_1_gold"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_1_green"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_1_lightblue"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_1_orange"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_1_purple"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_1_red"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_1_yellow"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_2_black"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_2_brown"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_2_darkblue"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_2_gold"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_2_green"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_2_lightblue"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_2_orange"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_2_purple"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_2_red"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_2_yellow"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_3_black"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_3_brown"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_3_darkblue"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_3_gold"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_3_green"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_3_lightblue"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_3_orange"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_3_purple"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_3_red"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_3_yellow"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_4_black"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_4_brown"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_4_darkblue"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_4_gold"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_4_green"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_4_lightblue"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_4_orange"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_4_purple"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_4_red"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_4_yellow"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_5_black"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_5_brown"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_5_darkblue"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_5_gold"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_5_green"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_5_lightblue"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_5_orange"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_5_purple"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_5_red"/>
+			<UsablePiece piece_id="sho_nodachi_curved_handle_5_yellow"/>
+			
+			<UsablePiece piece_id="sho_ka_tsuba_a_1"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_2"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_3"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_4"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_5"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_6"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_7"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_8"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_9"/>
+		</UsablePieces>
+	</CraftingTemplate>
+	
+	<CraftingTemplate id="SHO_Yari"
+					  item_type="Polearm"
+					  modifier_group="polearm"
+					  item_holsters="polearm_back:polearm_back_2:polearm_back_3:polearm_back_4"
+					  default_item_holster_position_offset="0,0,-0.30"
+					  use_weapon_as_holster_mesh="true">
+		<PieceDatas>
+			<PieceData piece_type="Handle"
+					   build_order="0" />
+			<PieceData piece_type="Guard"
+					   build_order="1" />
+			<PieceData piece_type="Blade"
+					   build_order="1" />
+		</PieceDatas>
+		<WeaponDescriptions>
+			<WeaponDescription id="SHO_Yari"/>
+
+			<WeaponDescription id="SHO_Yari_Bracing"/>
+
+
+		</WeaponDescriptions>
+		<StatsData>
+			<StatData stat_type="Weight"
+					  max_value="7.0"/>
+			<StatData stat_type="WeaponReach"
+					  max_value="300"/>
+			<StatData stat_type="ThrustSpeed"
+					  max_value="200"/>
+			<StatData stat_type="SwingSpeed"
+					  max_value="200"/>
+			<StatData stat_type="ThrustDamage"
+					  max_value="500"/>
+			<StatData stat_type="SwingDamage"
+					  max_value="500"/>
+			<StatData stat_type="Handling"
+					  max_value="200"/>
+			<!--<StatData stat_type="FollowUp" max_value="200" />-->
+		</StatsData>
+		<UsablePieces>
+			<UsablePiece piece_id="sho_yari_guard_1"/>
+			<UsablePiece piece_id="sho_yari_guard_2"/>
+			<UsablePiece piece_id="sho_yari_guard_3"/>
+			<UsablePiece piece_id="sho_yari_handle_1"/>
+			<UsablePiece piece_id="sho_yari_handle_2"/>
+			<UsablePiece piece_id="sho_yari_handle_3"/>
+			<UsablePiece piece_id="sho_yari_handle_4"/>
+			<UsablePiece piece_id="sho_yari_blade_1"/>
+			<UsablePiece piece_id="sho_yari_blade_2"/>
+			<UsablePiece piece_id="sho_yari_blade_3"/>
+			<UsablePiece piece_id="sho_yari_blade_4"/>
+			<UsablePiece piece_id="sho_yari_blade_5"/>
+			<UsablePiece piece_id="sho_yari_blade_6"/>
+			<UsablePiece piece_id="sho_yari_blade_7"/>
+			<UsablePiece piece_id="sho_yari_blade_8"/>
+			<UsablePiece piece_id="sho_yari_blade_9"/>
+			<UsablePiece piece_id="sho_yari_blade_10"/>
+            <UsablePiece piece_id="sho_yari_blade_11"/>
+            <UsablePiece piece_id="sho_yari_blade_14"/>
+            <UsablePiece piece_id="sho_yari_blade_15"/>
+            <UsablePiece piece_id="sho_yari_blade_16"/>
+            <UsablePiece piece_id="sho_yari_blade_17"/>
+            <UsablePiece piece_id="sho_yari_blade_18"/>
+            <UsablePiece piece_id="sho_yari_blade_19"/>
+            <UsablePiece piece_id="sho_yari_blade_20"/>
+			<UsablePiece piece_id="sho_yari_blade_21"/>
+			<UsablePiece piece_id="sho_yari_blade_22"/>
+
+		</UsablePieces>
+	</CraftingTemplate>
+    
+	
+	
+	
+	
+	
+    
+	<CraftingTemplate id="SHO_TwoHandedPolearm"
+					  item_type="Polearm"
+					  modifier_group="polearm"
+					  item_holsters="polearm_back:polearm_back_2:polearm_back_3:polearm_back_4"
+					  piece_type_to_scale_holster_with="Blade"
+					  hidden_piece_types_on_holster="Blade"
+					  default_item_holster_position_offset="0,0,-0.25">
+		<PieceDatas>
+			<PieceData piece_type="Handle"
+					   build_order="0" />
+			<PieceData piece_type="Guard"
+					   build_order="1" />
+			<PieceData piece_type="Blade"
+					   build_order="2" />
+		</PieceDatas>
+		<WeaponDescriptions>
+			<WeaponDescription id="SHO_TwoHandedPolearm"/>
+		</WeaponDescriptions>
+		<StatsData>
+			<StatData stat_type="Weight"
+					  max_value="7.0"/>
+			<StatData stat_type="WeaponReach"
+					  max_value="300"/>
+			<StatData stat_type="ThrustSpeed"
+					  max_value="200"/>
+			<StatData stat_type="SwingSpeed"
+					  max_value="200"/>
+			<StatData stat_type="ThrustDamage"
+					  max_value="500"/>
+			<StatData stat_type="SwingDamage"
+					  max_value="500"/>
+			<StatData stat_type="Handling"
+					  max_value="200"/>
+			<!--<StatData stat_type="FollowUp" max_value="200" />-->
+		</StatsData>
+		<UsablePieces>
+            <UsablePiece piece_id="sho_ka_tsuba_a_1"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_2"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_3"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_4"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_5"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_6"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_7"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_8"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_9"/>
+
+			<UsablePiece piece_id="sho_naginata_blade_training"/>
+            
+			<UsablePiece piece_id="sho_naginata_blade_1"/>
+			<UsablePiece piece_id="sho_naginata_blade_2"/>
+			<UsablePiece piece_id="sho_naginata_blade_3"/>
+			<UsablePiece piece_id="sho_naginata_blade_4"/>
+			<UsablePiece piece_id="sho_naginata_blade_5"/>
+			<UsablePiece piece_id="sho_naginata_blade_6"/>
+
+			<UsablePiece piece_id="sho_nagamaki_handle_a_1"/>
+			<UsablePiece piece_id="sho_nagamaki_handle_a_2"/>
+			<UsablePiece piece_id="sho_nagamaki_handle_a_3"/>
+			<UsablePiece piece_id="sho_nagamaki_handle_a_4"/>
+			<UsablePiece piece_id="sho_nagamaki_handle_a_5"/>
+			<UsablePiece piece_id="sho_nagamaki_handle_a_6"/>
+
+			<UsablePiece piece_id="sho_yari_guard_1"/>
+			<UsablePiece piece_id="sho_yari_guard_2"/>
+			<UsablePiece piece_id="sho_yari_guard_3"/>
+			<UsablePiece piece_id="sho_yari_handle_1"/>
+			<UsablePiece piece_id="sho_yari_handle_2"/>
+			<UsablePiece piece_id="sho_yari_handle_3"/>
+			<UsablePiece piece_id="sho_yari_handle_4"/>			
+		</UsablePieces>
+	</CraftingTemplate>
+
+	<CraftingTemplate id="SHO_Nagamaki"
+					  item_type="Polearm"
+					  modifier_group="polearm"
+					  item_holsters="polearm_back:polearm_back_2:polearm_back_3:polearm_back_4"
+					  piece_type_to_scale_holster_with="Blade"
+					  hidden_piece_types_on_holster="Blade"
+					  default_item_holster_position_offset="0,0,-0.5">
+		<PieceDatas>
+			<PieceData piece_type="Handle"
+					   build_order="0" />
+			<PieceData piece_type="Guard"
+					   build_order="1" />
+			<PieceData piece_type="Blade"
+					   build_order="2" />
+		</PieceDatas>
+		<WeaponDescriptions>
+			<WeaponDescription id="SHO_Nagamaki"/>
+		</WeaponDescriptions>
+		<StatsData>
+			<StatData stat_type="Weight"
+					  max_value="7.0"/>
+			<StatData stat_type="WeaponReach"
+					  max_value="300"/>
+			<StatData stat_type="ThrustSpeed"
+					  max_value="200"/>
+			<StatData stat_type="SwingSpeed"
+					  max_value="200"/>
+			<StatData stat_type="ThrustDamage"
+					  max_value="500"/>
+			<StatData stat_type="SwingDamage"
+					  max_value="500"/>
+			<StatData stat_type="Handling"
+					  max_value="200"/>
+			<!--<StatData stat_type="FollowUp" max_value="200" />-->
+		</StatsData>
+		<UsablePieces>
+			<UsablePiece piece_id="sho_ka_tsuba_a_1"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_2"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_3"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_4"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_5"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_6"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_7"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_8"/>
+			<UsablePiece piece_id="sho_ka_tsuba_a_9"/>
+			
+			<UsablePiece piece_id="sho_nagamaki_blade_1"/>
+			<UsablePiece piece_id="sho_nagamaki_blade_2"/>
+			<UsablePiece piece_id="sho_nagamaki_blade_3"/>
+			<UsablePiece piece_id="sho_nagamaki_blade_4"/>
+			<UsablePiece piece_id="sho_nagamaki_blade_5"/>
+			
+			<UsablePiece piece_id="sho_nagamaki_handle_a_1"/>
+			<UsablePiece piece_id="sho_nagamaki_handle_a_2"/>
+			<UsablePiece piece_id="sho_nagamaki_handle_a_3"/>
+			<UsablePiece piece_id="sho_nagamaki_handle_a_4"/>
+			<UsablePiece piece_id="sho_nagamaki_handle_a_5"/>
+			<UsablePiece piece_id="sho_nagamaki_handle_a_6"/>
+		</UsablePieces>
+	</CraftingTemplate>
+    
+
+	<CraftingTemplate
+		id="SHO_TwoHandedAxe"
+		item_type="TwoHandedWeapon"
+		modifier_group="axe"
+		item_holsters="axe_back:axe_back_2:axe_back_3:axe_back_4"
+		default_item_holster_position_offset="0,0,-0.65"
+		use_weapon_as_holster_mesh="true">
+		<PieceDatas>
+			<PieceData
+				piece_type="Handle"
+				build_order="0" />
+			<PieceData
+				piece_type="Blade"
+				build_order="1" />
+		</PieceDatas>
+		<WeaponDescriptions>
+			<WeaponDescription id="SHO_TwoHandedAxe"/>
+		</WeaponDescriptions>
+		<StatsData>
+			<StatData
+				stat_type="Weight"
+				max_value="7.0" />
+			<StatData
+				stat_type="WeaponReach"
+				max_value="300" />
+			<StatData
+				stat_type="ThrustSpeed"
+				max_value="200" />
+			<StatData
+				stat_type="SwingSpeed"
+				max_value="200" />
+			<StatData
+				stat_type="ThrustDamage"
+				max_value="500" />
+			<StatData
+				stat_type="SwingDamage"
+				max_value="500" />
+			<StatData
+				stat_type="Handling"
+				max_value="200" />
+			<!--<StatData stat_type="FollowUp" max_value="200" />-->
+		</StatsData>
+		<UsablePieces>
+			<UsablePiece piece_id="sho_axe_handle_1"/>
+			<UsablePiece piece_id="sho_axe_handle_2"/>
+			<UsablePiece piece_id="sho_axe_handle_3"/>
+			<UsablePiece piece_id="sho_axe_handle_4"/>
+
+
+			<UsablePiece piece_id="sho_axe_head_1"/>
+			<UsablePiece piece_id="sho_axe_head_2"/>
+			<UsablePiece piece_id="sho_axe_head_3"/>
+			<UsablePiece piece_id="sho_axe_head_4"/>
+			<UsablePiece piece_id="sho_axe_head_5"/>
+			<UsablePiece piece_id="sho_axe_head_6"/>
+			<UsablePiece piece_id="sho_axe_head_7"/>
+			<UsablePiece piece_id="sho_axe_head_8"/>
+		</UsablePieces>
+	</CraftingTemplate>
+
+
+
+	<CraftingTemplate id="SHO_Kama"
+                      item_type="OneHandedWeapon"
+                      modifier_group="axe"
+                      item_holsters="axe_right_hip:axe_right_hip_2:mace_right_hip:axe_back"
+                      default_item_holster_position_offset="0,0,-0.45"
+                      use_weapon_as_holster_mesh="true">
+        <PieceDatas>
+            <PieceData piece_type="Handle"
+                       build_order="0" />
+            <PieceData piece_type="Blade"
+                       build_order="1" />
+        </PieceDatas>
+        <WeaponDescriptions>
+            <WeaponDescription id="SHO_Kama"/>
+        </WeaponDescriptions>
+        <StatsData>
+            <StatData
+                stat_type="Weight"
+                max_value="7.0" />
+            <StatData
+                stat_type="WeaponReach"
+                max_value="300" />
+            <StatData
+                stat_type="ThrustSpeed"
+                max_value="200" />
+            <StatData
+                stat_type="SwingSpeed"
+                max_value="200" />
+            <StatData
+                stat_type="ThrustDamage"
+                max_value="500" />
+            <StatData
+                stat_type="SwingDamage"
+                max_value="500" />
+            <StatData
+                stat_type="Handling"
+                max_value="200" />
+        </StatsData>
+        <UsablePieces>
+
+
+
+            <UsablePiece piece_id="sho_kama_handle_1"/>
+            <UsablePiece piece_id="sho_kama_handle_2"/>
+            <UsablePiece piece_id="sho_kama_handle_3"/>
+            <UsablePiece piece_id="sho_kama_handle_4"/>
+            <UsablePiece piece_id="sho_kama_blade_1"/>
+            <UsablePiece piece_id="sho_kama_blade_2"/>
+            <UsablePiece piece_id="sho_kama_blade_3"/>
+            <UsablePiece piece_id="sho_kama_blade_4"/>
+            <UsablePiece piece_id="sho_kama_blade_5"/>
+
+        </UsablePieces>
+    </CraftingTemplate>
+    
+
+    <CraftingTemplate id="SHO_Kanasaibo"
+                      item_type="TwoHandedWeapon"
+                      modifier_group="mace"
+                      item_holsters="sword_back:sword_back_2:sword_back_3:sword_back_4"
+                      default_item_holster_position_offset="0,0,-0.45"
+                      use_weapon_as_holster_mesh="true">
+        <PieceDatas>
+            <PieceData piece_type="Handle"
+                       build_order="0" />
+            <PieceData piece_type="Blade"
+                       build_order="1" />
+        </PieceDatas>
+        <WeaponDescriptions>
+            <WeaponDescription id="SHO_Kanasaibo"/>
+        </WeaponDescriptions>
+        <StatsData>
+            <StatData
+                stat_type="Weight"
+                max_value="7.0" />
+            <StatData
+                stat_type="WeaponReach"
+                max_value="300" />
+            <StatData
+                stat_type="ThrustSpeed"
+                max_value="200" />
+            <StatData
+                stat_type="SwingSpeed"
+                max_value="200" />
+            <StatData
+                stat_type="ThrustDamage"
+                max_value="500" />
+            <StatData
+                stat_type="SwingDamage"
+                max_value="500" />
+            <StatData
+                stat_type="Handling"
+                max_value="200" />
+        </StatsData>
+        <UsablePieces>
+
+            <UsablePiece piece_id="sho_kanasaibo_a"/>
+            <UsablePiece piece_id="kanasaibo_empty_handle"/>
+
+        </UsablePieces>
+    </CraftingTemplate>
+
+
+</CraftingTemplates>

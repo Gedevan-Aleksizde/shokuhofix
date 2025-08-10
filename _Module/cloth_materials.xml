@@ -1,0 +1,14 @@
+<base>
+	<materials>
+		<material name="sho_hakama">
+			<simulation stretching_stiffness="0.800" anchor_stiffness="0.600" bending_stiffness="0.550" shearing_stiffness_="0.640" damping="0.100" gravity="12.000" linear_inertia="0.900" max_linear_velocity="-1.000" linear_velocity_multiplier="1.000" wind="3.000" air_drag_multiplier="0.250"/>
+		</material>
+		<material name="sho_sail">
+			<simulation stretching_stiffness="0.050" anchor_stiffness="1.000" bending_stiffness="0.150" shearing_stiffness_="0.150" damping="0.150" gravity="10.000" linear_inertia="0.000" max_linear_velocity="-1.000" linear_velocity_multiplier="1.000" wind="1.000" air_drag_multiplier="0.000"/>
+		</material>
+		<material name="sho_tassets">
+			<simulation stretching_stiffness="1.000" anchor_stiffness="1.000" bending_stiffness="1.000" shearing_stiffness_="1.000" damping="1.000" gravity="9.810" linear_inertia="1.000" max_linear_velocity="-1.000" linear_velocity_multiplier="1.000" wind="0.000" air_drag_multiplier="0.000"/>
+		</material>
+	</materials>
+</base>
+

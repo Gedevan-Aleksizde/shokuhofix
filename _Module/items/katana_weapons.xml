@@ -1,0 +1,287 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Items>
+    <Item id="sho_katana_training" name="{=E5L8zSrM}Training Katana" body_name="bo_sho_bokken_katana" mesh="sho_bokken_katana" weight="3" value="1" is_merchandise="false" appearance="0.8" difficulty="0" Type="TwoHandedWeapon" item_holsters="sword_left_hip_katana_1" holster_position_shift="0,0,-0.25">
+        <ItemComponent>
+            <Weapon weapon_class="TwoHandedSword" thrust_speed="95" speed_rating="90" weapon_length="80" thrust_damage="120" swing_damage="100" thrust_damage_type="Blunt" swing_damage_type="Blunt" item_usage="twohanded_block_swing_thrust" physics_material="wood_weapon" center_of_mass="0,0,0.4" position="0.01, 0.00, 0.0" rotation="0, 0, 0">
+                <WeaponFlags MeleeWeapon="true" TwoHandIdleOnMount="true" NoBlood="true"/>
+            </Weapon>
+        </ItemComponent>
+        <Flags>
+        </Flags>
+            
+    </Item>
+
+    <CraftedItem id="sho_katana_training_1" name="{=8BLJ7tEJ}Blunted Katana" crafting_template="SHO_TwoHandedSword">
+        <Pieces>
+            <Piece id="sho_katana_blade_training_1" Type="Blade" scale_factor="100"/>
+            <Piece id="sho_ka_tsuba_a_3" Type="Guard" scale_factor="100"/>
+            <Piece id="sho_katana_handle_3_black" Type="Handle" scale_factor="100"/>
+
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_katana_training_2" name="{=8BLJ7tEJ}Blunted Katana" crafting_template="SHO_TwoHandedSword">
+        <Pieces>
+            <Piece id="sho_katana_blade_training_2" Type="Blade" scale_factor="100"/>
+            <Piece id="sho_ka_tsuba_a_3" Type="Guard" scale_factor="100"/>
+            <Piece id="sho_katana_handle_3_black" Type="Handle" scale_factor="100"/>
+
+        </Pieces>
+    </CraftedItem>
+    <!--tier 1-->
+    <CraftedItem id="sho_katana_1" name="{=mBR3AsWm}Dull Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_katana_blade_15" Type="Blade" scale_factor="100"/>
+            <Piece id="sho_ka_tsuba_a_5" Type="Guard" scale_factor="100"/>
+            <Piece id="sho_katana_curved_handle_3_black" Type="Handle" scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_katana_2" name="{=7aUj72qK}Makeshift Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_katana_blade_20" Type="Blade" scale_factor="100"/>
+            <Piece id="sho_ka_tsuba_a_4" Type="Guard" scale_factor="100"/>
+            <Piece id="sho_katana_curved_handle_3_black" Type="Handle" scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_katana_3" name="{=MbKvPvYH}Old Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_katana_blade_15" Type="Blade" scale_factor="100"/>
+            <Piece id="sho_ka_tsuba_a_3" Type="Guard" scale_factor="100"/>
+            <Piece id="sho_katana_curved_handle_3_green" Type="Handle" scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_katana_4" name="{=qAeOqEfi}Crude Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_katana_blade_20" Type="Blade" scale_factor="100"/>
+            <Piece id="sho_ka_tsuba_a_5" Type="Guard" scale_factor="100"/>
+            <Piece id="sho_katana_curved_handle_3_brown" Type="Handle" scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+	<!--tier 2-->
+	<CraftedItem id="sho_katana_5" name="{=6JUD7YaO}Simple Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_katana_blade_13" Type="Blade" scale_factor="100"/>
+			<Piece id="sho_ka_tsuba_a_5" Type="Guard" scale_factor="100"/>
+			<Piece id="sho_katana_curved_handle_1_black" Type="Handle" scale_factor="100"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="sho_katana_6" name="{=UMBOj05N}Cheap Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_katana_blade_14" Type="Blade" scale_factor="100"/>
+			<Piece id="sho_ka_tsuba_a_6" Type="Guard" scale_factor="100"/>
+			<Piece id="sho_katana_curved_handle_1_orange" Type="Handle" scale_factor="100"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="sho_katana_7" name="{=CkUDAF1H}Decent Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_katana_blade_18" Type="Blade" scale_factor="100"/>
+			<Piece id="sho_ka_tsuba_a_8" Type="Guard" scale_factor="100"/>
+			<Piece id="sho_katana_handle_1_green" Type="Handle" scale_factor="100"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="sho_katana_8" name="{=Ywc23O0H}Plain Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_katana_blade_19" Type="Blade" scale_factor="100"/>
+			<Piece id="sho_ka_tsuba_a_5" Type="Guard" scale_factor="100"/>
+			<Piece id="sho_katana_handle_1_brown" Type="Handle" scale_factor="100"/>
+		</Pieces>
+	</CraftedItem>
+	<!--tier 3-->
+	<CraftedItem id="sho_katana_9" name="{=1N8vmmt0}Robust Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_katana_blade_11" Type="Blade" scale_factor="100"/>
+			<Piece id="sho_ka_tsuba_a_7" Type="Guard" scale_factor="100"/>
+			<Piece id="sho_katana_curved_handle_4_green" Type="Handle" scale_factor="100"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="sho_katana_10" name="{=yDvQJibW}Solid Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_katana_blade_12" Type="Blade" scale_factor="100"/>
+			<Piece id="sho_ka_tsuba_a_5" Type="Guard" scale_factor="100"/>
+			<Piece id="sho_katana_handle_4_darkblue" Type="Handle" scale_factor="100"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="sho_katana_11" name="{=gQmVwgif}Quality Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_katana_blade_16" Type="Blade" scale_factor="100"/>
+			<Piece id="sho_ka_tsuba_a_7" Type="Guard" scale_factor="100"/>
+			<Piece id="sho_katana_curved_handle_4_orange" Type="Handle" scale_factor="100"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="sho_katana_12" name="{=HsKHrObU}Excellent Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_katana_blade_17" Type="Blade" scale_factor="100"/>
+			<Piece id="sho_ka_tsuba_a_8" Type="Guard" scale_factor="100"/>
+			<Piece id="sho_katana_handle_4_lightblue" Type="Handle" scale_factor="100"/>
+		</Pieces>
+	</CraftedItem>
+	<!--tier 4-->
+	<CraftedItem id="sho_katana_13" name="{=juKNNx88}Superior Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_katana_blade_10" Type="Blade" scale_factor="100"/>
+			<Piece id="sho_ka_tsuba_a_2" Type="Guard" scale_factor="100"/>
+			<Piece id="sho_katana_curved_handle_5_black" Type="Handle" scale_factor="100"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="sho_katana_14" name="{=AqqOlzyn}Elegant Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_katana_blade_3" Type="Blade" scale_factor="100"/>
+			<Piece id="sho_ka_tsuba_a_9" Type="Guard" scale_factor="100"/>
+			<Piece id="sho_katana_curved_handle_5_gold" Type="Handle" scale_factor="100"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="sho_katana_15" name="{=UAEmZT2R}Superb Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_katana_blade_4" Type="Blade" scale_factor="100"/>
+			<Piece id="sho_ka_tsuba_a_2" Type="Guard" scale_factor="100"/>
+			<Piece id="sho_katana_handle_5_purple" Type="Handle" scale_factor="100"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="sho_katana_16" name="{=Kz8V2sVu}Rare Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_katana_blade_5" Type="Blade" scale_factor="100"/>
+			<Piece id="sho_ka_tsuba_a_7" Type="Guard" scale_factor="100"/>
+			<Piece id="sho_katana_handle_5_yellow" Type="Handle" scale_factor="100"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="sho_katana_17" name="{=kLMhnN7c}Refined Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_katana_blade_8" Type="Blade" scale_factor="100"/>
+			<Piece id="sho_ka_tsuba_a_2" Type="Guard" scale_factor="100"/>
+			<Piece id="sho_katana_handle_5_red" Type="Handle" scale_factor="100"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="sho_katana_18" name="{=Z9WHcgrz}Exquisite Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_katana_blade_9" Type="Blade" scale_factor="100"/>
+			<Piece id="sho_ka_tsuba_a_9" Type="Guard" scale_factor="100"/>
+			<Piece id="sho_katana_curved_handle_5_black" Type="Handle" scale_factor="100"/>
+		</Pieces>
+	</CraftedItem>
+	<!--tier 5-->
+	<CraftedItem id="sho_katana_19" name="{=Qeh5lFPp}Acclaimed Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_katana_blade_1" Type="Blade" scale_factor="100"/>
+			<Piece id="sho_ka_tsuba_a_1" Type="Guard" scale_factor="100"/>
+			<Piece id="sho_katana_curved_handle_2_gold" Type="Handle" scale_factor="100"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="sho_katana_20" name="{=XqMCjSRX}Famed Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_katana_blade_2" Type="Blade" scale_factor="100"/>
+			<Piece id="sho_ka_tsuba_a_9" Type="Guard" scale_factor="100"/>
+			<Piece id="sho_katana_curved_handle_2_red" Type="Handle" scale_factor="100"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="sho_katana_21" name="{=FPjvwjlo}Prominent Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_katana_blade_6" Type="Blade" scale_factor="100"/>
+			<Piece id="sho_ka_tsuba_a_2" Type="Guard" scale_factor="100"/>
+			<Piece id="sho_katana_handle_2_gold" Type="Handle" scale_factor="100"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="sho_katana_22" name="{=xkWAuUYi}Renowned Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+		<Pieces>
+			<Piece id="sho_katana_blade_7" Type="Blade" scale_factor="100"/>
+			<Piece id="sho_ka_tsuba_a_1" Type="Guard" scale_factor="100"/>
+			<Piece id="sho_katana_handle_2_black" Type="Handle" scale_factor="100"/>
+		</Pieces>
+	</CraftedItem>
+    <CraftedItem id="sho_katana_23" name="{=bYOKujpb}Ordinary Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_katana_blade_19" Type="Blade" scale_factor="95"/>
+            <Piece id="sho_ka_tsuba_a_5" Type="Guard" scale_factor="100"/>
+            <Piece id="sho_katana_curved_handle_1_darkblue" Type="Handle" scale_factor="106"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_katana_24" name="{=QDeSPyGz}Modest Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_katana_blade_18" Type="Blade" scale_factor="100"/>
+            <Piece id="sho_ka_tsuba_a_6" Type="Guard" scale_factor="100"/>
+            <Piece id="sho_katana_curved_handle_1_green" Type="Handle" scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_katana_25" name="{=M460EDCI}Poor Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_katana_blade_15" Type="Blade" scale_factor="100"/>
+            <Piece id="sho_ka_tsuba_a_8" Type="Guard" scale_factor="100"/>
+            <Piece id="sho_katana_curved_handle_1_black" Type="Handle" scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_katana_25" name="{=yDvQJibW}Solid Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_katana_blade_11" Type="Blade" scale_factor="100"/>
+            <Piece id="sho_ka_tsuba_a_8" Type="Guard" scale_factor="100"/>
+            <Piece id="sho_katana_curved_handle_4_black" Type="Handle" scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_katana_26" name="{=sR4razoq}Stable Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_katana_blade_12" Type="Blade" scale_factor="104"/>
+            <Piece id="sho_ka_tsuba_a_7" Type="Guard" scale_factor="100"/>
+            <Piece id="sho_katana_handle_4_green" Type="Handle" scale_factor="104"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_katana_27" name="{=TQfGjvKn}Sturdy Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_katana_blade_16" Type="Blade" scale_factor="103"/>
+            <Piece id="sho_ka_tsuba_a_7" Type="Guard" scale_factor="100"/>
+            <Piece id="sho_katana_curved_handle_4_orange" Type="Handle" scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_katana_28" name="{=9ieHxrqg}Strong Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_katana_blade_17" Type="Blade" scale_factor="104"/>
+            <Piece id="sho_ka_tsuba_a_6" Type="Guard" scale_factor="100"/>
+            <Piece id="sho_katana_curved_handle_4_red" Type="Handle" scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_katana_29" name="{=sR4razoq}Stable Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_katana_blade_16" Type="Blade" scale_factor="104"/>
+            <Piece id="sho_ka_tsuba_a_2" Type="Guard" scale_factor="100"/>
+            <Piece id="sho_katana_curved_handle_4_purple" Type="Handle" scale_factor="110"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_katana_30" name="{=ZIW8Urnh}Balanced Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_katana_blade_11" Type="Blade" scale_factor="95"/>
+            <Piece id="sho_ka_tsuba_a_8" Type="Guard" scale_factor="110"/>
+            <Piece id="sho_katana_curved_handle_4_gold" Type="Handle" scale_factor="92"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_katana_31" name="{=wSYyoYhc}Sharp Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_katana_blade_17" Type="Blade" scale_factor="110"/>
+            <Piece id="sho_ka_tsuba_a_7" Type="Guard" scale_factor="93"/>
+            <Piece id="sho_katana_curved_handle_4_red" Type="Handle" scale_factor="104"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_katana_tiger" name="{=QwsCML80}Tiger Fur Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_katana_blade_tiger" Type="Blade" scale_factor="105"/>
+            <Piece id="sho_ka_tsuba_a_1" Type="Guard" scale_factor="100"/>
+            <Piece id="sho_katana_curved_handle_2_red" Type="Handle" scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_katana_bear" name="{=6Ey2sWrU}Bear Fur Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_katana_blade_bear" Type="Blade" scale_factor="106"/>
+            <Piece id="sho_ka_tsuba_a_1" Type="Guard" scale_factor="100"/>
+            <Piece id="sho_katana_handle_2_brown" Type="Handle" scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_katana_deer" name="{=y8fn9D9l}Deer Hide Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_katana_blade_deer" Type="Blade" scale_factor="104"/>
+            <Piece id="sho_ka_tsuba_a_1" Type="Guard" scale_factor="100"/>
+            <Piece id="sho_katana_handle_2_orange" Type="Handle" scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_katana_tanuki" name="{=siP5Zlut}Tanuki Fur Katana" crafting_template="SHO_TwoHandedSword" modifier_group="sword">
+        <Pieces>
+            <Piece id="sho_katana_blade_tanuki" Type="Blade" scale_factor="105"/>
+            <Piece id="sho_ka_tsuba_a_1" Type="Guard" scale_factor="100"/>
+            <Piece id="sho_katana_curved_handle_2_gold" Type="Handle" scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+</Items>

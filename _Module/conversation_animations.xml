@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConversationAnimations>
+	<IdleAnim
+		id="kneeling_pose2"
+		action_id_1="act_kneeling_pose2"
+		action_id_2="act_kneeling_pose2">
+		<Reactions>
+			<Reaction
+				id="positive"
+				action_id="" />
+			<Reaction
+				id="very_positive"
+				action_id="" />
+			<Reaction
+				id="unsure"
+				action_id="" />
+			<Reaction
+				id="negative"
+				action_id="" />
+			<Reaction
+				id="very_negative"
+				action_id="" />
+			<Reaction
+				id="trivial"
+				action_id="" />
+		</Reactions>
+	</IdleAnim>
+</ConversationAnimations>

@@ -1,0 +1,2255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item_usage_sets>
+	<!-- Custom -->
+
+
+
+
+
+	<item_usage_set
+		id="twohanded_block_swing_thrust"
+		equip_sound="event:/mission/combat/equip/sword_equip"
+		unequip_sound="event:/mission/combat/equip/sword_unequip">
+		<flags>
+			<flag
+				name="requires_no_shield" />
+		</flags>
+		<idles>
+			<idle
+				action="act_idle_2h_1"
+				is_left_stance="False"
+				require_free_left_hand="False" />
+			<idle
+				action="act_idle_2h_1_left_stance"
+				is_left_stance="True"
+				require_free_left_hand="False" />
+		</idles>
+		<movement_sets>
+			<movement_set
+				id="1h_with_hand_shield"
+				require_left_hand_usage_root_set="hand_shield" />
+			<movement_set
+				id="twohanded_swing_thrust" />
+			<movement_set
+				id="onehanded_swing_cantblock" />
+			<!-- don't remove this!!-->
+		</movement_sets>
+		<usages>
+			<usage
+			style="attack_up"
+			ready_action="act_ready_overswing_horseback"
+			ready_from_up_action="act_ready_from_up_overswing_horseback"
+			ready_from_left_action="act_ready_from_left_overswing_horseback"
+			ready_from_right_action="act_ready_from_right_overswing_horseback"
+			quick_release_action="act_quick_release_overswing_horseback"
+			release_action="act_release_overswing_horseback"
+			quick_blocked_action="act_quick_blocked_overswing_horseback"
+			blocked_action="act_blocked_overswing_horseback"
+			is_mounted="True"
+			require_free_left_hand="False"
+			strike_type="swing"
+			begin_hand_position="0,0,0"
+			begin_hand_rotation="0,90"
+			begin_arm_rotation="0,108"
+			begin_arm_length="0.5"
+			end_hand_position="0,0,0"
+			end_hand_rotation="0,-180"
+			end_arm_rotation="0,-108"
+			end_arm_length="0.5" />
+			<usage
+				style="attack_up"
+				ready_action="act_ready_overswing_2h"
+				ready_from_up_action="act_ready_from_up_overswing_2h"
+				ready_from_left_action="act_ready_from_left_overswing_2h"
+				ready_from_right_action="act_ready_from_right_overswing_2h"
+				quick_release_action="act_quick_release_overswing_2h"
+				release_action="act_release_overswing_2h"
+				quick_blocked_action="act_quick_blocked_overswing_2h"
+				blocked_action="act_blocked_overswing_2h"
+				is_mounted="False"
+				require_free_left_hand="True"
+				strike_type="swing"
+				begin_hand_position="0,0,0"
+				begin_hand_rotation="0,108"
+				begin_arm_rotation="0,126"
+				begin_arm_length="0.5"
+				end_hand_position="0.2,0,0"
+				end_hand_rotation="0,-216"
+				end_arm_rotation="0,-108"
+				end_arm_length="0.5" />
+			<usage
+				style="attack_up"
+				ready_action="act_ready_overswing_2h_left_stance"
+				ready_from_up_action="act_ready_from_up_overswing_2h_left_stance"
+				ready_from_left_action="act_ready_from_left_overswing_2h_left_stance"
+				ready_from_right_action="act_ready_from_right_overswing_2h_left_stance"
+				quick_release_action="act_quick_release_overswing_2h_left_stance"
+				release_action="act_release_overswing_2h_left_stance"
+				quick_blocked_action="act_quick_blocked_overswing_2h_left_stance"
+				blocked_action="act_blocked_overswing_2h_left_stance"
+				is_mounted="False"
+				require_free_left_hand="True"
+				is_left_stance="True"
+				strike_type="swing"
+				begin_hand_position="0,0,0"
+				begin_hand_rotation="0,108"
+				begin_arm_rotation="0,126"
+				begin_arm_length="0.5"
+				end_hand_position="0.2,0,0"
+				end_hand_rotation="0,-216"
+				end_arm_rotation="0,-108"
+				end_arm_length="0.5" />
+			<usage
+				style="attack_down"
+				ready_action="act_ready_thrust_1h_horseback"
+				quick_release_action="act_quick_release_thrust_1h_horseback"
+				release_action="act_release_thrust_1h_horseback"
+				quick_blocked_action="act_quick_blocked_thrust_1h_horseback"
+				blocked_action="act_blocked_thrust_1h_horseback"
+				quick_stuck_action="act_stuck_quick_thrust_1h_horseback"
+				stuck_action="act_stuck_thrust_1h_horseback"
+				is_mounted="True"
+				require_free_left_hand="False"
+				strike_type="thrust"
+				begin_hand_position="0,-0.4,-0.1"
+				begin_hand_rotation="0,-90"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0"
+				end_hand_position="0,1,-0.1"
+				end_hand_rotation="0,-90"
+				end_arm_rotation="0,0"
+				end_arm_length="0" />
+			<usage
+				style="attack_down"
+				ready_action="act_ready_thrust_2h"
+				quick_release_action="act_quick_release_thrust_2h"
+				release_action="act_release_thrust_2h"
+				quick_stuck_action="act_stuck_quick_thrust_2h"
+				stuck_action="act_stuck_thrust_2h"
+				quick_blocked_action="act_quick_blocked_thrust_2h"
+				blocked_action="act_blocked_thrust_2h"
+				is_mounted="False"
+				require_free_left_hand="True"
+				strike_type="thrust"
+				begin_hand_position="0,-0.3,0"
+				begin_hand_rotation="0,-90"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0"
+				end_hand_position="0,1,0"
+				end_hand_rotation="0,-90"
+				end_arm_rotation="0,0"
+				end_arm_length="0" />
+			<usage
+				style="attack_down"
+				ready_action="act_ready_thrust_2h_left_stance"
+				quick_release_action="act_quick_release_thrust_2h_left_stance"
+				release_action="act_release_thrust_2h_left_stance"
+				quick_stuck_action="act_stuck_quick_thrust_2h_left_stance"
+				stuck_action="act_stuck_thrust_2h_left_stance"
+				quick_blocked_action="act_quick_blocked_thrust_2h_left_stance"
+				blocked_action="act_blocked_thrust_2h_left_stance"
+				is_mounted="False"
+				require_free_left_hand="True"
+				is_left_stance="True"
+				strike_type="thrust"
+				begin_hand_position="0,-0.3,0"
+				begin_hand_rotation="0,-90"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0"
+				end_hand_position="0,1,0"
+				end_hand_rotation="0,-90"
+				end_arm_rotation="0,0"
+				end_arm_length="0" />
+			<usage
+				style="attack_left"
+				ready_action="act_ready_slash_horseback_left"
+				ready_from_up_action="act_ready_from_up_slash_horseback_left"
+				ready_from_left_action="act_ready_from_left_slash_horseback_left"
+				quick_release_action="act_quick_release_slash_horseback_left"
+				release_action="act_release_slash_horseback_left"
+				quick_blocked_action="act_quick_blocked_slash_horseback_left"
+				blocked_action="act_blocked_slash_horseback_left"
+				is_mounted="True"
+				require_free_left_hand="False"
+				strike_type="swing"
+				begin_hand_position="0,0,0"
+				begin_hand_rotation="-90,90"
+				begin_arm_rotation="80,0"
+				begin_arm_length="0.5"
+				end_hand_position="0,0,-0.2"
+				end_hand_rotation="-90,-252"
+				end_arm_rotation="-108,0"
+				end_arm_length="0.5" />
+			<usage
+				style="attack_left"
+				ready_action="act_ready_slashleft_2h"
+				ready_from_up_action="act_ready_from_up_slashleft_2h"
+				ready_from_left_action="act_ready_from_left_slashleft_2h"
+				quick_release_action="act_quick_release_slashleft_2h"
+				release_action="act_release_slashleft_2h"
+				quick_blocked_action="act_quick_blocked_slashleft_2h"
+				blocked_action="act_blocked_slashleft_2h"
+				is_mounted="False"
+				require_free_left_hand="True"
+				strike_type="swing"
+				begin_hand_position="0,0,0.1"
+				begin_hand_rotation="-90,90"
+				begin_arm_rotation="80,0"
+				begin_arm_length="0.6"
+				end_hand_position="0,0,-0.2"
+				end_hand_rotation="-90,-270"
+				end_arm_rotation="-126,0"
+				end_arm_length="0.6" />
+			<usage
+				style="attack_left"
+				ready_action="act_ready_slashleft_2h_left_stance"
+				ready_from_up_action="act_ready_from_up_slashleft_2h_left_stance"
+				ready_from_left_action="act_ready_from_left_slashleft_2h_left_stance"
+				quick_release_action="act_quick_release_slashleft_2h_left_stance"
+				release_action="act_release_slashleft_2h_left_stance"
+				quick_blocked_action="act_quick_blocked_slashleft_2h_left_stance"
+				blocked_action="act_blocked_slashleft_2h_left_stance"
+				is_mounted="False"
+				require_free_left_hand="True"
+				is_left_stance="True"
+				strike_type="swing"
+				begin_hand_position="0,0,0.1"
+				begin_hand_rotation="-90,90"
+				begin_arm_rotation="80,0"
+				begin_arm_length="0.6"
+				end_hand_position="0,0,-0.2"
+				end_hand_rotation="-90,-270"
+				end_arm_rotation="-126,0"
+				end_arm_length="0.6" />
+			<usage
+				style="attack_right"
+				ready_action="act_ready_slash_horseback_right"
+				ready_from_up_action="act_ready_from_up_slash_horseback_right"
+				ready_from_right_action="act_ready_from_right_slash_horseback_right"
+				quick_release_action="act_quick_release_slash_horseback_right"
+				release_action="act_release_slash_horseback_right"
+				quick_blocked_action="act_quick_blocked_slash_horseback_right"
+				blocked_action="act_blocked_slash_horseback_right"
+				is_mounted="True"
+				require_free_left_hand="False"
+				strike_type="swing"
+				begin_hand_position="0,0,0"
+				begin_hand_rotation="90,90"
+				begin_arm_rotation="-80,0"
+				begin_arm_length="0.5"
+				end_hand_position="0,0,-0.2"
+				end_hand_rotation="90,-252"
+				end_arm_rotation="108,0"
+				end_arm_length="0.5" />
+			<usage
+				style="attack_right"
+				ready_action="act_ready_slashright_2h"
+				ready_from_up_action="act_ready_from_up_slashright_2h"
+				ready_from_right_action="act_ready_from_right_slashright_2h"
+				quick_release_action="act_quick_release_slashright_2h"
+				release_action="act_release_slashright_2h"
+				quick_blocked_action="act_quick_blocked_slashright_2h"
+				blocked_action="act_blocked_slashright_2h"
+				is_mounted="False"
+				require_free_left_hand="True"
+				strike_type="swing"
+				begin_hand_position="0,0,0.1"
+				begin_hand_rotation="90,90"
+				begin_arm_rotation="-80,0"
+				begin_arm_length="0.6"
+				end_hand_position="0,0,-0.2"
+				end_hand_rotation="90,-270"
+				end_arm_rotation="126,0"
+				end_arm_length="0.6" />
+			<usage
+				style="attack_right"
+				ready_action="act_ready_slashright_2h_left_stance"
+				ready_from_up_action="act_ready_from_up_slashright_2h_left_stance"
+				ready_from_right_action="act_ready_from_right_slashright_2h_left_stance"
+				quick_release_action="act_quick_release_slashright_2h_left_stance"
+				release_action="act_release_slashright_2h_left_stance"
+				quick_blocked_action="act_quick_blocked_slashright_2h_left_stance"
+				blocked_action="act_blocked_slashright_2h_left_stance"
+				is_mounted="False"
+				require_free_left_hand="True"
+				is_left_stance="True"
+				strike_type="swing"
+				begin_hand_position="0,0,0.1"
+				begin_hand_rotation="90,90"
+				begin_arm_rotation="-80,0"
+				begin_arm_length="0.6"
+				end_hand_position="0,0,-0.2"
+				end_hand_rotation="90,-270"
+				end_arm_rotation="126,0"
+				end_arm_length="0.6" />
+			<usage
+				style="defend_up"
+				defend_action="act_defend_up_2h_passive"
+				defend_active_action="act_defend_up_2h_active"
+				defend_parry_light_action="act_defend_up_2h_parry_light"
+				is_mounted="False"
+				require_free_left_hand="True"
+				begin_hand_position="0.3,0.25,0.4"
+				begin_hand_rotation="-90,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_up"
+				defend_action="act_defend_up_2h_passive_left_stance"
+				defend_active_action="act_defend_up_2h_active_left_stance"
+				defend_parry_light_action="act_defend_up_2h_parry_light_left_stance"
+				is_mounted="False"
+				require_free_left_hand="True"
+				is_left_stance="True"
+				begin_hand_position="0.3,0.25,0.4"
+				begin_hand_rotation="-90,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+			style="defend_up"
+			defend_action="act_defend_up_1h_passive"
+			defend_active_action="act_defend_up_1h_active"
+			defend_parry_light_action="act_defend_up_1h_parry_light"
+			is_mounted="True"
+			require_free_left_hand="False"
+			begin_hand_position="0.3,0.25,0.4"
+			begin_hand_rotation="-90,0"
+			begin_arm_rotation="0,0"
+			begin_arm_length="0" />
+			<usage
+				style="defend_down"
+				defend_action="act_defend_forward_2h_passive"
+				defend_active_action="act_defend_forward_2h_active"
+				defend_parry_light_action="act_defend_forward_2h_parry_light"
+				is_mounted="False"
+				require_free_left_hand="True"
+				begin_hand_position="0.3,0.25,-0.4"
+				begin_hand_rotation="-90,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_down"
+				defend_action="act_defend_forward_1h_passive"
+				defend_active_action="act_defend_forward_1h_active"
+				defend_parry_light_action="act_defend_forward_1h_parry_light"
+				is_mounted="True"
+				require_free_left_hand="False"
+				begin_hand_position="0.3,0.25,-0.4"
+				begin_hand_rotation="-80,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_down"
+				defend_action="act_defend_forward_2h_passive"
+				defend_active_action="act_defend_forward_2h_active"
+				defend_parry_light_action="act_defend_forward_2h_parry_light"
+				is_mounted="True"
+				require_free_left_hand="True"
+				begin_hand_position="0.3,0.25,-0.4"
+				begin_hand_rotation="-90,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_left"
+				defend_action="act_defend_left_2h_passive"
+				defend_active_action="act_defend_left_2h_active"
+				defend_parry_light_action="act_defend_left_2h_parry_light"
+				is_mounted="False"
+				require_free_left_hand="True"
+				begin_hand_position="-0.4,0.25,-0.25"
+				begin_hand_rotation="0,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_left"
+				defend_action="act_defend_left_2h_passive_left_stance"
+				defend_active_action="act_defend_left_2h_active_left_stance"
+				defend_parry_light_action="act_defend_left_2h_parry_light_left_stance"
+				is_mounted="False"
+				require_free_left_hand="True"
+				is_left_stance="True"
+				begin_hand_position="-0.4,0.25,-0.25"
+				begin_hand_rotation="0,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_left"
+				defend_action="act_defend_left_1h_passive"
+				defend_active_action="act_defend_left_1h_active"
+				defend_parry_light_action="act_defend_left_1h_parry_light"
+				is_mounted="True"
+				require_free_left_hand="False"
+				begin_hand_position="-0.4,0.25,-0.25"
+				begin_hand_rotation="0,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_right"
+				defend_action="act_defend_right_2h_passive"
+				defend_active_action="act_defend_right_2h_active"
+				defend_parry_light_action="act_defend_right_2h_parry_light"
+				is_mounted="False"
+				require_free_left_hand="True"
+				begin_hand_position="0.4,0.25,-0.25"
+				begin_hand_rotation="0,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_right"
+				defend_action="act_defend_right_2h_passive_left_stance"
+				defend_active_action="act_defend_right_2h_active_left_stance"
+				defend_parry_light_action="act_defend_right_2h_parry_light_left_stance"
+				is_mounted="False"
+				require_free_left_hand="True"
+				is_left_stance="True"
+				begin_hand_position="0.4,0.25,-0.25"
+				begin_hand_rotation="0,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_right"
+				defend_action="act_defend_right_1h_passive"
+				defend_active_action="act_defend_right_1h_active"
+				defend_parry_light_action="act_defend_right_1h_parry_light"
+				is_mounted="True"
+				require_free_left_hand="False"
+				begin_hand_position="0.4,0.25,-0.25"
+				begin_hand_rotation="0,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+		</usages>
+		<guards>
+			<guard
+				style="up"
+				action="act_guard_up_2h"
+				require_free_left_hand="True"
+				hand_position="0,0.2,0.2"
+				hand_rotation="0,0"
+				arm_rotation="0,0"
+				arm_length="0" />
+			<guard
+				style="up"
+				is_left_stance="True"
+				action="act_guard_up_2h_left_stance"
+				require_free_left_hand="True"
+				hand_position="0,0.2,0.2"
+				hand_rotation="0,0"
+				arm_rotation="0,0"
+				arm_length="0" />
+			<guard
+				style="down"
+				action="act_guard_bottom_2h"
+				require_free_left_hand="True"
+				hand_position="0,0.35,-0.4"
+				hand_rotation="0,-54"
+				arm_rotation="0,0"
+				arm_length="0" />
+			<guard
+				style="down"
+				is_left_stance="True"
+				action="act_guard_bottom_2h_left_stance"
+				require_free_left_hand="True"
+				hand_position="0,0.35,-0.4"
+				hand_rotation="0,-54"
+				arm_rotation="0,0"
+				arm_length="0" />
+			<guard
+				style="left"
+				action="act_guard_left_2h"
+				require_free_left_hand="True"
+				hand_position="-0.2,0.3,-0.4"
+				hand_rotation="-54,-36"
+				arm_rotation="0,0"
+				arm_length="0" />
+			<guard
+				style="left"
+				is_left_stance="True"
+				action="act_guard_left_2h_left_stance"
+				require_free_left_hand="True"
+				hand_position="-0.2,0.3,-0.4"
+				hand_rotation="-54,-36"
+				arm_rotation="0,0"
+				arm_length="0" />
+			<guard
+				style="right"
+				action="act_guard_right_2h"
+				require_free_left_hand="True"
+				hand_position="0.2,0.3,-0.4"
+				hand_rotation="54,-36"
+				arm_rotation="0,0"
+				arm_length="0" />
+			<guard
+				style="right"
+				is_left_stance="True"
+				action="act_guard_right_2h_left_stance"
+				require_free_left_hand="True"
+				hand_position="0.2,0.3,-0.4"
+				hand_rotation="54,-36"
+				arm_rotation="0,0"
+				arm_length="0" />
+			<guard
+				style="none"
+				require_free_left_hand="True"
+				hand_position="0,0.3,0"
+				hand_rotation="0,0"
+				arm_rotation="0,0"
+				arm_length="0" />
+			<guard
+				style="none"
+				is_left_stance="True"
+				require_free_left_hand="True"
+				hand_position="0,0.3,0"
+				hand_rotation="0,0"
+				arm_rotation="0,0"
+				arm_length="0" />
+		</guards>
+		<kick_usages>
+			<kick_usage
+				release_action="act_2h_bash"
+				hit_action="act_hit_2h_bash"
+				require_free_left_hand="True"
+				is_left_stance="False" />
+			<kick_usage
+				release_action="act_2h_bash_left_stance"
+				hit_action="act_hit_2h_bash_left_stance"
+				require_free_left_hand="True"
+				is_left_stance="True" />
+		</kick_usages>
+	</item_usage_set>
+	<item_usage_set
+		id="twohanded_block_thrust"
+		equip_sound="event:/mission/combat/equip/sword_equip"
+		unequip_sound="event:/mission/combat/equip/sword_unequip">
+		<flags>
+			<flag
+				name="requires_no_shield" />
+		</flags>
+		<idles>
+			<idle
+				action="act_idle_2h_1"
+				is_left_stance="False"
+				require_free_left_hand="False" />
+			<idle
+				action="act_idle_2h_1_left_stance"
+				is_left_stance="True"
+				require_free_left_hand="False" />
+		</idles>
+		<movement_sets>
+			<movement_set
+				id="twohanded_thrust" />
+		</movement_sets>
+		<usages>
+			<usage
+				style="attack_down"
+				ready_action="act_ready_thrust_2h"
+				quick_release_action="act_quick_release_thrust_2h"
+				release_action="act_release_thrust_2h"
+				quick_stuck_action="act_stuck_quick_thrust_2h"
+				stuck_action="act_stuck_thrust_2h"
+				quick_blocked_action="act_quick_blocked_thrust_2h"
+				blocked_action="act_blocked_thrust_2h"
+				is_mounted="False"
+				require_free_left_hand="True"
+				strike_type="thrust"
+				begin_hand_position="0,-0.3,0"
+				begin_hand_rotation="0,-90"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0"
+				end_hand_position="0,1,0"
+				end_hand_rotation="0,-90"
+				end_arm_rotation="0,0"
+				end_arm_length="0" />
+			<usage
+				style="attack_down"
+				ready_action="act_ready_thrust_2h_left_stance"
+				quick_release_action="act_quick_release_thrust_2h_left_stance"
+				release_action="act_release_thrust_2h_left_stance"
+				quick_blocked_action="act_quick_blocked_thrust_2h_left_stance"
+				blocked_action="act_blocked_thrust_2h_left_stance"
+				is_mounted="False"
+				require_free_left_hand="True"
+				is_left_stance="True"
+				strike_type="thrust"
+				begin_hand_position="0,-0.3,0"
+				begin_hand_rotation="0,-90"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0"
+				end_hand_position="0,1,0"
+				end_hand_rotation="0,-90"
+				end_arm_rotation="0,0"
+				end_arm_length="0" />
+			<usage
+				style="defend_up"
+				defend_action="act_defend_up_2h_passive"
+				defend_active_action="act_defend_up_2h_active"
+				defend_parry_light_action="act_defend_up_2h_parry_light"
+				is_mounted="False"
+				require_free_left_hand="True"
+				begin_hand_position="0.3,0.25,0.4"
+				begin_hand_rotation="-90,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_up"
+				defend_action="act_defend_up_2h_passive_left_stance"
+				defend_active_action="act_defend_up_2h_active_left_stance"
+				defend_parry_light_action="act_defend_up_2h_parry_light_left_stance"
+				is_mounted="False"
+				require_free_left_hand="True"
+				is_left_stance="True"
+				begin_hand_position="0.3,0.25,0.4"
+				begin_hand_rotation="-90,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_up"
+				defend_action="act_defend_up_2h_passive"
+				defend_active_action="act_defend_up_2h_active"
+				defend_parry_light_action="act_defend_up_2h_parry_light"
+				is_mounted="True"
+				require_free_left_hand="True"
+				begin_hand_position="0.3,0.25,0.4"
+				begin_hand_rotation="-90,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_down"
+				defend_action="act_defend_forward_2h_passive"
+				defend_active_action="act_defend_forward_2h_active"
+				defend_parry_light_action="act_defend_forward_2h_parry_light"
+				is_mounted="False"
+				require_free_left_hand="True"
+				begin_hand_position="0.3,0.25,-0.4"
+				begin_hand_rotation="-90,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_down"
+				defend_action="act_defend_forward_2h_passive_left_stance"
+				defend_active_action="act_defend_forward_2h_active_left_stance"
+				defend_parry_light_action="act_defend_forward_2h_parry_light_left_stance"
+				is_mounted="False"
+				require_free_left_hand="True"
+				is_left_stance="True"
+				begin_hand_position="0.3,0.25,-0.4"
+				begin_hand_rotation="-90,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_down"
+				defend_action="act_defend_forward_2h_passive"
+				defend_active_action="act_defend_forward_2h_active"
+				defend_parry_light_action="act_defend_forward_2h_parry_light"
+				is_mounted="True"
+				require_free_left_hand="True"
+				begin_hand_position="0.3,0.25,-0.4"
+				begin_hand_rotation="-90,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_left"
+				defend_action="act_defend_left_2h_passive"
+				defend_active_action="act_defend_left_2h_active"
+				defend_parry_light_action="act_defend_left_2h_parry_light"
+				is_mounted="False"
+				require_free_left_hand="True"
+				begin_hand_position="-0.4,0.25,-0.25"
+				begin_hand_rotation="0,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_left"
+				defend_action="act_defend_left_2h_passive_left_stance"
+				defend_active_action="act_defend_left_2h_active_left_stance"
+				defend_parry_light_action="act_defend_left_2h_parry_light_left_stance"
+				is_mounted="False"
+				require_free_left_hand="True"
+				is_left_stance="True"
+				begin_hand_position="-0.4,0.25,-0.25"
+				begin_hand_rotation="0,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_left"
+				defend_action="act_defend_left_2h_passive"
+				defend_active_action="act_defend_left_2h_active"
+				defend_parry_light_action="act_defend_left_2h_parry_light"
+				is_mounted="True"
+				require_free_left_hand="True"
+				begin_hand_position="-0.4,0.25,-0.25"
+				begin_hand_rotation="0,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_right"
+				defend_action="act_defend_right_2h_passive"
+				defend_active_action="act_defend_right_2h_active"
+				defend_parry_light_action="act_defend_right_2h_parry_light"
+				is_mounted="False"
+				require_free_left_hand="True"
+				begin_hand_position="0.4,0.25,-0.25"
+				begin_hand_rotation="0,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_right"
+				defend_action="act_defend_right_2h_passive_left_stance"
+				defend_active_action="act_defend_right_2h_active_left_stance"
+				defend_parry_light_action="act_defend_right_2h_parry_light_left_stance"
+				is_mounted="False"
+				require_free_left_hand="True"
+				is_left_stance="True"
+				begin_hand_position="0.4,0.25,-0.25"
+				begin_hand_rotation="0,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_right"
+				defend_action="act_defend_right_2h_passive"
+				defend_active_action="act_defend_right_2h_active"
+				defend_parry_light_action="act_defend_right_2h_parry_light"
+				is_mounted="True"
+				require_free_left_hand="True"
+				begin_hand_position="0.4,0.25,-0.25"
+				begin_hand_rotation="0,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+		</usages>
+	</item_usage_set>
+
+
+
+
+
+
+
+
+
+	<item_usage_set id="ozutsu"
+    has_single_stance="true"
+    last_arrow_sound="event:/mission/combat/last_arrow"
+    equip_sound="event:/mission/combat/equip/bow_equip"
+    unequip_sound="event:/mission/combat/equip/bow_unequip">
+		<flags>
+			<flag name="requires_no_shield" />
+		</flags>
+		<idles>
+			<idle action="act_idle_ozutsu"
+			  is_left_stance="True"
+			  require_free_left_hand="False" />
+		</idles>
+		<movement_sets>
+			<movement_set id="ozutsu" />
+		</movement_sets>
+		<rider_idles>
+			<rider_idle mount_id="horse" pace="1" action="act_rider_idle_crossbow_1" require_free_left_hand="True" required_mount_action="act_horse_idle_1" />
+			<rider_idle mount_id="horse" pace="1" action="act_rider_idle_crossbow_2" require_free_left_hand="True" required_mount_action="act_horse_idle_2" />
+			<rider_idle mount_id="horse" pace="1" action="act_rider_idle_crossbow_3" require_free_left_hand="True" required_mount_action="act_horse_idle_3" />
+			<rider_idle mount_id="horse" pace="1" action="act_rider_idle_crossbow_4" require_free_left_hand="True" required_mount_action="act_horse_idle_4" />
+			<rider_idle mount_id="horse" pace="1" action="act_rider_stand_crossbow_1" require_free_left_hand="True" required_mount_action="act_horse_stand_1" />
+			<rider_idle mount_id="horse" pace="1" action="act_rider_stand_crossbow_2" require_free_left_hand="True" required_mount_action="act_horse_stand_2" />
+			<rider_idle mount_id="horse" pace="1" action="act_rider_stand_crossbow_3" require_free_left_hand="True" required_mount_action="act_horse_stand_3" />
+			<rider_idle mount_id="horse" pace="1" action="act_rider_stand_crossbow_4" require_free_left_hand="True" required_mount_action="act_horse_stand_4" />
+
+			<rider_idle mount_id="camel" pace="1" action="act_camel_rider_idle_crossbow_1" require_free_left_hand="True" required_mount_action="act_camel_idle_1" />
+			<rider_idle mount_id="camel" pace="1" action="act_camel_rider_idle_crossbow_2" require_free_left_hand="True" required_mount_action="act_camel_idle_2" />
+			<rider_idle mount_id="camel" pace="1" action="act_camel_rider_idle_crossbow_3" require_free_left_hand="True" required_mount_action="act_camel_idle_3" />
+			<rider_idle mount_id="camel" pace="1" action="act_camel_rider_idle_crossbow_4" require_free_left_hand="True" required_mount_action="act_camel_idle_4" />
+			<rider_idle mount_id="camel" pace="1" action="act_camel_rider_stand_crossbow_1" require_free_left_hand="True" required_mount_action="act_camel_stand_1" />
+			<rider_idle mount_id="camel" pace="1" action="act_camel_rider_stand_crossbow_2" require_free_left_hand="True" required_mount_action="act_camel_stand_2" />
+			<rider_idle mount_id="camel" pace="1" action="act_camel_rider_stand_crossbow_3" require_free_left_hand="True" required_mount_action="act_camel_stand_3" />
+			<rider_idle mount_id="camel" pace="1" action="act_camel_rider_stand_crossbow_4" require_free_left_hand="True" required_mount_action="act_camel_stand_4" />
+
+			<rider_idle mount_id="horse" pace="0" action="act_rider_stand_crossbow_pace_0" require_free_left_hand="True" />
+			<rider_idle mount_id="horse" pace="1" action="act_rider_stand_crossbow_pace_1" require_free_left_hand="True" />
+			<rider_idle mount_id="horse" pace="2" action="act_rider_stand_crossbow_pace_2" require_free_left_hand="True" />
+			<rider_idle mount_id="horse" pace="3" action="act_rider_stand_crossbow_pace_3" require_free_left_hand="True" />
+			<rider_idle mount_id="horse" pace="4" action="act_rider_stand_crossbow_pace_4" require_free_left_hand="True" />
+			<rider_idle mount_id="horse" pace="5" action="act_rider_stand_crossbow_pace_5" require_free_left_hand="True" />
+
+			<rider_idle mount_id="camel" pace="0" action="act_camel_rider_stand_crossbow_pace_0" require_free_left_hand="True" />
+			<rider_idle mount_id="camel" pace="1" action="act_camel_rider_stand_crossbow_pace_1" require_free_left_hand="True" />
+			<rider_idle mount_id="camel" pace="2" action="act_camel_rider_stand_crossbow_pace_2" require_free_left_hand="True" />
+			<rider_idle mount_id="camel" pace="3" action="act_camel_rider_stand_crossbow_pace_3" require_free_left_hand="True" />
+			<rider_idle mount_id="camel" pace="4" action="act_camel_rider_stand_crossbow_pace_4" require_free_left_hand="True" />
+			<rider_idle mount_id="camel" pace="5" action="act_camel_rider_stand_crossbow_pace_5" require_free_left_hand="True" />
+		</rider_idles>
+		<usages>
+			<usage style="attack_any" ready_action="act_ready_ozutsu" release_action="act_release_ozutsu" ready_continue_ranged_action="act_ready_continue_ozutsu" reload_action="act_reload_musket" reload_continue_action="act_reload_musket_continue" is_mounted="False" require_free_left_hand="False" strike_type="thrust" />
+			<usage style="attack_any" ready_action="act_ready_ozutsu" release_action="act_release_ozutsu" ready_continue_ranged_action="act_ready_continue_ozutsu" reload_action="act_reload_musket_crouched" reload_continue_action="act_reload_musket_continue_crouched" is_mounted="True" require_free_left_hand="False" strike_type="thrust" />
+		</usages>
+	</item_usage_set>
+
+
+
+
+
+
+
+
+
+	<item_usage_set id="musket"
+	  has_single_stance="true"
+	  last_arrow_sound="event:/mission/combat/last_arrow"
+	  equip_sound="event:/mission/combat/equip/bow_equip"
+	  unequip_sound="event:/mission/combat/equip/bow_unequip">
+		<flags>
+			<flag name="requires_no_shield" />
+		</flags>
+		<idles>
+			<idle action="act_idle_crossbow_1"
+			  is_left_stance="False"
+			  require_free_left_hand="False" />
+		</idles>
+		<movement_sets>
+			<movement_set id="crossbow" />
+		</movement_sets>
+		<rider_idles>
+			<rider_idle mount_id="horse" pace="1" action="act_rider_idle_crossbow_1" require_free_left_hand="True" required_mount_action="act_horse_idle_1" />
+			<rider_idle mount_id="horse" pace="1" action="act_rider_idle_crossbow_2" require_free_left_hand="True" required_mount_action="act_horse_idle_2" />
+			<rider_idle mount_id="horse" pace="1" action="act_rider_idle_crossbow_3" require_free_left_hand="True" required_mount_action="act_horse_idle_3" />
+			<rider_idle mount_id="horse" pace="1" action="act_rider_idle_crossbow_4" require_free_left_hand="True" required_mount_action="act_horse_idle_4" />
+			<rider_idle mount_id="horse" pace="1" action="act_rider_stand_crossbow_1" require_free_left_hand="True" required_mount_action="act_horse_stand_1" />
+			<rider_idle mount_id="horse" pace="1" action="act_rider_stand_crossbow_2" require_free_left_hand="True" required_mount_action="act_horse_stand_2" />
+			<rider_idle mount_id="horse" pace="1" action="act_rider_stand_crossbow_3" require_free_left_hand="True" required_mount_action="act_horse_stand_3" />
+			<rider_idle mount_id="horse" pace="1" action="act_rider_stand_crossbow_4" require_free_left_hand="True" required_mount_action="act_horse_stand_4" />
+
+			<rider_idle mount_id="camel" pace="1" action="act_camel_rider_idle_crossbow_1" require_free_left_hand="True" required_mount_action="act_camel_idle_1" />
+			<rider_idle mount_id="camel" pace="1" action="act_camel_rider_idle_crossbow_2" require_free_left_hand="True" required_mount_action="act_camel_idle_2" />
+			<rider_idle mount_id="camel" pace="1" action="act_camel_rider_idle_crossbow_3" require_free_left_hand="True" required_mount_action="act_camel_idle_3" />
+			<rider_idle mount_id="camel" pace="1" action="act_camel_rider_idle_crossbow_4" require_free_left_hand="True" required_mount_action="act_camel_idle_4" />
+			<rider_idle mount_id="camel" pace="1" action="act_camel_rider_stand_crossbow_1" require_free_left_hand="True" required_mount_action="act_camel_stand_1" />
+			<rider_idle mount_id="camel" pace="1" action="act_camel_rider_stand_crossbow_2" require_free_left_hand="True" required_mount_action="act_camel_stand_2" />
+			<rider_idle mount_id="camel" pace="1" action="act_camel_rider_stand_crossbow_3" require_free_left_hand="True" required_mount_action="act_camel_stand_3" />
+			<rider_idle mount_id="camel" pace="1" action="act_camel_rider_stand_crossbow_4" require_free_left_hand="True" required_mount_action="act_camel_stand_4" />
+
+			<rider_idle mount_id="horse" pace="0" action="act_rider_stand_crossbow_pace_0" require_free_left_hand="True" />
+			<rider_idle mount_id="horse" pace="1" action="act_rider_stand_crossbow_pace_1" require_free_left_hand="True" />
+			<rider_idle mount_id="horse" pace="2" action="act_rider_stand_crossbow_pace_2" require_free_left_hand="True" />
+			<rider_idle mount_id="horse" pace="3" action="act_rider_stand_crossbow_pace_3" require_free_left_hand="True" />
+			<rider_idle mount_id="horse" pace="4" action="act_rider_stand_crossbow_pace_4" require_free_left_hand="True" />
+			<rider_idle mount_id="horse" pace="5" action="act_rider_stand_crossbow_pace_5" require_free_left_hand="True" />
+
+			<rider_idle mount_id="camel" pace="0" action="act_camel_rider_stand_crossbow_pace_0" require_free_left_hand="True" />
+			<rider_idle mount_id="camel" pace="1" action="act_camel_rider_stand_crossbow_pace_1" require_free_left_hand="True" />
+			<rider_idle mount_id="camel" pace="2" action="act_camel_rider_stand_crossbow_pace_2" require_free_left_hand="True" />
+			<rider_idle mount_id="camel" pace="3" action="act_camel_rider_stand_crossbow_pace_3" require_free_left_hand="True" />
+			<rider_idle mount_id="camel" pace="4" action="act_camel_rider_stand_crossbow_pace_4" require_free_left_hand="True" />
+			<rider_idle mount_id="camel" pace="5" action="act_camel_rider_stand_crossbow_pace_5" require_free_left_hand="True" />
+		</rider_idles>
+		<usages>
+			<usage style="attack_any" ready_action="act_ready_musket" release_action="act_release_musket" ready_continue_ranged_action="act_ready_continue_musket" reload_action="act_reload_musket" reload_continue_action="act_reload_musket_continue" is_mounted="False" require_free_left_hand="False" strike_type="thrust" />
+			<usage style="attack_any" ready_action="act_ready_musket" release_action="act_release_musket" ready_continue_ranged_action="act_ready_continue_musket" reload_action="act_reload_musket_crouched" reload_continue_action="act_reload_musket_continue_crouched" is_mounted="True" require_free_left_hand="False" strike_type="thrust" />
+		</usages>
+	</item_usage_set>
+
+	<item_usage_set id="musket_fast" base_set="musket" has_single_stance="true" equip_sound="event:/mission/combat/equip/bow_equip" unequip_sound="event:/mission/combat/equip/bow_unequip" >
+		<flags>
+			<flag name="requires_no_shield" />
+		</flags>
+		<usages>
+			<usage style="attack_any" ready_action="act_ready_musket" release_action="act_release_musket" ready_continue_ranged_action="act_ready_continue_musket" reload_action="act_reload_musket" reload_continue_action="act_reload_musket_continue" is_mounted="False" require_free_left_hand="False" strike_type="thrust" />
+			<usage style="attack_any" ready_action="act_ready_musket" release_action="act_release_musket" ready_continue_ranged_action="act_ready_continue_musket" reload_action="act_reload_musket_crouched" reload_continue_action="act_reload_musket_continue_crouched" is_mounted="True" require_free_left_hand="False" strike_type="thrust" />
+		</usages>
+	</item_usage_set>
+
+	<item_usage_set id="pistol"
+      has_single_stance="true"
+      last_arrow_sound="event:/mission/combat/last_arrow"
+      equip_sound="event:/mission/combat/equip/small_equip"
+      unequip_sound="event:/mission/combat/equip/small_unequip">
+		<idles>
+			<idle action="act_idle_unarmed_1"
+			  is_left_stance="False"
+			  require_free_left_hand="False" />
+		</idles>
+		<movement_sets>
+			<movement_set id="stone_with_shield"
+			  require_left_hand_usage_root_set="shield" />
+			<movement_set id="1h_with_hand_shield"
+			  require_left_hand_usage_root_set="hand_shield" />
+			<movement_set id="stone" />
+		</movement_sets>
+		<usages>
+			<usage style="attack_any"
+			  ready_action="act_ready_pistol"
+			  release_action="act_release_pistol"
+			  ready_continue_ranged_action="act_ready_continue_pistol"
+			  reload_action="act_reload_crossbow_fast"
+			  reload_continue_action="act_reload_crossbow_continue_fast"
+			  is_mounted="False"
+			  require_free_left_hand="False"
+			  strike_type="thrust" />
+			<usage style="attack_any"
+			  ready_action="act_ready_pistol"
+			  release_action="act_release_pistol"
+			  ready_continue_ranged_action="act_ready_continue_pistol"
+			  reload_action="act_reload_crossbow_fast"
+			  reload_continue_action="act_reload_crossbow_continue_fast"
+			  is_mounted="True"
+			  require_free_left_hand="False"
+			  strike_type="thrust" />
+		</usages>
+		<rider_idles>
+		</rider_idles>
+	</item_usage_set>
+
+	<item_usage_set id="cannon"
+      base_set="musket"
+      has_single_stance="true"
+      equip_sound="event:/mission/combat/equip/bow_equip"
+      unequip_sound="event:/mission/combat/equip/bow_unequip" >
+		<flags>
+			<flag name="requires_no_shield" />
+		</flags>
+		<usages>
+			<usage style="attack_any"
+				  ready_action="act_ready_cannon"
+				  release_action="act_release_cannon"
+				  ready_continue_ranged_action="act_ready_continue_cannon"
+				  reload_action="act_reload_cannon"
+				  reload_continue_action="act_reload_cannon_continue"
+				  is_mounted="False"
+				  require_free_left_hand="False"
+				  strike_type="thrust" />
+			<usage style="attack_any"
+				  ready_action="act_ready_cannon"
+				  release_action="act_release_cannon"
+				  ready_continue_ranged_action="act_ready_continue_cannon"
+				  reload_action="act_reload_cannon_horseback"
+				  reload_continue_action="act_reload_cannon_continue_horseback"
+				  is_mounted="True"
+				  require_free_left_hand="False"
+				  strike_type="thrust" />
+		</usages>
+	</item_usage_set>
+
+
+
+	<item_usage_set id="musketcrouched"
+				has_single_stance="true"
+				last_arrow_sound="event:/mission/combat/last_arrow"
+				equip_sound="event:/mission/combat/equip/bow_equip"
+				unequip_sound="event:/mission/combat/equip/bow_unequip">
+		<flags>
+			<flag name="requires_no_shield" />
+		</flags>
+		<idles>
+			<idle action="act_musket_idle_crouched"
+						is_left_stance="False"
+						require_free_left_hand="False" />
+		</idles>
+		<movement_sets>
+			<movement_set id="musket_crouched" />
+		</movement_sets>
+		<rider_idles>
+			<rider_idle mount_id="horse"
+							  pace="1"
+							  action="act_rider_idle_crossbow_1"
+							  require_free_left_hand="True"
+							  required_mount_action="act_horse_idle_1" />
+			<rider_idle mount_id="horse"
+							  pace="1"
+							  action="act_rider_idle_crossbow_2"
+							  require_free_left_hand="True"
+							  required_mount_action="act_horse_idle_2" />
+			<rider_idle mount_id="horse"
+							  pace="1"
+							  action="act_rider_idle_crossbow_3"
+							  require_free_left_hand="True"
+							  required_mount_action="act_horse_idle_3" />
+			<rider_idle mount_id="horse"
+							  pace="1"
+							  action="act_rider_idle_crossbow_4"
+							  require_free_left_hand="True"
+							  required_mount_action="act_horse_idle_4" />
+			<rider_idle mount_id="horse"
+							  pace="1"
+							  action="act_rider_stand_crossbow_1"
+							  require_free_left_hand="True"
+							  required_mount_action="act_horse_stand_1" />
+			<rider_idle mount_id="horse"
+							  pace="1"
+							  action="act_rider_stand_crossbow_2"
+							  require_free_left_hand="True"
+							  required_mount_action="act_horse_stand_2" />
+			<rider_idle mount_id="horse"
+							  pace="1"
+							  action="act_rider_stand_crossbow_3"
+							  require_free_left_hand="True"
+							  required_mount_action="act_horse_stand_3" />
+			<rider_idle mount_id="horse"
+							  pace="1"
+							  action="act_rider_stand_crossbow_4"
+							  require_free_left_hand="True"
+							  required_mount_action="act_horse_stand_4" />
+
+			<rider_idle mount_id="camel"
+							  pace="1"
+							  action="act_camel_rider_idle_crossbow_1"
+							  require_free_left_hand="True"
+							  required_mount_action="act_camel_idle_1" />
+			<rider_idle mount_id="camel"
+							  pace="1"
+							  action="act_camel_rider_idle_crossbow_2"
+							  require_free_left_hand="True"
+							  required_mount_action="act_camel_idle_2" />
+			<rider_idle mount_id="camel"
+							  pace="1"
+							  action="act_camel_rider_idle_crossbow_3"
+							  require_free_left_hand="True"
+							  required_mount_action="act_camel_idle_3" />
+			<rider_idle mount_id="camel"
+							  pace="1"
+							  action="act_camel_rider_idle_crossbow_4"
+							  require_free_left_hand="True"
+							  required_mount_action="act_camel_idle_4" />
+			<rider_idle mount_id="camel"
+							  pace="1"
+							  action="act_camel_rider_stand_crossbow_1"
+							  require_free_left_hand="True"
+							  required_mount_action="act_camel_stand_1" />
+			<rider_idle mount_id="camel"
+							  pace="1"
+							  action="act_camel_rider_stand_crossbow_2"
+							  require_free_left_hand="True"
+							  required_mount_action="act_camel_stand_2" />
+			<rider_idle mount_id="camel"
+							  pace="1"
+							  action="act_camel_rider_stand_crossbow_3"
+							  require_free_left_hand="True"
+							  required_mount_action="act_camel_stand_3" />
+			<rider_idle mount_id="camel"
+							  pace="1"
+							  action="act_camel_rider_stand_crossbow_4"
+							  require_free_left_hand="True"
+							  required_mount_action="act_camel_stand_4" />
+
+			<rider_idle mount_id="horse"
+							  pace="0"
+							  action="act_rider_stand_crossbow_pace_0"
+							  require_free_left_hand="True" />
+			<rider_idle mount_id="horse"
+							  pace="1"
+							  action="act_rider_stand_crossbow_pace_1"
+							  require_free_left_hand="True" />
+			<rider_idle mount_id="horse"
+							  pace="2"
+							  action="act_rider_stand_crossbow_pace_2"
+							  require_free_left_hand="True" />
+			<rider_idle mount_id="horse"
+							  pace="3"
+							  action="act_rider_stand_crossbow_pace_3"
+							  require_free_left_hand="True" />
+			<rider_idle mount_id="horse"
+							  pace="4"
+							  action="act_rider_stand_crossbow_pace_4"
+							  require_free_left_hand="True" />
+			<rider_idle mount_id="horse"
+							  pace="5"
+							  action="act_rider_stand_crossbow_pace_5"
+							  require_free_left_hand="True" />
+
+			<rider_idle mount_id="camel"
+							  pace="0"
+							  action="act_camel_rider_stand_crossbow_pace_0"
+							  require_free_left_hand="True" />
+			<rider_idle mount_id="camel"
+							  pace="1"
+							  action="act_camel_rider_stand_crossbow_pace_1"
+							  require_free_left_hand="True" />
+			<rider_idle mount_id="camel"
+							  pace="2"
+							  action="act_camel_rider_stand_crossbow_pace_2"
+							  require_free_left_hand="True" />
+			<rider_idle mount_id="camel"
+							  pace="3"
+							  action="act_camel_rider_stand_crossbow_pace_3"
+							  require_free_left_hand="True" />
+			<rider_idle mount_id="camel"
+							  pace="4"
+							  action="act_camel_rider_stand_crossbow_pace_4"
+							  require_free_left_hand="True" />
+			<rider_idle mount_id="camel"
+							  pace="5"
+							  action="act_camel_rider_stand_crossbow_pace_5"
+							  require_free_left_hand="True" />
+		</rider_idles>
+		<usages>
+			<usage style="attack_any"
+						 ready_action="act_ready_musket_crouched"
+						 release_action="act_release_musket_crouched"
+						 ready_continue_ranged_action="act_ready_continue_musket_crouched"
+						 reload_action="act_reload_musket_crouched"
+						 reload_continue_action="act_reload_musket_continue_crouched"
+						 is_mounted="False"
+						 require_free_left_hand="False"
+						 strike_type="thrust" />
+			<usage style="attack_any"
+						 ready_action="act_ready_crossbow"
+						 release_action="act_release_crossbow"
+						 ready_continue_ranged_action="act_ready_continue_crossbow"
+						 reload_action="act_reload_crossbow_horseback"
+						 reload_continue_action="act_reload_crossbow_continue_horseback"
+						 is_mounted="True"
+						 require_free_left_hand="False"
+						 strike_type="thrust" />
+		</usages>
+	</item_usage_set>
+	<item_usage_set id="musketcrouched_fast"
+					  base_set="musketcrouched"
+					  has_single_stance="true"
+					  equip_sound="event:/mission/combat/equip/bow_equip"
+					  unequip_sound="event:/mission/combat/equip/bow_unequip" >
+		<flags>
+			<flag name="requires_no_shield" />
+		</flags>
+		<usages>
+			<usage style="attack_any"
+				   ready_action="act_ready_musket_crouched"
+				   release_action="act_release_musket_crouched"
+				   ready_continue_ranged_action="act_ready_continue_musket_crouched"
+				   reload_action="act_reload_musket_crouched"
+				   reload_continue_action="act_reload_musket_continue_crouched"
+				   is_mounted="False"
+				   require_free_left_hand="False"
+				   strike_type="thrust" />
+		</usages>
+	</item_usage_set>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<!--<item_usage_set id="twohanded_block_swing_thrust"
+                  equip_sound="event:/mission/combat/equip/sword_equip"
+                  unequip_sound="event:/mission/combat/equip/sword_unequip" >
+    <flags>
+      <flag name="requires_no_shield"/>
+    </flags>
+    <idles>
+      <idle action="act_idle_2h_1_left_stance"
+            is_left_stance="False"
+            require_free_left_hand="False" />
+      <idle action="act_idle_2h_1_left_stance"
+            is_left_stance="True"
+            require_free_left_hand="False" />
+    </idles>
+    <movement_sets>
+      <movement_set id="1h_with_hand_shield"
+                    require_left_hand_usage_root_set="hand_shield" />
+      <movement_set id="twohanded_swing_thrust" />
+      <movement_set id="onehanded_swing_cantblock" />
+      -->
+	<!-- don't remove this!!-->
+	<!--
+    </movement_sets>
+    <usages>
+      <usage style="attack_up"
+             ready_action="act_ready_overswing_horseback"
+             ready_from_up_action="act_ready_from_up_overswing_horseback"
+             ready_from_left_action="act_ready_from_left_overswing_horseback"
+             ready_from_right_action="act_ready_from_right_overswing_horseback"
+             quick_release_action="act_quick_release_overswing_horseback"
+             release_action="act_release_overswing_horseback"
+             quick_blocked_action="act_quick_blocked_overswing_horseback"
+             blocked_action="act_blocked_overswing_horseback"
+             is_mounted="True"
+             require_free_left_hand="True"
+             strike_type="swing"
+             begin_hand_position="0,0,0"
+             begin_hand_rotation="0,108"
+             begin_arm_rotation="0,126"
+             begin_arm_length="0.5"
+             end_hand_position="0.2,0,0"
+             end_hand_rotation="0,-216"
+             end_arm_rotation="0,-108"
+             end_arm_length="0.5" />
+      <usage style="attack_up"
+             ready_action="act_ready_overswing_2h"
+             ready_from_up_action="act_ready_from_up_overswing_2h"
+             ready_from_left_action="act_ready_from_left_overswing_2h"
+             ready_from_right_action="act_ready_from_right_overswing_2h"
+             quick_release_action="act_quick_release_overswing_2h"
+             release_action="act_release_overswing_2h"
+             quick_blocked_action="act_quick_blocked_overswing_2h"
+             blocked_action="act_blocked_overswing_2h"
+             is_mounted="False"
+             require_free_left_hand="True"
+             strike_type="swing"
+             begin_hand_position="0,0,0"
+             begin_hand_rotation="0,108"
+             begin_arm_rotation="0,126"
+             begin_arm_length="0.5"
+             end_hand_position="0.2,0,0"
+             end_hand_rotation="0,-216"
+             end_arm_rotation="0,-108"
+             end_arm_length="0.5" />
+      <usage style="attack_up"
+             ready_action="act_ready_overswing_2h_left_stance"
+             ready_from_up_action="act_ready_from_up_overswing_2h_left_stance"
+             ready_from_left_action="act_ready_from_left_overswing_2h_left_stance"
+             ready_from_right_action="act_ready_from_right_overswing_2h_left_stance"
+             quick_release_action="act_quick_release_overswing_2h_left_stance"
+             release_action="act_release_overswing_2h_left_stance"
+             quick_blocked_action="act_quick_blocked_overswing_2h_left_stance"
+             blocked_action="act_blocked_overswing_2h_left_stance"
+             is_mounted="False"
+             require_free_left_hand="True"
+             is_left_stance="True"
+             strike_type="swing"
+             begin_hand_position="0,0,0"
+             begin_hand_rotation="0,108"
+             begin_arm_rotation="0,126"
+             begin_arm_length="0.5"
+             end_hand_position="0.2,0,0"
+             end_hand_rotation="0,-216"
+             end_arm_rotation="0,-108"
+             end_arm_length="0.5" />
+      <usage style="attack_down"
+             ready_action="act_ready_thrust_1h_horseback"
+             quick_release_action="act_quick_release_thrust_1h_horseback"
+             release_action="act_release_thrust_1h_horseback"
+             quick_blocked_action="act_quick_blocked_thrust_1h_horseback"
+             blocked_action="act_blocked_thrust_1h_horseback"
+             quick_stuck_action="act_stuck_quick_thrust_1h_horseback"
+             stuck_action="act_stuck_thrust_1h_horseback"
+             is_mounted="True"
+             require_free_left_hand="True"
+             strike_type="thrust"
+             begin_hand_position="0,-0.3,0"
+             begin_hand_rotation="0,-90"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0"
+             end_hand_position="0,1,0"
+             end_hand_rotation="0,-90"
+             end_arm_rotation="0,0"
+             end_arm_length="0" />
+      <usage style="attack_down"
+             ready_action="act_ready_thrust_2h"
+             quick_release_action="act_quick_release_thrust_2h"
+             release_action="act_release_thrust_2h"
+             quick_stuck_action="act_stuck_quick_thrust_2h"
+             stuck_action="act_stuck_thrust_2h"
+             quick_blocked_action="act_quick_blocked_thrust_2h"
+             blocked_action="act_blocked_thrust_2h"
+             is_mounted="False"
+             require_free_left_hand="True"
+             strike_type="thrust"
+             begin_hand_position="0,-0.3,0"
+             begin_hand_rotation="0,-90"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0"
+             end_hand_position="0,1,0"
+             end_hand_rotation="0,-90"
+             end_arm_rotation="0,0"
+             end_arm_length="0" />
+      <usage style="attack_down"
+             ready_action="act_ready_thrust_2h_left_stance"
+             quick_release_action="act_quick_release_thrust_2h_left_stance"
+             release_action="act_release_thrust_2h_left_stance"
+             quick_stuck_action="act_stuck_quick_thrust_2h_left_stance"
+             stuck_action="act_stuck_thrust_2h_left_stance"
+             quick_blocked_action="act_quick_blocked_thrust_2h_left_stance"
+             blocked_action="act_blocked_thrust_2h_left_stance"
+             is_mounted="False"
+             require_free_left_hand="True"
+             is_left_stance="True"
+             strike_type="thrust"
+             begin_hand_position="0,-0.3,0"
+             begin_hand_rotation="0,-90"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0"
+             end_hand_position="0,1,0"
+             end_hand_rotation="0,-90"
+             end_arm_rotation="0,0"
+             end_arm_length="0" />
+      <usage style="attack_left"
+             ready_action="act_ready_slash_horseback_left"
+             ready_from_up_action="act_ready_from_up_slash_horseback_left"
+             ready_from_left_action="act_ready_from_left_slash_horseback_left"
+             quick_release_action="act_quick_release_slash_horseback_left"
+             release_action="act_release_slash_horseback_left"
+             quick_blocked_action="act_quick_blocked_slash_horseback_left"
+             blocked_action="act_blocked_slash_horseback_left"
+             is_mounted="True"
+             require_free_left_hand="True"
+             strike_type="swing"
+             begin_hand_position="0,0,0.1"
+             begin_hand_rotation="-90,90"
+             begin_arm_rotation="80,0"
+             begin_arm_length="0.6"
+             end_hand_position="0,0,-0.2"
+             end_hand_rotation="-90,-270"
+             end_arm_rotation="-126,0"
+             end_arm_length="0.6" />
+      <usage style="attack_left"
+             ready_action="act_ready_slashleft_2h"
+             ready_from_up_action="act_ready_from_up_slashleft_2h"
+             ready_from_left_action="act_ready_from_left_slashleft_2h"
+             quick_release_action="act_quick_release_slashleft_2h"
+             release_action="act_release_slashleft_2h"
+             quick_blocked_action="act_quick_blocked_slashleft_2h"
+             blocked_action="act_blocked_slashleft_2h"
+             is_mounted="False"
+             require_free_left_hand="True"
+             strike_type="swing"
+             begin_hand_position="0,0,0.1"
+             begin_hand_rotation="-90,90"
+             begin_arm_rotation="80,0"
+             begin_arm_length="0.6"
+             end_hand_position="0,0,-0.2"
+             end_hand_rotation="-90,-270"
+             end_arm_rotation="-126,0"
+             end_arm_length="0.6" />
+      <usage style="attack_left"
+             ready_action="act_ready_slashleft_2h_left_stance"
+             ready_from_up_action="act_ready_from_up_slashleft_2h_left_stance"
+             ready_from_left_action="act_ready_from_left_slashleft_2h_left_stance"
+             quick_release_action="act_quick_release_slashleft_2h_left_stance"
+             release_action="act_release_slashleft_2h_left_stance"
+             quick_blocked_action="act_quick_blocked_slashleft_2h_left_stance"
+             blocked_action="act_blocked_slashleft_2h_left_stance"
+             is_mounted="False"
+             require_free_left_hand="True"
+             is_left_stance="True"
+             strike_type="swing"
+             begin_hand_position="0,0,0.1"
+             begin_hand_rotation="-90,90"
+             begin_arm_rotation="80,0"
+             begin_arm_length="0.6"
+             end_hand_position="0,0,-0.2"
+             end_hand_rotation="-90,-270"
+             end_arm_rotation="-126,0"
+             end_arm_length="0.6" />
+      <usage style="attack_right"
+             ready_action="act_ready_slash_horseback_right"
+             ready_from_up_action="act_ready_from_up_slash_horseback_right"
+             ready_from_right_action="act_ready_from_right_slash_horseback_right"
+             quick_release_action="act_quick_release_slash_horseback_right"
+             release_action="act_release_slash_horseback_right"
+             quick_blocked_action="act_quick_blocked_slash_horseback_right"
+             blocked_action="act_blocked_slash_horseback_right"
+             is_mounted="True"
+             require_free_left_hand="True"
+             strike_type="swing"
+             begin_hand_position="0,0,0.1"
+             begin_hand_rotation="90,90"
+             begin_arm_rotation="-80,0"
+             begin_arm_length="0.6"
+             end_hand_position="0,0,-0.2"
+             end_hand_rotation="90,-270"
+             end_arm_rotation="126,0"
+             end_arm_length="0.6" />
+      <usage style="attack_right"
+             ready_action="act_ready_slashright_2h"
+             ready_from_up_action="act_ready_from_up_slashright_2h"
+             ready_from_right_action="act_ready_from_right_slashright_2h"
+             quick_release_action="act_quick_release_slashright_2h"
+             release_action="act_release_slashright_2h"
+             quick_blocked_action="act_quick_blocked_slashright_2h"
+             blocked_action="act_blocked_slashright_2h"
+             is_mounted="False"
+             require_free_left_hand="True"
+             strike_type="swing"
+             begin_hand_position="0,0,0.1"
+             begin_hand_rotation="90,90"
+             begin_arm_rotation="-80,0"
+             begin_arm_length="0.6"
+             end_hand_position="0,0,-0.2"
+             end_hand_rotation="90,-270"
+             end_arm_rotation="126,0"
+             end_arm_length="0.6" />
+      <usage style="attack_right"
+             ready_action="act_ready_slashright_2h_left_stance"
+             ready_from_up_action="act_ready_from_up_slashright_2h_left_stance"
+             ready_from_right_action="act_ready_from_right_slashright_2h_left_stance"
+             quick_release_action="act_quick_release_slashright_2h_left_stance"
+             release_action="act_release_slashright_2h_left_stance"
+             quick_blocked_action="act_quick_blocked_slashright_2h_left_stance"
+             blocked_action="act_blocked_slashright_2h_left_stance"
+             is_mounted="False"
+             require_free_left_hand="True"
+             is_left_stance="True"
+             strike_type="swing"
+             begin_hand_position="0,0,0.1"
+             begin_hand_rotation="90,90"
+             begin_arm_rotation="-80,0"
+             begin_arm_length="0.6"
+             end_hand_position="0,0,-0.2"
+             end_hand_rotation="90,-270"
+             end_arm_rotation="126,0"
+             end_arm_length="0.6" />
+      <usage style="defend_up"
+             defend_action="act_defend_up_2h_passive"
+             defend_active_action="act_defend_up_2h_active"
+             defend_parry_light_action="act_defend_up_2h_parry_light"
+             is_mounted="False"
+             require_free_left_hand="True"
+             begin_hand_position="0.3,0.25,0.4"
+             begin_hand_rotation="-90,0"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0" />
+      <usage style="defend_up"
+             defend_action="act_defend_up_2h_passive_left_stance"
+             defend_active_action="act_defend_up_2h_active_left_stance"
+             defend_parry_light_action="act_defend_up_2h_parry_light_left_stance"
+             is_mounted="False"
+             require_free_left_hand="True"
+             is_left_stance="True"
+             begin_hand_position="0.3,0.25,0.4"
+             begin_hand_rotation="-90,0"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0" />
+      <usage style="defend_up"
+             defend_action="act_defend_up_1h_passive"
+             defend_active_action="act_defend_up_1h_active"
+             defend_parry_light_action="act_defend_up_1h_parry_light"
+             is_mounted="True"
+             require_free_left_hand="True"
+             begin_hand_position="0.3,0.25,0.4"
+             begin_hand_rotation="-90,0"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0" />
+      <usage style="defend_down"
+             defend_action="act_defend_forward_2h_passive"
+             defend_active_action="act_defend_forward_2h_active"
+             defend_parry_light_action="act_defend_forward_2h_parry_light"
+             is_mounted="False"
+             require_free_left_hand="True"
+             begin_hand_position="0.3,0.25,-0.4"
+             begin_hand_rotation="-90,0"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0" />
+      <usage style="defend_down"
+             defend_action="act_defend_forward_2h_passive_left_stance"
+             defend_active_action="act_defend_forward_2h_active_left_stance"
+             defend_parry_light_action="act_defend_forward_2h_parry_light_left_stance"
+             is_mounted="False"
+             require_free_left_hand="True"
+             is_left_stance="True"
+             begin_hand_position="0.3,0.25,-0.4"
+             begin_hand_rotation="-90,0"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0" />
+      <usage style="defend_down"
+             defend_action="act_defend_forward_1h_passive"
+             defend_active_action="act_defend_forward_1h_active"
+             defend_parry_light_action="act_defend_forward_1h_parry_light"
+             is_mounted="True"
+             require_free_left_hand="True"
+             begin_hand_position="0.3,0.25,-0.4"
+             begin_hand_rotation="-90,0"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0" />
+      <usage style="defend_left"
+             defend_action="act_defend_left_2h_passive"
+             defend_active_action="act_defend_left_2h_active"
+             defend_parry_light_action="act_defend_left_2h_parry_light"
+             is_mounted="False"
+             require_free_left_hand="True"
+             begin_hand_position="-0.4,0.25,-0.25"
+             begin_hand_rotation="0,0"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0" />
+      <usage style="defend_left"
+             defend_action="act_defend_left_2h_passive_left_stance"
+             defend_active_action="act_defend_left_2h_active_left_stance"
+             defend_parry_light_action="act_defend_left_2h_parry_light_left_stance"
+             is_mounted="False"
+             require_free_left_hand="True"
+             is_left_stance="True"
+             begin_hand_position="-0.4,0.25,-0.25"
+             begin_hand_rotation="0,0"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0" />
+      <usage style="defend_left"
+             defend_action="act_defend_left_1h_passive"
+             defend_active_action="act_defend_left_1h_active"
+             defend_parry_light_action="act_defend_left_1h_parry_light"
+             is_mounted="True"
+             require_free_left_hand="True"
+             begin_hand_position="-0.4,0.25,-0.25"
+             begin_hand_rotation="0,0"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0" />
+      <usage style="defend_right"
+             defend_action="act_defend_right_2h_passive"
+             defend_active_action="act_defend_right_2h_active"
+             defend_parry_light_action="act_defend_right_2h_parry_light"
+             is_mounted="False"
+             require_free_left_hand="True"
+             begin_hand_position="0.4,0.25,-0.25"
+             begin_hand_rotation="0,0"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0" />
+      <usage style="defend_right"
+             defend_action="act_defend_right_2h_passive_left_stance"
+             defend_active_action="act_defend_right_2h_active_left_stance"
+             defend_parry_light_action="act_defend_right_2h_parry_light_left_stance"
+             is_mounted="False"
+             require_free_left_hand="True"
+             is_left_stance="True"
+             begin_hand_position="0.4,0.25,-0.25"
+             begin_hand_rotation="0,0"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0" />
+      <usage style="defend_right"
+             defend_action="act_defend_right_1h_passive"
+             defend_active_action="act_defend_right_1h_active"
+             defend_parry_light_action="act_defend_right_1h_parry_light"
+             is_mounted="True"
+             require_free_left_hand="True"
+             begin_hand_position="0.4,0.25,-0.25"
+             begin_hand_rotation="0,0"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0" />
+    </usages>
+    <guards>
+      <guard style="up"
+             action="act_guard_up_2h"
+             require_free_left_hand="True"
+             hand_position="0,0.2,0.2"
+             hand_rotation="0,0"
+             arm_rotation="0,0"
+             arm_length="0" />
+      <guard style="up"
+             is_left_stance="True"
+             action="act_guard_up_2h_left_stance"
+             require_free_left_hand="True"
+             hand_position="0,0.2,0.2"
+             hand_rotation="0,0"
+             arm_rotation="0,0"
+             arm_length="0" />
+      <guard style="down"
+             action="act_guard_bottom_2h"
+             require_free_left_hand="True"
+             hand_position="0,0.35,-0.4"
+             hand_rotation="0,-54"
+             arm_rotation="0,0"
+             arm_length="0" />
+      <guard style="down"
+             is_left_stance="True"
+             action="act_guard_bottom_2h_left_stance"
+             require_free_left_hand="True"
+             hand_position="0,0.35,-0.4"
+             hand_rotation="0,-54"
+             arm_rotation="0,0"
+             arm_length="0" />
+      <guard style="left"
+             action="act_guard_left_2h"
+             require_free_left_hand="True"
+             hand_position="-0.2,0.3,-0.4"
+             hand_rotation="-54,-36"
+             arm_rotation="0,0"
+             arm_length="0" />
+      <guard style="left"
+             is_left_stance="True"
+             action="act_guard_left_2h_left_stance"
+             require_free_left_hand="True"
+             hand_position="-0.2,0.3,-0.4"
+             hand_rotation="-54,-36"
+             arm_rotation="0,0"
+             arm_length="0" />
+      <guard style="right"
+             action="act_guard_right_2h"
+             require_free_left_hand="True"
+             hand_position="0.2,0.3,-0.4"
+             hand_rotation="54,-36"
+             arm_rotation="0,0"
+             arm_length="0" />
+      <guard style="right"
+             is_left_stance="True"
+             action="act_guard_right_2h_left_stance"
+             require_free_left_hand="True"
+             hand_position="0.2,0.3,-0.4"
+             hand_rotation="54,-36"
+             arm_rotation="0,0"
+             arm_length="0" />
+      <guard style="none"
+             require_free_left_hand="True"
+             hand_position="0,0.3,0"
+             hand_rotation="0,0"
+             arm_rotation="0,0"
+             arm_length="0" />
+      <guard style="none"
+             is_left_stance="True"
+             require_free_left_hand="True"
+             hand_position="0,0.3,0"
+             hand_rotation="0,0"
+             arm_rotation="0,0"
+             arm_length="0" />
+    </guards>
+    <kick_usages>
+      <kick_usage release_action="act_2h_bash"
+                  hit_action="act_hit_2h_bash"
+                  require_free_left_hand="True"
+                  is_left_stance="False" />
+      <kick_usage release_action="act_2h_bash_left_stance"
+                  hit_action="act_hit_2h_bash_left_stance"
+                  require_free_left_hand="True"
+                  is_left_stance="True" />
+    </kick_usages>
+  </item_usage_set>
+  <item_usage_set id="twohanded_block_thrust"
+                  equip_sound="event:/mission/combat/equip/sword_equip"
+                  unequip_sound="event:/mission/combat/equip/sword_unequip" >
+    <flags>
+      <flag name="requires_no_shield"/>
+    </flags>
+    <idles>
+      <idle action="act_idle_2h_1_left_stance"
+            is_left_stance="False"
+            require_free_left_hand="False" />
+      <idle action="act_idle_2h_1_left_stance"
+            is_left_stance="True"
+            require_free_left_hand="False" />
+    </idles>
+    <movement_sets>
+      <movement_set id="twohanded_thrust" />
+    </movement_sets>
+    <usages>
+      <usage style="attack_down"
+             ready_action="act_ready_thrust_2h"
+             quick_release_action="act_quick_release_thrust_2h"
+             release_action="act_release_thrust_2h"
+             quick_stuck_action="act_stuck_quick_thrust_2h"
+             stuck_action="act_stuck_thrust_2h"
+             quick_blocked_action="act_quick_blocked_thrust_2h"
+             blocked_action="act_blocked_thrust_2h"
+             is_mounted="False"
+             require_free_left_hand="True"
+             strike_type="thrust"
+             begin_hand_position="0,-0.3,0"
+             begin_hand_rotation="0,-90"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0"
+             end_hand_position="0,1,0"
+             end_hand_rotation="0,-90"
+             end_arm_rotation="0,0"
+             end_arm_length="0" />
+      <usage style="attack_down"
+             ready_action="act_ready_thrust_2h_left_stance"
+             quick_release_action="act_quick_release_thrust_2h_left_stance"
+             release_action="act_release_thrust_2h_left_stance"
+             quick_blocked_action="act_quick_blocked_thrust_2h_left_stance"
+             blocked_action="act_blocked_thrust_2h_left_stance"
+             is_mounted="False"
+             require_free_left_hand="True"
+             is_left_stance="True"
+             strike_type="thrust"
+             begin_hand_position="0,-0.3,0"
+             begin_hand_rotation="0,-90"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0"
+             end_hand_position="0,1,0"
+             end_hand_rotation="0,-90"
+             end_arm_rotation="0,0"
+             end_arm_length="0" />
+      <usage style="defend_up"
+             defend_action="act_defend_up_2h_passive"
+             defend_active_action="act_defend_up_2h_active"
+             defend_parry_light_action="act_defend_up_2h_parry_light"
+             is_mounted="False"
+             require_free_left_hand="True"
+             begin_hand_position="0.3,0.25,0.4"
+             begin_hand_rotation="-90,0"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0" />
+      <usage style="defend_up"
+             defend_action="act_defend_up_2h_passive_left_stance"
+             defend_active_action="act_defend_up_2h_active_left_stance"
+             defend_parry_light_action="act_defend_up_2h_parry_light_left_stance"
+             is_mounted="False"
+             require_free_left_hand="True"
+             is_left_stance="True"
+             begin_hand_position="0.3,0.25,0.4"
+             begin_hand_rotation="-90,0"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0" />
+      <usage style="defend_up"
+             defend_action="act_defend_up_2h_passive"
+             defend_active_action="act_defend_up_2h_active"
+             defend_parry_light_action="act_defend_up_2h_parry_light"
+             is_mounted="True"
+             require_free_left_hand="True"
+             begin_hand_position="0.3,0.25,0.4"
+             begin_hand_rotation="-90,0"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0" />
+      <usage style="defend_down"
+             defend_action="act_defend_forward_2h_passive"
+             defend_active_action="act_defend_forward_2h_active"
+             defend_parry_light_action="act_defend_forward_2h_parry_light"
+             is_mounted="False"
+             require_free_left_hand="True"
+             begin_hand_position="0.3,0.25,-0.4"
+             begin_hand_rotation="-90,0"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0" />
+      <usage style="defend_down"
+             defend_action="act_defend_forward_2h_passive_left_stance"
+             defend_active_action="act_defend_forward_2h_active_left_stance"
+             defend_parry_light_action="act_defend_forward_2h_parry_light_left_stance"
+             is_mounted="False"
+             require_free_left_hand="True"
+             is_left_stance="True"
+             begin_hand_position="0.3,0.25,-0.4"
+             begin_hand_rotation="-90,0"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0" />
+      <usage style="defend_down"
+             defend_action="act_defend_forward_2h_passive"
+             defend_active_action="act_defend_forward_2h_active"
+             defend_parry_light_action="act_defend_forward_2h_parry_light"
+             is_mounted="True"
+             require_free_left_hand="True"
+             begin_hand_position="0.3,0.25,-0.4"
+             begin_hand_rotation="-90,0"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0" />
+      <usage style="defend_left"
+             defend_action="act_defend_left_2h_passive"
+             defend_active_action="act_defend_left_2h_active"
+             defend_parry_light_action="act_defend_left_2h_parry_light"
+             is_mounted="False"
+             require_free_left_hand="True"
+             begin_hand_position="-0.4,0.25,-0.25"
+             begin_hand_rotation="0,0"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0" />
+      <usage style="defend_left"
+             defend_action="act_defend_left_2h_passive_left_stance"
+             defend_active_action="act_defend_left_2h_active_left_stance"
+             defend_parry_light_action="act_defend_left_2h_parry_light_left_stance"
+             is_mounted="False"
+             require_free_left_hand="True"
+             is_left_stance="True"
+             begin_hand_position="-0.4,0.25,-0.25"
+             begin_hand_rotation="0,0"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0" />
+      <usage style="defend_left"
+             defend_action="act_defend_left_2h_passive"
+             defend_active_action="act_defend_left_2h_active"
+             defend_parry_light_action="act_defend_left_2h_parry_light"
+             is_mounted="True"
+             require_free_left_hand="True"
+             begin_hand_position="-0.4,0.25,-0.25"
+             begin_hand_rotation="0,0"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0" />
+      <usage style="defend_right"
+             defend_action="act_defend_right_2h_passive"
+             defend_active_action="act_defend_right_2h_active"
+             defend_parry_light_action="act_defend_right_2h_parry_light"
+             is_mounted="False"
+             require_free_left_hand="True"
+             begin_hand_position="0.4,0.25,-0.25"
+             begin_hand_rotation="0,0"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0" />
+      <usage style="defend_right"
+             defend_action="act_defend_right_2h_passive_left_stance"
+             defend_active_action="act_defend_right_2h_active_left_stance"
+             defend_parry_light_action="act_defend_right_2h_parry_light_left_stance"
+             is_mounted="False"
+             require_free_left_hand="True"
+             is_left_stance="True"
+             begin_hand_position="0.4,0.25,-0.25"
+             begin_hand_rotation="0,0"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0" />
+      <usage style="defend_right"
+             defend_action="act_defend_right_2h_passive"
+             defend_active_action="act_defend_right_2h_active"
+             defend_parry_light_action="act_defend_right_2h_parry_light"
+             is_mounted="True"
+             require_free_left_hand="True"
+             begin_hand_position="0.4,0.25,-0.25"
+             begin_hand_rotation="0,0"
+             begin_arm_rotation="0,0"
+             begin_arm_length="0" />
+    </usages>
+  </item_usage_set>
+	<item_usage_set
+		id="twohanded_block_swing"
+		equip_sound="event:/mission/combat/equip/sword_equip"
+		unequip_sound="event:/mission/combat/equip/sword_unequip">
+		<flags>
+			<flag
+				name="requires_no_shield" />
+		</flags>
+		<idles>
+			<idle
+				action="act_idle_2h_1_left_stance"
+				is_left_stance="False"
+				require_free_left_hand="False" />
+			<idle
+				action="act_idle_2h_1_left_stance"
+				is_left_stance="True"
+				require_free_left_hand="False" />
+		</idles>
+		<movement_sets>
+			<movement_set
+				id="twohanded_swing" />
+		</movement_sets>
+		<usages>
+			<usage
+				style="attack_up"
+				ready_action="act_ready_overswing_2h_horseback"
+				ready_from_up_action="act_ready_from_up_overswing_2h_horseback"
+				ready_from_left_action="act_ready_from_left_overswing_2h_horseback"
+				ready_from_right_action="act_ready_from_right_overswing_2h_horseback"
+				quick_release_action="act_quick_release_overswing_2h_horseback"
+				release_action="act_release_overswing_2h_horseback"
+				quick_blocked_action="act_quick_blocked_overswing_2h_horseback"
+				blocked_action="act_blocked_overswing_2h_horseback"
+				is_mounted="True"
+				require_free_left_hand="True"
+				strike_type="swing"
+				begin_hand_position="0,0,0"
+				begin_hand_rotation="0,108"
+				begin_arm_rotation="0,126"
+				begin_arm_length="0.5"
+				end_hand_position="0.2,0,0"
+				end_hand_rotation="0,-216"
+				end_arm_rotation="0,-108"
+				end_arm_length="0.5" />
+			<usage
+				style="attack_up"
+				ready_action="act_ready_overswing_2h"
+				ready_from_up_action="act_ready_from_up_overswing_2h"
+				ready_from_left_action="act_ready_from_left_overswing_2h"
+				ready_from_right_action="act_ready_from_right_overswing_2h"
+				quick_release_action="act_quick_release_overswing_2h"
+				release_action="act_release_overswing_2h"
+				quick_blocked_action="act_quick_blocked_overswing_2h"
+				blocked_action="act_blocked_overswing_2h"
+				is_mounted="False"
+				require_free_left_hand="True"
+				strike_type="swing"
+				begin_hand_position="0,0,0"
+				begin_hand_rotation="0,108"
+				begin_arm_rotation="0,126"
+				begin_arm_length="0.5"
+				end_hand_position="0.2,0,0"
+				end_hand_rotation="0,-216"
+				end_arm_rotation="0,-108"
+				end_arm_length="0.5" />
+			<usage
+				style="attack_up"
+				ready_action="act_ready_overswing_2h_left_stance"
+				ready_from_up_action="act_ready_from_up_overswing_2h_left_stance"
+				ready_from_left_action="act_ready_from_left_overswing_2h_left_stance"
+				ready_from_right_action="act_ready_from_right_overswing_2h_left_stance"
+				quick_release_action="act_quick_release_overswing_2h_left_stance"
+				release_action="act_release_overswing_2h_left_stance"
+				quick_blocked_action="act_quick_blocked_overswing_2h_left_stance"
+				blocked_action="act_blocked_overswing_2h_left_stance"
+				is_mounted="False"
+				require_free_left_hand="True"
+				is_left_stance="True"
+				strike_type="swing"
+				begin_hand_position="0,0,0"
+				begin_hand_rotation="0,108"
+				begin_arm_rotation="0,126"
+				begin_arm_length="0.5"
+				end_hand_position="0.2,0,0"
+				end_hand_rotation="0,-216"
+				end_arm_rotation="0,-108"
+				end_arm_length="0.5" />
+			<usage
+				style="attack_left"
+				ready_action="act_ready_slash_2h_horseback_left"
+				ready_from_up_action="act_ready_from_up_slash_2h_horseback_left"
+				ready_from_left_action="act_ready_from_left_slash_2h_horseback_left"
+				quick_release_action="act_quick_release_slash_2h_horseback_left"
+				release_action="act_release_slash_2h_horseback_left"
+				quick_blocked_action="act_quick_blocked_slash_2h_horseback_left"
+				blocked_action="act_blocked_slash_2h_horseback_left"
+				is_mounted="True"
+				require_free_left_hand="True"
+				strike_type="swing"
+				begin_hand_position="0,0,0.1"
+				begin_hand_rotation="-90,90"
+				begin_arm_rotation="80,0"
+				begin_arm_length="0.6"
+				end_hand_position="0,0,-0.2"
+				end_hand_rotation="-90,-270"
+				end_arm_rotation="-126,0"
+				end_arm_length="0.6" />
+			<usage
+				style="attack_left"
+				ready_action="act_ready_slashleft_2h"
+				ready_from_up_action="act_ready_from_up_slashleft_2h"
+				ready_from_left_action="act_ready_from_left_slashleft_2h"
+				quick_release_action="act_quick_release_slashleft_2h"
+				release_action="act_release_slashleft_2h"
+				quick_blocked_action="act_quick_blocked_slashleft_2h"
+				blocked_action="act_blocked_slashleft_2h"
+				is_mounted="False"
+				require_free_left_hand="True"
+				strike_type="swing"
+				begin_hand_position="0,0,0.1"
+				begin_hand_rotation="-90,90"
+				begin_arm_rotation="80,0"
+				begin_arm_length="0.6"
+				end_hand_position="0,0,-0.2"
+				end_hand_rotation="-90,-270"
+				end_arm_rotation="-126,0"
+				end_arm_length="0.6" />
+			<usage
+				style="attack_left"
+				ready_action="act_ready_slashleft_2h_left_stance"
+				ready_from_up_action="act_ready_from_up_slashleft_2h_left_stance"
+				ready_from_left_action="act_ready_from_left_slashleft_2h_left_stance"
+				quick_release_action="act_quick_release_slashleft_2h_left_stance"
+				release_action="act_release_slashleft_2h_left_stance"
+				quick_blocked_action="act_quick_blocked_slashleft_2h_left_stance"
+				blocked_action="act_blocked_slashleft_2h_left_stance"
+				is_mounted="False"
+				require_free_left_hand="True"
+				is_left_stance="True"
+				strike_type="swing"
+				begin_hand_position="0,0,0.1"
+				begin_hand_rotation="-90,90"
+				begin_arm_rotation="108,0"
+				begin_arm_length="0.6"
+				end_hand_position="0,0,-0.2"
+				end_hand_rotation="-90,-270"
+				end_arm_rotation="-126,0"
+				end_arm_length="0.6" />
+			<usage
+				style="attack_right"
+				ready_action="act_ready_slash_2h_horseback_right"
+				ready_from_up_action="act_ready_from_up_slash_2h_horseback_right"
+				ready_from_right_action="act_ready_from_right_slash_2h_horseback_right"
+				quick_release_action="act_quick_release_slash_2h_horseback_right"
+				release_action="act_release_slash_2h_horseback_right"
+				quick_blocked_action="act_quick_blocked_slash_2h_horseback_right"
+				blocked_action="act_blocked_slash_2h_horseback_right"
+				is_mounted="True"
+				require_free_left_hand="True"
+				strike_type="swing"
+				begin_hand_position="0,0,0.1"
+				begin_hand_rotation="90,90"
+				begin_arm_rotation="-80,0"
+				begin_arm_length="0.6"
+				end_hand_position="0,0,-0.2"
+				end_hand_rotation="90,-270"
+				end_arm_rotation="126,0"
+				end_arm_length="0.6" />
+			<usage
+				style="attack_right"
+				ready_action="act_ready_slashright_2h"
+				ready_from_up_action="act_ready_from_up_slashright_2h"
+				ready_from_right_action="act_ready_from_right_slashright_2h"
+				quick_release_action="act_quick_release_slashright_2h"
+				release_action="act_release_slashright_2h"
+				quick_blocked_action="act_quick_blocked_slashright_2h"
+				blocked_action="act_blocked_slashright_2h"
+				is_mounted="False"
+				require_free_left_hand="True"
+				strike_type="swing"
+				begin_hand_position="0,0,0.1"
+				begin_hand_rotation="90,90"
+				begin_arm_rotation="-80,0"
+				begin_arm_length="0.6"
+				end_hand_position="0,0,-0.2"
+				end_hand_rotation="90,-270"
+				end_arm_rotation="126,0"
+				end_arm_length="0.6" />
+			<usage
+				style="attack_right"
+				ready_action="act_ready_slashright_2h_left_stance"
+				ready_from_up_action="act_ready_from_up_slashright_2h_left_stance"
+				ready_from_right_action="act_ready_from_right_slashright_2h_left_stance"
+				quick_release_action="act_quick_release_slashright_2h_left_stance"
+				release_action="act_release_slashright_2h_left_stance"
+				quick_blocked_action="act_quick_blocked_slashright_2h_left_stance"
+				blocked_action="act_blocked_slashright_2h_left_stance"
+				is_mounted="False"
+				require_free_left_hand="True"
+				is_left_stance="True"
+				strike_type="swing"
+				begin_hand_position="0,0,0.1"
+				begin_hand_rotation="90,90"
+				begin_arm_rotation="-80,0"
+				begin_arm_length="0.6"
+				end_hand_position="0,0,-0.2"
+				end_hand_rotation="90,-270"
+				end_arm_rotation="126,0"
+				end_arm_length="0.6" />
+			<usage
+				style="defend_up"
+				defend_action="act_defend_up_2h_passive"
+				defend_active_action="act_defend_up_2h_active"
+				defend_parry_light_action="act_defend_up_2h_parry_light"
+				is_mounted="False"
+				require_free_left_hand="True"
+				begin_hand_position="0.3,0.25,0.4"
+				begin_hand_rotation="-80,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_up"
+				defend_action="act_defend_up_2h_passive_left_stance"
+				defend_active_action="act_defend_up_2h_active_left_stance"
+				defend_parry_light_action="act_defend_up_2h_parry_light_left_stance"
+				is_mounted="False"
+				require_free_left_hand="True"
+				is_left_stance="True"
+				begin_hand_position="0.3,0.25,0.4"
+				begin_hand_rotation="-80,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_up"
+				defend_action="act_defend_up_2h_passive"
+				defend_active_action="act_defend_up_2h_active"
+				defend_parry_light_action="act_defend_up_2h_parry_light"
+				is_mounted="True"
+				require_free_left_hand="True"
+				begin_hand_position="0.3,0.25,0.4"
+				begin_hand_rotation="-80,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_down"
+				defend_action="act_defend_forward_2h_passive"
+				defend_active_action="act_defend_forward_2h_active"
+				defend_parry_light_action="act_defend_forward_2h_parry_light"
+				is_mounted="False"
+				require_free_left_hand="True"
+				begin_hand_position="0.3,0.25,-0.4"
+				begin_hand_rotation="-80,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_down"
+				defend_action="act_defend_forward_2h_passive_left_stance"
+				defend_active_action="act_defend_forward_2h_active_left_stance"
+				defend_parry_light_action="act_defend_forward_2h_parry_light_left_stance"
+				is_mounted="False"
+				require_free_left_hand="True"
+				is_left_stance="True"
+				begin_hand_position="0.3,0.25,-0.4"
+				begin_hand_rotation="-80,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_down"
+				defend_action="act_defend_forward_2h_passive"
+				defend_active_action="act_defend_forward_2h_active"
+				defend_parry_light_action="act_defend_forward_2h_parry_light"
+				is_mounted="True"
+				require_free_left_hand="True"
+				begin_hand_position="0.3,0.25,-0.4"
+				begin_hand_rotation="-80,0"
+				begin_arm_rotation="0,0"
+				begin_arm_length="0" />
+			<usage
+				style="defend_left"
+				defend_action="act_defend_left_2h_passive"
+				defend_active_action="act_defend_left_2h_active"
+				defend_parry_light_action="act_defend_left_2h_parry_light"
+				is_mounted="False"
+				require_free_left_hand="True"
+				begin_hand_position="0,0,-0.2"
+				begin_hand_rotation="0,0"
+				begin_arm_rotation="50,0"
+				begin_arm_length="0.5" />
+			<usage
+				style="defend_left"
+				defend_action="act_defend_left_2h_passive_left_stance"
+				defend_active_action="act_defend_left_2h_active_left_stance"
+				defend_parry_light_action="act_defend_left_2h_parry_light_left_stance"
+				is_mounted="False"
+				require_free_left_hand="True"
+				is_left_stance="True"
+				begin_hand_position="0,0,-0.35"
+				begin_hand_rotation="0,0"
+				begin_arm_rotation="50,0"
+				begin_arm_length="0.5" />
+			<usage
+				style="defend_left"
+				defend_action="act_defend_left_2h_passive"
+				defend_active_action="act_defend_left_2h_active"
+				defend_parry_light_action="act_defend_left_2h_parry_light"
+				is_mounted="True"
+				require_free_left_hand="True"
+				begin_hand_position="0,0,-0.35"
+				begin_hand_rotation="0,0"
+				begin_arm_rotation="50,0"
+				begin_arm_length="0.5" />
+			<usage
+				style="defend_right"
+				defend_action="act_defend_right_2h_passive"
+				defend_active_action="act_defend_right_2h_active"
+				defend_parry_light_action="act_defend_right_2h_parry_light"
+				is_mounted="False"
+				require_free_left_hand="True"
+				begin_hand_position="0,0,-0.35"
+				begin_hand_rotation="0,0"
+				begin_arm_rotation="-50,0"
+				begin_arm_length="0.5" />
+			<usage
+				style="defend_right"
+				defend_action="act_defend_right_2h_passive_left_stance"
+				defend_active_action="act_defend_right_2h_active_left_stance"
+				defend_parry_light_action="act_defend_right_2h_parry_light_left_stance"
+				is_mounted="False"
+				require_free_left_hand="True"
+				is_left_stance="True"
+				begin_hand_position="0,0,-0.35"
+				begin_hand_rotation="0,0"
+				begin_arm_rotation="-50,0"
+				begin_arm_length="0.5" />
+			<usage
+				style="defend_right"
+				defend_action="act_defend_right_2h_passive"
+				defend_active_action="act_defend_right_2h_active"
+				defend_parry_light_action="act_defend_right_2h_parry_light"
+				is_mounted="True"
+				require_free_left_hand="True"
+				begin_hand_position="0,0,-0.35"
+				begin_hand_rotation="0,0"
+				begin_arm_rotation="-50,0"
+				begin_arm_length="0.5" />
+		</usages>
+		<kick_usages>
+			<kick_usage
+				release_action="act_2h_bash"
+				hit_action="act_hit_2h_bash"
+				require_free_left_hand="True"
+				is_left_stance="False" />
+			<kick_usage
+				release_action="act_2h_bash_left_stance"
+				hit_action="act_hit_2h_bash_left_stance"
+				require_free_left_hand="True"
+				is_left_stance="True" />
+		</kick_usages>
+		<guards>
+			<guard
+				style="up"
+				action="act_guard_up_2h"
+				require_free_left_hand="True"
+				hand_position="0,0.2,0.2"
+				hand_rotation="0,0"
+				arm_rotation="0,0"
+				arm_length="0" />
+			<guard
+				style="up"
+				is_left_stance="True"
+				action="act_guard_up_2h_left_stance"
+				require_free_left_hand="True"
+				hand_position="0,0.2,0.2"
+				hand_rotation="0,0"
+				arm_rotation="0,0"
+				arm_length="0" />
+			<guard
+				style="down"
+				action="act_guard_bottom_2h"
+				require_free_left_hand="True"
+				hand_position="0,0.35,-0.4"
+				hand_rotation="0,-54"
+				arm_rotation="0,0"
+				arm_length="0" />
+			<guard
+				style="down"
+				is_left_stance="True"
+				action="act_guard_bottom_2h_left_stance"
+				require_free_left_hand="True"
+				hand_position="0,0.35,-0.4"
+				hand_rotation="0,-54"
+				arm_rotation="0,0"
+				arm_length="0" />
+			<guard
+				style="left"
+				action="act_guard_left_2h"
+				require_free_left_hand="True"
+				hand_position="-0.2,0.3,-0.4"
+				hand_rotation="-54,-36"
+				arm_rotation="0,0"
+				arm_length="0" />
+			<guard
+				style="left"
+				is_left_stance="True"
+				action="act_guard_left_2h_left_stance"
+				require_free_left_hand="True"
+				hand_position="-0.2,0.3,-0.4"
+				hand_rotation="-54,-36"
+				arm_rotation="0,0"
+				arm_length="0" />
+			<guard
+				style="right"
+				action="act_guard_right_2h"
+				require_free_left_hand="True"
+				hand_position="0.2,0.3,-0.4"
+				hand_rotation="54,-36"
+				arm_rotation="0,0"
+				arm_length="0" />
+			<guard
+				style="right"
+				is_left_stance="True"
+				action="act_guard_right_2h_left_stance"
+				require_free_left_hand="True"
+				hand_position="0.2,0.3,-0.4"
+				hand_rotation="54,-36"
+				arm_rotation="0,0"
+				arm_length="0" />
+			<guard
+				style="none"
+				require_free_left_hand="True"
+				hand_position="0,0.3,0"
+				hand_rotation="0,0"
+				arm_rotation="0,0"
+				arm_length="0" />
+			<guard
+				style="none"
+				is_left_stance="True"
+				require_free_left_hand="True"
+				hand_position="0,0.3,0"
+				hand_rotation="0,0"
+				arm_rotation="0,0"
+				arm_length="0" />
+		</guards>
+	</item_usage_set>-->
+
+
+</item_usage_sets>
