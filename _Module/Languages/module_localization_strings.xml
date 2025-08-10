@@ -2100,1256 +2100,1256 @@
 		<string id="ERjI2Y6z" text="Training Yari Blade"/>
 		<string id="duyCmbKQ" text="Training Yari Shaft"/>
 		<string id="pl3XMM0n" text="Training Spear Guard"/>
-		<string id="yAchbdS0" text="Asakura Yoshikage"/>
-		<string id="92Plru2R" text="Asakura Shouko"/>
-		<string id="PeZKtHl4" text="Asakura Kageakira"/>
-		<string id="10GS8hh6" text="Asakura Fusako"/>
-		<string id="zHzGUOYl" text="Yamazaki Yoshiie"/>
-		<string id="nTqCvCWT" text="Yamazaki Icho"/>
-		<string id="byu8D8HC" text="Yamazaki Nagayoshi"/>
-		<string id="maSOGXrZ" text="Yamazaki Shoumyou-in"/>
-		<string id="MxewE2UB" text="Yamazaki Yoshitake"/>
-		<string id="X5qVfju7" text="Yamazaki Yoshinobu"/>
-		<string id="K5vrtqxW" text="Yamazaki Kogiku"/>
-		<string id="LrsfIPm8" text="Yamazaki Naganori"/>
-		<string id="FjN0SPCO" text="Mizoe Kageyasu"/>
-		<string id="edubnNQh" text="Mizoe Tome"/>
-		<string id="DGRdBFWD" text="Mizoe Nagayasu"/>
-		<string id="YiN0QUpV" text="Mizoe Oku"/>
-		<string id="htAMl2eb" text="Mizoe Nagauji"/>
-		<string id="m28lOKlG" text="Mizoe Ben-ei"/>
-		<string id="jGCv6Uil" text="Maeba Kagemasa"/>
-		<string id="jaNkGPsJ" text="Maeba Sei"/>
-		<string id="Bhxb1sTw" text="Maeba Kagesada"/>
-		<string id="eqgaZO03" text="Maeba Keiko-in"/>
-		<string id="ZctOTbV9" text="Maeba Katsuhide"/>
-		<string id="FXVHs6Rl" text="Maeba Yoshitsugu"/>
-		<string id="pTApzZjo" text="Maeba Kyo"/>
-		<string id="8NfTd97s" text="Anekouji Yoshiyori"/>
-		<string id="khSBd7oA" text="Anekouji Hagi"/>
-		<string id="zgHNjeAc" text="Anekouji Yoritsuna"/>
-		<string id="Ozp8uVH2" text="Anekouji Mei"/>
-		<string id="3t8eBlK9" text="Anekouji Nobutsuna"/>
-		<string id="50rxSxoL" text="Anekouji Hidetsuna"/>
-		<string id="YS6J1DSx" text="Anekouji Suetsuna"/>
-		<string id="ChLVdmm5" text="Anekouji Hisa"/>
-		<string id="fllPpIHN" text="Anekouji Tei"/>
-		<string id="rmn0keBY" text="Miki Kunitsuna"/>
-		<string id="pOV36qLw" text="Miki Kise"/>
-		<string id="Mwzg4d94" text="Miki Akitsuna"/>
-		<string id="BUaB2CAs" text="Miki Yuki"/>
-		<string id="reQL1Reg" text="Uchigashima Ujimasa"/>
-		<string id="ZAVB59DI" text="Uchigashima Tsune"/>
-		<string id="x5bCceO3" text="Uchigashima Ujitoshi"/>
-		<string id="0wP2NHjx" text="Uchigashima Shinkou-in"/>
-		<string id="BFpJOH9B" text="Uchigashima Ujiyuki"/>
-		<string id="oWMNADvQ" text="Uchigashima Chise"/>
-		<string id="VkHrE7QN" text="Uchigashima Ujinori"/>
-		<string id="8Njl5F1v" text="Uchigashima Ujifusa"/>
-		<string id="XOj9DW3l" text="Uchigashima Ujichika"/>
-		<string id="iDawiizs" text="Uchigashima Sue"/>
-		<string id="nO8nbFeD" text="Shimotsuma Rairen"/>
-		<string id="YJnCp2Ng" text="Shimotsuma Tenshou-in"/>
-		<string id="ELQ0jKOQ" text="Shimotsuma Rairyou"/>
-		<string id="HkWcWG8X" text="Shimotsuma Munekiyo"/>
-		<string id="6EDf32QW" text="Shimotsuma Rengoyoku-ni"/>
-		<string id="JkG837Se" text="Shimotsuma Saiko-ni"/>
-		<string id="dTVh9niZ" text="Shimotsuma Raishou"/>
-		<string id="uWUgquZb" text="Shimotsuma Keian-in"/>
-		<string id="ttOsDrht" text="Shimotsuma Nakataka"/>
-		<string id="v3KNHiGz" text="Shimotsuma Raitan"/>
-		<string id="vJhGvDMI" text="Shimotsuma Koutoku-in"/>
-		<string id="xnKhOXA6" text="Shimotsuma Rairyū"/>
-		<string id="Eh5FcIr3" text="Shichiri Yorichika"/>
-		<string id="HBQgU0KK" text="Shichiri Renmyou-in"/>
-		<string id="YxadjwHu" text="Shichiri Shoukou-ni"/>
-		<string id="EDp1Ip1P" text="Shichiri Tenshin-ni"/>
-		<string id="zzPufQWW" text="Hatakeyama Yoshitsuna"/>
-		<string id="Uq5GEfN0" text="Hatakeyama Keiko"/>
-		<string id="uWclrYkK" text="Hatakeyama Yoshitsugu"/>
-		<string id="L7cUrjNA" text="Hatakeyama Keisei-in"/>
-		<string id="MzeRfL4G" text="Hatakeyama Yoshitaka"/>
-		<string id="Ykm1ZcKt" text="Chou Tsugutsura"/>
-		<string id="54P6AoCQ" text="Chou Kine"/>
-		<string id="BH4qApyf" text="Chou Tsunatsura"/>
-		<string id="mxxEQmKL" text="Chou Chiho"/>
-		<string id="6UGnlTvg" text="Yusa Tsugumitsu"/>
-		<string id="mtpjGuCC" text="Yusa Sue"/>
-		<string id="JoEyAqpB" text="Yusa Morimitsu"/>
-		<string id="zfaBVnTz" text="Nukui Kagetaka"/>
-		<string id="PkUrZWtb" text="Nukui Kane"/>
-		<string id="9LHg8tSs" text="Nukui Tsugumune"/>
-		<string id="PySBB1Zv" text="Nukui En"/>
-		<string id="1zGy3GLa" text="Nukui Nagamori"/>
-		<string id="uNnrQHZs" text="Nukui Mitsu"/>
-		<string id="8ZM8IWIL" text="Maeda Toshiie"/>
-		<string id="X37Mxlbd" text="Maeda Matsu"/>
-		<string id="XY7oOzvJ" text="Maeda Toshiharu"/>
-		<string id="16wGsj58" text="Maeda Chorei-in"/>
-		<string id="gUfblyxg" text="Maeda Toshinaga"/>
-		<string id="HNxdD6bx" text="Maeda Kou"/>
-		<string id="KkMduqEv" text="Maeda Shizu"/>
-		<string id="37zNtHHt" text="Maeda Toshihisa"/>
-		<string id="pm7cjBgT" text="Maeda Tomi"/>
-		<string id="DCmCs5kM" text="Maeda Toshimasu"/>
-		<string id="qPinCtuZ" text="Maeda Yasukatsu"/>
-		<string id="o6NRDplP" text="Maeda Aki"/>
-		<string id="6cjX925Z" text="Maeda Toshiyoshi"/>
-		<string id="pVCYrGIa" text="Maeda Hidetsugu"/>
-		<string id="JJRp7jcS" text="Maeda Kai"/>
-		<string id="EAijrwwg" text="Maeda Toshihide"/>
-		<string id="FOuyGkLb" text="Akechi Mitsuhide"/>
-		<string id="WM3E1lhn" text="Akechi Hiroko"/>
-		<string id="YMwxPbeL" text="Akechi Mitsuyoshi"/>
-		<string id="ADvtqTtw" text="Akechi Ei"/>
-		<string id="nvlUciWt" text="Akechi Mitsutada"/>
-		<string id="lQFaxxIJ" text="Akechi Toku"/>
-		<string id="CkNry5Sa" text="Akechi Hidemitsu"/>
-		<string id="1R17d0b8" text="Akechi Tama"/>
-		<string id="SKcB9YGC" text="Niwa Nagahide"/>
-		<string id="L05jsNrJ" text="Niwa Fuse"/>
-		<string id="3qxBLbew" text="Niwa Masa"/>
-		<string id="XLXbashl" text="Niwa Take"/>
-		<string id="duYGUbdI" text="Ikeda Tsuneoki"/>
-		<string id="Ry3yD8SW" text="Ikeda Zen'o-in"/>
-		<string id="ZO4sRBgt" text="ikeda Tsunetoshi"/>
-		<string id="U5BbLUHL" text="ikeda Youtoku-in"/>
-		<string id="UAYyU8nN" text="ikeda Motosuke"/>
-		<string id="KncY4a2p" text="ikeda Terumasa"/>
-		<string id="d6GG2W3X" text="ikeda Sen"/>
-		<string id="lhX5bcSW" text="Tokugawa Ieyasu"/>
-		<string id="0VxHt8iA" text="Tokugawa Tsukiyama"/>
-		<string id="KPL2cW75" text="Tokugawa Nobuyasu"/>
-		<string id="zHBbLO7U" text="Tokugawa Kame"/>
-		<string id="T7whzugC" text="Tokugawa Toku"/>
-		<string id="ttXuqvjP" text="Honda Tadakatsu"/>
-		<string id="wTE64EJ5" text="Honda Hisa"/>
-		<string id="pzKWxRoL" text="Honda Shigetsugu"/>
-		<string id="BDFqD8yc" text="Honda Sane"/>
-		<string id="9DY2gzT7" text="Honda Toshimasa"/>
-		<string id="OfpHBzpT" text="Honda Chie"/>
-		<string id="oGp9i8O6" text="Honda Masanobu"/>
-		<string id="NIaOPKNj" text="Honda Shī"/>
-		<string id="dID6ayTM" text="Honda Masazumi"/>
-		<string id="9gdMPNbq" text="Honda Masashige"/>
-		<string id="7TBN1cQm" text="Honda Tsune"/>
-		<string id="A8v1L7R2" text="Sakakibara Yasumasa"/>
-		<string id="Hns8bp7I" text="sakakibara Nagamasa"/>
-		<string id="pe2Jt1Xd" text="sakakibara Yuzu"/>
-		<string id="46c1t4F9" text="Sakakibara Kiyomasa"/>
-		<string id="GgnkEyTV" text="Sakai Tadatsugu"/>
-		<string id="rrFghyqq" text="Sakai Usui"/>
-		<string id="A626l0Gm" text="Sakai Ietsugu"/>
-		<string id="60W9WGjN" text="Sakai Fuu"/>
-		<string id="PsuvJwcR" text="Ii Naotora"/>
-		<string id="eeY8Wqqk" text="Ii Naochika"/>
-		<string id="xF9RihZf" text="Ii Hiyo"/>
-		<string id="usy9v6yR" text="Ii Naomasa"/>
-		<string id="hznl27AL" text="Ii Takase"/>
-		<string id="4RHGzzz5" text="Ōkubo Tadakazu"/>
-		<string id="bp0JE7lD" text="Ōkubo Tadayo"/>
-		<string id="p9CqbJC5" text="Ōkubo Koto"/>
-		<string id="e0sW01xt" text="Ōkubo Tadachika"/>
-		<string id="ulF9F7Xm" text="Ōkubo Tadanari"/>
-		<string id="0Kytj7yK" text="Ōkubo Amane"/>
-		<string id="2nmhylAz" text="Ōkubo Tadatame"/>
-		<string id="HrxOrz25" text="Ōkubo Tadataka"/>
-		<string id="3fFAXVUS" text="Hattori Masanari"/>
-		<string id="Q3mn8U0b" text="Hattori Naga"/>
-		<string id="fdPNZSo0" text="Hattori Yasunaga"/>
-		<string id="9eEzhPnB" text="Hattori Kiku"/>
-		<string id="So0Nn6DM" text="Hattori Yasutoshi"/>
-		<string id="cYVbPLNq" text="Hattori Tsuru"/>
-		<string id="mdI2AIhF" text="Hattori Yasuhide"/>
-		<string id="6S59Qnpu" text="Hattori Yasumasa"/>
-		<string id="vSW8NxqF" text="Hattori Haru"/>
-		<string id="rfdnxhDr" text="Hattori Yasunari"/>
-		<string id="qNbyhQaj" text="Uesugi Kenshin"/>
-		<string id="6etIEETB" text="Uesugi Tamekage"/>
-		<string id="Weis43hU" text="uesugi Seigan-in"/>
-		<string id="8Iv9ecNC" text="Uesugi Aya"/>
-		<string id="RWQCCx4o" text="Uesugi Kagekatsu"/>
-		<string id="shVCPmCc" text="Uesugi Madoka"/>
-		<string id="Cg9EoY4r" text="Irobe Katsunaga"/>
-		<string id="6z9bSHa7" text="Irobe Azuki"/>
-		<string id="luKhUhXh" text="Irobe Akinaga"/>
-		<string id="bSqEzLcJ" text="Irobe Nagazane"/>
-		<string id="XgIyv7bL" text="Kakizaki Kageie"/>
-		<string id="wOt7PGWW" text="Kakizaki Kiku"/>
-		<string id="RNZWsztn" text="Kakizaki Haruie"/>
-		<string id="UX8SD6t0" text="Kakizaki Matsu"/>
-		<string id="CQuYOgRo" text="Naoe Kagetsuna"/>
-		<string id="9zniFw6a" text="Naoe Ran"/>
-		<string id="aizCBXYO" text="Naoe Sen"/>
-		<string id="4yJ1D3Lk" text="Shibata Nagaatsu"/>
-		<string id="N5nPQ9iT" text="Shibata Saki"/>
-		<string id="jeDlQqJW" text="shibata Tsunasada"/>
-		<string id="LVyZvRCD" text="Shibata Tenshou-in"/>
-		<string id="Vnl5lCcr" text="Shibata Shigeie"/>
-		<string id="msDDZ9zQ" text="Shibata Kotake"/>
-		<string id="lTQNNnd4" text="Jinbo Nagamoto"/>
-		<string id="hVSyu2fz" text="Jinbo Asahi"/>
-		<string id="TbOZeUsx" text="Jinbo Nagazumi"/>
-		<string id="6HJv9QVb" text="Jinbo Naka"/>
-		<string id="rctAbfBY" text="Jinbo Nagakuni"/>
-		<string id="Bs8eZQFC" text="Jinbo Sayo"/>
-		<string id="W5wJGTC8" text="Murakami Yoshikiyo"/>
-		<string id="MESMSv9a" text="Murakami Fune"/>
-		<string id="yGFHfoKI" text="Murakami Yoshikatsu"/>
-		<string id="TCUOLBRT" text="Murakami Sada"/>
-		<string id="5O1LWXJp" text="Murakami Yoshiteru"/>
-		<string id="RuCWEn4I" text="Murakami Kyou"/>
-		<string id="6qygzS4a" text="Murakami Yoshikuni"/>
-		<string id="kQx9hdpB" text="Murakami Tai"/>
-		<string id="H9SHda0i" text="Murakami Kunikiyo"/>
-		<string id="subHFWkG" text="Murakami Kazu"/>
-		<string id="qmR0GKfJ" text="Honma Sadakane"/>
-		<string id="DM691On9" text="Honma Tsuta"/>
-		<string id="fMcQDpxT" text="Honma Takatsuna"/>
-		<string id="fy68erIy" text="Honma Tomo"/>
-		<string id="wr8Xrdq3" text="Honma Muneyuki"/>
-		<string id="jKoS0rtx" text="Honma Takaou"/>
-		<string id="Yb8Jirco" text="Honjou Sigenaga"/>
-		<string id="NDluCjrj" text="Honjou Momiji"/>
-		<string id="Ng1qk1bc" text="Honjou Akinaga"/>
-		<string id="9107Gylz" text="Honjou Saneyori"/>
-		<string id="7U80DoRY" text="Honjou Sagami"/>
-		<string id="5LpGgkPs" text="Honjou Hidetsuna"/>
-		<string id="1oAT3tap" text="Honjou Ise"/>
-		<string id="3MdGZMX4" text="Honjou Kageyori"/>
-		<string id="CmHdCNgW" text="Takeda Shingen"/>
-		<string id="4i6fDyD8" text="Takeda Sanjo-no-kata"/>
-		<string id="zKMW1v8g" text="takeda Nobutora"/>
-		<string id="Jc58jQNn" text="takeda Oi"/>
-		<string id="86eH8vEV" text="Takeda Katsuyori"/>
-		<string id="v3Z4a3yT" text="Takeda Nobukiyo"/>
-		<string id="DaR7ks4O" text="Takeda Mari"/>
-		<string id="oDOj9SD6" text="Takeda Kiku"/>
-		<string id="xpuvPs14" text="Takeda Matsu"/>
-		<string id="y03WXHuV" text="Takeda Nobukado"/>
-		<string id="XTtGyQDW" text="Takeda Oboro"/>
-		<string id="08ToFFXf" text="Takeda Nobuzumi"/>
-		<string id="1TVdy9aJ" text="Takeda Nobuaki"/>
-		<string id="AnDrohq6" text="Takeda Tsuyu"/>
-		<string id="zTstz8YU" text="Takeda Nobutomo"/>
-		<string id="Kr9vJDJr" text="Takeda Koharu"/>
-		<string id="mf6qRfQ9" text="Baba Nobuharu"/>
-		<string id="g6O5UTIU" text="Baba Shinkou-in"/>
-		<string id="sUPNtt42" text="Baba Masafusa"/>
-		<string id="DHiUrEoe" text="Baba Tatsu"/>
-		<string id="fcNnjXsC" text="Baba Nobuyoshi"/>
-		<string id="3qyP1ctn" text="Baba Fumi"/>
-		<string id="gz7lL74b" text="Baba Fusakatsu"/>
-		<string id="njGs760D" text="Baba Mai"/>
-		<string id="Hkshvmje" text="Kiso Yoshiyasu"/>
-		<string id="vbIJLnaE" text="Kiso Maki"/>
-		<string id="0glR6o3S" text="Kiso Yoshimasa"/>
-		<string id="hCph1y6W" text="Kiso Mari"/>
-		<string id="Uh8eLrzj" text="Kiso Yoshitoyo"/>
-		<string id="CST4VZ3y" text="Kiso Iwa"/>
-		<string id="nOD4Gqu3" text="Sanada Nobutsuna"/>
-		<string id="LLDSUh4P" text="Sanada Kita"/>
-		<string id="wcz0nDz4" text="Sanada Yukitsuna"/>
-		<string id="xCBCWoyE" text="Sanada Kyou'un-in"/>
-		<string id="Juq9azQr" text="Sanada Masateru"/>
-		<string id="WVGige9a" text="Sanada Azuma"/>
-		<string id="kgkhqmWv" text="Sanada Masayuki"/>
-		<string id="8GNzUWme" text="Sanada Yamanote"/>
-		<string id="RxAnenAt" text="Sanada Nobuyuki"/>
-		<string id="SrBZhW62" text="Sanada Nobushige"/>
-		<string id="p6u25ahF" text="Sanada Nobutada"/>
-		<string id="CGW3d2m1" text="Nishina Morinobu"/>
-		<string id="pMatiznR" text="Nishina Morimasa"/>
-		<string id="p5ZVom76" text="Nishina Sekishou-in"/>
-		<string id="NxcRsCiG" text="Nishina Moritaka"/>
-		<string id="NMWHcNzI" text="Nishina Morikiyo"/>
-		<string id="R2xuV24U" text="Oyamada Nobushige"/>
-		<string id="Dg5B2zhF" text="Oyamada Momo"/>
-		<string id="g45BojcX" text="Oyamada Nobutsuna"/>
-		<string id="zF6jIhMK" text="Oyamada Harusuke"/>
-		<string id="diLqkUYp" text="Oyamada Nobutada"/>
-		<string id="LkcZ0r5Y" text="Oyamada Fuchi"/>
-		<string id="foSkGqkk" text="Yamagata Masakage"/>
-		<string id="HjUZWMTO" text="Yamagata Yumi"/>
-		<string id="YXIWbWf0" text="Yamagata Masamitsu"/>
-		<string id="92oaxFYB" text="Yamagata Hana"/>
-		<string id="0mCx7j50" text="Yamagata Masashige"/>
-		<string id="Yq8SOeXP" text="Yamagata Masahisa"/>
-		<string id="KDNU2gvn" text="Yamagata Tsuku"/>
-		<string id="ecShe0I2" text="Yamagata En"/>
-		<string id="g4maTpNu" text="Kasuga Toratsuna"/>
-		<string id="TYa3IRFt" text="Kasuga Shige"/>
-		<string id="MpF2HDx9" text="Kasuga Masazumi"/>
-		<string id="Ha5aVxa5" text="Kasuga Yuki"/>
-		<string id="SMr29glZ" text="Kasuga Masamoto"/>
-		<string id="cZMqkGId" text="Kasuga Masasada"/>
-		<string id="SJcxjwoG" text="Imagawa Ujizane"/>
-		<string id="JaOi7kxn" text="Imagawa Hayakawa"/>
-		<string id="PTuEiwT5" text="Imagawa Sada"/>
-		<string id="6F0GOTMx" text="Asahina Yasutomo"/>
-		<string id="iREsPn2R" text="Asahina Sawa"/>
-		<string id="LPbuuBT7" text="Asahina Yasumoto"/>
-		<string id="tCqVkzwq" text="Asahina Nobuoki"/>
-		<string id="TyQ6HZYx" text="Asahina Yui"/>
-		<string id="OO1CZVQY" text="Asahina Nobuyoshi"/>
-		<string id="OJ0Bt41g" text="Asahina Motonaga"/>
-		<string id="QsBBAV6a" text="Asahina Munetoshi"/>
-		<string id="c9kHua0I" text="Fuji Nobutada"/>
-		<string id="Fo5zfzvM" text="Fuji Matsu"/>
-		<string id="GtQEM4H1" text="Fuji Nobumichi"/>
-		<string id="R6QFv61S" text="Fuji Yae"/>
-		<string id="1dudFqAY" text="Fuji Nobushige"/>
-		<string id="BmHwTG2p" text="Fuji Kou"/>
-		<string id="R0oRncp7" text="Okabe Motonobu"/>
-		<string id="P1UiQyME" text="Okabe Sakae"/>
-		<string id="r9MHER6o" text="Okabe Chikatsuma"/>
-		<string id="mteALoQA" text="Okabe Myosen-ni"/>
-		<string id="jDEOJ3VU" text="Okabe Sanetaka"/>
-		<string id="RGfPAqxo" text="Okabe Motoaki"/>
-		<string id="9yB1OZBM" text="Okabe Masatsuna"/>
-		<string id="NzPVJZQJ" text="Okabe Kame"/>
-		<string id="22eOrkcg" text="Okabe Nagamori"/>
-		<string id="FCzQSXcq" text="Okabe Nagaaki"/>
-		<string id="t4DRKSAY" text="Obata Nobuzane"/>
-		<string id="asA0b5mz" text="Obata Tae"/>
-		<string id="6U06bX7V" text="Obata Norishige"/>
-		<string id="k7pTFu2E" text="Obata Yumi"/>
-		<string id="SRa7FYKy" text="Obata Nobutaka"/>
-		<string id="cy3gpggj" text="Obata Yuki"/>
-		<string id="7lHBstOq" text="Obata Nobuuji"/>
-		<string id="Z6vTfYje" text="Obata Nobusasda"/>
-		<string id="K4rav43o" text="Obata Masataka"/>
-		<string id="zVUgQ4Mr" text="Obata Tose"/>
-		<string id="ZPjH5pVz" text="Obata Nobuhide"/>
-		<string id="9IFe41L8" text="Obata Mina"/>
-		<string id="nSIP71V7" text="Yura Narishige"/>
-		<string id="Q4wQhlze" text="Yura Myouin-ni"/>
-		<string id="yWf4nQeJ" text="Yura Kunishige"/>
-		<string id="V5SvHfO0" text="Yura Shigeaki"/>
-		<string id="b3YDzA8r" text="Yura Akinaga"/>
-		<string id="ZiQq8JDT" text="Yura Mayu"/>
-		<string id="uog9xjJ7" text="Yura Sumi"/>
-		<string id="P3zTiZCm" text="Houjou Ujimasa"/>
-		<string id="RSvvwQuG" text="Houjou Housho-in"/>
-		<string id="fpxfCA95" text="Houjou Ujiyasu"/>
-		<string id="w54S5I3N" text="Houjou Zuikei-in"/>
-		<string id="pizr75r3" text="Houjou Ujinao"/>
-		<string id="1agVt6tW" text="Houjou Ujiteru"/>
-		<string id="iUvP6aFv" text="Houjou Hisa"/>
-		<string id="fAdkH6BS" text="Houjou Ujikuni"/>
-		<string id="Ihhdccnz" text="Houjou Fuku"/>
-		<string id="I6HLatlC" text="Houjou Ujinori"/>
-		<string id="XT3whBO1" text="Houjou Kougen-in"/>
-		<string id="HMftyqYc" text="Houjou Gen-an"/>
-		<string id="IFVBo0UW" text="Matsuda Norihide"/>
-		<string id="Koe4GEO4" text="Matsuda Tani"/>
-		<string id="uzEB7rTO" text="Matsuda Masaharu"/>
-		<string id="1ME4J4P8" text="Matsuda Naohide"/>
-		<string id="GXvLySIv" text="Matsuda Yasusada"/>
-		<string id="ViSD5Bbn" text="Matsuda Jifuku-in"/>
-		<string id="tgMbwfiE" text="Matsuda Yasunaga"/>
-		<string id="zDjE64TE" text="Matsuda Izumi"/>
-		<string id="IOihIX4O" text="Matsuda Naonaga"/>
-		<string id="N7FUZLza" text="Matsuda Yasusato"/>
-		<string id="8rJWmjlH" text="Matsuda Ito"/>
-		<string id="WSOVFn2s" text="Tōyama Masakage"/>
-		<string id="iSVGS3Xg" text="Tōyama Take"/>
-		<string id="hbrNLVoD" text="Tōyama Tsunakage"/>
-		<string id="KxM5VRa1" text="Tōyama Joukou-in"/>
-		<string id="zp5C0etl" text="Tōyama Naokage"/>
-		<string id="lsVY4d0J" text="Tōyama Kagemune"/>
-		<string id="wTLH9970" text="Tōyama Tei"/>
-		<string id="BEOaffU2" text="Tōyama Kageyoshi"/>
-		<string id="PgAQVzbF" text="Tōyama Kagenobu"/>
-		<string id="gSd6sI0U" text="Tōyama Hideshige"/>
-		<string id="szgwXx0f" text="Tōyama Shigemasa"/>
-		<string id="f3MMiYMN" text="Daidouji Masashige"/>
-		<string id="HxDyc3ql" text="Daidouji Shino"/>
-		<string id="nDpdaTzx" text="Daidouji Naohide"/>
-		<string id="Id4pOfky" text="Daidouji Naoshige"/>
-		<string id="SwQ02lSF" text="Narita Ujinaga"/>
-		<string id="Vm16qd8L" text="Narita Araragi"/>
-		<string id="HvKdwFFQ" text="narita Chikayasu"/>
-		<string id="ZDygI93n" text="Narita Myoukou-in"/>
-		<string id="QWiufJBx" text="Narita Kai"/>
-		<string id="z0hkNFGC" text="Narita Yasuchika"/>
-		<string id="l0dKAD1a" text="Narita Futaba"/>
-		<string id="HyfCYlLK" text="Narita Yasusue"/>
-		<string id="wAcogWf3" text="Narita Tomi"/>
-		<string id="fLSGAgYC" text="Narita Nagachika"/>
-		<string id="qjnRwQly" text="Narita Mari"/>
-		<string id="KrY4IEpg" text="Chiba Tanetomi"/>
-		<string id="WYTqPJNj" text="Chiba Hagi"/>
-		<string id="RUVHqSha" text="Chiba Masatane"/>
-		<string id="zsUPpaIN" text="Chiba Seikyou-in"/>
-		<string id="BSQ982ou" text="Chiba Yoshitane"/>
-		<string id="lHQ3t4SP" text="Chiba Kunitane"/>
-		<string id="jdtXL2lm" text="Chiba Tanehide"/>
-		<string id="o7IMZNBt" text="Chiba Haru"/>
-		<string id="r8PNf9r5" text="Chiba Tanenaka"/>
-		<string id="L4V95dkR" text="Chiba Tanetoki"/>
-		<string id="N0wdIy1B" text="Oda Ujiharu"/>
-		<string id="vC6z8WVM" text="Oda Hazuki"/>
-		<string id="oBXKUC02" text="Oda Masaharu"/>
-		<string id="lIMwYkmk" text="Oda Keimyou-in"/>
-		<string id="73thINiW" text="Oda Tomoharu"/>
-		<string id="40uzrYwA" text="Oda Moriharu"/>
-		<string id="KDNrkROu" text="Oda Koma"/>
-		<string id="QYDzg3jA" text="Oda Riku"/>
-		<string id="tCf4lIPu" text="Ashikaga Yoshiuji"/>
-		<string id="NxaysxUC" text="Ashikaga Jyoko-in"/>
-		<string id="O06DIhu2" text="Ashikaga Haruuji"/>
-		<string id="MsX1Hln6" text="ashikaga Houshun-in"/>
-		<string id="9zqTKcqA" text="Ashikaga Fujimasa"/>
-		<string id="2cUjpzfQ" text="Ashikaga Teruuji"/>
-		<string id="F9XMsCHI" text="Ashikaga Iekuni"/>
-		<string id="olSVCZmf" text="Ashikaga Sato"/>
-		<string id="lVNG6nvY" text="Sano Masatsuna"/>
-		<string id="OjtJRVA8" text="Sano Moto"/>
-		<string id="2dwqNcV0" text="Sano Yasutsuna"/>
-		<string id="aVzIfT5b" text="Sano Kousen-in"/>
-		<string id="jTPsXTQs" text="Sano Munetsuna"/>
-		<string id="CimHJY3v" text="Sano Chikatsuna"/>
-		<string id="HxOIq1UO" text="Sano Toyotsuna"/>
-		<string id="TtRVEzF9" text="Sano Jyoumei-in"/>
-		<string id="OjNzZ4z7" text="Sano Fusatsuna"/>
-		<string id="peuTgDWX" text="Yūki Harutomo"/>
-		<string id="2axdqLeU" text="Yūki Shoko"/>
-		<string id="l7gGIVfb" text="Yūki Teruko"/>
-		<string id="KaW2u7Wt" text="Yūki Tsuruko"/>
-		<string id="3dRiCHIH" text="Yūki Kuniko"/>
-		<string id="WNXdlC6n" text="Satomi Yoshihiro"/>
-		<string id="mF93OB0Z" text="Satomi Maki"/>
-		<string id="45HFAruq" text="satomi Yoshitaka"/>
-		<string id="WIMsWqlV" text="Satomi Saka"/>
-		<string id="1VsYAGf0" text="Satomi Takamoto"/>
-		<string id="Sl8tIOAe" text="Satomi Tame"/>
-		<string id="ZOyxIYLt" text="Satomi Takatsugu"/>
-		<string id="RZW4u1bw" text="Satomi Kuni"/>
-		<string id="BijTmjLN" text="Satomi Yoshimasa"/>
-		<string id="mSLw5dla" text="Satomi Hisa"/>
-		<string id="ojHJapKr" text="Satomi Yoshiyori"/>
-		<string id="XsI6P4Lw" text="Satomi Hama"/>
-		<string id="Ae4oJ078" text="Satomi Tane"/>
-		<string id="BLEI9odB" text="Satomi Toyo"/>
-		<string id="3u6MPLG6" text="Masaki Noritoki"/>
-		<string id="wTQEOpa7" text="Masaki Kaname"/>
-		<string id="r9bbr3VW" text="Masaki Tokimichi"/>
-		<string id="AWwPQ7GP" text="Masaki Kine"/>
-		<string id="NClTemsw" text="Masaki Chie"/>
-		<string id="y968PY0G" text="Masaki Tokinari"/>
-		<string id="10oV0mMQ" text="Masaki Saki"/>
-		<string id="jysbc6Uf" text="Masaki Tokikatsu"/>
-		<string id="FxCpKg3G" text="Masaki Fusa"/>
-		<string id="MHd8ZnPH" text="Masaki Tokihide"/>
-		<string id="P3Qi7ksg" text="Masaki Yoritoki"/>
-		<string id="UkMRMuYI" text="Masaki Tokitomi"/>
-		<string id="EnNxr4sS" text="Sakai Taneharu"/>
-		<string id="L3rcTXEN" text="Sakai Keirin-ni"/>
-		<string id="4Ve0NOnj" text="Sakai Yasuharu"/>
-		<string id="4UF3c1YO" text="Utsunomiya Hirotsuna"/>
-		<string id="k8YjNpOk" text="Utsunomiya Nanryo-in"/>
-		<string id="YMsdSa5O" text="Utsunomiya Kunitsuna"/>
-		<string id="gwB9W7mm" text="Haga Takasada"/>
-		<string id="J0VnbU4a" text="Haga Tama"/>
-		<string id="0xmB7XJS" text="Haga Takatake"/>
-		<string id="l2brrFCq" text="Haga Chiyo"/>
-		<string id="WO5zvxR8" text="Haga Takatsugu"/>
-		<string id="tGEgf2XE" text="Haga Miki"/>
-		<string id="7vqf8p1x" text="Kasama Mikitsuna"/>
-		<string id="B55gNGt8" text="Kasama Sue"/>
-		<string id="GhX1cQFn" text="Kasama Tsunaie"/>
-		<string id="u6pL0K8t" text="Kasama Kiku"/>
-		<string id="qs5YLGCM" text="Kasama Sakon"/>
-		<string id="IpGWXGXO" text="Satake Yoshishige"/>
-		<string id="lTEN0uBO" text="Satake Hoju-in"/>
-		<string id="lEBzZaFW" text="Satake Yoshiaki"/>
-		<string id="NGUNB04b" text="Satake Koutoku-in"/>
-		<string id="cS0BYmEj" text="Satake Yoshihisa"/>
-		<string id="O91iIET8" text="Satake Akane"/>
-		<string id="TO3KcPYq" text="Satake Yoshitane"/>
-		<string id="di3hvLje" text="Satake Yoshitsuna"/>
-		<string id="RlQJPV7D" text="Satake Chitose"/>
-		<string id="f5XYXxSk" text="Edo Michimasa"/>
-		<string id="tLFdyt4x" text="Edo Seishou-in"/>
-		<string id="isJ2mg9v" text="Edo Shigemichi"/>
-		<string id="pRzOVEbH" text="Daijou Sadakuni"/>
-		<string id="iK6pKdiD" text="Daijou Fumi"/>
-		<string id="JrCw7IOL" text="Daijou Yoshimoto"/>
-		<string id="ad2F8T2d" text="Daijou Rensho-in"/>
-		<string id="mWRFq0Y2" text="Daijou Tuneharu"/>
-		<string id="RHgM2Jbk" text="Daijou Hana"/>
-		<string id="fFzatPZB" text="Kashima Ujimiki"/>
-		<string id="P0Rdtbsk" text="Kashima Harutoki"/>
-		<string id="lK0BVLKk" text="Kashima Myouke-in"/>
-		<string id="e3yhg6Dv" text="Kashima Yoshikiyo"/>
-		<string id="wOWbGCUg" text="Kashima Nami"/>
-		<string id="Nc8F0LEf" text="Kashima Sadanobu"/>
-		<string id="xuJSkGe4" text="Kashima Chiku"/>
-		<string id="wGuR0ntw" text="Kashima Kiyohide"/>
-		<string id="aYVxNbSo" text="Kashima Sai"/>
-		<string id="g1hC3I76" text="Kashima Michiharu"/>
-		<string id="iqtWNEZR" text="Kashima Sae"/>
-		<string id="WAlIagfl" text="Nasu Suketane"/>
-		<string id="Niu6EEIX" text="Nasu Toyo"/>
-		<string id="BiJQ3gwj" text="Nasu Sukeharu"/>
-		<string id="vgzjShtW" text="Nasu Masa"/>
-		<string id="kLlP5rni" text="Akamatsu Yoshisuke"/>
-		<string id="tUcpDeTS" text="Akamatsu Azami"/>
-		<string id="nR1sGRoK" text="Akamatsu Norifusa"/>
-		<string id="pRDHDfAf" text="Kodera Masamoto"/>
-		<string id="YrKWMZru" text="Kodera Kame"/>
-		<string id="AptV40KY" text="Kodera Norimoto"/>
-		<string id="awh97eY4" text="Kodera Beni"/>
-		<string id="964hRB7s" text="Kodera Kasuga"/>
-		<string id="uq93RE5H" text="Kuroda Yoshitaka"/>
-		<string id="zFfxKok8" text="Kuroda Mitsu"/>
-		<string id="q2wWaf6n" text="Kuroda Mototaka"/>
-		<string id="vpp0X2di" text="Kuroda Masu"/>
-		<string id="nbMsupjp" text="Kuroda Nagamasa"/>
-		<string id="WBljkXLV" text="Kuroda Toshitaka"/>
-		<string id="tPBBMN4Z" text="Kuroda Toshinori"/>
-		<string id="qgu18aBw" text="Kuroda Naoyuki"/>
-		<string id="jqDkyoQZ" text="Kuroda Kayo"/>
-		<string id="Oew1Bf9P" text="Kuroda Kine"/>
-		<string id="FZ1Eq6lh" text="Kuroda Fuku"/>
-		<string id="So1hDGim" text="Bessho Yasuharu"/>
-		<string id="vbW4lVBo" text="Bessho Azuma"/>
-		<string id="apqhx41m" text="Bessho Nariharu"/>
-		<string id="dO3CawFk" text="Bessho Masu"/>
-		<string id="Brly3Pam" text="Bessho Nagaharu"/>
-		<string id="VYrrxnX9" text="Bessho Tomoyuki"/>
-		<string id="19IdACYb" text="Bessho Harusada"/>
-		<string id="gzC7F4fo" text="Bessho Yoshichika"/>
-		<string id="PVVSjRbo" text="Bessho Kashi"/>
-		<string id="qRHfzyUs" text="Bessho Shigemune"/>
-		<string id="MYV9KYo1" text="Bessho Seri"/>
-		<string id="pvqqQutQ" text="Matsunaga Kasumi"/>
-		<string id="0VHC3xFH" text="Matsunaga Hisamichi"/>
-		<string id="Boxu3rYM" text="Matsunaga Wakaba"/>
-		<string id="Xe63ilYA" text="Tsutsui Junkei"/>
-		<string id="sTM8QM4l" text="Tsutsui Taka"/>
-		<string id="us2k9KPi" text="Tsutsui Junkou"/>
-		<string id="L3NzXFr3" text="Tsutsui Saya"/>
-		<string id="pnoyota2" text="Tsutsui Junshou"/>
-		<string id="v8k486Cv" text="Tsutsui Okata"/>
-		<string id="kZUzygaP" text="Tsutsui Junkoku"/>
-		<string id="D6cW9BRv" text="Tsutsui Koharu"/>
-		<string id="vwBchbKt" text="Tsutsui Sadatsugu"/>
-		<string id="YP2fV2hW" text="Tsutsui Toshihiro"/>
-		<string id="pAupiXnj" text="Tsutsui Tai"/>
-		<string id="z8vSvDSj" text="Tsutsui Junsai"/>
-		<string id="bPdxO4MG" text="Tsutsui Hiroyuki"/>
-		<string id="RenGY8Fh" text="Tsutsui Nobuyasu"/>
-		<string id="avHcE1yf" text="Tsutsui Sawa"/>
-		<string id="zSUIhhTo" text="Tsutsui Fuyuyasu"/>
-		<string id="fzgQ5psq" text="Tsutsui Keiten-in"/>
-		<string id="U0EMQOWS" text="Tsutsui Kiyoyasu"/>
-		<string id="FlzkbFch" text="Ashikaga Yoshiharu"/>
-		<string id="o05gJRtq" text="Ashikaga Keijyu-in"/>
-		<string id="lhA4QmHy" text="Ashikaga Yoshiteru"/>
-		<string id="hsD5bJui" text="Ashikaga Daiyou-in"/>
-		<string id="dKcLiTvb" text="Ashikaga Yoshihide"/>
-		<string id="DavzUQup" text="Hosokawa Fujitaka"/>
-		<string id="EmiPhqA0" text="Hosokawa Jyakou"/>
-		<string id="HQiKv4QF" text="Hosokawa Tadaoki"/>
-		<string id="DtWZ2i3N" text="Hosokawa Okimoto"/>
-		<string id="iYqL2Vy6" text="Hosokawa Sen"/>
-		<string id="7oUfZNuF" text="Hosokawa Iya"/>
-		<string id="CHalr5aK" text="Issiki Yoshimichi"/>
-		<string id="ruz4z36n" text="Issiki Tunako"/>
-		<string id="CzufOZcO" text="Issiki Yoshiyuki"/>
-		<string id="RurSjEyY" text="Issiki Keitoku-In"/>
-		<string id="K0rUvzyH" text="Issiki Yoshisada"/>
-		<string id="Ez9wouSk" text="Issiki Yoshikiyo"/>
-		<string id="oNEiBB2d" text="Yamana Suketoyo"/>
-		<string id="kJXoV9Pb" text="Yamana Tomoko"/>
-		<string id="NmILYBIw" text="Yamana Munetoyo"/>
-		<string id="nMjExeXI" text="Yamana Yoshichika"/>
-		<string id="QbkbZH6B" text="Yamana Akihiro"/>
-		<string id="vs49SDks" text="Hatakeyama Akitaka"/>
-		<string id="BeVxuHbe" text="Hatakeyama Masakuni"/>
-		<string id="eHD3yI8F" text="Hatakeyama Seiko"/>
-		<string id="0TdWVoYC" text="Hatakeyama Takamasa"/>
-		<string id="9QUwXAo6" text="Hatakeyama Fusako"/>
-		<string id="kYtWhJo4" text="Hatakeyama Yuko"/>
-		<string id="ACqEvloB" text="Hatakeyama Masahisa"/>
-		<string id="PbADW8O5" text="Yasumi Munefusa"/>
-		<string id="JrNemg5t" text="Yasumi Yata"/>
-		<string id="iMqha8Z4" text="Yasumi Tomonaga"/>
-		<string id="Rrbu472n" text="Yasumi Ukon"/>
-		<string id="wCCzDL2D" text="Yasumi Chie"/>
-		<string id="fcAG1QqW" text="Yukawa Naoharu"/>
-		<string id="3QhK8vOe" text="Yukawa Komatsu"/>
-		<string id="WCJsiBsB" text="Yukawa Naomitsu"/>
-		<string id="xG7Mnax1" text="Yukawa Komyo-in"/>
-		<string id="QQ62CWn2" text="Yukawa Nobuharu"/>
-		<string id="Bqky19ae" text="Yukawa Hiroharu"/>
-		<string id="NbKeRcPM" text="Yukawa Kageharu"/>
-		<string id="vVdUl9kZ" text="Honganji Ken'nyo"/>
-		<string id="uhGVlVcb" text="Honganji Nyosyun-ni"/>
-		<string id="ZHgHiq5g" text="Honganji Kyounyo"/>
-		<string id="dLk4Mfmb" text="Honganji Kenson"/>
-		<string id="CGMTB5IR" text="Ganshouji Syoui"/>
-		<string id="RqrjjOwd" text="Ganshouji Shoumyou-in"/>
-		<string id="dcTmgzR2" text="Ganshouji Ken'nin"/>
-		<string id="KyBM4EGe" text="Rokkaku Yoshikata"/>
-		<string id="YKfuhIdz" text="Rokkaku Shizuno"/>
-		<string id="5c4QE4T3" text="Rokkaku Yoshiharu"/>
-		<string id="f4nYiBuo" text="Rokkaku Tomoe"/>
-		<string id="0TCCnJ52" text="Rokkaku Tomonaga"/>
-		<string id="ejRgtgY3" text="Rokkaku Chizuru"/>
-		<string id="rUBu7S4M" text="Gamou Katahide"/>
-		<string id="3d9HHjwb" text="Gamou Mitsuki"/>
-		<string id="FD9LbBC5" text="Gamou Ujisato"/>
-		<string id="GM8rv4Ak" text="Gamou Shigesato"/>
-		<string id="SuEovhqt" text="Gamou Tomo"/>
-		<string id="2wRgcvgX" text="Gamou Sana"/>
-		<string id="iZkMYp72" text="Azai Nagamasa"/>
-		<string id="rvDsCUpk" text="Azai Ichi"/>
-		<string id="qIzG5074" text="Azai Hisamasa"/>
-		<string id="RF8JjIdu" text="Azai Ako"/>
-		<string id="Av28pOpi" text="Azai Masamoto"/>
-		<string id="VBrMcD42" text="Azai Masayuki"/>
-		<string id="A73fNqDB" text="Toudou Torataka"/>
-		<string id="wATMO4SF" text="Toudou Ayame"/>
-		<string id="ZkYr4Q04" text="Toudou Takatora"/>
-		<string id="MRwSxq1k" text="Toudou Takanori"/>
-		<string id="6F2ikYXs" text="Toudou Fuji"/>
-		<string id="VejCmIYn" text="Toudou Tsuta"/>
-		<string id="kHIiTY6k" text="Isono Kazumasa"/>
-		<string id="aNr0aTAb" text="Isono Ayame"/>
-		<string id="5wrVt0wH" text="Isono Yukinobu"/>
-		<string id="BzIGHgCx" text="Isono Masanaga"/>
-		<string id="WvVFYg9z" text="Akao Kiyotsuna"/>
-		<string id="eqrjET0Q" text="Akao Kiru"/>
-		<string id="HGBst1md" text="Akao Kiyofuyu"/>
-		<string id="quPWUb7d" text="Akao Yuki"/>
-		<string id="wqjEk0zZ" text="Oda Nobunaga"/>
-		<string id="aCLFE9fV" text="Oda Nou"/>
-		<string id="6fpqsOCb" text="Oda Nobuhide"/>
-		<string id="WKW8zGVB" text="Oda Dota-gezen"/>
-		<string id="3k7drsea" text="Oda Nobutada"/>
-		<string id="0JPVJU94" text="Oda Nobukatsu"/>
-		<string id="ITHpOHC1" text="Oda Nobutaka"/>
-		<string id="XFJfiBaw" text="Oda Nobuhiro"/>
-		<string id="Asdctfqh" text="Oda Nobukane"/>
-		<string id="7whQnMzi" text="Oda Hisa"/>
-		<string id="8BhkuRWC" text="Oda Nagamasu"/>
-		<string id="Jn0K7PNf" text="Oda Sei"/>
-		<string id="gqt0QIl5" text="Kinoshita Hideyoshi"/>
-		<string id="9zZwFuMM" text="Kinoshita Yaemon"/>
-		<string id="YCkbvrI5" text="Kinoshita Naka"/>
-		<string id="iu9a9wWD" text="Kinoshita Hidenaga"/>
-		<string id="nerTByza" text="Kinoshita Tae"/>
-		<string id="eBydZ8UR" text="Kinoshita Tomo"/>
-		<string id="LmtF2OEL" text="Kinoshita Yoshifusa"/>
-		<string id="78tz8gaC" text="Kinoshita Asahi"/>
-		<string id="TDa0KpyV" text="Kinoshita Yoshinari"/>
-		<string id="Z6OKK1nA" text="Shibata Katsuie"/>
-		<string id="v5MbvJJH" text="Shibata Sae"/>
-		<string id="VuO1uj5T" text="Shibata Katsusato"/>
-		<string id="6DNrUFap" text="Shibata Katsutada"/>
-		<string id="JmzS3yub" text="Shibata Katsumasa"/>
-		<string id="3tcSrSZS" text="Shibata Katsutoyo"/>
-		<string id="DEN7nvP0" text="Shibata Katsutoshi"/>
-		<string id="rV9fvZPM" text="Sakuma Nobumori"/>
-		<string id="zccColGo" text="Sakuma Tsutsuji"/>
-		<string id="1Auqkl29" text="Sakuma Nobuharu"/>
-		<string id="llqgj9e4" text="Sakuma Koushou-in"/>
-		<string id="9GlIn49d" text="Sakuma Nobuhide"/>
-		<string id="I0VAUSEq" text="Sakuma Nobutoki"/>
-		<string id="sc9FjP2E" text="Takigawa Kazumasu"/>
-		<string id="C67lGw7D" text="Takigawa Kano"/>
-		<string id="eYxUCzZl" text="Takigawa Kazutada"/>
-		<string id="iMc2zSg8" text="Takigawa Kazutoki"/>
-		<string id="Ey1d5pwc" text="Takigawa Kiku"/>
-		<string id="wCNIpIB4" text="Takigawa Sana"/>
-		<string id="WbWoS8l0" text="Kuki Yoshitaka"/>
-		<string id="RsCPH7VE" text="Kuki Nami"/>
-		<string id="rwB3k83J" text="Kuki Naritaka"/>
-		<string id="99ZeqWCB" text="Kuki Shima"/>
-		<string id="JTzieEQH" text="Kitabatake Tomonori"/>
-		<string id="cq8VOWkD" text="Kitabatake Matsu"/>
-		<string id="H2FsCrUJ" text="Kitabatake Harutomo"/>
-		<string id="f3DEuNXC" text="Kitabatake Kuni"/>
-		<string id="PtY5O0oR" text="Kitabatake Tomofusa"/>
-		<string id="wbEuy9q4" text="Kitabatake Tomofuji"/>
-		<string id="P1AgeXcD" text="Kitabatake Chikanari"/>
-		<string id="Q50kWDFW" text="Kitabatake Yuki"/>
-		<string id="xz7VtMCD" text="Kitabatake Tsuki"/>
-		<string id="dme8x5FX" text="Kitabatake Fumi"/>
-		<string id="XWDbAYjm" text="Kitabatake Tomomasa"/>
-		<string id="sPSLtwCr" text="Kitabatake Ten"/>
-		<string id="B4oQXBYc" text="Kitabatake Nagamasa"/>
-		<string id="KvnteUqO" text="Kitabatake Tomochika"/>
-		<string id="XTnJEsYW" text="Itou Yoshisuke"/>
-		<string id="Zo5RCGJQ" text="Itou Asa"/>
-		<string id="4atnqu27" text="Itou Takashiro"/>
-		<string id="uihfZdNy" text="Itou Aso"/>
-		<string id="zc3RATLY" text="Itou Yoshimasu"/>
-		<string id="bi2KysQW" text="Itou Houjyo"/>
-		<string id="lVI3T9fG" text="Itou Machigami"/>
-		<string id="85Bsa0wA" text="Itou Suketaka"/>
-		<string id="2CvJRlY1" text="Mera Suketsugu"/>
-		<string id="ioFUZ0oL" text="Mera Natsugiku"/>
-		<string id="peaJoNOB" text="Mera Sigekata"/>
-		<string id="rOnLD0w7" text="Mera Hana"/>
-		<string id="Zyip3QcN" text="Mera Sukemichi"/>
-		<string id="Uf3QK6ng" text="Mera Yume"/>
-		<string id="ZtJyjDvr" text="Mera Namomi"/>
-		<string id="IGRDYaLn" text="Nagakura Sukemasa"/>
-		<string id="kxPhkWeY" text="Nagakura Asa"/>
-		<string id="a0POjhcf" text="Nagakura Dōunsai"/>
-		<string id="zE5EwPDa" text="Nagakura Suketoshi"/>
-		<string id="4EowmW3n" text="Nagakura Hisame"/>
-		<string id="5eZfB982" text="Sagara Yoshihi"/>
-		<string id="qLcsYHM7" text="Sagara Chiyogiku"/>
-		<string id="HAtmAA4A" text="Sagara Koari"/>
-		<string id="5GMpq6XY" text="Sagara Chiari"/>
-		<string id="NutJCPcj" text="Sagara Kikuchiyo"/>
-		<string id="NWi3RA0H" text="Sagara Yorisada"/>
-		<string id="dvyfGKTU" text="Sagara Hotaru"/>
-		<string id="bbvlOOs5" text="Sagara Umigiri"/>
-		<string id="YNU67geV" text="Sagara Haruhiro"/>
-		<string id="916pH86X" text="Sagara Uchijou"/>
-		<string id="dKC0bSr2" text="Indou Yoriyasu"/>
-		<string id="0K6M8tdY" text="Indou Myoukei-ni"/>
-		<string id="EmtnyFBl" text="Indou Yorimori"/>
-		<string id="MSsRSBtV" text="Indou Yusura"/>
-		<string id="nnG2BZn7" text="Amakusa Shigenao"/>
-		<string id="L9k5QuOT" text="Amakusa Chidori"/>
-		<string id="16V5w91f" text="Amakusa Hisatane"/>
-		<string id="MF8e93EW" text="Amakusa Hisatake"/>
-		<string id="3kwAqpNa" text="Amakusa Tsudura"/>
-		<string id="57TkTUlx" text="Amakusa Tanemoto"/>
-		<string id="Knylet1a" text="Ōtomo Sourin"/>
-		<string id="UIKx01xx" text="Ōtomo Lady Nata"/>
-		<string id="7sbPoa0a" text="Ōtomo Yoshimune"/>
-		<string id="a5rohL3A" text="Ōtomo Chikaie"/>
-		<string id="acpnamQM" text="Ōtomo Chikamori"/>
-		<string id="HgdZp0Wl" text="Ōtomo Emi"/>
-		<string id="5HotxjQe" text="Ōtomo Yuri"/>
-		<string id="svKW968A" text="Ōtomo Chikasada"/>
-		<string id="TzTHrzds" text="Ōtomo Yoshiaki"/>
-		<string id="z3dbPelZ" text="Ōtomo Boujou"/>
-		<string id="k92lOXHJ" text="Kī Shigefusa"/>
-		<string id="teYikAqn" text="Kī Yohira"/>
-		<string id="SqbUj7yq" text="Kī Tomofusa"/>
-		<string id="bS8yxN7k" text="Kī Masafusa"/>
-		<string id="iIKYURwu" text="Kī Sukefusa"/>
-		<string id="QhQNpW8c" text="Kī Nagafusa"/>
-		<string id="vTJsC4OH" text="Kī Aogiri"/>
-		<string id="ccbI0eaO" text="Kamachi Akimori"/>
-		<string id="l20Tre0E" text="Kamachi Otsutsuru"/>
-		<string id="mZZiN58r" text="Kamachi Shigehisa"/>
-		<string id="4UMLD8VG" text="Kamachi Shigenami"/>
-		<string id="BQpT7Ot2" text="Kamachi Tamatsuru"/>
-		<string id="PhtIj0GH" text="Kamachi Muneyasu"/>
-		<string id="NkAfByDU" text="Bekki Akitsura"/>
-		<string id="c5eoivff" text="Bekki Hatsu"/>
-		<string id="ovVdGXOn" text="Bekki Ginchiyo"/>
-		<string id="ZlHul9Zt" text="Bekki Shigetsura"/>
-		<string id="HQk5m5lx" text="Bekki Chikayuki"/>
-		<string id="b9gzn2hY" text="Bekki Akikata"/>
-		<string id="lKbRz6eD" text="Yoshihiro Akitada"/>
-		<string id="0Y43uQrL" text="Yoshihiro Sekkoku-in"/>
-		<string id="Sj68FhWp" text="Yoshihiro Shigenobu"/>
-		<string id="NkhLWVag" text="yoshihiro Toki"/>
-		<string id="lpweWPGd" text="Yoshihiro Muneyuki"/>
-		<string id="LeuCYp9y" text="Yoshihiro Munekazu"/>
-		<string id="dmMvttf2" text="Yoshihiro Munesada"/>
-		<string id="m19CQd6x" text="Yoshihiro Kanoko"/>
-		<string id="1yDEuokr" text="Yoshihiro Yamayuri"/>
-		<string id="E46uMtvl" text="Takahashi Shigetada"/>
-		<string id="ILKZCqYF" text="takahashi Kaname"/>
-		<string id="2GaQofVb" text="Takahashi Munetora"/>
-		<string id="uBCOrdQV" text="Takahashi Kai"/>
-		<string id="Z2GCOUtm" text="Takahashi Ochiyo"/>
-		<string id="x6R93cIi" text="Takahashi Kaya"/>
-		<string id="NYlbLufq" text="Aso Koremasa"/>
-		<string id="fo7AmZvZ" text="Aso Hinageshi"/>
-		<string id="VwVczw6S" text="Aso Koretane"/>
-		<string id="LRFeUoJn" text="Aso Azami"/>
-		<string id="9rmhZ9SX" text="Kai Souun"/>
-		<string id="0YMRJmlt" text="Kai Oume"/>
-		<string id="AwDyF3fr" text="Kai Chikahide"/>
-		<string id="0dn4iBEk" text="Kai Chikamasa"/>
-		<string id="1erzaD8X" text="Kai Nobunari"/>
-		<string id="nCvG3JeX" text="Nawa Yukinao"/>
-		<string id="ZQpSL7UA" text="Nawa Anzu"/>
-		<string id="SQP2yZeu" text="Nawa Akitaka"/>
-		<string id="KrF8FmSs" text="Nawa Akiteru"/>
-		<string id="1btPFqMR" text="Nawa Yukiyoshi"/>
-		<string id="XoV0TPFq" text="Nishi Koremitsu"/>
-		<string id="saxrxGki" text="Nishi Koma"/>
-		<string id="7eurlUtR" text="Nishi Koreharu"/>
-		<string id="SRSldKIW" text="Nishi Uta"/>
-		<string id="4ZWfBLHb" text="Nishi Korenobu"/>
-		<string id="jpK0zLw5" text="Nishi Korehide"/>
-		<string id="cCBVwKSj" text="Nishi Seki"/>
-		<string id="lNlmN4wG" text="Takezaki Koremitsu"/>
-		<string id="85PKWhYi" text="Takezaki Sawa"/>
-		<string id="ahYt1SDs" text="Takezaki Nagahide"/>
-		<string id="GA5dFkPJ" text="Takezaki Tama"/>
-		<string id="q4kHT4nt" text="Takezaki Tsuki"/>
-		<string id="EALX2wiH" text="Arima Yoshisada"/>
-		<string id="Zf2ThTMe" text="Arima Utsugi"/>
-		<string id="bqlAf3Ep" text="Arima Yoshizumi"/>
-		<string id="8KGtAWLM" text="Arima Kanoko"/>
-		<string id="P5bd2ucF" text="Arima Yuri"/>
-		<string id="B67b5TXq" text="Arima Chikashi"/>
-		<string id="HbzP5AAB" text="Arima Harunobu"/>
-		<string id="DrxNkMPh" text="Omura Sumitada"/>
-		<string id="adfnCVYV" text="Omura Oen"/>
-		<string id="i2ihnVmH" text="Omura Yoshiaki"/>
-		<string id="38sUEkUk" text="Omura Yuugao"/>
-		<string id="Y7RBrR1o" text="Omura Shirasame"/>
-		<string id="hPnLYYJO" text="Yasutomi Suminao"/>
-		<string id="UxSkwZcc" text="Yasutomi Fuse"/>
-		<string id="iqiu9axQ" text="Yasutomi Sumiharu"/>
-		<string id="M9fL4iOG" text="Yasutomi Kesa"/>
-		<string id="S9l95YBY" text="Yasutomi Sumiyasu"/>
-		<string id="4hhMmQZv" text="Yasutomi Sumitoshi"/>
-		<string id="gP7qZ1sx" text="Yasutomi Fuku"/>
-		<string id="xzrz8EdV" text="Yasutomi Sumioki"/>
-		<string id="0u4eOAjF" text="Yasutomi Yumi"/>
-		<string id="99cmIBLl" text="Fukuda Tadakane"/>
-		<string id="IqQ6wbYX" text="Fukuda Momo"/>
-		<string id="3DxSAP5P" text="Fukuda Kanetsugu"/>
-		<string id="m9ddTE2d" text="Fukuda Chise"/>
-		<string id="wq7KfqBC" text="Fukuda Kanechika"/>
-		<string id="USrCyCPN" text="Fukuda Koshi"/>
-		<string id="EJFqZ0Re" text="Ryūzouji Takanobu"/>
-		<string id="TVY3ysQM" text="Ryūzouji Chikaie"/>
-		<string id="pKRWlHY2" text="Ryūzouji Keigin-ni"/>
-		<string id="GJikOBTs" text="Ryūzouji Aoi"/>
-		<string id="IunQmBW8" text="Ryūzouji Masaie"/>
-		<string id="BpNWO1VW" text="Ryūzouji Ietane"/>
-		<string id="sLjMUtzo" text="Ryūzouji Ienobu"/>
-		<string id="afjOzd7v" text="Ryūzouji Tamatsuru"/>
-		<string id="dJrycT5U" text="Ryūzouji Yasu"/>
-		<string id="Bun8uTcC" text="Ryūzouji Nobukane"/>
-		<string id="QoJqPtiQ" text="Ryūzouji Shinobu"/>
-		<string id="1U8b3UIP" text="Ryūzouji Nobuaki"/>
-		<string id="tITu2Ofm" text="Ryūzouji Naganobu"/>
-		<string id="jmFzBD6r" text="Ryūzouji Satsuki"/>
-		<string id="oKY3txxT" text="Ryūzouji Yasutoshi"/>
-		<string id="uPz1Xvdn" text="Ryūzouji Kikyou"/>
-		<string id="UOIYnsPP" text="Ryūzouji Shinkou-in"/>
-		<string id="IuaPQ3Jf" text="Matsuura Takanobu"/>
-		<string id="8SJ7vUnX" text="Matsuura Suiran"/>
-		<string id="5vMME1MH" text="Matsuura Shigenobu"/>
-		<string id="MRn4lWn1" text="Matsuura Shī"/>
-		<string id="ZjiY3efx" text="Matsuura Koreaki"/>
-		<string id="XUnjjMXE" text="Matsuura Chikashi"/>
-		<string id="GVedNuqp" text="Matsuura Kanoko"/>
-		<string id="SNVHLgax" text="Matsuura Ayame"/>
-		<string id="25ZutWwE" text="Nabeshima Kiyofusa"/>
-		<string id="3WB4WKAb" text="Nabeshima Kakei"/>
-		<string id="v3bb1Q5X" text="Nabeshima Nobufusa"/>
-		<string id="Jnx18tIy" text="Nabeshima Naoshige"/>
-		<string id="0YuKB1a0" text="Nabeshima Hikotsuru"/>
-		<string id="vHYZgp4m" text="Nabeshima Kiyoyasu"/>
-		<string id="glmLovBF" text="Nabeshima Iwagi"/>
-		<string id="aBevKeGx" text="Saigou Sumitaka"/>
-		<string id="MLD6QUoN" text="Saigou Sada"/>
-		<string id="0WWMrnLV" text="Saigou Mayumi"/>
-		<string id="Duy1yvLw" text="Saigou Nobunao"/>
-		<string id="VhUaonxW" text="Saigou Sumimasa"/>
-		<string id="LfZC8oxt" text="Kumabe Chikaie"/>
-		<string id="YazRHukF" text="Kumabe Inasa"/>
-		<string id="PJm0OEPx" text="Kumabe Chikanaga"/>
-		<string id="Xup6gETO" text="Kumabe Yamase"/>
-		<string id="vAL4CzPc" text="Kumabe Chikayasu"/>
-		<string id="Vz6OtTyq" text="Kumabe Shigefusa"/>
-		<string id="XbjCzJTi" text="Kumabe Kiku"/>
-		<string id="W3XjwTmf" text="Kumabe Chikafusa"/>
-		<string id="aACMcMnP" text="Kumabe Akafuji"/>
-		<string id="7s4dxFt3" text="Shimazu Yoshihisa"/>
-		<string id="gv3wrMe3" text="Shimazu Enshin-inden"/>
-		<string id="czGM0U4X" text="Shimazu Ōhira"/>
-		<string id="yquLAovd" text="Shimazu Shinjo"/>
-		<string id="p9NeUjUw" text="Shimazu Yoshihiro"/>
-		<string id="8fj2kDNi" text="Shimazu Kochou"/>
-		<string id="vI3iTRAa" text="Shimazu Yachi"/>
-		<string id="PRLxNKTC" text="Shimazu Toshihisa"/>
-		<string id="BgW75GXX" text="Shimazu Lady Ume"/>
-		<string id="bCEeQkkF" text="Shimazu Iehisa"/>
-		<string id="LvRRedWW" text="Shimazu Nagi"/>
-		<string id="X2sLljXc" text="Shimazu Takahisa"/>
-		<string id="hShr91A7" text="Shimazu Lady Sessou"/>
-		<string id="UdtsY26m" text="Ijūin Tadaao"/>
-		<string id="a5ytpM6f" text="Ijūin Shizuku"/>
-		<string id="gJxQjIhn" text="Ijūin Tadamune"/>
-		<string id="60Aeo2HK" text="Ijūin Kusafuji"/>
-		<string id="t99JjHho" text="Ijūin Harunari"/>
-		<string id="YiDzP43I" text="Ijūin Tadatane"/>
-		<string id="ltdCwtlK" text="Ijūin Hikari"/>
-		<string id="CtPTpklz" text="Ijūin Hisanobu"/>
-		<string id="0PAYYOYo" text="Ijūin Sasayuri"/>
-		<string id="xTIL6Lf0" text="Ijūin Tadaaki"/>
-		<string id="j5q1b0ZO" text="Ijūin Murasaki"/>
-		<string id="a7Bus3qz" text="Hongou Tokihisa"/>
-		<string id="YBDz0cMr" text="Hongou Hijiri"/>
-		<string id="SpjpkISo" text="Hongou Sukehisa"/>
-		<string id="jp7XzhCN" text="Hongou Tadatora"/>
-		<string id="9j0CtAEy" text="Hongou Tadachika"/>
-		<string id="Fm7HitzI" text="Hongou Hasu"/>
-		<string id="J1KrYoB2" text="Kimotsuki Yoshikane"/>
-		<string id="blCzYNBm" text="Kimotsuki Takashiro"/>
-		<string id="xk81zGz1" text="Kimotsuki Kanemiki"/>
-		<string id="Ywbdn3tH" text="Kimotsuki Izumi"/>
-		<string id="Z7OeNcGK" text="Kimotsuki Kanesuke"/>
-		<string id="N5VldQQt" text="Kimotsuki Kanemori"/>
-		<string id="aUgD8yWg" text="Kimotsuki Kanetsugu"/>
-		<string id="A8Iz9ZZT" text="Kimotsuki Onan"/>
-		<string id="qyCDkM5m" text="Tanegashima Tokitaka"/>
-		<string id="QF3JI70b" text="Tanegashima Nishi"/>
-		<string id="zy3vzsD2" text="Tanegashima Hisatoki"/>
-		<string id="V9EPyj3M" text="Tanegashima Nippou"/>
-		<string id="XCSdjqll" text="Tanegashima Suiren"/>
-		<string id="L1wnB6pW" text="Kawakami Hisazumi"/>
-		<string id="92pspLlK" text="Kawakami Hisatoshi"/>
-		<string id="qb7Z1U5h" text="Kawakami Hisamichi"/>
-		<string id="QeuaL3cf" text="Kawakami Tsuta"/>
-		<string id="V6jIFhcG" text="Kawakami Tadakatsu"/>
-		<string id="TLxsl5iX" text="Kawakami Mina"/>
-		<string id="k3CpNDG5" text="Kawakami Hisaaki"/>
-		<string id="eCNnvQM4" text="Kawakami Ai"/>
-		<string id="ODtiTkOv" text="Kawakami Hisatoki"/>
-		<string id="CaWfkO0p" text="Kawakami Yoshi"/>
-		<string id="Ht8hAJcl" text="Kawakami Tadatomo"/>
-		<string id="emI5NXQu" text="Kawakami Yae"/>
-		<string id="Ax7ZFxHb" text="Kawakami Tadakata"/>
-		<string id="fexWXUPu" text="Kawakami Tadae"/>
-		<string id="HjyxWWhy" text="Kawakami Hisatomo"/>
-		<string id="u6vPOWe7" text="Kawakami Sachi"/>
-		<string id="KhqU55r0" text="Uwai Kunikane"/>
-		<string id="3vLKX0xu" text="Uwai Matsu"/>
-		<string id="JMd4a3AO" text="Uwai Kakuken"/>
-		<string id="5iU3TdnF" text="Uwai Tomi"/>
-		<string id="Otv143ry" text="Uwai Tsunekane"/>
-		<string id="ELhVncx1" text="Uwai Hideaki"/>
-		<string id="o1LMD9ny" text="Uwai Ise"/>
-		<string id="vXMcTPtw" text="Uwai Satokane"/>
-		<string id="tb6JqqiB" text="Uwai Shige"/>
-		<string id="yU00LUuA" text="Uwai Aki"/>
-		<string id="dcCPC5JH" text="Nīro Tadamoto"/>
-		<string id="uOiEhWdc" text="Nīro Shima"/>
-		<string id="VHFYSwnu" text="Nīro Tadaaki"/>
-		<string id="we21zLIb" text="Nīro Tadamasu"/>
-		<string id="8SPgT8lv" text="Nīro Kaya"/>
-		<string id="JhlzLqNk" text="Nīro Yasuhisa"/>
-		<string id="B8yOZDB1" text="Nīro Sue"/>
-		<string id="wqENKt24" text="Nīro Hisaatsu"/>
-		<string id="NkRdYQ2Z" text="Nīro Tadahide"/>
-		<string id="bMfqWjqk" text="Saionji Kinhiro"/>
-		<string id="g5pzHuFm" text="Saionji Nishi"/>
-		<string id="kHOJ0Awe" text="Saionji Nobuhisa"/>
-		<string id="Jb6FawOB" text="Saionji Hisa"/>
-		<string id="gTFSsjbm" text="Saionji Kinnobu"/>
-		<string id="qwJbUUQV" text="Saionji Seikou-in"/>
-		<string id="RzWxJC41" text="Kajūji Motoaki"/>
-		<string id="vT8u3noP" text="Kajūji Fuki"/>
-		<string id="GZEDDxOG" text="Kajūji Motonori"/>
-		<string id="KDfcebZ7" text="Kajūji Sayuri"/>
-		<string id="gSncZATa" text="Hoketsu Norinobu"/>
-		<string id="GCLn5ECy" text="Hoketsu Hama"/>
-		<string id="UgnuLgbA" text="Hoketsu Sakinobu"/>
-		<string id="51dM4xsA" text="Hoketsu Kuwa"/>
-		<string id="l9dNB33O" text="Ichijou Kanesada"/>
-		<string id="vZK6RwNC" text="Ichijou Tamafuji"/>
-		<string id="aa7k9lsZ" text="Ichijou Tadamasa"/>
-		<string id="FH6ohwg7" text="Ichijou Nobuko"/>
-		<string id="84OJJiZg" text="Ichijou Mariko"/>
-		<string id="j6oilqBS" text="Doi Kiyoyoshi"/>
-		<string id="R9UQCnuM" text="Doi Mugi"/>
-		<string id="NrJRgRfz" text="Doi Shigekiyo"/>
-		<string id="PGjI36Ae" text="Doi Souzan"/>
-		<string id="pvhvN7QV" text="Aki Kunitora"/>
-		<string id="rHKVyyVc" text="Aki Nishi"/>
-		<string id="kCyapaMi" text="Aki Hirotsune"/>
-		<string id="qsvolxnV" text="Aki Ietomo"/>
-		<string id="qnY9HZY8" text="Tsuno Sadakatsu"/>
-		<string id="q7dRw8dj" text="Tsuno Sumi"/>
-		<string id="Pi1K6Dyu" text="Tsuno Katsuoki"/>
-		<string id="Q5L1Tq9A" text="Tsuno Tomo"/>
-		<string id="EFVk0L5h" text="Chousokabe Motochika"/>
-		<string id="6CK8HDZR" text="Chousokabe Amane"/>
-		<string id="s6nTS5jf" text="Chousokabe Nobuchika"/>
-		<string id="OdLEdQd3" text="Chousokabe Chikakazu"/>
-		<string id="JVEOWyAi" text="Chousokabe Suzu"/>
-		<string id="MgtskN05" text="Chousokabe Honoka"/>
-		<string id="ufdDL1IS" text="Chousokabe Ako"/>
-		<string id="U9RsqAwX" text="Kousokabe Chikayasu"/>
-		<string id="RySY5fQu" text="Kousokabe Yuzuha"/>
-		<string id="hvyaWDgX" text="Kira Chikasada"/>
-		<string id="DeCbQeHC" text="Kira Yumi"/>
-		<string id="1YCmAvvP" text="Kira Chikazane"/>
-		<string id="FXZNXucw" text="Kira Joen"/>
-		<string id="zcC4TL48" text="Kira Chikamasa"/>
-		<string id="pGrd03pI" text="Hisatake Chikanobu"/>
-		<string id="kKdyVFsm" text="Hisatake En"/>
-		<string id="Uk8wWxBw" text="Hisatake Shougen"/>
-		<string id="gswXQDd7" text="Hisatake Mugi"/>
-		<string id="KwL2BhJu" text="Hisatake Chikanao"/>
-		<string id="NMjVGI7u" text="Hisatake Taka"/>
-		<string id="m3YajwyO" text="Yoshida Shigetoshi"/>
-		<string id="uht0Icck" text="Yoshida Hisa"/>
-		<string id="YK0QNAGY" text="Yoshida Norihiro"/>
-		<string id="uuCL0VJy" text="Yoshida Chiku"/>
-		<string id="1OhuHuRD" text="Yoshida Shigeyasu"/>
-		<string id="pOfNSi6V" text="Yoshida Naka"/>
-		<string id="UYASRxJw" text="Yoshida Takatoshi"/>
-		<string id="hhYUOKRh" text="Yoshida Takayori"/>
-		<string id="ic0O247n" text="Yoshida Sen"/>
-		<string id="HAaOI8lO" text="Yoshida Sadashige"/>
-		<string id="CLvsoPtJ" text="Yoshida Kinu"/>
-		<string id="KyUYLo0G" text="Yoshida Chikashige"/>
-		<string id="mfPg78eX" text="Yoshida Toku"/>
-		<string id="HVP1iekL" text="Fukudome Yoshishige"/>
-		<string id="g2mr3QCM" text="Fukudome Chikamasa"/>
-		<string id="Hlkt9zR1" text="Fukudome Ume"/>
-		<string id="Mxr5FYoa" text="Miyoshi Yoshitsugu"/>
-		<string id="6gzf2OX9" text="Miyoshi Azusa"/>
-		<string id="JLomyVbr" text="Miyoshi Yoshikane"/>
-		<string id="75JZYLpa" text="Miyoshi Yoshishige"/>
-		<string id="NPrwtYts" text="Miyoshi Tsuru"/>
-		<string id="2AJOuAzz" text="Miyoshi Nagayoshi"/>
-		<string id="diWjBHKp" text="Miyoshi Syoukou-in"/>
-		<string id="uu3PRYD5" text="Sogou Masayasu"/>
-		<string id="HxfQ7WNA" text="Sogou Satsuki"/>
-		<string id="GLB0eZon" text="Sogou Masayuki"/>
-		<string id="nKh0IYa0" text="Sogou Mayu"/>
-		<string id="dBBf1wOB" text="Sogou Kazuyuki"/>
-		<string id="GiqQGwGA" text="Sogou Yamagiri"/>
-		<string id="4jgyfZ85" text="Sogou Kazumasa"/>
-		<string id="4MZmJxE6" text="Sogou Komyo-in"/>
-		<string id="cjm2q36D" text="Shingai Douzen"/>
-		<string id="0vFKvTmm" text="Shingai Yachiyo"/>
-		<string id="2yPLLgtG" text="Shingai Sanenari"/>
-		<string id="cOejVaQ2" text="Shingai Botan"/>
-		<string id="zQfWhCEH" text="Shingai Renge"/>
-		<string id="CjIwIpNQ" text="Shingai Ukon"/>
-		<string id="0D5ublc2" text="Shingai Kaneyasu"/>
-		<string id="Z7HNxyjm" text="Shingai Katashiro"/>
-		<string id="vktgsLcf" text="Ōnishi Yoritake"/>
-		<string id="wseAsdnA" text="Ōnishi Amaki"/>
-		<string id="7RyhvBYR" text="Ōnishi Shigemoto"/>
-		<string id="OBe36Dgm" text="Ōnishi Haruka"/>
-		<string id="s4GK3ysW" text="Ōnishi Yoriharu"/>
-		<string id="chCyXnc8" text="Ōnishi Tochi"/>
-		<string id="JJbwQ3jB" text="Ōnishi Yorikane"/>
-		<string id="EqsKtTd5" text="Ōnishi Yorinobu"/>
-		<string id="tzDZ2CnQ" text="Ōnishi Mototake"/>
-		<string id="L0lMoM6a" text="Ōnishi Suzuran"/>
-		<string id="WbfzMksA" text="Ōnishi Sadatake"/>
-		<string id="mH1Ruh1j" text="Ōnishi Hamagiku"/>
-		<string id="LACOAPLK" text="Ōnishi Mototaka"/>
-		<string id="MVfwFwvD" text="Ōnishi Keizen-in"/>
-		<string id="khx3Vgh8" text="Ashina Morioki"/>
-		<string id="mzCn8ZC7" text="Ashina Hiko"/>
-		<string id="sdzqsV1G" text="Ashina Moriuji"/>
-		<string id="liJQwhE3" text="Ashina Yae"/>
-		<string id="QkJaEi3K" text="Ashina Yuzu"/>
-		<string id="YwGkSfbK" text="Inawashiro Morikuni"/>
-		<string id="kDG4hH19" text="Inawashiro Matsu"/>
-		<string id="7iNle8U9" text="Inawashiro Moritane"/>
-		<string id="scnJL5kL" text="Inawashiro Munekuni"/>
-		<string id="9wTMtQuw" text="Inawashiro Moriaki"/>
-		<string id="uSZ3ktlG" text="Saze Tanetsune"/>
-		<string id="eKVl7rFn" text="Saze Ai"/>
-		<string id="E8H6JIrN" text="Saze Tsunenori"/>
-		<string id="4Wvo7FV1" text="Saze Tose"/>
-		<string id="Cu1xPRNB" text="Saze Morimitsu"/>
-		<string id="IWEJ4mrY" text="Saze Kine"/>
-		<string id="kJATuUtQ" text="Saze Tsunehide"/>
-		<string id="PBI1pb9J" text="Matsumoto Ujisuke"/>
-		<string id="VtEfOh9T" text="Matsumoto Hama"/>
-		<string id="wnmhSjVG" text="Matsumoto Yukisuke"/>
-		<string id="9WmlolIC" text="Nikaidou Moriyoshi"/>
-		<string id="foAJh4Aw" text="Nikaidou Onami"/>
-		<string id="4gtrnix8" text="Nikaidou Moritaka"/>
-		<string id="CrgYCr35" text="Souma Moritane"/>
-		<string id="ppxVSFKS" text="Souma Kake"/>
-		<string id="CkTKok6g" text="Souma Yoshitane"/>
-		<string id="bI1XmCI8" text="Souma Takatane"/>
-		<string id="YwuGBeax" text="Souma Satotane"/>
-		<string id="nci1JssK" text="Souma Haru"/>
-		<string id="BGJzNDaJ" text="Nihonmatsu Yoshikuni"/>
-		<string id="1NJGIP9x" text="Nihonmatsu Aki"/>
-		<string id="4zIz7SLR" text="Nihonmatsu Yoshitsugu"/>
-		<string id="nlu9kbj8" text="Tamura Takaaki"/>
-		<string id="aZssFvBr" text="Tamura Kake"/>
-		<string id="sxbLtOpV" text="Tamura Kiyoaki"/>
-		<string id="DuxfRUZv" text="Tamura Mego"/>
-		<string id="oEJsVsvL" text="Tamura Ujiaki"/>
-		<string id="AabIiWIA" text="Okada Shigetane"/>
-		<string id="o5Zq7Oek" text="Okada Kai"/>
-		<string id="MCup3o6i" text="Okada Yoshitane"/>
-		<string id="yi11OrT2" text="Okada Myoukei-in"/>
-		<string id="nMadfoql" text="Okada Naotane"/>
-		<string id="fELklkpF" text="Okada Tanekage"/>
-		<string id="AhCQLCtb" text="Okada Kiyotane"/>
-		<string id="nLNPP20E" text="Okada Tanetsura"/>
-		<string id="UVX0OxFg" text="Okada Ise"/>
-		<string id="EB3nmSxp" text="Okada Tanenobu"/>
-		<string id="PIfaqh7Q" text="Okada Tanekane"/>
-		<string id="3Pn5oEfx" text="Date Terumune"/>
-		<string id="EDAnoqXI" text="Date Yoshi"/>
-		<string id="KAHCFSfY" text="Date Harumune"/>
-		<string id="0JKuKUGj" text="Date Kubo"/>
-		<string id="23ZArAMO" text="Date Tanemune"/>
-		<string id="BX6Yp0vZ" text="Date Taishin-in"/>
-		<string id="5UBPnUHd" text="Date Masamune"/>
-		<string id="HgsPH3W5" text="Date Sanemoto"/>
-		<string id="TGJrgoXP" text="Date Kyousei-in"/>
-		<string id="5uYt8kLx" text="Date Shigezane"/>
-		<string id="ROpC8P2s" text="Katakura Shigetsugu"/>
-		<string id="w4XrKYdu" text="Katakura Kageshige"/>
-		<string id="MlE07cvv" text="Katakura Naoko"/>
-		<string id="xNmZREFs" text="Katakura Kita"/>
-		<string id="5M0NN2yN" text="Katakura Kagetsuna"/>
-		<string id="faonKywA" text="Oniniwa Yoshinao"/>
-		<string id="G8NxnJE5" text="Oniniwa Taki"/>
-		<string id="C9MEAEGI" text="Oniniwa Tsunamoto"/>
-		<string id="tLDDSJ4h" text="Oniniwa Sagami"/>
-		<string id="6syqEkxm" text="Oniniwa Yasumoto"/>
-		<string id="3fLCijjk" text="Watari Motomune"/>
-		<string id="ASQ0gZto" text="Watari Gekkou-in"/>
-		<string id="JZFYlzYb" text="Watari Shigemune"/>
-		<string id="chvnuxQs" text="Watari Yui"/>
-		<string id="1dDTpLSL" text="Ōsaki Yoshitaka"/>
-		<string id="hFIaafxw" text="Ōsaki Yoshinao"/>
-		<string id="yKztqf7Y" text="Ōsaki Tani"/>
-		<string id="PdMyVeC2" text="Ōsaki Toshiyo"/>
-		<string id="GfI6uQA0" text="Kasai Harunobu"/>
-		<string id="V03JK8Wj" text="Kasai Toku"/>
-		<string id="4enjcrq2" text="Kasai Kiyotaka"/>
-		<string id="uLgRyxxy" text="Kasai Nobuhide"/>
-		<string id="qyv1DVLK" text="Iwaki Chikataka"/>
-		<string id="zS1xCtvl" text="Iwaki Keiju-in"/>
-		<string id="A91ldYIn" text="Iwaki Shigetaka"/>
-		<string id="OMoDuAqu" text="Iwaki Jomei-in"/>
-		<string id="uGlEqEJX" text="Iwaki Tsunetaka"/>
-		<string id="NpV12vkH" text="Iwaki Takatoki"/>
-		<string id="rg6sw1Q9" text="Iwaki Keiju-in"/>
-		<string id="JkZOorvD" text="Iwaki Takamune"/>
-		<string id="uxzJmlwA" text="Iwaki Tora"/>
-		<string id="2vUBdY6S" text="Rusu Masakage"/>
-		<string id="bs10mHWo" text="Rusu Akimune"/>
-		<string id="qLjgsdLd" text="Rusu Haru"/>
-		<string id="BabGjggN" text="Mogami Yoshimori"/>
-		<string id="hxOrAtOY" text="Mogami Renshin-in"/>
-		<string id="EtRVL3Xg" text="Mogami Yoshiaki"/>
-		<string id="4GWpCzJZ" text="Mogami Toshiyo"/>
-		<string id="AgF95oLC" text="Mogami Yoshitoki"/>
-		<string id="XWlzkdNm" text="Mogami Mitsunao"/>
-		<string id="PHvwg0Xu" text="Tendou Yorisada"/>
-		<string id="PF8gDLpE" text="Tendou Kikyou"/>
-		<string id="JjgMoz43" text="Tendou Kaede"/>
-		<string id="9ipPC2rK" text="Tendou Yorizumi"/>
-		<string id="dUHmrYee" text="Tendou Yorikage"/>
-		<string id="6AupeJ2N" text="Ujiie Morimune"/>
-		<string id="tY6vS3gw" text="Ujiie Satsuki"/>
-		<string id="KqISOYEY" text="Ujiie Akimune"/>
-		<string id="ZbVonqWL" text="Nobesawa Mitsunobu"/>
-		<string id="D0DDSMQY" text="Nobesawa Yone"/>
-		<string id="gyhJohjp" text="Nobesawa Mitsuaki"/>
-		<string id="mWkIbjPO" text="Tateoka Yoshikuni"/>
-		<string id="Txz2u8Oq" text="Tateoka Ama"/>
-		<string id="a2OoRcJh" text="Tateoka Mitsushige"/>
-		<string id="vktTGyQq" text="Tateoka Mitsuhiro"/>
-		<string id="XUP0oREf" text="Daihouji Yoshimasu"/>
-		<string id="jg1L0wFo" text="Daihouji One"/>
-		<string id="p4t1iXm5" text="Daihouji Yoshiuji"/>
-		<string id="8hFeGd0I" text="Daihouji Yumi"/>
-		<string id="RhHRQkPQ" text="Daihouji Yoshioki"/>
-		<string id="M12NsVpR" text="Onodera Kagemichi"/>
-		<string id="WkEGfvdg" text="Onodera Sen"/>
-		<string id="62tdkvpy" text="Onodera Mitsumichi"/>
-		<string id="VgE08XCk" text="Onodera Yoshimichi"/>
-		<string id="MjQRacs8" text="Onodera Yasumichi"/>
-		<string id="cYZFWbZM" text="Sakenobe Sadatsuna"/>
-		<string id="FEk7Sghh" text="Sakenobe Hana"/>
-		<string id="QiAwLSXY" text="Sakenobe Hidetsuna"/>
-		<string id="WlbkIU1a" text="Nikaho Kiyohisa"/>
-		<string id="NvZMn1nx" text="Nikaho Hagi"/>
-		<string id="9NoCTl9V" text="Nikaho Kiyonaga"/>
-		<string id="6VMRRxMG" text="Nikaho Take"/>
-		<string id="bxPIgkEG" text="Nikaho Shigekiyo"/>
-		<string id="EI4GudVP" text="Nikaho Haru"/>
-		<string id="l1FlQE5M" text="Nikaho Chiyo"/>
-		<string id="bLbHwsOu" text="Andou Chikasue"/>
-		<string id="2lCIr4Yo" text="Andou Ume"/>
-		<string id="V0yNJaSo" text="Andou Kiyosue"/>
-		<string id="KLD5OGKr" text="Andou Mitsu"/>
-		<string id="Nn83RWCj" text="Andou Narisue"/>
-		<string id="CuZoMuTC" text="Andou Shigesue"/>
-		<string id="MnxZWCfr" text="Andou Fusa"/>
-		<string id="UP1GXVUv" text="Andou Michisue"/>
-		<string id="ghllwrCJ" text="Asari Katsuyori"/>
-		<string id="PZT6X6Nv" text="Asari Mina"/>
-		<string id="EhjiWov4" text="Asari Yorihira"/>
-		<string id="J4YAWqUc" text="Asari Yorihirio"/>
-		<string id="Y4g7oumw" text="Kakizaki Suehiro"/>
-		<string id="AfDpOut5" text="Kakizaki Awa"/>
-		<string id="iLroIUcH" text="Kakizaki Yoshihiro"/>
-		<string id="hStRHmEI" text="Kakizaki Mai"/>
-		<string id="GsSSWLlB" text="Kakizaki Sadahiro"/>
-		<string id="NYdIhl32" text="Kakizaki Nakahiro"/>
-		<string id="xxpsHzns" text="Kakizaki Morihiro"/>
-		<string id="5cfM2Wsd" text="Kakizaki Sen"/>
-		<string id="xzgrBlXk" text="Kakizaki Kou"/>
-		<string id="kmuEpByR" text="Tozawa Michimori"/>
-		<string id="ZPBJZyhY" text="Tozawa Kiku"/>
-		<string id="97vWqS1S" text="Tozawa Morishige"/>
-		<string id="tePWyu1J" text="Tozawa Moriyasu"/>
-		<string id="qDo4xRn3" text="Nanbu Harumasa"/>
-		<string id="kD2IsTSN" text="Nanbu Tsuki"/>
-		<string id="4HJGGKQV" text="Nanbu Nobunao"/>
-		<string id="oG7Xj5F1" text="Nanbu Maru"/>
-		<string id="sD4FqEXl" text="Shichinohe Naokuni"/>
-		<string id="4fsMSmDZ" text="Shichinohe Tsuru"/>
-		<string id="DjV342Vx" text="Shichinohe Iekuni"/>
-		<string id="L0wrNKVa" text="Shichinohe Ume"/>
-		<string id="50jyluRi" text="Hachinohe Masayoshi"/>
-		<string id="ly1rOf4V" text="Hachinohe Toki"/>
-		<string id="IaI3rd8b" text="Hachinohe Naoyoshi"/>
-		<string id="U2fcoM3V" text="Konohe Masazane"/>
-		<string id="OnWob7FY" text="Konohe Kei"/>
-		<string id="ybA8C3Pn" text="Konohe Nobunaka"/>
-		<string id="F44DRUrw" text="Konohe Yuki"/>
-		<string id="TLlGQ3hu" text="Konohe Sanechika"/>
-		<string id="SMHA0cYX" text="Konohe Shino"/>
-		<string id="ktJ3A4pU" text="Kita Nobuchika"/>
-		<string id="fCPVtYJi" text="Kita Miki"/>
-		<string id="0JfNpzoT" text="Kita Chikakazu"/>
-		<string id="VrwnAg7Z" text="Kita Sumire"/>
-		<string id="WOxNvejG" text="Kita Hidechika"/>
-		<string id="1Ms9l2Vr" text="Kita Naotsugu"/>
-		<string id="PBJm4EDg" text="Ōura Tamenobu"/>
-		<string id="Zd7dIZYX" text="Ōura Fuku"/>
-		<string id="DxKKXmBo" text="Ōura Tamenori"/>
-		<string id="bCUAVf01" text="Ōura Sumi"/>
-		<string id="Kn3UwNzn" text="Shiba Akizane"/>
-		<string id="KJxRs4Uz" text="Shiba Shima"/>
-		<string id="Yhd8MKk4" text="Shiba Akinao"/>
-		<string id="aXv9jGz0" text="Shiba Tsuya"/>
-		<string id="LQ4LfBqy" text="Shiba Akitane"/>
-		<string id="rQvhIKmk" text="Asonuma Hirosato"/>
-		<string id="Loa2z2lg" text="Asonuma Yone"/>
-		<string id="k0VTBlM1" text="Asonuma Hironaga"/>
-		<string id="N8YxPOIs" text="Asonuma Hirotsuna"/>
-		<string id="PH6vnz2s" text="Namioka Tomokazu"/>
-		<string id="UUC5lMpW" text="Namioka Tama"/>
-		<string id="7VsSFAbY" text="Namioka Tomomune"/>
-		<string id="aCGR0aAJ" text="Namioka Joukou-in"/>
-		<string id="vi4WkU82" text="Namioka Akimura"/>
-		<string id="A3IWaEnQ" text="Namioka Akinori"/>
-		<string id="JcbZs4It" text="Namioka Kata"/>
-		<string id="ETIKKEst" text="Namioka Akitada"/>
+		<string id="yAchbdS0" text="Yoshikage"/>
+		<string id="92Plru2R" text="Shouko"/>
+		<string id="PeZKtHl4" text="Kageakira"/>
+		<string id="10GS8hh6" text="Fusako"/>
+		<string id="zHzGUOYl" text="Yoshiie"/>
+		<string id="nTqCvCWT" text="Icho"/>
+		<string id="byu8D8HC" text="Nagayoshi"/>
+		<string id="maSOGXrZ" text="Shoumyou-in"/>
+		<string id="MxewE2UB" text="Yoshitake"/>
+		<string id="X5qVfju7" text="Yoshinobu"/>
+		<string id="K5vrtqxW" text="Kogiku"/>
+		<string id="LrsfIPm8" text="Naganori"/>
+		<string id="FjN0SPCO" text="Kageyasu"/>
+		<string id="edubnNQh" text="Tome"/>
+		<string id="DGRdBFWD" text="Nagayasu"/>
+		<string id="YiN0QUpV" text="Oku"/>
+		<string id="htAMl2eb" text="Nagauji"/>
+		<string id="m28lOKlG" text="Ben-ei"/>
+		<string id="jGCv6Uil" text="Kagemasa"/>
+		<string id="jaNkGPsJ" text="Sei"/>
+		<string id="Bhxb1sTw" text="Kagesada"/>
+		<string id="eqgaZO03" text="Keiko-in"/>
+		<string id="ZctOTbV9" text="Katsuhide"/>
+		<string id="FXVHs6Rl" text="Yoshitsugu"/>
+		<string id="pTApzZjo" text="Kyo"/>
+		<string id="8NfTd97s" text="Yoshiyori"/>
+		<string id="khSBd7oA" text="Hagi"/>
+		<string id="zgHNjeAc" text="Yoritsuna"/>
+		<string id="Ozp8uVH2" text="Mei"/>
+		<string id="3t8eBlK9" text="Nobutsuna"/>
+		<string id="50rxSxoL" text="Hidetsuna"/>
+		<string id="YS6J1DSx" text="Suetsuna"/>
+		<string id="ChLVdmm5" text="Hisa"/>
+		<string id="fllPpIHN" text="Tei"/>
+		<string id="rmn0keBY" text="Kunitsuna"/>
+		<string id="pOV36qLw" text="Kise"/>
+		<string id="Mwzg4d94" text="Akitsuna"/>
+		<string id="BUaB2CAs" text="Yuki"/>
+		<string id="reQL1Reg" text="Ujimasa"/>
+		<string id="ZAVB59DI" text="Tsune"/>
+		<string id="x5bCceO3" text="Ujitoshi"/>
+		<string id="0wP2NHjx" text="Shinkou-in"/>
+		<string id="BFpJOH9B" text="Ujiyuki"/>
+		<string id="oWMNADvQ" text="Chise"/>
+		<string id="VkHrE7QN" text="Ujinori"/>
+		<string id="8Njl5F1v" text="Ujifusa"/>
+		<string id="XOj9DW3l" text="Ujichika"/>
+		<string id="iDawiizs" text="Sue"/>
+		<string id="nO8nbFeD" text="Rairen"/>
+		<string id="YJnCp2Ng" text="Tenshou-in"/>
+		<string id="ELQ0jKOQ" text="Rairyou"/>
+		<string id="HkWcWG8X" text="Munekiyo"/>
+		<string id="6EDf32QW" text="Rengoyoku-ni"/>
+		<string id="JkG837Se" text="Saiko-ni"/>
+		<string id="dTVh9niZ" text="Raishou"/>
+		<string id="uWUgquZb" text="Keian-in"/>
+		<string id="ttOsDrht" text="Nakataka"/>
+		<string id="v3KNHiGz" text="Raitan"/>
+		<string id="vJhGvDMI" text="Koutoku-in"/>
+		<string id="xnKhOXA6" text="Rairyū"/>
+		<string id="Eh5FcIr3" text="Yorichika"/>
+		<string id="HBQgU0KK" text="Renmyou-in"/>
+		<string id="YxadjwHu" text="Shoukou-ni"/>
+		<string id="EDp1Ip1P" text="Tenshin-ni"/>
+		<string id="zzPufQWW" text="Yoshitsuna"/>
+		<string id="Uq5GEfN0" text="Keiko"/>
+		<string id="uWclrYkK" text="Yoshitsugu"/>
+		<string id="L7cUrjNA" text="Keisei-in"/>
+		<string id="MzeRfL4G" text="Yoshitaka"/>
+		<string id="Ykm1ZcKt" text="Tsugutsura"/>
+		<string id="54P6AoCQ" text="Kine"/>
+		<string id="BH4qApyf" text="Tsunatsura"/>
+		<string id="mxxEQmKL" text="Chiho"/>
+		<string id="6UGnlTvg" text="Tsugumitsu"/>
+		<string id="mtpjGuCC" text="Sue"/>
+		<string id="JoEyAqpB" text="Morimitsu"/>
+		<string id="zfaBVnTz" text="Kagetaka"/>
+		<string id="PkUrZWtb" text="Kane"/>
+		<string id="9LHg8tSs" text="Tsugumune"/>
+		<string id="PySBB1Zv" text="En"/>
+		<string id="1zGy3GLa" text="Nagamori"/>
+		<string id="uNnrQHZs" text="Mitsu"/>
+		<string id="8ZM8IWIL" text="Toshiie"/>
+		<string id="X37Mxlbd" text="Matsu"/>
+		<string id="XY7oOzvJ" text="Toshiharu"/>
+		<string id="16wGsj58" text="Chorei-in"/>
+		<string id="gUfblyxg" text="Toshinaga"/>
+		<string id="HNxdD6bx" text="Kou"/>
+		<string id="KkMduqEv" text="Shizu"/>
+		<string id="37zNtHHt" text="Toshihisa"/>
+		<string id="pm7cjBgT" text="Tomi"/>
+		<string id="DCmCs5kM" text="Toshimasu"/>
+		<string id="qPinCtuZ" text="Yasukatsu"/>
+		<string id="o6NRDplP" text="Aki"/>
+		<string id="6cjX925Z" text="Toshiyoshi"/>
+		<string id="pVCYrGIa" text="Hidetsugu"/>
+		<string id="JJRp7jcS" text="Kai"/>
+		<string id="EAijrwwg" text="Toshihide"/>
+		<string id="FOuyGkLb" text="Mitsuhide"/>
+		<string id="WM3E1lhn" text="Hiroko"/>
+		<string id="YMwxPbeL" text="Mitsuyoshi"/>
+		<string id="ADvtqTtw" text="Ei"/>
+		<string id="nvlUciWt" text="Mitsutada"/>
+		<string id="lQFaxxIJ" text="Toku"/>
+		<string id="CkNry5Sa" text="Hidemitsu"/>
+		<string id="1R17d0b8" text="Tama"/>
+		<string id="SKcB9YGC" text="Nagahide"/>
+		<string id="L05jsNrJ" text="Fuse"/>
+		<string id="3qxBLbew" text="Masa"/>
+		<string id="XLXbashl" text="Take"/>
+		<string id="duYGUbdI" text="Tsuneoki"/>
+		<string id="Ry3yD8SW" text="Zen'o-in"/>
+		<string id="ZO4sRBgt" text="Tsunetoshi"/>
+		<string id="U5BbLUHL" text="Youtoku-in"/>
+		<string id="UAYyU8nN" text="Motosuke"/>
+		<string id="KncY4a2p" text="Terumasa"/>
+		<string id="d6GG2W3X" text="Sen"/>
+		<string id="lhX5bcSW" text="Ieyasu"/>
+		<string id="0VxHt8iA" text="Tsukiyama"/>
+		<string id="KPL2cW75" text="Nobuyasu"/>
+		<string id="zHBbLO7U" text="Kame"/>
+		<string id="T7whzugC" text="Toku"/>
+		<string id="ttXuqvjP" text="Tadakatsu"/>
+		<string id="wTE64EJ5" text="Hisa"/>
+		<string id="pzKWxRoL" text="Shigetsugu"/>
+		<string id="BDFqD8yc" text="Sane"/>
+		<string id="9DY2gzT7" text="Toshimasa"/>
+		<string id="OfpHBzpT" text="Chie"/>
+		<string id="oGp9i8O6" text="Masanobu"/>
+		<string id="NIaOPKNj" text="Shī"/>
+		<string id="dID6ayTM" text="Masazumi"/>
+		<string id="9gdMPNbq" text="Masashige"/>
+		<string id="7TBN1cQm" text="Tsune"/>
+		<string id="A8v1L7R2" text="Yasumasa"/>
+		<string id="Hns8bp7I" text="Nagamasa"/>
+		<string id="pe2Jt1Xd" text="Yuzu"/>
+		<string id="46c1t4F9" text="Kiyomasa"/>
+		<string id="GgnkEyTV" text="Tadatsugu"/>
+		<string id="rrFghyqq" text="Usui"/>
+		<string id="A626l0Gm" text="Ietsugu"/>
+		<string id="60W9WGjN" text="Fuu"/>
+		<string id="PsuvJwcR" text="Naotora"/>
+		<string id="eeY8Wqqk" text="Naochika"/>
+		<string id="xF9RihZf" text="Hiyo"/>
+		<string id="usy9v6yR" text="Naomasa"/>
+		<string id="hznl27AL" text="Takase"/>
+		<string id="4RHGzzz5" text="Tadakazu"/>
+		<string id="bp0JE7lD" text="Tadayo"/>
+		<string id="p9CqbJC5" text="Koto"/>
+		<string id="e0sW01xt" text="Tadachika"/>
+		<string id="ulF9F7Xm" text="Tadanari"/>
+		<string id="0Kytj7yK" text="Amane"/>
+		<string id="2nmhylAz" text="Tadatame"/>
+		<string id="HrxOrz25" text="Tadataka"/>
+		<string id="3fFAXVUS" text="Masanari"/>
+		<string id="Q3mn8U0b" text="Naga"/>
+		<string id="fdPNZSo0" text="Yasunaga"/>
+		<string id="9eEzhPnB" text="Kiku"/>
+		<string id="So0Nn6DM" text="Yasutoshi"/>
+		<string id="cYVbPLNq" text="Tsuru"/>
+		<string id="mdI2AIhF" text="Yasuhide"/>
+		<string id="6S59Qnpu" text="Yasumasa"/>
+		<string id="vSW8NxqF" text="Haru"/>
+		<string id="rfdnxhDr" text="Yasunari"/>
+		<string id="qNbyhQaj" text="Kenshin"/>
+		<string id="6etIEETB" text="Tamekage"/>
+		<string id="Weis43hU" text="Seigan-in"/>
+		<string id="8Iv9ecNC" text="Aya"/>
+		<string id="RWQCCx4o" text="Kagekatsu"/>
+		<string id="shVCPmCc" text="Madoka"/>
+		<string id="Cg9EoY4r" text="Katsunaga"/>
+		<string id="6z9bSHa7" text="Azuki"/>
+		<string id="luKhUhXh" text="Akinaga"/>
+		<string id="bSqEzLcJ" text="Nagazane"/>
+		<string id="XgIyv7bL" text="Kageie"/>
+		<string id="wOt7PGWW" text="Kiku"/>
+		<string id="RNZWsztn" text="Haruie"/>
+		<string id="UX8SD6t0" text="Matsu"/>
+		<string id="CQuYOgRo" text="Kagetsuna"/>
+		<string id="9zniFw6a" text="Ran"/>
+		<string id="aizCBXYO" text="Sen"/>
+		<string id="4yJ1D3Lk" text="Nagaatsu"/>
+		<string id="N5nPQ9iT" text="Saki"/>
+		<string id="jeDlQqJW" text="Tsunasada"/>
+		<string id="LVyZvRCD" text="Tenshou-in"/>
+		<string id="Vnl5lCcr" text="Shigeie"/>
+		<string id="msDDZ9zQ" text="Kotake"/>
+		<string id="lTQNNnd4" text="Nagamoto"/>
+		<string id="hVSyu2fz" text="Asahi"/>
+		<string id="TbOZeUsx" text="Nagazumi"/>
+		<string id="6HJv9QVb" text="Naka"/>
+		<string id="rctAbfBY" text="Nagakuni"/>
+		<string id="Bs8eZQFC" text="Sayo"/>
+		<string id="W5wJGTC8" text="Yoshikiyo"/>
+		<string id="MESMSv9a" text="Fune"/>
+		<string id="yGFHfoKI" text="Yoshikatsu"/>
+		<string id="TCUOLBRT" text="Sada"/>
+		<string id="5O1LWXJp" text="Yoshiteru"/>
+		<string id="RuCWEn4I" text="Kyou"/>
+		<string id="6qygzS4a" text="Yoshikuni"/>
+		<string id="kQx9hdpB" text="Tai"/>
+		<string id="H9SHda0i" text="Kunikiyo"/>
+		<string id="subHFWkG" text="Kazu"/>
+		<string id="qmR0GKfJ" text="Sadakane"/>
+		<string id="DM691On9" text="Tsuta"/>
+		<string id="fMcQDpxT" text="Takatsuna"/>
+		<string id="fy68erIy" text="Tomo"/>
+		<string id="wr8Xrdq3" text="Muneyuki"/>
+		<string id="jKoS0rtx" text="Takaou"/>
+		<string id="Yb8Jirco" text="Sigenaga"/>
+		<string id="NDluCjrj" text="Momiji"/>
+		<string id="Ng1qk1bc" text="Akinaga"/>
+		<string id="9107Gylz" text="Saneyori"/>
+		<string id="7U80DoRY" text="Sagami"/>
+		<string id="5LpGgkPs" text="Hidetsuna"/>
+		<string id="1oAT3tap" text="Ise"/>
+		<string id="3MdGZMX4" text="Kageyori"/>
+		<string id="CmHdCNgW" text="Shingen"/>
+		<string id="4i6fDyD8" text="Sanjo-no-kata"/>
+		<string id="zKMW1v8g" text="Nobutora"/>
+		<string id="Jc58jQNn" text="Oi"/>
+		<string id="86eH8vEV" text="Katsuyori"/>
+		<string id="v3Z4a3yT" text="Nobukiyo"/>
+		<string id="DaR7ks4O" text="Mari"/>
+		<string id="oDOj9SD6" text="Kiku"/>
+		<string id="xpuvPs14" text="Matsu"/>
+		<string id="y03WXHuV" text="Nobukado"/>
+		<string id="XTtGyQDW" text="Oboro"/>
+		<string id="08ToFFXf" text="Nobuzumi"/>
+		<string id="1TVdy9aJ" text="Nobuaki"/>
+		<string id="AnDrohq6" text="Tsuyu"/>
+		<string id="zTstz8YU" text="Nobutomo"/>
+		<string id="Kr9vJDJr" text="Koharu"/>
+		<string id="mf6qRfQ9" text="Nobuharu"/>
+		<string id="g6O5UTIU" text="Shinkou-in"/>
+		<string id="sUPNtt42" text="Masafusa"/>
+		<string id="DHiUrEoe" text="Tatsu"/>
+		<string id="fcNnjXsC" text="Nobuyoshi"/>
+		<string id="3qyP1ctn" text="Fumi"/>
+		<string id="gz7lL74b" text="Fusakatsu"/>
+		<string id="njGs760D" text="Mai"/>
+		<string id="Hkshvmje" text="Yoshiyasu"/>
+		<string id="vbIJLnaE" text="Maki"/>
+		<string id="0glR6o3S" text="Yoshimasa"/>
+		<string id="hCph1y6W" text="Mari"/>
+		<string id="Uh8eLrzj" text="Yoshitoyo"/>
+		<string id="CST4VZ3y" text="Iwa"/>
+		<string id="nOD4Gqu3" text="Nobutsuna"/>
+		<string id="LLDSUh4P" text="Kita"/>
+		<string id="wcz0nDz4" text="Yukitsuna"/>
+		<string id="xCBCWoyE" text="Kyou'un-in"/>
+		<string id="Juq9azQr" text="Masateru"/>
+		<string id="WVGige9a" text="Azuma"/>
+		<string id="kgkhqmWv" text="Masayuki"/>
+		<string id="8GNzUWme" text="Yamanote"/>
+		<string id="RxAnenAt" text="Nobuyuki"/>
+		<string id="SrBZhW62" text="Nobushige"/>
+		<string id="p6u25ahF" text="Nobutada"/>
+		<string id="CGW3d2m1" text="Morinobu"/>
+		<string id="pMatiznR" text="Morimasa"/>
+		<string id="p5ZVom76" text="Sekishou-in"/>
+		<string id="NxcRsCiG" text="Moritaka"/>
+		<string id="NMWHcNzI" text="Morikiyo"/>
+		<string id="R2xuV24U" text="Nobushige"/>
+		<string id="Dg5B2zhF" text="Momo"/>
+		<string id="g45BojcX" text="Nobutsuna"/>
+		<string id="zF6jIhMK" text="Harusuke"/>
+		<string id="diLqkUYp" text="Nobutada"/>
+		<string id="LkcZ0r5Y" text="Fuchi"/>
+		<string id="foSkGqkk" text="Masakage"/>
+		<string id="HjUZWMTO" text="Yumi"/>
+		<string id="YXIWbWf0" text="Masamitsu"/>
+		<string id="92oaxFYB" text="Hana"/>
+		<string id="0mCx7j50" text="Masashige"/>
+		<string id="Yq8SOeXP" text="Masahisa"/>
+		<string id="KDNU2gvn" text="Tsuku"/>
+		<string id="ecShe0I2" text="En"/>
+		<string id="g4maTpNu" text="Toratsuna"/>
+		<string id="TYa3IRFt" text="Shige"/>
+		<string id="MpF2HDx9" text="Masazumi"/>
+		<string id="Ha5aVxa5" text="Yuki"/>
+		<string id="SMr29glZ" text="Masamoto"/>
+		<string id="cZMqkGId" text="Masasada"/>
+		<string id="SJcxjwoG" text="Ujizane"/>
+		<string id="JaOi7kxn" text="Hayakawa"/>
+		<string id="PTuEiwT5" text="Sada"/>
+		<string id="6F0GOTMx" text="Yasutomo"/>
+		<string id="iREsPn2R" text="Sawa"/>
+		<string id="LPbuuBT7" text="Yasumoto"/>
+		<string id="tCqVkzwq" text="Nobuoki"/>
+		<string id="TyQ6HZYx" text="Yui"/>
+		<string id="OO1CZVQY" text="Nobuyoshi"/>
+		<string id="OJ0Bt41g" text="Motonaga"/>
+		<string id="QsBBAV6a" text="Munetoshi"/>
+		<string id="c9kHua0I" text="Nobutada"/>
+		<string id="Fo5zfzvM" text="Matsu"/>
+		<string id="GtQEM4H1" text="Nobumichi"/>
+		<string id="R6QFv61S" text="Yae"/>
+		<string id="1dudFqAY" text="Nobushige"/>
+		<string id="BmHwTG2p" text="Kou"/>
+		<string id="R0oRncp7" text="Motonobu"/>
+		<string id="P1UiQyME" text="Sakae"/>
+		<string id="r9MHER6o" text="Chikatsuma"/>
+		<string id="mteALoQA" text="Myosen-ni"/>
+		<string id="jDEOJ3VU" text="Sanetaka"/>
+		<string id="RGfPAqxo" text="Motoaki"/>
+		<string id="9yB1OZBM" text="Masatsuna"/>
+		<string id="NzPVJZQJ" text="Kame"/>
+		<string id="22eOrkcg" text="Nagamori"/>
+		<string id="FCzQSXcq" text="Nagaaki"/>
+		<string id="t4DRKSAY" text="Nobuzane"/>
+		<string id="asA0b5mz" text="Tae"/>
+		<string id="6U06bX7V" text="Norishige"/>
+		<string id="k7pTFu2E" text="Yumi"/>
+		<string id="SRa7FYKy" text="Nobutaka"/>
+		<string id="cy3gpggj" text="Yuki"/>
+		<string id="7lHBstOq" text="Nobuuji"/>
+		<string id="Z6vTfYje" text="Nobusasda"/>
+		<string id="K4rav43o" text="Masataka"/>
+		<string id="zVUgQ4Mr" text="Tose"/>
+		<string id="ZPjH5pVz" text="Nobuhide"/>
+		<string id="9IFe41L8" text="Mina"/>
+		<string id="nSIP71V7" text="Narishige"/>
+		<string id="Q4wQhlze" text="Myouin-ni"/>
+		<string id="yWf4nQeJ" text="Kunishige"/>
+		<string id="V5SvHfO0" text="Shigeaki"/>
+		<string id="b3YDzA8r" text="Akinaga"/>
+		<string id="ZiQq8JDT" text="Mayu"/>
+		<string id="uog9xjJ7" text="Sumi"/>
+		<string id="P3zTiZCm" text="Ujimasa"/>
+		<string id="RSvvwQuG" text="Houshou-in"/>
+		<string id="fpxfCA95" text="Ujiyasu"/>
+		<string id="w54S5I3N" text="Zuikei-in"/>
+		<string id="pizr75r3" text="Ujinao"/>
+		<string id="1agVt6tW" text="Ujiteru"/>
+		<string id="iUvP6aFv" text="Hisa"/>
+		<string id="fAdkH6BS" text="Ujikuni"/>
+		<string id="Ihhdccnz" text="Fuku"/>
+		<string id="I6HLatlC" text="Ujinori"/>
+		<string id="XT3whBO1" text="Kougen-in"/>
+		<string id="HMftyqYc" text="Gen-an"/>
+		<string id="IFVBo0UW" text="Norihide"/>
+		<string id="Koe4GEO4" text="Tani"/>
+		<string id="uzEB7rTO" text="Masaharu"/>
+		<string id="1ME4J4P8" text="Naohide"/>
+		<string id="GXvLySIv" text="Yasusada"/>
+		<string id="ViSD5Bbn" text="Jifuku-in"/>
+		<string id="tgMbwfiE" text="Yasunaga"/>
+		<string id="zDjE64TE" text="Izumi"/>
+		<string id="IOihIX4O" text="Naonaga"/>
+		<string id="N7FUZLza" text="Yasusato"/>
+		<string id="8rJWmjlH" text="Ito"/>
+		<string id="WSOVFn2s" text="Masakage"/>
+		<string id="iSVGS3Xg" text="Take"/>
+		<string id="hbrNLVoD" text="Tsunakage"/>
+		<string id="KxM5VRa1" text="Joukou-in"/>
+		<string id="zp5C0etl" text="Naokage"/>
+		<string id="lsVY4d0J" text="Kagemune"/>
+		<string id="wTLH9970" text="Tei"/>
+		<string id="BEOaffU2" text="Kageyoshi"/>
+		<string id="PgAQVzbF" text="Kagenobu"/>
+		<string id="gSd6sI0U" text="Hideshige"/>
+		<string id="szgwXx0f" text="Shigemasa"/>
+		<string id="f3MMiYMN" text="Masashige"/>
+		<string id="HxDyc3ql" text="Shino"/>
+		<string id="nDpdaTzx" text="Naohide"/>
+		<string id="Id4pOfky" text="Naoshige"/>
+		<string id="SwQ02lSF" text="Ujinaga"/>
+		<string id="Vm16qd8L" text="Araragi"/>
+		<string id="HvKdwFFQ" text="Chikayasu"/>
+		<string id="ZDygI93n" text="Myoukou-in"/>
+		<string id="QWiufJBx" text="Kai"/>
+		<string id="z0hkNFGC" text="Yasuchika"/>
+		<string id="l0dKAD1a" text="Futaba"/>
+		<string id="HyfCYlLK" text="Yasusue"/>
+		<string id="wAcogWf3" text="Tomi"/>
+		<string id="fLSGAgYC" text="Nagachika"/>
+		<string id="qjnRwQly" text="Mari"/>
+		<string id="KrY4IEpg" text="Tanetomi"/>
+		<string id="WYTqPJNj" text="Hagi"/>
+		<string id="RUVHqSha" text="Masatane"/>
+		<string id="zsUPpaIN" text="Seikyou-in"/>
+		<string id="BSQ982ou" text="Yoshitane"/>
+		<string id="lHQ3t4SP" text="Kunitane"/>
+		<string id="jdtXL2lm" text="Tanehide"/>
+		<string id="o7IMZNBt" text="Haru"/>
+		<string id="r8PNf9r5" text="Tanenaka"/>
+		<string id="L4V95dkR" text="Tanetoki"/>
+		<string id="N0wdIy1B" text="Ujiharu"/>
+		<string id="vC6z8WVM" text="Hazuki"/>
+		<string id="oBXKUC02" text="Masaharu"/>
+		<string id="lIMwYkmk" text="Keimyou-in"/>
+		<string id="73thINiW" text="Tomoharu"/>
+		<string id="40uzrYwA" text="Moriharu"/>
+		<string id="KDNrkROu" text="Koma"/>
+		<string id="QYDzg3jA" text="Riku"/>
+		<string id="tCf4lIPu" text="Yoshiuji"/>
+		<string id="NxaysxUC" text="Jyoko-in"/>
+		<string id="O06DIhu2" text="Haruuji"/>
+		<string id="MsX1Hln6" text="Houshun-in"/>
+		<string id="9zqTKcqA" text="Fujimasa"/>
+		<string id="2cUjpzfQ" text="Teruuji"/>
+		<string id="F9XMsCHI" text="Iekuni"/>
+		<string id="olSVCZmf" text="Sato"/>
+		<string id="lVNG6nvY" text="Masatsuna"/>
+		<string id="OjtJRVA8" text="Moto"/>
+		<string id="2dwqNcV0" text="Yasutsuna"/>
+		<string id="aVzIfT5b" text="Kousen-in"/>
+		<string id="jTPsXTQs" text="Munetsuna"/>
+		<string id="CimHJY3v" text="Chikatsuna"/>
+		<string id="HxOIq1UO" text="Toyotsuna"/>
+		<string id="TtRVEzF9" text="Jyoumei-in"/>
+		<string id="OjNzZ4z7" text="Fusatsuna"/>
+		<string id="peuTgDWX" text="Harutomo"/>
+		<string id="2axdqLeU" text="Shoko"/>
+		<string id="l7gGIVfb" text="Teruko"/>
+		<string id="KaW2u7Wt" text="Tsuruko"/>
+		<string id="3dRiCHIH" text="Kuniko"/>
+		<string id="WNXdlC6n" text="Yoshihiro"/>
+		<string id="mF93OB0Z" text="Maki"/>
+		<string id="45HFAruq" text="Yoshitaka"/>
+		<string id="WIMsWqlV" text="Saka"/>
+		<string id="1VsYAGf0" text="Takamoto"/>
+		<string id="Sl8tIOAe" text="Tame"/>
+		<string id="ZOyxIYLt" text="Takatsugu"/>
+		<string id="RZW4u1bw" text="Kuni"/>
+		<string id="BijTmjLN" text="Yoshimasa"/>
+		<string id="mSLw5dla" text="Hisa"/>
+		<string id="ojHJapKr" text="Yoshiyori"/>
+		<string id="XsI6P4Lw" text="Hama"/>
+		<string id="Ae4oJ078" text="Tane"/>
+		<string id="BLEI9odB" text="Toyo"/>
+		<string id="3u6MPLG6" text="Noritoki"/>
+		<string id="wTQEOpa7" text="Kaname"/>
+		<string id="r9bbr3VW" text="Tokimichi"/>
+		<string id="AWwPQ7GP" text="Kine"/>
+		<string id="NClTemsw" text="Chie"/>
+		<string id="y968PY0G" text="Tokinari"/>
+		<string id="10oV0mMQ" text="Saki"/>
+		<string id="jysbc6Uf" text="Tokikatsu"/>
+		<string id="FxCpKg3G" text="Fusa"/>
+		<string id="MHd8ZnPH" text="Tokihide"/>
+		<string id="P3Qi7ksg" text="Yoritoki"/>
+		<string id="UkMRMuYI" text="Tokitomi"/>
+		<string id="EnNxr4sS" text="Taneharu"/>
+		<string id="L3rcTXEN" text="Keirin-ni"/>
+		<string id="4Ve0NOnj" text="Yasuharu"/>
+		<string id="4UF3c1YO" text="Hirotsuna"/>
+		<string id="k8YjNpOk" text="Nanryo-in"/>
+		<string id="YMsdSa5O" text="Kunitsuna"/>
+		<string id="gwB9W7mm" text="Takasada"/>
+		<string id="J0VnbU4a" text="Tama"/>
+		<string id="0xmB7XJS" text="Takatake"/>
+		<string id="l2brrFCq" text="Chiyo"/>
+		<string id="WO5zvxR8" text="Takatsugu"/>
+		<string id="tGEgf2XE" text="Miki"/>
+		<string id="7vqf8p1x" text="Mikitsuna"/>
+		<string id="B55gNGt8" text="Sue"/>
+		<string id="GhX1cQFn" text="Tsunaie"/>
+		<string id="u6pL0K8t" text="Kiku"/>
+		<string id="qs5YLGCM" text="Sakon"/>
+		<string id="IpGWXGXO" text="Yoshishige"/>
+		<string id="lTEN0uBO" text="Hoju-in"/>
+		<string id="lEBzZaFW" text="Yoshiaki"/>
+		<string id="NGUNB04b" text="Koutoku-in"/>
+		<string id="cS0BYmEj" text="Yoshihisa"/>
+		<string id="O91iIET8" text="Akane"/>
+		<string id="TO3KcPYq" text="Yoshitane"/>
+		<string id="di3hvLje" text="Yoshitsuna"/>
+		<string id="RlQJPV7D" text="Chitose"/>
+		<string id="f5XYXxSk" text="Michimasa"/>
+		<string id="tLFdyt4x" text="Seishou-in"/>
+		<string id="isJ2mg9v" text="Shigemichi"/>
+		<string id="pRzOVEbH" text="Sadakuni"/>
+		<string id="iK6pKdiD" text="Fumi"/>
+		<string id="JrCw7IOL" text="Yoshimoto"/>
+		<string id="ad2F8T2d" text="Rensho-in"/>
+		<string id="mWRFq0Y2" text="Tuneharu"/>
+		<string id="RHgM2Jbk" text="Hana"/>
+		<string id="fFzatPZB" text="Ujimiki"/>
+		<string id="P0Rdtbsk" text="Harutoki"/>
+		<string id="lK0BVLKk" text="Myouke-in"/>
+		<string id="e3yhg6Dv" text="Yoshikiyo"/>
+		<string id="wOWbGCUg" text="Nami"/>
+		<string id="Nc8F0LEf" text="Sadanobu"/>
+		<string id="xuJSkGe4" text="Chiku"/>
+		<string id="wGuR0ntw" text="Kiyohide"/>
+		<string id="aYVxNbSo" text="Sai"/>
+		<string id="g1hC3I76" text="Michiharu"/>
+		<string id="iqtWNEZR" text="Sae"/>
+		<string id="WAlIagfl" text="Suketane"/>
+		<string id="Niu6EEIX" text="Toyo"/>
+		<string id="BiJQ3gwj" text="Sukeharu"/>
+		<string id="vgzjShtW" text="Masa"/>
+		<string id="kLlP5rni" text="Yoshisuke"/>
+		<string id="tUcpDeTS" text="Azami"/>
+		<string id="nR1sGRoK" text="Norifusa"/>
+		<string id="pRDHDfAf" text="Masamoto"/>
+		<string id="YrKWMZru" text="Kame"/>
+		<string id="AptV40KY" text="Norimoto"/>
+		<string id="awh97eY4" text="Beni"/>
+		<string id="964hRB7s" text="Kasuga"/>
+		<string id="uq93RE5H" text="Yoshitaka"/>
+		<string id="zFfxKok8" text="Mitsu"/>
+		<string id="q2wWaf6n" text="Mototaka"/>
+		<string id="vpp0X2di" text="Masu"/>
+		<string id="nbMsupjp" text="Nagamasa"/>
+		<string id="WBljkXLV" text="Toshitaka"/>
+		<string id="tPBBMN4Z" text="Toshinori"/>
+		<string id="qgu18aBw" text="Naoyuki"/>
+		<string id="jqDkyoQZ" text="Kayo"/>
+		<string id="Oew1Bf9P" text="Kine"/>
+		<string id="FZ1Eq6lh" text="Fuku"/>
+		<string id="So1hDGim" text="Yasuharu"/>
+		<string id="vbW4lVBo" text="Azuma"/>
+		<string id="apqhx41m" text="Nariharu"/>
+		<string id="dO3CawFk" text="Masu"/>
+		<string id="Brly3Pam" text="Nagaharu"/>
+		<string id="VYrrxnX9" text="Tomoyuki"/>
+		<string id="19IdACYb" text="Harusada"/>
+		<string id="gzC7F4fo" text="Yoshichika"/>
+		<string id="PVVSjRbo" text="Kashi"/>
+		<string id="qRHfzyUs" text="Shigemune"/>
+		<string id="MYV9KYo1" text="Seri"/>
+		<string id="pvqqQutQ" text="Kasumi"/>
+		<string id="0VHC3xFH" text="Hisamichi"/>
+		<string id="Boxu3rYM" text="Wakaba"/>
+		<string id="Xe63ilYA" text="Junkei"/>
+		<string id="sTM8QM4l" text="Taka"/>
+		<string id="us2k9KPi" text="Junkou"/>
+		<string id="L3NzXFr3" text="Saya"/>
+		<string id="pnoyota2" text="Junshou"/>
+		<string id="v8k486Cv" text="Okata"/>
+		<string id="kZUzygaP" text="Junkoku"/>
+		<string id="D6cW9BRv" text="Koharu"/>
+		<string id="vwBchbKt" text="Sadatsugu"/>
+		<string id="YP2fV2hW" text="Toshihiro"/>
+		<string id="pAupiXnj" text="Tai"/>
+		<string id="z8vSvDSj" text="Junsai"/>
+		<string id="bPdxO4MG" text="Hiroyuki"/>
+		<string id="RenGY8Fh" text="Nobuyasu"/>
+		<string id="avHcE1yf" text="Sawa"/>
+		<string id="zSUIhhTo" text="Fuyuyasu"/>
+		<string id="fzgQ5psq" text="Keiten-in"/>
+		<string id="U0EMQOWS" text="Kiyoyasu"/>
+		<string id="FlzkbFch" text="Yoshiharu"/>
+		<string id="o05gJRtq" text="Keijyu-in"/>
+		<string id="lhA4QmHy" text="Yoshiteru"/>
+		<string id="hsD5bJui" text="Daiyou-in"/>
+		<string id="dKcLiTvb" text="Yoshihide"/>
+		<string id="DavzUQup" text="Fujitaka"/>
+		<string id="EmiPhqA0" text="Jyakou"/>
+		<string id="HQiKv4QF" text="Tadaoki"/>
+		<string id="DtWZ2i3N" text="Okimoto"/>
+		<string id="iYqL2Vy6" text="Sen"/>
+		<string id="7oUfZNuF" text="Iya"/>
+		<string id="CHalr5aK" text="Yoshimichi"/>
+		<string id="ruz4z36n" text="Tunako"/>
+		<string id="CzufOZcO" text="Yoshiyuki"/>
+		<string id="RurSjEyY" text="Keitoku-In"/>
+		<string id="K0rUvzyH" text="Yoshisada"/>
+		<string id="Ez9wouSk" text="Yoshikiyo"/>
+		<string id="oNEiBB2d" text="Suketoyo"/>
+		<string id="kJXoV9Pb" text="Tomoko"/>
+		<string id="NmILYBIw" text="Munetoyo"/>
+		<string id="nMjExeXI" text="Yoshichika"/>
+		<string id="QbkbZH6B" text="Akihiro"/>
+		<string id="vs49SDks" text="Akitaka"/>
+		<string id="BeVxuHbe" text="Masakuni"/>
+		<string id="eHD3yI8F" text="Seiko"/>
+		<string id="0TdWVoYC" text="Takamasa"/>
+		<string id="9QUwXAo6" text="Fusako"/>
+		<string id="kYtWhJo4" text="Yuko"/>
+		<string id="ACqEvloB" text="Masahisa"/>
+		<string id="PbADW8O5" text="Munefusa"/>
+		<string id="JrNemg5t" text="Yata"/>
+		<string id="iMqha8Z4" text="Tomonaga"/>
+		<string id="Rrbu472n" text="Ukon"/>
+		<string id="wCCzDL2D" text="Chie"/>
+		<string id="fcAG1QqW" text="Naoharu"/>
+		<string id="3QhK8vOe" text="Komatsu"/>
+		<string id="WCJsiBsB" text="Naomitsu"/>
+		<string id="xG7Mnax1" text="Komyo-in"/>
+		<string id="QQ62CWn2" text="Nobuharu"/>
+		<string id="Bqky19ae" text="Hiroharu"/>
+		<string id="NbKeRcPM" text="Kageharu"/>
+		<string id="vVdUl9kZ" text="Ken'nyo"/>
+		<string id="uhGVlVcb" text="Nyosyun-ni"/>
+		<string id="ZHgHiq5g" text="Kyounyo"/>
+		<string id="dLk4Mfmb" text="Kenson"/>
+		<string id="CGMTB5IR" text="Syoui"/>
+		<string id="RqrjjOwd" text="Shoumyou-in"/>
+		<string id="dcTmgzR2" text="Ken'nin"/>
+		<string id="KyBM4EGe" text="Yoshikata"/>
+		<string id="YKfuhIdz" text="Shizuno"/>
+		<string id="5c4QE4T3" text="Yoshiharu"/>
+		<string id="f4nYiBuo" text="Tomoe"/>
+		<string id="0TCCnJ52" text="Tomonaga"/>
+		<string id="ejRgtgY3" text="Chizuru"/>
+		<string id="rUBu7S4M" text="Katahide"/>
+		<string id="3d9HHjwb" text="Mitsuki"/>
+		<string id="FD9LbBC5" text="Ujisato"/>
+		<string id="GM8rv4Ak" text="Shigesato"/>
+		<string id="SuEovhqt" text="Tomo"/>
+		<string id="2wRgcvgX" text="Sana"/>
+		<string id="iZkMYp72" text="Nagamasa"/>
+		<string id="rvDsCUpk" text="Ichi"/>
+		<string id="qIzG5074" text="Hisamasa"/>
+		<string id="RF8JjIdu" text="Ako"/>
+		<string id="Av28pOpi" text="Masamoto"/>
+		<string id="VBrMcD42" text="Masayuki"/>
+		<string id="A73fNqDB" text="Torataka"/>
+		<string id="wATMO4SF" text="Ayame"/>
+		<string id="ZkYr4Q04" text="Takatora"/>
+		<string id="MRwSxq1k" text="Takanori"/>
+		<string id="6F2ikYXs" text="Fuji"/>
+		<string id="VejCmIYn" text="Tsuta"/>
+		<string id="kHIiTY6k" text="Kazumasa"/>
+		<string id="aNr0aTAb" text="Ayame"/>
+		<string id="5wrVt0wH" text="Yukinobu"/>
+		<string id="BzIGHgCx" text="Masanaga"/>
+		<string id="WvVFYg9z" text="Kiyotsuna"/>
+		<string id="eqrjET0Q" text="Kiru"/>
+		<string id="HGBst1md" text="Kiyofuyu"/>
+		<string id="quPWUb7d" text="Yuki"/>
+		<string id="wqjEk0zZ" text="Nobunaga"/>
+		<string id="aCLFE9fV" text="Nou"/>
+		<string id="6fpqsOCb" text="Nobuhide"/>
+		<string id="WKW8zGVB" text="Dota-gezen"/>
+		<string id="3k7drsea" text="Nobutada"/>
+		<string id="0JPVJU94" text="Nobukatsu"/>
+		<string id="ITHpOHC1" text="Nobutaka"/>
+		<string id="XFJfiBaw" text="Nobuhiro"/>
+		<string id="Asdctfqh" text="Nobukane"/>
+		<string id="7whQnMzi" text="Hisa"/>
+		<string id="8BhkuRWC" text="Nagamasu"/>
+		<string id="Jn0K7PNf" text="Sei"/>
+		<string id="gqt0QIl5" text="Hideyoshi"/>
+		<string id="9zZwFuMM" text="Yaemon"/>
+		<string id="YCkbvrI5" text="Naka"/>
+		<string id="iu9a9wWD" text="Hidenaga"/>
+		<string id="nerTByza" text="Tae"/>
+		<string id="eBydZ8UR" text="Tomo"/>
+		<string id="LmtF2OEL" text="Yoshifusa"/>
+		<string id="78tz8gaC" text="Asahi"/>
+		<string id="TDa0KpyV" text="Yoshinari"/>
+		<string id="Z6OKK1nA" text="Katsuie"/>
+		<string id="v5MbvJJH" text="Sae"/>
+		<string id="VuO1uj5T" text="Katsusato"/>
+		<string id="6DNrUFap" text="Katsutada"/>
+		<string id="JmzS3yub" text="Katsumasa"/>
+		<string id="3tcSrSZS" text="Katsutoyo"/>
+		<string id="DEN7nvP0" text="Katsutoshi"/>
+		<string id="rV9fvZPM" text="Nobumori"/>
+		<string id="zccColGo" text="Tsutsuji"/>
+		<string id="1Auqkl29" text="Nobuharu"/>
+		<string id="llqgj9e4" text="Koushou-in"/>
+		<string id="9GlIn49d" text="Nobuhide"/>
+		<string id="I0VAUSEq" text="Nobutoki"/>
+		<string id="sc9FjP2E" text="Kazumasu"/>
+		<string id="C67lGw7D" text="Kano"/>
+		<string id="eYxUCzZl" text="Kazutada"/>
+		<string id="iMc2zSg8" text="Kazutoki"/>
+		<string id="Ey1d5pwc" text="Kiku"/>
+		<string id="wCNIpIB4" text="Sana"/>
+		<string id="WbWoS8l0" text="Yoshitaka"/>
+		<string id="RsCPH7VE" text="Nami"/>
+		<string id="rwB3k83J" text="Naritaka"/>
+		<string id="99ZeqWCB" text="Shima"/>
+		<string id="JTzieEQH" text="Tomonori"/>
+		<string id="cq8VOWkD" text="Matsu"/>
+		<string id="H2FsCrUJ" text="Harutomo"/>
+		<string id="f3DEuNXC" text="Kuni"/>
+		<string id="PtY5O0oR" text="Tomofusa"/>
+		<string id="wbEuy9q4" text="Tomofuji"/>
+		<string id="P1AgeXcD" text="Chikanari"/>
+		<string id="Q50kWDFW" text="Yuki"/>
+		<string id="xz7VtMCD" text="Tsuki"/>
+		<string id="dme8x5FX" text="Fumi"/>
+		<string id="XWDbAYjm" text="Tomomasa"/>
+		<string id="sPSLtwCr" text="Ten"/>
+		<string id="B4oQXBYc" text="Nagamasa"/>
+		<string id="KvnteUqO" text="Tomochika"/>
+		<string id="XTnJEsYW" text="Yoshisuke"/>
+		<string id="Zo5RCGJQ" text="Asa"/>
+		<string id="4atnqu27" text="Takashiro"/>
+		<string id="uihfZdNy" text="Aso"/>
+		<string id="zc3RATLY" text="Yoshimasu"/>
+		<string id="bi2KysQW" text="Houjyo"/>
+		<string id="lVI3T9fG" text="Machigami"/>
+		<string id="85Bsa0wA" text="Suketaka"/>
+		<string id="2CvJRlY1" text="Suketsugu"/>
+		<string id="ioFUZ0oL" text="Natsugiku"/>
+		<string id="peaJoNOB" text="Sigekata"/>
+		<string id="rOnLD0w7" text="Hana"/>
+		<string id="Zyip3QcN" text="Sukemichi"/>
+		<string id="Uf3QK6ng" text="Yume"/>
+		<string id="ZtJyjDvr" text="Namomi"/>
+		<string id="IGRDYaLn" text="Sukemasa"/>
+		<string id="kxPhkWeY" text="Asa"/>
+		<string id="a0POjhcf" text="Dōunsai"/>
+		<string id="zE5EwPDa" text="Suketoshi"/>
+		<string id="4EowmW3n" text="Hisame"/>
+		<string id="5eZfB982" text="Yoshihi"/>
+		<string id="qLcsYHM7" text="Chiyogiku"/>
+		<string id="HAtmAA4A" text="Koari"/>
+		<string id="5GMpq6XY" text="Chiari"/>
+		<string id="NutJCPcj" text="Kikuchiyo"/>
+		<string id="NWi3RA0H" text="Yorisada"/>
+		<string id="dvyfGKTU" text="Hotaru"/>
+		<string id="bbvlOOs5" text="Umigiri"/>
+		<string id="YNU67geV" text="Haruhiro"/>
+		<string id="916pH86X" text="Uchijou"/>
+		<string id="dKC0bSr2" text="Yoriyasu"/>
+		<string id="0K6M8tdY" text="Myoukei-ni"/>
+		<string id="EmtnyFBl" text="Yorimori"/>
+		<string id="MSsRSBtV" text="Yusura"/>
+		<string id="nnG2BZn7" text="Shigenao"/>
+		<string id="L9k5QuOT" text="Chidori"/>
+		<string id="16V5w91f" text="Hisatane"/>
+		<string id="MF8e93EW" text="Hisatake"/>
+		<string id="3kwAqpNa" text="Tsudura"/>
+		<string id="57TkTUlx" text="Tanemoto"/>
+		<string id="Knylet1a" text="Sourin"/>
+		<string id="UIKx01xx" text="Lady Nata"/>
+		<string id="7sbPoa0a" text="Yoshimune"/>
+		<string id="a5rohL3A" text="Chikaie"/>
+		<string id="acpnamQM" text="Chikamori"/>
+		<string id="HgdZp0Wl" text="Emi"/>
+		<string id="5HotxjQe" text="Yuri"/>
+		<string id="svKW968A" text="Chikasada"/>
+		<string id="TzTHrzds" text="Yoshiaki"/>
+		<string id="z3dbPelZ" text="Boujou"/>
+		<string id="k92lOXHJ" text="Shigefusa"/>
+		<string id="teYikAqn" text="Yohira"/>
+		<string id="SqbUj7yq" text="Tomofusa"/>
+		<string id="bS8yxN7k" text="Masafusa"/>
+		<string id="iIKYURwu" text="Sukefusa"/>
+		<string id="QhQNpW8c" text="Nagafusa"/>
+		<string id="vTJsC4OH" text="Aogiri"/>
+		<string id="ccbI0eaO" text="Akimori"/>
+		<string id="l20Tre0E" text="Otsutsuru"/>
+		<string id="mZZiN58r" text="Shigehisa"/>
+		<string id="4UMLD8VG" text="Shigenami"/>
+		<string id="BQpT7Ot2" text="Tamatsuru"/>
+		<string id="PhtIj0GH" text="Muneyasu"/>
+		<string id="NkAfByDU" text="Akitsura"/>
+		<string id="c5eoivff" text="Hatsu"/>
+		<string id="ovVdGXOn" text="Ginchiyo"/>
+		<string id="ZlHul9Zt" text="Shigetsura"/>
+		<string id="HQk5m5lx" text="Chikayuki"/>
+		<string id="b9gzn2hY" text="Akikata"/>
+		<string id="lKbRz6eD" text="Akitada"/>
+		<string id="0Y43uQrL" text="Sekkoku-in"/>
+		<string id="Sj68FhWp" text="Shigenobu"/>
+		<string id="NkhLWVag" text="Toki"/>
+		<string id="lpweWPGd" text="Muneyuki"/>
+		<string id="LeuCYp9y" text="Munekazu"/>
+		<string id="dmMvttf2" text="Munesada"/>
+		<string id="m19CQd6x" text="Kanoko"/>
+		<string id="1yDEuokr" text="Yamayuri"/>
+		<string id="E46uMtvl" text="Shigetada"/>
+		<string id="ILKZCqYF" text="Kaname"/>
+		<string id="2GaQofVb" text="Munetora"/>
+		<string id="uBCOrdQV" text="Kai"/>
+		<string id="Z2GCOUtm" text="Ochiyo"/>
+		<string id="x6R93cIi" text="Kaya"/>
+		<string id="NYlbLufq" text="Koremasa"/>
+		<string id="fo7AmZvZ" text="Hinageshi"/>
+		<string id="VwVczw6S" text="Koretane"/>
+		<string id="LRFeUoJn" text="Azami"/>
+		<string id="9rmhZ9SX" text="Souun"/>
+		<string id="0YMRJmlt" text="Oume"/>
+		<string id="AwDyF3fr" text="Chikahide"/>
+		<string id="0dn4iBEk" text="Chikamasa"/>
+		<string id="1erzaD8X" text="Nobunari"/>
+		<string id="nCvG3JeX" text="Yukinao"/>
+		<string id="ZQpSL7UA" text="Anzu"/>
+		<string id="SQP2yZeu" text="Akitaka"/>
+		<string id="KrF8FmSs" text="Akiteru"/>
+		<string id="1btPFqMR" text="Yukiyoshi"/>
+		<string id="XoV0TPFq" text="Koremitsu"/>
+		<string id="saxrxGki" text="Koma"/>
+		<string id="7eurlUtR" text="Koreharu"/>
+		<string id="SRSldKIW" text="Uta"/>
+		<string id="4ZWfBLHb" text="Korenobu"/>
+		<string id="jpK0zLw5" text="Korehide"/>
+		<string id="cCBVwKSj" text="Seki"/>
+		<string id="lNlmN4wG" text="Koremitsu"/>
+		<string id="85PKWhYi" text="Sawa"/>
+		<string id="ahYt1SDs" text="Nagahide"/>
+		<string id="GA5dFkPJ" text="Tama"/>
+		<string id="q4kHT4nt" text="Tsuki"/>
+		<string id="EALX2wiH" text="Yoshisada"/>
+		<string id="Zf2ThTMe" text="Utsugi"/>
+		<string id="bqlAf3Ep" text="Yoshizumi"/>
+		<string id="8KGtAWLM" text="Kanoko"/>
+		<string id="P5bd2ucF" text="Yuri"/>
+		<string id="B67b5TXq" text="Chikashi"/>
+		<string id="HbzP5AAB" text="Harunobu"/>
+		<string id="DrxNkMPh" text="Sumitada"/>
+		<string id="adfnCVYV" text="Oen"/>
+		<string id="i2ihnVmH" text="Yoshiaki"/>
+		<string id="38sUEkUk" text="Yuugao"/>
+		<string id="Y7RBrR1o" text="Shirasame"/>
+		<string id="hPnLYYJO" text="Suminao"/>
+		<string id="UxSkwZcc" text="Fuse"/>
+		<string id="iqiu9axQ" text="Sumiharu"/>
+		<string id="M9fL4iOG" text="Kesa"/>
+		<string id="S9l95YBY" text="Sumiyasu"/>
+		<string id="4hhMmQZv" text="Sumitoshi"/>
+		<string id="gP7qZ1sx" text="Fuku"/>
+		<string id="xzrz8EdV" text="Sumioki"/>
+		<string id="0u4eOAjF" text="Yumi"/>
+		<string id="99cmIBLl" text="Tadakane"/>
+		<string id="IqQ6wbYX" text="Momo"/>
+		<string id="3DxSAP5P" text="Kanetsugu"/>
+		<string id="m9ddTE2d" text="Chise"/>
+		<string id="wq7KfqBC" text="Kanechika"/>
+		<string id="USrCyCPN" text="Koshi"/>
+		<string id="EJFqZ0Re" text="Takanobu"/>
+		<string id="TVY3ysQM" text="Chikaie"/>
+		<string id="pKRWlHY2" text="Keigin-ni"/>
+		<string id="GJikOBTs" text="Aoi"/>
+		<string id="IunQmBW8" text="Masaie"/>
+		<string id="BpNWO1VW" text="Ietane"/>
+		<string id="sLjMUtzo" text="Ienobu"/>
+		<string id="afjOzd7v" text="Tamatsuru"/>
+		<string id="dJrycT5U" text="Yasu"/>
+		<string id="Bun8uTcC" text="Nobukane"/>
+		<string id="QoJqPtiQ" text="Shinobu"/>
+		<string id="1U8b3UIP" text="Nobuaki"/>
+		<string id="tITu2Ofm" text="Naganobu"/>
+		<string id="jmFzBD6r" text="Satsuki"/>
+		<string id="oKY3txxT" text="Yasutoshi"/>
+		<string id="uPz1Xvdn" text="Kikyou"/>
+		<string id="UOIYnsPP" text="Shinkou-in"/>
+		<string id="IuaPQ3Jf" text="Takanobu"/>
+		<string id="8SJ7vUnX" text="Suiran"/>
+		<string id="5vMME1MH" text="Shigenobu"/>
+		<string id="MRn4lWn1" text="Shī"/>
+		<string id="ZjiY3efx" text="Koreaki"/>
+		<string id="XUnjjMXE" text="Chikashi"/>
+		<string id="GVedNuqp" text="Kanoko"/>
+		<string id="SNVHLgax" text="Ayame"/>
+		<string id="25ZutWwE" text="Kiyofusa"/>
+		<string id="3WB4WKAb" text="Kakei"/>
+		<string id="v3bb1Q5X" text="Nobufusa"/>
+		<string id="Jnx18tIy" text="Naoshige"/>
+		<string id="0YuKB1a0" text="Hikotsuru"/>
+		<string id="vHYZgp4m" text="Kiyoyasu"/>
+		<string id="glmLovBF" text="Iwagi"/>
+		<string id="aBevKeGx" text="Sumitaka"/>
+		<string id="MLD6QUoN" text="Sada"/>
+		<string id="0WWMrnLV" text="Mayumi"/>
+		<string id="Duy1yvLw" text="Nobunao"/>
+		<string id="VhUaonxW" text="Sumimasa"/>
+		<string id="LfZC8oxt" text="Chikaie"/>
+		<string id="YazRHukF" text="Inasa"/>
+		<string id="PJm0OEPx" text="Chikanaga"/>
+		<string id="Xup6gETO" text="Yamase"/>
+		<string id="vAL4CzPc" text="Chikayasu"/>
+		<string id="Vz6OtTyq" text="Shigefusa"/>
+		<string id="XbjCzJTi" text="Kiku"/>
+		<string id="W3XjwTmf" text="Chikafusa"/>
+		<string id="aACMcMnP" text="Akafuji"/>
+		<string id="7s4dxFt3" text="Yoshihisa"/>
+		<string id="gv3wrMe3" text="Enshin-inden"/>
+		<string id="czGM0U4X" text="Ōhira"/>
+		<string id="yquLAovd" text="Shinjo"/>
+		<string id="p9NeUjUw" text="Yoshihiro"/>
+		<string id="8fj2kDNi" text="Kochou"/>
+		<string id="vI3iTRAa" text="Yachi"/>
+		<string id="PRLxNKTC" text="Toshihisa"/>
+		<string id="BgW75GXX" text="Lady Ume"/>
+		<string id="bCEeQkkF" text="Iehisa"/>
+		<string id="LvRRedWW" text="Nagi"/>
+		<string id="X2sLljXc" text="Takahisa"/>
+		<string id="hShr91A7" text="Lady Sessou"/>
+		<string id="UdtsY26m" text="Tadaao"/>
+		<string id="a5ytpM6f" text="Shizuku"/>
+		<string id="gJxQjIhn" text="Tadamune"/>
+		<string id="60Aeo2HK" text="Kusafuji"/>
+		<string id="t99JjHho" text="Harunari"/>
+		<string id="YiDzP43I" text="Tadatane"/>
+		<string id="ltdCwtlK" text="Hikari"/>
+		<string id="CtPTpklz" text="Hisanobu"/>
+		<string id="0PAYYOYo" text="Sasayuri"/>
+		<string id="xTIL6Lf0" text="Tadaaki"/>
+		<string id="j5q1b0ZO" text="Murasaki"/>
+		<string id="a7Bus3qz" text="Tokihisa"/>
+		<string id="YBDz0cMr" text="Hijiri"/>
+		<string id="SpjpkISo" text="Sukehisa"/>
+		<string id="jp7XzhCN" text="Tadatora"/>
+		<string id="9j0CtAEy" text="Tadachika"/>
+		<string id="Fm7HitzI" text="Hasu"/>
+		<string id="J1KrYoB2" text="Yoshikane"/>
+		<string id="blCzYNBm" text="Takashiro"/>
+		<string id="xk81zGz1" text="Kanemiki"/>
+		<string id="Ywbdn3tH" text="Izumi"/>
+		<string id="Z7OeNcGK" text="Kanesuke"/>
+		<string id="N5VldQQt" text="Kanemori"/>
+		<string id="aUgD8yWg" text="Kanetsugu"/>
+		<string id="A8Iz9ZZT" text="Onan"/>
+		<string id="qyCDkM5m" text="Tokitaka"/>
+		<string id="QF3JI70b" text="Nishi"/>
+		<string id="zy3vzsD2" text="Hisatoki"/>
+		<string id="V9EPyj3M" text="Nippou"/>
+		<string id="XCSdjqll" text="Suiren"/>
+		<string id="L1wnB6pW" text="Hisazumi"/>
+		<string id="92pspLlK" text="Hisatoshi"/>
+		<string id="qb7Z1U5h" text="Hisamichi"/>
+		<string id="QeuaL3cf" text="Tsuta"/>
+		<string id="V6jIFhcG" text="Tadakatsu"/>
+		<string id="TLxsl5iX" text="Mina"/>
+		<string id="k3CpNDG5" text="Hisaaki"/>
+		<string id="eCNnvQM4" text="Ai"/>
+		<string id="ODtiTkOv" text="Hisatoki"/>
+		<string id="CaWfkO0p" text="Yoshi"/>
+		<string id="Ht8hAJcl" text="Tadatomo"/>
+		<string id="emI5NXQu" text="Yae"/>
+		<string id="Ax7ZFxHb" text="Tadakata"/>
+		<string id="fexWXUPu" text="Tadae"/>
+		<string id="HjyxWWhy" text="Hisatomo"/>
+		<string id="u6vPOWe7" text="Sachi"/>
+		<string id="KhqU55r0" text="Kunikane"/>
+		<string id="3vLKX0xu" text="Matsu"/>
+		<string id="JMd4a3AO" text="Kakuken"/>
+		<string id="5iU3TdnF" text="Tomi"/>
+		<string id="Otv143ry" text="Tsunekane"/>
+		<string id="ELhVncx1" text="Hideaki"/>
+		<string id="o1LMD9ny" text="Ise"/>
+		<string id="vXMcTPtw" text="Satokane"/>
+		<string id="tb6JqqiB" text="Shige"/>
+		<string id="yU00LUuA" text="Aki"/>
+		<string id="dcCPC5JH" text="Tadamoto"/>
+		<string id="uOiEhWdc" text="Shima"/>
+		<string id="VHFYSwnu" text="Tadaaki"/>
+		<string id="we21zLIb" text="Tadamasu"/>
+		<string id="8SPgT8lv" text="Kaya"/>
+		<string id="JhlzLqNk" text="Yasuhisa"/>
+		<string id="B8yOZDB1" text="Sue"/>
+		<string id="wqENKt24" text="Hisaatsu"/>
+		<string id="NkRdYQ2Z" text="Tadahide"/>
+		<string id="bMfqWjqk" text="Kinhiro"/>
+		<string id="g5pzHuFm" text="Nishi"/>
+		<string id="kHOJ0Awe" text="Nobuhisa"/>
+		<string id="Jb6FawOB" text="Hisa"/>
+		<string id="gTFSsjbm" text="Kinnobu"/>
+		<string id="qwJbUUQV" text="Seikou-in"/>
+		<string id="RzWxJC41" text="Motoaki"/>
+		<string id="vT8u3noP" text="Fuki"/>
+		<string id="GZEDDxOG" text="Motonori"/>
+		<string id="KDfcebZ7" text="Sayuri"/>
+		<string id="gSncZATa" text="Norinobu"/>
+		<string id="GCLn5ECy" text="Hama"/>
+		<string id="UgnuLgbA" text="Sakinobu"/>
+		<string id="51dM4xsA" text="Kuwa"/>
+		<string id="l9dNB33O" text="Kanesada"/>
+		<string id="vZK6RwNC" text="Tamafuji"/>
+		<string id="aa7k9lsZ" text="Tadamasa"/>
+		<string id="FH6ohwg7" text="Nobuko"/>
+		<string id="84OJJiZg" text="Mariko"/>
+		<string id="j6oilqBS" text="Kiyoyoshi"/>
+		<string id="R9UQCnuM" text="Mugi"/>
+		<string id="NrJRgRfz" text="Shigekiyo"/>
+		<string id="PGjI36Ae" text="Souzan"/>
+		<string id="pvhvN7QV" text="Kunitora"/>
+		<string id="rHKVyyVc" text="Nishi"/>
+		<string id="kCyapaMi" text="Hirotsune"/>
+		<string id="qsvolxnV" text="Ietomo"/>
+		<string id="qnY9HZY8" text="Sadakatsu"/>
+		<string id="q7dRw8dj" text="Sumi"/>
+		<string id="Pi1K6Dyu" text="Katsuoki"/>
+		<string id="Q5L1Tq9A" text="Tomo"/>
+		<string id="EFVk0L5h" text="Motochika"/>
+		<string id="6CK8HDZR" text="Amane"/>
+		<string id="s6nTS5jf" text="Nobuchika"/>
+		<string id="OdLEdQd3" text="Chikakazu"/>
+		<string id="JVEOWyAi" text="Suzu"/>
+		<string id="MgtskN05" text="Honoka"/>
+		<string id="ufdDL1IS" text="Ako"/>
+		<string id="U9RsqAwX" text="Chikayasu"/>
+		<string id="RySY5fQu" text="Yuzuha"/>
+		<string id="hvyaWDgX" text="Chikasada"/>
+		<string id="DeCbQeHC" text="Yumi"/>
+		<string id="1YCmAvvP" text="Chikazane"/>
+		<string id="FXZNXucw" text="Joen"/>
+		<string id="zcC4TL48" text="Chikamasa"/>
+		<string id="pGrd03pI" text="Chikanobu"/>
+		<string id="kKdyVFsm" text="En"/>
+		<string id="Uk8wWxBw" text="Shougen"/>
+		<string id="gswXQDd7" text="Mugi"/>
+		<string id="KwL2BhJu" text="Chikanao"/>
+		<string id="NMjVGI7u" text="Taka"/>
+		<string id="m3YajwyO" text="Shigetoshi"/>
+		<string id="uht0Icck" text="Hisa"/>
+		<string id="YK0QNAGY" text="Norihiro"/>
+		<string id="uuCL0VJy" text="Chiku"/>
+		<string id="1OhuHuRD" text="Shigeyasu"/>
+		<string id="pOfNSi6V" text="Naka"/>
+		<string id="UYASRxJw" text="Takatoshi"/>
+		<string id="hhYUOKRh" text="Takayori"/>
+		<string id="ic0O247n" text="Sen"/>
+		<string id="HAaOI8lO" text="Sadashige"/>
+		<string id="CLvsoPtJ" text="Kinu"/>
+		<string id="KyUYLo0G" text="Chikashige"/>
+		<string id="mfPg78eX" text="Toku"/>
+		<string id="HVP1iekL" text="Yoshishige"/>
+		<string id="g2mr3QCM" text="Chikamasa"/>
+		<string id="Hlkt9zR1" text="Ume"/>
+		<string id="Mxr5FYoa" text="Yoshitsugu"/>
+		<string id="6gzf2OX9" text="Azusa"/>
+		<string id="JLomyVbr" text="Yoshikane"/>
+		<string id="75JZYLpa" text="Yoshishige"/>
+		<string id="NPrwtYts" text="Tsuru"/>
+		<string id="2AJOuAzz" text="Nagayoshi"/>
+		<string id="diWjBHKp" text="Syoukou-in"/>
+		<string id="uu3PRYD5" text="Masayasu"/>
+		<string id="HxfQ7WNA" text="Satsuki"/>
+		<string id="GLB0eZon" text="Masayuki"/>
+		<string id="nKh0IYa0" text="Mayu"/>
+		<string id="dBBf1wOB" text="Kazuyuki"/>
+		<string id="GiqQGwGA" text="Yamagiri"/>
+		<string id="4jgyfZ85" text="Kazumasa"/>
+		<string id="4MZmJxE6" text="Komyo-in"/>
+		<string id="cjm2q36D" text="Douzen"/>
+		<string id="0vFKvTmm" text="Yachiyo"/>
+		<string id="2yPLLgtG" text="Sanenari"/>
+		<string id="cOejVaQ2" text="Botan"/>
+		<string id="zQfWhCEH" text="Renge"/>
+		<string id="CjIwIpNQ" text="Ukon"/>
+		<string id="0D5ublc2" text="Kaneyasu"/>
+		<string id="Z7HNxyjm" text="Katashiro"/>
+		<string id="vktgsLcf" text="Yoritake"/>
+		<string id="wseAsdnA" text="Amaki"/>
+		<string id="7RyhvBYR" text="Shigemoto"/>
+		<string id="OBe36Dgm" text="Haruka"/>
+		<string id="s4GK3ysW" text="Yoriharu"/>
+		<string id="chCyXnc8" text="Tochi"/>
+		<string id="JJbwQ3jB" text="Yorikane"/>
+		<string id="EqsKtTd5" text="Yorinobu"/>
+		<string id="tzDZ2CnQ" text="Mototake"/>
+		<string id="L0lMoM6a" text="Suzuran"/>
+		<string id="WbfzMksA" text="Sadatake"/>
+		<string id="mH1Ruh1j" text="Hamagiku"/>
+		<string id="LACOAPLK" text="Mototaka"/>
+		<string id="MVfwFwvD" text="Keizen-in"/>
+		<string id="khx3Vgh8" text="Morioki"/>
+		<string id="mzCn8ZC7" text="Hiko"/>
+		<string id="sdzqsV1G" text="Moriuji"/>
+		<string id="liJQwhE3" text="Yae"/>
+		<string id="QkJaEi3K" text="Yuzu"/>
+		<string id="YwGkSfbK" text="Morikuni"/>
+		<string id="kDG4hH19" text="Matsu"/>
+		<string id="7iNle8U9" text="Moritane"/>
+		<string id="scnJL5kL" text="Munekuni"/>
+		<string id="9wTMtQuw" text="Moriaki"/>
+		<string id="uSZ3ktlG" text="Tanetsune"/>
+		<string id="eKVl7rFn" text="Ai"/>
+		<string id="E8H6JIrN" text="Tsunenori"/>
+		<string id="4Wvo7FV1" text="Tose"/>
+		<string id="Cu1xPRNB" text="Morimitsu"/>
+		<string id="IWEJ4mrY" text="Kine"/>
+		<string id="kJATuUtQ" text="Tsunehide"/>
+		<string id="PBI1pb9J" text="Ujisuke"/>
+		<string id="VtEfOh9T" text="Hama"/>
+		<string id="wnmhSjVG" text="Yukisuke"/>
+		<string id="9WmlolIC" text="Moriyoshi"/>
+		<string id="foAJh4Aw" text="Onami"/>
+		<string id="4gtrnix8" text="Moritaka"/>
+		<string id="CrgYCr35" text="Moritane"/>
+		<string id="ppxVSFKS" text="Kake"/>
+		<string id="CkTKok6g" text="Yoshitane"/>
+		<string id="bI1XmCI8" text="Takatane"/>
+		<string id="YwuGBeax" text="Satotane"/>
+		<string id="nci1JssK" text="Haru"/>
+		<string id="BGJzNDaJ" text="Yoshikuni"/>
+		<string id="1NJGIP9x" text="Aki"/>
+		<string id="4zIz7SLR" text="Yoshitsugu"/>
+		<string id="nlu9kbj8" text="Takaaki"/>
+		<string id="aZssFvBr" text="Kake"/>
+		<string id="sxbLtOpV" text="Kiyoaki"/>
+		<string id="DuxfRUZv" text="Mego"/>
+		<string id="oEJsVsvL" text="Ujiaki"/>
+		<string id="AabIiWIA" text="Shigetane"/>
+		<string id="o5Zq7Oek" text="Kai"/>
+		<string id="MCup3o6i" text="Yoshitane"/>
+		<string id="yi11OrT2" text="Myoukei-in"/>
+		<string id="nMadfoql" text="Naotane"/>
+		<string id="fELklkpF" text="Tanekage"/>
+		<string id="AhCQLCtb" text="Kiyotane"/>
+		<string id="nLNPP20E" text="Tanetsura"/>
+		<string id="UVX0OxFg" text="Ise"/>
+		<string id="EB3nmSxp" text="Tanenobu"/>
+		<string id="PIfaqh7Q" text="Tanekane"/>
+		<string id="3Pn5oEfx" text="Terumune"/>
+		<string id="EDAnoqXI" text="Yoshi"/>
+		<string id="KAHCFSfY" text="Harumune"/>
+		<string id="0JKuKUGj" text="Kubo"/>
+		<string id="23ZArAMO" text="Tanemune"/>
+		<string id="BX6Yp0vZ" text="Taishin-in"/>
+		<string id="5UBPnUHd" text="Masamune"/>
+		<string id="HgsPH3W5" text="Sanemoto"/>
+		<string id="TGJrgoXP" text="Kyousei-in"/>
+		<string id="5uYt8kLx" text="Shigezane"/>
+		<string id="ROpC8P2s" text="Shigetsugu"/>
+		<string id="w4XrKYdu" text="Kageshige"/>
+		<string id="MlE07cvv" text="Naoko"/>
+		<string id="xNmZREFs" text="Kita"/>
+		<string id="5M0NN2yN" text="Kagetsuna"/>
+		<string id="faonKywA" text="Yoshinao"/>
+		<string id="G8NxnJE5" text="Taki"/>
+		<string id="C9MEAEGI" text="Tsunamoto"/>
+		<string id="tLDDSJ4h" text="Sagami"/>
+		<string id="6syqEkxm" text="Yasumoto"/>
+		<string id="3fLCijjk" text="Motomune"/>
+		<string id="ASQ0gZto" text="Gekkou-in"/>
+		<string id="JZFYlzYb" text="Shigemune"/>
+		<string id="chvnuxQs" text="Yui"/>
+		<string id="1dDTpLSL" text="Yoshitaka"/>
+		<string id="hFIaafxw" text="Yoshinao"/>
+		<string id="yKztqf7Y" text="Tani"/>
+		<string id="PdMyVeC2" text="Toshiyo"/>
+		<string id="GfI6uQA0" text="Harunobu"/>
+		<string id="V03JK8Wj" text="Toku"/>
+		<string id="4enjcrq2" text="Kiyotaka"/>
+		<string id="uLgRyxxy" text="Nobuhide"/>
+		<string id="qyv1DVLK" text="Chikataka"/>
+		<string id="zS1xCtvl" text="Keiju-in"/>
+		<string id="A91ldYIn" text="Shigetaka"/>
+		<string id="OMoDuAqu" text="Jomei-in"/>
+		<string id="uGlEqEJX" text="Tsunetaka"/>
+		<string id="NpV12vkH" text="Takatoki"/>
+		<string id="rg6sw1Q9" text="Keiju-in"/>
+		<string id="JkZOorvD" text="Takamune"/>
+		<string id="uxzJmlwA" text="Tora"/>
+		<string id="2vUBdY6S" text="Masakage"/>
+		<string id="bs10mHWo" text="Akimune"/>
+		<string id="qLjgsdLd" text="Haru"/>
+		<string id="BabGjggN" text="Yoshimori"/>
+		<string id="hxOrAtOY" text="Renshin-in"/>
+		<string id="EtRVL3Xg" text="Yoshiaki"/>
+		<string id="4GWpCzJZ" text="Toshiyo"/>
+		<string id="AgF95oLC" text="Yoshitoki"/>
+		<string id="XWlzkdNm" text="Mitsunao"/>
+		<string id="PHvwg0Xu" text="Yorisada"/>
+		<string id="PF8gDLpE" text="Kikyou"/>
+		<string id="JjgMoz43" text="Kaede"/>
+		<string id="9ipPC2rK" text="Yorizumi"/>
+		<string id="dUHmrYee" text="Yorikage"/>
+		<string id="6AupeJ2N" text="Morimune"/>
+		<string id="tY6vS3gw" text="Satsuki"/>
+		<string id="KqISOYEY" text="Akimune"/>
+		<string id="ZbVonqWL" text="Mitsunobu"/>
+		<string id="D0DDSMQY" text="Yone"/>
+		<string id="gyhJohjp" text="Mitsuaki"/>
+		<string id="mWkIbjPO" text="Yoshikuni"/>
+		<string id="Txz2u8Oq" text="Ama"/>
+		<string id="a2OoRcJh" text="Mitsushige"/>
+		<string id="vktTGyQq" text="Mitsuhiro"/>
+		<string id="XUP0oREf" text="Yoshimasu"/>
+		<string id="jg1L0wFo" text="One"/>
+		<string id="p4t1iXm5" text="Yoshiuji"/>
+		<string id="8hFeGd0I" text="Yumi"/>
+		<string id="RhHRQkPQ" text="Yoshioki"/>
+		<string id="M12NsVpR" text="Kagemichi"/>
+		<string id="WkEGfvdg" text="Sen"/>
+		<string id="62tdkvpy" text="Mitsumichi"/>
+		<string id="VgE08XCk" text="Yoshimichi"/>
+		<string id="MjQRacs8" text="Yasumichi"/>
+		<string id="cYZFWbZM" text="Sadatsuna"/>
+		<string id="FEk7Sghh" text="Hana"/>
+		<string id="QiAwLSXY" text="Hidetsuna"/>
+		<string id="WlbkIU1a" text="Kiyohisa"/>
+		<string id="NvZMn1nx" text="Hagi"/>
+		<string id="9NoCTl9V" text="Kiyonaga"/>
+		<string id="6VMRRxMG" text="Take"/>
+		<string id="bxPIgkEG" text="Shigekiyo"/>
+		<string id="EI4GudVP" text="Haru"/>
+		<string id="l1FlQE5M" text="Chiyo"/>
+		<string id="bLbHwsOu" text="Chikasue"/>
+		<string id="2lCIr4Yo" text="Ume"/>
+		<string id="V0yNJaSo" text="Kiyosue"/>
+		<string id="KLD5OGKr" text="Mitsu"/>
+		<string id="Nn83RWCj" text="Narisue"/>
+		<string id="CuZoMuTC" text="Shigesue"/>
+		<string id="MnxZWCfr" text="Fusa"/>
+		<string id="UP1GXVUv" text="Michisue"/>
+		<string id="ghllwrCJ" text="Katsuyori"/>
+		<string id="PZT6X6Nv" text="Mina"/>
+		<string id="EhjiWov4" text="Yorihira"/>
+		<string id="J4YAWqUc" text="Yorihirio"/>
+		<string id="Y4g7oumw" text="Suehiro"/>
+		<string id="AfDpOut5" text="Awa"/>
+		<string id="iLroIUcH" text="Yoshihiro"/>
+		<string id="hStRHmEI" text="Mai"/>
+		<string id="GsSSWLlB" text="Sadahiro"/>
+		<string id="NYdIhl32" text="Nakahiro"/>
+		<string id="xxpsHzns" text="Morihiro"/>
+		<string id="5cfM2Wsd" text="Sen"/>
+		<string id="xzgrBlXk" text="Kou"/>
+		<string id="kmuEpByR" text="Michimori"/>
+		<string id="ZPBJZyhY" text="Kiku"/>
+		<string id="97vWqS1S" text="Morishige"/>
+		<string id="tePWyu1J" text="Moriyasu"/>
+		<string id="qDo4xRn3" text="Harumasa"/>
+		<string id="kD2IsTSN" text="Tsuki"/>
+		<string id="4HJGGKQV" text="Nobunao"/>
+		<string id="oG7Xj5F1" text="Maru"/>
+		<string id="sD4FqEXl" text="Naokuni"/>
+		<string id="4fsMSmDZ" text="Tsuru"/>
+		<string id="DjV342Vx" text="Iekuni"/>
+		<string id="L0wrNKVa" text="Ume"/>
+		<string id="50jyluRi" text="Masayoshi"/>
+		<string id="ly1rOf4V" text="Toki"/>
+		<string id="IaI3rd8b" text="Naoyoshi"/>
+		<string id="U2fcoM3V" text="Masazane"/>
+		<string id="OnWob7FY" text="Kei"/>
+		<string id="ybA8C3Pn" text="Nobunaka"/>
+		<string id="F44DRUrw" text="Yuki"/>
+		<string id="TLlGQ3hu" text="Sanechika"/>
+		<string id="SMHA0cYX" text="Shino"/>
+		<string id="ktJ3A4pU" text="Nobuchika"/>
+		<string id="fCPVtYJi" text="Miki"/>
+		<string id="0JfNpzoT" text="Chikakazu"/>
+		<string id="VrwnAg7Z" text="Sumire"/>
+		<string id="WOxNvejG" text="Hidechika"/>
+		<string id="1Ms9l2Vr" text="Naotsugu"/>
+		<string id="PBJm4EDg" text="Tamenobu"/>
+		<string id="Zd7dIZYX" text="Fuku"/>
+		<string id="DxKKXmBo" text="Tamenori"/>
+		<string id="bCUAVf01" text="Sumi"/>
+		<string id="Kn3UwNzn" text="Akizane"/>
+		<string id="KJxRs4Uz" text="Shima"/>
+		<string id="Yhd8MKk4" text="Akinao"/>
+		<string id="aXv9jGz0" text="Tsuya"/>
+		<string id="LQ4LfBqy" text="Akitane"/>
+		<string id="rQvhIKmk" text="Hirosato"/>
+		<string id="Loa2z2lg" text="Yone"/>
+		<string id="k0VTBlM1" text="Hironaga"/>
+		<string id="N8YxPOIs" text="Hirotsuna"/>
+		<string id="PH6vnz2s" text="Tomokazu"/>
+		<string id="UUC5lMpW" text="Tama"/>
+		<string id="7VsSFAbY" text="Tomomune"/>
+		<string id="aCGR0aAJ" text="Joukou-in"/>
+		<string id="vi4WkU82" text="Akimura"/>
+		<string id="A3IWaEnQ" text="Akinori"/>
+		<string id="JcbZs4It" text="Kata"/>
+		<string id="ETIKKEst" text="Akitada"/>
 		<string id="Bcg6BahH" text="Yamabushi's Axe"/>
 		<string id="sUeowQpk" text="Rustic Kama"/>
 		<string id="q2Vsio86" text="Simple Kama"/>
@@ -3814,106 +3814,106 @@
 		<string id="aCNFnmpJ" text="Maebe Keiko-in"/>
 		<string id="L6k0BihZ" text="Shimotsuma  Munekiyo"/>
 		<string id="Pd02cWIP" text="Chou Turatatsu"/>
-		<string id="7PtkKC5L" text="Ikeda Tsunetoshi"/>
-		<string id="a8fhiErH" text="Ikeda Youtoku-in"/>
-		<string id="mZrml2Ov" text="Ikeda Motosuke"/>
-		<string id="VylcfU2r" text="Ikeda Terumasa"/>
-		<string id="qiIMdezD" text="Ikeda Sen"/>
-		<string id="vXdi14Dt" text="Sakakibara Nagamasa"/>
-		<string id="RuAChgqW" text="Sakakibara Yuzu"/>
-		<string id="tIwfNdAU" text="Ōkubo Kaede"/>
-		<string id="CAxVPHIx" text="Ōkubo Tadasuke"/>
-		<string id="ksrFELDK" text="Hattori Yasunari"/>
-		<string id="MLZq7awV" text="Uesugi Tamekage"/>
-		<string id="QwRXJCmI" text="Uesugi Seigan-in"/>
-		<string id="axhJs6IX" text="Uesugi Masakage"/>
-		<string id="jCqzvM9s" text="Shibata Tsunasada"/>
-		<string id="r6hPxS8L" text="Shibata Tenshou-in"/>
-		<string id="0W8I3WDW" text="Takeda Nobutora"/>
-		<string id="ypwKxiQu" text="Takeda Oi"/>
-		<string id="kJSK4wyx" text="Anayama Nobutada"/>
-		<string id="aEtxWN2O" text="Anayama Fuchi"/>
-		<string id="J8S3HAxP" text="okabe Kame"/>
-		<string id="cndf29xy" text="Amago Katsuhisa"/>
-		<string id="3jEENNGd" text="Amago Tamane"/>
-		<string id="hJUC1nK9" text="Amago Ujihisa"/>
-		<string id="Aa6selTk" text="Amago Michihisa"/>
-		<string id="yGggICSa" text="Amago Sanehisa"/>
-		<string id="e5jJlTcT" text="Amago Seiryou-in"/>
-		<string id="qYih12OY" text="Yamanaka Yukimori"/>
-		<string id="npZ70oDb" text="Yamanaka Yura"/>
-		<string id="2qyQ5uu7" text="Yamanaka Yukitaka"/>
-		<string id="HhM0uBm3" text="Yamanaka Mitsuyuki"/>
-		<string id="fdzr5fWf" text="Yamanaka Shunkei-in"/>
-		<string id="lDbNEfEh" text="Tachihara Hisatsuna"/>
-		<string id="WFQ0UuXw" text="Yamanaka Fuse"/>
-		<string id="07juHC01" text="Tachihara Mitsutada"/>
-		<string id="DFrIaaPX" text="Tachihara Nami"/>
-		<string id="ayqIRS5x" text="Obata Nobusada"/>
-		<string id="78h2ApYu" text="Narita Nagayasu"/>
-		<string id="5Zj9vfbh" text="Narita Jishou-in"/>
-		<string id="dP4NuLXZ" text="Narita Chikayasu"/>
-		<string id="PiGMjXxP" text="Narita Myoukou-in"/>
-		<string id="xKCKGPUy" text="Ashikaga Houshun-in"/>
-		<string id="8doVlvNw" text="Ashikaga Iekuni"/>
-		<string id="7JhWt0Cr" text="Sano Masatuna"/>
-		<string id="DkDMVX0S" text="Sano Yasutsuna"/>
-		<string id="Vjv0jhtU" text="Satomi Yoshitaka"/>
-		<string id="6pWBEhfi" text="Satomi Saka"/>
-		<string id="eCgQgJ32" text="Masaki Tokitada"/>
-		<string id="JgzJTQRD" text="Sakai Yasuharu"/>
-		<string id="cyPZnisM" text="Satake Kotoku-in"/>
-		<string id="oRMj5Dw4" text="Nasu Suketane"/>
-		<string id="qaSYtI7f" text="Kodera Ujimoto"/>
-		<string id="pyD59qMo" text="Matsunaga Hisahide"/>
-		<string id="3Cbdw30u" text="Atagi Nobuyasu"/>
-		<string id="QZU9vMWY" text="Atagi Sawa"/>
-		<string id="M8CaIjW3" text="Atagi Fuyuyasu"/>
-		<string id="pDYIBBAa" text="Atagi Keiten-in"/>
-		<string id="DakzCL2f" text="Atagi Kiyoyasu"/>
-		<string id="Iqa3v7D1" text="Ashikaga Yoshiaki"/>
-		<string id="Cxfk22gK" text="Ashikaga Sako"/>
-		<string id="JD9quZid" text="Issiki Haruko"/>
-		<string id="rCZzutl7" text="Yukawa Koumyou-in"/>
-		<string id="wmriGx9z" text="Kinoshita Nene"/>
-		<string id="DHsiGvld" text="Shimazu Sessou"/>
-		<string id="SqR0Mu6S" text="Tanegashima Shigetoki"/>
-		<string id="ewils0Dz" text="Kawakami Kita"/>
-		<string id="b8DHDVJl" text="Nabeshima Iwagiri"/>
-		<string id="y7KNSSPN" text="Ōmura Sumitada"/>
-		<string id="6VZ8rqKC" text="Ōmura Oen"/>
-		<string id="qtwaI7LN" text="Ōmura Yoshiaki"/>
-		<string id="XqAwpT3d" text="Ōmura Yuugao"/>
-		<string id="YgGJdujN" text="Ōmura Shirasame"/>
-		<string id="qjFeheme" text="Yasutomi sumiharu"/>
-		<string id="5EDIHiUN" text="Fukuda koshi"/>
-		<string id="gcJhVyAL" text="Yoshihiro Toki"/>
-		<string id="j1RRxloG" text="Takahashi Kaname"/>
-		<string id="XYmKfVXX" text="Nawa Yukinao"/>
-		<string id="hv1qJGAV" text="Takezaki Koremitsu"/>
-		<string id="P62eOd0e" text="Takezaki Sawa"/>
-		<string id="L7lfoFu7" text="Takezaki Nagahide"/>
-		<string id="WRBJMAxG" text="Takezaki Tama"/>
-		<string id="3IgBMBjO" text="Takezaki Tsuki"/>
-		<string id="uq8mSvxo" text="Amakusa Tanemoto"/>
-		<string id="EPAOxYQz" text="Ōnishi Mototaka"/>
-		<string id="wx2ueWmc" text="Ōnishi Keizen-in"/>
-		<string id="RvDxK05Y" text="Ōnishi Yoritake"/>
-		<string id="hM5I9P0H" text="Ōnishi Amaki"/>
-		<string id="rWLTD0VP" text="Ōnishi Shigemoto"/>
-		<string id="1DquGOk6" text="Ōnishi Haruka"/>
-		<string id="IAlJOXYB" text="Ōnishi Yoriharu"/>
-		<string id="yHGYnv7J" text="Ōnishi Tochi"/>
-		<string id="nTvvBSyL" text="Ōnishi Yorikane"/>
-		<string id="SQk4kSuU" text="Ōnishi Yorinobu"/>
-		<string id="MuaWnIVG" text="Ōnishi Mototake"/>
-		<string id="oeXBYpPO" text="Ōnishi Suzuran"/>
-		<string id="vufFgWYR" text="Ōnishi Sadatake"/>
-		<string id="CoZaJNAY" text="Ōnishi Hamagiku"/>
-		<string id="l7TOWvmc" text="Souma Takatane"/>
-		<string id="HByndZnP" text="Tamura Aki"/>
-		<string id="CS8KPrQ8" text="Ōsaki Yoshitaka"/>
-		<string id="iMBlTpJj" text="Sakenobe hidetsuna"/>
+		<string id="7PtkKC5L" text="Tsunetoshi"/>
+		<string id="a8fhiErH" text="Youtoku-in"/>
+		<string id="mZrml2Ov" text="Motosuke"/>
+		<string id="VylcfU2r" text="Terumasa"/>
+		<string id="qiIMdezD" text="Sen"/>
+		<string id="vXdi14Dt" text="Nagamasa"/>
+		<string id="RuAChgqW" text="Yuzu"/>
+		<string id="tIwfNdAU" text="Kaede"/>
+		<string id="CAxVPHIx" text="Tadasuke"/>
+		<string id="ksrFELDK" text="Yasunari"/>
+		<string id="MLZq7awV" text="Tamekage"/>
+		<string id="QwRXJCmI" text="Seigan-in"/>
+		<string id="axhJs6IX" text="Masakage"/>
+		<string id="jCqzvM9s" text="Tsunasada"/>
+		<string id="r6hPxS8L" text="Tenshou-in"/>
+		<string id="0W8I3WDW" text="Nobutora"/>
+		<string id="ypwKxiQu" text="Oi"/>
+		<string id="kJSK4wyx" text="Nobutada"/>
+		<string id="aEtxWN2O" text="Fuchi"/>
+		<string id="J8S3HAxP" text="Kame"/>
+		<string id="cndf29xy" text="Katsuhisa"/>
+		<string id="3jEENNGd" text="Tamane"/>
+		<string id="hJUC1nK9" text="Ujihisa"/>
+		<string id="Aa6selTk" text="Michihisa"/>
+		<string id="yGggICSa" text="Sanehisa"/>
+		<string id="e5jJlTcT" text="Seiryou-in"/>
+		<string id="qYih12OY" text="Yukimori"/>
+		<string id="npZ70oDb" text="Yura"/>
+		<string id="2qyQ5uu7" text="Yukitaka"/>
+		<string id="HhM0uBm3" text="Mitsuyuki"/>
+		<string id="fdzr5fWf" text="Shunkei-in"/>
+		<string id="lDbNEfEh" text="Hisatsuna"/>
+		<string id="WFQ0UuXw" text="Fuse"/>
+		<string id="07juHC01" text="Mitsutada"/>
+		<string id="DFrIaaPX" text="Nami"/>
+		<string id="ayqIRS5x" text="Nobusada"/>
+		<string id="78h2ApYu" text="Nagayasu"/>
+		<string id="5Zj9vfbh" text="Jishou-in"/>
+		<string id="dP4NuLXZ" text="Chikayasu"/>
+		<string id="PiGMjXxP" text="Myoukou-in"/>
+		<string id="xKCKGPUy" text="Houshun-in"/>
+		<string id="8doVlvNw" text="Iekuni"/>
+		<string id="7JhWt0Cr" text="Masatuna"/>
+		<string id="DkDMVX0S" text="Yasutsuna"/>
+		<string id="Vjv0jhtU" text="Yoshitaka"/>
+		<string id="6pWBEhfi" text="Saka"/>
+		<string id="eCgQgJ32" text="Tokitada"/>
+		<string id="JgzJTQRD" text="Yasuharu"/>
+		<string id="cyPZnisM" text="Kotoku-in"/>
+		<string id="oRMj5Dw4" text="Suketane"/>
+		<string id="qaSYtI7f" text="Ujimoto"/>
+		<string id="pyD59qMo" text="Hisahide"/>
+		<string id="3Cbdw30u" text="Nobuyasu"/>
+		<string id="QZU9vMWY" text="Sawa"/>
+		<string id="M8CaIjW3" text="Fuyuyasu"/>
+		<string id="pDYIBBAa" text="Keiten-in"/>
+		<string id="DakzCL2f" text="Kiyoyasu"/>
+		<string id="Iqa3v7D1" text="Yoshiaki"/>
+		<string id="Cxfk22gK" text="Sako"/>
+		<string id="JD9quZid" text="Haruko"/>
+		<string id="rCZzutl7" text="Koumyou-in"/>
+		<string id="wmriGx9z" text="Nene"/>
+		<string id="DHsiGvld" text="Sessou"/>
+		<string id="SqR0Mu6S" text="Shigetoki"/>
+		<string id="ewils0Dz" text="Kita"/>
+		<string id="b8DHDVJl" text="Iwagiri"/>
+		<string id="y7KNSSPN" text="Sumitada"/>
+		<string id="6VZ8rqKC" text="Oen"/>
+		<string id="qtwaI7LN" text="Yoshiaki"/>
+		<string id="XqAwpT3d" text="Yuugao"/>
+		<string id="YgGJdujN" text="Shirasame"/>
+		<string id="qjFeheme" text="sumiharu"/>
+		<string id="5EDIHiUN" text="koshi"/>
+		<string id="gcJhVyAL" text="Toki"/>
+		<string id="j1RRxloG" text="Kaname"/>
+		<string id="XYmKfVXX" text="Yukinao"/>
+		<string id="hv1qJGAV" text="Koremitsu"/>
+		<string id="P62eOd0e" text="Sawa"/>
+		<string id="L7lfoFu7" text="Nagahide"/>
+		<string id="WRBJMAxG" text="Tama"/>
+		<string id="3IgBMBjO" text="Tsuki"/>
+		<string id="uq8mSvxo" text="Tanemoto"/>
+		<string id="EPAOxYQz" text="Mototaka"/>
+		<string id="wx2ueWmc" text="Keizen-in"/>
+		<string id="RvDxK05Y" text="Yoritake"/>
+		<string id="hM5I9P0H" text="Amaki"/>
+		<string id="rWLTD0VP" text="Shigemoto"/>
+		<string id="1DquGOk6" text="Haruka"/>
+		<string id="IAlJOXYB" text="Yoriharu"/>
+		<string id="yHGYnv7J" text="Tochi"/>
+		<string id="nTvvBSyL" text="Yorikane"/>
+		<string id="SQk4kSuU" text="Yorinobu"/>
+		<string id="MuaWnIVG" text="Mototake"/>
+		<string id="oeXBYpPO" text="Suzuran"/>
+		<string id="vufFgWYR" text="Sadatake"/>
+		<string id="CoZaJNAY" text="Hamagiku"/>
+		<string id="l7TOWvmc" text="Takatane"/>
+		<string id="HByndZnP" text="Aki"/>
+		<string id="CS8KPrQ8" text="Yoshitaka"/>
+		<string id="iMBlTpJj" text="hidetsuna"/>
 		<string id="XRWN4wOB" text="Asakura"/>
 		<string id="0EuaiL5U" text="Yamazaki"/>
 		<string id="65nRjENB" text="Mizoe"/>
@@ -5793,98 +5793,98 @@
 		<string id="3fz2Vwcf" text="Candle{@Plural}loads of candles{\@}" />
 		<string id="K7VXY1Wi" text="Trading of {ITEM} is forbidden by the {FACTION_NAME_1}." />
 		<string id="n6nnkLxo" text="Daimyo {RULER.NAME}" />
-		<string id="pK7A2Rp7" text="Mouri Terumoto"/>
-		<string id="fov5Mzy7" text="Mouri Motonari"/>
-		<string id="DjUMn7At" text="Mouri Myokyu"/>
-		<string id="14vUfETg" text="Mouri Takamoto"/>
-		<string id="BSWxMZFE" text="Mouri Ayaya"/>
-		<string id="x08M6xh2" text="Mouri Motoaki"/>
-		<string id="HzJdFNL7" text="Mouri Hidekane"/>
-		<string id="ljrQK9ik" text="Kobayakawa Takakage"/>
-		<string id="VQH0SYq0" text="Kobayakawa Toida No Ōkata"/>
-		<string id="9BscWFYJ" text="Kikkawa Motoharu"/>
-		<string id="PqjmlE5W" text="Kikkawa Iwakuni"/>
-		<string id="QnqH5KZ0" text="Kikkawa Motonaga"/>
-		<string id="3OyxaM6M" text="Kikkawa Yomogi"/>
-		<string id="0wrHmcK7" text="Kikkawa Hiroie"/>
-		<string id="BrDafz9a" text="Kikkawa Tomi"/>
-		<string id="akFMV6yS" text="Kikkawa Amane"/>
-		<string id="UENAABaj" text="Kikkawa Tuneyasu"/>
-		<string id="BDvDn7EA" text="Kikkawa Awa"/>
-		<string id="3PJdgQiO" text="Kikkawa Tuneie"/>
-		<string id="unkJIljQ" text="Kikkawa Momo"/>
-		<string id="tZTNsQR1" text="Kikkawa Hina"/>
-		<string id="9tqn5PPq" text="Kikkawa Tomoe"/>
-		<string id="3gl90OC4" text="Yoshimi Masayori"/>
-		<string id="ujpvQZRt" text="Yoshimi Ōmiya"/>
-		<string id="tMK6TwxL" text="Yoshimi Hiroyori"/>
-		<string id="O6uSZlqz" text="Yoshimi Makomo"/>
-		<string id="p4gAtQ44" text="Yoshimi Hiromasa"/>
-		<string id="fFw7eVr9" text="Yoshimi Hagi"/>
-		<string id="eqnHNZTn" text="Naitou Masayori"/>
-		<string id="FjERkhTK" text="Naitou Ōmiya"/>
-		<string id="wREIyLQ0" text="Naitou Motoyasu"/>
-		<string id="fA2yEMQT" text="Nanjou Munehiro"/>
-		<string id="vsXnQaY3" text="Nanjou Shoukoku-in"/>
-		<string id="JBy4izdl" text="Nanjou Sousyou"/>
-		<string id="3t890NFw" text="Nanjou Mukuge"/>
-		<string id="IoiBIuNR" text="Nanjou Mototsugu"/>
-		<string id="3WRBgvB5" text="Nanjou Yukue"/>
-		<string id="Y4IdPEjO" text="Nanjou Motoaki"/>
-		<string id="Num8z5UZ" text="Nanjou Nobumasa"/>
-		<string id="JNbU5CCb" text="Nanjou Tokiwa"/>
-		<string id="0LcWeO9q" text="Nanjou Munenobu"/>
-		<string id="0VdMZ0JH" text="Nanjou Shima"/>
-		<string id="VUZ97dN1" text="Mizawa Tamekiyo"/>
-		<string id="U4DnOQh4" text="Mizawa Kura"/>
-		<string id="gYclqkoJ" text="Mizawa Tametora"/>
-		<string id="WCuytuAF" text="Mizawa Wase"/>
-		<string id="gzGocQQH" text="Amano Takashige"/>
-		<string id="e97cGhbY" text="Amano Kitsu"/>
-		<string id="VDpeZ1bz" text="Amano Motoaki"/>
-		<string id="OCQRIum4" text="Amano Naka"/>
-		<string id="5v6c3AmS" text="Amano Motosuke"/>
-		<string id="MQjGjSgA" text="Amano Chise"/>
-		<string id="8ZbntjPj" text="Amano Mototomo"/>
-		<string id="qU1saRSl" text="Amano Motoyoshi"/>
-		<string id="Zrq9XCGa" text="Amano Motonobu"/>
-		<string id="TmaAlQZ0" text="Murakami Takeyoshi"/>
-		<string id="YqOXyWEZ" text="Murakami Somefuji"/>
-		<string id="GdKyldZW" text="Murakami Motoyoshi"/>
-		<string id="wMYFNM6X" text="Murakami Konagi"/>
-		<string id="BXLhyQKn" text="Murakami Michifusa"/>
-		<string id="N2Z8yCGx" text="Murakami Naoyoshi"/>
-		<string id="EHBZVYCj" text="Murakami Kohama"/>
-		<string id="uIHSWACL" text="Murakami Yoshimichi"/>
-		<string id="MWaaoXcS" text="Murakami Suou"/>
-		<string id="dlXo3cfH" text="Kawano Michiharu"/>
-		<string id="s4Imj6GD" text="Kawano Seri"/>
-		<string id="f846iOIo" text="Kawano Michinobu"/>
-		<string id="aNxr9NcV" text="Kawano Mukuge"/>
-		<string id="tAxoidEM" text="Kawano Michinao"/>
-		<string id="wn4Z5851" text="Uragami Munekage"/>
-		<string id="ys5UK0RM" text="Uragami Shion"/>
-		<string id="Vcpfb24L" text="Uragami Munetoki"/>
-		<string id="N1n8pWTZ" text="Uragami Konagi"/>
-		<string id="4JsopToS" text="Ukita Okiie"/>
-		<string id="E1ylj5fW" text="Ukita Zenjo-in"/>
-		<string id="FOH3wIT7" text="Ukita Naoie"/>
-		<string id="0Gm8PH8I" text="Ukita Uzu"/>
-		<string id="yEwFRYGg" text="Ukita Ai"/>
-		<string id="EXLq4niV" text="Ukita Ran"/>
-		<string id="EFdrEfOJ" text="Ukita Tsukuha"/>
-		<string id="cqknUpXj" text="Ukita Kaya"/>
-		<string id="Yc3JNSpo" text="Ukita Tadaie"/>
-		<string id="HtkNPcxI" text="Ukita Nadeshiko"/>
-		<string id="RTJSr2O7" text="Ukita Motoie"/>
-		<string id="nAlhkml6" text="Ukita Akiie"/>
-		<string id="9rJmnygh" text="Ukita Shiramomo"/>
-		<string id="Z173vNw9" text="Ukita Aofuji"/>
-		<string id="y4yCzF20" text="Akashi Yukikatsu"/>
-		<string id="MBdD4EMq" text="Akashi Ashi"/>
-		<string id="Les0dY3I" text="Akashi Teruzumi"/>
-		<string id="id3ouNCV" text="Akashi Akebi"/>
-		<string id="Oh4D3H4n" text="Akashi Awa"/>
+		<string id="pK7A2Rp7" text="Terumoto"/>
+		<string id="fov5Mzy7" text="Motonari"/>
+		<string id="DjUMn7At" text="Myokyu"/>
+		<string id="14vUfETg" text="Takamoto"/>
+		<string id="BSWxMZFE" text="Ayaya"/>
+		<string id="x08M6xh2" text="Motoaki"/>
+		<string id="HzJdFNL7" text="Hidekane"/>
+		<string id="ljrQK9ik" text="Takakage"/>
+		<string id="VQH0SYq0" text="Toida No Ōkata"/>
+		<string id="9BscWFYJ" text="Motoharu"/>
+		<string id="PqjmlE5W" text="Iwakuni"/>
+		<string id="QnqH5KZ0" text="Motonaga"/>
+		<string id="3OyxaM6M" text="Yomogi"/>
+		<string id="0wrHmcK7" text="Hiroie"/>
+		<string id="BrDafz9a" text="Tomi"/>
+		<string id="akFMV6yS" text="Amane"/>
+		<string id="UENAABaj" text="Tuneyasu"/>
+		<string id="BDvDn7EA" text="Awa"/>
+		<string id="3PJdgQiO" text="Tuneie"/>
+		<string id="unkJIljQ" text="Momo"/>
+		<string id="tZTNsQR1" text="Hina"/>
+		<string id="9tqn5PPq" text="Tomoe"/>
+		<string id="3gl90OC4" text="Masayori"/>
+		<string id="ujpvQZRt" text="Ōmiya"/>
+		<string id="tMK6TwxL" text="Hiroyori"/>
+		<string id="O6uSZlqz" text="Makomo"/>
+		<string id="p4gAtQ44" text="Hiromasa"/>
+		<string id="fFw7eVr9" text="Hagi"/>
+		<string id="eqnHNZTn" text="Masayori"/>
+		<string id="FjERkhTK" text="Ōmiya"/>
+		<string id="wREIyLQ0" text="Motoyasu"/>
+		<string id="fA2yEMQT" text="Munehiro"/>
+		<string id="vsXnQaY3" text="Shoukoku-in"/>
+		<string id="JBy4izdl" text="Sousyou"/>
+		<string id="3t890NFw" text="Mukuge"/>
+		<string id="IoiBIuNR" text="Mototsugu"/>
+		<string id="3WRBgvB5" text="Yukue"/>
+		<string id="Y4IdPEjO" text="Motoaki"/>
+		<string id="Num8z5UZ" text="Nobumasa"/>
+		<string id="JNbU5CCb" text="Tokiwa"/>
+		<string id="0LcWeO9q" text="Munenobu"/>
+		<string id="0VdMZ0JH" text="Shima"/>
+		<string id="VUZ97dN1" text="Tamekiyo"/>
+		<string id="U4DnOQh4" text="Kura"/>
+		<string id="gYclqkoJ" text="Tametora"/>
+		<string id="WCuytuAF" text="Wase"/>
+		<string id="gzGocQQH" text="Takashige"/>
+		<string id="e97cGhbY" text="Kitsu"/>
+		<string id="VDpeZ1bz" text="Motoaki"/>
+		<string id="OCQRIum4" text="Naka"/>
+		<string id="5v6c3AmS" text="Motosuke"/>
+		<string id="MQjGjSgA" text="Chise"/>
+		<string id="8ZbntjPj" text="Mototomo"/>
+		<string id="qU1saRSl" text="Motoyoshi"/>
+		<string id="Zrq9XCGa" text="Motonobu"/>
+		<string id="TmaAlQZ0" text="Takeyoshi"/>
+		<string id="YqOXyWEZ" text="Somefuji"/>
+		<string id="GdKyldZW" text="Motoyoshi"/>
+		<string id="wMYFNM6X" text="Konagi"/>
+		<string id="BXLhyQKn" text="Michifusa"/>
+		<string id="N2Z8yCGx" text="Naoyoshi"/>
+		<string id="EHBZVYCj" text="Kohama"/>
+		<string id="uIHSWACL" text="Yoshimichi"/>
+		<string id="MWaaoXcS" text="Suou"/>
+		<string id="dlXo3cfH" text="Michiharu"/>
+		<string id="s4Imj6GD" text="Seri"/>
+		<string id="f846iOIo" text="Michinobu"/>
+		<string id="aNxr9NcV" text="Mukuge"/>
+		<string id="tAxoidEM" text="Michinao"/>
+		<string id="wn4Z5851" text="Munekage"/>
+		<string id="ys5UK0RM" text="Shion"/>
+		<string id="Vcpfb24L" text="Munetoki"/>
+		<string id="N1n8pWTZ" text="Konagi"/>
+		<string id="4JsopToS" text="Okiie"/>
+		<string id="E1ylj5fW" text="Zenjo-in"/>
+		<string id="FOH3wIT7" text="Naoie"/>
+		<string id="0Gm8PH8I" text="Uzu"/>
+		<string id="yEwFRYGg" text="Ai"/>
+		<string id="EXLq4niV" text="Ran"/>
+		<string id="EFdrEfOJ" text="Tsukuha"/>
+		<string id="cqknUpXj" text="Kaya"/>
+		<string id="Yc3JNSpo" text="Tadaie"/>
+		<string id="HtkNPcxI" text="Nadeshiko"/>
+		<string id="RTJSr2O7" text="Motoie"/>
+		<string id="nAlhkml6" text="Akiie"/>
+		<string id="9rJmnygh" text="Shiramomo"/>
+		<string id="Z173vNw9" text="Aofuji"/>
+		<string id="y4yCzF20" text="Yukikatsu"/>
+		<string id="MBdD4EMq" text="Ashi"/>
+		<string id="Les0dY3I" text="Teruzumi"/>
+		<string id="id3ouNCV" text="Akebi"/>
+		<string id="Oh4D3H4n" text="Awa"/>
 		<string id="hGldIz36" text="Scene"/>
 		<string id="BsBOSmUu" text="Size"/>
 		<string id="emENhm0F" text="Bound"/>

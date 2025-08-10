@@ -191,7 +191,7 @@
 			 name="{=bWjqvgLb}Utsunomiya Ryougoku"
 			 short_name="{=9iMMapjE}Utsunomiya"
 			 title="{=9iMMapjE}Utsunomiya-shi"
-			 ruler_title="{=tRwThwR8}Daimyou-shi"
+			 ruler_title="{=tRwThwR8}Daimyou"
 			 text="{=3Qp3tQAp}The Utsunomiya domain, situated in the fertile plains of the Kantou region, lies along the vital routes that connect the northern regions with the political centers of the south, making it both a gateway and a bulwark for northern Kanto. Once powerful retainers of the Kamakura Shogunate, the Utsunomiya have seen their influence wane amid the conflicts of the region and under the leadership of Utsunomiya Hirotsuna the domain struggles to maintain a stable position in front of the threat of the expansionist Houjou advancing further into Kantou and the Uesugi from the north trying to restore their foothold in the region.">
 		<relationships> </relationships>
 		<policies> </policies>
@@ -234,7 +234,7 @@
 			 name="{=97tn9Agd}Asakura Ryougoku"
 			 short_name="{=Hwgq2oHf}Asakura"
 			 title="{=Hwgq2oHf}Asakura-shi"
-			 ruler_title="{=tRwThwR8}Daimyou-shi"
+			 ruler_title="{=tRwThwR8}Daimyou"
 			 text="{=CGhEAAEk}The Asakura domain has long been a powerhouse in the Hokuriku region, where the Asakura rose to prominence as stewards of Echizen ruling from their stronghold of Ichijoudani The Asakura domain has tried to maintain stability amid the chaos of the warring state period, but must now prepare for inevitable military confrontation as Oda Nobunaga’s forces press into the region, and now find itself caught between the ambitions of Nobunaga to the south and the powerful Azai clan to the west, with whom they maintain an uneasy alliance.">
 		<relationships> </relationships>
 		<policies> </policies>
@@ -255,7 +255,7 @@
 			 name="{=4c5OF6TQ}Anekouji Ryougoku"
 			 short_name="{=QqEJybge}Anekouji"
 			 title="{=QqEJybge}Anekouji-shi"
-			 ruler_title="{=tRwThwR8}Daimyou-shi"
+			 ruler_title="{=tRwThwR8}Daimyou"
 			 text="{=223fsYNu}The Anekouji domain, nestled in the mountainous province of Hida, has long stood apart from the fierce rivalries of the lowland daimyō, protected by the region’s formidable terrain and natural isolation. However, the Anekouji's position is now increasingly threatened by neighbours, like the powerful Takeda to the east and expanding Oda to the south, who seek control over the valuable mountain passes and timber resources of Hida.">
 		<relationships> </relationships>
 		<policies> </policies>
@@ -276,7 +276,7 @@
 			 name="{=OHqGIRhL}Tokugawa Ryougoku"
 			 short_name="{=nAUwT8JG}Tokugawa"
 			 title="{=nAUwT8JG}Tokugawa-shi"
-			 ruler_title="{=tRwThwR8}Daimyou-shi"
+			 ruler_title="{=tRwThwR8}Daimyou"
 			 text="{=jsfn2IAQ}The Tokugawa domain, based in the western edges of the strategic Toukai region, finds itself at an existential turning point under the rising leadership of Tokugawa Ieyasu. After the momentous Battle of Okehazama, the Tokugawa have broken the shackles of vassalage under the Imagawa and have seized the western territories of its former overlords, with the northern border secured by the newly formed alliance with the victor of Okehazama, Oda Nobunaga, who now prepares to march on Kyoto. Nevertheless, the position of the young Tokugawa domain remains vulnerable as the risk looms that a resurgent Imagawa or the ambitious Takeda of the north will take advantage of Nobunaga's absence to crush it under their own heel.">
 		<relationships> </relationships>
 		<policies> </policies>
