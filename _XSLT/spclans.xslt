@@ -14,7 +14,7 @@
   <xsl:template match="Faction[@id='clan_uchigashima_1']/@name" ><xsl:attribute name="name">{=LboIPHhY}Uchigashima</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_shimotsuma_1']/@name" ><xsl:attribute name="name">{=8Kqhx9R1}Shimotsuma</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_shichiri_1']/@name" ><xsl:attribute name="name">{=kXGcCns5}Shichiri</xsl:attribute></xsl:template>
-  <xsl:template match="Faction[@id='clan_notohatakeyama_1']/@name" ><xsl:attribute name="name">{=1iyE0PaI}Hatakeyama</xsl:attribute></xsl:template>
+  <xsl:template match="Faction[@id='clan_notohatakeyama_1']/@name" ><xsl:attribute name="name">{=1iyE0PaI}Noto-Hatakeyama</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_cho_1']/@name" ><xsl:attribute name="name">{=oooOrCfb}Chou</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_yusa_1']/@name" ><xsl:attribute name="name">{=iilNBXIF}Yusa</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_nukui_1']/@name" ><xsl:attribute name="name">{=IqeslrzB}Nukui</xsl:attribute></xsl:template>
@@ -25,15 +25,15 @@
   <xsl:template match="Faction[@id='clan_tokugawa_1']/@name" ><xsl:attribute name="name">{=qVwe6PhI}Tokugawa</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_honda_1']/@name" ><xsl:attribute name="name">{=u6lrAs3a}Honda</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_sakakibara_1']/@name" ><xsl:attribute name="name">{=5WrhQacH}Sakakibara</xsl:attribute></xsl:template>
-  <xsl:template match="Faction[@id='clan_sakai_1']/@name" ><xsl:attribute name="name">{=8ARCCCRo}Sakai</xsl:attribute></xsl:template>
+  <xsl:template match="Faction[@id='clan_sakai_1']/@name" ><xsl:attribute name="name">{=8ARCCCRo}Mikawa-Sakai</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_ii_1']/@name" ><xsl:attribute name="name">{=2UQC6ICH}Ii</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_okubo_1']/@name" ><xsl:attribute name="name">{=Oznhza31}Ōkubo</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_hattori_1']/@name" ><xsl:attribute name="name">{=mQXREA7g}Hattori</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_uesugi_1']/@name" ><xsl:attribute name="name">{=cst28b0f}Uesugi</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_irobe_1']/@name" ><xsl:attribute name="name">{=KLuc7HoH}Irobe</xsl:attribute></xsl:template>
-  <xsl:template match="Faction[@id='clan_kakizaki_1']/@name" ><xsl:attribute name="name">{=ut0zK1q3}Kakizaki</xsl:attribute></xsl:template>
+  <xsl:template match="Faction[@id='clan_kakizaki_1']/@name" ><xsl:attribute name="name">{=ut0zK1q3}Echigo-Kakizaki</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_naoe_1']/@name" ><xsl:attribute name="name">{=46beFBYz}Naoe</xsl:attribute></xsl:template>
-  <xsl:template match="Faction[@id='clan_shibata_2']/@name" ><xsl:attribute name="name">{=dKQsidWH}Shibata</xsl:attribute></xsl:template>
+  <xsl:template match="Faction[@id='clan_shibata_2']/@name" ><xsl:attribute name="name">{=dKQsidWH}Echigo-Shibata</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_jinbo_1']/@name" ><xsl:attribute name="name">{=5CN6Gy5S}Jinbo</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_murakami_2']/@name" ><xsl:attribute name="name">{=zMS7kVYL}Murakami</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_honma_1']/@name" ><xsl:attribute name="name">{=vbUCt3rO}Honma</xsl:attribute></xsl:template>
@@ -103,7 +103,7 @@
   <xsl:template match="Faction[@id='clan_yamana_1']/@name" ><xsl:attribute name="name">{=kwCYCFhQ}Yamana</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_honganji_1']/@name" ><xsl:attribute name="name">{=xRnrOdTc}Honganji</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_ganshoji_1']/@name" ><xsl:attribute name="name">{=Hkaz0M4C}Ganshouji</xsl:attribute></xsl:template>
-  <xsl:template match="Faction[@id='clan_hatakeyama_1']/@name" ><xsl:attribute name="name">{=lx34RrxX}Noto-Hatakeyama</xsl:attribute></xsl:template>
+  <xsl:template match="Faction[@id='clan_hatakeyama_1']/@name" ><xsl:attribute name="name">{=lx34RrxX}Bishū-Hatakeyama</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_yasumi_1']/@name" ><xsl:attribute name="name">{=99Mh6vBQ}Yasumi</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_yukawa_1']/@name" ><xsl:attribute name="name">{=ikViyOmi}Yukawa</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_rokkaku_1']/@name" ><xsl:attribute name="name">{=AFuBZx4V}Rokkaku</xsl:attribute></xsl:template>
@@ -114,7 +114,7 @@
   <xsl:template match="Faction[@id='clan_akao_1']/@name" ><xsl:attribute name="name">{=Mq2WPvMA}Akao</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_oda_1']/@name" ><xsl:attribute name="name">{=lfglFdss}Oda</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_kinoshita_1']/@name" ><xsl:attribute name="name">{=OljOni7v}Kinoshita</xsl:attribute></xsl:template>
-  <xsl:template match="Faction[@id='clan_shibata_1']/@name" ><xsl:attribute name="name">{=dOsL2isy}Shibata</xsl:attribute></xsl:template>
+  <xsl:template match="Faction[@id='clan_shibata_1']/@name" ><xsl:attribute name="name">{=dOsL2isy}Owari-Shibata</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_sakuma_1']/@name" ><xsl:attribute name="name">{=Fch4loOb}Sakuma</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_takigawa_1']/@name" ><xsl:attribute name="name">{=g1Mabrdw}Takigawa</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_kuki_1']/@name" ><xsl:attribute name="name">{=Oz4Epb0l}Kuki</xsl:attribute></xsl:template>

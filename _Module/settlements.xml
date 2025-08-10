@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Settlements>
-  <Settlement id="castle_AMA1" name="{=R6gnCH7g}Kouno Castle" owner="Faction.clan_amago_1" posX="612.341" posY="771.491" culture="Culture.sanyo" gate_posX="613.8493" gate_posY="770.0363">
+  <Settlement id="castle_AMA1" name="{=R6gnCH7g}Kounō Castle" owner="Faction.clan_amago_1" posX="612.341" posY="771.491" culture="Culture.sanyo" gate_posX="613.8493" gate_posY="770.0363">
     <Components>
       <Town id="castle_comp_AMA1" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="656"/>
     </Components>

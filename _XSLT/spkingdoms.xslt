@@ -206,7 +206,7 @@
 	<xsl:template match="Kingdom[@id='ashikaga']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
-			<xsl:attribute name='name'>{=RTJJQ1N4}Ashikaga Ryougoku</xsl:attribute>
+			<xsl:attribute name='name'>{=RTJJQ1N4}Ashikaga Shogunate</xsl:attribute>
 			<xsl:attribute name='short_name'>{=hMz5eeje}Ashikaga-shi</xsl:attribute>
 			<xsl:attribute name='title'>{=hMz5eeje}Ashikaga-shi</xsl:attribute>
 			<xsl:attribute name='ruler_title'>{=tRwThwR8}Daimyou</xsl:attribute>
@@ -221,7 +221,7 @@
 			<xsl:attribute name='short_name'>{=4cnmTBU0}Hatakeyama-shi</xsl:attribute>
 			<xsl:attribute name='title'>{=4cnmTBU0}Hatakeyama-shi</xsl:attribute>
 			<xsl:attribute name='ruler_title'>{=tRwThwR8}Daimyou</xsl:attribute>
-			<xsl:attribute name='text'>{=X4zkzPVE}The Hatakeyama domain, once a dominant power during the height of the Ashikaga shogunate, which the Hatakeyama controlled as Kanrei, has fractured into splintered territories across the Kinai region, home to ruling clan, and Hokuriku region, where the Noto branch of the Hatakeyama clan maintains a tenuous grasp over their coastal territories. Weakened and divided both geographically and politically, the Hatakeyama domain now faces the risk of disappearing entirely as their former vassals, the Myoshi, seek to expand their control over the capital region, while Uesugi Kenshin casts a long shadow over Noto.</xsl:attribute>
+			<xsl:attribute name='text'>{=X4zkzPVE}The Hatakeyama domain, once a dominant power during the height of the Ashikaga shogunate, which the Hatakeyama controlled as Kanrei, has fractured into splintered territories across the Kinai region, home to ruling clan, and Hokuriku region, where the Noto branch of the Hatakeyama clan maintains a tenuous grasp over their coastal territories. Weakened and divided both geographically and politically, the Hatakeyama domain now faces the risk of disappearing entirely as their former vassals, the Miyoshi, seek to expand their control over the capital region, while Uesugi Kenshin casts a long shadow over Noto.</xsl:attribute>
 			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
@@ -306,8 +306,8 @@
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
 			<xsl:attribute name='name'>{=1kGV1kZG}Saionji Ryougoku</xsl:attribute>
-			<xsl:attribute name='short_name'>{=2TWnRnkw}Saionji-ke</xsl:attribute>
-			<xsl:attribute name='title'>{=2TWnRnkw}Saionji-ke</xsl:attribute>
+			<xsl:attribute name='short_name'>{=2TWnRnkw}Saionji-shi</xsl:attribute>
+			<xsl:attribute name='title'>{=2TWnRnkw}Saionji-shi</xsl:attribute>
 			<xsl:attribute name='ruler_title'>{=tRwThwR8}Daimyou</xsl:attribute>
 			<xsl:attribute name='text'>{=3EIYubRB}The Saionji domain lies in the southwestern reaches of Shikoku, where the Saionji clan relocated after the unrest around the imperial court in Kyoto. From their stronghold in Kurose the Saionji solidified control of the province while competing with the neighbouring Ichijou. Yet their authority is increasingly threatened by the expansionist ambitions of the Mouri to the north and the Chousokabe to the east. Isolated by the mountainous terrain, the Saionji domain must forge powerful alliances to preserve its independence, or the noble legacy of the Saionji may soon come to its end.</xsl:attribute>
 			<xsl:apply-templates select="node()"/>
@@ -317,8 +317,8 @@
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
 			<xsl:attribute name='name'>{=aUUSaL8k}Ichijou Ryougoku</xsl:attribute>
-			<xsl:attribute name='short_name'>{=44ThIRyK}Ichijou-ke</xsl:attribute>
-			<xsl:attribute name='title'>{=44ThIRyK}Ichijou-ke</xsl:attribute>
+			<xsl:attribute name='short_name'>{=44ThIRyK}Ichijou-shi</xsl:attribute>
+			<xsl:attribute name='title'>{=44ThIRyK}Ichijou-shi</xsl:attribute>
 			<xsl:attribute name='ruler_title'>{=tRwThwR8}Daimyou</xsl:attribute>
 			<xsl:attribute name='text'>{=iAlki3Jx}The Ichijou domain was once one of the main powers on the island of Shikoku, where the courtly Ichijou clan fled during the Ōnin War. From their seat of Nakamura the Ichijou established firm control over most of Southern Shikoku and attempted to recreate the orderly and cultured rule they knew in Kyoto. Yet despite their efforts their power has waned amidst rising dissent and the ambitions of former retainers, chief among them the Chousokabe clan, who have broken their vassal bonds and taken over much of Tosa Province. Left vulnerable and surrounded on all sides by hostile daimyos, in order to survive the incoming onslaught the Ichijou domain must reassert its control over its former vassals and repel any further aggression from old rivals Saionji and the newly established Mouri.</xsl:attribute>
 			<xsl:apply-templates select="node()"/>
