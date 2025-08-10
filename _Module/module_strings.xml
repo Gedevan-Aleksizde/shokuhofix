@@ -655,9 +655,9 @@
   <string id="str_game_tip.campaign5" text="{=CQZJLWfw}You can reset your perks at the tournament master...for the right price. "/>
   <string id="str_hero" text="{=qc9Llr3x}Hero"/>
   <string id="str_leave_training_field" text="{=D9GkBqyW}You can leave the training field by holding {LEAVE_KEY}{newline}You can return at any time from the campaign map."/>
-  <string id="str_workshop_upgrade_explain" text="{=Shokuho4f1aEeDf}Upgrading a workshop will ETC ETC TODO_CAMPAIGN"/>
-  <string id="str_workshop_downgrade_explain" text="{=Shokuho6e1eC519}Downgrading a workshop will ETC ETC TODO_CAMPAIGN"/>
-  <string id="str_workshop_sell_explain" text="{=Shokuho060BA0D5}Selling a workshop will ETC ETC TODO_CAMPAIGN"/>
+  <string id="str_workshop_upgrade_explain" text="{=4f1aEeDf}Upgrading a workshop will ETC ETC TODO_CAMPAIGN"/>
+  <string id="str_workshop_downgrade_explain" text="{=6e1eC519}Downgrading a workshop will ETC ETC TODO_CAMPAIGN"/>
+  <string id="str_workshop_sell_explain" text="{=060BA0D5}Selling a workshop will ETC ETC TODO_CAMPAIGN"/>
   <string id="str_kingdom_political_inclination.Authoritarian" text="{=NaMPa4ML}Authoritarian"/>
   <string id="str_kingdom_political_inclination.Oligarchic" text="{=hR6Zo6pD}Oligarchic"/>
   <string id="str_kingdom_political_inclination.Egalitarian" text="{=HMFb1gaq}Egalitarian"/>

@@ -592,9 +592,9 @@
     <xsl:template match="string[@id='str_game_tip.campaign5']/@text" ><xsl:attribute name="text">{=CQZJLWfw}You can reset your perks at the tournament master...for the right price. </xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_hero']/@text" ><xsl:attribute name="text">{=qc9Llr3x}Hero</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_leave_training_field']/@text" ><xsl:attribute name="text">{=D9GkBqyW}You can leave the training field by holding {LEAVE_KEY}{newline}You can return at any time from the campaign map.</xsl:attribute></xsl:template>
-    <xsl:template match="string[@id='str_workshop_upgrade_explain']/@text" ><xsl:attribute name="text">{=Shokuho4f1aEeDf}Upgrading a workshop will ETC ETC TODO_CAMPAIGN</xsl:attribute></xsl:template>
-    <xsl:template match="string[@id='str_workshop_downgrade_explain']/@text" ><xsl:attribute name="text">{=Shokuho6e1eC519}Downgrading a workshop will ETC ETC TODO_CAMPAIGN</xsl:attribute></xsl:template>
-    <xsl:template match="string[@id='str_workshop_sell_explain']/@text" ><xsl:attribute name="text">{=Shokuho060BA0D5}Selling a workshop will ETC ETC TODO_CAMPAIGN</xsl:attribute></xsl:template>
+    <xsl:template match="string[@id='str_workshop_upgrade_explain']/@text" ><xsl:attribute name="text">{=4f1aEeDf}Upgrading a workshop will ETC ETC TODO_CAMPAIGN</xsl:attribute></xsl:template>
+    <xsl:template match="string[@id='str_workshop_downgrade_explain']/@text" ><xsl:attribute name="text">{=6e1eC519}Downgrading a workshop will ETC ETC TODO_CAMPAIGN</xsl:attribute></xsl:template>
+    <xsl:template match="string[@id='str_workshop_sell_explain']/@text" ><xsl:attribute name="text">{=060BA0D5}Selling a workshop will ETC ETC TODO_CAMPAIGN</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_kingdom_political_inclination.Authoritarian']/@text" ><xsl:attribute name="text">{=NaMPa4ML}Authoritarian</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_kingdom_political_inclination.Oligarchic']/@text" ><xsl:attribute name="text">{=hR6Zo6pD}Oligarchic</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_kingdom_political_inclination.Egalitarian']/@text" ><xsl:attribute name="text">{=HMFb1gaq}Egalitarian</xsl:attribute></xsl:template>
