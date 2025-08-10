@@ -27,11 +27,11 @@
   <xsl:template match="Hero[@id='lord_1_asakura_1']/@text" ><xsl:attribute name="text">{=92Plru2R}Asakura Shouko</xsl:attribute></xsl:template>
   <xsl:template match="Hero[@id='lord_1_okabe_4']/@text" ><xsl:attribute name="text">{=jDEOJ3VU}Okabe Sanetaka</xsl:attribute></xsl:template>
   
-  <xsl:template match="Hero[@id='lord_1_mori_2']/@text" ><xsl:attribute name="text">{=Shokuho6Bb23d93}Mouri Myokyu.</xsl:attribute></xsl:template>
-  <xsl:template match="Hero[@id='lord_1_mori_3']/@text" ><xsl:attribute name="text">{=Shokuho83630ee8}Mouri Takamoto.</xsl:attribute></xsl:template>
-  <xsl:template match="Hero[@id='lord_1_mori_4']/@text" ><xsl:attribute name="text">{=Shokuho2521e011}Mouri Ayaya.</xsl:attribute></xsl:template>
-  <xsl:template match="Hero[@id='lord_1_mori_5']/@text" ><xsl:attribute name="text">{=Shokuhof4FE5Ad7}Mouri Motoaki.</xsl:attribute></xsl:template>
-  <xsl:template match="Hero[@id='lord_1_mori_6']/@text" ><xsl:attribute name="text">{=Shokuhoea344E35}Mouri Hidekane.</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_mori_2']/@text" ><xsl:attribute name="text">{=6Bb23d93}Mouri Myokyu.</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_mori_3']/@text" ><xsl:attribute name="text">{=83630ee8}Mouri Takamoto.</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_mori_4']/@text" ><xsl:attribute name="text">{=2521e011}Mouri Ayaya.</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_mori_5']/@text" ><xsl:attribute name="text">{=f4FE5Ad7}Mouri Motoaki.</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_mori_6']/@text" ><xsl:attribute name="text">{=ea344E35}Mouri Hidekane.</xsl:attribute></xsl:template>
   
   <xsl:template match="Hero[@id='lord_1_hojo']/@text" ><xsl:attribute name="text">{=P3zTiZCm}Houjou Ujimasa</xsl:attribute></xsl:template>
   <xsl:template match="Hero[@id='lord_1_hojo_1']/@text" ><xsl:attribute name="text">{=RSvvwQuG}Houjou Hosho-in</xsl:attribute></xsl:template>
@@ -81,11 +81,11 @@
   <xsl:template match="Hero[@id='lord_1_ryuzoji_13']/@text" ><xsl:attribute name="text">{=oKY3txxT}Ryūzouji Yasutoshi</xsl:attribute></xsl:template>
   <xsl:template match="Hero[@id='lord_1_ryuzoji_14']/@text" ><xsl:attribute name="text">{=uPz1Xvdn}Ryūzouji Kikyo</xsl:attribute></xsl:template>
   <xsl:template match="Hero[@id='lord_1_ryuzoji_15']/@text" ><xsl:attribute name="text">{=UOIYnsPP}Ryūzouji Shinko-in</xsl:attribute></xsl:template>
-  <xsl:template match="Hero[@id='lord_1_ichijo']/@text" ><xsl:attribute name="text">{=l9dNB33O}Ichijou  Kanesada</xsl:attribute></xsl:template>
-  <xsl:template match="Hero[@id='lord_1_ichijo_1']/@text" ><xsl:attribute name="text">{=vZK6RwNC}Ichijou  Tamafuji</xsl:attribute></xsl:template>
-  <xsl:template match="Hero[@id='lord_1_ichijo_2']/@text" ><xsl:attribute name="text">{=aa7k9lsZ}Ichijou  Tadamasa</xsl:attribute></xsl:template>
-  <xsl:template match="Hero[@id='lord_1_ichijo_3']/@text" ><xsl:attribute name="text">{=FH6ohwg7}Ichijou  Nobuko</xsl:attribute></xsl:template>
-  <xsl:template match="Hero[@id='lord_1_ichijo_4']/@text" ><xsl:attribute name="text">{=84OJJiZg}Ichijou  Mariko</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ichijo']/@text" ><xsl:attribute name="text">{=l9dNB33O}Ichijou Kanesada</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ichijo_1']/@text" ><xsl:attribute name="text">{=vZK6RwNC}Ichijou Tamafuji</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ichijo_2']/@text" ><xsl:attribute name="text">{=aa7k9lsZ}Ichijou Tadamasa</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ichijo_3']/@text" ><xsl:attribute name="text">{=FH6ohwg7}Ichijou Nobuko</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_ichijo_4']/@text" ><xsl:attribute name="text">{=84OJJiZg}Ichijou Mariko</xsl:attribute></xsl:template>
   <xsl:template match="Hero[@id='lord_1_chosokabe']/@text" ><xsl:attribute name="text">{=EFVk0L5h}Chōsokabe Motochika</xsl:attribute></xsl:template>
   <xsl:template match="Hero[@id='lord_1_chosokabe_1']/@text" ><xsl:attribute name="text">{=6CK8HDZR}Chōsokabe Amane</xsl:attribute></xsl:template>
   <xsl:template match="Hero[@id='lord_1_chosokabe_2']/@text" ><xsl:attribute name="text">{=s6nTS5jf}Chōsokabe Nobuchika</xsl:attribute></xsl:template>
