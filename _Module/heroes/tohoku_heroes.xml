@@ -213,13 +213,13 @@
   <Hero id="lord_1_hachinohe" faction="Faction.clan_hachinohe_1" spouse="Hero.lord_1_hachinohe_1" text="{=4799719e}Hachinohe Masayoshi"/>
   <Hero id="lord_1_hachinohe_1" faction="Faction.clan_hachinohe_1" spouse="Hero.lord_1_hachinohe" text="{=9c5B1Cd0}Hachinohe Toki"/>
   <Hero id="lord_1_hachinohe_2" faction="Faction.clan_hachinohe_1" father="Hero.lord_1_hachinohe" mother="Hero.lord_1_hachinohe_1" text="{=B1508372}Hachinohe Naoyoshi"/>
-  <!--Konohe Clan-->
-  <Hero id="lord_1_konohe" faction="Faction.clan_konohe_1" spouse="Hero.lord_1_konohe_1" father="Hero.lord_1_konohe_2" mother="Hero.lord_1_konohe_3" text="{=4e004d6b}Konohe Masazane"/>
-  <Hero id="lord_1_konohe_1" faction="Faction.clan_konohe_1" spouse="Hero.lord_1_konohe" text="{=36181D6b}Konohe Kei"/>
-  <Hero id="lord_1_konohe_2" faction="Faction.clan_konohe_1" spouse="Hero.lord_1_konohe_3" text="{=c4932B15}Konohe Nobunaka"/>
-  <Hero id="lord_1_konohe_3" faction="Faction.clan_konohe_1" spouse="Hero.lord_1_konohe_2" text="{=b091c046}Konohe Yuki"/>
-  <Hero id="lord_1_konohe_4" faction="Faction.clan_konohe_1" father="Hero.lord_1_konohe_2" mother="Hero.lord_1_konohe_3" text="{=b4D891a5}Konohe Sanechika"/>
-  <Hero id="lord_1_konohe_5" faction="Faction.clan_konohe_1" father="Hero.lord_1_konohe_2" mother="Hero.lord_1_konohe_3" text="{=835A0991}Konohe Shino"/>
+  <!--Kunohe Clan-->
+  <Hero id="lord_1_konohe" faction="Faction.clan_konohe_1" spouse="Hero.lord_1_konohe_1" father="Hero.lord_1_konohe_2" mother="Hero.lord_1_konohe_3" text="{=4e004d6b}Kunohe Masazane"/>
+  <Hero id="lord_1_konohe_1" faction="Faction.clan_konohe_1" spouse="Hero.lord_1_konohe" text="{=36181D6b}Kunohe Kei"/>
+  <Hero id="lord_1_konohe_2" faction="Faction.clan_konohe_1" spouse="Hero.lord_1_konohe_3" text="{=c4932B15}Kunohe Nobunaka"/>
+  <Hero id="lord_1_konohe_3" faction="Faction.clan_konohe_1" spouse="Hero.lord_1_konohe_2" text="{=b091c046}Kunohe Yuki"/>
+  <Hero id="lord_1_konohe_4" faction="Faction.clan_konohe_1" father="Hero.lord_1_konohe_2" mother="Hero.lord_1_konohe_3" text="{=b4D891a5}Kunohe Sanechika"/>
+  <Hero id="lord_1_konohe_5" faction="Faction.clan_konohe_1" father="Hero.lord_1_konohe_2" mother="Hero.lord_1_konohe_3" text="{=835A0991}Kunohe Shino"/>
   <!--Kita Clan-->
   <Hero id="lord_1_kita" faction="Faction.clan_kita_1" spouse="Hero.lord_1_kita_1" text="{=9b548Bcd}Kita Nobuchika"/>
   <Hero id="lord_1_kita_1" faction="Faction.clan_kita_1" spouse="Hero.lord_1_kita" text="{=aa3691f2}Kita Miki"/>

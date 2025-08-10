@@ -3205,7 +3205,7 @@
       <EquipmentSet id="ou_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <!-- Konohe Clan -->
+  <!-- Kunohe Clan -->
   <!-- Leader -->
   <NPCCharacter id="lord_1_konohe" name="{=U2fcoM3V}Masazane" age="32" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
