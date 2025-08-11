@@ -112,7 +112,7 @@
   <xsl:template match="Faction[@id='clan_todo_1']/@name" ><xsl:attribute name="name">{=QGOk0nP3}Toudou</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_isono_1']/@name" ><xsl:attribute name="name">{=iHzPlDkM}Isono</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_akao_1']/@name" ><xsl:attribute name="name">{=Mq2WPvMA}Akao</xsl:attribute></xsl:template>
-  <xsl:template match="Faction[@id='clan_oda_1']/@name" ><xsl:attribute name="name">{=lfglFdss}Oda</xsl:attribute></xsl:template>
+  <xsl:template match="Faction[@id='clan_oda_1']/@name" ><xsl:attribute name="name">{=lfglFdss}Oda-Danjou-no-chū</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_kinoshita_1']/@name" ><xsl:attribute name="name">{=OljOni7v}Kinoshita</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_shibata_1']/@name" ><xsl:attribute name="name">{=dOsL2isy}Owari-Shibata</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_sakuma_1']/@name" ><xsl:attribute name="name">{=Fch4loOb}Sakuma</xsl:attribute></xsl:template>
@@ -283,7 +283,7 @@
   <xsl:template match="Faction[@id='clan_nanbu_1']/@name" ><xsl:attribute name="name">{=c006Hx4r}Nanbu</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_shichinohe_1']/@name" ><xsl:attribute name="name">{=kHne65Y9}Shichinohe</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_hachinohe_1']/@name" ><xsl:attribute name="name">{=flBMJ4Es}Hachinohe</xsl:attribute></xsl:template>
-  <xsl:template match="Faction[@id='clan_konohe_1']/@name" ><xsl:attribute name="name">{=ZVlwFZZv}Konohe</xsl:attribute></xsl:template>
+  <xsl:template match="Faction[@id='clan_konohe_1']/@name" ><xsl:attribute name="name">{=ZVlwFZZv}Kunohe</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_kita_1']/@name" ><xsl:attribute name="name">{=NyMA6A7K}Kita</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_oura_1']/@name" ><xsl:attribute name="name">{=UyMq8aDj}Ōura</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_shiba_1']/@name" ><xsl:attribute name="name">{=3LujlMb3}Shiba</xsl:attribute></xsl:template>
