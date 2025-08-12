@@ -145,11 +145,11 @@
   <Hero id="lord_1_tateoka_3" faction="Faction.clan_tateoka_1" father="Hero.lord_1_tateoka" mother="Hero.lord_1_tateoka_1" text="{=9fAc255D}Tateoka Mitsuhiro"/>
   <!--Honjo Faction-->
   <!--daihoji Clan-->
-  <Hero id="lord_1_daihoji" faction="Faction.clan_daihoji_1" spouse="Hero.lord_1_daihoji_1" text="{=5b0b4239}Daihoji Yoshimasu"/>
-  <Hero id="lord_1_daihoji_1" faction="Faction.clan_daihoji_1" spouse="Hero.lord_1_daihoji" text="{=DdF8994B}Daihoji One"/>
-  <Hero id="lord_1_daihoji_2" faction="Faction.clan_daihoji_1" father="Hero.lord_1_daihoji_3" mother="Hero.lord_1_daihoji_1" text="{=31F5b0Cc}Daihoji Yoshiuji"/>
-  <Hero id="lord_1_daihoji_3" faction="Faction.clan_daihoji_1" spouse="Hero.lord_1_daihoji_2" text="{=C57C93f8}Daihoji Yumi"/>
-  <Hero id="lord_1_daihoji_4" faction="Faction.clan_daihoji_1" father="Hero.lord_1_daihoji" mother="Hero.lord_1_daihoji_1" text="{=CdB486d2}Daihoji Yoshioki"/>
+  <Hero id="lord_1_daihoji" faction="Faction.clan_daihoji_1" spouse="Hero.lord_1_daihoji_1" text="{=5b0b4239}Daihouji Yoshimasu"/>
+  <Hero id="lord_1_daihoji_1" faction="Faction.clan_daihoji_1" spouse="Hero.lord_1_daihoji" text="{=DdF8994B}Daihouji One"/>
+  <Hero id="lord_1_daihoji_2" faction="Faction.clan_daihoji_1" father="Hero.lord_1_daihoji_3" mother="Hero.lord_1_daihoji_1" text="{=31F5b0Cc}Daihouji Yoshiuji"/>
+  <Hero id="lord_1_daihoji_3" faction="Faction.clan_daihoji_1" spouse="Hero.lord_1_daihoji_2" text="{=C57C93f8}Daihouji Yumi"/>
+  <Hero id="lord_1_daihoji_4" faction="Faction.clan_daihoji_1" father="Hero.lord_1_daihoji" mother="Hero.lord_1_daihoji_1" text="{=CdB486d2}Daihouji Yoshioki"/>
   <!--Onodera Clan-->
   <Hero id="lord_1_onodera" faction="Faction.clan_onodera_1" spouse="Hero.lord_1_onodera_1" text="{=0fc1379d}Onodera Kagemichi"/>
   <Hero id="lord_1_onodera_1" faction="Faction.clan_onodera_1" spouse="Hero.lord_1_onodera" text="{=5C8bd2A3}Onodera Sen"/>
