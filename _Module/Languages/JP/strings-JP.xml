@@ -7376,18 +7376,19 @@
     <string id="YGMztJ6u" text="馬廻衆の結成"/>
     <string id="2tHK82h3" text="戦時下での増税許可"/>
     <string id="1l2gNRuH" text="朝廷からの官職の授与"/>
-    <string id="G4cuQmxm" text="百姓に元の土地に帰還する命令を発行"/>
-    <string id="OlsCZYJz" text="君主に争議の解決を任せる"/>
-    <string id="VhoIzOFo" text="一族の人間を権力のある地位に就ける"/>
-    <string id="miabEuVG" text="債務の免除を命じる"/>
-    <string id="IllgM7Kx" text="領主を文化活動に招待する"/>
-    <string id="f1z5RbSI" text="村にさらなる自治権を認める"/>
-    <string id="cZjWy4Gz" text="領内の平民から刀を没収する"/>
+    <string id="G4cuQmxm" text="百姓に元の土地に帰還する命令を発行すること"/>
+    <string id="8pTg5PiA" text="家臣たちに領内の交易路から通行料を徴収すること"/>
+    <string id="OlsCZYJz" text="君主に争議の解決を任せること"/>
+    <string id="VhoIzOFo" text="一族の人間を権力のある地位に就けること"/>
+    <string id="miabEuVG" text="債務の免除を命じること"/>
+    <string id="IllgM7Kx" text="領主を文化活動に招待すること"/>
+    <string id="f1z5RbSI" text="村にさらなる自治権を与えること"/>
+    <string id="cZjWy4Gz" text="領内の平民から刀を没収すること"/>
     <string id="BRVrUrQY" text="1日ごとに集落の治安+1{newline}1日ごとに集落の忠誠+1{NEWLINE}1日ごとに集落の繁栄+1{NEWLINE}1日毎に村の暖炉の数-0.5"/>
     <string id="FJDg7P4X" text="領主を軍に招集する影響力費用 - 30%{newline}寺社からの雇用可能数+1{NEWLINE}工房の生産量-15%{NEWLINE}1日ごとにクランの影響力-1"/>
     <string id="fF6SC6ma" text="集落が支配者へ払う税金 -5%{NEWLINE}船の調達費用 -25%{NEWLINE}船の造船速度 +25%"/>
-    <string id="7kkACxYG" text="土地を寄進している"/>
-    <string id="WKTJ5B9w" text="外国の品を輸入している"/>
+    <string id="7kkACxYG" text="土地を各宗派に寄進すること"/>
+    <string id="WKTJ5B9w" text="外国の品を輸入すること"/>
     <string id="sJ1xR4zT" text="キャンペーンの設定"/>
     <string id="Ua2CxEoB" text="戦場と戦闘時の設定"/>
     <string id="VWn4YikW" text="バグ報告を投稿する"/>
