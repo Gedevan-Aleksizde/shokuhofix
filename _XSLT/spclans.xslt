@@ -59,7 +59,14 @@
   <xsl:template match="Faction[@id='clan_nanjo_1']/@name" ><xsl:attribute name="name">{=J9HRNpb0}Nanjou</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_misawa_1']/@name" ><xsl:attribute name="name">{=JGZnehmf}Mizawa</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_amano_1']/@name" ><xsl:attribute name="name">{=2SX9wmc3}Amano</xsl:attribute></xsl:template>
-  <xsl:template match="Faction[@id='clan_murakami_1']/@name" ><xsl:attribute name="name">{=1Ty8UxNT}Murakami Pirates</xsl:attribute></xsl:template>
+  <xsl:template match="Faction[@id='clan_murakami_1']/@name" >
+    <xsl:copy>
+      <xsl:apply-templates select="@*"/>
+      <xsl:attribute name="name">{=1Ty8UxNT}Murakami Privateers</xsl:attribute>
+      <xsl:attribute name='text'>{=QRkE1LMQJk}Some branch families of Murakami-shi (村上氏) immigrated around the Seto Inland Sea from Shinano Province. Three families residing on Innoshima Island, Kurushima Island, and Noshima Island are collectively known as the Santou-Murakami-shi (三島村上氏), meaning the Murakami clan of three islands. They are familiar with navigating and piracy, and imposing navigation fees on any vessels around their territory, which is centered on the chokepoint of the Seto Inland Sea.</xsl:attribute>
+    <xsl:apply-templates select="node()"/>
+  </xsl:copy>
+  </xsl:template>
   <xsl:template match="Faction[@id='clan_kawano_1']/@name" ><xsl:attribute name="name">{=kL7d963P}Kawano</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_uragami_1']/@name" ><xsl:attribute name="name">{=0lgrXKVm}Uragami</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_ukita_1']/@name" ><xsl:attribute name="name">{=qEujWHaS}Ukita</xsl:attribute></xsl:template>

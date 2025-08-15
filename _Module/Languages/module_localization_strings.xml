@@ -603,7 +603,7 @@
 		<string id="KEX5sbP0" text="REPLACE_DESCRIPTION"/>
 		<string id="Nw6vXG2r" text="Chiburi"/>
 		<string id="UvTpCUpH" text="Kushizaki"/>
-		<string id="BDnW3J67" text="Strategically located in the westernmost part of the San'yō region, near the Kanmon Straits that separate Honshū from Kyūshū, Kushizaki is a port castle town originally by the Naitou clan, from which it is possible to control the sea and the flow of trade and people across the western provinces."/>
+		<string id="BDnW3J67" text="Strategically located in the westernmost part of the San'you region, near the Kanmon Straits that separate Honshū from Kyūshū, Kushizaki is a port castle town originally by the Naitou clan, from which it is possible to control the sea and the flow of trade and people across the western provinces."/>
 		<string id="stpD675i" text="Backstreet"/>
 		<string id="fR2M5ZdV" text="Clearing"/>
 		<string id="MAusOuPK" text="Waterfront"/>
@@ -625,8 +625,8 @@
 		<string id="ryejJvC5" text="Tomogaura"/>
 		<string id="VDGlQJwd" text="Ishigane"/>
 		<string id="r5ANVqKb" text="Hane"/>
-		<string id="5CN8ewVp" text="Gassan-toda"/>
-		<string id="eDhJwiwf" text="Gassan-toda is a castle town in San'in that traces its origins back to the Kamakura period and before that to the Heian period when a fortress was built to protect trade routes and the renowned local steel production. More recently, Gassan-toda became the stage for the last stand of the once dominant Amago clan against the ascendant Ōuchi and Mouri clans, with the conquest by Mouri Motonari marking the definitive shift of power in the region."/>
+		<string id="5CN8ewVp" text="Gassan-Toda"/>
+		<string id="eDhJwiwf" text="Gassan-Toda is a castle town in San'in that traces its origins back to the Kamakura period and before that to the Heian period when a fortress was built to protect trade routes and the renowned local steel production. More recently, Gassan-Toda became the stage for the last stand of the once dominant Amago clan against the ascendant Ōuchi and Mouri clans, with the conquest by Mouri Motonari marking the definitive shift of power in the region."/>
 		<string id="LwUShO8j" text="Yasugi"/>
 		<string id="EOMv6L5Q" text="Mihonoseki"/>
 		<string id="9aMOSRHh" text="Yodoe"/>
@@ -688,7 +688,7 @@
 		<string id="cT34Ebdw" text="Mizuochi"/>
 		<string id="t2wPJnTl" text="Kitanosho"/>
 		<string id="6yl5DIfX" text="Heisenji"/>
-		<string id="6PgvlbUT" text="Oyama Gobou"/>
+		<string id="6PgvlbUT" text="Oyama"/>
 		<string id="lVVZzX8n" text="Originally a fortified temple complex of the Kaga Ikkou movement, Oyama has evolved into a significant stronghold in the Hokuriku region and its strategic and religious value has drawn the attention of powerful neighbors."/>
 		<string id="JyG9eqDR" text="Shirayama"/>
 		<string id="6HTGkGwu" text="Ataka"/>
@@ -749,7 +749,7 @@
 		<string id="HTo81wy6" text="Tezutsuyama Castle"/>
 		<string id="BdXzJLer" text="Tsuruga"/>
 		<string id="ijmNcreb" text="Obama"/>
-		<string id="kePZsN6S" text="Fuchū Castle"/>
+		<string id="kePZsN6S" text="Hitachi-Fuchū Castle"/>
 		<string id="qEewJDux" text="Kounoura"/>
 		<string id="DUDOlYTC" text="Etsufu"/>
 		<string id="BznGdbFo" text="Mizoe Castle"/>
@@ -836,8 +836,8 @@
 		<string id="zNtx1PQ0" text="Furukawa"/>
 		<string id="AIzmEXqU" text="Kojima"/>
 		<string id="NY1GGm2P" text="Mori Castle"/>
-		<string id="sNI8ZZHb" text="Sakishina"/>
-		<string id="Jo0WieRJ" text="Sarashina"/>
+		<string id="sNI8ZZHb" text="Ikeda"/>
+		<string id="Jo0WieRJ" text="Sakishina"/>
 		<string id="JXcJCRXa" text="Kiso-Fukushima Castle"/>
 		<string id="4nFCr6ZB" text="Seba"/>
 		<string id="qVMNO1bw" text="Tsumago"/>
@@ -863,7 +863,7 @@
 		<string id="9iMMapjE" text="Utsunomiya"/>
 		<string id="6B4SIOWm" text="First built in the Heian period,  the castle town of Utsunomiya was the seat of the clan of the same name for centuries and one of the most important centres in the Kantō region which exerts control over many of the local land routes."/>
 		<string id="71698EPm" text="Kanuma"/>
-		<string id="jVHfshhL" text="Īyama"/>
+		<string id="jVHfshhL" text="Yashū-Īyama"/>
 		<string id="9hFMeM35" text="Shioya"/>
 		<string id="g5NTSS2Y" text="Minowa"/>
 		<string id="luiLYflb" text="Built as the fortified residence of the Nagano clan, the castle town of Minowa has long been a critical stronghold for the control of the surrounding region, which made it a mandatory target in the confrontation between the Uesugi and Takeda clans, until the forces of Takeda Shingen seized Minowa resulting in the demise of the Nagano clan and the death of all its members."/>
@@ -931,7 +931,7 @@
 		<string id="CwUpZL5t" text="Shimodate"/>
 		<string id="Rw5bAtwn" text="Masuko Castle"/>
 		<string id="GXGaCaHX" text="Haga"/>
-		<string id="9OKrr8tM" text="Mooka"/>
+		<string id="9OKrr8tM" text="Mōka"/>
 		<string id="S931liPY" text="Kasama Castle"/>
 		<string id="uapC71GC" text="Kasama"/>
 		<string id="lKDCjpUw" text="Akasawa"/>
@@ -1034,7 +1034,7 @@
 		<string id="dfHStZUp" text="Yuasa"/>
 		<string id="dXkBXUQ2" text="Kī-Yura"/>
 		<string id="td8qkkz0" text="Toba Castle"/>
-		<string id="scbRMDG2" text="Kunisak"/>
+		<string id="scbRMDG2" text="Kuzaki"/>
 		<string id="Z06Isd7R" text="Ōminato"/>
 		<string id="t2ioc3tv" text="Tsu Castle"/>
 		<string id="vYdmdRjj" text="Aritaki"/>
@@ -1293,7 +1293,7 @@
 		<string id="74v8alVP" text="Akita-minato"/>
 		<string id="H1j9IJpL" text="Toshima"/>
 		<string id="YUFX5LdB" text="Sannohe"/>
-		<string id="4i6COw8g" text="Located along a key mountain pass, Sannohoe is a fortified town that serves as a military outpost, guarding vital routes for trade and troop movements on the borders of competing powers."/>
+		<string id="4i6COw8g" text="LLocated along a key mountain pass, Sannohe is a fortified town that serves as a military outpost, guarding vital routes for trade and troop movements on the borders of competing powers."/>
 		<string id="REnRF8j7" text="Okuze"/>
 		<string id="g5nOB4NF" text="Tonai"/>
 		<string id="JD0A5H5Z" text="Tago"/>
@@ -5142,7 +5142,7 @@
 		<string id="J9HRNpb0" text="Nanjou"/>
 		<string id="JGZnehmf" text="Mizawa"/>
 		<string id="2SX9wmc3" text="Amano"/>
-		<string id="1Ty8UxNT" text="Murakami Pirates"/>
+		<string id="1Ty8UxNT" text="Murakami Privateers"/>
 		<string id="kL7d963P" text="Kawano"/>
 		<string id="0lgrXKVm" text="Uragami"/>
 		<string id="qEujWHaS" text="Ukita"/>
@@ -6016,7 +6016,7 @@
 		<string id="EHEKPIRb" text="The Ikkou-shū, meaning Sect of Single-Minded Devotion, is not a feudal domain ruled by a daimyo, but a theocratic coalition of warrior-monks and peasant believers bound together by the teachings of Shin Buddhism, also known as Jodo Shinshu, under the leadership of Chief Abbot Ken’nyo. Over years of confrontation against samurai rule, the Ikkou-shū have established control over key parts of the Kinai and Hokuriku regions, with their main temple-fortress located in Ozaka. Virtually surrounded by hostile samurai warlords wishing to destroy them, the Ikkou-shū must rely on their warrior monks and devoted followers to survive and spread their interpretation of Shin Buddhism."/>
 		<string id="6yN2Mn1R" text="The Uragami domain, nestled in the mountainous areas of the San'you region, stands at a crossroads of strategic importance, ruling over the routes that connect western Japan with the Kinai region and the capital of Kyoto. Small in size compared to its neighbors, under the leadership of Uragami Munekage the Uragami domain has emerged  from the fall of the Akamatsu and established itself as a buffer between rising Mouri and the remnants of the old order, although its continued independence rests in the ability to pit its larger neighbors against each other."/>
 		<string id="VwQITTl2" text="The Amago domain rose to power under the leadership of Amago Haruhisa, whose aggressive campaigns challenged the ouchi and Mouri clans for supremacy over western Japan. Once a dominant force in the San'you region, however, the Amago domain almost completely collapsed after the death of Haruhisa, its lands carved up by their former enemies and vassals alike. Now scattered and weakened, the last hope of the Amago now lies with Amago Katsuhisa, a former monk who has turned into a claimant and has begun to rally remnants of the clan and loyal warriors, seeking to reclaim their lost honour and territory."/>
-		<string id="0KYD9IKs" text="The Mouri domain, eclipsing and defeating their former masters the Ōuchi, have become one of the most formidable powers in Japan. Five years following the mysterious death of the former daimyo Mouri Takamoto, his 15-year-old son Mouri Terumoto is set to rule. His grandfather, Mouri Motonari watches over the clan in regency, but his health is failing, and the kingdom is filled with uncertainty. The many mountains and coastal valleys of the San'you region create natural barriers for invading armies and led to a uniquely decentralized rule over numerous other smaller clans. Masters of the sea, the Mouri clan host the Murakami pirates of the Seto inland sea, who wreak havoc on unsuspecting ships. After gaining a foothold in Kyūshū, the Mouri clan now sets their eyes on the valuable trade city of Hakata, under control of the Ōtomo clan."/>
+		<string id="0KYD9IKs" text="The Mouri domain, eclipsing and defeating their former masters the Ōuchi, have become one of the most formidable powers in Japan. Five years following the mysterious death of the former daimyo Mouri Takamoto, his 15-year-old son Mouri Terumoto is set to rule. His grandfather, Mouri Motonari watches over the clan in regency, but his health is failing, and the kingdom is filled with uncertainty. The many mountains and coastal valleys of the San'you region create natural barriers for invading armies and led to a uniquely decentralized rule over numerous other smaller clans. Masters of the sea, the Mouri clan host the Murakami Privateers of the Seto inland sea, who wreak havoc on unsuspecting ships. After gaining a foothold in Kyūshū, the Mouri clan now sets their eyes on the valuable trade city of Hakata, under control of the Ōtomo clan."/>
 		<string id="3EIYubRB" text="The Saionji domain lies in the southwestern reaches of Shikoku, where the Saionji clan relocated after the unrest around the imperial court in Kyoto. From their stronghold in Kurose the Saionji solidified control of the province while competing with the neighbouring Ichijou. Yet their authority is increasingly threatened by the expansionist ambitions of the Mouri to the north and the Chousokabe to the east. Isolated by the mountainous terrain, the Saionji domain must forge powerful alliances to preserve its independence, or the noble legacy of the Saionji may soon come to its end."/>
 		<string id="iAlki3Jx" text="The Ichijou domain was once one of the main powers on the island of Shikoku, where the courtly Ichijou clan fled during the Ōnin War. From their seat of Nakamura the Ichijou established firm control over most of Southern Shikoku and attempted to recreate the orderly and cultured rule they knew in Kyoto. Yet despite their efforts their power has waned amidst rising dissent and the ambitions of former retainers, chief among them the Chousokabe clan, who have broken their vassal bonds and taken over much of Tosa Province. Left vulnerable and surrounded on all sides by hostile daimyos, in order to survive the incoming onslaught the Ichijou domain must reassert its control over its former vassals and repel any further aggression from old rivals Saionji and the newly established Mouri."/>
 		<string id="hvkG6C1K" text="The Chousokabe domain, long confined to the Southern reaches of Shikoku, has just recently begun its dramatic rise under the leadership of Daimyo Chousokabe Motochika, challenging the weakened Ichijou clan, once the undisputed masters of the province. Though surrounded by powerful neighbors such as the Mouri and Saionji, the Chousokabe are in a solid position to conquer the entire island of Shikoku should they manage to finally oust their former masters."/>
