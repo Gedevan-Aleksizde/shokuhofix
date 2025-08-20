@@ -5835,7 +5835,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_KY6" name="{=HHWkdmFT}Kīdani" owner="Faction.clan_kii_1" posX="353.295" posY="426.237" culture="Culture.saikai" gate_posX="350.0088" gate_posY="425.3559" text="{=DFE7hHDt}Nestled within the rugged highlands of northern Kyūshū, Kīdani has long served as a fortified settlement, guarding the access to the western island of Japan. Its position overlooking vital inland routes has given it strategic relevance amid the growing contest for control over Kyūshū and has already turned Kīdani into a conflict point between the Ouchi and Ōtomo in the past.">
+  <Settlement id="town_KY6" name="{=HHWkdmFT}Kīdani" owner="Faction.clan_kii_1" posX="353.295" posY="426.237" culture="Culture.saikai" gate_posX="350.0088" gate_posY="425.3559" text="{=DFE7hHDt}Nestled within the rugged highlands of northern Kyūshū, Kīdani has long served as a fortified settlement, guarding the access to the western island of Japan. Its position overlooking vital inland routes has given it strategic relevance amid the growing contest for control over Kyūshū and has already turned Kīdani into a conflict point between the Ōuchi and Ōtomo in the past.">
     <Components>
       <Town id="town_comp_KY6" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.808" prosperity="2700"/>
     </Components>

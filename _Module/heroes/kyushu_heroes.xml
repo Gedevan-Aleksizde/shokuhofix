@@ -224,7 +224,7 @@
   <Hero id="lord_1_kumabe_8" faction="Faction.clan_kumabe_1" spouse="Hero.lord_1_kumabe_7" text="{=b20b6f98}Kumabe Akafuji"/>
   <!--Shimazu Kingdom-->
   <!--Clan Shimazu 13 ids-->
-  <Hero id="lord_1_shimazu" faction="Faction.clan_shimazu_1" spouse="Hero.lord_1_shimazu_1" father="Hero.lord_1_shimazu_11" mother="Hero.dead_lord_1_shimazu_2" text="{=C3C99df1}Shimazu Yoshihisa (嶋津義久), born as Torajumaru (虎寿丸), identified himself as Shimazu Matasaburou (嶋津又三郎). First, his given name was Tadayoshi (忠良), same name as Jisshin-sai (日新斎), his great-grandfather; however, he later renamed himself Yoshihisa. He has a talented warlord, while his brothers are also skilled warriors."/>
+  <Hero id="lord_1_shimazu" faction="Faction.clan_shimazu_1" spouse="Hero.lord_1_shimazu_1" father="Hero.lord_1_shimazu_11" mother="Hero.dead_lord_1_shimazu_2" text="{=C3C99df1}Shimazu Yoshihisa (嶋津義久), born as Torajumaru (虎寿丸), identified himself as Shimazu Matasaburou (嶋津又三郎). First, his given name was Tadayoshi (忠良), same name as Jisshin-sai (日新斎), his respected grandfather; however, he later renamed himself Yoshihisa. He has a talented warlord, while his brothers are also skilled warriors."/>
   <Hero id="lord_1_shimazu_1" faction="Faction.clan_shimazu_1" spouse="Hero.lord_1_shimazu" text="{=2F648bCc}Shimazu Enshin-inden"/>
   <Hero id="lord_1_shimazu_2" faction="Faction.clan_shimazu_1" father="Hero.lord_1_shimazu" mother="Hero.lord_1_shimazu_1" text="{=8dEF8b7E}Shimazu Ohira"/>
   <Hero id="lord_1_shimazu_3" faction="Faction.clan_shimazu_1" father="Hero.lord_1_shimazu" mother="Hero.lord_1_shimazu_1" text="{=1FB19c10}Shimazu Shinjo"/>

@@ -3216,7 +3216,7 @@
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
 			<xsl:attribute name='name'>{=HHWkdmFT}Kīdani</xsl:attribute>
-			<xsl:attribute name='text'>{=DFE7hHDt}Nestled within the rugged highlands of northern Kyūshū, Kīdani has long served as a fortified settlement, guarding the access to the western island of Japan. Its position overlooking vital inland routes has given it strategic relevance amid the growing contest for control over Kyūshū and has already turned Kīdani into a conflict point between the Ouchi and Ōtomo in the past.</xsl:attribute>
+			<xsl:attribute name='text'>{=DFE7hHDt}Nestled within the rugged highlands of northern Kyūshū, Kīdani has long served as a fortified settlement, guarding the access to the western island of Japan. Its position overlooking vital inland routes has given it strategic relevance amid the growing contest for control over Kyūshū and has already turned Kīdani into a conflict point between the Ōuchi and Ōtomo in the past.</xsl:attribute>
 			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
