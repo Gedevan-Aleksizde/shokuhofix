@@ -2190,7 +2190,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_CHUB13_2" name="{=F0FJSIJ3}Sanjo" posX="1282.524" posY="912.513" culture="Culture.hokuriku" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_CHUB13_2" name="{=F0FJSIJ3}Sanjou" posX="1282.524" posY="912.513" culture="Culture.hokuriku" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_CHUB13_2" village_type="VillageType.iron_mine" hearth="200" gate_rotation="0.008" bound="Settlement.castle_CHUB13" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5409,7 +5409,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_KIN21" name="{=rogs3NNl}Sakuma-Kameyama Castle" owner="Faction.clan_gamou_1" posX="967.134" posY="589.372" culture="Culture.kinai" gate_posX="969.2278" gate_posY="589.2875">
+  <Settlement id="castle_KIN21" name="{=rogs3NNl}Ise-Kameyama Castle" owner="Faction.clan_gamou_1" posX="967.134" posY="589.372" culture="Culture.kinai" gate_posX="969.2278" gate_posY="589.2875">
     <Components>
       <Town id="castle_comp_KIN21" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="588"/>
     </Components>

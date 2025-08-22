@@ -40,7 +40,7 @@
     <xsl:template match="Settlement[@id='temple_location_6']">
         <xsl:copy>
             <xsl:apply-templates select="@*"/>
-            <xsl:attribute name='name'>{=iQjU16zu}Hikosan-jingū Shrine</xsl:attribute>
+            <xsl:attribute name='name'>{=iQjU16zu}Hikosan Gongen Shrine</xsl:attribute>
             <xsl:attribute name='text'>{=7DaF0302}Enshrined: Mount Hikosan</xsl:attribute>
             <xsl:apply-templates select="node()"/>
         </xsl:copy>
@@ -64,7 +64,7 @@
     <xsl:template match="Settlement[@id='temple_location_9']">
         <xsl:copy>
             <xsl:apply-templates select="@*"/>
-            <xsl:attribute name='name'>{=Fh93w5KA}Udo-jinja Shrine</xsl:attribute>
+            <xsl:attribute name='name'>{=Fh93w5KA}Udo Gongen Shrine</xsl:attribute>
             <xsl:attribute name='text'>{=5Fb3F427}Enshrined: Hikonagisatakeugayahukiaezu no mikoto</xsl:attribute>
             <xsl:apply-templates select="node()"/>
         </xsl:copy>
@@ -216,7 +216,7 @@
     <xsl:template match="Settlement[@id='temple_location_29']">
         <xsl:copy>
             <xsl:apply-templates select="@*"/>
-            <xsl:attribute name='name'>{=Lv2Livt5}Kongobu-ji Temple</xsl:attribute>
+            <xsl:attribute name='name'>{=Lv2Livt5}Kongoubu-ji Temple</xsl:attribute>
             <xsl:attribute name='text'>{=vwJYFEGl}This is a temple.</xsl:attribute>
             <xsl:apply-templates select="node()"/>
         </xsl:copy>
@@ -256,7 +256,7 @@
     <xsl:template match="Settlement[@id='temple_location_35']">
         <xsl:copy>
             <xsl:apply-templates select="@*"/>
-            <xsl:attribute name='name'>{=GNqy3kcD}Atsuta-jingū Shrine</xsl:attribute>
+            <xsl:attribute name='name'>{=GNqy3kcD}Atsuta-jinja Shrine</xsl:attribute>
             <xsl:attribute name='text'>{=E574309f}Enshrined: Kusanagi no mitsurugi, aka Amenomurakumo no tsurugi.</xsl:attribute>
             <xsl:apply-templates select="node()"/>
         </xsl:copy>
@@ -440,7 +440,7 @@
     <xsl:template match="Settlement[@id='temple_location_58']">
         <xsl:copy>
             <xsl:apply-templates select="@*"/>
-            <xsl:attribute name='name'>{=Cp3EojqA}Kashima-jingū Shrine</xsl:attribute>
+            <xsl:attribute name='name'>{=Cp3EojqA}Kashima-taisha Shrine</xsl:attribute>
             <xsl:attribute name='text'>{=89215296}Enshrined: Takemikazuchi no mikoto</xsl:attribute>
             <xsl:apply-templates select="node()"/>
         </xsl:copy>

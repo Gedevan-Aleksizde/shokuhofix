@@ -229,7 +229,7 @@
   <xsl:template match="NPCCharacter[@id='lord_1_honjo_6']/@name" ><xsl:attribute name="name">{=1oAT3tap}Ise</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_honjo_7']/@name" ><xsl:attribute name="name">{=3MdGZMX4}Kageyori</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_takeda']/@name" ><xsl:attribute name="name">{=CmHdCNgW}Shingen</xsl:attribute></xsl:template>
-  <xsl:template match="NPCCharacter[@id='lord_1_takeda_1']/@name" ><xsl:attribute name="name">{=4i6fDyD8}Sanjo-no-kata</xsl:attribute></xsl:template>
+  <xsl:template match="NPCCharacter[@id='lord_1_takeda_1']/@name" ><xsl:attribute name="name">{=4i6fDyD8}Sanjou-no-kata</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='dead_lord_1_takeda_2']/@name" ><xsl:attribute name="name">{=0W8I3WDW}Nobutora</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='dead_lord_1_takeda_3']/@name" ><xsl:attribute name="name">{=ypwKxiQu}Oi</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_takeda_4']/@name" ><xsl:attribute name="name">{=86eH8vEV}Katsuyori</xsl:attribute></xsl:template>

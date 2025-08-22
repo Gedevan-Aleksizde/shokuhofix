@@ -784,7 +784,7 @@
 		<string id="J9ywrIPV" text="Sarusawa"/>
 		<string id="NudqZujm" text="Tochio Castle"/>
 		<string id="n7NdjTwb" text="Zaōdou"/>
-		<string id="F0FJSIJ3" text="Sanjo"/>
+		<string id="F0FJSIJ3" text="Sanjou"/>
 		<string id="6MHOv64n" text="Sakato Castle"/>
 		<string id="RJ7ntwZm" text="Īyama"/>
 		<string id="1soJweIO" text="Yuzawa"/>
@@ -1046,7 +1046,7 @@
 		<string id="5Dg2vkaC" text="Hino Castle"/>
 		<string id="DT6ynFvP" text="Minakuchi"/>
 		<string id="vecUUwJp" text="Otowa"/>
-		<string id="rogs3NNl" text="Sakuma-Kameyama Castle"/>
+		<string id="rogs3NNl" text="Ise-Kameyama Castle"/>
 		<string id="4VCQnnAN" text="Shirako"/>
 		<string id="8ikUEhbQ" text="Kusu"/>
 		<string id="tJBWAjyZ" text="Nagashima Castle"/>
@@ -1495,10 +1495,10 @@
 		<string id="vwJYFEGl" text="This is a temple."/>
 		<string id="TuOaIlxm" text="Aso-jinja Shrine"/>
 		<string id="aYlihxWz" text="Shimen-gū Shrine"/>
-		<string id="iQjU16zu" text="Hikosan-jingū Shrine"/>
+		<string id="iQjU16zu" text="Hikosan Gongen Shrine"/>
 		<string id="2kgUIre0" text="Munakata-jinja Triple Goddess Shrine"/>
 		<string id="4nOGmlY9" text="Hachiman Daibosatsu Usa-miya Shrine"/>
-		<string id="Fh93w5KA" text="Udo-jinja Shrine"/>
+		<string id="Fh93w5KA" text="Udo Gongen Shrine"/>
 		<string id="aw4yZS3Z" text="Tsuno-jinja Shrine"/>
 		<string id="506uOr0t" text="Yasaka-ji Temple"/>
 		<string id="zf2Nix5X" text="Kurotaki-ji Temple"/>
@@ -1517,12 +1517,12 @@
 		<string id="3jL1K7Kl" text="Sangaku-ji Temple"/>
 		<string id="460iveMd" text="Jingū Shrine of Ise"/>
 		<string id="x0PqiBJo" text="Koufuku-ji Temple"/>
-		<string id="Lv2Livt5" text="Kongobu-ji Temple"/>
+		<string id="Lv2Livt5" text="Kongoubu-ji Temple"/>
 		<string id="pIXzEmMC" text="Kokawa-dera Temple"/>
 		<string id="KIwlIEWa" text="Negoro-ji Temple"/>
 		<string id="29o58h8m" text="Kumano-taisha Shrine"/>
 		<string id="ngGmkx81" text="Heiraku-ji Temple"/>
-		<string id="GNqy3kcD" text="Atsuta-jingū Shrine"/>
+		<string id="GNqy3kcD" text="Atsuta-jinja Shrine"/>
 		<string id="UO9D69pD" text="Ten'on-ji Temple"/>
 		<string id="mehE9vcH" text="Shoutoku-ji Temple"/>
 		<string id="TARKzLog" text="Daien-ji Temple"/>
@@ -1545,7 +1545,7 @@
 		<string id="OZevhEZP" text="Samukawa-jinja Shrine"/>
 		<string id="h9MNfQeF" text="Awa-jinja Shrine"/>
 		<string id="H6ijkAJT" text="Enmei-ji Temple"/>
-		<string id="Cp3EojqA" text="Kashima-jingū Shrine"/>
+		<string id="Cp3EojqA" text="Kashima-taisha Shrine"/>
 		<string id="0HlO0Dos" text="Zenjū-ji Temple"/>
 		<string id="ydJ6Rh2V" text="Isasumi-jinja Shrine"/>
 		<string id="9YK5P3zV" text="Zuigan-ji Temple"/>
@@ -2315,7 +2315,7 @@
 		<string id="1oAT3tap" text="Ise"/>
 		<string id="3MdGZMX4" text="Kageyori"/>
 		<string id="CmHdCNgW" text="Shingen"/>
-		<string id="4i6fDyD8" text="Sanjo-no-kata"/>
+		<string id="4i6fDyD8" text="Sanjou-no-kata"/>
 		<string id="zKMW1v8g" text="Nobutora"/>
 		<string id="Jc58jQNn" text="Oi"/>
 		<string id="86eH8vEV" text="Katsuyori"/>

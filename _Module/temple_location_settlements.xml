@@ -20,7 +20,7 @@
       <TempleLocationComponent id="temple_location_id_4" religion="Religion.shinto" prosperity="121"/>
     </Components>
   </Settlement>
-  <Settlement id="temple_location_6" name="{=iQjU16zu}Hikosan-jingū Shrine" posX="351.273" posY="403.024" text="{=7DaF0302}Enshrined: Mount Hikosan" culture="Culture.buddhists">
+  <Settlement id="temple_location_6" name="{=iQjU16zu}Hikosan Gongen Shrine" posX="351.273" posY="403.024" text="{=7DaF0302}Enshrined: Mount Hikosan" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_6" religion="Religion.shinto" prosperity="135"/>
     </Components>
@@ -35,7 +35,7 @@
       <TempleLocationComponent id="temple_location_id_8" religion="Religion.shinto" prosperity="124"/>
     </Components>
   </Settlement>
-  <Settlement id="temple_location_9" name="{=Fh93w5KA}Udo-jinja Shrine" posX="415.248" posY="194.641" text="{=5Fb3F427}Enshrined: Hikonagisatakeugayahukiaezu no mikoto" culture="Culture.buddhists">
+  <Settlement id="temple_location_9" name="{=Fh93w5KA}Udo Gongen Shrine" posX="415.248" posY="194.641" text="{=5Fb3F427}Enshrined: Hikonagisatakeugayahukiaezu no mikoto" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_9" religion="Religion.shinto" prosperity="162"/>
     </Components>
@@ -130,7 +130,7 @@
       <TempleLocationComponent id="temple_location_id_28" religion="Religion.soto" prosperity="247"/>
     </Components>
   </Settlement>
-  <Settlement id="temple_location_29" name="{=Lv2Livt5}Kongobu-ji Temple" posX="882.964" posY="500.851" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
+  <Settlement id="temple_location_29" name="{=Lv2Livt5}Kongoubu-ji Temple" posX="882.964" posY="500.851" text="{=vwJYFEGl}This is a temple." culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_29" religion="Religion.shingon" prosperity="124"/>
     </Components>
@@ -155,7 +155,7 @@
       <TempleLocationComponent id="temple_location_id_34" religion="Religion.shingon" prosperity="128"/>
     </Components>
   </Settlement>
-  <Settlement id="temple_location_35" name="{=GNqy3kcD}Atsuta-jingū Shrine" posX="1017.918" posY="631.652" text="{=E574309f}Enshrined: Kusanagi no mitsurugi, aka Amenomurakumo no tsurugi." culture="Culture.buddhists">
+  <Settlement id="temple_location_35" name="{=GNqy3kcD}Atsuta-jinja Shrine" posX="1017.918" posY="631.652" text="{=E574309f}Enshrined: Kusanagi no mitsurugi, aka Amenomurakumo no tsurugi." culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_35" religion="Religion.shinto" prosperity="68"/>
     </Components>
@@ -270,7 +270,7 @@
       <TempleLocationComponent id="temple_location_id_57" religion="Religion.soto" prosperity="130"/>
     </Components>
   </Settlement>
-  <Settlement id="temple_location_58" name="{=Cp3EojqA}Kashima-jingū Shrine" posX="1436.513" posY="746.374" text="{=89215296}Enshrined: Takemikazuchi no mikoto" culture="Culture.buddhists">
+  <Settlement id="temple_location_58" name="{=Cp3EojqA}Kashima-taisha Shrine" posX="1436.513" posY="746.374" text="{=89215296}Enshrined: Takemikazuchi no mikoto" culture="Culture.buddhists">
     <Components>
       <TempleLocationComponent id="temple_location_id_58" religion="Religion.shinto" prosperity="248"/>
     </Components>

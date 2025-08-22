@@ -4177,7 +4177,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_takeda_1" name="{=4i6fDyD8}Sanjo-no-kata" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_takeda_1" name="{=4i6fDyD8}Sanjou-no-kata" age="48" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="48.00" weight="0.4948" build="0.5749" key="0017EC0B00000001BA847DA3475BDC26A8D081889629632BD684C7A983A4E369032976350226283700000000000000000000000000000000000000005C541080"/>
     </face>
