@@ -1985,7 +1985,7 @@
 	<xsl:template match="Settlement[@id='castle_KA11']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
-			<xsl:attribute name='name'>{=kePZsN6S}Hitachi-Fuchū Castle</xsl:attribute>
+			<xsl:attribute name='name'>{=kePZsN6S}Joushū-Fuchū Castle</xsl:attribute>
 			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
@@ -2895,7 +2895,7 @@
 	<xsl:template match="Settlement[@id='castle_village_KIN16_2']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
-			<xsl:attribute name='name'>{=dXkBXUQ2}Kī-Yura</xsl:attribute>
+			<xsl:attribute name='name'>{=dXkBXUQ2}Kishū-Yura</xsl:attribute>
 			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
@@ -2993,7 +2993,7 @@
 	<xsl:template match="Settlement[@id='castle_KIN21']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
-			<xsl:attribute name='name'>{=rogs3NNl}Ise-Kameyama Castle</xsl:attribute>
+			<xsl:attribute name='name'>{=rogs3NNl}Seishū-Kameyama Castle</xsl:attribute>
 			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
@@ -3056,14 +3056,14 @@
 	<xsl:template match="Settlement[@id='castle_KIN24']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
-			<xsl:attribute name='name'>{=RmvKSL4R}Kī-Kameyama Castle</xsl:attribute>
+			<xsl:attribute name='name'>{=RmvKSL4R}Kishū-Kameyama Castle</xsl:attribute>
 			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
 	<xsl:template match="Settlement[@id='castle_village_KIN24_1']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
-			<xsl:attribute name='name'>{=1rfay3TH}Kī-Komatsubara</xsl:attribute>
+			<xsl:attribute name='name'>{=1rfay3TH}Kishū-Komatsubara</xsl:attribute>
 			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>

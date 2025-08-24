@@ -3614,7 +3614,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_KA11" name="{=kePZsN6S}Hitachi-Fuchū Castle" owner="Faction.clan_daijo_1" posX="1398.728" posY="763.333" culture="Culture.kanto" gate_posX="1400.824" gate_posY="763.3344">
+  <Settlement id="castle_KA11" name="{=kePZsN6S}Joushū-Fuchū Castle" owner="Faction.clan_daijo_1" posX="1398.728" posY="763.333" culture="Culture.kanto" gate_posX="1400.824" gate_posY="763.3344">
     <Components>
       <Town id="castle_comp_KA11" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="574"/>
     </Components>
@@ -5239,7 +5239,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KIN16_2" name="{=dXkBXUQ2}Kī-Yura" posX="833.404" posY="469.812" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_KIN16_2" name="{=dXkBXUQ2}Kishū-Yura" posX="833.404" posY="469.812" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_KIN16_2" village_type="VillageType.fishing" hearth="200" gate_rotation="0.008" bound="Settlement.castle_KIN16" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
@@ -5409,7 +5409,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_KIN21" name="{=rogs3NNl}Ise-Kameyama Castle" owner="Faction.clan_gamou_1" posX="967.134" posY="589.372" culture="Culture.kinai" gate_posX="969.2278" gate_posY="589.2875">
+  <Settlement id="castle_KIN21" name="{=rogs3NNl}Seishū-Kameyama Castle" owner="Faction.clan_gamou_1" posX="967.134" posY="589.372" culture="Culture.kinai" gate_posX="969.2278" gate_posY="589.2875">
     <Components>
       <Town id="castle_comp_KIN21" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="588"/>
     </Components>
@@ -5517,7 +5517,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_KIN24" name="{=RmvKSL4R}Kī-Kameyama Castle" owner="Faction.clan_yukawa_1" posX="859.79" posY="468.463" culture="Culture.kinai" gate_posX="857.8642" gate_posY="467.6368">
+  <Settlement id="castle_KIN24" name="{=RmvKSL4R}Kishū-Kameyama Castle" owner="Faction.clan_yukawa_1" posX="859.79" posY="468.463" culture="Culture.kinai" gate_posX="857.8642" gate_posY="467.6368">
     <Components>
       <Town id="castle_comp_KIN24" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="952"/>
     </Components>
@@ -5527,7 +5527,7 @@
       <Location id="prison" scene_name="sho_prison_b"/>
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KIN24_1" name="{=1rfay3TH}Kī-Komatsubara" posX="848.765" posY="459.927" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="castle_village_KIN24_1" name="{=1rfay3TH}Kishū-Komatsubara" posX="848.765" posY="459.927" culture="Culture.kinai" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="castle_village_comp_KIN24_1" village_type="VillageType.logger" hearth="200" gate_rotation="0.008" bound="Settlement.castle_KIN24" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
