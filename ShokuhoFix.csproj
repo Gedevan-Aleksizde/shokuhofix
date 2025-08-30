@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>9.0</LangVersion>
+    <ResolveAssemblyWarnOrErrorOnTargetArchitectureMismatch>None</ResolveAssemblyWarnOrErrorOnTargetArchitectureMismatch>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Bannerlord.ButterLib" Version="2.9.18" />
+    <PackageReference Include="Bannerlord.MCM" Version="5.10.2" />
+    <PackageReference Include="Bannerlord.ReferenceAssemblies" Version="1.2.12.77991" />
+    <PackageReference Include="Bannerlord.UIExtenderEx" Version="2.12.0" />
+    <PackageReference Include="Lib.Harmony" Version="2.3.6" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Shokuho">
+      <HintPath>Shokuho.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="mkdir Releases\$(TargetName)&#xD;&#xA;copy /y _module\submodule.xml Releases\$(ProjectName)&#xD;&#xA;copy /y _module\settings.json Releases\$(ProjectName)&#xD;&#xA;copy /y _module\titles.json Releases\$(ProjectName)&#xD;&#xA;mkdir Releases\$(TargetName)\ModuleData&#xD;&#xA;xcopy /y /s _module\ModuleData\ Releases\NobleTitlesPlus\ModuleData&#xD;&#xA;mkdir Releases\$(ProjectName)\bin\Win64_Shipping_Client&#xD;&#xA;copy &quot;$(TargetDir)$(TargetName).dll&quot; &quot;Releases\$(ProjectName)\bin\Win64_Shipping_Client\&quot;&#xD;&#xA;powershell.exe -command Compress-Archive -Force -Path Releases\$(ProjectName) -DestinationPath Releases\$(ProjectName).zip" />
+  </Target>
+
+</Project>
