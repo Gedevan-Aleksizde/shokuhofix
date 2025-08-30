@@ -46,7 +46,7 @@
   <xsl:template match="Hero[@id='lord_1_hojo_8']/@text" ><xsl:attribute name="text">{=Ihhdccnz}Houjou Fuku</xsl:attribute></xsl:template>
   <xsl:template match="Hero[@id='lord_1_hojo_9']/@text" ><xsl:attribute name="text">{=I6HLatlC}Houjou Ujinori</xsl:attribute></xsl:template>
   <xsl:template match="Hero[@id='lord_1_hojo_10']/@text" ><xsl:attribute name="text">{=XT3whBO1}Houjou Kougen-in</xsl:attribute></xsl:template>
-  <xsl:template match="Hero[@id='lord_1_hojo_11']/@text" ><xsl:attribute name="text">{=HMftyqYc}Houjou Gen-an</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_hojo_11']/@text" ><xsl:attribute name="text">{=HMftyqYc}Houjou Gen'an</xsl:attribute></xsl:template>
   <xsl:template match="Hero[@id='lord_1_kogakubo_6']/@text" ><xsl:attribute name="text">{=F9XMsCHI}Ashikaga Iekuni</xsl:attribute></xsl:template>
   <xsl:template match="Hero[@id='lord_1_haga_2']/@text" ><xsl:attribute name="text">{=0xmB7XJS}Haga Takatake</xsl:attribute></xsl:template>
   <xsl:template match="Hero[@id='lord_1_ito']/@text" ><xsl:attribute name="text">{=XTnJEsYW}Itou Yoshisuke</xsl:attribute></xsl:template>

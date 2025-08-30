@@ -458,7 +458,7 @@
   <xsl:template match="NPCCharacter[@id='lord_1_hojo_8']/@name" ><xsl:attribute name="name">{=Ihhdccnz}Fuku</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_hojo_9']/@name" ><xsl:attribute name="name">{=I6HLatlC}Ujinori</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_hojo_10']/@name" ><xsl:attribute name="name">{=XT3whBO1}Kougen-in</xsl:attribute></xsl:template>
-  <xsl:template match="NPCCharacter[@id='lord_1_hojo_11']/@name" ><xsl:attribute name="name">{=HMftyqYc}Gen-an</xsl:attribute></xsl:template>
+  <xsl:template match="NPCCharacter[@id='lord_1_hojo_11']/@name" ><xsl:attribute name="name">{=HMftyqYc}Gen'an</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_matsuda']/@name" ><xsl:attribute name="name">{=IFVBo0UW}Norihide</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_matsuda_1']/@name" ><xsl:attribute name="name">{=Koe4GEO4}Tani</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_matsuda_2']/@name" ><xsl:attribute name="name">{=uzEB7rTO}Masaharu</xsl:attribute></xsl:template>

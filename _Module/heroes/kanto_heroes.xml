@@ -36,7 +36,7 @@
   <Hero id="lord_1_hojo_8" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo_7" text="{=901f7BeD}Houjou Fuku"/>
   <Hero id="lord_1_hojo_9" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo_10" father="Hero.lord_1_hojo_2" mother="Hero.lord_1_hojo_3" text="{=0bd70E22}Houjou Ujinori"/>
   <Hero id="lord_1_hojo_10" faction="Faction.clan_hojo_1" spouse="Hero.lord_1_hojo_9" text="{=258bfA5A}Houjou Kougen-in"/>
-  <Hero id="lord_1_hojo_11" faction="Faction.clan_hojo_1" text="{=1f4b9416}Houjou Gen-an"/>
+  <Hero id="lord_1_hojo_11" faction="Faction.clan_hojo_1" text="{=1f4b9416}Houjou Gen'an"/>
   <!--Matsuda Clan-->
   <Hero id="lord_1_matsuda" faction="Faction.clan_matsuda_1" spouse="Hero.lord_1_matsuda_1" text="{=42429621}Matsuda Norihide"/>
   <Hero id="lord_1_matsuda_1" faction="Faction.clan_matsuda_1" spouse="Hero.lord_1_matsuda" text="{=30A4e3A0}Matsuda Tani"/>

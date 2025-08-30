@@ -562,7 +562,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Relative (monk) -->
-  <NPCCharacter id="lord_1_hojo_11" name="{=HMftyqYc}Gen-an" age="64" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hojo_11" name="{=HMftyqYc}Gen'an" age="64" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="64.00" weight="0.5683" build="0.6208" key="002CDC0E80000381B579794986A75A5B53696A6876B9379BD5384CC548899C980279962407999279000000000000000000000000000000000000000072E40101"/>
     </face>
