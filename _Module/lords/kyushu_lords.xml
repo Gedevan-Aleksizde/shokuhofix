@@ -2876,7 +2876,7 @@
     </Equipments>
   </NPCCharacter>
   <!--leader-->
-  <NPCCharacter id="lord_1_otomo" name="{=Knylet1a}Sourin" age="38" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_otomo" name="{=3AFE1DCF}Yoshishige" age="38" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="38.00" weight="0.1144" build="0.1548" key="001FDC0E400006C2A7606A598AB76B3CD2678B5A58E93957D34AAC8568899DA80472264607A8823B000000000000000000000000000000000000000066DC0042"/>
     </face>
