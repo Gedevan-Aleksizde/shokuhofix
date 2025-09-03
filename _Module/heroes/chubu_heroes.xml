@@ -21,7 +21,7 @@
   <Hero id="lord_1_mizoe_2" faction="Faction.clan_mizoe_1" spouse="Hero.lord_1_mizoe_3" father="Hero.lord_1_mizoe" mother="Hero.lord_1_mizoe_1" text="{=59375d0D}Mizoe Nagayasu"/>
   <Hero id="lord_1_mizoe_3" faction="Faction.clan_mizoe_1" spouse="Hero.lord_1_mizoe_2" text="{=2247baAE}Mizoe Oku"/>
   <Hero id="lord_1_mizoe_4" faction="Faction.clan_mizoe_1" father="Hero.lord_1_mizoe_2" mother="Hero.lord_1_mizoe_3" text="{=C5DCe776}Mizoe Nagauji"/>
-  <Hero id="lord_1_mizoe_5" faction="Faction.clan_mizoe_1" father="Hero.lord_1_mizoe" mother="Hero.lord_1_mizoe_1" text="{=0a5b1Ea5}Mizoe Ben-ei"/>
+  <Hero id="lord_1_mizoe_5" faction="Faction.clan_mizoe_1" father="Hero.lord_1_mizoe" mother="Hero.lord_1_mizoe_1" text="{=0a5b1Ea5}Mizoe Ben'ei"/>
   <!--Maeba Clan-->
   <Hero id="lord_1_maeba" faction="Faction.clan_maeba_1" spouse="Hero.lord_1_maeba_1" father="Hero.dead_lord_1_maeba_2" mother="Hero.dead_lord_1_maeba_3" text="{=9a3d6Dd5}Maeba Kagemasa"/>
   <Hero id="lord_1_maeba_1" faction="Faction.clan_maeba_1" spouse="Hero.lord_1_maeba" text="{=0204736E}Maeba Sei"/>

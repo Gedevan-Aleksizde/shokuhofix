@@ -320,7 +320,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son 2 -->
-  <NPCCharacter id="lord_1_mizoe_5" name="{=m28lOKlG}Ben-ei" age="20" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_mizoe_5" name="{=m28lOKlG}Ben'ei" age="20" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="20.00" weight="0.7502" build="0.7355" key="002FD00E80000240977365C698B5736AC2676B786778366BD4377C6568A9BD98066BB66706C9A357000000000000000000000000000000000000000062D400C3"/>
     </face>

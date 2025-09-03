@@ -188,15 +188,15 @@
   <Hero id="lord_1_ryuzoji_13" faction="Faction.clan_ryuzoji_1" father="Hero.lord_1_ryuzoji_11" mother="Hero.lord_1_ryuzoji_12" text="{=e6EE241C}Ryūzouji Yasutoshi"/>
   <Hero id="lord_1_ryuzoji_14" faction="Faction.clan_ryuzoji_1" father="Hero.lord_1_ryuzoji_11" mother="Hero.lord_1_ryuzoji_12" text="{=268df764}Ryūzouji Kikyo"/>
   <Hero id="lord_1_ryuzoji_15" faction="Faction.clan_ryuzoji_1" father="Hero.lord_1_ryuzoji_11" mother="Hero.lord_1_ryuzoji_12" text="{=63Dd1dA8}Ryūzouji Shinko-in"/>
-  <!--Matsuura clan 10 ids-->
-  <Hero id="lord_1_matsuura" faction="Faction.clan_matsuura_1" spouse="Hero.lord_1_matsuura_1" text="{=6DEEc6D9}Matsuura Takanobu"/>
-  <Hero id="lord_1_matsuura_1" faction="Faction.clan_matsuura_1" spouse="Hero.lord_1_matsuura" text="{=5b7D7130}Matsuura Suiran"/>
-  <Hero id="lord_1_matsuura_2" faction="Faction.clan_matsuura_1" spouse="Hero.lord_1_matsuura_3" father="Hero.lord_1_matsuura" mother="Hero.lord_1_matsuura_1" text="{=0b81b142}Matsuura Shigenobu"/>
-  <Hero id="lord_1_matsuura_3" faction="Faction.clan_matsuura_1" spouse="Hero.lord_1_matsuura_2" text="{=ae77844c}Matsuura Shii"/>
-  <Hero id="lord_1_matsuura_4" faction="Faction.clan_matsuura_1" father="Hero.lord_1_matsuura" mother="Hero.lord_1_matsuura_1" text="{=186a94D3}Matsuura Koreaki"/>
-  <Hero id="lord_1_matsuura_5" faction="Faction.clan_matsuura_1" spouse="Hero.lord_1_matsuura_6" father="Hero.lord_1_matsuura" mother="Hero.lord_1_matsuura_1" text="{=ce56d717}Matsuura Chikashi"/>
-  <Hero id="lord_1_matsuura_6" faction="Faction.clan_matsuura_1" spouse="Hero.lord_1_matsuura_5" text="{=Dd533Dad}Matsuura Kanoko"/>
-  <Hero id="lord_1_matsuura_7" faction="Faction.clan_matsuura_1" father="Hero.lord_1_matsuura" mother="Hero.lord_1_matsuura_1" text="{=03C277B3}Matsuura Ayame"/>
+  <!--Matsura clan 10 ids-->
+  <Hero id="lord_1_matsuura" faction="Faction.clan_matsuura_1" spouse="Hero.lord_1_matsuura_1" text="{=6DEEc6D9}Matsura Takanobu"/>
+  <Hero id="lord_1_matsuura_1" faction="Faction.clan_matsuura_1" spouse="Hero.lord_1_matsuura" text="{=5b7D7130}Matsura Suiran"/>
+  <Hero id="lord_1_matsuura_2" faction="Faction.clan_matsuura_1" spouse="Hero.lord_1_matsuura_3" father="Hero.lord_1_matsuura" mother="Hero.lord_1_matsuura_1" text="{=0b81b142}Matsura Shigenobu"/>
+  <Hero id="lord_1_matsuura_3" faction="Faction.clan_matsuura_1" spouse="Hero.lord_1_matsuura_2" text="{=ae77844c}Matsura Shii"/>
+  <Hero id="lord_1_matsuura_4" faction="Faction.clan_matsuura_1" father="Hero.lord_1_matsuura" mother="Hero.lord_1_matsuura_1" text="{=186a94D3}Matsura Koreaki"/>
+  <Hero id="lord_1_matsuura_5" faction="Faction.clan_matsuura_1" spouse="Hero.lord_1_matsuura_6" father="Hero.lord_1_matsuura" mother="Hero.lord_1_matsuura_1" text="{=ce56d717}Matsura Chikashi"/>
+  <Hero id="lord_1_matsuura_6" faction="Faction.clan_matsuura_1" spouse="Hero.lord_1_matsuura_5" text="{=Dd533Dad}Matsura Kanoko"/>
+  <Hero id="lord_1_matsuura_7" faction="Faction.clan_matsuura_1" father="Hero.lord_1_matsuura" mother="Hero.lord_1_matsuura_1" text="{=03C277B3}Matsura Ayame"/>
   <!--nabeshima clan 10 ids-->
   <Hero id="lord_1_nabeshima" faction="Faction.clan_nabeshima_1" spouse="Hero.lord_1_nabeshima_1" text="{=E9437afe}Nabeshima Kiyofusa"/>
   <Hero id="lord_1_nabeshima_1" faction="Faction.clan_nabeshima_1" spouse="Hero.lord_1_nabeshima" text="{=d007bb28}Nabeshima Kakei"/>

@@ -1789,7 +1789,7 @@
       <EquipmentSet id="saikai_civ_template_default_female" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <!--Matsuura clan 10 ids-->
+  <!--Matsura clan 10 ids-->
   <!--Parents-->
   <!--leader-->
   <NPCCharacter id="lord_1_matsuura" name="{=IuaPQ3Jf}Takanobu" age="39" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">

@@ -156,7 +156,7 @@
   <xsl:template match="Faction[@id='clan_yasutomi_1']/@name" ><xsl:attribute name="name">{=mBLBhiJ2}Yasutomi</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_fukuda_1']/@name" ><xsl:attribute name="name">{=pmrkQRf2}Fukuda</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_ryuzoji_1']/@name" ><xsl:attribute name="name">{=ztOTUHZ8}Ryūzouji</xsl:attribute></xsl:template>
-  <xsl:template match="Faction[@id='clan_matsuura_1']/@name" ><xsl:attribute name="name">{=tF67sEyg}Matsuura</xsl:attribute></xsl:template>
+  <xsl:template match="Faction[@id='clan_matsuura_1']/@name" ><xsl:attribute name="name">{=tF67sEyg}Matsura</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_nabeshima_1']/@name" ><xsl:attribute name="name">{=FQ1msfS3}Nabeshima</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_saigo_1']/@name" ><xsl:attribute name="name">{=eym8aSZ5}Saigou</xsl:attribute></xsl:template>
   <xsl:template match="Faction[@id='clan_kumabe_1']/@name" ><xsl:attribute name="name">{=LvmXDnyd}Kumabe</xsl:attribute></xsl:template>
