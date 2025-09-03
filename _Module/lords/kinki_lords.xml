@@ -1649,7 +1649,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Relative -->
-  <NPCCharacter id="lord_1_yasumi_3" name="{=Rrbu472n}Ukon" age="38" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_yasumi_3" name="{=Rrbu472n}Nobukuni" age="38" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="38.00" weight="0.5014" build="0.167" key="003CF00E40000444A6747699BAB765898265599957FA47BBD44C9AB538A999980363863506C6D397000000000000000000000000000000000000000064CC0043"/>
     </face>

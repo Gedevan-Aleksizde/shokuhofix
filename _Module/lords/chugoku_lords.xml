@@ -756,7 +756,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!--Leader-->
-	<NPCCharacter id="lord_1_nanjo" name="{=JBy4izdl}Sousyou" age="71" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+	<NPCCharacter id="lord_1_nanjo" name="{=JBy4izdl}Motokiyo" age="71" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
 		<face>
 			<BodyProperties version="4" age="71.00" weight="0.5192" build="0.1505" key="0039C80E4000044186655A668DA4523B81655A576A9B3698D33A5B753899AC780472864607A9736800000000000000000000000000000000000000001CE40043"/>
 		</face>

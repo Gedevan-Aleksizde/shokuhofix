@@ -113,7 +113,7 @@
   <Hero id="lord_1_yasumi" faction="Faction.clan_yasumi_1" spouse="Hero.lord_1_yasumi_1" text="{=b67A56b4}Yasumi Munefusa"/>
   <Hero id="lord_1_yasumi_1" faction="Faction.clan_yasumi_1" spouse="Hero.lord_1_yasumi" text="{=73C7205B}Yasumi Yata"/>
   <Hero id="lord_1_yasumi_2" faction="Faction.clan_yasumi_1" father="Hero.lord_1_yasumi" mother="Hero.lord_1_yasumi_1" text="{=d46667d4}Yasumi Tomonaga"/>
-  <Hero id="lord_1_yasumi_3" faction="Faction.clan_yasumi_1" spouse="Hero.lord_1_yasumi_4" text="{=faC22910}Yasumi Ukon"/>
+  <Hero id="lord_1_yasumi_3" faction="Faction.clan_yasumi_1" spouse="Hero.lord_1_yasumi_4" text="{=faC22910}Yasumi Nobukuni"/>
   <Hero id="lord_1_yasumi_4" faction="Faction.clan_yasumi_1" spouse="Hero.lord_1_yasumi_3" text="{=32dEa77F}Yasumi Chie"/>
   <!-- Yukawa Clan -->
   <Hero id="lord_1_yukawa" faction="Faction.clan_yukawa_1" spouse="Hero.lord_1_yukawa_1" father="Hero.dead_lord_1_yukawa_2" mother="Hero.dead_lord_1_yukawa_3" text="{=43622bd5}Yukawa Naoharu"/>

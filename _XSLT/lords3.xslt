@@ -206,7 +206,7 @@
   <xsl:template match="NPCCharacter[@id='lord_1_yasumi']/@name" ><xsl:attribute name="name">{=PbADW8O5}Munefusa</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_yasumi_1']/@name" ><xsl:attribute name="name">{=JrNemg5t}Yata</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_yasumi_2']/@name" ><xsl:attribute name="name">{=iMqha8Z4}Tomonaga</xsl:attribute></xsl:template>
-  <xsl:template match="NPCCharacter[@id='lord_1_yasumi_3']/@name" ><xsl:attribute name="name">{=Rrbu472n}Ukon</xsl:attribute></xsl:template>
+  <xsl:template match="NPCCharacter[@id='lord_1_yasumi_3']/@name" ><xsl:attribute name="name">{=Rrbu472n}Nobukuni</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_yasumi_4']/@name" ><xsl:attribute name="name">{=wCCzDL2D}Chie</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_yukawa']/@name" ><xsl:attribute name="name">{=fcAG1QqW}Naoharu</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_yukawa_1']/@name" ><xsl:attribute name="name">{=3QhK8vOe}Komatsu</xsl:attribute></xsl:template>
