@@ -84,7 +84,7 @@
   <Hero id="dead_lord_1_notohatakeyama_3" alive="false" faction="Faction.clan_notohatakeyama_1" spouse="Hero.dead_lord_1_notohatakeyama_2" text="{=63878dfA}Noto-Hatakeyama Keisei-in"/>
   <Hero id="lord_1_notohatakeyama_4" faction="Faction.clan_notohatakeyama_1" father="Hero.dead_lord_1_notohatakeyama_2" mother="Hero.dead_lord_1_notohatakeyama_3" text="{=b6027e53}Noto-Hatakeyama Yoshitaka"/>
   <!--Cho Clan-->
-  <Hero id="lord_1_cho" faction="Faction.clan_cho_1" spouse="Hero.lord_1_cho_1" text="{=08B90589}Cho Tsugutura"/>
+  <Hero id="lord_1_cho" faction="Faction.clan_cho_1" spouse="Hero.lord_1_cho_1" text="{=08B90589}Cho Tsugutsura"/>
   <Hero id="lord_1_cho_1" faction="Faction.clan_cho_1" spouse="Hero.lord_1_cho" text="{=52C21d35}Cho Kine"/>
   <Hero id="lord_1_cho_2" faction="Faction.clan_cho_1" spouse="Hero.lord_1_cho_3" father="Hero.lord_1_cho" mother="Hero.lord_1_cho_1" text="{=fe89d1c9}Cho Tsunatsura"/>
   <Hero id="lord_1_cho_3" faction="Faction.clan_cho_1" spouse="Hero.lord_1_cho_2" text="{=223CdD32}Cho Chiho"/>

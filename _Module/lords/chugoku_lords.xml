@@ -370,7 +370,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!--relative-->
-	<NPCCharacter id="lord_1_kikkawa_7" name="{=UENAABaj}Tuneyasu" age="43" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+	<NPCCharacter id="lord_1_kikkawa_7" name="{=UENAABaj}Tsuneyasu" age="43" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
 		<face>
 			<BodyProperties version="4" age="43.00" weight="0.6897" build="0.8374" key="002DD00E40000142956054A788B6598AC3776989A89A449AD42D48755889AE88027DA62407B7B28900000000000000000000000000000000000000001CDC0003"/>
 		</face>
@@ -415,7 +415,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!--children-->
-	<NPCCharacter id="lord_1_kikkawa_9" name="{=3PJdgQiO}Tuneie" age="20" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+	<NPCCharacter id="lord_1_kikkawa_9" name="{=3PJdgQiO}Tsuneie" age="20" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
 		<face>
 			<BodyProperties version="4" age="20.00" weight="0.8039" build="0.303" key="0027E40EC00000C1A57566B8A9C8668981767A88ABBD477AC527A6B568899C780465C64606A77397000000000000000000000000000000000000000004D40002"/>
 		</face>

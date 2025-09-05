@@ -79,7 +79,7 @@
   <xsl:template match="NPCCharacter[@id='lord_1_cho_1']/@name" ><xsl:attribute name="name">{=54P6AoCQ}Kine</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_cho_2']/@name" ><xsl:attribute name="name">{=BH4qApyf}Tsunatsura</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_cho_3']/@name" ><xsl:attribute name="name">{=mxxEQmKL}Chiho</xsl:attribute></xsl:template>
-  <xsl:template match="NPCCharacter[@id='lord_1_cho_4']/@name" ><xsl:attribute name="name">{=Pd02cWIP}Turatatsu</xsl:attribute></xsl:template>
+  <xsl:template match="NPCCharacter[@id='lord_1_cho_4']/@name" ><xsl:attribute name="name">{=Pd02cWIP}Tsuratatsu</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_yusa']/@name" ><xsl:attribute name="name">{=6UGnlTvg}Tsugumitsu</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_yusa_1']/@name" ><xsl:attribute name="name">{=mtpjGuCC}Sue</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_yusa_2']/@name" ><xsl:attribute name="name">{=JoEyAqpB}Morimitsu</xsl:attribute></xsl:template>
@@ -337,9 +337,9 @@
   <xsl:template match="NPCCharacter[@id='lord_1_kikkawa_4']/@name" ><xsl:attribute name="name">{=0wrHmcK7}Hiroie</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_kikkawa_5']/@name" ><xsl:attribute name="name">{=BrDafz9a}Tomi</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_kikkawa_6']/@name" ><xsl:attribute name="name">{=akFMV6yS}Amane</xsl:attribute></xsl:template>
-  <xsl:template match="NPCCharacter[@id='lord_1_kikkawa_7']/@name" ><xsl:attribute name="name">{=UENAABaj}Tuneyasu</xsl:attribute></xsl:template>
+  <xsl:template match="NPCCharacter[@id='lord_1_kikkawa_7']/@name" ><xsl:attribute name="name">{=UENAABaj}Tsuneyasu</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_kikkawa_8']/@name" ><xsl:attribute name="name">{=BDvDn7EA}Awa</xsl:attribute></xsl:template>
-  <xsl:template match="NPCCharacter[@id='lord_1_kikkawa_9']/@name" ><xsl:attribute name="name">{=3PJdgQiO}Tuneie</xsl:attribute></xsl:template>
+  <xsl:template match="NPCCharacter[@id='lord_1_kikkawa_9']/@name" ><xsl:attribute name="name">{=3PJdgQiO}Tsuneie</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_kikkawa_10']/@name" ><xsl:attribute name="name">{=unkJIljQ}Momo</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_kikkawa_11']/@name" ><xsl:attribute name="name">{=tZTNsQR1}Hina</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_kikkawa_12']/@name" ><xsl:attribute name="name">{=9tqn5PPq}Tomoe</xsl:attribute></xsl:template>

@@ -199,7 +199,7 @@
   <Hero id="lord_1_daijo_1" faction="Faction.clan_daijo_1" spouse="Hero.lord_1_daijo" text="{=9bAa09e7}Daijo Fumi"/>
   <Hero id="dead_lord_1_daijo_2" alive="false" faction="Faction.clan_daijo_1" spouse="Hero.dead_lord_1_daijo_3" text="{=b4F7B944}Daijo Yoshimoto"/>
   <Hero id="dead_lord_1_daijo_3" alive="false" faction="Faction.clan_daijo_1" spouse="Hero.dead_lord_1_daijo_2" text="{=53C8ff23}Daijo Rensho-in"/>
-  <Hero id="lord_1_daijo_4" faction="Faction.clan_daijo_1" spouse="Hero.lord_1_daijo_5" father="Hero.dead_lord_1_daijo_2" mother="Hero.dead_lord_1_daijo_3" text="{=d0B201ab}Daijo Tuneharu"/>
+  <Hero id="lord_1_daijo_4" faction="Faction.clan_daijo_1" spouse="Hero.lord_1_daijo_5" father="Hero.dead_lord_1_daijo_2" mother="Hero.dead_lord_1_daijo_3" text="{=d0B201ab}Daijo Tsuneharu"/>
   <Hero id="lord_1_daijo_5" faction="Faction.clan_daijo_1" spouse="Hero.lord_1_daijo_4" text="{=C9E386e9}Daijo Hana"/>
   <!--kashima Clan-->
   <Hero id="lord_1_kashima" faction="Faction.clan_kashima_1" father="Hero.dead_lord_1_kashima_1" mother="Hero.dead_lord_1_kashima_2" text="{=403AB614}Kashima Ujimiki"/>

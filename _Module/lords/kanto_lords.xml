@@ -1856,7 +1856,7 @@
   </NPCCharacter>
   <!-- Sano Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_sano" name="{=7JhWt0Cr}Masatuna" age="39" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_sano" name="{=7JhWt0Cr}Masatsuna" age="39" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="39.00" weight="0.2862" build="0.3187" key="002FCC0EC0000443A7775B39BCC7649BB3655A789A8B459CD44D9BA558999C880575465707C9927B000000000000000000000000000000000000000078E40100"/>
     </face>
@@ -3239,7 +3239,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother -->
-  <NPCCharacter id="lord_1_daijo_4" name="{=mWRFq0Y2}Tuneharu" age="21" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_daijo_4" name="{=mWRFq0Y2}Tsuneharu" age="21" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="21.00" weight="0.8189" build="0.7631" key="0032D40EC0000601A6648698CDA5578C73796B574DDD4899D22B7B4548A9AA88047BC64607DA825B000000000000000000000000000000000000000062EC0083"/>
     </face>

@@ -15,7 +15,7 @@
   <Hero id="lord_1_ito_6" faction="Faction.clan_ito_1" father="Hero.lord_1_ito" mother="Hero.lord_1_ito_1" text="{=8c60C42f}Itou Machigami"/>
   <Hero id="lord_1_ito_7" faction="Faction.clan_ito_1" father="Hero.lord_1_ito" mother="Hero.lord_1_ito_1" text="{=B1B3A671}Itou Suketaka"/>
   <!--mera clan 8 ids-->
-  <Hero id="lord_1_mera" faction="Faction.clan_mera_1" spouse="Hero.lord_1_mera_1" father="Hero.lord_1_mera_6" mother="Hero.lord_1_mera_7" text="{=1AecFE7c}Mera Suketugu"/>
+  <Hero id="lord_1_mera" faction="Faction.clan_mera_1" spouse="Hero.lord_1_mera_1" father="Hero.lord_1_mera_6" mother="Hero.lord_1_mera_7" text="{=1AecFE7c}Mera Suketsugu"/>
   <Hero id="lord_1_mera_1" faction="Faction.clan_mera_1" spouse="Hero.lord_1_mera" text="{=888cb089}Mera Natsugiku"/>
   <Hero id="lord_1_mera_2" faction="Faction.clan_mera_1" spouse="Hero.lord_1_mera_3" text="{=1F350F37}Mera Shigekata"/>
   <Hero id="lord_1_mera_3" faction="Faction.clan_mera_1" spouse="Hero.lord_1_mera_2" text="{=C1B327e5}Mera Hana"/>

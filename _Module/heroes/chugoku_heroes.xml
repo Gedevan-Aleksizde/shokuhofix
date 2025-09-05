@@ -20,9 +20,9 @@
   <Hero id="lord_1_kikkawa_4" faction="Faction.clan_kikkawa_1" father="Hero.lord_1_kikkawa" mother="Hero.lord_1_kikkawa_1" text="{=7810Cb9a}Kikkawa Hiroie."/>
   <Hero id="lord_1_kikkawa_5" faction="Faction.clan_kikkawa_1" father="Hero.lord_1_kikkawa" mother="Hero.lord_1_kikkawa_1" text="{=D906a26e}Kikkawa Tomi."/>
   <Hero id="lord_1_kikkawa_6" faction="Faction.clan_kikkawa_1" father="Hero.lord_1_kikkawa" mother="Hero.lord_1_kikkawa_1" text="{=81B8375C}Kikkawa Amane."/>
-  <Hero id="lord_1_kikkawa_7" faction="Faction.clan_kikkawa_1" spouse="Hero.lord_1_kikkawa_8" text="{=893989eC}Kikkawa Tuneyasu."/>
+  <Hero id="lord_1_kikkawa_7" faction="Faction.clan_kikkawa_1" spouse="Hero.lord_1_kikkawa_8" text="{=893989eC}Kikkawa Tsuneyasu."/>
   <Hero id="lord_1_kikkawa_8" faction="Faction.clan_kikkawa_1" spouse="Hero.lord_1_kikkawa_7" text="{=f80dec54}Kikkawa Awa."/>
-  <Hero id="lord_1_kikkawa_9" faction="Faction.clan_kikkawa_1" spouse="Hero.lord_1_kikkawa_10" father="Hero.lord_1_kikkawa_7" mother="Hero.lord_1_kikkawa_8" text="{=3210e46b}Kikkawa Tuneie."/>
+  <Hero id="lord_1_kikkawa_9" faction="Faction.clan_kikkawa_1" spouse="Hero.lord_1_kikkawa_10" father="Hero.lord_1_kikkawa_7" mother="Hero.lord_1_kikkawa_8" text="{=3210e46b}Kikkawa Tsuneie."/>
   <Hero id="lord_1_kikkawa_10" faction="Faction.clan_kikkawa_1" spouse="Hero.lord_1_kikkawa_9" text="{=3b0ea0F6}Kikkawa Momo."/>
   <Hero id="lord_1_kikkawa_11" faction="Faction.clan_kikkawa_1" father="Hero.lord_1_kikkawa_7" mother="Hero.lord_1_kikkawa_8" text="{=5a1bCb33}Kikkawa Hina."/>
   <Hero id="lord_1_kikkawa_12" faction="Faction.clan_kikkawa_1" father="Hero.lord_1_kikkawa_7" mother="Hero.lord_1_kikkawa_8" text="{=e2DAe324}Kikkawa Tomoe."/>
