@@ -220,7 +220,7 @@
   <xsl:template match="NPCCharacter[@id='lord_1_honma_3']/@name" ><xsl:attribute name="name">{=fy68erIy}Tomo</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_honma_4']/@name" ><xsl:attribute name="name">{=wr8Xrdq3}Muneyuki</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_honma_5']/@name" ><xsl:attribute name="name">{=jKoS0rtx}Takaou</xsl:attribute></xsl:template>
-  <xsl:template match="NPCCharacter[@id='lord_1_honjo']/@name" ><xsl:attribute name="name">{=Yb8Jirco}Sigenaga</xsl:attribute></xsl:template>
+  <xsl:template match="NPCCharacter[@id='lord_1_honjo']/@name" ><xsl:attribute name="name">{=Yb8Jirco}Shigenaga</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_honjo_1']/@name" ><xsl:attribute name="name">{=NDluCjrj}Momiji</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_honjo_2']/@name" ><xsl:attribute name="name">{=Ng1qk1bc}Akinaga</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_honjo_3']/@name" ><xsl:attribute name="name">{=9107Gylz}Saneyori</xsl:attribute></xsl:template>

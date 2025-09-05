@@ -261,7 +261,7 @@
   <Hero id="lord_1_honma_5" faction="Faction.clan_honma_1" father="Hero.lord_1_honma_2" mother="Hero.lord_1_honma_3" text="{=665dD348}Honma Takaou"/>
   <!--Honjo Faction
 	Honjo Clan-->
-  <Hero id="lord_1_honjo" faction="Faction.clan_honjo_1" spouse="Hero.lord_1_honjo_1" text="{=99D073ae}Honjo Sigenaga"/>
+  <Hero id="lord_1_honjo" faction="Faction.clan_honjo_1" spouse="Hero.lord_1_honjo_1" text="{=99D073ae}Honjo Shigenaga"/>
   <Hero id="lord_1_honjo_1" faction="Faction.clan_honjo_1" spouse="Hero.lord_1_honjo" text="{=Ed9ce71F}Honjo Momiji"/>
   <Hero id="lord_1_honjo_2" faction="Faction.clan_honjo_1" father="Hero.lord_1_honjo" mother="Hero.lord_1_honjo_1" text="{=6e5cF69E}Honjo Akinaga"/>
   <Hero id="lord_1_honjo_3" faction="Faction.clan_honjo_1" spouse="Hero.lord_1_honjo_4" text="{=A72c3197}Honjo Saneyori"/>

@@ -4008,7 +4008,7 @@
   </NPCCharacter>
   <!-- Honjou Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_honjo" name="{=Yb8Jirco}Sigenaga" age="28" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_honjo" name="{=Yb8Jirco}Shigenaga" age="28" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="28.00" weight="0.1136" build="0.8144" key="0035DC0E400002C3A5647A66A5B7787B42784A754C9A4898D53CBBB568898D88036C263506A8C387000000000000000000000000000000000000000016D400C3"/>
     </face>

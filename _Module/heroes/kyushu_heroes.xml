@@ -17,7 +17,7 @@
   <!--mera clan 8 ids-->
   <Hero id="lord_1_mera" faction="Faction.clan_mera_1" spouse="Hero.lord_1_mera_1" father="Hero.lord_1_mera_6" mother="Hero.lord_1_mera_7" text="{=1AecFE7c}Mera Suketugu"/>
   <Hero id="lord_1_mera_1" faction="Faction.clan_mera_1" spouse="Hero.lord_1_mera" text="{=888cb089}Mera Natsugiku"/>
-  <Hero id="lord_1_mera_2" faction="Faction.clan_mera_1" spouse="Hero.lord_1_mera_3" text="{=1F350F37}Mera Sigekata"/>
+  <Hero id="lord_1_mera_2" faction="Faction.clan_mera_1" spouse="Hero.lord_1_mera_3" text="{=1F350F37}Mera Shigekata"/>
   <Hero id="lord_1_mera_3" faction="Faction.clan_mera_1" spouse="Hero.lord_1_mera_2" text="{=C1B327e5}Mera Hana"/>
   <Hero id="lord_1_mera_4" faction="Faction.clan_mera_1" spouse="Hero.lord_1_mera_5" text="{=Af5360ba}Mera Sukemichi"/>
   <Hero id="lord_1_mera_5" faction="Faction.clan_mera_1" spouse="Hero.lord_1_mera_4" text="{=C7CEd4c5}Mera Yume"/>
@@ -297,7 +297,7 @@
   <Hero id="lord_1_uwai_2" faction="Faction.clan_uwai_1" spouse="Hero.lord_1_uwai_3" father="Hero.lord_1_uwai" mother="Hero.lord_1_uwai_1" text="{=26531549}Uwai Kakuken"/>
   <Hero id="lord_1_uwai_3" faction="Faction.clan_uwai_1" spouse="Hero.lord_1_uwai_2" text="{=145e92F5}Uwai Tomi"/>
   <Hero id="lord_1_uwai_4" faction="Faction.clan_uwai_1" father="Hero.lord_1_uwai_2" mother="Hero.lord_1_uwai_3" text="{=5b3D301B}Uwai Yunekane"/>
-  <Hero id="lord_1_uwai_5" faction="Faction.clan_uwai_1" spouse="Hero.lord_1_uwai_6" father="Hero.lord_1_uwai" mother="Hero.lord_1_uwai_1" text="{=3AEdd81d}Uwai Hideake"/>
+  <Hero id="lord_1_uwai_5" faction="Faction.clan_uwai_1" spouse="Hero.lord_1_uwai_6" father="Hero.lord_1_uwai" mother="Hero.lord_1_uwai_1" text="{=3AEdd81d}Uwai Hideaki"/>
   <Hero id="lord_1_uwai_6" faction="Faction.clan_uwai_1" spouse="Hero.lord_1_uwai_5" text="{=F10161f7}Uwai Ise"/>
   <Hero id="lord_1_uwai_7" faction="Faction.clan_uwai_1" father="Hero.lord_1_uwai_5" mother="Hero.lord_1_uwai_6" text="{=33973891}Uwai Satokane"/>
   <Hero id="lord_1_uwai_8" faction="Faction.clan_uwai_1" father="Hero.lord_1_uwai" mother="Hero.lord_1_uwai_1" text="{=9c1c2D8D}Uwai Shige"/>

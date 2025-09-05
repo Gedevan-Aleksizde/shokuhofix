@@ -59,7 +59,7 @@
   <xsl:template match="NPCCharacter[@id='lord_1_mera_7']/@name" ><xsl:attribute name="name">{=ZtJyjDvr}Namomi</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_mera']/@name" ><xsl:attribute name="name">{=2CvJRlY1}Suketsugu</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_mera_1']/@name" ><xsl:attribute name="name">{=ioFUZ0oL}Natsugiku</xsl:attribute></xsl:template>
-  <xsl:template match="NPCCharacter[@id='lord_1_mera_2']/@name" ><xsl:attribute name="name">{=peaJoNOB}Sigekata</xsl:attribute></xsl:template>
+  <xsl:template match="NPCCharacter[@id='lord_1_mera_2']/@name" ><xsl:attribute name="name">{=peaJoNOB}Shigekata</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_mera_3']/@name" ><xsl:attribute name="name">{=rOnLD0w7}Hana</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_mera_4']/@name" ><xsl:attribute name="name">{=Zyip3QcN}Sukemichi</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_mera_5']/@name" ><xsl:attribute name="name">{=Uf3QK6ng}Yume</xsl:attribute></xsl:template>

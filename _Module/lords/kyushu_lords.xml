@@ -4724,7 +4724,7 @@
     </Equipments>
   </NPCCharacter>
   <!--leader relatives-->
-  <NPCCharacter id="lord_1_mera_2" name="{=peaJoNOB}Sigekata" age="34" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_mera_2" name="{=peaJoNOB}Shigekata" age="34" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="34.00" weight="0.5724" build="0.1329" key="002FF00E800004C2846077A899B5532AA1755B5956BA466CC33A8D5538A998980562965606B8B398000000000000000000000000000000000000000072D40042"/>
     </face>
