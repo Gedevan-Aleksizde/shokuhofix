@@ -57,7 +57,7 @@
   <xsl:template match="Hero[@id='lord_1_ito_5']/@text" ><xsl:attribute name="text">{=bi2KysQW}Itou Houjyo</xsl:attribute></xsl:template>
   <xsl:template match="Hero[@id='lord_1_ito_6']/@text" ><xsl:attribute name="text">{=lVI3T9fG}Itou Machigami</xsl:attribute></xsl:template>
   <xsl:template match="Hero[@id='lord_1_ito_7']/@text" ><xsl:attribute name="text">{=85Bsa0wA}Itou Suketaka</xsl:attribute></xsl:template>
-  <xsl:template match="Hero[@id='lord_1_otomo_1']/@text" ><xsl:attribute name="text">{=UIKx01xx}Ōtomo Lady Nata</xsl:attribute></xsl:template>
+  <xsl:template match="Hero[@id='lord_1_otomo_1']/@text" ><xsl:attribute name="text">{=UIKx01xx}Lady Ōtomo Nata</xsl:attribute></xsl:template>
   <xsl:template match="Hero[@id='lord_1_otomo_2']/@text" ><xsl:attribute name="text">{=7sbPoa0a}Ōtomo Yoshimune</xsl:attribute></xsl:template>
   <xsl:template match="Hero[@id='lord_1_otomo_3']/@text" ><xsl:attribute name="text">{=a5rohL3A}Ōtomo Chikaie</xsl:attribute></xsl:template>
   <xsl:template match="Hero[@id='lord_1_otomo_4']/@text" ><xsl:attribute name="text">{=acpnamQM}Ōtomo Chikamori</xsl:attribute></xsl:template>

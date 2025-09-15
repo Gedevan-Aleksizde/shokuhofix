@@ -430,7 +430,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Mother (dead) -->
-  <NPCCharacter id="dead_lord_1_bessho_3" name="{=dO3CawFk}Masu" age="55" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_bessho_3" name="{=dO3CawFk}Nanzen-in" age="55" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="55.00" weight="0.0906" build="0.9307" key="0036D80E40000004878CB3BF9E1D7E1652F6829B0830A373AC36189F8ACA4A69076E16780637877C000000000000000000000000000000000000000024C40100"/>
     </face>

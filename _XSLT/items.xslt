@@ -130,7 +130,7 @@
   <xsl:template match="Item[@name='{=v60sSwHB}Unarmored Kote']/@name" ><xsl:attribute name="name">{=v60sSwHB}Ubu-gote</xsl:attribute></xsl:template>
   <xsl:template match="Item[@name='{=nfrAzQOE}Mail Kote']/@name" ><xsl:attribute name="name">{=nfrAzQOE}Kusari-gote</xsl:attribute></xsl:template>
   <xsl:template match="Item[@name='{=CoaDkHgm}Ornate Mail Kote' ]/@name" ><xsl:attribute name="name">{=CoaDkHgm}Ornate Kusari-gote</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@name='{=XSdMBA4v}Reinforced Mail Kote' ]/@name" ><xsl:attribute name="name">{=XSdMBA4v}Reinforced Kusari-gote</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=XSdMBA4v}Reinforced Mail Kote' ]/@name" ><xsl:attribute name="name">{=XSdMBA4v}Shino-kusari-gote</xsl:attribute></xsl:template>
   <xsl:template match="Item[@name='{=QKKouZeR}Guarded Kote']/@name" ><xsl:attribute name="name">{=QKKouZeR}Kusari Tsutsu-gote</xsl:attribute></xsl:template>
   <xsl:template match="Item[@name='{=eI5qxTh6}Plated Kote']/@name" ><xsl:attribute name="name">{=eI5qxTh6}Plated Kote</xsl:attribute></xsl:template>  
   <xsl:template match="Item[@name='{=6roxcVNP}Armored Kote']/@name" ><xsl:attribute name="name">{=6roxcVNP}Kojino-gote</xsl:attribute></xsl:template>
@@ -142,7 +142,7 @@
   <xsl:template match="Item[@id='sho_ryuzo_hat']/@name" ><xsl:attribute name="name">{=R9CSFKs7}Ryuzo's kasa</xsl:attribute></xsl:template>
 
   <xsl:template match="Item[@name='{=YOiJXHji}Suji Kabuto &amp; Menpo']/@name" ><xsl:attribute name="name">{=YOiJXHji}Suji Kabuto &amp; Menpō</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@name='{=us1vjvyv}Saika Kaburo &amp; Menpo']/@name" ><xsl:attribute name="name">{=us1vjvyv}Saika Kabuto &amp; Menpō</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=us1vjvyv}Saika Kaburo &amp; Menpo']/@name" ><xsl:attribute name="name">{=us1vjvyv}Saika-hachi-kabuto &amp; Menpō</xsl:attribute></xsl:template>
 
   <xsl:template match="Item[@id='mule_unmountable']/@name" ><xsl:attribute name="name">{=UdSBJkso}Small Pack Horse{@Plural}Small Pack Horses{\@}</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='mule']/@name" ><xsl:attribute name="name">{=Rp6xjjXN}Pack Horse{@Plural}Pack Horses{\@}</xsl:attribute></xsl:template>
@@ -304,7 +304,7 @@
 
   <!-- #region axe_weapons.xml -->
 
-  <xsl:template match="CraftedItem[@name='{=Bcg6BahH}Samurai Axe']/@name" ><xsl:attribute name="name">{=Bcg6BahH}Yamabushi's Axe</xsl:attribute></xsl:template>
+  <!--<xsl:template match="CraftedItem[@name='{=Bcg6BahH}Samurai Axe']/@name" ><xsl:attribute name="name">{=Bcg6BahH}Inome Ono Axe</xsl:attribute></xsl:template>-->
   <!-- #endregion axe_weapons.xml -->
   <!-- #region crafted_items.xml -->
   <xsl:template match="CraftedItem[@id='execution_axe']/@name" ><xsl:attribute name="name">{=je5Ijhzi}Execution Sword</xsl:attribute></xsl:template>
@@ -385,7 +385,7 @@
   <xsl:template match="CraftedItem[@name='{=NMpgBieK}Crude Omi Yari']/@name" ><xsl:attribute name="name">{=NMpgBieK}Crude Ōmi Yari</xsl:attribute></xsl:template>
   <xsl:template match="CraftedItem[@name='{=W0vGkIp1}Solid Omi Yari']/@name" ><xsl:attribute name="name">{=W0vGkIp1}Solid Ōmi Yari</xsl:attribute></xsl:template>
   <xsl:template match="CraftedItem[@name='{=rblmdgxM}Fabled Omi Yari']/@name" ><xsl:attribute name="name">{=rblmdgxM}Fabled Ōmi Yari</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@name='{=WPxY0RTQ}Venerable Omi Yari']/@name" ><xsl:attribute name="name">{=WPxY0RTQ}Venerable Ōmi Yari</xsl:attribute></xsl:template>
+  <xsl:template match="CraftedItem[@name='{=WPxY0RTQ}Venerable Omi Yari']/@name" ><xsl:attribute name="name">{=WPxY0RTQ}Venerable Jūmonji Yari</xsl:attribute></xsl:template>
   <xsl:template match="CraftedItem[@name='{=iYPPHwXa}Mythic Omi Yari']/@name" ><xsl:attribute name="name">{=iYPPHwXa}Mythic Ōmi Yari</xsl:attribute></xsl:template>
   <xsl:template match="CraftedItem[@name='{=i8TMmnq3}Heroic Omi Yari']/@name" ><xsl:attribute name="name">{=i8TMmnq3}Heroic Ōmi Yari</xsl:attribute></xsl:template>
   <xsl:template match="CraftedItem[@name='{=cNXKUQX7}Simple Owari Omi Yari']/@name" ><xsl:attribute name="name">{=cNXKUQX7}Simple Owari Ōmi Yari</xsl:attribute></xsl:template>

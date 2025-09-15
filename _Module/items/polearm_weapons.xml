@@ -561,7 +561,7 @@
 
 
     <CraftedItem id="sho_yari_23"
-                 name="{=WPxY0RTQ}Venerable Ōmi Yari"
+                 name="{=WPxY0RTQ}Venerable Jūmonji Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>

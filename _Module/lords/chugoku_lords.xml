@@ -641,7 +641,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!--naito clan-->
-	<NPCCharacter id="lord_1_naito" name="{=eqnHNZTn}Masayori" age="55" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+	<NPCCharacter id="lord_1_naito" name="{=eqnHNZTn}Takaharu" age="55" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
 		<face>
 			<BodyProperties version="4" age="55.00" weight="0.214" build="0.4432" key="003EE00E40000783A67468B737C6666AA1767977A8784A59D33D9575588999980367363506A7923A000000000000000000000000000000000000000050CC00C1"/>
 		</face>
@@ -663,7 +663,7 @@
 			<EquipmentSet id="sanyo_civ_template_default_male" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="lord_1_naito_1" name="{=FjERkhTK}Ōmiya" age="55" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+	<NPCCharacter id="lord_1_naito_1" name="{=FjERkhTK}Hisagi" age="55" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
 		<face>
 			<BodyProperties version="4" age="55.00" weight="0.2351" build="0.9472" key="001FDC0E000000022484F26664ED896DFB9383E024D4D15BAF2649B888603CCD046E46450605485600000000000000000000000000000000000000003AC41100"/>
 		</face>
@@ -1645,7 +1645,7 @@
 			<EquipmentSet id="sanyo_civ_template_default_male" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="lord_1_uragami_3" name="{=N1n8pWTZ}Konagi" age="19" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+	<NPCCharacter id="lord_1_uragami_3" name="{=N1n8pWTZ}Tatsu" age="19" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
 		<face>
 			<BodyProperties version="4" age="19.00" weight="0.1102" build="0.5868" key="002DF40C00000005A38CBCB64ED5E03388918263B2B97B685B8B09618B97A5DF00592603050109BF000000000000000000000000000000000000000038AC00C0"/>
 		</face>

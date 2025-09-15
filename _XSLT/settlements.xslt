@@ -576,7 +576,7 @@
 	<xsl:template match="Settlement[@id='village_CHUB2_1']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
-			<xsl:attribute name='name'>{=JyG9eqDR}Shirayama</xsl:attribute>
+			<xsl:attribute name='name'>{=JyG9eqDR}Ushikubi</xsl:attribute>
 			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
@@ -750,7 +750,7 @@
 	<xsl:template match="Settlement[@id='village_CHUB8_1']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
-			<xsl:attribute name='name'>{=F555c76a}Yaizu</xsl:attribute>
+			<xsl:attribute name='name'>{=rIe40xil}Kogawa-minato</xsl:attribute>
 			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
@@ -1406,7 +1406,7 @@
 	<xsl:template match="Settlement[@id='castle_village_CHUB24_1']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
-			<xsl:attribute name='name'>{=693201cf}Arai-minato</xsl:attribute>
+			<xsl:attribute name='name'>{=SklAINnF}Arai-minato</xsl:attribute>
 			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
@@ -1434,7 +1434,7 @@
 	<xsl:template match="Settlement[@id='castle_village_CHUB25_2']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
-			<xsl:attribute name='name'>{=37059562}Mikawa-Komatsubara</xsl:attribute>
+			<xsl:attribute name='name'>{=OVKfZE0B}Toukannonji</xsl:attribute>
 			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
@@ -2783,7 +2783,7 @@
 	<xsl:template match="Settlement[@id='castle_village_KIN11_1']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
-			<xsl:attribute name='name'>{=8BeZLj90}Tomi</xsl:attribute>
+			<xsl:attribute name='name'>{=BaPSdev3}Tomio</xsl:attribute>
 			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
@@ -3063,7 +3063,7 @@
 	<xsl:template match="Settlement[@id='castle_village_KIN24_1']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
-			<xsl:attribute name='name'>{=1rfay3TH}Kishū-Komatsubara</xsl:attribute>
+			<xsl:attribute name='name'>{=1rfay3TH}Komatsubara</xsl:attribute>
 			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
@@ -3361,7 +3361,7 @@
 	<xsl:template match="Settlement[@id='village_KY11_2']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
-			<xsl:attribute name='name'>{=31c5fbDc}Koujirou</xsl:attribute>
+			<xsl:attribute name='name'>{=cpQhL9ZC}Koujiro</xsl:attribute>
 			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
@@ -3662,7 +3662,7 @@
 	<xsl:template match="Settlement[@id='castle_village_KY14_2']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
-			<xsl:attribute name='name'>{=8sz0tXhd}Sasouzu</xsl:attribute>
+			<xsl:attribute name='name'>{=8sz0tXhd}Agata</xsl:attribute>
 			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
@@ -3683,7 +3683,7 @@
 	<xsl:template match="Settlement[@id='castle_village_KY15_2']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
-			<xsl:attribute name='name'>{=52F3249d}Shiomi</xsl:attribute>
+			<xsl:attribute name='name'>{=qiAah3xb}Taragi</xsl:attribute>
 			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
@@ -4649,7 +4649,7 @@
 	<xsl:template match="Settlement[@id='village_TOHO7_1']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
-			<xsl:attribute name='name'>{=REnRF8j7}Okuze</xsl:attribute>
+			<xsl:attribute name='name'>{=REnRF8j7}Okuse</xsl:attribute>
 			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
@@ -4895,7 +4895,7 @@
 	<xsl:template match="Settlement[@id='castle_village_TOHO10_1']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
-			<xsl:attribute name='name'>{=FXqfnZn9}Sakatsuda</xsl:attribute>
+			<xsl:attribute name='name'>{=FXqfnZn9}Sakatsuta</xsl:attribute>
 			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
@@ -5336,7 +5336,7 @@
 	<xsl:template match="Settlement[@id='castle_village_TOHO31_1']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
-			<xsl:attribute name='name'>{=REnRF8j7}Okuze</xsl:attribute>
+			<xsl:attribute name='name'>{=FPRIRmVI}Gonohe</xsl:attribute>
 			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>

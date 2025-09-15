@@ -70,7 +70,7 @@
   <xsl:template match="NPCCharacter[@id='lord_1_shichiri_1']/@name" ><xsl:attribute name="name">{=HBQgU0KK}Renmyou-in</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_shichiri_2']/@name" ><xsl:attribute name="name">{=YxadjwHu}Shoukou-ni</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_shichiri_3']/@name" ><xsl:attribute name="name">{=EDp1Ip1P}Tenshin-ni</xsl:attribute></xsl:template>
-  <xsl:template match="NPCCharacter[@id='lord_1_notohatakeyama']/@name" ><xsl:attribute name="name">{=zzPufQWW}Yoshitsuna</xsl:attribute></xsl:template>
+  <xsl:template match="NPCCharacter[@id='lord_1_notohatakeyama']/@name" ><xsl:attribute name="name">{=zzPufQWW}Yoshinori</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_notohatakeyama_1']/@name" ><xsl:attribute name="name">{=Uq5GEfN0}Keiko</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='dead_lord_1_notohatakeyama_2']/@name" ><xsl:attribute name="name">{=uWclrYkK}Yoshitsugu</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='dead_lord_1_notohatakeyama_3']/@name" ><xsl:attribute name="name">{=L7cUrjNA}Keisei-in</xsl:attribute></xsl:template>
@@ -349,7 +349,7 @@
   <xsl:template match="NPCCharacter[@id='lord_1_yoshimi_3']/@name" ><xsl:attribute name="name">{=O6uSZlqz}Makomo</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_yoshimi_4']/@name" ><xsl:attribute name="name">{=p4gAtQ44}Hiromasa</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_yoshimi_5']/@name" ><xsl:attribute name="name">{=fFw7eVr9}Hagi</xsl:attribute></xsl:template>
-  <xsl:template match="NPCCharacter[@id='lord_1_naito']/@name" ><xsl:attribute name="name">{=eqnHNZTn}Masayori</xsl:attribute></xsl:template>
+  <xsl:template match="NPCCharacter[@id='lord_1_naito']/@name" ><xsl:attribute name="name">{=eqnHNZTn}Takaharu</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_naito_1']/@name" ><xsl:attribute name="name">{=FjERkhTK}Ōmiya</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_naito_2']/@name" ><xsl:attribute name="name">{=wREIyLQ0}Motoyasu</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='dead_lord_1_nanjo_1']/@name" ><xsl:attribute name="name">{=fA2yEMQT}Munehiro</xsl:attribute></xsl:template>
@@ -393,7 +393,7 @@
   <xsl:template match="NPCCharacter[@id='lord_1_uragami']/@name" ><xsl:attribute name="name">{=wn4Z5851}Munekage</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_uragami_1']/@name" ><xsl:attribute name="name">{=ys5UK0RM}Shion</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_uragami_2']/@name" ><xsl:attribute name="name">{=Vcpfb24L}Munetoki</xsl:attribute></xsl:template>
-  <xsl:template match="NPCCharacter[@id='lord_1_uragami_3']/@name" ><xsl:attribute name="name">{=N1n8pWTZ}Konagi</xsl:attribute></xsl:template>
+  <xsl:template match="NPCCharacter[@id='lord_1_uragami_3']/@name" ><xsl:attribute name="name">{=N1n8pWTZ}Tatsu</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='dead_lord_1_ukita_1']/@name" ><xsl:attribute name="name">{=4JsopToS}Okiie</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='dead_lord_1_ukita_2']/@name" ><xsl:attribute name="name">{=E1ylj5fW}Zenjo-in</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_ukita']/@name" ><xsl:attribute name="name">{=FOH3wIT7}Naoie</xsl:attribute></xsl:template>

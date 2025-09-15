@@ -69,8 +69,8 @@
   <xsl:template match="NPCCharacter[@id='lord_1_nagakura_1']/@name" ><xsl:attribute name="name">{=kxPhkWeY}Asa</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_nagakura_2']/@name" ><xsl:attribute name="name">{=a0POjhcf}Douunsai</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='main_hero']/@name" ><xsl:attribute name="name">{=w1okK9gq}Rogan</xsl:attribute></xsl:template>
-  <xsl:template match="NPCCharacter[@id='main_hero_father']/@name" ><xsl:attribute name="name">{=d2321253}Father</xsl:attribute></xsl:template>
-  <xsl:template match="NPCCharacter[@id='main_hero_mother']/@name" ><xsl:attribute name="name">{=E1C1a873}Mother</xsl:attribute></xsl:template>
+  <!--<xsl:template match="NPCCharacter[@id='main_hero_father']/@name" ><xsl:attribute name="name">{=22a9fyiQ}Father</xsl:attribute></xsl:template>
+  <xsl:template match="NPCCharacter[@id='main_hero_mother']/@name" ><xsl:attribute name="name">{=UB4sqrWx}Mother</xsl:attribute></xsl:template>-->
   <xsl:template match="NPCCharacter[@id='ferry_driver']/@name" ><xsl:attribute name="name">{=hOcFw02K}Driver</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='dead_lord_1_saionji_1']/@name" ><xsl:attribute name="name">{=gTFSsjbm}Kinnobu</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='dead_lord_1_saionji_2']/@name" ><xsl:attribute name="name">{=qwJbUUQV}Seikou-in</xsl:attribute></xsl:template>

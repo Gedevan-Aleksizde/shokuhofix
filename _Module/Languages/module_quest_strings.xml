@@ -51,7 +51,7 @@
 		<string id="Ads3am6y" text="I'll show you peasants how to behave!"/>
 		<string id="PAcXCOtD" text="Tax Collector"/>
 		<string id="zSHTiacb" text="Tax Collector Bodyguard"/>
-		<string id="UqZ9mzlb" text="Wait! Please! I surrender, don’t hurt me.[ib:weary][if:convo_terrified]"/>
+		<string id="UqZ9mzlb" text="Wait! Please! I surrender, don't hurt me.[ib:weary][if:convo_terrified]"/>
 		<string id="OlOD8Wht" text="Have you come to mock me?"/>
 		<string id="i6XV2iAl" text="Welcome back. Any news on the village?[ib:confident3][if:convo_focused_happy]"/>
 		<string id="dplfenu8" text="I’ve brought the source of your unrest. It was a corrupt tax collector who had been extrajudicially increasing taxes and lining his own pockets. He attacked me with his bodyguards when I refused his bribe."/>

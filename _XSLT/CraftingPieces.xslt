@@ -80,11 +80,11 @@
 	<xsl:template match="CraftingPiece[@id='sho_tachi_blade_10']/@name" ><xsl:attribute name="name">{=xxCgvJqi}Steel Tachi Blade</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_tachi_blade_11']/@name" ><xsl:attribute name="name">{=R6KWKHb7}Fabled Tachi Blade</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_tachi_blade_12']/@name" ><xsl:attribute name="name">{=cyv6NJSc}Masterwork Tachi Blade</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_tachi_blade_tiger']/@name" ><xsl:attribute name="name">{=QwINw2Ny}sho_tachi_blade_tiger</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_tachi_blade_bear']/@name" ><xsl:attribute name="name">{=9tkUnjgG}sho_tachi_blade_bear</xsl:attribute></xsl:template>
+	<xsl:template match="CraftingPiece[@id='sho_tachi_blade_tiger']/@name" ><xsl:attribute name="name">{=QwINw2Ny}Tiger Tachi Blade</xsl:attribute></xsl:template>
+	<xsl:template match="CraftingPiece[@id='sho_tachi_blade_bear']/@name" ><xsl:attribute name="name">{=9tkUnjgG}Bear Tachi Blade</xsl:attribute></xsl:template>
 	
-	<xsl:template match="CraftingPiece[@id='sho_tachi_blade_tanuki']/@name" ><xsl:attribute name="name">{=I6X04Vws}sho_tachi_blade_tanuki</xsl:attribute></xsl:template>
-	<xsl:template match="CraftingPiece[@id='sho_tachi_blade_deer']/@name" ><xsl:attribute name="name">{=SFZXT0nK}sho_tachi_blade_deer</xsl:attribute></xsl:template>
+	<xsl:template match="CraftingPiece[@id='sho_tachi_blade_tanuki']/@name" ><xsl:attribute name="name">{=I6X04Vws}Tanuki Tachi Blade</xsl:attribute></xsl:template>
+	<xsl:template match="CraftingPiece[@id='sho_tachi_blade_deer']/@name" ><xsl:attribute name="name">{=SFZXT0nK}Deer Tachi Blade</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_tachi_handle_a_1']/@name" ><xsl:attribute name="name">{=KpOwQfXz}Worn Tachi Handle</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_tachi_handle_a_2']/@name" ><xsl:attribute name="name">{=V4VBhldd}Rough Tachi Handle</xsl:attribute></xsl:template>
 	<xsl:template match="CraftingPiece[@id='sho_tachi_handle_a_3']/@name" ><xsl:attribute name="name">{=Fg7VsNF2}Simple Tachi Handle</xsl:attribute></xsl:template>

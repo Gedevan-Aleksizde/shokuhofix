@@ -396,8 +396,9 @@
     <xsl:template match="string[@id='str_salutation.captain']/@text" ><xsl:attribute name="text">{=captainasleader}Captain</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_salutation.my_lady']/@text" ><xsl:attribute name="text">{=4Jo8JMZm}My lady</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_salutation.romantic']/@text" ><xsl:attribute name="text">{=4Jo8JMZm}My lady</xsl:attribute></xsl:template>
-    <xsl:template match="string[@id='str_salutation.father']/@text" ><xsl:attribute name="text">{=d2321253}Father</xsl:attribute></xsl:template>
-    <xsl:template match="string[@id='str_salutation.mother']/@text" ><xsl:attribute name="text">{=E1C1a873}Mother</xsl:attribute></xsl:template>
+    <!--<xsl:template match="string[@id='str_salutation.father']/@text" ><xsl:attribute name="text">{=22a9fyiQ}Father</xsl:attribute></xsl:template>
+    <xsl:template match="string[@id='str_salutation.mother']/@text" ><xsl:attribute name="text">{=UB4sqrWx}Mother</xsl:attribute></xsl:template>
+         -->
     <xsl:template match="string[@id='str_salutation.brother']/@text" ><xsl:attribute name="text">{=wWwoTzpG}Brother</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_salutation.sister']/@text" ><xsl:attribute name="text">{=2FWBCCw0}Sister</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_salutation.son']/@text" ><xsl:attribute name="text">{=kaEUZ8NA}My son</xsl:attribute></xsl:template>

@@ -1200,7 +1200,7 @@
   </NPCCharacter>
   <!-- noto_hatakeyama Clan -->
   <!-- Leader (actually 14) -->
-  <NPCCharacter id="lord_1_notohatakeyama" name="{=zzPufQWW}Yoshitsuna" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_notohatakeyama" name="{=zzPufQWW}Yoshinori" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.1849" build="0.1872" key="001EF40E40000501B7765A6869B5564BB2764A987CEB497AC52878554899DB780363363506977298000000000000000000000000000000000000000060D40003"/>
     </face>

@@ -3366,12 +3366,12 @@
       <tag tag_name="PlayerIsFemaleTag"/>
     </tags>
   </string>
-  <string id="str_salutation.father" text="{=d2321253}Father">
+  <string id="str_salutation.father" text="{=22a9fyiQ}Father">
     <tags>
       <tag tag_name="PlayerIsFatherTag" weight="5"/>
     </tags>
   </string>
-  <string id="str_salutation.mother" text="{=E1C1a873}Mother">
+  <string id="str_salutation.mother" text="{=UB4sqrWx}Mother">
     <tags>
       <tag tag_name="PlayerIsMotherTag" weight="5"/>
     </tags>

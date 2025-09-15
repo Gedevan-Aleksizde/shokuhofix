@@ -421,7 +421,7 @@
     <xsl:template match="string[@id='XLNwfiAW']/@text" ><xsl:attribute name="text">{=asjzMWJH}Dye Farm</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='A7nI8bl4']/@text" ><xsl:attribute name="text">{=tihrzKPP}Iron Mine</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='eVHlegB3']/@text" ><xsl:attribute name="text">{=QIV930x3}Clay Mine</xsl:attribute></xsl:template>
-    <xsl:template match="string[@id='kDW7M59a']/@text" ><xsl:attribute name="text">{=vZ4xIGZB}Salt Evaporation Pond</xsl:attribute></xsl:template>
+    <!-- <xsl:template match="string[@id='kDW7M59a']/@text" ><xsl:attribute name="text">{=vZ4xIGZB}Salt Evaporation Pond</xsl:attribute></xsl:template> -->
     <xsl:template match="string[@id='cMXsFSI8']/@text" ><xsl:attribute name="text">{=G1YphUce}Artisans</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='Z8vgNDTz']/@text" ><xsl:attribute name="text">{=TLfUsMbZ}sake</xsl:attribute></xsl:template>
     <xsl:template match="string[@id='str_camp']/@text" ><xsl:attribute name="text">{=zU3AJtqp}Camp</xsl:attribute></xsl:template>

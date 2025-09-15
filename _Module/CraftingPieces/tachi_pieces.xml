@@ -195,7 +195,7 @@
 			<Material id="Iron6" count="3"/>
 		</Materials>
 	</CraftingPiece>
-    <CraftingPiece id="sho_tachi_blade_tiger" name="{=QwINw2Ny}sho_tachi_blade_tiger" tier="5" piece_type="Blade" mesh="sho_tachi_blade_1" length="83.3" weight="0.88" is_hidden="true">
+    <CraftingPiece id="sho_tachi_blade_tiger" name="{=QwINw2Ny}Tiger Tachi Blade" tier="5" piece_type="Blade" mesh="sho_tachi_blade_1" length="83.3" weight="0.88" is_hidden="true">
 		<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="sho_tachi_scabbard_tiger">
 			<Thrust damage_type="Pierce" damage_factor="2.8"/>
 			<Swing damage_type="Cut" damage_factor="4.2"/>
@@ -207,7 +207,7 @@
 			<Material id="Iron6" count="3"/>
 		</Materials>
 	</CraftingPiece>	
-    <CraftingPiece id="sho_tachi_blade_bear" name="{=9tkUnjgG}sho_tachi_blade_bear" tier="5" piece_type="Blade" mesh="sho_tachi_blade_2" length="83.3" weight="0.88" is_hidden="true">
+    <CraftingPiece id="sho_tachi_blade_bear" name="{=9tkUnjgG}Bear Tachi Blade" tier="5" piece_type="Blade" mesh="sho_tachi_blade_2" length="83.3" weight="0.88" is_hidden="true">
 		<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="sho_tachi_scabbard_a_bear">
 			<Thrust damage_type="Pierce" damage_factor="2.8"/>
 			<Swing damage_type="Cut" damage_factor="4.2"/>
@@ -220,7 +220,7 @@
 		</Materials>
 	</CraftingPiece>	
     
-    <CraftingPiece id="sho_tachi_blade_tanuki" name="{=I6X04Vws}sho_tachi_blade_tanuki" tier="5" piece_type="Blade" mesh="sho_tachi_blade_3" length="83.3" weight="0.88" is_hidden="true">
+    <CraftingPiece id="sho_tachi_blade_tanuki" name="{=I6X04Vws}Tanuki Tachi Blade" tier="5" piece_type="Blade" mesh="sho_tachi_blade_3" length="83.3" weight="0.88" is_hidden="true">
 		<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="sho_tachi_scabbard_a_tanuki">
 			<Thrust damage_type="Pierce" damage_factor="2.8"/>
 			<Swing damage_type="Cut" damage_factor="4.2"/>
@@ -232,7 +232,7 @@
 			<Material id="Iron6" count="3"/>
 		</Materials>
 	</CraftingPiece>	
-    <CraftingPiece id="sho_tachi_blade_deer" name="{=SFZXT0nK}sho_tachi_blade_deer" tier="5" piece_type="Blade" mesh="sho_tachi_blade_4" length="83.3" weight="0.88" is_hidden="true">
+    <CraftingPiece id="sho_tachi_blade_deer" name="{=SFZXT0nK}Deer Tachi Blade" tier="5" piece_type="Blade" mesh="sho_tachi_blade_4" length="83.3" weight="0.88" is_hidden="true">
 		<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="sho_tachi_scabbard_deer">
 			<Thrust damage_type="Pierce" damage_factor="2.8"/>
 			<Swing damage_type="Cut" damage_factor="4.2"/>

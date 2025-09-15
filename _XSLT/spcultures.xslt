@@ -291,7 +291,7 @@
 		</xsl:copy>
 	</xsl:template>
 	<!--Duelist Culture-->
-	<xsl:template match="Culture[@id='lord_1_asakura']/@name" ><xsl:attribute name="name">{=fa6D86d4}Duelists</xsl:attribute></xsl:template>
+	<xsl:template match="Culture[@id='lord_1_asakura']/@name" ><xsl:attribute name="name">{=ptsxzysa}Duelists</xsl:attribute></xsl:template>
 	<!--Temple Cultures-->
 	<xsl:template match="Culture[@id='lord_1_asakura']/@name" ><xsl:attribute name="name">{=FlooLAMd}Monks</xsl:attribute></xsl:template>
 	<!--Bandit Cultures-->

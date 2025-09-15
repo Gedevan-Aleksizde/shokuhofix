@@ -254,7 +254,7 @@
 		<string id="DjkCTOR9" text="Troop Capacity" />
 		<string id="j4lUrFwg" text="Cargo Capacity" />
 		<string id="IcJXuQ6m" text="Daily Upkeep" />
-		<string id="0dEAx8p4" text="Pick Up Ammo" />
+		<string id="0dEAx8p4" text="{KEY} Pick Up Ammo" />
 		<string id="7KL6IPrU" text="Ammunition Cache" />
 		<string id="BbfQsWhf" text="Palisade" />
 		<string id="k2BVG5x9" text="Palisade" />
@@ -819,7 +819,7 @@
 		<string id="zulU0Gkq" text="Murakushi"/>
 		<string id="2chHj54l" text="Yoshida Castle"/>
 		<string id="xqyUiSCO" text="Muro"/>
-		<string id="1rfay3TH" text="Kishū-Komatsubara"/>
+		<string id="1rfay3TH" text="Komatsubara"/>
 		<string id="OzxYpqps" text="Ōgaki Castle"/>
 		<string id="63YZvplM" text="Miyakawa"/>
 		<string id="gVfxpn0b" text="Yourou"/>
@@ -1016,7 +1016,7 @@
 		<string id="kJ7GSg2b" text="Taga"/>
 		<string id="eiBJgTd6" text="Koura"/>
 		<string id="VDk55ikU" text="Shigisan Castle"/>
-		<string id="8BeZLj90" text="Tomi"/>
+		<string id="BaPSdev3" text="Tomio"/>
 		<string id="d6koZFZX" text="Heguri"/>
 		<string id="X1XNarZc" text="Takaya Castle"/>
 		<string id="H96dzZca" text="Kyūhouji"/>
@@ -1947,7 +1947,7 @@
 		<string id="xxCgvJqi" text="Steel Tachi Blade"/>
 		<string id="R6KWKHb7" text="Fabled Tachi Blade"/>
 		<string id="cyv6NJSc" text="Masterwork Tachi Blade"/>
-		<string id="QwINw2Ny" text="sho_tachi_blade_tiger"/>
+		<string id="QwINw2Ny" text="Tiger Tachi Blade"/>
 		<string id="9tkUnjgG" text="sho_tachi_blade_bear"/>
 		<string id="I6X04Vws" text="sho_tachi_blade_tanuki"/>
 		<string id="SFZXT0nK" text="sho_tachi_blade_deer"/>
@@ -2162,7 +2162,7 @@
 		<string id="HBQgU0KK" text="Renmyou-in"/>
 		<string id="YxadjwHu" text="Shoukou-ni"/>
 		<string id="EDp1Ip1P" text="Tenshin-ni"/>
-		<string id="zzPufQWW" text="Yoshitsuna"/>
+		<string id="zzPufQWW" text="Yoshinori"/>
 		<string id="Uq5GEfN0" text="Keiko"/>
 		<string id="uWclrYkK" text="Yoshitsugu"/>
 		<string id="L7cUrjNA" text="Keisei-in"/>
@@ -2613,7 +2613,7 @@
 		<string id="So1hDGim" text="Yasuharu"/>
 		<string id="vbW4lVBo" text="Azuma"/>
 		<string id="apqhx41m" text="Nariharu"/>
-		<string id="dO3CawFk" text="Masu"/>
+		<string id="dO3CawFk" text="Nanzen-in"/>
 		<string id="Brly3Pam" text="Nagaharu"/>
 		<string id="VYrrxnX9" text="Tomoyuki"/>
 		<string id="19IdACYb" text="Harusada"/>
@@ -2694,7 +2694,7 @@
 		<string id="YKfuhIdz" text="Shizuno"/>
 		<string id="5c4QE4T3" text="Yoshiharu"/>
 		<string id="f4nYiBuo" text="Tomoe"/>
-		<string id="0TCCnJ52" text="Tomonaga"/>
+		<string id="0TCCnJ52" text="Yoshisada"/>
 		<string id="ejRgtgY3" text="Chizuru"/>
 		<string id="rUBu7S4M" text="Katahide"/>
 		<string id="3d9HHjwb" text="Mitsuki"/>
@@ -2821,7 +2821,7 @@
 		<string id="3kwAqpNa" text="Tsudura"/>
 		<string id="57TkTUlx" text="Tanemoto"/>
 		<string id="Knylet1a" text="Sourin"/>
-		<string id="UIKx01xx" text="Lady Nata"/>
+		<string id="UIKx01xx" text="Nata"/>
 		<string id="7sbPoa0a" text="Yoshimune"/>
 		<string id="a5rohL3A" text="Chikaie"/>
 		<string id="acpnamQM" text="Chikamori"/>
@@ -2970,11 +2970,10 @@
 		<string id="8fj2kDNi" text="Kochou"/>
 		<string id="vI3iTRAa" text="Yachi"/>
 		<string id="PRLxNKTC" text="Toshihisa"/>
-		<string id="BgW75GXX" text="Lady Ume"/>
+		<string id="BgW75GXX" text="Ume"/>
 		<string id="bCEeQkkF" text="Iehisa"/>
 		<string id="LvRRedWW" text="Nagi"/>
 		<string id="X2sLljXc" text="Takahisa"/>
-		<string id="hShr91A7" text="Lady Sessou"/>
 		<string id="UdtsY26m" text="Tadaao"/>
 		<string id="a5ytpM6f" text="Shizuku"/>
 		<string id="gJxQjIhn" text="Tadamune"/>
@@ -2987,7 +2986,7 @@
 		<string id="xTIL6Lf0" text="Tadaaki"/>
 		<string id="j5q1b0ZO" text="Murasaki"/>
 		<string id="a7Bus3qz" text="Tokihisa"/>
-		<string id="YBDz0cMr" text="Hijiri"/>
+		<string id="YBDz0cMr" text="Haru"/>
 		<string id="SpjpkISo" text="Sukehisa"/>
 		<string id="jp7XzhCN" text="Tadatora"/>
 		<string id="9j0CtAEy" text="Tadachika"/>
@@ -3346,7 +3345,7 @@
 		<string id="A3IWaEnQ" text="Akinori"/>
 		<string id="JcbZs4It" text="Kata"/>
 		<string id="ETIKKEst" text="Akitada"/>
-		<string id="Bcg6BahH" text="Yamabushi's Axe"/>
+		<string id="Bcg6BahH" text="Inome Ono Axe"/>
 		<string id="sUeowQpk" text="Rustic Kama"/>
 		<string id="q2Vsio86" text="Simple Kama"/>
 		<string id="fS5sr8gs" text="Red Kama"/>
@@ -3479,7 +3478,7 @@
 		<string id="v60sSwHB" text="Ubu-gote"/>
 		<string id="nfrAzQOE" text="Kusari-gote"/>
 		<string id="CoaDkHgm" text="Ornate Kusari-gote"/>
-		<string id="XSdMBA4v" text="Reinforced Kusari-gote"/>
+		<string id="XSdMBA4v" text="Shino-kusari-gote"/>
 		<string id="QKKouZeR" text="Kusari Tsutsu-gote"/>
 		<string id="eI5qxTh6" text="Plated Kote"/>
 		<string id="6roxcVNP" text="Kojino-gote"/>
@@ -3510,9 +3509,9 @@
 		<string id="cfgAVkkE" text="Hachigane"/>
 		<string id="Lbn87Amk" text="Monk Headwrap"/>
 		<string id="Z1WAw0K0" text="Nigiri Dashi Kabuto"/>
-		<string id="3crkKrnE" text="Decorated Saika Kabuto"/>
-		<string id="xrBpMY26" text="Saika Kabuto"/>
-		<string id="us1vjvyv" text="Saika Kabuto &amp; Menpō"/>
+		<string id="3crkKrnE" text="Decorated Saika-hachi-kabuto"/>
+		<string id="xrBpMY26" text="Saika-hachi-kabuto"/>
+		<string id="us1vjvyv" text="Saika-hachi-kabuto &amp; Menpō"/>
 		<string id="oQeZ3wkn" text="Morion"/>
 		<string id="vx8eDfim" text="Horo"/>
 		<string id="8hk1uBJe" text="Sashimono"/>
@@ -3690,7 +3689,7 @@
 		<string id="W0vGkIp1" text="Solid Ōmi Yari"/>
 		<string id="rblmdgxM" text="Fabled Ōmi Yari"/>
 		<string id="cNXKUQX7" text="Simple Owari Ōmi Yari"/>
-		<string id="WPxY0RTQ" text="Venerable Ōmi Yari"/>
+		<string id="WPxY0RTQ" text="Venerable Jūmonji Yari"/>
 		<string id="iYPPHwXa" text="Mythic Ōmi Yari"/>
 		<string id="OnOvaRTI" text="Noble Jūmonji Yari"/>
 		<string id="rso9zQtp" text="Divine Jūmonji Yari"/>
@@ -5817,8 +5816,8 @@
 		<string id="O6uSZlqz" text="Makomo"/>
 		<string id="p4gAtQ44" text="Hiromasa"/>
 		<string id="fFw7eVr9" text="Hagi"/>
-		<string id="eqnHNZTn" text="Masayori"/>
-		<string id="FjERkhTK" text="Ōmiya"/>
+		<string id="eqnHNZTn" text="Takaharu"/>
+		<string id="FjERkhTK" text="Hisagi"/>
 		<string id="wREIyLQ0" text="Motoyasu"/>
 		<string id="fA2yEMQT" text="Munehiro"/>
 		<string id="vsXnQaY3" text="Shoukoku-in"/>
@@ -5861,7 +5860,7 @@
 		<string id="wn4Z5851" text="Munekage"/>
 		<string id="ys5UK0RM" text="Shion"/>
 		<string id="Vcpfb24L" text="Munetoki"/>
-		<string id="N1n8pWTZ" text="Konagi"/>
+		<string id="N1n8pWTZ" text="Tatsu"/>
 		<string id="4JsopToS" text="Okiie"/>
 		<string id="E1ylj5fW" text="Zenjo-in"/>
 		<string id="FOH3wIT7" text="Naoie"/>
