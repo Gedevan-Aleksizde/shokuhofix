@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocationComplexTemplates>
+	<LocationComplexTemplate id="temple_location_complex">
+		<Location id="temple_location_id" name="{=0DQupUdt}temple_location_id" scene_name="sho_duel_map_a" indoor="false" max_prosperity="500" ai_can_enter="CanAlways" ai_can_exit="CanAlways" player_can_enter="CanAlways" player_can_see="CanAlways"/>
+		<Passages/>
+	</LocationComplexTemplate>
+</LocationComplexTemplates>

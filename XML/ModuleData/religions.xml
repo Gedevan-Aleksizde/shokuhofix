@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Religions>
+    <Religion id="shinto" fullName="{=wqGUjgrp}Shintou" adjective="{=lHzRv41P}Shintouists" templeBanner="1.196.196.1528.1528.764.764.0.0.0.740.241.241.512.512.764.764.0.0.0" templeRecruit="NPCCharacter.monk_temple_follower" relatedConcept="Concept.str_religion_shinto"/>
+    <Religion id="rinzai" fullName="{=H2nZxMg6}Rinzai Sect Buddhism" adjective="{=aeKSwLj2}Rinzai Buddhists" templeBanner="19.243.243.1528.1528.764.764.0.0.0.742.242.242.512.512.764.764.0.0.0" templeRecruit="NPCCharacter.monk_temple_follower" relatedConcept="Concept.str_religion_shinto"/>
+    <Religion id="shingon" fullName="{=uDmgp8Hy}Shingon Sect Buddhism" adjective="{=L1BBQe3R}Shingon Buddhists" templeBanner="13.239.239.1528.1528.764.764.0.0.0.741.242.242.512.512.764.764.0.0.0" templeRecruit="NPCCharacter.monk_temple_follower" relatedConcept="Concept.str_religion_shinto"/>
+    <Religion id="tendai" fullName="{=yw6hLM21}Tendai Sect Buddhism" adjective="{=Cya6ST9A}Tendai Buddhists" templeBanner="1.257.257.1528.1528.764.764.0.0.0.818.242.242.512.512.764.764.0.0.0" templeRecruit="NPCCharacter.monk_temple_follower" relatedConcept="Concept.str_religion_shinto"/>
+    <Religion id="soto" fullName="{=pDRw90Ji}Soutou Sect Buddhism" adjective="{=7pyR761G}Soutou Buddhists" templeBanner="1.258.258.1528.1528.764.764.0.0.0.817.242.242.512.512.764.764.0.0.0" templeRecruit="NPCCharacter.monk_temple_follower" relatedConcept="Concept.str_religion_shinto"/>
+    <Religion id="shin" fullName="{=c5U7tHjt0E}Shin Sect Buddhism" adjective="{=sfXeoNJk}Shin Buddhists" templeBanner="11.256.256.1536.1536.768.768.1.0.0.819.242.242.548.548.773.729.0.0.0" templeRecruit="NPCCharacter.monk_temple_follower" relatedConcept="Concept.str_religion_shinto"/>
+</Religions>

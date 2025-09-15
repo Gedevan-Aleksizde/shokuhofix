@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<action_types>
+
+
+
+
+
+
+
+
+
+	<action name="act_idle_ozutsu_walk"
+			type="actt_idle"/>
+			<action name="act_idle_ozutsu_run"
+			type="actt_idle"/>
+	<action name="act_ready_ozutsu"
+			type="actt_ready_ranged"
+			action_stage="as_attack_ready" />
+	<action name="act_release_ozutsu"
+			type="actt_release_ranged"
+			action_stage="as_attack_release" />
+	<action name="act_ready_continue_ozutsu"
+			type="actt_ready_ranged"
+			action_stage="as_attack_ready" />
+
+
+
+	<action name="act_release_musket_crouched" type="actt_release_ranged" action_stage="as_attack_release" />
+	<action name="act_reload_musket_crouched" type="actt_reload" action_stage="as_reload_mid_phase" />
+	<action name="act_reload_musket_continue_crouched" type="actt_reload" action_stage="as_reload_last_phase" />
+	<action name="act_ready_musket_crouched" type="actt_ready_ranged" action_stage="as_attack_ready" />
+	<action name="act_ready_continue_musket_crouched" type="actt_ready_ranged" action_stage="as_attack_ready" />
+	<action name="act_musket_idle_crouched" type="actt_idle" />
+
+
+	<action name="act_release_musket" type="actt_release_ranged" action_stage="as_attack_release" />
+	<action name="act_reload_musket" type="actt_reload" action_stage="as_reload_mid_phase" />
+	<action name="act_reload_musket_continue" type="actt_reload" action_stage="as_reload_last_phase" />
+	<action name="act_ready_musket" type="actt_ready_ranged" action_stage="as_attack_ready" />
+	<action name="act_ready_continue_musket" type="actt_ready_ranged" action_stage="as_attack_ready" />
+	<action name="act_musket_idle" type="actt_idle" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<!--<action name="act_ready_musket"
+			type="actt_ready_ranged"
+			action_stage="as_attack_ready" />
+	<action name="act_release_musket"
+			type="actt_release_ranged"
+			action_stage="as_attack_release" />
+	<action name="act_ready_continue_musket"
+			type="actt_ready_ranged"
+			action_stage="as_attack_ready" />
+	<action name="act_reload_musket"
+			type="actt_reload"
+			action_stage="as_reload_mid_phase" />
+	<action name="act_reload_musket_continue"
+			type="actt_reload"
+			action_stage="as_reload_last_phase" />
+	<action name="act_reload_musket_continue_fast"
+			type="actt_reload"
+			action_stage="as_reload_last_phase" />
+	<action name="act_reload_musket_horseback"
+			type="actt_reload"
+			action_stage="as_reload_mid_phase" />
+	<action name="act_reload_musket_continue_horseback"
+			type="actt_reload"
+			action_stage="as_reload_last_phase" />-->
+	
+	
+	
+	
+
+	<action name="act_reload_tanegashima"
+			type="actt_reload"
+			action_stage="as_reload_mid_phase" />
+	<action name="act_reload_tanegashima_continue"
+			type="actt_reload"
+			action_stage="as_reload_last_phase" />
+	<action name="act_reload_tanegashima_continue_2"
+			type="actt_reload"
+			action_stage="as_reload_last_phase" />
+
+	<action name="act_reload_musket_fast"
+			type="actt_reload"
+			action_stage="as_reload_mid_phase" />
+	<action name="act_reload_musket_continue_fast"
+			type="actt_reload"
+			action_stage="as_reload_last_phase" />
+
+	<!-- Custom Pistols -->
+	<action name="act_ready_pistol"
+			type="actt_ready_ranged"
+			action_stage="as_attack_ready" />
+	<action name="act_release_pistol"
+			type="actt_release_ranged"
+			action_stage="as_attack_release" />
+	<action name="act_ready_continue_pistol"
+			type="actt_ready_ranged"
+			action_stage="as_attack_ready" />
+
+	<!-- Custom Cannons -->
+	<action name="act_ready_cannon"
+			type="actt_ready_ranged"
+			action_stage="as_attack_ready" />
+	<action name="act_release_cannon"
+			type="actt_release_ranged"
+			action_stage="as_attack_release" />
+	<action name="act_ready_continue_cannon"
+			type="actt_ready_ranged"
+			action_stage="as_attack_ready" />
+	<action name="act_reload_cannon"
+			type="actt_reload"
+			action_stage="as_reload_mid_phase" />
+	<action name="act_reload_cannon_continue"
+			type="actt_reload"
+			action_stage="as_reload_last_phase" />
+	<action name="act_reload_cannon_horseback"
+			type="actt_reload"
+			action_stage="as_reload_mid_phase" />
+	<action name="act_reload_cannon_continue_horseback"
+			type="actt_reload"
+			action_stage="as_reload_last_phase" />
+
+	<!--Displace-->
+	<action name="act_replace_displace_position" />
+	
+	<!--Drowning-->
+	<action name="act_drowning"/>
+	
+	<!--looting-->
+	<action name="act_looting_begin"/>
+	<action name="act_looting_end"/>
+	
+	<!--idle-->
+	<action name="act_kneeling_pose2"/>
+	<action name="act_sitting_pose3"/>
+	<action name="act_sitting_pose4"/>
+	<action name="act_sitting_pose5"/>
+	<action name="act_sitting_pose6"/>
+	<action name="act_sitting_pose7"/>
+	<action name="act_sitting_pose8"/>
+	<action name="act_sitting_pose9"/>
+	<action name="act_sitting_pose10"/>
+	<action name="act_sitting_pose11"/>
+	<!--<action name="act_katana_guard_low" type="actt_idle"/>-->
+
+</action_types>
