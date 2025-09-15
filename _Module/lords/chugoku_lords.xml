@@ -641,7 +641,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!--naito clan-->
-	<NPCCharacter id="lord_1_naito" name="{=eqnHNZTn}Naito Masayori" age="55" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+	<NPCCharacter id="lord_1_naito" name="{=eqnHNZTn}Naito Takaharu" age="55" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
 		<face>
 			<BodyProperties version="4" age="55.00" weight="0.214" build="0.4432" key="003EE00E40000783A67468B737C6666AA1767977A8784A59D33D9575588999980367363506A7923A000000000000000000000000000000000000000050CC00C1"/>
 		</face>
@@ -663,7 +663,7 @@
 			<EquipmentSet id="sanyo_civ_template_default_male" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="lord_1_naito_1" name="{=FjERkhTK}Naito Omiya" age="55" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+	<NPCCharacter id="lord_1_naito_1" name="{=FjERkhTK}Naito Hisagi" age="55" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
 		<face>
 			<BodyProperties version="4" age="55.00" weight="0.2351" build="0.9472" key="001FDC0E000000022484F26664ED896DFB9383E024D4D15BAF2649B888603CCD046E46450605485600000000000000000000000000000000000000003AC41100"/>
 		</face>
@@ -771,7 +771,7 @@
 			<Trait id="Mercy" value="-1"/>
 			<Trait id="Calculating" value="0"/>
 		</Traits>
-		<Equipments>
+		<Equipments>		
 			<EquipmentRoster/>
 			<EquipmentSet id="sanyo_bat_template_medium_male"/>
 			<EquipmentSet id="sanyo_civ_template_default_male" civilian="true"/>
@@ -959,7 +959,7 @@
 	</NPCCharacter>
 	<!--misawa clan-->
 	<!--Leader-->
-	<NPCCharacter id="lord_1_misawa" name="{=VUZ97dN1}Misawa Tamekiyo" age="32" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+	<NPCCharacter id="lord_1_misawa" name="{=VUZ97dN1}Mizawa Tamekiyo" age="32" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
 		<face>
 			<BodyProperties version="4" age="32.00" weight="0.5453" build="0.7084" key="0039E00E80000043A87268A8CAB7569BA3674B778CE9445CC53C5B5538899B78027B862407A79349000000000000000000000000000000000000000020E40100"/>
 		</face>
@@ -981,7 +981,7 @@
 			<EquipmentSet id="sanyo_civ_template_default_male" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="lord_1_misawa_1" name="{=U4DnOQh4}Misawa Kura" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+	<NPCCharacter id="lord_1_misawa_1" name="{=U4DnOQh4}Mizawa Kura" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
 		<face>
 			<BodyProperties version="4" age="38.00" weight="0.0442" build="0.7811" key="002BF00DC0000004C3811C2CCF654692BCC1836B954D5DA597E624DA86EB879D013C1613033285BB0000000000000000000000000000000000000000106C1040"/>
 		</face>
@@ -1004,7 +1004,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!--children-->
-	<NPCCharacter id="lord_1_misawa_2" name="{=gYclqkoJ}Misawa Tametora" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+	<NPCCharacter id="lord_1_misawa_2" name="{=gYclqkoJ}Mizawa Tametora" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
 		<face>
 			<BodyProperties version="4" age="18.00" weight="0.2545" build="0.8766" key="0035C40E80000002A67259D765B85B6983775976AAAD4599C32B785548A9B9880A6D46A208D7B238000000000000000000000000000000000000000008D40081"/>
 		</face>
@@ -1026,7 +1026,7 @@
 			<EquipmentSet id="sanyo_civ_template_default_male" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="lord_1_misawa_3" name="{=WCuytuAF}Misawa Wase" age="8" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+	<NPCCharacter id="lord_1_misawa_3" name="{=WCuytuAF}Mizawa Wase" age="8" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
 		<face>
 			<BodyProperties version="4" age="8.00" weight="0.2463" build="0.2547" key="002BE40D400000034183B98F483357158AD28321E69C069B24DA0D8B8C85BD7D06544668052317ED00000000000000000000000000000000000000005AAC0081"/>
 		</face>
@@ -1645,7 +1645,7 @@
 			<EquipmentSet id="sanyo_civ_template_default_male" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="lord_1_uragami_3" name="{=N1n8pWTZ}Uragami Konagi" age="19" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+	<NPCCharacter id="lord_1_uragami_3" name="{=N1n8pWTZ}Uragami Tatsu" age="19" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
 		<face>
 			<BodyProperties version="4" age="19.00" weight="0.1102" build="0.5868" key="002DF40C00000005A38CBCB64ED5E03388918263B2B97B685B8B09618B97A5DF00592603050109BF000000000000000000000000000000000000000038AC00C0"/>
 		</face>
@@ -2357,7 +2357,7 @@
 	</NPCCharacter>
 	<!--tatsuhara clan-->
 	<!--leader-->
-	<NPCCharacter id="lord_1_tatsuhara" name="{=lDbNEfEh}Tatsuhara Hisatsuna" age="37" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+	<NPCCharacter id="lord_1_tatsuhara" name="{=lDbNEfEh}Tachihara Hisatsuna" age="37" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
 		<face>
 			<BodyProperties version="4" age="37.00" weight="0.417" build="0.6312" key="0033D00E40000703967879478AB7769A82795976ABFC367AC427AAC5689998A80579665707D87298000000000000000000000000000000000000000072E40102"/>
 		</face>
@@ -2380,7 +2380,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!--spouse-->
-	<NPCCharacter id="lord_1_tatsuhara_1" name="{=WFQ0UuXw}Yamanaka Fuse" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+	<NPCCharacter id="lord_1_tatsuhara_1" name="{=WFQ0UuXw}Tachihara Fuse" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
 		<face>
 			<BodyProperties version="4" age="38.00" weight="0.1582" build="0.5784" key="003DF40F00000001B38C036578B8C75F7D928116C7DC6DD752E240BD88EE968D03592635053348B2000000000000000000000000000000000000000038B43081"/>
 		</face>
@@ -2404,7 +2404,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!--son-->
-	<NPCCharacter id="lord_1_tatsuhara_2" name="{=07juHC01}Tatsuhara Mitsutada" age="8" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+	<NPCCharacter id="lord_1_tatsuhara_2" name="{=07juHC01}Tachihara Mitsutada" age="8" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
 		<face>
 			<BodyProperties version="4" age="8.00" weight="0.8244" build="0.2729" key="0025E40EC0000144A772565749B8679AC1674A564C8B4848D44876B56889A9780074C60307B8C37B000000000000000000000000000000000000000060EC0083"/>
 		</face>
@@ -2427,7 +2427,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!--daughter-->
-	<NPCCharacter id="lord_1_tatsuhara_3" name="{=DFrIaaPX}Tatsuhara Mina" age="3" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
+	<NPCCharacter id="lord_1_tatsuhara_3" name="{=DFrIaaPX}Tachihara Nami" age="3" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.sanyo" occupation="Lord" face_mesh_cache="true">
 		<face>
 			<BodyProperties version="4" age="3.00" weight="0.3077" build="0.5561" key="0035D80E80000003DC80ACAB8E7BBE0A8E8586326BC2E91CB494597886E77D9C010856130044464400000000000000000000000000000000000000005C041080"/>
 		</face>

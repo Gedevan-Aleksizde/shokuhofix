@@ -54,7 +54,7 @@
 
 
     </Item>
-    <Item id="book_5" name="{=3sx8VYLl}Toda-ryū Hidennosho" mesh="sho_scroll_a_1" item_category="sho_book" is_merchandise="false" value="129600" weight="1" Type="Book">
+    <Item id="book_5" name="{=3sx8VYLl}Toda-ryū Hiden no sho" mesh="sho_scroll_a_1" item_category="sho_book" is_merchandise="false" value="129600" weight="1" Type="Book">
 
 
     </Item>
@@ -66,7 +66,7 @@
 
 
     </Item>
-    <Item id="book_8" name="{=qQ5Qe8Wa}Sharaishiki" mesh="sho_book_a_1" item_category="sho_book" is_merchandise="false" value="48000" weight="1" Type="Book">
+    <Item id="book_8" name="{=qQ5Qe8Wa}Jaraishiki" mesh="sho_book_a_1" item_category="sho_book" is_merchandise="false" value="48000" weight="1" Type="Book">
 
 
     </Item>
@@ -110,7 +110,7 @@
 
 
     </Item>
-    <Item id="book_19" name="{=8qvAXz9z}Tamagusuru chōgōshidai" mesh="sho_scroll_a_2" item_category="sho_book" is_merchandise="false" value="34800" weight="1" Type="Book">
+    <Item id="book_19" name="{=8qvAXz9z}Tamagusuri Chōgōshidai" mesh="sho_scroll_a_2" item_category="sho_book" is_merchandise="false" value="34800" weight="1" Type="Book">
 
 
     </Item>
@@ -154,7 +154,7 @@
 
 
     </Item>
-    <Item id="book_30" name="{=9ur29XYx}Oujyakushū" mesh="sho_book_a_1" item_category="sho_book" is_merchandise="false" value="11650" weight="1" Type="Book">
+    <Item id="book_30" name="{=9ur29XYx}Ōsekishū" mesh="sho_book_a_1" item_category="sho_book" is_merchandise="false" value="11650" weight="1" Type="Book">
 
 
     </Item>
@@ -202,7 +202,7 @@
 
 
     </Item>
-    <Item id="book_42" name="{=yt7Uv0U9}sho_book_a_2" mesh="bd_barrel_a" item_category="sho_book" is_merchandise="false" value="49500" weight="1" Type="Book">
+    <Item id="book_42" name="{=yt7Uv0U9}Goshi" mesh="bd_barrel_a" item_category="sho_book" is_merchandise="false" value="49500" weight="1" Type="Book">
 
 
     </Item>

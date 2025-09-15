@@ -194,13 +194,14 @@
       <skill id="Polearm" value="80"/>
       <skill id="Bow" value="65"/>
       <skill id="Crossbow" value="55"/>
-      <skill id="Throwing" value="70"/>
+      <skill id="Throwing" value="75"/>
       <skill id="Riding" value="0"/>
       <skill id="Athletics" value="90"/>
     </skills>
     <Equipments>
       <EquipmentRoster civilian="true">
         <equipment slot="Item0" id="Item.sho_yari_15"/>
+        <equipment slot="Item1" id="Item.throwing_kunai"/>
         <equipment slot="Head" id="Item.sho_monk_headwrap_c_1"/>
         <equipment slot="Body" id="Item.sho_ashi_mogami_j"/>
         <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_15"/>
@@ -208,40 +209,52 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_katana_24"/>
-        <equipment slot="Head" id="Item.sho_monk_headwrap_c_1"/>
+          <equipment slot="Item1"
+                     id="Item.throwing_kunai"/>
+          <equipment slot="Head" id="Item.sho_monk_headwrap_c_1"/>
         <equipment slot="Body" id="Item.sho_ashi_mogami_k"/>
         <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_17"/>
         <equipment slot="Gloves" id="Item.sho_tier_1_kote_a_8"/>
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_yari_14"/>
-        <equipment slot="Head" id="Item.sho_momonari_b_2"/>
+          <equipment slot="Item1"
+                     id="Item.throwing_kunai"/>
+          <equipment slot="Head" id="Item.sho_momonari_b_2"/>
         <equipment slot="Body" id="Item.sho_ashi_mogami_j"/>
         <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_14"/>
         <equipment slot="Gloves" id="Item.sho_tier_1_kote_a_7"/>
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_naginata_17"/>
-        <equipment slot="Head" id="Item.sho_momonari_maedate_a_1"/>
+          <equipment slot="Item1"
+                     id="Item.throwing_kunai"/>
+          <equipment slot="Head" id="Item.sho_momonari_maedate_a_1"/>
         <equipment slot="Body" id="Item.sho_simple_okegawa_3"/>
         <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_18"/>
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_yari_1"/>
-        <equipment slot="Head" id="Item.sho_monk_headwrap_c_1"/>
+          <equipment slot="Item1"
+                     id="Item.throwing_shuriken"/>
+          <equipment slot="Head" id="Item.sho_monk_headwrap_c_1"/>
         <equipment slot="Body" id="Item.sho_tatami_armor_c"/>
         <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_16"/>
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_tachi_2"/>
-        <equipment slot="Head" id="Item.sho_monk_headwrap_c_2"/>
+          <equipment slot="Item1"
+                     id="Item.throwing_shuriken"/>
+          <equipment slot="Head" id="Item.sho_monk_headwrap_c_2"/>
         <equipment slot="Body" id="Item.sho_ashi_mogami_i"/>
         <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_10"/>
         <equipment slot="Gloves" id="Item.sho_tier_1_kote_a_7"/>
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_kama_5"/>
-        <equipment slot="Head" id="Item.sho_hari_bachi_2_a_2"/>
+          <equipment slot="Item1"
+                     id="Item.throwing_shuriken"/>
+          <equipment slot="Head" id="Item.sho_hari_bachi_2_a_2"/>
         <equipment slot="Body" id="Item.sho_simple_okegawa_2"/>
         <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_16"/>
       </EquipmentRoster>

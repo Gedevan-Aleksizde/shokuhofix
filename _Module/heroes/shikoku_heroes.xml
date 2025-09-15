@@ -9,11 +9,11 @@
 	<Hero id="lord_1_saionji_3" faction="Faction.clan_saionji_1" spouse="Hero.lord_1_saionji_2" text="{=Jb6FawOB}Saionji Hisa"/>
 	<Hero id="dead_lord_1_saionji_1" alive="false" faction="Faction.clan_saionji_1" spouse="Hero.dead_lord_1_saionji_2" text="{=gTFSsjbm}Saionji Kinnobu"/>
 	<Hero id="dead_lord_1_saionji_2" alive="false" faction="Faction.clan_saionji_1" spouse="Hero.dead_lord_1_saionji_1" text="{=qwJbUUQV}Saionji Seiko-in"/>
-	<!--kashuji clan-->
-	<Hero id="lord_1_kashuji" faction="Faction.clan_kashuji_1" spouse="Hero.lord_1_kashuji_1" text="{=RzWxJC41}Kashuji Motoaki"/>
-	<Hero id="lord_1_kashuji_1" faction="Faction.clan_kashuji_1" spouse="Hero.lord_1_kashuji" text="{=vT8u3noP}Kashuji Fuki"/>
-	<Hero id="lord_1_kashuji_2" faction="Faction.clan_kashuji_1" spouse="Hero.lord_1_kashuji_3" father="Hero.lord_1_kashuji" mother="Hero.lord_1_kashuji_1" text="{=GZEDDxOG}Kashuji Motonori"/>
-	<Hero id="lord_1_kashuji_3" faction="Faction.clan_kashuji_1" spouse="Hero.lord_1_kashuji_2" text="{=KDfcebZ7}Kashuji Sayuri"/>
+	<!--Kajuji clan (fixed typo in name do not change id)-->
+	<Hero id="lord_1_kashuji" faction="Faction.clan_kashuji_1" spouse="Hero.lord_1_kashuji_1" text="{=RzWxJC41}Kajuji Motoaki"/>
+	<Hero id="lord_1_kashuji_1" faction="Faction.clan_kashuji_1" spouse="Hero.lord_1_kashuji" text="{=vT8u3noP}Kajuji Fuki"/>
+	<Hero id="lord_1_kashuji_2" faction="Faction.clan_kashuji_1" spouse="Hero.lord_1_kashuji_3" father="Hero.lord_1_kashuji" mother="Hero.lord_1_kashuji_1" text="{=GZEDDxOG}Kajuji Motonori"/>
+	<Hero id="lord_1_kashuji_3" faction="Faction.clan_kashuji_1" spouse="Hero.lord_1_kashuji_2" text="{=KDfcebZ7}Kajuji Sayuri"/>
 	<!--hoketsu clan-->
 	<Hero id="lord_1_hoketsu" faction="Faction.clan_hoketsu_1" spouse="Hero.lord_1_hoketsu_1" text="{=gSncZATa}Hoketsu Norinobu"/>
 	<Hero id="lord_1_hoketsu_1" faction="Faction.clan_hoketsu_1" spouse="Hero.lord_1_hoketsu" text="{=GCLn5ECy}Hoketsu Hama"/>
@@ -111,19 +111,19 @@
 	<Hero id="lord_1_shingai_6" faction="Faction.clan_shingai_1" spouse="Hero.lord_1_shingai_7" text="{=0D5ublc2}Shingai Kaneyasu"/>
 	<Hero id="lord_1_shingai_7" faction="Faction.clan_shingai_1" spouse="Hero.lord_1_shingai_6" text="{=Z7HNxyjm}Shingai Katashiro"/>
 	<!--onishi clan-->
-	<Hero id="lord_1_onishi" faction="Faction.clan_onishi_1" spouse="Hero.lord_1_onishi_1" father="Hero.dead_lord_1_onishi_1" mother="Hero.dead_lord_1_onishi_2" text="{=vktgsLcf}onishi Yoritake"/>
-	<Hero id="lord_1_onishi_1" faction="Faction.clan_onishi_1" spouse="Hero.lord_1_onishi" text="{=wseAsdnA}onishi Amaki"/>
-	<Hero id="lord_1_onishi_2" faction="Faction.clan_onishi_1" spouse="Hero.lord_1_onishi_3" father="Hero.lord_1_onishi" mother="Hero.lord_1_onishi_1" text="{=7RyhvBYR}onishi Shigemoto"/>
-	<Hero id="lord_1_onishi_3" faction="Faction.clan_onishi_1" spouse="Hero.lord_1_onishi_2" text="{=OBe36Dgm}onishi Haruka"/>
-	<Hero id="lord_1_onishi_4" faction="Faction.clan_onishi_1" spouse="Hero.lord_1_onishi_5" father="Hero.lord_1_onishi" mother="Hero.lord_1_onishi_1" text="{=s4GK3ysW}onishi Yoriharu"/>
-	<Hero id="lord_1_onishi_5" faction="Faction.clan_onishi_1" spouse="Hero.lord_1_onishi_4" text="{=chCyXnc8}onishi Tochi"/>
-	<Hero id="lord_1_onishi_6" faction="Faction.clan_onishi_1" father="Hero.lord_1_onishi" mother="Hero.lord_1_onishi_1" text="{=JJbwQ3jB}onishi Yorikane"/>
-	<Hero id="lord_1_onishi_7" faction="Faction.clan_onishi_1" father="Hero.lord_1_onishi" mother="Hero.lord_1_onishi_1" text="{=EqsKtTd5}onishi Yorinobu"/>
-	<Hero id="lord_1_onishi_8" faction="Faction.clan_onishi_1" spouse="Hero.lord_1_onishi_9" father="Hero.dead_lord_1_onishi_1" mother="Hero.dead_lord_1_onishi_2" text="{=tzDZ2CnQ}onishi Mototake"/>
-	<Hero id="lord_1_onishi_9" faction="Faction.clan_onishi_1" spouse="Hero.lord_1_onishi_8" text="{=L0lMoM6a}onishi Suzuran"/>
-	<Hero id="lord_1_onishi_10" faction="Faction.clan_onishi_1" spouse="Hero.lord_1_onishi_11" father="Hero.dead_lord_1_onishi_1" mother="Hero.dead_lord_1_onishi_2" text="{=WbfzMksA}onishi Sadatake"/>
-	<Hero id="lord_1_onishi_11" faction="Faction.clan_onishi_1" spouse="Hero.lord_1_onishi_10" text="{=mH1Ruh1j}onishi Hamagiku"/>
-	<Hero id="dead_lord_1_onishi_1" alive="false" faction="Faction.clan_onishi_1" spouse="Hero.dead_lord_1_onishi_2" text="{=LACOAPLK}onishi Mototaka"/>
-	<Hero id="dead_lord_1_onishi_2" alive="false" faction="Faction.clan_onishi_1" spouse="Hero.dead_lord_1_onishi_1" text="{=MVfwFwvD}onishi Keizen-in"/>
+	<Hero id="lord_1_onishi" faction="Faction.clan_onishi_1" spouse="Hero.lord_1_onishi_1" father="Hero.dead_lord_1_onishi_1" mother="Hero.dead_lord_1_onishi_2" text="{=vktgsLcf}Onishi Yoritake"/>
+	<Hero id="lord_1_onishi_1" faction="Faction.clan_onishi_1" spouse="Hero.lord_1_onishi" text="{=wseAsdnA}Onishi Amaki"/>
+	<Hero id="lord_1_onishi_2" faction="Faction.clan_onishi_1" spouse="Hero.lord_1_onishi_3" father="Hero.lord_1_onishi" mother="Hero.lord_1_onishi_1" text="{=7RyhvBYR}Onishi Shigemoto"/>
+	<Hero id="lord_1_onishi_3" faction="Faction.clan_onishi_1" spouse="Hero.lord_1_onishi_2" text="{=OBe36Dgm}Onishi Haruka"/>
+	<Hero id="lord_1_onishi_4" faction="Faction.clan_onishi_1" spouse="Hero.lord_1_onishi_5" father="Hero.lord_1_onishi" mother="Hero.lord_1_onishi_1" text="{=s4GK3ysW}Onishi Yoriharu"/>
+	<Hero id="lord_1_onishi_5" faction="Faction.clan_onishi_1" spouse="Hero.lord_1_onishi_4" text="{=chCyXnc8}Onishi Tochi"/>
+	<Hero id="lord_1_onishi_6" faction="Faction.clan_onishi_1" father="Hero.lord_1_onishi" mother="Hero.lord_1_onishi_1" text="{=JJbwQ3jB}Onishi Yorikane"/>
+	<Hero id="lord_1_onishi_7" faction="Faction.clan_onishi_1" father="Hero.lord_1_onishi" mother="Hero.lord_1_onishi_1" text="{=EqsKtTd5}Onishi Yorinobu"/>
+	<Hero id="lord_1_onishi_8" faction="Faction.clan_onishi_1" spouse="Hero.lord_1_onishi_9" father="Hero.dead_lord_1_onishi_1" mother="Hero.dead_lord_1_onishi_2" text="{=tzDZ2CnQ}Onishi Mototake"/>
+	<Hero id="lord_1_onishi_9" faction="Faction.clan_onishi_1" spouse="Hero.lord_1_onishi_8" text="{=L0lMoM6a}Onishi Suzuran"/>
+	<Hero id="lord_1_onishi_10" faction="Faction.clan_onishi_1" spouse="Hero.lord_1_onishi_11" father="Hero.dead_lord_1_onishi_1" mother="Hero.dead_lord_1_onishi_2" text="{=WbfzMksA}Onishi Sadatake"/>
+	<Hero id="lord_1_onishi_11" faction="Faction.clan_onishi_1" spouse="Hero.lord_1_onishi_10" text="{=mH1Ruh1j}Onishi Hamagiku"/>
+	<Hero id="dead_lord_1_onishi_1" alive="false" faction="Faction.clan_onishi_1" spouse="Hero.dead_lord_1_onishi_2" text="{=LACOAPLK}Onishi Mototaka"/>
+	<Hero id="dead_lord_1_onishi_2" alive="false" faction="Faction.clan_onishi_1" spouse="Hero.dead_lord_1_onishi_1" text="{=MVfwFwvD}Onishi Keizen-in"/>
 
 </Heroes>

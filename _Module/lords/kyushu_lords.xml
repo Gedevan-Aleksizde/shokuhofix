@@ -181,7 +181,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_shimazu_8" name="{=BgW75GXX}Shimazu Lady Ume" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_shimazu_8" name="{=BgW75GXX}Shimazu Ume" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="38.00" weight="0.1262" build="0.317" key="001FEC0BC0000002368D5A60D4D3114BEAC282B5F34AB46ADA2D11438CD6E5DE042526450216615C000000000000000000000000000000000000000072442040"/>
     </face>
@@ -504,7 +504,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_hongo_1" name="{=YBDz0cMr}Hongo Higiri" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hongo_1" name="{=YBDz0cMr}Hongo Haru" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="38.00" weight="0.5536" build="0.262" key="0030F40F40000005638797CE56315416C1B285E3529DB7BACBDA74A7868F98DB070486790046619300000000000000000000000000000000000000001C043081"/>
     </face>
@@ -1018,7 +1018,7 @@
     </Equipments>
   </NPCCharacter>
   <!--relative 2-->
-  <NPCCharacter id="lord_1_kawakami_11" name="{=ODtiTkOv}Kawakami Hisatoki" age="33" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kawakami_11" name="{=Ht8hAJcl}Kawakami Tadatomo" age="33" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="33.00" weight="0.4052" build="0.7799" key="003AD40E400004C0B462852949B7677AB2683A675BBB4857C42C49755889AEA8017C661307B8C369000000000000000000000000000000000000000046EC0001"/>
     </face>
@@ -1055,7 +1055,7 @@
     </Equipments>
   </NPCCharacter>
   <!--relative 2 son-->
-  <NPCCharacter id="lord_1_kawakami_13" name="{=Ax7ZFxHb}Kawakami Tadataka" age="10" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kawakami_13" name="{=Ax7ZFxHb}Kawakami Tadakata" age="10" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="10.00" weight="0.3216" build="0.5651" key="0020DC0E8000000196777749ACB66A8A72797A888B893848D4396D7558A98D880D7856D20AA9737900000000000000000000000000000000000000005AEC0141"/>
     </face>
@@ -1205,7 +1205,7 @@
     </Equipments>
   </NPCCharacter>
   <!--son son-->
-  <NPCCharacter id="lord_1_uwai_4" name="{=Otv143ry}Uwai Yunekane" age="3" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_uwai_4" name="{=Otv143ry}Uwai Tsunekane" age="3" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="3.00" weight="0.5473" build="0.1438" key="0020DC0E40000784B5717A8967A6644CA2756A495B9A35A8C63B96453899AA880762867906C6A287000000000000000000000000000000000000000038CC0001"/>
     </face>
@@ -1224,7 +1224,7 @@
     </Equipments>
   </NPCCharacter>
   <!--son 2-->
-  <NPCCharacter id="lord_1_uwai_5" name="{=ELhVncx1}Uwai Hideake" age="22" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_uwai_5" name="{=ELhVncx1}Uwai Hideaki" age="22" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.00" weight="0.6051" build="0.7926" key="0021F40E4000028296716BA88AC7594A62666A77A9F94A5CD4365A9568899878027C962407C9D358000000000000000000000000000000000000000064EC0083"/>
     </face>
@@ -2894,7 +2894,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_otomo_1" name="{=UIKx01xx}Otomo Lady Nata" age="43" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_otomo_1" name="{=UIKx01xx}Otomo Nata" age="43" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="43.00" weight="0.3099" build="0.6122" key="0008D80D40000001C184935ECAC83E775EA1808F2253144494A4A46B8C31A88903495635044314C40000000000000000000000000000000000000000329400C1"/>
     </face>
@@ -4433,7 +4433,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_amakusa_3" name="{=uq8mSvxo}Amakusa Tanetomo" age="13" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_amakusa_3" name="{=uq8mSvxo}Amakusa Tanemoto" age="13" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="13.00" weight="0.7536" build="0.4772" key="003DC40E400000C0A7787AD6C7C86B7A51666A697DCC479BD3498C6558899D780167B61406C9826800000000000000000000000000000000000000002AD40043"/>
     </face>
@@ -4688,7 +4688,7 @@
     </Equipments>
   </NPCCharacter>
   <!--leader-->
-  <NPCCharacter id="lord_1_mera" name="{=2CvJRlY1}Mera Suketugu" age="31" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_mera" name="{=2CvJRlY1}Mera Suketsugu" age="31" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.saikai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="31.00" weight="0.1296" build="0.7965" key="003DD00EC0000084847766C8A5A4575BD367499568B94787D34879653889AA98057C265707988388000000000000000000000000000000000000000032EC0081"/>
     </face>

@@ -177,15 +177,12 @@
 				<Output output="ItemCategory.ranged_weapons_5"/>
 			</Outputs>
 		</Production>
-		<Production conversion_speed="0.04">
+		<Production conversion_speed="0.05">
 			<Outputs>
 				<Output output="ItemCategory.sho_gun_5"/>
 			</Outputs>
 		</Production>
-        <Production conversion_speed="0.5">
-			<Inputs>
-				<Input input_item="sho_sulfur"/>
-			</Inputs>
+        <Production conversion_speed="0.25">
 			<Outputs>
 				<Output output="ItemCategory.sho_bullets"/>
 			</Outputs>
@@ -422,7 +419,7 @@
 				<Output output="ItemCategory.light_armor" output_count="1"/>
 			</Outputs>
 		</Production>
-		<Production conversion_speed=".7">
+		<Production conversion_speed=".65">
 			<Inputs>
 				<Input input_item="sho_iron"/>
 				<Input input_item="sho_wood"/>
@@ -432,7 +429,7 @@
 				<Output output="ItemCategory.medium_armor"/>
 			</Outputs>
 		</Production>
-		<Production conversion_speed=".7">
+		<Production conversion_speed=".65">
 			<Inputs>
 				<Input input_item="sho_iron"/>
 				<Input input_item="sho_wood"/>
@@ -442,7 +439,7 @@
 				<Output output="ItemCategory.medium_armor"/>
 			</Outputs>
 		</Production>
-		<Production conversion_speed="0.25">
+		<Production conversion_speed="0.23">
 			<Inputs>
 				<Input input_item="sho_iron"/>
 				<Input input_item="sho_wood"/>
@@ -453,7 +450,7 @@
 				<Output output="ItemCategory.heavy_armor"/>
 			</Outputs>
 		</Production>
-		<Production conversion_speed="0.25">
+		<Production conversion_speed="0.23">
 			<Inputs>
 				<Input input_item="sho_iron"/>
 				<Input input_item="sho_wood"/>
@@ -464,7 +461,7 @@
 				<Output output="ItemCategory.heavy_armor"/>
 			</Outputs>
 		</Production>
-		<Production conversion_speed="0.05">
+		<Production conversion_speed="0.07">
 			<Inputs>
 				<Input input_item="sho_iron"/>
 				<Input input_item="sho_wood"/>
@@ -476,7 +473,7 @@
 				<Output output="ItemCategory.ultra_armor"/>
 			</Outputs>
 		</Production>		
-		<Production conversion_speed="2">
+		<Production conversion_speed="1.8">
 			<Inputs>
 				<Input input_item="sho_wood"/>
 			</Inputs>
@@ -484,7 +481,7 @@
 				<Output output="ItemCategory.horse_equipment"/>
 			</Outputs>
 		</Production>
-		<Production conversion_speed="0.8">
+		<Production conversion_speed="0.75">
 			<Inputs>
 				<Input input_item="sho_wood"/>
 			</Inputs>
@@ -492,7 +489,7 @@
 				<Output output="ItemCategory.horse_equipment_2"/>
 			</Outputs>
 		</Production>
-		<Production conversion_speed="0.2">
+		<Production conversion_speed="0.18">
 			<Inputs>
 				<Input input_item="sho_wood"/>
 				<Input input_item="sho_leather"/>
@@ -501,7 +498,7 @@
 				<Output output="ItemCategory.horse_equipment_3"/>
 			</Outputs>
 		</Production>
-		<Production conversion_speed="0.1">
+		<Production conversion_speed="0.09">
 			<Inputs>
 				<Input input_item="sho_wood"/>
 				<Input input_item="sho_iron"/>
@@ -511,7 +508,7 @@
 				<Output output="ItemCategory.horse_equipment_4"/>
 			</Outputs>
 		</Production>
-		<Production conversion_speed="0.05">
+		<Production conversion_speed="0.04">
 			<Inputs>
 				<Input input_item="sho_wood"/>
 				<Input input_item="sho_iron"/>
@@ -524,7 +521,7 @@
 	</WorkshopType>
 	<WorkshopType id="sho_weaponsmith" name="{=vWrIKShP}Weapon Smithy" frequency="1" equipment_cost="10000" jobname="{=t3wWHSRb}Weaponsmith" description="{=ZE1qhIyX}Weaponsmithies are fundamental for militaries, producing melee weaponry for troops.">
 		<Meshes sign_mesh_name="shop_sign_merchantsmithing" shop_prop_mesh_name_1="shop_prop_merchantsmithing_a" shop_prop_mesh_name_2="shop_prop_merchantsmithing_b" shop_prop_mesh_name_3_1="shop_prop_merchantweapons_melee_c" shop_prop_mesh_name_3_2="shop_prop_merchantarmory_heavy_c" shop_prop_mesh_name_4="shop_prop_merchantsmithing_d" shop_prop_mesh_name_5="shop_prop_merchantsmithing_e" shop_prop_mesh_name_6="shop_prop_merchantsmithing_f"/>
-		<Production conversion_speed="1">
+		<Production conversion_speed=".95">
 			<Inputs>
 				<Input input_item="sho_iron"/>
 				<Input input_item="sho_wood"/>
@@ -533,7 +530,7 @@
 				<Output output="ItemCategory.melee_weapons" output_count="1"/>
 			</Outputs>
 		</Production>
-		<Production conversion_speed=".8">
+		<Production conversion_speed=".75">
 			<Inputs>
 				<Input input_item="sho_iron"/>
 				<Input input_item="sho_wood"/>
@@ -542,7 +539,7 @@
 				<Output output="ItemCategory.melee_weapons_2" output_count="1"/>
 			</Outputs>
 		</Production>
-		<Production conversion_speed="0.6">
+		<Production conversion_speed="0.55">
 			<Inputs>
 				<Input input_item="sho_iron"/>
 				<Input input_item="sho_wood"/>
@@ -551,7 +548,7 @@
 				<Output output="ItemCategory.melee_weapons_3"/>
 			</Outputs>
 		</Production>
-		<Production conversion_speed="0.25">
+		<Production conversion_speed="0.23">
 			<Inputs>
 				<Input input_item="sho_iron"/>
 				<Input input_item="sho_wood"/>
@@ -561,7 +558,7 @@
 				<Output output="ItemCategory.melee_weapons_4"/>
 			</Outputs>
 		</Production>
-		<Production conversion_speed="0.05">
+		<Production conversion_speed="0.07">
 			<Inputs>
 				<Input input_item="sho_iron"/>
 				<Input input_item="sho_wood"/>

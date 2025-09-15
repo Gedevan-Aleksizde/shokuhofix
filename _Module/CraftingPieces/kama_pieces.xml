@@ -143,7 +143,7 @@
 		</Materials>
 	</CraftingPiece>
 
-	<CraftingPiece id="sho_axe_head_8" name="{=KOubITlD}Samurai Axe Head" tier="4" piece_type="Blade" mesh="sho_axe_head_8" distance_to_next_piece="0" distance_to_previous_piece="0" weight="0.63">
+	<CraftingPiece id="sho_axe_head_8" name="{=KOubITlD}Inome Ono Axe Head" tier="4" piece_type="Blade" mesh="sho_axe_head_8" distance_to_next_piece="0" distance_to_previous_piece="0" weight="0.63">
 		<BuildData piece_offset="-6.8"/>
 		<BladeData stack_amount="3" blade_length="24" blade_width="18" physics_material="metal_weapon" body_name="bo_axe_longer_b">
 			<Swing damage_type="Cut" damage_factor="3.6"/>

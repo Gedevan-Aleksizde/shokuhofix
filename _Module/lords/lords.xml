@@ -61,7 +61,7 @@
     </Equipments>
   </NPCCharacter>
   <!--Main hero's father and mother for test-->
-  <NPCCharacter id="main_hero_father" default_group="Cavalry" age="50" voice="earnest" is_hero="true" culture="Culture.saikai" occupation="Lord" name="{=a2rhPaGB}Father" face_mesh_cache="true">
+  <NPCCharacter id="main_hero_father" default_group="Cavalry" age="50" voice="earnest" is_hero="true" culture="Culture.saikai" occupation="Lord" name="{=22a9fyiQ}Father" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="50.00" weight="0.6166" build="0.6697" key="002DEC0EC000024185638A4855C8667CB3685B86B7BE459AC3395B853899AB98006A960306B8A37800000000000000000000000000000000000000005ED40140" />
     </face>
@@ -120,7 +120,7 @@
       <EquipmentSet id="saikai_civ_template_default_male" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="main_hero_mother" default_group="Cavalry" age="50" voice="earnest" is_female="true" culture="Culture.saikai" occupation="Lord" name="{=V44d9fIP}Mother" face_mesh_cache="true">
+ <NPCCharacter id="main_hero_mother" default_group="Cavalry" age="50" voice="earnest" is_female="true" culture="Culture.saikai" occupation="Lord" name="{=UB4sqrWx}Mother" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="50.00" weight="0.0235" build="0.6569" key="0020D80C000000038587A3B5B7CA961B3CE18405C47B554760DDD21A87D5A8C9065A06670513837C0000000000000000000000000000000000000000089C10C1" />
     </face>

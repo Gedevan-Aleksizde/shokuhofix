@@ -50,12 +50,13 @@
 		<string id="Ads3am6y" text="I'll show you peasants how to behave!"/>
 		<string id="PAcXCOtD" text="Tax Collector"/>
 		<string id="zSHTiacb" text="Tax Collector Bodyguard"/>
-		<string id="UqZ9mzlb" text="Wait! Please! I surrender, don’t hurt me.[ib:weary][if:convo_terrified]"/>
+		<string id="UqZ9mzlb" text="Wait! Please! I surrender, don't hurt me.[ib:weary][if:convo_terrified]"/>
 		<string id="OlOD8Wht" text="Have you come to mock me?"/>
 		<string id="i6XV2iAl" text="Welcome back. Any news on the village?[ib:confident3][if:convo_focused_happy]"/>
 		<string id="dplfenu8" text="I’ve brought the source of your unrest. It was a corrupt tax collector who had been extrajudicially increasing taxes and lining his own pockets. He attacked me with his bodyguards when I refused his bribe."/>
 		<string id="Q55tkPzP" text="Oh my! I had no idea this was happening. I’ll make sure justice is done to this scoundrel. Who knew a corrupt tax collector would be able to cause so much unrest! Thank you for dealing with this peacefully. As promised, here’s your reward. I hope it is sufficient.[rb:unsure][ib:nervous2][if:convo_confused_normal]"/>
 		<string id="GGvP5Xxi" text="{PLAYER.NAME}! I’ve just received news of your work in {TARGET_VILLAGE}.Shame you were forced to confront the peasants with force, but at least they’ve learned their place. Thank you. I hope this reward is more than sufficient.[ib:closed2]"/>
+		<string id="THEoDlIz" text="I'm placing you under arrest. You will answer to {QUEST_GIVER.NAME} for your crimes. All the gold you've stolen will be returned to the peasants."/>	
 		<!--Troublesome Missionary-->
 		<string id="PkDjGPsT" text="Yes...A Christian has been causing trouble in the village. Would you be willing to help deal with him?[ib:closed][if:convo_dismayed]"/>
 		<string id="7947txPh" text="A Christian has been present in {TARGET_VILLAGE} for a few weeks. He keeps raving about eternal damnation or some nonsense. He has constantly insulted and mocked our ways. A few days ago, one of our statues of Buddha was torn down in the night, and I think he did it. The people are angry and scared of his presence and want him gone. I unfortunately don’t have the authority to do it myself, so I’m offering payment for you to deal with them quitely.[ib:closed][if:convo_normal]"/>

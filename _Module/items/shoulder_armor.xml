@@ -52,28 +52,28 @@
     </Item>
 
 
-    <Item id="sho_monk_cape_a_1" name="{=kxzCYmvt}Monk Vest" mesh="sho_monk_cape_a_1" weight="1.6" appearance="2" Type="Cape">
+    <Item id="sho_monk_cape_a_1" name="{=kxzCYmvt}Oizuru Monk Vest" mesh="sho_monk_cape_a_1" weight="1.6" appearance="2" Type="Cape">
         <ItemComponent>
             <Armor body_armor="8" modifier_group="cloth" material_type="Cloth"/>
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
 
-    <Item id="sho_monk_cape_a_2" name="{=kxzCYmvt}Monk Vest" mesh="sho_monk_cape_a_2" weight="1.6" appearance="2" Type="Cape">
+    <Item id="sho_monk_cape_a_2" name="{=kxzCYmvt}Oizuru Monk Vest" mesh="sho_monk_cape_a_2" weight="1.6" appearance="2" Type="Cape">
         <ItemComponent>
             <Armor body_armor="8" modifier_group="cloth" material_type="Cloth"/>
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
 
-    <Item id="sho_monk_cape_b_1" name="{=kxzCYmvt}Monk Vest" mesh="sho_monk_cape_b_1" weight="1.6" appearance="2" Type="Cape">
+    <Item id="sho_monk_cape_b_1" name="{=kxzCYmvt}Oizuru Monk Vest" mesh="sho_monk_cape_b_1" weight="1.6" appearance="2" Type="Cape">
         <ItemComponent>
             <Armor body_armor="8" modifier_group="cloth" material_type="Cloth"/>
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
 
-    <Item id="sho_monk_cape_b_2" name="{=kxzCYmvt}Monk Vest" mesh="sho_monk_cape_b_2" weight="1.6" appearance="2" Type="Cape">
+    <Item id="sho_monk_cape_b_2" name="{=kxzCYmvt}Oizuru Monk Vest" mesh="sho_monk_cape_b_2" weight="1.6" appearance="2" Type="Cape">
         <ItemComponent>
             <Armor body_armor="8" modifier_group="cloth" material_type="Cloth"/>
         </ItemComponent>
@@ -81,28 +81,28 @@
     </Item>
 
 
-    <Item id="sho_monk_cape_c_1" name="{=kxzCYmvt}Monk Vest" mesh="sho_monk_cape_c_1" weight="1.6" appearance="2" Type="Cape">
+    <Item id="sho_monk_cape_c_1" name="{=kxzCYmvt}Oizuru Monk Vest" mesh="sho_monk_cape_c_1" weight="1.6" appearance="2" Type="Cape">
         <ItemComponent>
             <Armor body_armor="8" modifier_group="cloth" material_type="Cloth"/>
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
 
-    <Item id="sho_monk_cape_c_2" name="{=kxzCYmvt}Monk Vest" mesh="sho_monk_cape_c_2" weight="1.6" appearance="2" Type="Cape">
+    <Item id="sho_monk_cape_c_2" name="{=kxzCYmvt}Oizuru Monk Vest" mesh="sho_monk_cape_c_2" weight="1.6" appearance="2" Type="Cape">
         <ItemComponent>
             <Armor body_armor="8" modifier_group="cloth" material_type="Cloth"/>
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
 
-    <Item id="sho_monk_cape_d_1" name="{=kxzCYmvt}Monk Vest" mesh="sho_monk_cape_d_1" weight="1.6" appearance="2" Type="Cape">
+    <Item id="sho_monk_cape_d_1" name="{=kxzCYmvt}Oizuru Monk Vest" mesh="sho_monk_cape_d_1" weight="1.6" appearance="2" Type="Cape">
         <ItemComponent>
             <Armor body_armor="8" modifier_group="cloth" material_type="Cloth"/>
         </ItemComponent>
         <Flags Civilian="true"/>
     </Item>
 
-    <Item id="sho_monk_cape_d_2" name="{=kxzCYmvt}Monk Vest" mesh="sho_monk_cape_d_2" weight="1.6" appearance="2" Type="Cape">
+    <Item id="sho_monk_cape_d_2" name="{=kxzCYmvt}Oizuru Monk Vest" mesh="sho_monk_cape_d_2" weight="1.6" appearance="2" Type="Cape">
         <ItemComponent>
             <Armor body_armor="8" modifier_group="cloth" material_type="Cloth"/>
         </ItemComponent>

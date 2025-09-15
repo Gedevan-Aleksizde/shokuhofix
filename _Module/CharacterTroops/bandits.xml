@@ -76,35 +76,46 @@
     <Equipments>
       <EquipmentRoster civilian="true">
         <equipment slot="Item0" id="Item.sho_kama_8"/>
+        <equipment slot="Item1" id="Item.throwing_shuriken"/>
         <equipment slot="Head" id="Item.sho_sugegasa_hat"/>
         <equipment slot="Body" id="Item.sho_ashi_go_mai_j"/>
         <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_6"/>
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_katana_3"/>
-        <equipment slot="Head" id="Item.sho_sugegasa_hat"/>
+          <equipment slot="Item1"
+                     id="Item.throwing_shuriken"/>
+          <equipment slot="Head" id="Item.sho_sugegasa_hat"/>
         <equipment slot="Body" id="Item.sho_ashi_go_mai_l"/>
         <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_4"/>
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_yari_6"/>
-        <equipment slot="Head" id="Item.sho_sugegasa_hat"/>
+          <equipment slot="Item1"
+                     id="Item.throwing_shuriken"/>
+          <equipment slot="Head" id="Item.sho_sugegasa_hat"/>
         <equipment slot="Body" id="Item.sho_ashi_go_mai_i"/>
         <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_4"/>
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_katana_2"/>
-        <equipment slot="Body" id="Item.sho_ashi_go_mai_j"/>
+          <equipment slot="Item1"
+                     id="Item.throwing_kunai"/>
+          <equipment slot="Body" id="Item.sho_ashi_go_mai_j"/>
         <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_8"/>
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_kama_5"/>
-        <equipment slot="Body" id="Item.sho_ashi_go_mai_k"/>
+          <equipment slot="Item1"
+                     id="Item.throwing_kunai"/>
+          <equipment slot="Body" id="Item.sho_ashi_go_mai_k"/>
         <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_6"/>
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_yari_3"/>
-        <equipment slot="Body" id="Item.sho_ashi_go_mai_i"/>
+          <equipment slot="Item1"
+                     id="Item.throwing_kunai"/>
+          <equipment slot="Body" id="Item.sho_ashi_go_mai_i"/>
         <equipment slot="Leg" id="Item.sho_low_tier_suneate_a_4"/>
       </EquipmentRoster>
     </Equipments>
@@ -811,7 +822,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="ochimusya" default_group="Infantry" name="{=7JNGAn3W}Ochimusya-gari Samurai Hunter" level="16" occupation="Bandit" culture="Culture.ochimusya">
+  <NPCCharacter id="ochimusya" default_group="Infantry" name="{=7JNGAn3W}Ochimusya-gari Samurai Hunter" level="6" occupation="Bandit" culture="Culture.ochimusya">
     <face>
       <face_key_template value="BodyProperty.fighter_m_saikai"/>
     </face>

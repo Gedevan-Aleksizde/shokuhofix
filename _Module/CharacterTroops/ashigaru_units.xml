@@ -1237,7 +1237,7 @@
       <skill id="TwoHanded" value="25"/>
       <skill id="Polearm" value="25"/>
       <skill id="Bow" value="45"/>
-      <skill id="Crossbow" value="50"/>
+      <skill id="Crossbow" value="75"/>
       <skill id="Throwing" value="35"/>
       <skill id="Riding" value="10"/>
       <skill id="Athletics" value="60"/>

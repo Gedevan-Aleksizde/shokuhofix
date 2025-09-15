@@ -788,7 +788,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son -->
-  <NPCCharacter id="lord_1_uchigashima_4" name="{=BFpJOH9B}Uchigashima Ujiyuji" age="4" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_uchigashima_4" name="{=BFpJOH9B}Uchigashima Ujiyuki" age="4" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tosan" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="4.00" weight="0.1397" build="0.656" key="002DC40EC0000700B56656682CB6633A92796A775BD83779C34AAC3568899E98077A267807AAC27A00000000000000000000000000000000000000002CEC0040"/>
     </face>
@@ -1200,7 +1200,7 @@
   </NPCCharacter>
   <!-- noto_hatakeyama Clan -->
   <!-- Leader (actually 14) -->
-  <NPCCharacter id="lord_1_notohatakeyama" name="{=zzPufQWW}Noto-Hatakeyama Yoshikage" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_notohatakeyama" name="{=zzPufQWW}Noto-Hatakeyama Yoshinori" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.1849" build="0.1872" key="001EF40E40000501B7765A6869B5564BB2764A987CEB497AC52878554899DB780363363506977298000000000000000000000000000000000000000060D40003"/>
     </face>
@@ -1294,7 +1294,7 @@
   </NPCCharacter>
   <!-- Cho Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_cho" name="{=Ykm1ZcKt}Cho Tsugutura" age="43" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_cho" name="{=Ykm1ZcKt}Cho Tsugutsura" age="43" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="43.00" weight="0.8282" build="0.8943" key="0031D40E40000444A56566B8CDB6675A92665A8A8CAD467BC33A4B655899CC78066DC66806CA827A00000000000000000000000000000000000000006ECC00C1"/>
     </face>
@@ -5749,7 +5749,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Father (dead) -->
-  <NPCCharacter id="dead_lord_1_okabe_2" name="{=r9MHER6o}Okabe Chikatsuma" age="47" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_okabe_2" name="{=r9MHER6o}Okabe Chikatsuna" age="47" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="47.00" weight="0.1934" build="0.8202" key="0037D80E800001C39865796747B5774982775A4599E93999D54A8CA538898DA8067C366707D8B24A000000000000000000000000000000000000000054E40101"/>
     </face>
@@ -5786,7 +5786,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son -->
-  <NPCCharacter id="lord_1_okabe_4" name="{=jDEOJ3VU}Okabe Masataka" age="33" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_okabe_4" name="{=jDEOJ3VU}Okabe Sanetaka" age="33" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="33.00" weight="0.5168" build="0.2833" key="0036EC0E80000703A5656A37CAA65A2B51674A3639A94597C43AA87548899D880664866806C7D278000000000000000000000000000000000000000026D40041"/>
     </face>
@@ -5843,7 +5843,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother Spouse -->
-  <NPCCharacter id="lord_1_okabe_7" name="{=J8S3HAxP}okabe Kame" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_okabe_7" name="{=J8S3HAxP}Okabe Kame" age="23" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="23.00" weight="0.3556" build="0.7987" key="0012F00B800000045A898E5CA6899445CCD4834A968E91D5509928E38887ABBC044C564604253344000000000000000000000000000000000000000060843100"/>
     </face>

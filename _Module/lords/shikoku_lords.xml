@@ -112,7 +112,7 @@
   </NPCCharacter>
   <!--kashuji clan-->
   <!--leader-->
-  <NPCCharacter id="lord_1_kashuji" name="{=RzWxJC41}Kashuji Motoaki" age="38" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kashuji" name="{=RzWxJC41}Kajuji Motoaki" age="38" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="38.00" weight="0.3629" build="0.1046" key="0038D40EC00007C3A578764747B6642972658A59488B47A9D54B77D54889C8880072560307CAC27A00000000000000000000000000000000000000004CE40040"/>
     </face>
@@ -130,7 +130,7 @@
       <EquipmentSet id="nankai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_kashuji_1" name="{=vT8u3noP}Kashuji Fuki" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kashuji_1" name="{=vT8u3noP}Kajuji Fuki" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="38.00" weight="0.3632" build="0.5092" key="0012F40EC00000040F8198932C2C84A4BCD38778EB367CB60E57257B821D886E00385603036412AE00000000000000000000000000000000000000004E641101"/>
     </face>
@@ -148,7 +148,7 @@
     </Equipments>
   </NPCCharacter>
   <!--son-->
-  <NPCCharacter id="lord_1_kashuji_2" name="{=GZEDDxOG}Kashuji Motonori" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kashuji_2" name="{=GZEDDxOG}Kajuji Motonori" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.7578" build="0.7322" key="001BD80EC0000142866767A735B46A6A42766A568BC945BAC62C47A56899BD88057BB65707C9C359000000000000000000000000000000000000000024EC0101"/>
     </face>
@@ -166,7 +166,7 @@
       <EquipmentSet id="nankai_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_kashuji_3" name="{=KDfcebZ7}Kashuji Sayuri" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kashuji_3" name="{=KDfcebZ7}Kajuji Sayuri" age="18" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nankai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="18.00" weight="0.5393" build="0.2474" key="0015EC0E000000065D85EA91114311663AF4851F93B6B0541CA4B9778E7856EC0C6486C20970208B000000000000000000000000000000000000000000D42040"/>
     </face>

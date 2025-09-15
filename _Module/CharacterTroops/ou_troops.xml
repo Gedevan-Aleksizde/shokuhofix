@@ -1488,7 +1488,7 @@
     <Equipments>
       <EquipmentRoster civilian="true">
         <equipment slot="Item0" id="Item.sho_new_yumi_2"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_7"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_e"/>
         <equipment slot="Body" id="Item.sho_oyoroi_front_lacings_e"/>
@@ -1500,7 +1500,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_2_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_14"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_e"/>
         <equipment slot="Body" id="Item.sho_oyoroi_front_lacings_e"/>
@@ -1512,7 +1512,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_2_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_4"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_e"/>
         <equipment slot="Body" id="Item.sho_oyoroi_front_lacings_e"/>
@@ -1524,7 +1524,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_2"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_14"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_b"/>
         <equipment slot="Body" id="Item.sho_oyoroi_front_lacings_b"/>
@@ -1536,7 +1536,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_2_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_7"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_b"/>
         <equipment slot="Body" id="Item.sho_oyoroi_front_lacings_b"/>
@@ -1548,7 +1548,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_2_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_7"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_b"/>
         <equipment slot="Body" id="Item.sho_oyoroi_front_lacings_b"/>
@@ -1560,7 +1560,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_2_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_17"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_c"/>
         <equipment slot="Body" id="Item.sho_oyoroi_front_lacings_c"/>
@@ -1572,7 +1572,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_2_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_2"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_c"/>
         <equipment slot="Body" id="Item.sho_oyoroi_front_lacings_c"/>
@@ -1584,7 +1584,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_2"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_4"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_c"/>
         <equipment slot="Body" id="Item.sho_oyoroi_front_lacings_c"/>
@@ -1596,7 +1596,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_2_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_7"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_d"/>
         <equipment slot="Body" id="Item.sho_oyoroi_front_lacings_d"/>
@@ -1608,7 +1608,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_2_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_17"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_d"/>
         <equipment slot="Body" id="Item.sho_oyoroi_front_lacings_d"/>
@@ -1620,7 +1620,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_2"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_7"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_d"/>
         <equipment slot="Body" id="Item.sho_oyoroi_front_lacings_d"/>
@@ -1632,7 +1632,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_2"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_14"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_a"/>
         <equipment slot="Body" id="Item.sho_oyoroi_front_lacings_a"/>
@@ -1644,7 +1644,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_2_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_4"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_a"/>
         <equipment slot="Body" id="Item.sho_oyoroi_front_lacings_a"/>
@@ -1656,7 +1656,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_2_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_7"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_a"/>
         <equipment slot="Body" id="Item.sho_oyoroi_front_lacings_a"/>
@@ -1685,7 +1685,7 @@
     <Equipments>
       <EquipmentRoster civilian="true">
         <equipment slot="Item0" id="Item.sho_new_yumi_3_short_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_7"/>
         <equipment slot="Item3" id="Item.sho_horo_1_a"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_e"/>
@@ -1698,7 +1698,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_3_short_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_2"/>
         <equipment slot="Item3" id="Item.sho_horo_1_a"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_e"/>
@@ -1711,7 +1711,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_3_short_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_7"/>
         <equipment slot="Item3" id="Item.sho_horo_1_a"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_e"/>
@@ -1724,7 +1724,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_3_short_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_2"/>
         <equipment slot="Item3" id="Item.sho_horo_1_a"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_b"/>
@@ -1737,7 +1737,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_3_short_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_14"/>
         <equipment slot="Item3" id="Item.sho_horo_1_a"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_b"/>
@@ -1750,7 +1750,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_3_short_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_14"/>
         <equipment slot="Item3" id="Item.sho_horo_1_a"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_b"/>
@@ -1763,7 +1763,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_3_short_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_17"/>
         <equipment slot="Item3" id="Item.sho_horo_1_a"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_c"/>
@@ -1776,7 +1776,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_3_short_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_2"/>
         <equipment slot="Item3" id="Item.sho_horo_1_a"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_c"/>
@@ -1789,7 +1789,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_3_short_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_7"/>
         <equipment slot="Item3" id="Item.sho_horo_1_a"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_c"/>
@@ -1802,7 +1802,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_3_short_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_7"/>
         <equipment slot="Item3" id="Item.sho_horo_1_a"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_d"/>
@@ -1815,7 +1815,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_3_short_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_17"/>
         <equipment slot="Item3" id="Item.sho_horo_1_a"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_d"/>
@@ -1828,7 +1828,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_3_short_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_7"/>
         <equipment slot="Item3" id="Item.sho_horo_1_a"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_d"/>
@@ -1841,7 +1841,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_3_short_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_17"/>
         <equipment slot="Item3" id="Item.sho_horo_1_a"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_a"/>
@@ -1854,7 +1854,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_3_short_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_14"/>
         <equipment slot="Item3" id="Item.sho_horo_1_a"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_a"/>
@@ -1867,7 +1867,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sho_new_yumi_3_short_war_bow"/>
-        <equipment slot="Item1" id="Item.sho_ebira_piercing"/>
+        <equipment slot="Item1" id="Item.sho_ebira_whistling"/>
         <equipment slot="Item2" id="Item.sho_tachi_17"/>
         <equipment slot="Item3" id="Item.sho_horo_1_a"/>
         <equipment slot="Head" id="Item.sho_akoka_nari_a"/>

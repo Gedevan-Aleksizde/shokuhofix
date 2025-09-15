@@ -65,7 +65,7 @@
 			 short_name="{=fKx72A6I}Date"
 			 title="{=fKx72A6I}Date"
 			 ruler_title="{=tRwThwR8}Daimyo"
-			 text="{=92JF2pqv}The Date domain, centered in the inland valleys of Northern Japan, has grown into a powerful regional player over generations, although its position has most recently been weakened by a bitter succession dispute. With the domain stablised under the rule of Date Tanemune and his son Harumune, the Date are not yet a dominant power, but their control over fertile plains, mountain fortresses, and key inland routes provides the groundwork for future expansion against neighbouring rivals like the Ashina and Mogami.">
+			 text="{=92JF2pqv}The Date domain, centered in the inland valleys of Northern Japan, has grown into a powerful regional player over generations, although its position has most recently been weakened by a bitter succession dispute. With the domain stablized under the rule of Date Tanemune and his son Harumune, the Date are not yet a dominant power, but their control over fertile plains, mountain fortresses, and key inland routes provides the groundwork for future expansion against neighbouring rivals like the Ashina and Mogami.">
 		<relationships> </relationships>
 		<policies> </policies>
 	</Kingdom>
@@ -425,7 +425,7 @@
 			 short_name="{=4cnmTBU0}Hatakeyama"
 			 title="{=4cnmTBU0}Hatakeyama"
 			 ruler_title="{=tRwThwR8}Daimyo"
-			 text="{=X4zkzPVE}The Hatakeyama domain, once a dominant power during the height of the Ashikaga shogunate, which the Hatakeyama controlled as Kanrei, has fractured into splintered territories across the Kinai region, home to ruling clan, and Hokuriku region, where the Noto branch of the Hatakeyama clan maintains a tenuous grasp over their coastal territories. Weakened and divided both geographically and politically, the Hatakeyama domain now faces the risk of disappearing entirely as their former vassals, the Myoshi, seek to expand their control over the capital region, while Uesugi Kenshin casts a long shadow over Noto.">
+			 text="{=X4zkzPVE}The Hatakeyama domain, once a dominant power during the height of the Ashikaga shogunate, which the Hatakeyama controlled as Kanrei, has fractured into splintered territories across the Kinai region, home to ruling clan, and Hokuriku region, where the Noto branch of the Hatakeyama clan maintains a tenuous grasp over their coastal territories. Weakened and divided both geographically and politically, the Hatakeyama domain now faces the risk of disappearing entirely as their former vassals, the Miyoshi, seek to expand their control over the capital region, while Uesugi Kenshin casts a long shadow over Noto.">
 		<relationships> </relationships>
 		<policies> </policies>
 	</Kingdom>
@@ -552,7 +552,7 @@
 			 short_name="{=LE5jbPP4}Amago"
 			 title="{=LE5jbPP4}Amago"
 			 ruler_title="{=tRwThwR8}Daimyo"
-			 text="{=VwQITTl2}The Amago domain rose to power under the leadership of Amago Haruhisa, whose aggressive campaigns challenged the ouchi and Mori clans for supremacy over western Japan. Once a dominant force in the Sanyo region, however, the Amago domain almost completely collapsed after the death of Haruhisa, its lands carved up by their former enemies and vassals alike. Now scattered and weakened, the last hope of the Amago now lies with Amago Katsuhisa, a former monk who has turned into a claimant and has begun to rally remnants of the clan and loyal warriors, seeking to reclaim their lost honour and territory.">
+			 text="{=VwQITTl2}The Amago domain rose to power under the leadership of Amago Haruhisa, whose aggressive campaigns challenged the Ouchi and Mori clans for supremacy over western Japan. Once a dominant force in the Sanyo region, however, the Amago domain almost completely collapsed after the death of Haruhisa, its lands carved up by their former enemies and vassals alike. Now scattered and weakened, the last hope of the Amago now lies with Amago Katsuhisa, a former monk who has turned into a claimant and has begun to rally remnants of the clan and loyal warriors, seeking to reclaim their lost honour and territory.">
 		<relationships> </relationships>
 		<policies> </policies>
 	</Kingdom>

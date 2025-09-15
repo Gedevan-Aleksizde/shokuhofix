@@ -723,7 +723,7 @@
 			<name name="{=46fsk7gw}Asou"/>
 			<name name="{=JWeFzVlO}Nuki"/>
 			<name name="{=pwYAuMyG}Katsuki"/>
-			<name name="{=YgTsZMc0}Kiroki"/>
+			<name name="{=YgTsZMc0}Kuroki"/>
 			<name name="{=i3yQgaJa}Kusano"/>
 			<name name="{=UeORdILD}Chikushi"/>
 			<name name="{=KssObQt2}Saigo"/>
@@ -7083,7 +7083,7 @@
 			<name name="{=Z3cTeGv7}Esashi"/>
 			<name name="{=DfPq3ube}Kashiyama"/>
 			<name name="{=LQTvwI1K}Rokugo"/>
-			<name name="{=Slnm1ecp}Akaotsu"/>
+			<name name="{=ZXRwWBSj}Akozu"/>
 			<name name="{=7Wx8qIIZ}Uchikoshi"/>
 			<name name="{=09bt9j1U}Yajima"/>
 			<name name="{=kZwk4hVf}Sagae"/>
@@ -7183,7 +7183,7 @@
 
 	<!--Duelist Culture-->
 	<Culture id="duelists"
-			 name="{=1sbJQR4H}Duelists"
+			 name="{=ptsxzysa}Duelists"
 			 elite_basic_troop="NPCCharacter.looter"
 			 basic_troop="NPCCharacter.looter"
 			 is_bandit="false"

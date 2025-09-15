@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Books>
+    <!--Book Xml:
+        Book
+         item - Item Object that coresponds to the book. The name, value, and mesh is based on the Item
+         length - Length in hours it takes to read the book
+         rarity - (common, rare, unique) effects the chance of a book spawning in a temple
+         desc - Text that displays in the book menu
+        Benefit
+         skill - Skill Object that is improved by reading the book
+         exp - the total amount of xp that is gained by reading the book (exp/length = amount of xp gained per hour)
+         finalExp - the chunk of xp gained on finishing book
+         addFocus - if true, adds a focus point to the skill upon completion-->
+    
+    
     <!--Aisukageno-ryū Mokuroku-->
     <Book id="book_1" item="Item.book_1" length="120" rarity="unique" desc="{=Sa9X6NnL}A scroll filled with techniques and diagrams of swordsmanship in the Kage-ryū style. Developed in 1438 by Aisu Hisatada, Kage-ryū has established itself as one of the three major origins for the evolution of sword based-martial arts." addFreeFocus="true">
         <Benefit skill="Skill.OneHanded" exp="40000" finalExp="4000" addFocus="true"/>
@@ -104,7 +117,7 @@
     <Book id="book_22" item="Item.book_22" length="142" rarity="unique" desc="{=3zsuNC4G}A set of scrolls describing the art of gunnery of the Kishiwada-ryū school of gunnery, written by Yoshida Morisada. The book details proper firing techniques and gunpowder recipes. The scroll also includes many descriptions from a spiritual perspective, linking guns with esoteric Buddhism and the role of guns in expelling evil demons" addFreeFocus="true">
         <Benefit skill="Skill.Crossbow" exp="42000" finalExp="5000" addFocus="true"/>
     </Book>
-    <!--Hyakukanshō							We might want to change the next 5 from athletics, they are buddhist texts-->
+    <!--Hyakukanshō-->
     <Book id="book_23" item="Item.book_23" length="264" rarity="unique" desc="{=2wY88rzX}A scroll containing over three decades of esoteric iconography and scriptures, assembled by Kintaibō Kakuzen. Contains over one hundred volumes and is one of the largest collections of its kind." addFreeFocus="true">
         <Benefit skill="Skill.Athletics" exp="40000" finalExp="5000" addFocus="true"/>
     </Book>
@@ -132,8 +145,8 @@
     <Book id="book_29" item="Item.book_29" length="94" rarity="common" desc="{=EwYMTiHV}A scroll containing a list of names of katana smiths by region. Includes each smith’s inscriptions, weapon characteristics, anecdotes, and genealogical information." addFreeFocus="false">
         <Benefit skill="Skill.Crafting" exp="24000" finalExp="2500" addFocus="false"/>
     </Book>
-    <!--Oujyakushū-->
-    <Book id="book_30" item="Item.book_30" length="106" rarity="common" desc="{=b5wKRFvG}A book finished by Saitō Toshimasa, started by his father, that covers around eight hundred forty Katana. Includes Katana from Awataguchi, Soshu, Chugoku-Shikoku, Hokuriku, Bizen-Bicchu, and Kyushu." addFreeFocus="false">
+    <!--Ōsekishū-->
+    <Book id="book_30" item="Item.book_30" length="106" rarity="common" desc="{=b5wKRFvG}A book finished by Saitō Toshimasa, started by his father, that covers around eight hundred forty Katana. Includes Katana from Awataguchi, Soshu, Chugoku-Shikoku, Hokuriku, Bizen-Bitchū, and Kyushu." addFreeFocus="false">
         <Benefit skill="Skill.Crafting" exp="21000" finalExp="2300" addFocus="false"/>
     </Book>
     <!--Eiroku meizukushi-->
@@ -254,10 +267,10 @@
         <Benefit skill="Skill.Leadership" exp="25000" finalExp="2500" addFocus="true"/>
     </Book>
     <!--Sogamonogatari-->
-    <Book id="book_58" item="Item.book_58" length="122" rarity="common" desc="{=eT7w6xyJ}A Kamukura period biographical story based on the revenge of the Soga brothers in Fujino. Written in the style of a military history treatise." addFreeFocus="false">
+    <Book id="book_58" item="Item.book_58" length="122" rarity="common" desc="{=eT7w6xyJ}A Kamakura period biographical story based on the revenge of the Soga brothers in Fujino. Written in the style of a military history treatise." addFreeFocus="false">
         <Benefit skill="Skill.Leadership" exp="19500" finalExp="2000" addFocus="false"/>
     </Book>
-    <!--Shisho-gokyō (4 books and 5 classics, might need extra benefits-->
+    <!--Shisho-gokyō-->
     <Book id="book_59" item="Item.book_59" length="122" rarity="unique" desc="{=XflIVwxR}A collection of four books on Confucious thought and five books on assorted poems, documents, rites, and other texts. It was possibly compiled in some way by Confucious himself." addFreeFocus="true">
         <Benefit skill="Skill.Leadership" exp="35000" finalExp="5000" addFocus="true"/>
     </Book>
@@ -342,7 +355,7 @@
         <Benefit skill="Skill.Medicine" exp="32000" finalExp="3000" addFocus="true"/>
     </Book>
     <!--Keitekishu-->
-    <Book id="book_78" item="Item.book_78" length="163" rarity="unique" desc="{=PtJNY3zY}A set of eight volumes on diseases and treatments by Manaze Dōzan. Contains information on diverse etiologies from ancient and modern Chinese sources and is vital for the cataloging and treating of numerous ailments across Japan." addFreeFocus="false">
+    <Book id="book_78" item="Item.book_78" length="163" rarity="unique" desc="{=PtJNY3zY}A set of eight volumes on diseases and treatments by Manase Dōsan. Contains information on diverse etiologies from ancient and modern Chinese sources and is vital for the cataloging and treating of numerous ailments across Japan." addFreeFocus="false">
         <Benefit skill="Skill.Medicine" exp="36000" finalExp="3500" addFocus="true"/>
     </Book>
     <!--Chikujyōki-->

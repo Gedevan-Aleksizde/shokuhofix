@@ -3,7 +3,8 @@
 	<!--player faction-->
 	<!--Saionji Kingdom clans-->
 	<Faction id="clan_saionji_1" is_noble="true" name="{=wApBgknq}Saionji-shi" tier="5" owner="Hero.lord_1_saionji" culture="Culture.nankai" super_faction="Kingdom.saionji" banner_key="11.163.166.1528.1528.764.764.1.0.0.623.171.171.483.483.764.764.0.0.0"/>
-	<Faction id="clan_kashuji_1" is_noble="true" name="{=fjHaaIVW}Kashuji-shi" tier="4" owner="Hero.lord_1_kashuji" culture="Culture.nankai" super_faction="Kingdom.saionji" banner_key="11.163.166.1528.1528.764.764.1.0.0.624.171.171.483.483.764.764.0.0.0"/>
+	<!--fixed typo in clan Kajuji, do not change id-->
+	<Faction id="clan_kashuji_1" is_noble="true" name="{=fjHaaIVW}Kajuji-shi" tier="4" owner="Hero.lord_1_kashuji" culture="Culture.nankai" super_faction="Kingdom.saionji" banner_key="11.163.166.1528.1528.764.764.1.0.0.624.171.171.483.483.764.764.0.0.0"/>
 	<Faction id="clan_hoketsu_1" is_noble="true" name="{=PpQpwq85}Hoketsu-shi" tier="3" owner="Hero.lord_1_hoketsu" culture="Culture.nankai" super_faction="Kingdom.saionji" banner_key="11.163.166.1528.1528.764.764.1.0.0.814.171.171.483.483.764.764.0.0.0"/>
 	<!--Ichijo kingdom-->
 	<Faction id="clan_ichijo_1" is_noble="true" name="{=B2hBOm0p}Ichijo-shi" tier="5" owner="Hero.lord_1_ichijo" culture="Culture.nankai" super_faction="Kingdom.ichijo" banner_key="11.163.166.1528.1528.764.764.1.0.0.626.171.171.483.483.764.764.0.0.0"/>

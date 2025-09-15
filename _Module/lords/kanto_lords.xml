@@ -993,9 +993,9 @@
       <EquipmentSet id="kanto_civ_template_default_male" civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <!-- Didoji Clan -->
+  <!-- Daidoji Clan (typo fixed in name, dont change id) -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_didoji" name="{=f3MMiYMN}Didoji Masashige" age="35" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_didoji" name="{=f3MMiYMN}Daidoji Masashige" age="35" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="35.00" weight="0.8331" build="0.5892" key="003DD40E80000503A5626588B6B67A5AB17679858CF93788C63849C558899A680369C63506B9B279000000000000000000000000000000000000000022CC00C0"/>
     </face>
@@ -1014,7 +1014,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_didoji_1" name="{=HxDyc3ql}Didoji Shino" age="33" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_didoji_1" name="{=HxDyc3ql}Daidoji Shino" age="33" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="33.00" weight="0.1676" build="0.7389" key="0028E80C400000033F85139D4101A4FE929286BD7A2CE31D793A941388E97BBC075B36790544277C000000000000000000000000000000000000000078AC1041"/>
     </face>
@@ -1032,7 +1032,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son -->
-  <NPCCharacter id="lord_1_didoji_2" name="{=nDpdaTzx}Didoji Naohide" age="16" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_didoji_2" name="{=nDpdaTzx}Daidoji Naohide" age="16" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="16.00" weight="0.3249" build="0.6664" key="0033D40E800001C186767B2878B6654AA3656A6A77FD4788D32977856889AC88027A5624079AA387000000000000000000000000000000000000000010E40101"/>
     </face>
@@ -1051,7 +1051,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son 2 -->
-  <NPCCharacter id="lord_1_didoji_3" name="{=Id4pOfky}Didoji Naoshige" age="0" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_didoji_3" name="{=Id4pOfky}Daidoji Naoshige" age="0" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="0.00" weight="0.4802" build="0.5983" key="0034E40E80000602A4705A498DB86239D3683B895BEA3588C63B56B548999A98037976350799D29A00000000000000000000000000000000000000004AEC0081"/>
     </face>
@@ -1818,7 +1818,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother 3 -->
-  <NPCCharacter id="lord_1_kogakubo_6" name="{=8doVlvNw}Koga-Kubo Iekunu" age="14" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_kogakubo_6" name="{=8doVlvNw}Koga-Kubo Iekuni" age="14" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="14.00" weight="0.141" build="0.8963" key="002EF40E800002C3976275478DB5693C51688A978DD93688D64689B53899AA98037D26350799A259000000000000000000000000000000000000000042DC0041"/>
     </face>
@@ -1893,7 +1893,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Father (dead) -->
-  <NPCCharacter id="dead_lord_1_sano_2" name="{=DkDMVX0S}Sano Tasutsuna" age="72" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_sano_2" name="{=DkDMVX0S}Sano Yasutsuna" age="72" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="72.00" weight="0.7919" build="0.5289" key="0031D80E400002C488738B8726B76859A36869668AB838B9C44696754899CA680678C66707B6A29900000000000000000000000000000000000000003CE40101"/>
     </face>
@@ -2192,7 +2192,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother -->
-  <NPCCharacter id="lord_1_satomi_4" name="{=1VsYAGf0}Satomi Yoshimoto" age="34" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_satomi_4" name="{=1VsYAGf0}Satomi Takamoto" age="34" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="34.00" weight="0.286" build="0.3517" key="001DF00E80000483967777385BB6657A727589879A9D367AC64C77B568899978087546890797A358000000000000000000000000000000000000000070EC0103"/>
     </face>
@@ -2229,7 +2229,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother 2 -->
-  <NPCCharacter id="lord_1_satomi_6" name="{=ZOyxIYLt}Satomi Yoshitsugu" age="32" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_satomi_6" name="{=ZOyxIYLt}Satomi Takatsugu" age="32" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="32.00" weight="0.4408" build="0.6649" key="0032E00EC00004C1A76458C8ABB76A4973788946A7DD3489C63759C548898B98066A76680697B389000000000000000000000000000000000000000076D40043"/>
     </face>
@@ -2655,7 +2655,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son -->
-  <NPCCharacter id="lord_2_sakai_2" name="{=JgzJTQRD}Sakai Yasuhara" age="22" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_2_sakai_2" name="{=JgzJTQRD}Sakai Yasuharu" age="22" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.00" weight="0.2654" build="0.5208" key="0029C40E80000481A7626797BAB7799B72784B699B9E3ABBD33A89B56899A9880868468906A9A288000000000000000000000000000000000000000058DC0083"/>
     </face>
@@ -3482,7 +3482,7 @@
   </NPCCharacter>
   <!-- Nasu Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_nasu" name="{=oRMj5Dw4}Nasu Suketana" age="43" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_nasu" name="{=oRMj5Dw4}Nasu Suketane" age="43" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kanto" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="43.00" weight="0.8128" build="0.8121" key="002FC40EC0000343B6728A4747A4664BA1785B75A9EA4A7AD6379C7538A9BB68047CC64607B9829B00000000000000000000000000000000000000005ADC0042"/>
     </face>

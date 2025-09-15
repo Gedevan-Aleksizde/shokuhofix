@@ -430,7 +430,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Mother (dead) -->
-  <NPCCharacter id="dead_lord_1_bessho_3" name="{=dO3CawFk}Bessho Masu" age="55" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="dead_lord_1_bessho_3" name="{=dO3CawFk}Bessho Nanzen-in" age="55" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="55.00" weight="0.0906" build="0.9307" key="0036D80E40000004878CB3BF9E1D7E1652F6829B0830A373AC36189F8ACA4A69076E16780637877C000000000000000000000000000000000000000024C40100"/>
     </face>
@@ -486,7 +486,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son 3 -->
-  <NPCCharacter id="lord_1_bessho_6" name="{=nbMsupjp}Kuroda Nagamasa" age="7" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_bessho_6" name="{=19IdACYb}Bessho Harusada" age="7" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="7.00" weight="0.7802" build="0.6972" key="0023CC0E80000043A47858883CB76A7A52766A596AEE3499D549B5855889DA78086AC68906B9C38700000000000000000000000000000000000000004ACC0040"/>
     </face>
@@ -1573,7 +1573,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Brother 2 -->
-  <NPCCharacter id="lord_1_hatakeyama_6" name="{=ACqEvloB}Hatakeyama Masanao" age="34" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hatakeyama_6" name="{=ACqEvloB}Hatakeyama Masahisa" age="34" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="34.00" weight="0.2537" build="0.1561" key="002FE40E4000000296636938B8B8697A72756A68ACC8466CC328674548899E880A7246A208A8A397000000000000000000000000000000000000000076EC0041"/>
     </face>
@@ -2027,7 +2027,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son 2 -->
-  <NPCCharacter id="lord_1_rokkaku_4" name="{=0TCCnJ52}Rokkaku Tomonaga" age="21" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_rokkaku_4" name="{=0TCCnJ52}Rokkaku Yoshisada" age="21" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="21.00" weight="0.5088" build="0.738" key="0037F40E80000702946155692CA6575971773B7A8CB8459AC23A88D56899BA88047B864507AA833700000000000000000000000000000000000000002CEC0100"/>
     </face>
@@ -2479,7 +2479,7 @@
   </NPCCharacter>
   <!-- Akao Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_akao" name="{=WvVFYg9z}Akao Kiyotsuma" age="54" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_akao" name="{=WvVFYg9z}Akao Kiyotsuna" age="54" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="54.00" weight="0.8008" build="0.8663" key="0023DC0EC00001C2877168968CC8777BB3696A96A78B469BD239888538A99E88057DC65607D9739A000000000000000000000000000000000000000058EC00C0"/>
     </face>

@@ -115,7 +115,7 @@
         </Materials>
     </CraftingPiece>
     <CraftingPiece id="sho_yari_blade_6"
-                   name="{=25Oe4cqK}Simple Yagi Yari Blade"
+                   name="{=25Oe4cqK}Simple Kagi Yari Blade"
                    tier="2"
                    piece_type="Blade"
                    mesh="sho_yari_blade_16"
@@ -293,7 +293,7 @@
         </Materials>
     </CraftingPiece>
     <CraftingPiece id="sho_yari_blade_16"
-                   name="{=jv16YJLV}Yagi Yari Blade"
+                   name="{=jv16YJLV}Kagi Yari Blade"
                    tier="4"
                    piece_type="Blade"
                    mesh="sho_yari_blade_6"

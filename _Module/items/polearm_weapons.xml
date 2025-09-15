@@ -285,7 +285,7 @@
         </Pieces>
     </CraftedItem>
     <CraftedItem id="sho_yari_6"
-                 name="{=wBHTjf0g}Crude Yagi Yari"
+                 name="{=wBHTjf0g}Crude Kagi Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>
@@ -318,7 +318,7 @@
     </CraftedItem>
 
     <CraftedItem id="sho_yari_8"
-                 name="{=gchwJFj5}Old Kami Yari"
+                 name="{=gchwJFj5}Old Kama Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>
@@ -334,7 +334,7 @@
         </Pieces>
     </CraftedItem>
     <CraftedItem id="sho_yari_9"
-                 name="{=MRHmgVUe}Simple Sahaso Yari"
+                 name="{=MRHmgVUe}Simple Sasaho Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>
@@ -366,7 +366,7 @@
         </Pieces>
     </CraftedItem>
     <CraftedItem id="sho_yari_11"
-                 name="{=mg35aEMk}Long Kami Yari"
+                 name="{=mg35aEMk}Long Kama Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>
@@ -382,7 +382,7 @@
         </Pieces>
     </CraftedItem>
     <CraftedItem id="sho_yari_12"
-                 name="{=YDxvbE82}Sahaso Yari"
+                 name="{=YDxvbE82}Sasaho Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>
@@ -561,7 +561,7 @@
 
 
     <CraftedItem id="sho_yari_23"
-                 name="{=WPxY0RTQ}Venerable Omi Yari"
+                 name="{=WPxY0RTQ}Venerable Jumonji Yari"
                  crafting_template="SHO_Yari"
                  modifier_group="polearm">
         <Pieces>

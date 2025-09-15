@@ -105,7 +105,7 @@
 	<Hero id="lord_1_kasai_3" faction="Faction.clan_kasai_1" father="Hero.lord_1_kasai" mother="Hero.lord_1_kasai_1" text="{=uLgRyxxy}Kasai Nobuhide"/>
 	<!--Iwaki Clan-->
 	<Hero id="lord_1_iwaki" faction="Faction.clan_iwaki_1" spouse="Hero.lord_1_iwaki_1" father="Hero.lord_1_iwaki_2" mother="Hero.lord_1_iwaki_3" text="{=qyv1DVLK}Iwaki Chikataka"/>
-	<Hero id="lord_1_iwaki_1" faction="Faction.clan_iwaki_1" spouse="Hero.lord_1_iwaki" text="{=zS1xCtvl}Iwaki Kieju-in"/>
+	<Hero id="lord_1_iwaki_1" faction="Faction.clan_iwaki_1" spouse="Hero.lord_1_iwaki" text="{=zS1xCtvl}Iwaki Keiju-in"/>
 	<Hero id="lord_1_iwaki_2" faction="Faction.clan_iwaki_1" spouse="Hero.lord_1_iwaki_3" text="{=A91ldYIn}Iwaki Shigetaka"/>
 	<Hero id="lord_1_iwaki_3" faction="Faction.clan_iwaki_1" spouse="Hero.lord_1_iwaki_2" text="{=OMoDuAqu}Iwaki Jomei-in"/>
 	<Hero id="lord_1_iwaki_4" faction="Faction.clan_iwaki_1" father="Hero.lord_1_iwaki" mother="Hero.lord_1_iwaki_1" text="{=uGlEqEJX}Iwaki Tsunetaka"/>
@@ -133,7 +133,7 @@
 	<!--Ujiie Clan-->
 	<Hero id="lord_1_ujiie" faction="Faction.clan_ujiie_1" spouse="Hero.lord_1_ujiie_1" text="{=6AupeJ2N}Ujiie Morimune"/>
 	<Hero id="lord_1_ujiie_1" faction="Faction.clan_ujiie_1" spouse="Hero.lord_1_ujiie" text="{=tY6vS3gw}Ujiie Satsuki"/>
-	<Hero id="lord_1_ujiie_2" faction="Faction.clan_ujiie_1" father="Hero.lord_1_ujiie" mother="Hero.lord_1_ujiie_1" text="{=KqISOYEY}Ujiie Mitsumune"/>
+	<Hero id="lord_1_ujiie_2" faction="Faction.clan_ujiie_1" father="Hero.lord_1_ujiie" mother="Hero.lord_1_ujiie_1" text="{=KqISOYEY}Ujiie Akimune"/>
 	<!--Nobesawa Clan-->
 	<Hero id="lord_1_nobesawa" faction="Faction.clan_nobesawa_1" spouse="Hero.lord_1_nobesawa_1" text="{=ZbVonqWL}Nobesawa Mitsunobu"/>
 	<Hero id="lord_1_nobesawa_1" faction="Faction.clan_nobesawa_1" spouse="Hero.lord_1_nobesawa" text="{=D0DDSMQY}Nobesawa Yone"/>

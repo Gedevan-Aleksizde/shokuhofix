@@ -1089,8 +1089,8 @@
 						 ready_action="act_ready_crossbow"
 						 release_action="act_release_crossbow"
 						 ready_continue_ranged_action="act_ready_continue_crossbow"
-						 reload_action="act_reload_crossbow_horseback"
-						 reload_continue_action="act_reload_crossbow_continue_horseback"
+						 reload_action="act_reload_musket_crouched"
+						 reload_continue_action="act_reload_musket_continue_crouched"
 						 is_mounted="True"
 						 require_free_left_hand="False"
 						 strike_type="thrust" />

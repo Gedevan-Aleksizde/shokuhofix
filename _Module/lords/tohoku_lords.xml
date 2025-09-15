@@ -493,7 +493,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son 2 -->
-  <NPCCharacter id="lord_1_soma_3" name="{=l7TOWvmc}Soma Taketane" age="17" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_soma_3" name="{=l7TOWvmc}Sōma Takatane" age="17" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="17.00" weight="0.6847" build="0.5773" key="0026F00E80000001956079C9A9B5727B82767965BBFA497BC53D987558A9AC780269A62406D8A28A000000000000000000000000000000000000000046D40040"/>
     </face>
@@ -1377,7 +1377,7 @@
   </NPCCharacter>
   <!-- Osaki Clan -->
   <!-- Leader -->
-  <NPCCharacter id="lord_1_osaki" name="{=CS8KPrQ8}Osaki Yoshitaki" age="20" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_osaki" name="{=CS8KPrQ8}Osaki Yoshitaka" age="20" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="20.00" weight="0.2807" build="0.7933" key="003DEC0EC00001C2A56678875BB5597B92755A5938FB4577D33C9A554889BD88047C46450798D34B000000000000000000000000000000000000000072DC0143"/>
     </face>
@@ -1547,7 +1547,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Spouse -->
-  <NPCCharacter id="lord_1_iwaki_1" name="{=zS1xCtvl}Iwaki Kieju-in" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_iwaki_1" name="{=zS1xCtvl}Iwaki Keiju-in" age="28" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="28.00" weight="0.2956" build="0.7349" key="0038E80A80000005C48E2655CAA1C168B6B38406BBCD5D9F74B4566782EB46FD058B4656086630E1000000000000000000000000000000000000000041042101"/>
     </face>
@@ -1998,7 +1998,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son -->
-  <NPCCharacter id="lord_1_ujiie_2" name="{=KqISOYEY}Ujiie Mitsumune" age="10" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_ujiie_2" name="{=KqISOYEY}Ujiie Akimune" age="10" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="10.00" weight="0.5904" build="0.7173" key="0032EC0E400004C1B66376C73BA8645BA2794A5639CC385CC5367CB54899D998036B963506B7A38B00000000000000000000000000000000000000000ACC0082"/>
     </face>
@@ -2378,7 +2378,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son -->
-  <NPCCharacter id="lord_1_sakenobe_2" name="{=iMBlTpJj}Sakenobe hidetsuna" age="5" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_sakenobe_2" name="{=iMBlTpJj}Sakenobe Hidetsuna" age="5" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="5.00" weight="0.385" build="0.6397" key="001FD80E80000081A779567769C5686961684A3578E93899D328BC953889DB88056A665606D8923A00000000000000000000000000000000000000007CD40140"/>
     </face>

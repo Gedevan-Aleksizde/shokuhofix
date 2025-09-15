@@ -503,6 +503,10 @@
     <string id="str_inventory_flag_crossbow" text="{=hggG7KvK}Gun"/>
     <string id="str_inventory_type_6" text="{=c2qY7kKl}Ammo"/>
     <string id="str_inventory_weapon.13" text="{=c2qY7kKl}Ammo"/>
+    <string
+        id="str_inventory_weapon.19"
+        text="{=9FhdRKWu}Throwing Knife" />
+
 
     <!--Village Production Type-->
     <string id="FDSIOIEc" text="{=QTEPkPMO}Rice Farm"/>
@@ -527,7 +531,7 @@
     <string id="XLNwfiAW" text="{=asjzMWJH}Dye Farm"/>
     <string id="A7nI8bl4" text="{=tihrzKPP}Iron Mine"/>
     <string id="eVHlegB3" text="{=QIV930x3}Clay Mine"/>
-    <string id="kDW7M59a" text="{=vZ4xIGZB}Salt Mine"/>
+    <string id="kDW7M59a" text="{=vZ4xIGZB}Salt Evaporation Pond"/>
 
 
     <!--Settlement Shops-->
