@@ -171,33 +171,4 @@
     <xsl:template match="NPCCharacter[@id='mounted_pillager']/@name" ><xsl:attribute name="name">{=C8hwcOdF}Mounted Pillager</xsl:attribute></xsl:template>
     <xsl:template match="NPCCharacter[@id='mounted_ransacker']/@name" ><xsl:attribute name="name">{=J6Yksji5}Mounted Ransacker</xsl:attribute></xsl:template>
     <xsl:template match="NPCCharacter[@id='sp_hermit']/@name" ><xsl:attribute name="name">{=bPHbb7pc}Hermit</xsl:attribute></xsl:template>
-    <!--
-    <xsl:template match="NPCCharacter[@id='nervous_caravanmaster_1']/@name" ><xsl:attribute name="name">{=S9skielR}Nervous Caravanmaster</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='nervous_caravanmaster_2']/@name" ><xsl:attribute name="name">{=S9skielR}Nervous Caravanmaster</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='nervous_caravanmaster_3']/@name" ><xsl:attribute name="name">{=S9skielR}Nervous Caravanmaster</xsl:attribute></xsl:template>
-    -->
-    <!--
-    <xsl:template match="NPCCharacter[@id='cutscene_midwife']/@name" ><xsl:attribute name="name">{=HTLKGRI7}Midwife</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='cutscene_monk']/@name" ><xsl:attribute name="name">{=CvQoBHzQ}Wedding Monk</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='guard_saikai']/@name" ><xsl:attribute name="name">{=HFvtbXSJ}Guard</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='guard_nankai']/@name" ><xsl:attribute name="name">{=HFvtbXSJ}Guard</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='guard_sanyo']/@name" ><xsl:attribute name="name">{=HFvtbXSJ}Guard</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='guard_kinai']/@name" ><xsl:attribute name="name">{=HFvtbXSJ}Guard</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='guard_hokuriku']/@name" ><xsl:attribute name="name">{=HFvtbXSJ}Guard</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='guard_tosan']/@name" ><xsl:attribute name="name">{=HFvtbXSJ}Guard</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='guard_tokai']/@name" ><xsl:attribute name="name">{=HFvtbXSJ}Guard</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='guard_kanto']/@name" ><xsl:attribute name="name">{=HFvtbXSJ}Guard</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='guard_ou']/@name" ><xsl:attribute name="name">{=HFvtbXSJ}Guard</xsl:attribute></xsl:template>
-    -->
-    <!--
-    <xsl:template match="NPCCharacter[@id='prison_guard_saikai']/@name" ><xsl:attribute name="name">{=XgjXfmM1}Prison Guard</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='prison_guard_nankai']/@name" ><xsl:attribute name="name">{=XgjXfmM1}Prison Guard</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='prison_guard_sanyo']/@name" ><xsl:attribute name="name">{=XgjXfmM1}Prison Guard</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='prison_guard_kinai']/@name" ><xsl:attribute name="name">{=XgjXfmM1}Prison Guard</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='prison_guard_hokuriku']/@name" ><xsl:attribute name="name">{=XgjXfmM1}Prison Guard</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='prison_guard_tosan']/@name" ><xsl:attribute name="name">{=XgjXfmM1}Prison Guard</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='prison_guard_tokai']/@name" ><xsl:attribute name="name">{=XgjXfmM1}Prison Guard</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='prison_guard_kanto']/@name" ><xsl:attribute name="name">{=XgjXfmM1}Prison Guard</xsl:attribute></xsl:template>
-    <xsl:template match="NPCCharacter[@id='prison_guard_ou']/@name" ><xsl:attribute name="name">{=XgjXfmM1}Prison Guard</xsl:attribute></xsl:template>
-    -->
 </xsl:stylesheet>

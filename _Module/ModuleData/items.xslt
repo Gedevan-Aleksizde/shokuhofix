@@ -5,18 +5,6 @@
       <xsl:apply-templates select="@*|node()"/>
     </xsl:copy>
   </xsl:template>
-  <!--
-  <xsl:template match="Item[@id='sho_fukinuki_banner']/@name" ><xsl:attribute name="name">{=DHRls4Z8}Fukinuki Banner of Range</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@id='sho_large_sashimono_a']/@name" ><xsl:attribute name="name">{=aDHkLCVu}Banner of Naruto</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@id='sho_large_sashimono_b']/@name" ><xsl:attribute name="name">{=ub8ZUT6a}Banner of Fearsome Violence</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@id='sho_large_sashimono_c']/@name" ><xsl:attribute name="name">{=AInORbTr}Banner of Extreme Violence</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@id='sho_sashimono_large_a']/@name" ><xsl:attribute name="name">{=cGy4pi7l}Banner of Raijin's Fury</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@id='sho_sashimono_large_b']/@name" ><xsl:attribute name="name">{=0Gadzaq8}Banner of Iron Skin</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@id='sho_sashimono_large_c']/@name" ><xsl:attribute name="name">{=drWCtLlz}Banner of Violence</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@id='sho_sashimono_large_d']/@name" ><xsl:attribute name="name">{=jMQBjjFi}Banner of Distinction</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@id='sho_sashimono_large_f']/@name" ><xsl:attribute name="name">Banner</xsl:attribute></xsl:template>
-  -->
-  
   <xsl:template match="Item[@id='book_1']/@name" ><xsl:attribute name="name">{=7HHrUYJL}Aisu Kageno-ryū Mokuroku</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_2']/@name" ><xsl:attribute name="name">{=YYOAy662}Shintou-ryū Gokui Kaidensho</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_3']/@name" ><xsl:attribute name="name">{=DIXsxyaD}Shinkage-ryū Kagemokuroku</xsl:attribute></xsl:template>
@@ -28,16 +16,13 @@
   <xsl:template match="Item[@id='book_9']/@name" ><xsl:attribute name="name">{=EXkXfJZA}Utsubo No Shidai</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_10']/@name" ><xsl:attribute name="name">{=je3n5qAB}Shishiashi No Shidai</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_11']/@name" ><xsl:attribute name="name">{=6ojmtwR3}Baizoushi</xsl:attribute></xsl:template>
-  <!--<xsl:template match="Item[@id='book_12']/@name" ><xsl:attribute name="name">{=pB9o3dAO}Baidensho</xsl:attribute></xsl:template>-->
   <xsl:template match="Item[@id='book_13']/@name" ><xsl:attribute name="name">{=RKFy2nfR}Ryouba Zusetsu</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_14']/@name" ><xsl:attribute name="name">{=RukLXS5c}Tazuna No Koto</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_15']/@name" ><xsl:attribute name="name">{=Fc6fFeIM}Yabusame Shidai</xsl:attribute></xsl:template>
-  <!--<xsl:template match="Item[@id='book_16']/@name" ><xsl:attribute name="name">{=PHjULD4d}Kasagakeki</xsl:attribute></xsl:template>-->
   <xsl:template match="Item[@id='book_17']/@name" ><xsl:attribute name="name">{=FBLYEYkh}Kishahishou</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_18']/@name" ><xsl:attribute name="name">{=3qyIiLlH}Teppou Yakunokata Narabini Chougou Shidai</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_19']/@name" ><xsl:attribute name="name">{=8qvAXz9z}Tamagusuri Chougou Shidai</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_20']/@name" ><xsl:attribute name="name">{=zHV5iFpv}Tamakoshirae No Koto</xsl:attribute></xsl:template>
-  <!--<xsl:template match="Item[@id='book_21']/@name" ><xsl:attribute name="name">{=AD9DmG2I}Shidennoshū</xsl:attribute></xsl:template>-->
   <xsl:template match="Item[@id='book_22']/@name" ><xsl:attribute name="name">{=geRKOU03}Teppou Meate No Daiji</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_23']/@name" ><xsl:attribute name="name">{=0cxuFVQZ}Hyakukanshou</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_24']/@name" ><xsl:attribute name="name">{=MDUF6dFs}Asabashou</xsl:attribute></xsl:template>
@@ -51,13 +36,7 @@
   <xsl:template match="Item[@id='book_32']/@name" ><xsl:attribute name="name">{=Bgdi8AOs}Shozan Engi</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_33']/@name" ><xsl:attribute name="name">{=7JBmkj8x}Toukankikou</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_34']/@name" ><xsl:attribute name="name">{=kwdX0sXa}Kaidouki</xsl:attribute></xsl:template>
-  <!--<xsl:template match="Item[@id='book_35']/@name" ><xsl:attribute name="name">{=DzRtTokT}Izayoi Nikki</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@id='book_36']/@name" ><xsl:attribute name="name">{=IGw1F6NE}Kaikoku Zakki</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@id='book_37']/@name" ><xsl:attribute name="name">{=f9NQFLGe}Zinkokuki</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@id='book_38']/@name" ><xsl:attribute name="name">{=KzzriYoO}Nihon Ikkan</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@id='book_39']/@name" ><xsl:attribute name="name">{=XVSN8760}Kaitou Shokokuki</xsl:attribute></xsl:template>-->
   <xsl:template match="Item[@id='book_40']/@name" ><xsl:attribute name="name">{=xddPDjBw}Tousenkyou</xsl:attribute></xsl:template>
-  <!--<xsl:template match="Item[@id='book_41']/@name" ><xsl:attribute name="name">{=wtuE6Ll9}Sonshi</xsl:attribute></xsl:template>-->
   <xsl:template match="Item[@id='book_42']/@name" ><xsl:attribute name="name">{=yt7Uv0U9}Goshi</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_43']/@name" ><xsl:attribute name="name">{=GXle1JL8}Utsuryoushi</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_44']/@name" ><xsl:attribute name="name">{=M6t6WQ51}Rikutou</xsl:attribute></xsl:template>
@@ -66,23 +45,15 @@
   <xsl:template match="Item[@id='book_47']/@name" ><xsl:attribute name="name">{=pkYCz3JJ}Rieikou Montai</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_48']/@name" ><xsl:attribute name="name">{=Svsj5eBn}Renrihishou</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_49']/@name" ><xsl:attribute name="name">{=G9luekCQ}Azuma Mondou</xsl:attribute></xsl:template>
-  <!--<xsl:template match="Item[@id='book_50']/@name" ><xsl:attribute name="name">{=byz0t5lF}Shinsen Tsukubashū</xsl:attribute></xsl:template>-->
   <xsl:template match="Item[@id='book_51']/@name" ><xsl:attribute name="name">{=AUqLkz89}Teikin'ourai</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_52']/@name" ><xsl:attribute name="name">{=Do2iFyeg}Sekiso Ourai</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_53']/@name" ><xsl:attribute name="name">{=cvVFMBpA}Gyokuenkishou</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_54']/@name" ><xsl:attribute name="name">{=OZkvtG5H}Joushougusou</xsl:attribute></xsl:template>
-  <!--<xsl:template match="Item[@id='book_55']/@name" ><xsl:attribute name="name">{=vCxWE1Mz}Heike Monogatari</xsl:attribute></xsl:template>-->
-  <!--<xsl:template match="Item[@id='book_56']/@name" ><xsl:attribute name="name">{=XHu6RqD5}Gikeiki</xsl:attribute></xsl:template>-->
-  <!--<xsl:template match="Item[@id='book_57']/@name" ><xsl:attribute name="name">{=6ciNxHnD}Taiheiki</xsl:attribute></xsl:template>-->
-  <!--<xsl:template match="Item[@id='book_58']/@name" ><xsl:attribute name="name">{=sPKN0rSw}Sogamonogatari</xsl:attribute></xsl:template>-->
   <xsl:template match="Item[@id='book_59']/@name" ><xsl:attribute name="name">{=66235LB1}Shisho-Gokyou</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_60']/@name" ><xsl:attribute name="name">{=GzpOzopK}Wamyou Ruijushou</xsl:attribute></xsl:template>
-  <!--<xsl:template match="Item[@id='book_61']/@name" ><xsl:attribute name="name">{=iWBtmfhY}Chiribukuro</xsl:attribute></xsl:template>-->
   <xsl:template match="Item[@id='book_62']/@name" ><xsl:attribute name="name">{=VEuXwb4n}Shūgaishou</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_63']/@name" ><xsl:attribute name="name">{=8nWqHiiH}Kagakushū</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_64']/@name" ><xsl:attribute name="name">{=0OzFc2Cb}Setuyoushū</xsl:attribute></xsl:template>
-  <!--<xsl:template match="Item[@id='book_65']/@name" ><xsl:attribute name="name">{=IAfPmCEO}Kaisenshikimoku</xsl:attribute></xsl:template>-->
-  <!--<xsl:template match="Item[@id='book_66']/@name" ><xsl:attribute name="name">{=gfTwgNWr}Goseibaishikimoku</xsl:attribute></xsl:template>-->
   <xsl:template match="Item[@id='book_67']/@name" ><xsl:attribute name="name">{=sAs2rbg4}Sikimokushou</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_68']/@name" ><xsl:attribute name="name">{=rQ1RiaVi}Asakura Kagetaka Joujou</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_69']/@name" ><xsl:attribute name="name">{=vLNuXwK3}Jinkaishū</xsl:attribute></xsl:template>
@@ -93,8 +64,6 @@
   <xsl:template match="Item[@id='book_74']/@name" ><xsl:attribute name="name">{=dWCGYQD6}Ishinpou</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_75']/@name" ><xsl:attribute name="name">{=ZvOqsITf}Ton'ishou</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_76']/@name" ><xsl:attribute name="name">{=3qPZwQmw}Man'anpou</xsl:attribute></xsl:template>
-  <!--<xsl:template match="Item[@id='book_77']/@name" ><xsl:attribute name="name">{=RZNHzUvJ}Ishotaizen</xsl:attribute></xsl:template>-->
-  <!--<xsl:template match="Item[@id='book_78']/@name" ><xsl:attribute name="name">{=TIBuEAb7}Keitekishū</xsl:attribute></xsl:template>-->
   <xsl:template match="Item[@id='book_79']/@name" ><xsl:attribute name="name">{=gQb6YCnw}Chikujouki</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='book_80']/@name" ><xsl:attribute name="name">{=vlCFfp1l}Bukeisouyou</xsl:attribute></xsl:template>
 
@@ -186,19 +155,6 @@
   <xsl:template match="Item[@id='sho_horse_oni_11']/@name" ><xsl:attribute name="name">{=doY2Vmiy}Oni Tochigurige{@Plural}Dark Brown Nanbu Horses{\@}</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='sho_horse_oni_12']/@name" ><xsl:attribute name="name">{=kfdafaMt}Oni Kurikasuge{@Plural}Light Brown Nanbu Horses{\@}</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='sho_horse_oni_13']/@name" ><xsl:attribute name="name">{=k7PLhmXC}Oni Samege{@Plural}Cream Nanbu Horses{\@}</xsl:attribute></xsl:template>
-  
-  <!--
-  <xsl:template match="Item[@name='{=Bnhchkdv}Ornate Tsutsu Suneate']/@name" ><xsl:attribute name="name">{=Bnhchkdv}Ornate Tsutsu Suneate</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@name='{=BTbFe7YS}Tateage Shino Suneate']/@name" ><xsl:attribute name="name">{=BTbFe7YS}Tateage Shino Suneate</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@name='{=ZEAspayX}Shino Suneate']/@name" ><xsl:attribute name="name">{=ZEAspayX}Shino Suneate</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@name='{=w7ublENG}Barefoot Cloth Suneate']/@name" ><xsl:attribute name="name">{=w7ublENG}Barefoot Cloth Suneate</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@name='{=pp01Hcyc}Cloth Suneate']/@name" ><xsl:attribute name="name">{=pp01Hcyc}Cloth Suneate</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@name='{=TcYIXW4C}Tsutsu Suneate']/@name" ><xsl:attribute name="name">{=TcYIXW4C}Tsutsu Suneate</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@name='{=uvzoh6Ri}Fur Tsutsu Suneate']/@name" ><xsl:attribute name="name">{=uvzoh6Ri}Fur Tsutsu Suneate</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@name='{=E2QlAoyf}Mail Tsutsu Suneate']/@name" ><xsl:attribute name="name">{=E2QlAoyf}Mail Tsutsu Suneate</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@name='{=jtXzAqSU}Fur Mail Tsutsu Suneate']/@name" ><xsl:attribute name="name">{=jtXzAqSU}Fur Mail Tsutsu Suneate</xsl:attribute></xsl:template>
-  -->
-
   <xsl:template match="Item[@id='rice']/@name" ><xsl:attribute name="name">{=e2b5I0ph}Rice{@Plural}loads of rice{\@}</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='soybeans']/@name" ><xsl:attribute name="name">{=u9uJ9vFm}Soybeans{@Plural}loads of soybeans{\@}</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='perilla']/@name" ><xsl:attribute name="name">{=gVjlpiFD}Perilla{@Plural}loads of perilla{\@}</xsl:attribute></xsl:template>
@@ -302,85 +258,7 @@
   <xsl:template match="Item[@name='{=e3la5uPS}Yukinoshita Do']/@name" ><xsl:attribute name="name">{=e3la5uPS}Yukinoshita Dou</xsl:attribute></xsl:template>
   <xsl:template match="Item[@name='{=TsWFLwTv}Yukinoshita Do Haidate']/@name" ><xsl:attribute name="name">{=TsWFLwTv}Yukinoshita Dou Haidate</xsl:attribute></xsl:template>
 
-  <!-- #region axe_weapons.xml -->
-
-  <!--<xsl:template match="CraftedItem[@name='{=Bcg6BahH}Samurai Axe']/@name" ><xsl:attribute name="name">{=Bcg6BahH}Inome Ono Axe</xsl:attribute></xsl:template>-->
-  <!-- #endregion axe_weapons.xml -->
-  <!-- #region crafted_items.xml -->
   <xsl:template match="CraftedItem[@id='execution_axe']/@name" ><xsl:attribute name="name">{=je5Ijhzi}Execution Sword</xsl:attribute></xsl:template>
-  <!-- #endregion crefted_items.xml -->
-  <!-- #region katana_weapons.xml -->
-  <!--
-  <xsl:template match="Item[@id='sho_katana_training']/@name" ><xsl:attribute name="name">{=E5L8zSrM}Training Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_training_1']/@name" ><xsl:attribute name="name">{=8BLJ7tEJ}Blunted Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_training_2']/@name" ><xsl:attribute name="name">{=8BLJ7tEJ}Blunted Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_1']/@name" ><xsl:attribute name="name">{=mBR3AsWm}Dull Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_2']/@name" ><xsl:attribute name="name">{=7aUj72qK}Makeshift Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_3']/@name" ><xsl:attribute name="name">{=MbKvPvYH}Old Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_4']/@name" ><xsl:attribute name="name">{=qAeOqEfi}Crude Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_5']/@name" ><xsl:attribute name="name">{=6JUD7YaO}Simple Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_6']/@name" ><xsl:attribute name="name">{=UMBOj05N}Cheap Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_7']/@name" ><xsl:attribute name="name">{=CkUDAF1H}Decent Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_8']/@name" ><xsl:attribute name="name">{=Ywc23O0H}Plain Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_9']/@name" ><xsl:attribute name="name">{=1N8vmmt0}Robust Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_10']/@name" ><xsl:attribute name="name">{=yDvQJibW}Solid Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_11']/@name" ><xsl:attribute name="name">{=gQmVwgif}Quality Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_12']/@name" ><xsl:attribute name="name">{=HsKHrObU}Excellent Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_13']/@name" ><xsl:attribute name="name">{=juKNNx88}Superior Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_14']/@name" ><xsl:attribute name="name">{=AqqOlzyn}Elegant Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_15']/@name" ><xsl:attribute name="name">{=UAEmZT2R}Superb Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_16']/@name" ><xsl:attribute name="name">{=Kz8V2sVu}Rare Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_17']/@name" ><xsl:attribute name="name">{=kLMhnN7c}Refined Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_18']/@name" ><xsl:attribute name="name">{=Z9WHcgrz}Exquisite Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_19']/@name" ><xsl:attribute name="name">{=Qeh5lFPp}Acclaimed Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_20']/@name" ><xsl:attribute name="name">{=XqMCjSRX}Famed Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_21']/@name" ><xsl:attribute name="name">{=FPjvwjlo}Prominent Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_22']/@name" ><xsl:attribute name="name">{=xkWAuUYi}Renowned Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_23']/@name" ><xsl:attribute name="name">{=bYOKujpb}Ordinary Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_24']/@name" ><xsl:attribute name="name">{=QDeSPyGz}Modest Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_25']/@name" ><xsl:attribute name="name">{=M460EDCI}Poor Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_25']/@name" ><xsl:attribute name="name">{=yDvQJibW}Solid Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_26']/@name" ><xsl:attribute name="name">{=sR4razoq}Stable Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_27']/@name" ><xsl:attribute name="name">{=TQfGjvKn}Sturdy Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_28']/@name" ><xsl:attribute name="name">{=9ieHxrqg}Strong Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_29']/@name" ><xsl:attribute name="name">{=sR4razoq}Stable Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_30']/@name" ><xsl:attribute name="name">{=ZIW8Urnh}Balanced Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_31']/@name" ><xsl:attribute name="name">{=wSYyoYhc}Sharp Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_tiger']/@name" ><xsl:attribute name="name">{=QwsCML80}Tiger Fur Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_bear']/@name" ><xsl:attribute name="name">{=6Ey2sWrU}Bear Fur Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_deer']/@name" ><xsl:attribute name="name">{=y8fn9D9l}Deer Hide Katana</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_katana_tanuki']/@name" ><xsl:attribute name="name">{=siP5Zlut}Tanuki Fur Katana</xsl:attribute></xsl:template>
-  -->
-  <!-- #endregion katana_weapons.xml -->
-  <!-- #region nagamaki_weapons.xml -->
-  <!--
-  <xsl:template match="CraftedItem[@id='sho_nagamaki_1']/@name" ><xsl:attribute name="name">{=mrmN9Ssl}Serviceable Nagamaki</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_nagamaki_2']/@name" ><xsl:attribute name="name">{=c4sjBKmH}Solid Nagamaki</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_nagamaki_3']/@name" ><xsl:attribute name="name">{=L5ESquk8}Powerful Nagamaki</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_nagamaki_4']/@name" ><xsl:attribute name="name">{=rl2cupDI}Fabled Nagamaki</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_nagamaki_5']/@name" ><xsl:attribute name="name">{=nrA9Aztc}Rough Nagamaki</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_nagamaki_6']/@name" ><xsl:attribute name="name">{=8f4zEw22}Veteran Nagamaki</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_nagamaki_7']/@name" ><xsl:attribute name="name">{=qNomDOkw}Mythic Nagamaki</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_nagamaki_8']/@name" ><xsl:attribute name="name">{=Coig5PQw}Sharp Nagamaki</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_nagamaki_9']/@name" ><xsl:attribute name="name">{=H89q0cck}Retainer Nagamaki</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_nagamaki_10']/@name" ><xsl:attribute name="name">{=llPuWNMJ}Crude Nagamaki</xsl:attribute></xsl:template>
-  -->
-  <!-- #endregion nagamaki_weapons.xml -->
-  <!-- #region nodachi_weapons.xml -->
-  <!--
-  <xsl:template match="CraftedItem[@id='sho_nodachi_1']/@name" ><xsl:attribute name="name">{=tfWhincm}Solid Curved No-Dachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_nodachi_2']/@name" ><xsl:attribute name="name">{=7sIWrBnu}Renowned Curved No-Dachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_nodachi_3']/@name" ><xsl:attribute name="name">{=QJ4qdK6d}Simple Curved No-Dachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_nodachi_4']/@name" ><xsl:attribute name="name">{=zd318OIO}Reliable Curved No-Dachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_nodachi_5']/@name" ><xsl:attribute name="name">{=FdDnltys}Fabled Straight No-Dachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_nodachi_6']/@name" ><xsl:attribute name="name">{=sVC9Ht6h}Old Straight No-Dachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_nodachi_7']/@name" ><xsl:attribute name="name">{=S3stBthx}Rough Straight No-Dachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_nodachi_8']/@name" ><xsl:attribute name="name">{=hjDclRN3}Solid Straight No-Dachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_nodachi_9']/@name" ><xsl:attribute name="name">{=q2bIcqLi}Crude Straight No-Dachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_nodachi_10']/@name" ><xsl:attribute name="name">{=JstR3q8B}Sharp Curved No-Dachi</xsl:attribute></xsl:template>
-  -->
-  <!-- #endregion nodachi_weapons.xml -->
-  <!-- #region polearm_weapons.xml -->
   <xsl:template match="CraftedItem[@name='{=jqCTZuvY}Simple Omi Yari']/@name" ><xsl:attribute name="name">{=jqCTZuvY}Simple Ōmi Yari</xsl:attribute></xsl:template>
   <xsl:template match="CraftedItem[@name='{=NMpgBieK}Crude Omi Yari']/@name" ><xsl:attribute name="name">{=NMpgBieK}Crude Ōmi Yari</xsl:attribute></xsl:template>
   <xsl:template match="CraftedItem[@name='{=W0vGkIp1}Solid Omi Yari']/@name" ><xsl:attribute name="name">{=W0vGkIp1}Solid Ōmi Yari</xsl:attribute></xsl:template>
@@ -395,67 +273,4 @@
   <xsl:template match="CraftedItem[@name='{=gchwJFj5}Old Kami Yari']/@name" ><xsl:attribute name="name">{=gchwJFj5}Old Kama Yari</xsl:attribute></xsl:template>
   <xsl:template match="CraftedItem[@name='{=mg35aEMk}Long Kami Yari']/@name" ><xsl:attribute name="name">{=mg35aEMk}Long Kama Yari</xsl:attribute></xsl:template>
   <xsl:template match="CraftedItem[@id='{=BCuRcqLL}Kanasaibo']/@name" ><xsl:attribute name="name">{=BCuRcqLL}Kanasaibou</xsl:attribute></xsl:template>
-
-  <!-- #endregion polearm_weapons.xml -->
-  <!-- #region tachi_weapons.xml -->
-  <!--
-  <xsl:template match="CraftedItem[@id='sho_tachi_1']/@name" ><xsl:attribute name="name">{=M9ydEbyA}Dull Tachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_tachi_2']/@name" ><xsl:attribute name="name">{=VCHYYr4t}Rough Tachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_tachi_3']/@name" ><xsl:attribute name="name">{=a2Bix8mL}Simple Tachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_tachi_4']/@name" ><xsl:attribute name="name">{=QxkXXM8Q}Sturdy Tachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_tachi_5']/@name" ><xsl:attribute name="name">{=YrxntvRg}Reliable Tachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_tachi_6']/@name" ><xsl:attribute name="name">{=4kNmSeRQ}Masterwork Tachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_tachi_7']/@name" ><xsl:attribute name="name">{=VCHYYr4t}Rough Tachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_tachi_8']/@name" ><xsl:attribute name="name">{=aU4uZTuf}Deadly Tachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_tachi_9']/@name" ><xsl:attribute name="name">{=fgK91Jpu}Sharp Tachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_tachi_10']/@name" ><xsl:attribute name="name">{=aj6o7vdl}Fabled Tachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_tachi_11']/@name" ><xsl:attribute name="name">{=IbZ9wOCJ}Champion Tachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_tachi_12']/@name" ><xsl:attribute name="name">{=YE7Cdbal}Mythic Tachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_tachi_13']/@name" ><xsl:attribute name="name">{=gULRRBwd}Old Tachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_tachi_14']/@name" ><xsl:attribute name="name">{=R36zCRrS}Decent Tachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_tachi_15']/@name" ><xsl:attribute name="name">{=S0rZvSto}Fierce Tachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_tachi_16']/@name" ><xsl:attribute name="name">{=mXP9SJuy}Powerful Tachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_tachi_17']/@name" ><xsl:attribute name="name">{=HtX8vAHu}Solid Tachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_tachi_18']/@name" ><xsl:attribute name="name">{=U1MhXSc1}Steel Tachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_tachi_19']/@name" ><xsl:attribute name="name">{=dU90Mvo6}Vengeful Tachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_tachi_20']/@name" ><xsl:attribute name="name">{=xGl8nnxJ}Merciless Tachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_tachi_tiger']/@name" ><xsl:attribute name="name">{=6sFVGQKQ}Tiger Fur tachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_tachi_bear']/@name" ><xsl:attribute name="name">{=xdltvfIu}Bear Fur Tachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_tachi_deer']/@name" ><xsl:attribute name="name">{=GXPMYk9j}Deer Hide Tachi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_tachi_tanuki']/@name" ><xsl:attribute name="name">{=j5ZhZQGD}Tanuki Fur Tachi</xsl:attribute></xsl:template>
-  -->
-  <!-- #endregion tachi_weapons.xml -->
-  <!-- #region wakizashi_weapons.xml -->
-  <!--
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_1']/@name" ><xsl:attribute name="name">{=6CxSdwpp}Dull Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_2']/@name" ><xsl:attribute name="name">{=YEXh9UQp}Swift Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_3']/@name" ><xsl:attribute name="name">{=sdcHw4r2}Agile Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_4']/@name" ><xsl:attribute name="name">{=TEGildws}Rough Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_5']/@name" ><xsl:attribute name="name">{=EuZ1al2n}Fierce Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_6']/@name" ><xsl:attribute name="name">{=G06999Op}Stealthy Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_7']/@name" ><xsl:attribute name="name">{=R5nEtBxv}Simple Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_8']/@name" ><xsl:attribute name="name">{=UKADExyn}Deadly Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_9']/@name" ><xsl:attribute name="name">{=sALYhBf1}Vicious Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_10']/@name" ><xsl:attribute name="name">{=0qSeopW3}Old Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_11']/@name" ><xsl:attribute name="name">{=KskhLVCq}Radiant Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_12']/@name" ><xsl:attribute name="name">{=YEXh9UQp}Swift Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_13']/@name" ><xsl:attribute name="name">{=T7zML82Z}Hidden Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_14']/@name" ><xsl:attribute name="name">{=dTGeDvXZ}Powerful Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_15']/@name" ><xsl:attribute name="name">{=XXZLmrJF}Merciless Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_16']/@name" ><xsl:attribute name="name">{=jXRWbQ3J}Fragile Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_17']/@name" ><xsl:attribute name="name">{=8rVwVUFz}Solid Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_18']/@name" ><xsl:attribute name="name">{=dI9OAvuq}Vengeful Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_19']/@name" ><xsl:attribute name="name">{=sDe5Pdt7}Reliable Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_20']/@name" ><xsl:attribute name="name">{=wD1Wx904}Steel Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_21']/@name" ><xsl:attribute name="name">{=kzOMrWFN}Long Dull Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_22']/@name" ><xsl:attribute name="name">{=nz66MB1W}Long Rough Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_23']/@name" ><xsl:attribute name="name">{=yqzz2phd}Long Simple Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_24']/@name" ><xsl:attribute name="name">{=0z5kIzmE}Long Reliable Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_25']/@name" ><xsl:attribute name="name">{=dkHp8Lwi}Long Steel Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_26']/@name" ><xsl:attribute name="name">{=BHpi3XZY}Long Veteran Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_27']/@name" ><xsl:attribute name="name">{=NW51XgB4}Long Fabled Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_28']/@name" ><xsl:attribute name="name">{=KwCaTbns}Long Exquisite Wakizashi</xsl:attribute></xsl:template>
-  <xsl:template match="CraftedItem[@id='sho_wakizashi_training']/@name" ><xsl:attribute name="name">{=P8wsW9Uk}Blunted Wakizashi</xsl:attribute></xsl:template>
-  -->
-  <!-- #endregion wakizahi_weapons.xml -->
 </xsl:stylesheet>
