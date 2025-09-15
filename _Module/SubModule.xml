@@ -1,7 +1,7 @@
 ﻿<Module>
 	<Name value="Shokuho - Text Patch"/>
 	<Id value="Shokuho-text-patch"/>
-	<Version value="v0.15.0"/>
+	<Version value="v0.16.0"/>
 	<DefaultModule value="false"/>
 	<SinglePlayerModule value="true"/>
 	<Official value="false"/>
