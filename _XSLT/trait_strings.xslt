@@ -74,7 +74,7 @@
   <xsl:template match="string[@id='reputation.pitiless']/@text" ><xsl:attribute name="text">{=GMMg8AwD}pitiless</xsl:attribute></xsl:template>
   <xsl:template match="string[@id='reputation.despicable']/@text" ><xsl:attribute name="text">{=URWSOAfG}sadistic</xsl:attribute></xsl:template>
   <xsl:template match="string[@id='reputation.despicable']/@text" ><xsl:attribute name="text">{=UoYPTOPV}treacherous, but at least not cruel</xsl:attribute></xsl:template>
-  <xsl:template match="string[@id='reputation.rogue']/@text" ><xsl:attribute name="text">{=f67C4A79}a bit of a rogue, but a heart of gold</xsl:attribute></xsl:template>
+  <xsl:template match="string[@id='reputation.rogue']/@text" ><xsl:attribute name="text">{=fgkQSbUE}a bit of a rogue, but a heart of gold</xsl:attribute></xsl:template>
   <xsl:template match="string[@id='reputation.ambitious_plus']/@text" ><xsl:attribute name="text">{=52I465OW}ambitious and manipulative</xsl:attribute></xsl:template>
   <xsl:template match="string[@id='reputation.manipulative']/@text" ><xsl:attribute name="text">{=Yyw81AGG}friendly but manipulative</xsl:attribute></xsl:template>
   <xsl:template match="string[@id='reputation.manipulative2']/@text" ><xsl:attribute name="text">{=tc1PuNa8}loyal to friends, but also cruel and manipulative</xsl:attribute></xsl:template>

@@ -59,7 +59,7 @@
   <xsl:template match="string[@id='str_common_area_destroyed']/@text" ><xsl:attribute name="text">{=FZdiWaBs}{HERO}'s common area is captured.</xsl:attribute></xsl:template>
   <xsl:template match="string[@id='str_notification_common_area_fight']/@text" ><xsl:attribute name="text">{=3Ec13d93}{SETTLEMENT}</xsl:attribute></xsl:template>
   <xsl:template match="string[@id='str_notification_secondary_common_area_fight']/@text" ><xsl:attribute name="text">{=cOnCiZeH}{HERO1} attacked {HERO2}'s common area at {SETTLEMENT}{ADDITIONAL_INFO}</xsl:attribute></xsl:template>
-  <xsl:template match="string[@id='str_notification_pregnant']/@text" ><xsl:attribute name="text">{=D1582E49}{MOTHER.LINK} has gotten pregnant.</xsl:attribute></xsl:template>
+  <xsl:template match="string[@id='str_notification_pregnant']/@text" ><xsl:attribute name="text">{=ELFgdGJZ}{MOTHER.LINK} has gotten pregnant.</xsl:attribute></xsl:template>
   <xsl:template match="string[@id='str_notification_give_birth_default']/@text" ><xsl:attribute name="text">{=eMRMptST}{MOTHER.LINK} has given birth.</xsl:attribute></xsl:template>
   <xsl:template match="string[@id='str_notification_give_birth_single_child']/@text" ><xsl:attribute name="text">{=3aYSoETE}{MOTHER.LINK} has given birth to a healthy baby.</xsl:attribute></xsl:template>
   <xsl:template match="string[@id='str_notification_give_birth_single_stillborn']/@text" ><xsl:attribute name="text">{=Bovy7D7s}{MOTHER.LINK} has given birth, but the child was stillborn.</xsl:attribute></xsl:template>

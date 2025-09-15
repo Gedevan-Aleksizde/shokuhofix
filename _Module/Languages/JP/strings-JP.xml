@@ -6,7 +6,7 @@
   <strings>
     <string id="K7VXY1Wi" text="{ITEM}の取引は{FACTION_NAME_1}のご法度に触れる。"/>
     <string id="3Ec13d93" text="{SETTLEMENT}"/>
-    <string id="D1582E49" text="{MOTHER.LINK}は妊娠している"/>
+    <string id="ELFgdGJZ" text="{MOTHER.LINK}は妊娠している"/>
     <string id="38cb50aD" text="{LORD.LINK}"/>
     <string id="Sa9X6NnL" text="陰流の兵法を図説で表した巻物。永享十年(1438年) に陰流始祖である愛洲久忠によって書かれた。陰流は兵法三大源流の一つである。"/>
     <string id="LZgp1XsH" text="飯篠長威斎によって開かれた兵法の一流派で、今や三大流派の一角となった、神道流の技の書かれた巻物である。"/>
@@ -83,11 +83,11 @@
     <string id="PtJNY3zY" text="曲直瀨道三 (まなせどうさん) による病と治療についての八巻の書物。古来から近年の唐土の文献に由来する様々な用語に関する説明を含み、日本の数多の病に関する診断と治療のとって必須の内容となっている。"/>
     <string id="hWxWyNii" text="城の普請の方法と手順に関する諸項目を包括的に記した書物。地形とその複雑さに応じて築城に必要になる材料、人手、技術について書かれている。"/>
     <string id="jXNpbKGC" text="宋朝までに書かれた軍事著作の、曾公亮の編纂集。各巻は一連の軍事知識に関する理論と訓令と、様々な攻城兵器や防衛装置についての記述で埋め尽くされている。"/>
-    <string id="aa66D65e" text="私は{CONVERSATION_CHARACTER.LINK}である。"/>
-    <string id="4E86c472" text="私は{CLAN_NAME}の{CONVERSATION_CHARACTER.LINK}である。"/>
-    <string id="33Aa9F68" text="私は{CLAN_NAME}の{CONVERSATION_CHARACTER.LINK}と申す。そなたと見えたことは光栄に思うぞ。"/>
-    <string id="54a3ae2f" text="私は{CLAN_NAME}の{CONVERSATION_CHARACTER.LINK}と申す。それがしの助力できることがあれば、言うが良い。"/>
-    <string id="860798c0" text="私は{CLAN_NAME}の{CONVERSATION_CHARACTER.LINK}だ。"/>
+    <string id="bDarsOFR" text="私は{CONVERSATION_CHARACTER.LINK}である。"/>
+    <string id="s1FVPS5D" text="私は{CLAN_NAME}の{CONVERSATION_CHARACTER.LINK}である。"/>
+    <string id="LbpdzoRd" text="私は{CLAN_NAME}の{CONVERSATION_CHARACTER.LINK}と申す。そなたと見えたことは光栄に思うぞ。"/>
+    <string id="q5nQGimE" text="私は{CLAN_NAME}の{CONVERSATION_CHARACTER.LINK}と申す。それがしの助力できることがあれば、言うが良い。"/>
+    <string id="bDarsOFR" text="私は{CLAN_NAME}の{CONVERSATION_CHARACTER.LINK}だ。"/>
     <string id="hKRUVU17" text="戦場跡"/>
     <string id="dHyVxYSO" text="鉄炮"/>
     <string id="j6jVT4t8" text="港"/>

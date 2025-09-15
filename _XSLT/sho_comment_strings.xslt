@@ -5,12 +5,12 @@
       <xsl:apply-templates select="@*|node()"/>
     </xsl:copy>
   </xsl:template>
-  <xsl:template match="string[@id='str_comment_noble_introduces_self.saikai']/@text" ><xsl:attribute name="text">{=860798c0}I am {CONVERSATION_CHARACTER.LINK} of the house of {CLAN_NAME}.</xsl:attribute></xsl:template>
+  <xsl:template match="string[@id='str_comment_noble_introduces_self.saikai']/@text" ><xsl:attribute name="text">{=bDarsOFR}I am {CONVERSATION_CHARACTER.LINK} of the house of {CLAN_NAME}.</xsl:attribute></xsl:template>
   <xsl:template match="string[@id='str_comment_noble_introduces_self_and_clan.saikai']/@text" ><xsl:attribute name="text">{=53876b79}I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}. SAIKAI.</xsl:attribute></xsl:template>
   <xsl:template match="string[@id='str_comment_vassal_introduces_self.saikai']/@text" ><xsl:attribute name="text">{=1CBcA948}I am {CONVERSATION_CHARACTER.LINK} of the {CLAN_NAME}, my {?PLAYER.GENDER}lady{?}lord{\?}, SAIKAI.</xsl:attribute></xsl:template>
   <xsl:template match="string[@id='str_comment_vassal_introduces_self.imperial']/@text" ><xsl:attribute name="text">{=K5Fvv504}I am {CONVERSATION_CHARACTER.LINK} of the house of {CLAN_NAME}, my {?PLAYER.GENDER}lady{?}lord{\?}, SAIKAI.</xsl:attribute></xsl:template>
   <xsl:template match="string[@id='str_comment_liege_introduces_self.default']/@text" ><xsl:attribute name="text">{=tOanKs9o}I am {LIEGE_TITLE}.</xsl:attribute></xsl:template>
-  <xsl:template match="string[@id='str_comment_noble_introduces_self.empire']/@text" ><xsl:attribute name="text">{=860798c0}I am {CONVERSATION_CHARACTER.LINK} of the house of {CLAN_NAME}.</xsl:attribute></xsl:template>
+  <xsl:template match="string[@id='str_comment_noble_introduces_self.empire']/@text" ><xsl:attribute name="text">{=bDarsOFR}I am {CONVERSATION_CHARACTER.LINK} of the house of {CLAN_NAME}.</xsl:attribute></xsl:template>
   <xsl:template match="string[@id='str_comment_noble_introduces_self_and_clan.empire']/@text" ><xsl:attribute name="text">{=s1FVPS5D}I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}. EMPIRE SAIKAI.</xsl:attribute></xsl:template>
   <xsl:template match="string[@id='str_comment_noble_introduces_self_and_clan.empire_honor']/@text" ><xsl:attribute name="text">{=LbpdzoRd}I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}. Our family has stood in the Senate and discharged its duties honorably since the first days of the Empire.</xsl:attribute></xsl:template>
   <xsl:template match="string[@id='str_comment_noble_introduces_self_and_clan.empire_mercy']/@text" ><xsl:attribute name="text">{=q5nQGimE}I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}. Though one should not be too proud of one's lineage, I am glad to say that we have always taken seriously our duty to protect the common folk of the Empire.</xsl:attribute></xsl:template>

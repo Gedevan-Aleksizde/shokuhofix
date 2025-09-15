@@ -14,6 +14,7 @@
                                @id='str_inventory_weapon.16' or
                                @id='str_inventory_flag_crossbow' or
 							   @id='str_inventory_type_6' or
-							   @id='str_inventory_weapon.13']"/>
+							   @id='str_inventory_weapon.13' or
+							   @id='str_inventory_weapon.19']"/>
 
 </xsl:stylesheet>

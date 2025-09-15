@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <strings>
 	<!--
   Combos
@@ -592,7 +592,7 @@
 		</tags>
 	</string>
 	<string id="reputation.rogue"
-			text="{=f67C4A79}a bit of a rogue, but a heart of gold">
+			text="{=fgkQSbUE}a bit of a rogue, but a heart of gold">
 		<tags>
 			<tag tag_name="GenerosityTag"
 				 weight="1" />

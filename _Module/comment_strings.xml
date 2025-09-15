@@ -26,38 +26,44 @@
   <!--Fixes the crash when talking to lord. Vanilla sets the introductions on a culture by culture basis. We're overiding it by using .default. All nobles should use these greetings regardless of culture. 
 	The intro dialogues are blank, as they are in voicestrings.xml. I couldn't get them to show up. Hopefully will figure out in the future, but its fine for now. It is known^tm. 
 	There's another known issue where when you first meet a faction leader, the dialogue has some missing variables, but it doesn't break. -->
-  <string id="str_comment_noble_introduces_self.default" text="{=aa66D65e}I am {CONVERSATION_CHARACTER.LINK}.">
-    <tags>
-      <tag tag_name="DefaultTag"/>
-    </tags>
-  </string>
-  <string id="str_comment_noble_introduces_self_and_clan.default" text="{=4E86c472}I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}.">
-    <tags>
-      <tag tag_name="DefaultTag"/>
-    </tags>
-  </string>
-  <string id="str_comment_noble_introduces_self_and_clan.default_honor" text="{=33Aa9F68}I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}. It is an honor to meet you.">
-    <tags>
-      <tag tag_name="DefaultTag"/>
-      <tag tag_name="HonorTag" weight="1"/>
-    </tags>
-  </string>
-  <string id="str_comment_noble_introduces_self_and_clan.default_mercy" text="{=54a3ae2f}I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}. If I can do anything for you, please let me know.">
-    <tags>
-      <tag tag_name="DefaultTag"/>
-      <tag tag_name="MercyTag" weight="1"/>
-    </tags>
-  </string>
-  <string id="str_comment_vassal_introduces_self.default" text="{=L2GbDVja}I am {CONVERSATION_CHARACTER.LINK} of the {CLAN_NAME}, my {?PLAYER.GENDER}lady{?}lord{\?}, and I am honored to serve you.">
-    <tags>
-      <tag tag_name="DefaultTag"/>
-    </tags>
-  </string>
-  <string id="str_comment_vassal_introduces_self.imperial" text="{=K5Fvv504}I am {CONVERSATION_CHARACTER.LINK} of the house of {CLAN_NAME}, my {?PLAYER.GENDER}lady{?}lord{\?}, and I am honored to serve you.">
-    <tags>
-      <tag tag_name="EmpireTag"/>
-    </tags>
-  </string>
+	<string id="str_comment_noble_introduces_self.default"
+		text="{=bDarsOFR}I am {CONVERSATION_CHARACTER.LINK}.">
+		<tags>
+			<tag tag_name="DefaultTag" />
+		</tags>
+	</string>
+	<string id="str_comment_noble_introduces_self_and_clan.default"
+		text="{=s1FVPS5D}I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}.">
+		<tags>
+			<tag tag_name="DefaultTag" />
+		</tags>
+	</string>
+	<string id="str_comment_noble_introduces_self_and_clan.default_honor"
+		text="{=LbpdzoRd}I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}. It is an honor to meet you.">
+		<tags>
+			<tag tag_name="DefaultTag" />
+			<tag tag_name="HonorTag"
+				weight="1" />
+		</tags>
+	</string>
+	<string id="str_comment_noble_introduces_self_and_clan.default_mercy"
+		text="{=q5nQGimE}I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}. If I can do anything for you, please let me know.">
+		<tags>
+			<tag tag_name="DefaultTag" />
+			<tag tag_name="MercyTag"
+				weight="1" />
+		</tags>
+	</string>
+	<string id="str_comment_vassal_introduces_self.default" text="{=L2GbDVja}I am {CONVERSATION_CHARACTER.LINK} of the {CLAN_NAME}, my {?PLAYER.GENDER}lady{?}lord{\?}, and I am honored to serve you.">
+		<tags>
+			<tag tag_name="DefaultTag"/>
+		</tags>
+	</string>
+	<string id="str_comment_vassal_introduces_self.imperial" text="{=K5Fvv504}I am {CONVERSATION_CHARACTER.LINK} of the house of {CLAN_NAME}, my {?PLAYER.GENDER}lady{?}lord{\?}, and I am honored to serve you.">
+		<tags>
+			<tag tag_name="EmpireTag"/>
+		</tags>
+	</string>
   <string id="str_comment_liege_introduces_self.default" text="{=tOanKs9o}I am {LIEGE_TITLE}.">
     <tags>
       <tag tag_name="DefaultTag"/>
