@@ -88,8 +88,8 @@
     <string id="33Aa9F68" text="私は{CLAN_NAME}の{CONVERSATION_CHARACTER.LINK}と申す。そなたと見えたことは光栄に思うぞ。"/>
     <string id="54a3ae2f" text="私は{CLAN_NAME}の{CONVERSATION_CHARACTER.LINK}と申す。それがしの助力できることがあれば、言うが良い。"/>
     <string id="860798c0" text="私は{CLAN_NAME}の{CONVERSATION_CHARACTER.LINK}だ。"/>
-    <string id="d2321253" text="父"/>
-    <string id="E1C1a873" text="母"/>
+    <string id="22a9fyiQ" text="父"/>
+    <string id="UB4sqrWx" text="母"/>
     <string id="hKRUVU17" text="戦場跡"/>
     <string id="dHyVxYSO" text="鉄炮"/>
     <string id="j6jVT4t8" text="港"/>
@@ -106,9 +106,9 @@
     <string id="LVOCapM2" text="天台宗"/>
     <string id="mGkLxllp" text="曹洞宗"/>
     <string id="NqLVEEEe" text="浄土真宗"/>
-    <string id="099EA2d4" text="百姓侍"/>
-    <string id="2a3F1373" text="瀬戶内の侍"/>
-    <string id="54206350" text="長槍頭"/>
+    <string id="Mo22PrsD" text="百姓侍"/>
+    <string id="bVEZABKY" text="瀬戶内の侍"/>
+    <string id="uTvwkVrj" text="長槍頭"/>
     <string id="6b49e511" text="南蛮剣士"/>
     <string id="ac337A28" text="野太刀公家侍"/>
     <string id="56E704bF" text="騎馬武者頭"/>
@@ -669,7 +669,7 @@
     <string id="t2wPJnTl" text="北之庄"/>
     <string id="6yl5DIfX" text="平泉寺"/>
     <string id="1a9cEBfe" text="尾山御坊"/>
-    <string id="JyG9eqDR" text="白山"/>
+    <string id="JyG9eqDR" text="牛首"/>
     <string id="6HTGkGwu" text="安宅"/>
     <string id="VPbrsyV3" text="宮腰"/>
     <string id="WYXGfvnF" text="七尾"/>
@@ -693,7 +693,7 @@
     <string id="etBS08Ko" text="表門"/>
     <string id="hKFfL2SM" text="鹽山"/>
     <string id="D5Jcm1JC" text="駿府"/>
-    <string id="F555c76a" text="焼津"/>
+    <string id="rIe40xil" text="小川"/>
     <string id="BUEoaNBS" text="久能寺"/>
     <string id="RLbLgutH" text="清水"/>
     <string id="o7IPA6R2" text="曳馬"/>
@@ -785,11 +785,11 @@
     <string id="9u6MWvx2" text="掛川"/>
     <string id="BAkfKBd7" text="相良湊"/>
     <string id="pP3Z8ZKy" text="井伊谷城"/>
-    <string id="693201cf" text="新井湊"/>
+    <string id="SklAINnF" text="新井湊"/>
     <string id="zulU0Gkq" text="村櫛"/>
     <string id="2chHj54l" text="吉田城"/>
     <string id="Z1I0sr9p" text="牟婁"/>
-    <string id="37059562" text="參河小松原"/>
+    <string id="OVKfZE0B" text="東観音寺"/>
     <string id="OzxYpqps" text="大垣城"/>
     <string id="63YZvplM" text="宮川"/>
     <string id="gVfxpn0b" text="養老"/>
@@ -980,7 +980,7 @@
     <string id="kJ7GSg2b" text="多賀"/>
     <string id="eiBJgTd6" text="甲良"/>
     <string id="VDk55ikU" text="信貴山城"/>
-    <string id="8BeZLj90" text="富雄"/>
+    <string id="BaPSdev3" text="富雄"/>
     <string id="d6koZFZX" text="平群"/>
     <string id="X1XNarZc" text="高屋城"/>
     <string id="H96dzZca" text="久寶寺"/>
@@ -1020,7 +1020,7 @@
     <string id="JrStOL0U" text="大山崎"/>
     <string id="02pX6hRh" text="宇治"/>
     <string id="RmvKSL4R" text="紀州龜山城"/>
-    <string id="1rfay3TH" text="紀州小松原"/>
+    <string id="1rfay3TH" text="小松原"/>
     <string id="HbMqTOlK" text="御坊"/>
     <string id="bbUOxTCp" text="小山"/>
     <string id="j25R8lHH" text="高須"/>
@@ -1061,7 +1061,7 @@
     <string id="0aitRUqP" text="佐留志"/>
     <string id="NjWKX8LI" text="日野江"/>
     <string id="EjeToav7" text="口之津"/>
-    <string id="31c5fbDc" text="神代"/>
+    <string id="cpQhL9ZC" text="神代"/>
     <string id="UxE57P3d" text="濱野"/>
     <string id="oAgVFI62" text="富田城"/>
     <string id="rRgHbmlr" text="根占"/>
@@ -1104,7 +1104,7 @@
     <string id="UysYG0ST" text="三納"/>
     <string id="0LHvahhd" text="門川城"/>
     <string id="52F3249d" text="鹽見"/>
-    <string id="8sz0tXhd" text="佐志生津"/>
+    <string id="8sz0tXhd" text="阿潟"/>
     <string id="J0Mo41hV" text="鍋城"/>
     <string id="RnY20xbi" text="久米"/>
     <string id="xRmEtOTl" text="大口城"/>
@@ -2014,10 +2014,10 @@
     <string id="xxCgvJqi" text="鋼の太刀の刃"/>
     <string id="R6KWKHb7" text="名作の太刀の刃"/>
     <string id="cyv6NJSc" text="業物の太刀の刃"/>
-    <string id="QwINw2Ny" text="sho_tachi_blade_tiger"/>
-    <string id="9tkUnjgG" text="sho_tachi_blade_bear"/>
-    <string id="I6X04Vws" text="sho_tachi_blade_tanuki"/>
-    <string id="SFZXT0nK" text="sho_tachi_blade_deer"/>
+    <string id="QwINw2Ny" text="虎の尻鞘太刀の刃"/>
+    <string id="9tkUnjgG" text="熊の尻鞘太刀の刃"/>
+    <string id="I6X04Vws" text="狸の尻鞘太刀の刃"/>
+    <string id="SFZXT0nK" text="鹿の尻鞘太刀の刃"/>
     <string id="KpOwQfXz" text="使い古した 太刀の柄"/>
     <string id="V4VBhldd" text="粗雑な太刀の柄"/>
     <string id="Fg7VsNF2" text="簡素な太刀の柄"/>
@@ -3003,6 +3003,7 @@
     <string id="Ff2430b6" text="嶋津家久"/>
     <string id="7b139389" text="嶋津なぎ"/>
     <string id="3c3F0D44" text="嶋津貴久"/>
+    <string id="63EFc2C6" text="嶋津雪窓"/>
     <string id="Af696209" text="伊集院忠倉"/>
     <string id="CdFDC39F" text="伊集院しづく"/>
     <string id="FdB0C97a" text="伊集院忠棟"/>
@@ -3358,7 +3359,7 @@
     <string id="21F4fb38" text="浪岡顯範"/>
     <string id="17Be9B15" text="浪岡かた"/>
     <string id="f285e5e9" text="浪岡顯忠"/>
-    <string id="Bcg6BahH" text="侍の斧"/>
+    <string id="Bcg6BahH" text="猪目斧"/>
     <string id="sUeowQpk" text="錆びた鎌"/>
     <string id="q2Vsio86" text="簡素な鎌"/>
     <string id="fS5sr8gs" text="赤い鎌"/>
@@ -3524,9 +3525,9 @@
     <string id="cfgAVkkE" text="鉢金"/>
     <string id="Lbn87Amk" text="僧兵の裹頭"/>
     <string id="Z1WAw0K0" text="握出形兜"/>
-    <string id="3crkKrnE" text="雑賀衆の装飾のある兜"/>
-    <string id="xrBpMY26" text="雑賀衆の兜"/>
-    <string id="us1vjvyv" text="雑賀衆の面頰付兜"/>
+    <string id="3crkKrnE" text="装飾のある雑賀鉢兜"/>
+    <string id="xrBpMY26" text="雑賀鉢兜"/>
+    <string id="us1vjvyv" text="面頰付雑賀鉢兜"/>
     <string id="oQeZ3wkn" text="モリオン"/>
     <string id="vx8eDfim" text="幌"/>
     <string id="8hk1uBJe" text="指物"/>
@@ -3708,7 +3709,7 @@
     <string id="W0vGkIp1" text="頑丈な大身槍"/>
     <string id="rblmdgxM" text="名作の大身槍"/>
     <string id="cNXKUQX7" text="簡素な尾張大身槍"/>
-    <string id="WPxY0RTQ" text="由緒ある大身槍"/>
+    <string id="WPxY0RTQ" text="由緒ある十文字槍"/>
     <string id="iYPPHwXa" text="神々しい大身槍"/>
     <string id="OnOvaRTI" text="高貴な十文字槍"/>
     <string id="rso9zQtp" text="非凡な十文字槍"/>
@@ -4166,8 +4167,8 @@
     <string id="O6uSZlqz" text="まこも"/>
     <string id="p4gAtQ44" text="廣正"/>
     <string id="fFw7eVr9" text="はぎ"/>
-    <string id="eqnHNZTn" text="正頼"/>
-    <string id="FjERkhTK" text="大宮"/>
+    <string id="eqnHNZTn" text="隆春"/>
+    <string id="FjERkhTK" text="ひさぎ"/>
     <string id="wREIyLQ0" text="元康"/>
     <string id="fA2yEMQT" text="宗皓"/>
     <string id="vsXnQaY3" text="相國院"/>
@@ -4210,7 +4211,7 @@
     <string id="wn4Z5851" text="宗景"/>
     <string id="ys5UK0RM" text="しをん"/>
     <string id="Vcpfb24L" text="宗辰"/>
-    <string id="N1n8pWTZ" text="こなぎ"/>
+    <string id="N1n8pWTZ" text="たつ"/>
     <string id="4JsopToS" text="興家"/>
     <string id="E1ylj5fW" text="禅定院"/>
     <string id="FOH3wIT7" text="直家"/>
@@ -4454,7 +4455,7 @@
     <string id="So1hDGim" text="安治"/>
     <string id="vbW4lVBo" text="あずま"/>
     <string id="apqhx41m" text="就安"/>
-    <string id="dO3CawFk" text="ます"/>
+    <string id="dO3CawFk" text="何禪院"/>
     <string id="Brly3Pam" text="長治"/>
     <string id="VYrrxnX9" text="友之"/>
     <string id="gzC7F4fo" text="吉親"/>
@@ -4635,7 +4636,7 @@
     <string id="8fj2kDNi" text="こてう"/>
     <string id="vI3iTRAa" text="やち"/>
     <string id="PRLxNKTC" text="歳久"/>
-    <string id="BgW75GXX" text="梅夫人"/>
+    <string id="BgW75GXX" text="梅"/>
     <string id="bCEeQkkF" text="家久"/>
     <string id="LvRRedWW" text="なぎ"/>
     <string id="xTIL6Lf0" text="忠明"/>
@@ -4652,7 +4653,7 @@
     <string id="9j0CtAEy" text="忠親"/>
     <string id="Fm7HitzI" text="はす"/>
     <string id="a7Bus3qz" text="時久"/>
-    <string id="YBDz0cMr" text="ひじり"/>
+    <string id="YBDz0cMr" text="はる"/>
     <string id="SpjpkISo" text="資久"/>
     <string id="jp7XzhCN" text="忠虎"/>
     <string id="aUgD8yWg" text="兼続"/>
@@ -5436,7 +5437,7 @@
     <string id="701yWNGe" text="東海道"/>
     <string id="JSiAyodh" text="坂東"/>
     <string id="OFkIDiZT" text="奥羽"/>
-    <string id="fa6D86d4" text="決闘者"/>
+    <string id="ptsxzysa" text="決闘者"/>
     <string id="FlooLAMd" text="仏門"/>
     <string id="mx7L9bFB" text="賊徒"/>
     <string id="CKvsb2RB" text="日本"/>
@@ -6998,7 +6999,7 @@
     <string id="DjkCTOR9" text="兵士の収容数"/>
     <string id="j4lUrFwg" text="積荷の積載量"/>
     <string id="IcJXuQ6m" text="1日あたりの維持費"/>
-    <string id="0dEAx8p4" text="矢弾を取る"/>
+    <string id="0dEAx8p4" text="{KEY} 矢弾を取る"/>
     <string id="7KL6IPrU" text="弾の備え"/>
     <string id="d3wln31q" text="戦利品"/>
     <string id="FibVA33i" text="篝火"/>
@@ -7148,7 +7149,7 @@
     <string id="q4kHT4nt" text="竹崎つき"/>
     <string id="hPnLYYJO" text="安富貞直"/>
     <string id="afjOzd7v" text="龍造寺たまつる"/>
-    <string id="hShr91A7" text="清水雪窓夫人"/>
+    <string id="hShr91A7" text="嶋津雪窓夫人"/>
     <string id="A8Iz9ZZT" text="肝付御南"/>
     <string id="VHFYSwnu" text="新納忠堯"/>
     <string id="vktgsLcf" text="大西頼武"/>
