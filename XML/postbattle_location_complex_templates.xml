@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LocationComplexTemplates>
-	<LocationComplexTemplate id="postbattle_location_complex">
-		<Location id="postbattle_location_id" name="{=Q47m8zth}Post Battle Location" scene_name="sho_duel_map_a" indoor="false" max_prosperity="500" ai_can_enter="CanNever" ai_can_exit="CanNever" player_can_enter="CanIfSettlementAccessModelLetsPlayer" player_can_see="CanAlways"/>
-		<Passages/>
-	</LocationComplexTemplate>
-</LocationComplexTemplates>

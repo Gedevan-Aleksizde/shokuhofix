@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LocationComplexTemplates>
-	<LocationComplexTemplate id="duel_location_complex">
-		<Location id="duel_location_id" name="{=NRK5egJn}Duel Location" scene_name="sho_duel_map_a" indoor="false" max_prosperity="500" ai_can_enter="CanNever" ai_can_exit="CanNever" player_can_enter="CanAlways" player_can_see="CanAlways"/>
-		<Passages/>
-	</LocationComplexTemplate>
-</LocationComplexTemplates>
