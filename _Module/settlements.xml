@@ -1771,7 +1771,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_CHUB2" name="{=5EE4fc22}Etsufu Castle" owner="Faction.clan_yamazaki_1" posX="953.842" posY="706.263" culture="Culture.hokuriku" gate_posX="951.7618" gate_posY="706.0095">
+  <Settlement id="castle_CHUB2" name="{=mpqw8uFw}Etsufu Castle" owner="Faction.clan_yamazaki_1" posX="953.842" posY="706.263" culture="Culture.hokuriku" gate_posX="951.7618" gate_posY="706.0095">
     <Components>
       <Town id="castle_comp_CHUB2" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="731"/>
     </Components>

@@ -937,7 +937,7 @@
 	<xsl:template match="Settlement[@id='castle_CHUB2']">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
-			<xsl:attribute name='name'>{=5EE4fc22}Etsufu Castle</xsl:attribute>
+			<xsl:attribute name='name'>{=mpqw8uFw}Etsufu Castle</xsl:attribute>
 			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
