@@ -208,7 +208,7 @@
   <!--saigo clan 8 ids-->
   <Hero id="lord_1_saigo" faction="Faction.clan_saigo_1" spouse="Hero.lord_1_saigo_1" text="{=984669a3}Saigo Sumitaka"/>
   <Hero id="lord_1_saigo_1" faction="Faction.clan_saigo_1" spouse="Hero.lord_1_saigo" text="{=b00ce355}Saigo Sada"/>
-  <Hero id="lord_1_saigo_2" faction="Faction.clan_saigo_1" spouse="Hero.lord_1_saigo_3" father="Hero.lord_1_saigo" mother="Hero.lord_1_saigo_1" text="{=984669a3}Saigo Sumitaka"/>
+  <Hero id="lord_1_saigo_2" faction="Faction.clan_saigo_1" spouse="Hero.lord_1_saigo_3" father="Hero.lord_1_saigo" mother="Hero.lord_1_saigo_1" text="{=bnBtdKuELI}Saigo Sumihisa"/>
   <Hero id="lord_1_saigo_3" faction="Faction.clan_saigo_1" spouse="Hero.lord_1_saigo_2" text="{=86B56439}Saigo Mayumi"/>
   <Hero id="lord_1_saigo_4" faction="Faction.clan_saigo_1" father="Hero.lord_1_saigo" mother="Hero.lord_1_saigo_1" text="{=20dF14C9}Saigo Nobunao"/>
   <Hero id="lord_1_saigo_5" faction="Faction.clan_saigo_1" text="{=40970472}Saigo Sumimasa"/>
