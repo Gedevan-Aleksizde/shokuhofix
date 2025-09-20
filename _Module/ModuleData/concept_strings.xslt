@@ -484,7 +484,7 @@
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
             <xsl:attribute name='title'>{=aj3IV2f2}Shingon Sect Buddhism"</xsl:attribute>
-            <xsl:attribute name='text'>{=uDmgp8Hy}Shingon Buddhism is one of the major schools of Buddhism in Japan, tracing its roots in the esoteric teachings of Tang China. Shingon embraces ritual, symbolism, and mystical practices to bring the faithful closer to enlightenment, while monks serve as keepers of the sacred mandalas, mantras, and mudras that are used to unlock wisdom.</xsl:attribute>
+            <xsl:attribute name='text'>{=qH63rI3eAg}Shingon Buddhism is one of the major schools of Buddhism in Japan, tracing its roots in the esoteric teachings of Tang China. Shingon embraces ritual, symbolism, and mystical practices to bring the faithful closer to enlightenment, while monks serve as keepers of the sacred mandalas, mantras, and mudras that are used to unlock wisdom.</xsl:attribute>
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
     </xsl:template>
