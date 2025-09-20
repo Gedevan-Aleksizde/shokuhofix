@@ -476,7 +476,7 @@
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
             <xsl:attribute name='title'>{=UrWGFsmE}Rinzai Sect Buddhism"</xsl:attribute>
-            <xsl:attribute name='text'>{=H2nZxMg6}Rinzai Buddhism is a sect of Zen Buddhism, a disciplined and austere path to enlightenment that focuses not only on study but on sudden insight through rigorous meditation and riddles. Introduced to Japan from the continent centuries ago , Rinzai has long held sway among the warrior elite and has flourished in monasteries , often  fortified, where many monks train in martial arts, seeing no contradiction between sword and spirit.</xsl:attribute>
+            <xsl:attribute name='text'>{=VXBjNjoFKM}Rinzai Buddhism is a sect of Zen Buddhism, a disciplined and austere path to enlightenment that focuses not only on study but on sudden insight through rigorous meditation and riddles. Introduced to Japan from the continent centuries ago , Rinzai has long held sway among the warrior elite and has flourished in monasteries , often  fortified, where many monks train in martial arts, seeing no contradiction between sword and spirit.</xsl:attribute>
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
     </xsl:template>
@@ -492,7 +492,7 @@
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
             <xsl:attribute name='title'>{=LVOCapM2}Tendai Sect Buddhism"</xsl:attribute>
-            <xsl:attribute name='text'>{=yw6hLM21}Tendai Buddhism is one of the oldest and most prestigious Buddhist schools in Japan, boasting ancient and deep ties with the Imperial Court in Kyoto. Established on sacred Mount Hiei, where the main temple Enryaku-ji is located, Tendai teachings present a comprehensive system open to both elite and commoner, as monks study the Lotus Sutra as the highest truth, teaching that all beings may attain Buddhahood. On the other hand, the Tendai great monasteries, have become formidable power centers in their own right, some aable to field armies of warrior-monks.</xsl:attribute>
+            <xsl:attribute name='text'>{=XdD645jnW2}Tendai Buddhism is one of the oldest and most prestigious Buddhist schools in Japan, boasting ancient and deep ties with the Imperial Court in Kyoto. Established on sacred Mount Hiei, where the main temple Enryaku-ji is located, Tendai teachings present a comprehensive system open to both elite and commoner, as monks study the Lotus Sutra as the highest truth, teaching that all beings may attain Buddhahood. On the other hand, the Tendai great monasteries, have become formidable power centers in their own right, some aable to field armies of warrior-monks.</xsl:attribute>
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
     </xsl:template>
@@ -500,7 +500,7 @@
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
             <xsl:attribute name='title'>{=mGkLxllp}Soutou Sect Buddhism"</xsl:attribute>
-            <xsl:attribute name='text'>{=pDRw90Ji}Soutou Buddhism is a sect of Zen Buddhism, often considered the quieter sibling to Rinzai, that emphasizes patient, silent sitting, or &quot;just sitting&quot;, as the true expression of enlightenment. Spreading more among rural folk and modest temples, Soutou has fewer ties to lords and warriors, instead favouring service to village communities and secluded monastic life, Soutou monks being known for their simplicity.</xsl:attribute>
+            <xsl:attribute name='text'>{=sbA55idXs8}Soutou Buddhism is a sect of Zen Buddhism, often considered the quieter sibling to Rinzai, that emphasizes patient, silent sitting, or &quot;just sitting&quot;, as the true expression of enlightenment. Spreading more among rural folk and modest temples, Soutou has fewer ties to lords and warriors, instead favouring service to village communities and secluded monastic life, Soutou monks being known for their simplicity.</xsl:attribute>
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
     </xsl:template>
@@ -508,7 +508,7 @@
         <xsl:copy>
 			<xsl:apply-templates select="@*"/>
             <xsl:attribute name='title'>{=NqLVEEEe}Shin Sect Buddhism"</xsl:attribute>
-            <xsl:attribute name='text'>{=B1muhS5n}Shin Buddhism is the youngest school of Buddhism in Japan, established by former Tendai monk Shinran.  Also known as Jodo Shinshu, meaning True Pure Land, Shin Buddhism rejects elitism in favour of faith accessible to all, teaching that enlightenment  cannot be achieved through effort or meditation alone, but through sincere trust in Buddha. Thanks to this approach, Shin Buddhism has spread widely among commoners weary of the constant wars between daimyos. In some provinces, leagues of peasant believers, known as ikkō-ikki, have taken up arms to defend their faith and their land, challenging samurai rule.</xsl:attribute>
+            <xsl:attribute name='text'>{=X0Yq9soN3N}Shin Buddhism is the youngest school of Buddhism in Japan, established by former Tendai monk Shinran.  Also known as Jodo Shinshu, meaning True Pure Land, Shin Buddhism rejects elitism in favour of faith accessible to all, teaching that enlightenment  cannot be achieved through effort or meditation alone, but through sincere trust in Buddha. Thanks to this approach, Shin Buddhism has spread widely among commoners weary of the constant wars between daimyos. In some provinces, leagues of peasant believers, known as ikkō-ikki, have taken up arms to defend their faith and their land, challenging samurai rule.</xsl:attribute>
         	<xsl:apply-templates select="node()"/>
 		</xsl:copy>
     </xsl:template>
