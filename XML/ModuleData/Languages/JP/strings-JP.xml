@@ -589,6 +589,18 @@
     <string id="xNlFGjFX" text="春日山の湊"/>
     <string id="HoKuRuB7" text="新潟の湊"/>
     <string id="zEXjYqDm" text="これは港だ。"/>
+    <string id="wqGUjgrp" text="神道"/>
+    <string id="H2nZxMg6" text="臨済宗"/>
+    <string id="uDmgp8Hy" text="真言宗"/>
+    <string id="yw6hLM21" text="天台宗"/>
+    <string id="pDRw90Ji" text="曹洞宗"/>
+    <string id="B1muhS5n" text="浄土真宗"/>
+    <string id="lHzRv41P" text="神道"/>
+    <string id="aeKSwLj2" text="臨済宗"/>
+    <string id="L1BBQe3R" text="真言宗"/>
+    <string id="Cya6ST9A" text="天台宗"/>
+    <string id="7pyR761G" text="曹洞宗"/>
+    <string id="sfXeoNJk" text="浄土真宗"/>
     <string id="R6gnCH7g" text="國府尾城"/>
     <string id="k1yojJ4A" text="西ノ島"/>
     <string id="Nw6vXG2r" text="知夫里"/>
@@ -644,7 +656,7 @@
     <string id="QNTlHbu0" text="杵築"/>
     <string id="BSLeHhbG" text="白方"/>
     <string id="H4uQyBi6" text="来島城"/>
-    <string id="i2U342nt" text="大条"/>
+    <string id="i2U342nt" text="大條"/>
     <string id="ZyJVH3pK" text="宮浦"/>
     <string id="D2EylgG7" text="青木城"/>
     <string id="gqR6QX1Z" text="中庄"/>
@@ -1458,24 +1470,6 @@
     <string id="4lttvj0j" text="kanto_lord_female_noncom"/>
     <string id="J8sGPqm1" text="ou_lord_male_noncom"/>
     <string id="6S0rpE6T" text="ou_lord_female_noncom"/>
-    <string id="Shokuho9069B748" text="Saikai Lord Male"/>
-    <string id="Shokuho63E4b5fF" text="Saikai Lord Female"/>
-    <string id="Shokuho2d2f2235" text="Nankai Lord Male"/>
-    <string id="Shokuho4d6C9a29" text="Nankai Lord Female"/>
-    <string id="Shokuho5DCb8205" text="sanyo Lord Male"/>
-    <string id="Shokuho660a6696" text="sanyo Lord Female"/>
-    <string id="ShokuhoDb35EC69" text="kinai Lord Male"/>
-    <string id="Shokuhoa0A6746d" text="kinai Lord Female"/>
-    <string id="Shokuho263Ae744" text="hokuriku Lord Male"/>
-    <string id="Shokuho5CaD6226" text="hokuriku Lord Female"/>
-    <string id="Shokuho118232B4" text="tosan Lord Male"/>
-    <string id="Shokuho93216a83" text="tosan Lord Female"/>
-    <string id="Shokuho4978F599" text="tokai Lord Male"/>
-    <string id="Shokuho9a6F8116" text="tokai Lord Female"/>
-    <string id="Shokuho19e2d541" text="Kantou Lord Male"/>
-    <string id="Shokuho742D7c66" text="Kantou Lord Female"/>
-    <string id="Shokuho83247647" text="ou Lord Male"/>
-    <string id="Shokuho8b6104fb" text="ou Lord Female"/>
     <string id="iuUFimFm" text="wanderer_equipment"/>
     <string id="Yy1o9iCp" text="戦士"/>
     <string id="n7TzRCjv" text="娘"/>
@@ -7268,7 +7262,7 @@
     <string id="l4cvImeo" text="攻城戦の砲撃時の百匁大筒と海上砲の装填速度 {VALUE}%"/>
     <string id="VWJVxFVU" text="統治している集落が包囲された際に最初に配備される火矢 {VALUE}"/>
     <string id="6xMGGe4p" text="膝立射撃時の鉄炮の精度低下 {VALUE}%"/>
-    <string id="Shokuhob4C2d911" text="鉄炮の狙撃速度 {VALUE}%"/>
+    <string id="Shokuhof8502456" text="鉄炮の狙撃速度 {VALUE}%"/>
     <string id="kTtaCTPd" text="編隊の鉄炮ダメージ {VALUE}%"/>
     <string id="529NHHSF" text="器用な手先"/>
     <string id="W1qqtfBI" text="銃撃で敵が氣絶することがある。"/>
@@ -7750,568 +7744,568 @@
     <string id="f6n2UAEC" text="開発中の機能"/>
     <string id="HSoZfvXH" text="王位簒奪を有効"/>
     <string id="ZIAo4er4" text="有効にするとプレイヤーが王位を簒奪できるようになります。この機能はゲームバランスを変えてしまうため、変更を予定しており推奨できません。デフォルトは「無効」です。"/>
-    <string id="ShokuhoD7505203" text="編隊による長柄武器のスピードボーナス{VALUE}%"/>
-    <string id="Shokuho84A797ee" text="長柄武器の振り攻撃の操作性{VALUE}%"/>
-    <string id="Shokuho66275066" text="統治している集落の要塞の地の利{VALUE}%"/>
-    <string id="Shokuhoe0841e25" text="攻城戦の砲撃中、マンゴネルとトレビュシェの装填速度{VALUE}%"/>
-    <string id="Shokuho3b01dbc8" text="編隊による弓ダメージ{VALUE}%"/>
-    <string id="Shokuhoc457b0c3" text="騎乗武器のダメージペナルティ: {a0}%"/>
-    <string id="Shokuho40E4598B" text="Very good. Keep them coming.[if:convo_mocking_aristocratic]"/>
-    <string id="Shokuho0c7E611e" text="戦闘からの逃走時に失う兵士{VALUE}%"/>
-    <string id="Shokuho92E5F417" text="攻城戦の砲撃中、死亡確率{VALUE}%"/>
-    <string id="Shokuhof0ED846B" text="ストゥルギヤの雪原ボーナス"/>
-    <string id="Shokuho912c53aF" text="弓の装填速度{VALUE}%"/>
+    <string id="Shokuho58Dc7eE5" text="編隊による長柄武器のスピードボーナス{VALUE}%"/>
+    <string id="Shokuho6a10Eb3e" text="長柄武器の振り攻撃の操作性{VALUE}%"/>
+    <string id="Shokuho9bD9e720" text="統治している集落の要塞の地の利{VALUE}%"/>
+    <string id="Shokuho7b14FabF" text="攻城戦の砲撃中、マンゴネルとトレビュシェの装填速度{VALUE}%"/>
+    <string id="Shokuho2a3B3192" text="編隊による弓ダメージ{VALUE}%"/>
+    <string id="Shokuho68Da7dF4" text="騎乗武器のダメージペナルティ: {a0}%"/>
+    <string id="Shokuho28774882" text="Very good. Keep them coming.[if:convo_mocking_aristocratic]"/>
+    <string id="ShokuhoF94Ee3f5" text="戦闘からの逃走時に失う兵士{VALUE}%"/>
+    <string id="Shokuho2Ac56a83" text="攻城戦の砲撃中、死亡確率{VALUE}%"/>
+    <string id="Shokuho270b73aD" text="ストゥルギヤの雪原ボーナス"/>
+    <string id="ShokuhoF530F5f6" text="弓の装填速度{VALUE}%"/>
     <string id="0wAjmea4" text="盗品売買"/>
     <string id="B9745863" text="Tier5以上の一族が軍隊の維持に必要な影響力-10%{newline}毎日、君主のクランの影響力-1"/>
-    <string id="Shokuho2E56aa35" text="戦闘終了後に失ったHPの回復+{VALUE}%"/>
-    <string id="Shokuho95D950f5" text="長柄武器ダメージ+{a0}%"/>
-    <string id="Shokuho813d415B" text="徒歩時、防御力{VALUE}%"/>
-    <string id="ShokuhoF39a2D91" text="溶解時に新しい部品を学習する確率{VALUE}%"/>
-    <string id="Shokuho22880D06" text="統治している城の守備隊の賃金{VALUE}%"/>
-    <string id="Shokuho5f44391D" text="騎乗時の近接ダメージ{VALUE}%"/>
-    <string id="ShokuhoA5069a5a" text="約束通り、{.%}{?AMOUNT_TO_DELIVER &gt; 1}{AMOUNT_TO_DELIVER}{PLURAL(REQUESTED_GOOD)}{?}{REQUESTED_GOOD}{\?}{.%}を持ってきた。"/>
-    <string id="Shokuhoa24349f1" text="徒歩時、両手武器のスピードボーナス{VALUE}%"/>
-    <string id="Shokuho901154c4" text="編隊の歩兵の移動速度{VALUE}%"/>
-    <string id="Shokuhoce41e8f2" text="部隊のインベントリ内の食料の種類の数だけ、治癒率{VALUE}%"/>
-    <string id="Shokuho084a8ed1" text="キャンペーンマップ上の視界{VALUE}%"/>
-    <string id="Shokuhofa6F3c50" text="長柄武器速度+{a0} %"/>
-    <string id="Shokuho1BeeA21c" text="建設速度+{a0}%"/>
-    <string id="Shokuho48EBf6B8" text="投射系でない攻城兵器の建造速度{VALUE}%"/>
-    <string id="Shokuho58491409" text="両手武器で敵を倒した際、味方への士氣効果{VALUE}%"/>
-    <string id="ShokuhoD97E3F48" text="仲間の獲得XP{VALUE}%"/>
-    <string id="Shokuho5CD1E5ba" text="{newline}• 有力者の権勢 {NOTABLE_POWER_LOST_AMOUNT}%"/>
-    <string id="ShokuhoC739918F" text="森での速度ペナルティ-50%{newline}森での視界+15%"/>
-    <string id="Shokuho05665bdB" text="歩兵の雇用費{VALUE}%"/>
-    <string id="Shokuhof4098235" text="クロスボウの装填速度{VALUE}%"/>
-    <string id="Shokuho69935e96" text="城の周辺の村の生産量+10%"/>
-    <string id="Shokuho40FDC23C" text="同性の好感度上昇{VALUE}%"/>
-    <string id="Shokuho446C423D" text="統治している集落での攻城戦中、兵士の戦死確率{VALUE}%"/>
-    <string id="Shokuho7364dda5" text="軍隊に招集した部隊の行軍速度{VALUE}%"/>
+    <string id="Shokuho2346f78C" text="戦闘終了後に失ったHPの回復+{VALUE}%"/>
+    <string id="Shokuho4e669537" text="長柄武器ダメージ+{a0}%"/>
+    <string id="Shokuho38A4bd9d" text="徒歩時、防御力{VALUE}%"/>
+    <string id="Shokuho355C4C41" text="溶解時に新しい部品を学習する確率{VALUE}%"/>
+    <string id="Shokuho35E47c41" text="統治している城の守備隊の賃金{VALUE}%"/>
+    <string id="ShokuhoA3BbBC1F" text="騎乗時の近接ダメージ{VALUE}%"/>
+    <string id="Shokuho8bBb300A" text="約束通り、{.%}{?AMOUNT_TO_DELIVER &gt; 1}{AMOUNT_TO_DELIVER}{PLURAL(REQUESTED_GOOD)}{?}{REQUESTED_GOOD}{\?}{.%}を持ってきた。"/>
+    <string id="Shokuho43286147" text="徒歩時、両手武器のスピードボーナス{VALUE}%"/>
+    <string id="ShokuhoB5C8f1f6" text="編隊の歩兵の移動速度{VALUE}%"/>
+    <string id="Shokuho1EBb83AF" text="部隊のインベントリ内の食料の種類の数だけ、治癒率{VALUE}%"/>
+    <string id="Shokuho470ed5C2" text="キャンペーンマップ上の視界{VALUE}%"/>
+    <string id="Shokuho22165eDB" text="長柄武器速度+{a0} %"/>
+    <string id="Shokuho97742F3c" text="建設速度+{a0}%"/>
+    <string id="Shokuhob05B693B" text="投射系でない攻城兵器の建造速度{VALUE}%"/>
+    <string id="ShokuhoF3364074" text="両手武器で敵を倒した際、味方への士氣効果{VALUE}%"/>
+    <string id="ShokuhoE7C8c196" text="仲間の獲得XP{VALUE}%"/>
+    <string id="Shokuho4921dad7" text="{newline}• 有力者の権勢 {NOTABLE_POWER_LOST_AMOUNT}%"/>
+    <string id="Shokuho70E384da" text="森での速度ペナルティ-50%{newline}森での視界+15%"/>
+    <string id="ShokuhoD92c0a44" text="歩兵の雇用費{VALUE}%"/>
+    <string id="Shokuho6f2Ee7B6" text="クロスボウの装填速度{VALUE}%"/>
+    <string id="Shokuhob04C9650" text="城の周辺の村の生産量+10%"/>
+    <string id="Shokuhoa46A9d62" text="同性の好感度上昇{VALUE}%"/>
+    <string id="Shokuhoe48f0a92" text="統治している集落での攻城戦中、兵士の戦死確率{VALUE}%"/>
+    <string id="Shokuho919dcE7D" text="軍隊に招集した部隊の行軍速度{VALUE}%"/>
     <string id="3UDUqYv1" text="斥候パークスキル"/>
-    <string id="Shokuho3Bc31cc3" text="部隊の傭兵の賃金{VALUE}%{newline}部隊の傭兵のアップグレード費用{VALUE}%"/>
-    <string id="Shokuho83609633" text="200を超えたスキルポイント毎に投擲の弾速{VALUE}%"/>
-    <string id="Shokuho606A8176" text="200を超えたスキルポイント毎に部隊の行軍速度{VALUE}%"/>
-    <string id="Shokuho7AC70b36" text="粘土・鉄・綿・銀の購入ペナルティ{VALUE}%"/>
-    <string id="Shokuho015696a9" text="移動中の精度低下{VALUE}%"/>
-    <string id="Shokuho418ed3A9" text="編隊による対盾ダメージ{VALUE}%"/>
-    <string id="ShokuhoDbCC3738" text="包囲下の集落への侵入または脱出する際の兵士の損失{VALUE}%"/>
-    <string id="Shokuhoa21c834B" text="数的劣勢時、自動戦闘のダメージ{VALUE}%"/>
-    <string id="Shokuho7ED03658" text="長柄武器による対乗騎ダメージ{VALUE}%"/>
-    <string id="Shokuho48E0bef1" text="攻城戦の野営地の設営速度{VALUE}%"/>
-    <string id="Shokuho78179f61" text="統治している集落の守備隊により、治安{VALUE}%"/>
-    <string id="Shokuho16c638D5" text="統治している集落の周辺の村の生産力{VALUE}%"/>
-    <string id="Shokuho3280e967" text="隊商護衛の賃金{VALUE}%"/>
-    <string id="Shokuho6501d720" text="キャンペーンマップ上の夜間の視界の広さ{VALUE}%"/>
-    <string id="Shokuho77928fbd" text="君主のクランが領地没収を提案する際の消費影響力-50%"/>
-    <string id="ShokuhoD9017c5b" text="異なる文化の領主との取引のペナルティ{VALUE}%"/>
-    <string id="Shokuho18ed4D44" text="治癒率+{a0}%"/>
-    <string id="Shokuho598f24CC" text="部隊の食糧消費{VALUE}%"/>
-    <string id="Shokuho193fDF02" text="部隊の兵士10人毎に、兵士の治癒率{VALUE}%"/>
-    <string id="Shokuho8994aD6c" text="近接武器として使用している投擲武器によるダメージ{VALUE}%"/>
-    <string id="ShokuhoCb3d7Cd5" text="毎日、統治している集落で、いずれかの権勢のある有力者との好感が上昇する確率{VALUE}%"/>
-    <string id="Shokuho7b098758" text="所有する工房の生産力{VALUE}%"/>
-    <string id="Shokuho75a432e0" text="統治している集落にいる射手により、治安{VALUE}%"/>
-    <string id="Shokuho066Ac4E8" text="約束通り{?QUEST_GIVER.GENDER}彼女{?}彼{\?}に{.%}{?REQUESTED_AMOUNT &gt; 1}{REQUESTED_AMOUNT}{PLURAL(REQUESTED_GOOD)}{?}{REQUESTED_GOOD}{\?}{.%}を届けた。"/>
-    <string id="ShokuhoDf7CCB63" text="いいぞ。そのまま続けてくれ。我々にはもっと人手が必要だ。"/>
-    <string id="Shokuhoee3dB321" text="自動戦闘時、スキルの差100毎にダメージ{VALUE}%"/>
-    <string id="Shokuhof2CDefc5" text="毎日、統治している集落で、いずれかの同性の有力者との好感が上昇する確率{VALUE}%"/>
-    <string id="Shokuho43b8A4D6" text="人質取引商との取引時、ヒーローの捕虜の身代金{VALUE}%"/>
-    <string id="Shokuho3eA0a47b" text="自動戦闘時、盗賊が相手の場合、優位{VALUE}%"/>
-    <string id="Shokuho7056Ec47" text="隊商結成費用-30%{newline}取引ペナルティ-10%"/>
-    <string id="Shokuho89FEB55F" text="重い一撃の転倒確率{VALUE}%"/>
-    <string id="Shokuhofa1bdFb8" text="一族に小規模勢力の一族を加入させる際の費用{VALUE}%"/>
-    <string id="Shokuhof04B31e5" text="長柄武器の振りスピード{VALUE}%"/>
-    <string id="Shokuhof89f7C50" text="騎乗時のよろめき耐性{VALUE}%"/>
-    <string id="Shokuho0da504ec" text="日中の行軍速度{VALUE}%"/>
-    <string id="Shokuho831dcA34" text="防具の重量{VALUE}%"/>
-    <string id="ShokuhoA94425ed" text="捕虜となったヒーローの脱走確率{VALUE}%"/>
-    <string id="Shokuho0b5586c4" text="草原か平地を行軍中、視界{VALUE}%"/>
-    <string id="ShokuhoE9B48C23" text="クロスボウ装備中に受ける投射ダメージ{VALUE}%"/>
-    <string id="Shokuho5857Cf39" text="戦闘終了時、歩兵の獲得XP{VALUE}%"/>
-    <string id="Shokuhof2F222b0" text="都市の税収-20%"/>
-    <string id="Shokuho4F82194c" text="編隊による対物ダメージ{VALUE}%"/>
-    <string id="ShokuhoB3E3666d" text="武器や盾を装備していない間、戦闘中の移動速度{VALUE}%"/>
-    <string id="Shokuho0a541c2b" text="クロスボウによる対乗騎ダメージ{VALUE}%"/>
-    <string id="Shokuho640cb1B4" text="編隊によるダメージ{VALUE}%"/>
-    <string id="Shokuho01585E6B" text="略奪や包囲が破られた際の陣形再編時間{VALUE}%"/>
-    <string id="Shokuho4920865e" text="{FAILURE_RISK}%の失敗リスク"/>
-    <string id="ShokuhoDf151147" text="交易品売却時の価格ペナルティ{VALUE}%"/>
-    <string id="Shokuhof4CDf0dA" text="攻撃側での自動戦闘時、兵士のダメージ{VALUE}%"/>
-    <string id="Shokuho9eFC6B5A" text="守備隊の兵士の賃金-20%"/>
-    <string id="Shokuho19635bFE" text="部隊の治癒率+{a0}%"/>
-    <string id="Shokuho276857d8" text="家畜の売却ペナルティ{VALUE}%"/>
-    <string id="Shokuho8388f57D" text="心配しなくていい。私が自分で{.%}{SELECTED_ITEM}{.%}の市場を見つけよう。"/>
-    <string id="Shokuhofa810d04" text="Tier 1-3の捕虜の雇用確率{VALUE}%"/>
-    <string id="Shokuho79DdCf40" text="乗馬兵の共有XP{VALUE}%"/>
-    <string id="Shokuhod2D2eD8f" text="足跡の発見確率{VALUE}%"/>
-    <string id="ShokuhoA5EF1f0D" text="統治している集落の完成した建設事業の種類の数だけ、繁栄{VALUE}%"/>
-    <string id="Shokuhof4813443" text="移動中の精度低下{VALUE}%"/>
+    <string id="Shokuho4b4b5aFc" text="部隊の傭兵の賃金{VALUE}%{newline}部隊の傭兵のアップグレード費用{VALUE}%"/>
+    <string id="Shokuho7f2F33DA" text="200を超えたスキルポイント毎に投擲の弾速{VALUE}%"/>
+    <string id="ShokuhoC7F7D452" text="200を超えたスキルポイント毎に部隊の行軍速度{VALUE}%"/>
+    <string id="Shokuho04a1EbE7" text="粘土・鉄・綿・銀の購入ペナルティ{VALUE}%"/>
+    <string id="Shokuho4575Cd05" text="移動中の精度低下{VALUE}%"/>
+    <string id="Shokuho0dEF716f" text="編隊による対盾ダメージ{VALUE}%"/>
+    <string id="Shokuhob2803285" text="包囲下の集落への侵入または脱出する際の兵士の損失{VALUE}%"/>
+    <string id="Shokuho67DeDfBF" text="数的劣勢時、自動戦闘のダメージ{VALUE}%"/>
+    <string id="ShokuhoA9EF3752" text="長柄武器による対乗騎ダメージ{VALUE}%"/>
+    <string id="Shokuho4Fb1Aad5" text="攻城戦の野営地の設営速度{VALUE}%"/>
+    <string id="Shokuho0f8611bd" text="統治している集落の守備隊により、治安{VALUE}%"/>
+    <string id="ShokuhoF9E9A34B" text="統治している集落の周辺の村の生産力{VALUE}%"/>
+    <string id="Shokuho9b71C874" text="隊商護衛の賃金{VALUE}%"/>
+    <string id="ShokuhoA544bc0a" text="キャンペーンマップ上の夜間の視界の広さ{VALUE}%"/>
+    <string id="Shokuho9dD3eA2d" text="君主のクランが領地没収を提案する際の消費影響力-50%"/>
+    <string id="Shokuho19596dfE" text="異なる文化の領主との取引のペナルティ{VALUE}%"/>
+    <string id="Shokuho28A0e945" text="治癒率+{a0}%"/>
+    <string id="ShokuhoCd50e17d" text="部隊の食糧消費{VALUE}%"/>
+    <string id="Shokuho437EEbDC" text="部隊の兵士10人毎に、兵士の治癒率{VALUE}%"/>
+    <string id="Shokuho7Db81092" text="近接武器として使用している投擲武器によるダメージ{VALUE}%"/>
+    <string id="Shokuho609dF15D" text="毎日、統治している集落で、いずれかの権勢のある有力者との好感が上昇する確率{VALUE}%"/>
+    <string id="ShokuhoC1B84Da5" text="所有する工房の生産力{VALUE}%"/>
+    <string id="Shokuho2e347817" text="統治している集落にいる射手により、治安{VALUE}%"/>
+    <string id="Shokuhodc802a78" text="約束通り{?QUEST_GIVER.GENDER}彼女{?}彼{\?}に{.%}{?REQUESTED_AMOUNT &gt; 1}{REQUESTED_AMOUNT}{PLURAL(REQUESTED_GOOD)}{?}{REQUESTED_GOOD}{\?}{.%}を届けた。"/>
+    <string id="Shokuho7E924566" text="いいぞ。そのまま続けてくれ。我々にはもっと人手が必要だ。"/>
+    <string id="Shokuho49124c62" text="自動戦闘時、スキルの差100毎にダメージ{VALUE}%"/>
+    <string id="Shokuho28c0be6e" text="毎日、統治している集落で、いずれかの同性の有力者との好感が上昇する確率{VALUE}%"/>
+    <string id="Shokuho2b1C18E3" text="人質取引商との取引時、ヒーローの捕虜の身代金{VALUE}%"/>
+    <string id="Shokuho23201587" text="自動戦闘時、盗賊が相手の場合、優位{VALUE}%"/>
+    <string id="Shokuho761dC1B2" text="隊商結成費用-30%{newline}取引ペナルティ-10%"/>
+    <string id="ShokuhofeA9E55F" text="重い一撃の転倒確率{VALUE}%"/>
+    <string id="ShokuhoacCE9fe1" text="一族に小規模勢力の一族を加入させる際の費用{VALUE}%"/>
+    <string id="Shokuho539e84BB" text="長柄武器の振りスピード{VALUE}%"/>
+    <string id="Shokuho9513f641" text="騎乗時のよろめき耐性{VALUE}%"/>
+    <string id="ShokuhoCd107Ea2" text="日中の行軍速度{VALUE}%"/>
+    <string id="Shokuho942bC658" text="防具の重量{VALUE}%"/>
+    <string id="Shokuho214512Ff" text="捕虜となったヒーローの脱走確率{VALUE}%"/>
+    <string id="Shokuhoc29af7dA" text="草原か平地を行軍中、視界{VALUE}%"/>
+    <string id="Shokuhof6716C42" text="クロスボウ装備中に受ける投射ダメージ{VALUE}%"/>
+    <string id="ShokuhoF7B2AE81" text="戦闘終了時、歩兵の獲得XP{VALUE}%"/>
+    <string id="Shokuho914696d7" text="都市の税収-20%"/>
+    <string id="Shokuho43EEa0F0" text="編隊による対物ダメージ{VALUE}%"/>
+    <string id="Shokuho388f7BB4" text="武器や盾を装備していない間、戦闘中の移動速度{VALUE}%"/>
+    <string id="Shokuho73Cb4c31" text="クロスボウによる対乗騎ダメージ{VALUE}%"/>
+    <string id="Shokuho3b0feA45" text="編隊によるダメージ{VALUE}%"/>
+    <string id="Shokuho53bC7537" text="略奪や包囲が破られた際の陣形再編時間{VALUE}%"/>
+    <string id="Shokuho3545c6Fd" text="{FAILURE_RISK}%の失敗リスク"/>
+    <string id="Shokuhof8CD0f6B" text="交易品売却時の価格ペナルティ{VALUE}%"/>
+    <string id="Shokuho377649FC" text="攻撃側での自動戦闘時、兵士のダメージ{VALUE}%"/>
+    <string id="Shokuhobc23Ca6f" text="守備隊の兵士の賃金-20%"/>
+    <string id="Shokuhobe63B8be" text="部隊の治癒率+{a0}%"/>
+    <string id="ShokuhoAb562D40" text="家畜の売却ペナルティ{VALUE}%"/>
+    <string id="ShokuhoAf06bde5" text="心配しなくていい。私が自分で{.%}{SELECTED_ITEM}{.%}の市場を見つけよう。"/>
+    <string id="Shokuho7633045d" text="Tier 1-3の捕虜の雇用確率{VALUE}%"/>
+    <string id="Shokuho7FFECf43" text="乗馬兵の共有XP{VALUE}%"/>
+    <string id="Shokuhof49c6EeF" text="足跡の発見確率{VALUE}%"/>
+    <string id="Shokuho48F1C00c" text="統治している集落の完成した建設事業の種類の数だけ、繁栄{VALUE}%"/>
+    <string id="ShokuhobaEAA377" text="移動中の精度低下{VALUE}%"/>
     <string id="aG7KXlu0" text="醫師のパークスキル"/>
-    <string id="ShokuhoB532CD5b" text="支持した提案が採用されかった際、返還される消費影響力{VALUE}%"/>
-    <string id="ShokuhoE7A7243e" text="編隊の騎兵による近接ダメージ{VALUE}%"/>
-    <string id="Shokuho3cAed915" text="統治している集落の牢獄の捕虜の脱走確率{VALUE}%"/>
-    <string id="Shokuho4f28c1Fa" text="傭兵の雇用費{VALUE}%"/>
+    <string id="Shokuho4024460B" text="支持した提案が採用されかった際、返還される消費影響力{VALUE}%"/>
+    <string id="Shokuhof8D4cE7d" text="編隊の騎兵による近接ダメージ{VALUE}%"/>
+    <string id="Shokuho565d1d95" text="統治している集落の牢獄の捕虜の脱走確率{VALUE}%"/>
+    <string id="Shokuho6b3423e7" text="傭兵の雇用費{VALUE}%"/>
     <string id="AvaZUvnu" text="補給官のパークスキル"/>
-    <string id="ShokuhoD1FF3442" text="異性の好感度の上昇率{VALUE}%"/>
-    <string id="Shokuho07998376" text="毎日、村に入った時、自分の一族への有力者の好感+1される確率{VALUE}%"/>
+    <string id="ShokuhoFb9708b7" text="異性の好感度の上昇率{VALUE}%"/>
+    <string id="ShokuhoEd0086d4" text="毎日、村に入った時、自分の一族への有力者の好感+1される確率{VALUE}%"/>
     <string id="aZne44IB" text="{CLAN_NAME}家"/>
-    <string id="Shokuho08846083" text="編隊の乗騎のHP {VALUE}%"/>
-    <string id="Shokuho36d6c964" text="戦闘中、氣絶した際の死亡確率{VALUE}%"/>
-    <string id="Shokuho7c1aE1B9" text="統治している集落の守備隊の賃金{VALUE}%"/>
+    <string id="ShokuhobcB781bc" text="編隊の乗騎のHP {VALUE}%"/>
+    <string id="Shokuho56b68a10" text="戦闘中、氣絶した際の死亡確率{VALUE}%"/>
+    <string id="Shokuho77310f67" text="統治している集落の守備隊の賃金{VALUE}%"/>
     <string id="b3shPt8Q" text="敵の砦には入れない"/>
-    <string id="Shokuhob63b94bA" text="あなたは首長の提案を受け入れた。村の有力者たちと村人たちはあなたの決定に喜び、{.%}{?(PRODUCT_COUNT &gt; 1)}{PRODUCT_COUNT}{PLURAL(PRODUCT)}{?}{PRODUCT}{\?}{.%}をくれた。"/>
-    <string id="Shokuho6f372194" text="編隊の歩兵によるダメージ{VALUE}%{newline}編隊の歩兵の移動速度{VALUE}%"/>
-    <string id="ShokuhoF36E862F" text="編隊による投擲攻撃の防御貫通{VALUE}%"/>
-    <string id="Shokuho6AC4875B" text="片手武器ダメージ+{a0} %"/>
-    <string id="ShokuhoceA4Ddba" text="統治している集落の攻城戦の砲撃中 、対包囲側ダメージ x2 になる確率{VALUE}%"/>
-    <string id="Shokuho3dB6d260" text="説得時、大失敗の回避確率{VALUE}%"/>
-    <string id="Shokuho06D74774" text="関税の5%が税金として、君主のクランに支払われる{newline}都市の交易ペナルティが上昇{newline}毎日、集落の繁栄-1"/>
-    <string id="Shokuhoc2A99817" text="統治している集落で、都市の守備隊によって治安{VALUE}%"/>
-    <string id="ShokuhoA948d6a7" text="負傷者による部隊の行軍速度ペナルティ{VALUE}%"/>
-    <string id="ShokuhofeE37558" text="治癒率{VALUE}%"/>
-    <string id="ShokuhocaDA8060" text="蹴りの硬直時間{VALUE}%"/>
-    <string id="Shokuho3781b75a" text="戦利品+{a0}%"/>
-    <string id="Shokuho6DCc6398" text="Tier 1-2の兵士が致命傷から回復する確率{VALUE}%"/>
-    <string id="Shokuho7879Ec31" text="足跡の発見距離{VALUE}%"/>
-    <string id="Shokuho93F125aa" text="あなたが{TARGET_SETTLEMENT}にいる{TARGET_HERO.LINK}に、{.%}{?(REQUESTED_AMOUNT &gt; 1)}{REQUESTED_AMOUNT}{PLURAL(RAW_MATERIALS)}{?}{RAW_MATERIALS}{\?}{.%}を届けてくれれば、しばらく生き延びられるだろう。都市の商人は激怒して法に訴えてくるだろうが、あなたがそこまで面倒を見る必要はないことを願おう。"/>
-    <string id="ShokuhoF3429718" text="私が届けられるのは{.%}{AMOUNT_TO_DELIVER}{PLURAL(REQUESTED_GOOD)}{?}{.%}だけだ。"/>
-    <string id="ShokuhoC555e70c" text="毎日、市民兵の入隊+1{newline}新兵の補充速度+20%{newline}集落からの税収-10%"/>
-    <string id="Shokuhoe079B35C" text="クロスボウの防御貫通{VALUE}%"/>
-    <string id="ShokuhoB9342339" text="片手武器の振りスピード{VALUE}%"/>
-    <string id="Shokuho0cd1c87F" text="防衛戦で打って出た時、自動戦闘のダメージ{VALUE}%"/>
-    <string id="Shokuho3b24b76d" text="NPCからの好感度+{a0}%"/>
-    <string id="Shokuho22A99891" text="自動戦闘時、防衛側の要塞の地の利{VALUE}%"/>
-    <string id="Shokuhoca5A0Cd2" text="自分の国内の都市での交易ペナルティ{VALUE}%"/>
-    <string id="ShokuhoF924D4f1" text="編隊の歩兵によるダメージ{VALUE}%"/>
-    <string id="Shokuho4BDe40D2" text="平地・草原・砂漠にいる間、自動戦闘時のダメージ{VALUE}%"/>
-    <string id="Shokuho178b676B" text="近接ダメージ{VALUE}%"/>
-    <string id="Shokuho24d4b11d" text="歩兵の雇用費-25%{newline}歩兵のアップグレード費用-25%"/>
-    <string id="Shokuhoce8024d6" text="部隊賃金{VALUE}%"/>
-    <string id="Shokuho6ACa9eFb" text="編隊による投擲攻撃の対騎兵ダメージ{VALUE}%"/>
-    <string id="ShokuhoB3B695e4" text="投射兵の雇用費{VALUE}%"/>
-    <string id="Shokuho78D8A73f" text="200を超えたスキルポイント1ポイント毎に、戦利品{VALUE}%"/>
-    <string id="ShokuhoA58d6a0B" text="毎日、部隊の家畜が繁殖する確率{VALUE}%"/>
-    <string id="Shokuho9c918Bb5" text="部隊の75%以上が歩兵である間、森林の行軍速度ペナルティ{VALUE}%"/>
-    <string id="Shokuho9fC5d2ab" text="投擲武器の弾速{VALUE}%"/>
-    <string id="Shokuho417B9fF7" text="統治している集落の防衛用攻城兵器のHP{VALUE}%"/>
-    <string id="Shokuhoa69a65e6" text="片手武器ダメージ{VALUE}%"/>
-    <string id="Shokuho69FE0f2D" text="破城槌と攻城塔のHP{VALUE}%"/>
-    <string id="Shokuho209D6320" text="騎乗時の片手武器ダメージ{VALUE}%"/>
-    <string id="ShokuhoC7Bf4726" text="HPが半分未満の時、両手武器ダメージ{VALUE}%"/>
-    <string id="Shokuho9c23Ba4f" text="投射兵の捕虜の雇用確率{VALUE}%"/>
-    <string id="ShokuhoD1FA13a0" text="{NUMBER_OF_DAYS}日以内に{.%}{?(REQUESTED_ITEM_COUNT &gt; 1)}{REQUESTED_ITEM_COUNT}{PLURAL(REQUESTED_ITEM)}{?}{REQUESTED_ITEM}{\?}{.%}が必要です。工具の代金とあなたの働きに{PAYMENT}{GOLD_ICON}を支払えます。いかがでしょうか?"/>
-    <string id="ShokuhoBb3b4769" text="敵を倒した直後にランスチャージの姿勢を維持できる確率{VALUE}%"/>
-    <string id="ShokuhoA3546E6a" text="支配者が領国の決定事項を覆す際の影響力コスト-20%"/>
-    <string id="ShokuhoBf3452e6" text="部隊の50%が乗馬兵の時、視界{VALUE}%"/>
-    <string id="Shokuho549775e8" text="編隊が受ける衝突ダメージ{VALUE}%"/>
-    <string id="Shokuho4BbEA07F" text="都市の交易税収+3%{newline}都市の繁栄-0.2"/>
-    <string id="Shokuho25c8933a" text="戦闘勝利時の獲得影響力{VALUE}%"/>
-    <string id="Shokuho3fB0f052" text="編隊による突撃ダメージ{VALUE}%"/>
-    <string id="Shokuho32039912" text="片手武器の操作性{VALUE}%"/>
-    <string id="Shokuho362702CA" text="{A0}隊の出費"/>
-    <string id="ShokuhoEf1e9EaB" text="対防衛側攻城兵器ダメージ{VALUE}%"/>
-    <string id="Shokuho6750997e" text="編隊による近接ダメージ{VALUE}%"/>
-    <string id="ShokuhoB3E8E5f9" text="長柄武器装備中、移動速度{VALUE}%"/>
-    <string id="Shokuho13FdBC84" text="統治している集落の城壁HP{VALUE}%"/>
-    <string id="Shokuho555881B3" text="自動戦闘時、歩兵による対騎兵ダメージ{VALUE}%"/>
-    <string id="Shokuho98CE9e01" text="統治している集落の関税収入{VALUE}%"/>
-    <string id="ShokuhoD725Ecf9" text="徒歩時、武器の操作性{VALUE}%"/>
-    <string id="Shokuho9fF62Dce" text="草原か平地を行軍中、行軍速度{VALUE}%"/>
-    <string id="ShokuhoE9686ec1" text="弓攻撃の防御貫通{VALUE}%"/>
+    <string id="ShokuhoacAd9d77" text="あなたは首長の提案を受け入れた。村の有力者たちと村人たちはあなたの決定に喜び、{.%}{?(PRODUCT_COUNT &gt; 1)}{PRODUCT_COUNT}{PLURAL(PRODUCT)}{?}{PRODUCT}{\?}{.%}をくれた。"/>
+    <string id="Shokuho1DFdC563" text="編隊の歩兵によるダメージ{VALUE}%{newline}編隊の歩兵の移動速度{VALUE}%"/>
+    <string id="Shokuho287Bf446" text="編隊による投擲攻撃の防御貫通{VALUE}%"/>
+    <string id="ShokuhoF550d821" text="片手武器ダメージ+{a0} %"/>
+    <string id="Shokuho71Db4075" text="統治している集落の攻城戦の砲撃中 、対包囲側ダメージ x2 になる確率{VALUE}%"/>
+    <string id="Shokuhoc81eaA6E" text="説得時、大失敗の回避確率{VALUE}%"/>
+    <string id="Shokuho3fAe6AC7" text="関税の5%が税金として、君主のクランに支払われる{newline}都市の交易ペナルティが上昇{newline}毎日、集落の繁栄-1"/>
+    <string id="Shokuho635dD65B" text="統治している集落で、都市の守備隊によって治安{VALUE}%"/>
+    <string id="Shokuhoc2F13758" text="負傷者による部隊の行軍速度ペナルティ{VALUE}%"/>
+    <string id="Shokuho0025507d" text="治癒率{VALUE}%"/>
+    <string id="Shokuho9354694c" text="蹴りの硬直時間{VALUE}%"/>
+    <string id="Shokuho712B9f5c" text="戦利品+{a0}%"/>
+    <string id="Shokuho483E6c92" text="Tier 1-2の兵士が致命傷から回復する確率{VALUE}%"/>
+    <string id="Shokuho4a173421" text="足跡の発見距離{VALUE}%"/>
+    <string id="Shokuho37E7c6B4" text="あなたが{TARGET_SETTLEMENT}にいる{TARGET_HERO.LINK}に、{.%}{?(REQUESTED_AMOUNT &gt; 1)}{REQUESTED_AMOUNT}{PLURAL(RAW_MATERIALS)}{?}{RAW_MATERIALS}{\?}{.%}を届けてくれれば、しばらく生き延びられるだろう。都市の商人は激怒して法に訴えてくるだろうが、あなたがそこまで面倒を見る必要はないことを願おう。"/>
+    <string id="ShokuhofaA21a24" text="私が届けられるのは{.%}{AMOUNT_TO_DELIVER}{PLURAL(REQUESTED_GOOD)}{?}{.%}だけだ。"/>
+    <string id="Shokuho13eb0d0A" text="毎日、市民兵の入隊+1{newline}新兵の補充速度+20%{newline}集落からの税収-10%"/>
+    <string id="Shokuho0b029569" text="クロスボウの防御貫通{VALUE}%"/>
+    <string id="Shokuho061842c9" text="片手武器の振りスピード{VALUE}%"/>
+    <string id="ShokuhoEd29Dd5E" text="防衛戦で打って出た時、自動戦闘のダメージ{VALUE}%"/>
+    <string id="Shokuhoce235353" text="NPCからの好感度+{a0}%"/>
+    <string id="ShokuhoB3B36260" text="自動戦闘時、防衛側の要塞の地の利{VALUE}%"/>
+    <string id="Shokuho757EDe31" text="自分の国内の都市での交易ペナルティ{VALUE}%"/>
+    <string id="Shokuho30245aE3" text="編隊の歩兵によるダメージ{VALUE}%"/>
+    <string id="Shokuho39Ef17E6" text="平地・草原・砂漠にいる間、自動戦闘時のダメージ{VALUE}%"/>
+    <string id="Shokuho5e0ffd6F" text="近接ダメージ{VALUE}%"/>
+    <string id="Shokuho443B934b" text="歩兵の雇用費-25%{newline}歩兵のアップグレード費用-25%"/>
+    <string id="Shokuhoa8E4F349" text="部隊賃金{VALUE}%"/>
+    <string id="Shokuho0aAFA820" text="編隊による投擲攻撃の対騎兵ダメージ{VALUE}%"/>
+    <string id="ShokuhoCbF5B11a" text="投射兵の雇用費{VALUE}%"/>
+    <string id="Shokuho6E9fCe9E" text="200を超えたスキルポイント1ポイント毎に、戦利品{VALUE}%"/>
+    <string id="Shokuho39801ea1" text="毎日、部隊の家畜が繁殖する確率{VALUE}%"/>
+    <string id="Shokuho69a4081E" text="部隊の75%以上が歩兵である間、森林の行軍速度ペナルティ{VALUE}%"/>
+    <string id="ShokuhoD52dCe84" text="投擲武器の弾速{VALUE}%"/>
+    <string id="Shokuho3A7F6A92" text="統治している集落の防衛用攻城兵器のHP{VALUE}%"/>
+    <string id="Shokuhob2095d33" text="片手武器ダメージ{VALUE}%"/>
+    <string id="ShokuhoCd720Dcf" text="破城槌と攻城塔のHP{VALUE}%"/>
+    <string id="Shokuho74758da9" text="騎乗時の片手武器ダメージ{VALUE}%"/>
+    <string id="Shokuho801f6878" text="HPが半分未満の時、両手武器ダメージ{VALUE}%"/>
+    <string id="ShokuhoD3DB6139" text="投射兵の捕虜の雇用確率{VALUE}%"/>
+    <string id="Shokuho759d3e20" text="{NUMBER_OF_DAYS}日以内に{.%}{?(REQUESTED_ITEM_COUNT &gt; 1)}{REQUESTED_ITEM_COUNT}{PLURAL(REQUESTED_ITEM)}{?}{REQUESTED_ITEM}{\?}{.%}が必要です。工具の代金とあなたの働きに{PAYMENT}{GOLD_ICON}を支払えます。いかがでしょうか?"/>
+    <string id="Shokuho774a6a2e" text="敵を倒した直後にランスチャージの姿勢を維持できる確率{VALUE}%"/>
+    <string id="Shokuho558a3d1e" text="支配者が領国の決定事項を覆す際の影響力コスト-20%"/>
+    <string id="Shokuho4FC51fbC" text="部隊の50%が乗馬兵の時、視界{VALUE}%"/>
+    <string id="Shokuhoc41254c3" text="編隊が受ける衝突ダメージ{VALUE}%"/>
+    <string id="Shokuhoc0Ba60e1" text="都市の交易税収+3%{newline}都市の繁栄-0.2"/>
+    <string id="Shokuho251BfD63" text="戦闘勝利時の獲得影響力{VALUE}%"/>
+    <string id="Shokuho52FDAf44" text="編隊による突撃ダメージ{VALUE}%"/>
+    <string id="Shokuho758d9e6D" text="片手武器の操作性{VALUE}%"/>
+    <string id="Shokuho421dF0F4" text="{A0}隊の出費"/>
+    <string id="Shokuho8cB829dA" text="対防衛側攻城兵器ダメージ{VALUE}%"/>
+    <string id="Shokuhoa8E44e88" text="編隊による近接ダメージ{VALUE}%"/>
+    <string id="Shokuho556525b8" text="長柄武器装備中、移動速度{VALUE}%"/>
+    <string id="ShokuhoD7DD67e2" text="統治している集落の城壁HP{VALUE}%"/>
+    <string id="ShokuhoD15C7F9B" text="自動戦闘時、歩兵による対騎兵ダメージ{VALUE}%"/>
+    <string id="Shokuho10e0cd78" text="統治している集落の関税収入{VALUE}%"/>
+    <string id="ShokuhoD15EeD27" text="徒歩時、武器の操作性{VALUE}%"/>
+    <string id="ShokuhoE795dAd2" text="草原か平地を行軍中、行軍速度{VALUE}%"/>
+    <string id="ShokuhoBf4C9615" text="弓攻撃の防御貫通{VALUE}%"/>
     <string id="4Eb32194" text="木材{@Plural}本の木材{\@}"/>
-    <string id="ShokuhofaF602c1" text="{QUEST_GIVER.LINK}は{?QUEST_GIVER.GENDER}彼女{?}彼{\?}の村が{.%}{SELECTED_ANIMAL}{.%}を必要としていることを伝えた。届けてくれれば{REWARD_GOLD}{GOLD_ICON}払うと言っている。仲間の{COMPANION.LINK}と{ALTERNATIVE_TROOP_AMOUNT}名の兵に、{.%}{?(REQUESTED_ANIMAL_AMOUNT &gt; 1)}{REQUESTED_ANIMAL_AMOUNT}{PLURAL(SELECTED_ANIMAL)}{?}{SELECTED_ANIMAL}{\?}{.%} を{QUEST_GIVER.LINK}に届けるよう命じた。{RETURN_DAYS}日後にあなたの部隊と合流する予定だ。"/>
-    <string id="ShokuhoDb70BBdf" text="盾のHP{VALUE}%"/>
-    <string id="Shokuho74b0471a" text="編隊による騎乗時の近接ダメージ{VALUE}%"/>
-    <string id="Shokuho771762bE" text="操作性{VALUE}%"/>
-    <string id="ShokuhoF1E2663c" text="盗賊・村人・隊商の降伏確率{VALUE}%"/>
-    <string id="Shokuho53F31689" text="国の決定事項による好感度ペナルティ+20%"/>
-    <string id="Shokuho2567235A" text="編隊の歩兵による近接ダメージ{VALUE}%"/>
-    <string id="Shokuho53F96dEe" text="統治している集落の守備隊の獲得XP{VALUE}%"/>
-    <string id="ShokuhoB50ed335" text="攻囲中の軍隊の結束力の減少{VALUE}%"/>
-    <string id="Shokuho180e0C33" text="草原か森林を行軍中、食糧消費{VALUE}%"/>
-    <string id="Shokuhof67555e7" text="シールドバッシュのダメージ{VALUE}%{newline}シールドバッシュによる敵の怯み時間増加"/>
-    <string id="ShokuhoCb5547fd" text="編隊が騎乗して近接攻撃で敵を倒した際の士氣ダメージ{VALUE}%"/>
-    <string id="Shokuho4B8f8eCB" text="{.%}{REQUESTED_GOOD}{.%}は持ってきてくれましたか?もう蓄えが尽きてしまいそうで、すぐにでもいくらか必要なんです。"/>
-    <string id="Shokuho8a6885c2" text="投擲武器を取り出す速度{VALUE}%"/>
-    <string id="Shokuhoba1952eC" text="投擲武器の対乗騎ダメージ{VALUE}%"/>
-    <string id="ShokuhoEd8d55dB" text="同じ文化の領主との取引ペナルティ{VALUE}%"/>
-    <string id="Shokuho5C9eA88F" text="鍛造時、スタミナ消費{VALUE}%"/>
-    <string id="Shokuho65EBd472" text="夜戦で自動戦闘をする時に与えるダメージ{VALUE}%"/>
-    <string id="ShokuhoBd76D952" text="駄獣の売買時の交易ペナルティ{VALUE}%"/>
-    <string id="Shokuho388ff4C8" text="ヒーローの治癒率+{a0}%"/>
-    <string id="Shokuho15056Df7" text="統治している集落の軍事系の建築物の建設速度{VALUE}%"/>
-    <string id="Shokuhobe837635" text="両手武器の対乗騎ダメージ{VALUE}%"/>
-    <string id="Shokuho62524d16" text="弓によるダメージ{VALUE}%"/>
-    <string id="Shokuhof02c7ae0" text="市民用武器のダメージ{VALUE}%"/>
-    <string id="Shokuho1A6283C7" text="騎乗時の投射ダメージ{VALUE}%"/>
-    <string id="Shokuhoa4C6d52d" text="{.%}{?(REQUESTED_AMOUNT &gt; 1)}{REQUESTED_AMOUNT}{PLURAL(RAW_MATERIALS)}{?}{RAW_MATERIALS}{\?}{.%}を持ってきてくれたか? こちらは約束通り{REWARD}{GOLD_ICON}が入った厚い財布を持ってきている。"/>
-    <string id="Shokuho898f35a4" text="部隊の兵士の積載量{VALUE}%"/>
-    <string id="Shokuho930ce438" text="部隊にいる兵士の賃金+5%"/>
-    <string id="ShokuhoA55De37D" text="{.%}{SELECTED_ITEM}{.%}の売却数:"/>
-    <string id="Shokuho6AbD0fBD" text="編隊の兵士数が15人未満の間、移動速度{VALUE}%"/>
-    <string id="Shokuho8b3d4Be3" text="{.%}{?ANIMAL_COUNT &gt; 1}{ANIMAL_COUNT}{PLURAL(ANIMAL_TYPE)}{?}{ANIMAL_TYPE}{\?}{.%}が部隊に加わった。"/>
-    <string id="ShokuhoB1FE812C" text="盾の壁・方陣・楔陣・縦陣の隊形中、編隊の士氣低下{VALUE}%"/>
-    <string id="Shokuho66C4958D" text="戦闘時、戦死した乗馬兵の乗騎を回収する確率{VALUE}%"/>
-    <string id="ShokuhoC9F91325" text="部隊の傭兵の賃金{VALUE}%"/>
-    <string id="Shokuho4D840317" text="盾の壁の隊形中、歩兵が受けるダメージ{VALUE}%"/>
-    <string id="Shokuho602460cA" text="毎日、所持金に応じて最大1000{GOLD_ICON}の利子収入を得る、利子率{VALUE}%"/>
-    <string id="Shokuho6186a772" text="闘技場に近づくと、出場者や賞品に関する噂が聞こえてきた。どうやらこの街には競技会に参加しようとしている{?(NOBLE_COUNT &gt; 1)}{NOBLE_COUNT}名の貴族たちが{?}貴族が1人{\?}いるらしく、武勇に優れることで有名らしい。今回の競技会で、主催者は優勝した者に{.a} 「{.%}{TOURNAMENT_PRIZE}{.%}」を贈るつもりでいるとのことだ。"/>
-    <string id="ShokuhoD761F295" text="指名手配度による交易ペナルティ{VALUE}%"/>
-    <string id="Shokuho91Aa35d6" text="攻城戦の砲撃中、死亡者が蘇生し負傷で済む確率{VALUE}%"/>
-    <string id="Shokuhofa185258" text="仲間の雇用費{VALUE}%{newline}仲間の賃金{VALUE}%"/>
-    <string id="Shokuho115505a1" text="対包囲側の攻城兵器ダメージ{VALUE}%"/>
-    <string id="ShokuhoD924A0e0" text="200を超えたスキルポイント1ポイント毎に、弓のダメージ{VALUE}%"/>
-    <string id="Shokuho7d146348" text="編隊による片手武器ダメージ{VALUE}%"/>
-    <string id="Shokuho1dcc0945" text="投擲武器使用時、照準拡大{VALUE}%"/>
-    <string id="ShokuhoE7108Ee6" text="片手武器の速度+{a0} %"/>
-    <string id="Shokuho01Fb2656" text="国の決定事項で他人の提案に投票する際の消費影響力{VALUE}%"/>
-    <string id="Shokuho38BD58C7" text="弓によるヘッドショットダメージ{VALUE}%"/>
-    <string id="Shokuho25d6ebDE" text="精製作業のスタミナ消費{VALUE}%"/>
-    <string id="Shokuho26FE8032" text="工房の生産力{VALUE}%"/>
-    <string id="Shokuho027D924b" text="投射攻城兵器の設営速度{VALUE}%"/>
-    <string id="Shokuho1a9dD2e9" text="騎乗時の長柄武器のスピードボーナス{VALUE}%"/>
-    <string id="Shokuhof4D0c6c3" text="部隊の投射兵の獲得XP{VALUE}%"/>
-    <string id="Shokuho368fcDD6" text="統治している集落の守備隊の投射兵により、治安{VALUE}%"/>
-    <string id="Shokuhod63a29e5" text="騎乗時の長柄兵器ダメージ{VALUE}%"/>
-    <string id="Shokuho6a7F4751" text="戦闘による獲得影響力{VALUE}%"/>
-    <string id="ShokuhoD5492fc4" text="統治している集落で、捕虜の脱走確率{VALUE}%"/>
-    <string id="Shokuho08b1c61B" text="飢餓による繁栄の低下{VALUE}%"/>
-    <string id="Shokuho313E1792" text="{SETTLEMENT}の職人の{QUEST_GIVER.LINK}が、仕事に必要な原材料価格を法外な価格につり上げている商人の話をした{?QUEST_GIVER.GENDER}彼女{?}彼{\?}に{.%}{?REQUESTED_AMOUNT &gt; 1}{REQUESTED_AMOUNT}{PLURAL(REQUESTED_GOOD)}{?}{REQUESTED_GOOD}{\?}{.%}を届けると約束した。{?QUEST_GIVER.GENDER}彼女{?}彼{\?}は報酬として{REWARD_AMOUNT}{GOLD_ICON}を払うと言っている。"/>
-    <string id="Shokuho4826c9dD" text="両手武器の対盾ダメージ{VALUE}%"/>
-    <string id="Shokuho2FE08ba5" text="編隊による投擲攻撃の対盾ダメージ{VALUE}%"/>
+    <string id="ShokuhoE342e962" text="{QUEST_GIVER.LINK}は{?QUEST_GIVER.GENDER}彼女{?}彼{\?}の村が{.%}{SELECTED_ANIMAL}{.%}を必要としていることを伝えた。届けてくれれば{REWARD_GOLD}{GOLD_ICON}払うと言っている。仲間の{COMPANION.LINK}と{ALTERNATIVE_TROOP_AMOUNT}名の兵に、{.%}{?(REQUESTED_ANIMAL_AMOUNT &gt; 1)}{REQUESTED_ANIMAL_AMOUNT}{PLURAL(SELECTED_ANIMAL)}{?}{SELECTED_ANIMAL}{\?}{.%} を{QUEST_GIVER.LINK}に届けるよう命じた。{RETURN_DAYS}日後にあなたの部隊と合流する予定だ。"/>
+    <string id="Shokuho4236302E" text="盾のHP{VALUE}%"/>
+    <string id="Shokuho0d77B83F" text="編隊による騎乗時の近接ダメージ{VALUE}%"/>
+    <string id="Shokuho2b9F6B30" text="操作性{VALUE}%"/>
+    <string id="ShokuhoC7923F89" text="盗賊・村人・隊商の降伏確率{VALUE}%"/>
+    <string id="Shokuho9bDF2B65" text="国の決定事項による好感度ペナルティ+20%"/>
+    <string id="Shokuho5f2E45E4" text="編隊の歩兵による近接ダメージ{VALUE}%"/>
+    <string id="Shokuho9a5D70d9" text="統治している集落の守備隊の獲得XP{VALUE}%"/>
+    <string id="Shokuho9bF73D13" text="攻囲中の軍隊の結束力の減少{VALUE}%"/>
+    <string id="Shokuho9d6E8d45" text="草原か森林を行軍中、食糧消費{VALUE}%"/>
+    <string id="Shokuho5949a69b" text="シールドバッシュのダメージ{VALUE}%{newline}シールドバッシュによる敵の怯み時間増加"/>
+    <string id="Shokuho319A0300" text="編隊が騎乗して近接攻撃で敵を倒した際の士氣ダメージ{VALUE}%"/>
+    <string id="Shokuhoa208583F" text="{.%}{REQUESTED_GOOD}{.%}は持ってきてくれましたか?もう蓄えが尽きてしまいそうで、すぐにでもいくらか必要なんです。"/>
+    <string id="ShokuhoaaE9D947" text="投擲武器を取り出す速度{VALUE}%"/>
+    <string id="Shokuho2d8b6438" text="投擲武器の対乗騎ダメージ{VALUE}%"/>
+    <string id="Shokuho3673eda0" text="同じ文化の領主との取引ペナルティ{VALUE}%"/>
+    <string id="ShokuhoB5AfE703" text="鍛造時、スタミナ消費{VALUE}%"/>
+    <string id="Shokuho57970764" text="夜戦で自動戦闘をする時に与えるダメージ{VALUE}%"/>
+    <string id="Shokuho5012588c" text="駄獣の売買時の交易ペナルティ{VALUE}%"/>
+    <string id="Shokuho15cd98cC" text="ヒーローの治癒率+{a0}%"/>
+    <string id="Shokuhoe0C0b082" text="統治している集落の軍事系の建築物の建設速度{VALUE}%"/>
+    <string id="Shokuho89561A77" text="両手武器の対乗騎ダメージ{VALUE}%"/>
+    <string id="ShokuhoFbE7Aa0b" text="弓によるダメージ{VALUE}%"/>
+    <string id="Shokuho350c2A0f" text="市民用武器のダメージ{VALUE}%"/>
+    <string id="ShokuhofcE3705f" text="騎乗時の投射ダメージ{VALUE}%"/>
+    <string id="ShokuhobaBbD5d9" text="{.%}{?(REQUESTED_AMOUNT &gt; 1)}{REQUESTED_AMOUNT}{PLURAL(RAW_MATERIALS)}{?}{RAW_MATERIALS}{\?}{.%}を持ってきてくれたか? こちらは約束通り{REWARD}{GOLD_ICON}が入った厚い財布を持ってきている。"/>
+    <string id="Shokuhoa2A3Fc7a" text="部隊の兵士の積載量{VALUE}%"/>
+    <string id="ShokuhoCb7179df" text="部隊にいる兵士の賃金+5%"/>
+    <string id="Shokuho64a40d11" text="{.%}{SELECTED_ITEM}{.%}の売却数:"/>
+    <string id="Shokuho9924C6e0" text="編隊の兵士数が15人未満の間、移動速度{VALUE}%"/>
+    <string id="Shokuho86528264" text="{.%}{?ANIMAL_COUNT &gt; 1}{ANIMAL_COUNT}{PLURAL(ANIMAL_TYPE)}{?}{ANIMAL_TYPE}{\?}{.%}が部隊に加わった。"/>
+    <string id="Shokuhoae454695" text="盾の壁・方陣・楔陣・縦陣の隊形中、編隊の士氣低下{VALUE}%"/>
+    <string id="Shokuho622B2c63" text="戦闘時、戦死した乗馬兵の乗騎を回収する確率{VALUE}%"/>
+    <string id="ShokuhoFd0f1d4A" text="部隊の傭兵の賃金{VALUE}%"/>
+    <string id="ShokuhoAf0edb5C" text="盾の壁の隊形中、歩兵が受けるダメージ{VALUE}%"/>
+    <string id="Shokuho7324d5b4" text="毎日、所持金に応じて最大1000{GOLD_ICON}の利子収入を得る、利子率{VALUE}%"/>
+    <string id="Shokuho8a93a2e3" text="闘技場に近づくと、出場者や賞品に関する噂が聞こえてきた。どうやらこの街には競技会に参加しようとしている{?(NOBLE_COUNT &gt; 1)}{NOBLE_COUNT}名の貴族たちが{?}貴族が1人{\?}いるらしく、武勇に優れることで有名らしい。今回の競技会で、主催者は優勝した者に{.a} 「{.%}{TOURNAMENT_PRIZE}{.%}」を贈るつもりでいるとのことだ。"/>
+    <string id="Shokuho156f5CDA" text="指名手配度による交易ペナルティ{VALUE}%"/>
+    <string id="Shokuhof4E4D5d5" text="攻城戦の砲撃中、死亡者が蘇生し負傷で済む確率{VALUE}%"/>
+    <string id="Shokuho8cD5c7b8" text="仲間の雇用費{VALUE}%{newline}仲間の賃金{VALUE}%"/>
+    <string id="Shokuhob275ED82" text="対包囲側の攻城兵器ダメージ{VALUE}%"/>
+    <string id="Shokuho8d0d38f9" text="200を超えたスキルポイント1ポイント毎に、弓のダメージ{VALUE}%"/>
+    <string id="Shokuho38F8d25b" text="編隊による片手武器ダメージ{VALUE}%"/>
+    <string id="ShokuhobeE59be5" text="投擲武器使用時、照準拡大{VALUE}%"/>
+    <string id="Shokuho6c244858" text="片手武器の速度+{a0} %"/>
+    <string id="Shokuho2756836F" text="国の決定事項で他人の提案に投票する際の消費影響力{VALUE}%"/>
+    <string id="Shokuhoe2D8f1d9" text="弓によるヘッドショットダメージ{VALUE}%"/>
+    <string id="Shokuho2eA582B9" text="精製作業のスタミナ消費{VALUE}%"/>
+    <string id="Shokuho411f5fAC" text="工房の生産力{VALUE}%"/>
+    <string id="Shokuho9fE130c3" text="投射攻城兵器の設営速度{VALUE}%"/>
+    <string id="Shokuhod0763849" text="騎乗時の長柄武器のスピードボーナス{VALUE}%"/>
+    <string id="ShokuhoCb10f889" text="部隊の投射兵の獲得XP{VALUE}%"/>
+    <string id="ShokuhoE32978dE" text="統治している集落の守備隊の投射兵により、治安{VALUE}%"/>
+    <string id="Shokuho758a5203" text="騎乗時の長柄兵器ダメージ{VALUE}%"/>
+    <string id="Shokuho570d3055" text="戦闘による獲得影響力{VALUE}%"/>
+    <string id="Shokuhod2370985" text="統治している集落で、捕虜の脱走確率{VALUE}%"/>
+    <string id="Shokuho4Ea5bcdC" text="飢餓による繁栄の低下{VALUE}%"/>
+    <string id="Shokuhob20a185E" text="{SETTLEMENT}の職人の{QUEST_GIVER.LINK}が、仕事に必要な原材料価格を法外な価格につり上げている商人の話をした{?QUEST_GIVER.GENDER}彼女{?}彼{\?}に{.%}{?REQUESTED_AMOUNT &gt; 1}{REQUESTED_AMOUNT}{PLURAL(REQUESTED_GOOD)}{?}{REQUESTED_GOOD}{\?}{.%}を届けると約束した。{?QUEST_GIVER.GENDER}彼女{?}彼{\?}は報酬として{REWARD_AMOUNT}{GOLD_ICON}を払うと言っている。"/>
+    <string id="Shokuho4ADb3641" text="両手武器の対盾ダメージ{VALUE}%"/>
+    <string id="Shokuho30dDd3Fc" text="編隊による投擲攻撃の対盾ダメージ{VALUE}%"/>
     <string id="iOrtiVLt" text=" {CLAN_NAME}の一族"/>
-    <string id="Shokuho664082c8" text="略奪速度{VALUE}%"/>
-    <string id="Shokuhod23aA30A" text="仲買人の立場のほうがいい。自分の金は取っておきたい。そちらの部下に言って、もう{.%}{SELECTED_ITEM}{.%}を積み始めてもらってかまわない。"/>
-    <string id="Shokuho9f8e261F" text="Tier 2以上の兵士の雇用費{VALUE}%"/>
-    <string id="Shokuho01e6Ad59" text="統治している集落の周辺の村の村人の部隊の規模{VALUE}%"/>
-    <string id="Shokuho86842056" text="編隊の騎兵の長柄武器のスピードボーナス{VALUE}%"/>
-    <string id="Shokuho448ad325" text="250を超えたスキルポイント毎に片手武器の攻撃速度{VALUE}%"/>
-    <string id="Shokuho9216397f" text="攻城戦の砲撃中、対城壁ダメージ{VALUE}%"/>
-    <string id="ShokuhoC338632A" text="編隊の獲得XP{VALUE}%"/>
-    <string id="ShokuhoDf1640d4" text="草原か平地を行軍中、乗騎を捕獲する確率{VALUE}%"/>
-    <string id="Shokuhoa24Ba98A" text="軍隊に参加時の部隊の賃金{VALUE}%"/>
-    <string id="Shokuho51C5c42A" text="{?QUEST_GIVER.GENDER}彼女{?}彼{\?}は{.%}{?SELECTED_ITEM_COUNT &gt; 1}{SELECTED_ITEM_COUNT}{PLURAL(SELECTED_ITEM)}{?}{SELECTED_ITEM}{\?}{.%}を持っていて{TOTAL_GOLD}{GOLD_ICON}儲けたいと考えている。"/>
-    <string id="ShokuhoBfEB360C" text="約束通り、{?IS_PLURAL}{.%}{SELECTED_ITEM_COUNT}{PLURAL(SELECTED_ITEM)}{.%}が{?}{.%}{SELECTED_ITEM}{.%}が{\?}インベントリに追加された。"/>
-    <string id="ShokuhoAd54a16a" text="部隊の盗賊系兵士の食糧消費{VALUE}%"/>
-    <string id="Shokuho6a1aFd21" text="統治している都市の建設事業のブースト効果{VALUE}%"/>
-    <string id="Shokuho87736D74" text="雪原・森林にいる間、自動戦闘時のダメージ{VALUE}%"/>
-    <string id="ShokuhoE7D046ef" text="統治している集落の周辺の村の穀物・オリーブ・魚・デーツの生産力{VALUE}%"/>
-    <string id="Shokuho922a89bB" text="投擲武器の重い一撃が乗馬兵を振り落とす確率{VALUE}%"/>
-    <string id="Shokuho193aD5D1" text="隠れ家の発見範囲{VALUE}%"/>
-    <string id="Shokuho02711ae7" text="騎乗時の投擲の精度低下{VALUE}%"/>
-    <string id="ShokuhoFbE17f2e" text="200を超えたスキルポイント1ポイント毎に、クロスボウの装填速度{VALUE}%"/>
-    <string id="Shokuhoec0379b4" text="弓の照準速度{VALUE}%"/>
-    <string id="Shokuho39d2d2aB" text="騎兵の雇用費-10%{newline}騎兵のアップグレード費用-10%"/>
-    <string id="Shokuho13B4b1af" text="クロスボウの精度+{a0} %"/>
-    <string id="Shokuhoe027Df59" text="横陣・散開・円陣・散兵線の隊形中、兵士の士氣ペナルティ{VALUE}%"/>
-    <string id="Shokuho4970D137" text="クロスボウの命中で乗馬兵を落馬させる確率{VALUE}%"/>
-    <string id="Shokuho53578558" text="{.%}{?ANIMAL_COUNT_TO_DELIVER &gt; 1}{ANIMAL_COUNT_TO_DELIVER}{PLURAL(HERD_TYPE_TO_DELIVER)}{?}{HERD_TYPE_TO_DELIVER}{\?}{.%}を無事に送り届けるために、私の仲間{NEEDED_MEN_COUNT}名をつけよう。"/>
-    <string id="Shokuho4Fa122c7" text="砂漠と砂丘での行軍速度{VALUE}%"/>
-    <string id="Shokuho8415c8f6" text="作成した武器の突きダメージ{VALUE}%"/>
-    <string id="Shokuhoe215b524" text="編隊の射手の移動速度{VALUE}%"/>
-    <string id="ShokuhoE5BcBF0F" text="落馬耐性: 最大HPの{a0}%"/>
+    <string id="Shokuho12591093" text="略奪速度{VALUE}%"/>
+    <string id="Shokuho6C8438e9" text="仲買人の立場のほうがいい。自分の金は取っておきたい。そちらの部下に言って、もう{.%}{SELECTED_ITEM}{.%}を積み始めてもらってかまわない。"/>
+    <string id="Shokuhob44285bf" text="Tier 2以上の兵士の雇用費{VALUE}%"/>
+    <string id="Shokuho66b34490" text="統治している集落の周辺の村の村人の部隊の規模{VALUE}%"/>
+    <string id="ShokuhoEbF0C4fc" text="編隊の騎兵の長柄武器のスピードボーナス{VALUE}%"/>
+    <string id="Shokuho115265D9" text="250を超えたスキルポイント毎に片手武器の攻撃速度{VALUE}%"/>
+    <string id="Shokuho86E7Ecd9" text="攻城戦の砲撃中、対城壁ダメージ{VALUE}%"/>
+    <string id="Shokuho3F52aae1" text="編隊の獲得XP{VALUE}%"/>
+    <string id="Shokuho3Dd5910d" text="草原か平地を行軍中、乗騎を捕獲する確率{VALUE}%"/>
+    <string id="Shokuho670861Fb" text="軍隊に参加時の部隊の賃金{VALUE}%"/>
+    <string id="Shokuhoc668B91C" text="{?QUEST_GIVER.GENDER}彼女{?}彼{\?}は{.%}{?SELECTED_ITEM_COUNT &gt; 1}{SELECTED_ITEM_COUNT}{PLURAL(SELECTED_ITEM)}{?}{SELECTED_ITEM}{\?}{.%}を持っていて{TOTAL_GOLD}{GOLD_ICON}儲けたいと考えている。"/>
+    <string id="Shokuho5d788fC5" text="約束通り、{?IS_PLURAL}{.%}{SELECTED_ITEM_COUNT}{PLURAL(SELECTED_ITEM)}{.%}が{?}{.%}{SELECTED_ITEM}{.%}が{\?}インベントリに追加された。"/>
+    <string id="Shokuho325E8298" text="部隊の盗賊系兵士の食糧消費{VALUE}%"/>
+    <string id="Shokuhoa663C820" text="統治している都市の建設事業のブースト効果{VALUE}%"/>
+    <string id="Shokuho30dB1Ac7" text="雪原・森林にいる間、自動戦闘時のダメージ{VALUE}%"/>
+    <string id="Shokuhof0C859dC" text="統治している集落の周辺の村の穀物・オリーブ・魚・デーツの生産力{VALUE}%"/>
+    <string id="ShokuhoAfD44095" text="投擲武器の重い一撃が乗馬兵を振り落とす確率{VALUE}%"/>
+    <string id="Shokuho00e12801" text="隠れ家の発見範囲{VALUE}%"/>
+    <string id="ShokuhoA1544D92" text="騎乗時の投擲の精度低下{VALUE}%"/>
+    <string id="Shokuho2e315e71" text="200を超えたスキルポイント1ポイント毎に、クロスボウの装填速度{VALUE}%"/>
+    <string id="Shokuho30A12f9c" text="弓の照準速度{VALUE}%"/>
+    <string id="Shokuhodc678dc4" text="騎兵の雇用費-10%{newline}騎兵のアップグレード費用-10%"/>
+    <string id="ShokuhoE39c03fC" text="クロスボウの精度+{a0} %"/>
+    <string id="Shokuho7187f28C" text="横陣・散開・円陣・散兵線の隊形中、兵士の士氣ペナルティ{VALUE}%"/>
+    <string id="Shokuho79C1adee" text="クロスボウの命中で乗馬兵を落馬させる確率{VALUE}%"/>
+    <string id="ShokuhofeC6a750" text="{.%}{?ANIMAL_COUNT_TO_DELIVER &gt; 1}{ANIMAL_COUNT_TO_DELIVER}{PLURAL(HERD_TYPE_TO_DELIVER)}{?}{HERD_TYPE_TO_DELIVER}{\?}{.%}を無事に送り届けるために、私の仲間{NEEDED_MEN_COUNT}名をつけよう。"/>
+    <string id="ShokuhoB76267ba" text="砂漠と砂丘での行軍速度{VALUE}%"/>
+    <string id="Shokuho0f501612" text="作成した武器の突きダメージ{VALUE}%"/>
+    <string id="Shokuhobc9f52f4" text="編隊の射手の移動速度{VALUE}%"/>
+    <string id="Shokuho3a250f37" text="落馬耐性: 最大HPの{a0}%"/>
     <string id="kbKmlMbu" text="国王直属傭兵部隊"/>
-    <string id="Shokuho1218E52e" text="編隊による弓の防御貫通{VALUE}%"/>
-    <string id="Shokuho4026f9f9" text="陶器・工具・綿・宝飾品の売却ペナルティ{VALUE}%"/>
-    <string id="ShokuhoD334B62d" text="編隊のクロスボウによる防御貫通{VALUE}%"/>
-    <string id="ShokuhoAdB302dd" text="君主のクランは各都市の資産に課税+5%{newline}工房の生産量-10%"/>
-    <string id="Shokuho38d9a3d8" text="陣形再編時間{VALUE}%"/>
-    <string id="Shokuhodc94a47f" text="攻城戦の砲撃中、投射攻城兵器へ攻撃が命中する確率{VALUE}%"/>
-    <string id="Shokuho85C73b26" text="近接攻撃の防御貫通{VALUE}%"/>
-    <string id="Shokuho0d51a913" text="弓による対乗騎ダメージ{VALUE}%"/>
-    <string id="Shokuho4FbD0f9E" text="戦闘開始時、部隊の投射兵の士氣{VALUE}%"/>
-    <string id="Shokuho62b34f05" text="攻城戦の野営地にいる間、部隊の食糧消費{VALUE}%"/>
-    <string id="Shokuho58F7EebC" text="編隊の装填速度{VALUE}%"/>
-    <string id="Shokuho45Cfa403" text="追跡範囲+{a0}%"/>
-    <string id="Shokuho982fC94E" text="自動戦闘時の部下の兵士によるダメージ{VALUE}%"/>
-    <string id="Shokuho039Be23F" text="盗賊以外の捕虜の雇用速度{VALUE}%"/>
-    <string id="ShokuhoF7BeA9eC" text="統治している集落で、高い練度の市民兵が入隊する確率{VALUE}%"/>
-    <string id="Shokuho3Ed9c827" text="はい、{?PLAYER.GENDER}ご婦人{?}閣下{\?}。私たちの共通の友人の{QUEST_GIVER.LINK}から便りが届きました。あなたが{?QUEST_GIVER.GENDER}彼女{?}彼{\?}の{.%}{?HERD_AMOUNT &gt; 1}{HERD_AMOUNT}{PLURAL(HERD_TYPE)}{?}{HERD_TYPE}{\?}{.%}を連れてくるはずだと聞いています。"/>
-    <string id="Shokuho705826Fa" text="編隊の歩兵の攻撃速度{VALUE}%"/>
-    <string id="Shokuho914A3d48" text="部隊の士氣が70以上の間、治癒率{VALUE}%"/>
-    <string id="ShokuhoA13a5D8B" text="支配者の軍隊結成の影響力コスト-30%{newline}支配者の率いる軍隊の結束力コスト-30%{newline}支配者でない領主の軍隊結成に必要な影響力コスト+10%"/>
-    <string id="Shokuho8d5E39c6" text="自身が捕虜になった時の身代金{VALUE}%"/>
-    <string id="Shokuho63904c28" text="編隊のクロスボウ兵の対乗騎ダメージ{VALUE}%"/>
-    <string id="Shokuho42C959A4" text="方向転換時の精度低下{VALUE}%"/>
-    <string id="Shokuho026e951a" text="敵の探知距離+{a0} %"/>
-    <string id="Shokuho9f68B8f2" text="クロスボウの照準速度{VALUE}%"/>
-    <string id="Shokuho46F8A6B5" text="編隊による対乗騎ダメージ{VALUE}%"/>
-    <string id="Shokuho023cc761" text="編隊の歩兵の武器の操作性{VALUE}%"/>
+    <string id="Shokuho746B9e1a" text="編隊による弓の防御貫通{VALUE}%"/>
+    <string id="Shokuhobe0c3a1A" text="陶器・工具・綿・宝飾品の売却ペナルティ{VALUE}%"/>
+    <string id="Shokuho0926Ce3A" text="編隊のクロスボウによる防御貫通{VALUE}%"/>
+    <string id="Shokuho8706f7e5" text="君主のクランは各都市の資産に課税+5%{newline}工房の生産量-10%"/>
+    <string id="Shokuho022DcF70" text="陣形再編時間{VALUE}%"/>
+    <string id="Shokuho0eEF2D6f" text="攻城戦の砲撃中、投射攻城兵器へ攻撃が命中する確率{VALUE}%"/>
+    <string id="Shokuho035331eF" text="近接攻撃の防御貫通{VALUE}%"/>
+    <string id="Shokuho0106D147" text="弓による対乗騎ダメージ{VALUE}%"/>
+    <string id="Shokuho22184A6d" text="戦闘開始時、部隊の投射兵の士氣{VALUE}%"/>
+    <string id="Shokuho237Da7C7" text="攻城戦の野営地にいる間、部隊の食糧消費{VALUE}%"/>
+    <string id="Shokuho99E83d6E" text="編隊の装填速度{VALUE}%"/>
+    <string id="Shokuho5AE26d0b" text="追跡範囲+{a0}%"/>
+    <string id="Shokuho582Ee74F" text="自動戦闘時の部下の兵士によるダメージ{VALUE}%"/>
+    <string id="ShokuhoA79cc6fB" text="盗賊以外の捕虜の雇用速度{VALUE}%"/>
+    <string id="Shokuho3Fc240f2" text="統治している集落で、高い練度の市民兵が入隊する確率{VALUE}%"/>
+    <string id="Shokuho67E67ed7" text="はい、{?PLAYER.GENDER}ご婦人{?}閣下{\?}。私たちの共通の友人の{QUEST_GIVER.LINK}から便りが届きました。あなたが{?QUEST_GIVER.GENDER}彼女{?}彼{\?}の{.%}{?HERD_AMOUNT &gt; 1}{HERD_AMOUNT}{PLURAL(HERD_TYPE)}{?}{HERD_TYPE}{\?}{.%}を連れてくるはずだと聞いています。"/>
+    <string id="Shokuho3114ec14" text="編隊の歩兵の攻撃速度{VALUE}%"/>
+    <string id="Shokuho48Cba541" text="部隊の士氣が70以上の間、治癒率{VALUE}%"/>
+    <string id="Shokuhoea105689" text="支配者の軍隊結成の影響力コスト-30%{newline}支配者の率いる軍隊の結束力コスト-30%{newline}支配者でない領主の軍隊結成に必要な影響力コスト+10%"/>
+    <string id="Shokuho80BcCCfD" text="自身が捕虜になった時の身代金{VALUE}%"/>
+    <string id="ShokuhoC16556e3" text="編隊のクロスボウ兵の対乗騎ダメージ{VALUE}%"/>
+    <string id="Shokuho4c3B6916" text="方向転換時の精度低下{VALUE}%"/>
+    <string id="Shokuho81056e43" text="敵の探知距離+{a0} %"/>
+    <string id="Shokuho033422f9" text="クロスボウの照準速度{VALUE}%"/>
+    <string id="Shokuho98Be4200" text="編隊による対乗騎ダメージ{VALUE}%"/>
+    <string id="Shokuho32F28ea6" text="編隊の歩兵の武器の操作性{VALUE}%"/>
     <string id="LgSTrjuk" text="博徒"/>
-    <string id="Shokuho5d5805F1" text="片手武器による対盾ダメージ{VALUE}%"/>
-    <string id="Shokuho965Da304" text="毎日、Tier5以上の一族の影響力+0.5{newline}Tierの低い一族を軍隊に招待するための消費影響力-20%"/>
-    <string id="ShokuhoDbCD2347" text="部隊の捕虜になっている領主の脱走確率{VALUE}%"/>
-    <string id="ShokuhoA1A03825" text="移動中の部隊の捕虜になっている時の脱走成功確率{VALUE}%"/>
-    <string id="Shokuho517D579B" text="乗騎の最高速度{VALUE}%"/>
-    <string id="Shokuho2054f1Eb" text="自動戦闘中、兵士の獲得XP{VALUE}%"/>
-    <string id="Shokuho59b248b4" text="統治している都市の建設事業の速度{VALUE}%"/>
-    <string id="Shokuho125266C1" text="200を超えるスキルポイント1ポイント毎に、統治する集落の税収{VALUE}%"/>
-    <string id="Shokuho50E11046" text="軍隊に部隊を召集する際の消費影響力{VALUE}%"/>
-    <string id="Shokuho02Aa5a0e" text="仲間の雇用費{VALUE}%"/>
-    <string id="Shokuho7e5fB811" text="攻城戦の砲撃中、マンゴネルとトレビュシェの精度{VALUE}%"/>
-    <string id="Shokuho865EfAb8" text="編隊による攻撃のスピードボーナス{VALUE}%"/>
-    <string id="Shokuho0ab293b6" text="軍隊に部隊を召集する際の消費影響力{VALUE}%"/>
+    <string id="ShokuhoB186a00e" text="片手武器による対盾ダメージ{VALUE}%"/>
+    <string id="Shokuho8a9319ff" text="毎日、Tier5以上の一族の影響力+0.5{newline}Tierの低い一族を軍隊に招待するための消費影響力-20%"/>
+    <string id="Shokuho1782a0Ec" text="部隊の捕虜になっている領主の脱走確率{VALUE}%"/>
+    <string id="ShokuhoA9B6A92a" text="移動中の部隊の捕虜になっている時の脱走成功確率{VALUE}%"/>
+    <string id="Shokuho14e7e3D2" text="乗騎の最高速度{VALUE}%"/>
+    <string id="Shokuho57989eAd" text="自動戦闘中、兵士の獲得XP{VALUE}%"/>
+    <string id="Shokuho3a9A161B" text="統治している都市の建設事業の速度{VALUE}%"/>
+    <string id="Shokuho56C86e57" text="200を超えるスキルポイント1ポイント毎に、統治する集落の税収{VALUE}%"/>
+    <string id="ShokuhodaA97aa9" text="軍隊に部隊を召集する際の消費影響力{VALUE}%"/>
+    <string id="Shokuho8f73BF9b" text="仲間の雇用費{VALUE}%"/>
+    <string id="ShokuhoA9843ccd" text="攻城戦の砲撃中、マンゴネルとトレビュシェの精度{VALUE}%"/>
+    <string id="Shokuho9b07c804" text="編隊による攻撃のスピードボーナス{VALUE}%"/>
+    <string id="Shokuho3909bA65" text="軍隊に部隊を召集する際の消費影響力{VALUE}%"/>
     <string id="mdNRYlfS" text="氣にしないでくれ。"/>
-    <string id="ShokuhofcD4b492" text="村への敵対行為時、戦利品の獲得{VALUE}%"/>
-    <string id="ShokuhoD9C5912e" text="心配は無用だ。私が直接あなたの{.%}{?ANIMAL_COUNT_TO_DELIVER &gt; 1}{ANIMAL_COUNT_TO_DELIVER}{PLURAL(HERD_TYPE_TO_DELIVER)}{?}{HERD_TYPE_TO_DELIVER}{\?}{.%}を{TARGET_SETTLEMENT}の{TARGET_HERO.LINK}に届けよう。"/>
-    <string id="Shokuho64Da766d" text="重い一撃で騎兵を乗騎から振り落とす確率{VALUE}%"/>
-    <string id="Shokuho0b3EC3d1" text="射手の共有XP{VALUE}%"/>
-    <string id="Shokuhoc85CdE8D" text="攻城戦の砲撃中、対防衛兵ダメージが2倍になる確率{VALUE}%"/>
-    <string id="Shokuho3b2feDEA" text="統治している集落の周辺の村の粘土・鉄・綿・銀の生産力{VALUE}%"/>
-    <string id="Shokuho9c9ad71A" text="統治している集落が包囲下にある間、食糧消費{VALUE}%"/>
-    <string id="Shokuho608bb40f" text="統治している集落で、捕虜の脱走確率{VALUE}%"/>
-    <string id="Shokuho091614fb" text="はい。{QUEST_GIVER.LINK}が私たちに便りをよこした。{?QUEST_GIVER.GENDER}彼女{?}彼{\?}が持っていた{.%}{RAW_MATERIALS}{.%}が届くはずです。"/>
-    <string id="Shokuho4C8b459e" text="指名手配度の減少率{VALUE}%"/>
-    <string id="Shokuho961ee6dB" text="軍隊の結束力のブーストの消費影響力{VALUE}%"/>
-    <string id="Shokuho41D7582E" text="攻城戦の砲撃中、バリスタの精度{VALUE}%"/>
-    <string id="Shokuho5499427b" text="足跡が見える時間{VALUE}%"/>
-    <string id="Shokuho3017484A" text="わかった。{.%}{?SELECTED_AMOUNT &gt; 1}{SELECTED_AMOUNT}{PLURAL(SELECTED_GOOD)}{?}{SELECTED_GOOD}{\?}{.%}を届けよう。"/>
-    <string id="Shokuho34987A22" text="盾と投射武器を装備していない時、戦闘中の移動速度{VALUE}%"/>
-    <string id="Shokuho1C78E426" text="統治している集落の乗馬兵の賃金{VALUE}%"/>
-    <string id="Shokuhoec3a8AaA" text="{.%}{BANDIT_NAME}{.%}がこの近くにある古い{HIDEOUT_NAME}に移動したらしい。旅をしているなら注意したほうがいい。"/>
-    <string id="Shokuhoca03f0d0" text="過積載ペナルティ{VALUE}%"/>
-    <string id="Shokuho82324Ef9" text="騎乗時に投射攻撃で敵を倒した際の士氣ダメージ{VALUE}%"/>
-    <string id="Shokuho9543db44" text="騎乗時の精度低下{VALUE}%"/>
-    <string id="Shokuho59C037d9" text="攻城戦の砲撃中、被害が1人増える確率{VALUE}%"/>
-    <string id="Shokuho6c649607" text="集落で待機中、治癒率{VALUE}%"/>
-    <string id="Shokuho1d442142" text="取引時、余分に代金を支払った際の好感度上昇{VALUE}%"/>
-    <string id="Shokuho4681da99" text="徒歩時、よろめき耐性{VALUE}%"/>
-    <string id="Shokuho230d1341" text="統治している集落が包囲下にある間、毎日、市民兵{VALUE}%"/>
-    <string id="ShokuhoC7D5bFdb" text="両手持ち武器の速度+{a0} %"/>
-    <string id="Shokuhob69acE36" text="編隊の戦闘中の移動速度{VALUE}%"/>
-    <string id="Shokuho62C181b9" text="キャンペーンマップ上で行軍中の治癒率{VALUE}%"/>
-    <string id="Shokuho1663ab99" text="徒歩時、長柄兵器ダメージ{VALUE}%"/>
-    <string id="Shokuhodc871a4c" text="統治している集落からの税収{VALUE}%"/>
-    <string id="ShokuhoBfD32F2b" text="溶解時のスタミナ消費{VALUE}%"/>
-    <string id="ShokuhoA3359529" text="領主を軍隊に招集するために必要な影響力+20%"/>
-    <string id="ShokuhoE584e46d" text="統治している集落が包囲下にある間、食糧消費{VALUE}%"/>
-    <string id="Shokuhoba615249" text="領国の主に対しすべての集落から税収+5%{newline}毎日、都市の繁栄-1{newline}主の一族が宣戦布告に必要な影響力x2"/>
-    <string id="Shokuhod2B19E0d" text="武器の売却ペナルティ{VALUE}%"/>
-    <string id="ShokuhoF7CA6477" text="投擲武器を持っている間、受ける投射ダメージ{VALUE}%"/>
-    <string id="Shokuho714a26Aa" text="長柄武器の突き攻撃で敵をのけぞらせる確率{VALUE}%"/>
-    <string id="Shokuho6FF9Ac05" text="一族が統治している集落で、乗馬兵の志願率{VALUE}%"/>
-    <string id="ShokuhoAb678446" text="騎乗時の武器の速度と装填ペナルティ: {a0}%"/>
-    <string id="Shokuho49bE41BC" text="戦闘終了時、投射兵の獲得XP{VALUE}%"/>
-    <string id="Shokuho17a88ecc" text="戦闘中、乗騎が転倒によって死亡または脚を怪我する確率{VALUE}%"/>
-    <string id="ShokuhoC1FA1718" text="投射攻城兵器のHP{VALUE}%"/>
-    <string id="Shokuho22E6d113" text="両手武器の操作性{VALUE}%"/>
-    <string id="ShokuhoB928292C" text="集落で待機中、部隊賃金{VALUE}%"/>
-    <string id="Shokuho22A915e4" text="雇用費{VALUE}%"/>
-    <string id="Shokuho83Ad8a2F" text="君主のクランに税金として払われる村の収入+5%{newline}一族の村からの税収収入-5%"/>
-    <string id="Shokuho33B27af0" text="編隊の歩兵による対騎兵ダメージ{VALUE}%"/>
-    <string id="Shokuho3058c29d" text="部隊の投擲武器を装備した兵士の戦闘からの獲得XP{VALUE}%"/>
-    <string id="ShokuhoC3187AeD" text="攻城戦中の部隊の食糧消費量{VALUE}%"/>
-    <string id="Shokuhoca90aBde" text="盗賊との取引時に、平和に立ち去るよう説得できる確率{VALUE}%"/>
-    <string id="Shokuho6Eb29490" text="統治している集落の建設事業の効率{VALUE}%"/>
-    <string id="Shokuho76a1cbc6" text="部隊の捕虜の脱走確率{VALUE}%"/>
+    <string id="Shokuho6850A946" text="村への敵対行為時、戦利品の獲得{VALUE}%"/>
+    <string id="Shokuho05e25cf9" text="心配は無用だ。私が直接あなたの{.%}{?ANIMAL_COUNT_TO_DELIVER &gt; 1}{ANIMAL_COUNT_TO_DELIVER}{PLURAL(HERD_TYPE_TO_DELIVER)}{?}{HERD_TYPE_TO_DELIVER}{\?}{.%}を{TARGET_SETTLEMENT}の{TARGET_HERO.LINK}に届けよう。"/>
+    <string id="Shokuho1519738B" text="重い一撃で騎兵を乗騎から振り落とす確率{VALUE}%"/>
+    <string id="Shokuho4a5f3d29" text="射手の共有XP{VALUE}%"/>
+    <string id="Shokuho82D2c9a4" text="攻城戦の砲撃中、対防衛兵ダメージが2倍になる確率{VALUE}%"/>
+    <string id="Shokuhofc3e0C47" text="統治している集落の周辺の村の粘土・鉄・綿・銀の生産力{VALUE}%"/>
+    <string id="Shokuho4d1eEc6D" text="統治している集落が包囲下にある間、食糧消費{VALUE}%"/>
+    <string id="Shokuho8161D950" text="統治している集落で、捕虜の脱走確率{VALUE}%"/>
+    <string id="ShokuhoC70a915A" text="はい。{QUEST_GIVER.LINK}が私たちに便りをよこした。{?QUEST_GIVER.GENDER}彼女{?}彼{\?}が持っていた{.%}{RAW_MATERIALS}{.%}が届くはずです。"/>
+    <string id="ShokuhoDb72DB87" text="指名手配度の減少率{VALUE}%"/>
+    <string id="ShokuhoD77792fd" text="軍隊の結束力のブーストの消費影響力{VALUE}%"/>
+    <string id="Shokuho2b858bD8" text="攻城戦の砲撃中、バリスタの精度{VALUE}%"/>
+    <string id="ShokuhoDb11c684" text="足跡が見える時間{VALUE}%"/>
+    <string id="Shokuho59D2Fca6" text="わかった。{.%}{?SELECTED_AMOUNT &gt; 1}{SELECTED_AMOUNT}{PLURAL(SELECTED_GOOD)}{?}{SELECTED_GOOD}{\?}{.%}を届けよう。"/>
+    <string id="ShokuhoA7F6C6fa" text="盾と投射武器を装備していない時、戦闘中の移動速度{VALUE}%"/>
+    <string id="ShokuhoBf2d6b80" text="統治している集落の乗馬兵の賃金{VALUE}%"/>
+    <string id="Shokuho1EBcAC9c" text="{.%}{BANDIT_NAME}{.%}がこの近くにある古い{HIDEOUT_NAME}に移動したらしい。旅をしているなら注意したほうがいい。"/>
+    <string id="Shokuho0a483c5d" text="過積載ペナルティ{VALUE}%"/>
+    <string id="ShokuhoFf3f0325" text="騎乗時に投射攻撃で敵を倒した際の士氣ダメージ{VALUE}%"/>
+    <string id="ShokuhoFfC9431C" text="騎乗時の精度低下{VALUE}%"/>
+    <string id="Shokuho50051385" text="攻城戦の砲撃中、被害が1人増える確率{VALUE}%"/>
+    <string id="Shokuho75DdE95D" text="集落で待機中、治癒率{VALUE}%"/>
+    <string id="ShokuhoA15E36aA" text="取引時、余分に代金を支払った際の好感度上昇{VALUE}%"/>
+    <string id="Shokuhoe0A7494b" text="徒歩時、よろめき耐性{VALUE}%"/>
+    <string id="Shokuho433DCf7E" text="統治している集落が包囲下にある間、毎日、市民兵{VALUE}%"/>
+    <string id="ShokuhoecEBF685" text="両手持ち武器の速度+{a0} %"/>
+    <string id="Shokuho2564242c" text="編隊の戦闘中の移動速度{VALUE}%"/>
+    <string id="Shokuho62C5adc0" text="キャンペーンマップ上で行軍中の治癒率{VALUE}%"/>
+    <string id="ShokuhoC9F0B1c8" text="徒歩時、長柄兵器ダメージ{VALUE}%"/>
+    <string id="Shokuhoee580E9E" text="統治している集落からの税収{VALUE}%"/>
+    <string id="Shokuho7d4367f4" text="溶解時のスタミナ消費{VALUE}%"/>
+    <string id="Shokuho81C8cf02" text="領主を軍隊に招集するために必要な影響力+20%"/>
+    <string id="Shokuho61Da203e" text="統治している集落が包囲下にある間、食糧消費{VALUE}%"/>
+    <string id="Shokuho06a3EbBD" text="領国の主に対しすべての集落から税収+5%{newline}毎日、都市の繁栄-1{newline}主の一族が宣戦布告に必要な影響力x2"/>
+    <string id="Shokuho8676BB84" text="武器の売却ペナルティ{VALUE}%"/>
+    <string id="Shokuhoc46A1404" text="投擲武器を持っている間、受ける投射ダメージ{VALUE}%"/>
+    <string id="Shokuho39129d8B" text="長柄武器の突き攻撃で敵をのけぞらせる確率{VALUE}%"/>
+    <string id="Shokuho93535Dd6" text="一族が統治している集落で、乗馬兵の志願率{VALUE}%"/>
+    <string id="Shokuho09Ca4427" text="騎乗時の武器の速度と装填ペナルティ: {a0}%"/>
+    <string id="Shokuhob2034f51" text="戦闘終了時、投射兵の獲得XP{VALUE}%"/>
+    <string id="ShokuhoB95Ac100" text="戦闘中、乗騎が転倒によって死亡または脚を怪我する確率{VALUE}%"/>
+    <string id="Shokuho473DF491" text="投射攻城兵器のHP{VALUE}%"/>
+    <string id="ShokuhoEf9f971D" text="両手武器の操作性{VALUE}%"/>
+    <string id="Shokuho48172db0" text="集落で待機中、部隊賃金{VALUE}%"/>
+    <string id="ShokuhoFbB8814F" text="雇用費{VALUE}%"/>
+    <string id="Shokuho68806880" text="君主のクランに税金として払われる村の収入+5%{newline}一族の村からの税収収入-5%"/>
+    <string id="ShokuhoEdCDacb9" text="編隊の歩兵による対騎兵ダメージ{VALUE}%"/>
+    <string id="Shokuho6DDeBa88" text="部隊の投擲武器を装備した兵士の戦闘からの獲得XP{VALUE}%"/>
+    <string id="Shokuho16193dd5" text="攻城戦中の部隊の食糧消費量{VALUE}%"/>
+    <string id="ShokuhoAf6AF7aE" text="盗賊との取引時に、平和に立ち去るよう説得できる確率{VALUE}%"/>
+    <string id="ShokuhoE557fBda" text="統治している集落の建設事業の効率{VALUE}%"/>
+    <string id="Shokuho5d3A667b" text="部隊の捕虜の脱走確率{VALUE}%"/>
     <string id="pbmqIN8E" text="片手斧"/>
-    <string id="Shokuhoa465Acae" text="人質取引商との取引時、正規兵の捕虜の身代金{VALUE}%"/>
-    <string id="ShokuhoC7749265" text="子供を持つ確率{VALUE}%"/>
-    <string id="Shokuho08c4e847" text="200を超えたスキルポイント1ポイント毎に、投擲ダメージ{VALUE}%"/>
-    <string id="Shokuho41aC7a10" text="対半分未満のHPの敵へのダメージ{VALUE}%"/>
-    <string id="Shokuho0e661f65" text="敵部隊の追跡中、行軍速度{VALUE}%"/>
-    <string id="Shokuho7C9033e7" text="捕虜上限{VALUE}{newline}捕虜の脱走確率 -10%"/>
-    <string id="Shokuho7f38FbC6" text="戦闘から得られる名声+5%{newline}傭兵をしている間の収入+15%"/>
-    <string id="Shokuho7262d939" text="両手武器のダメージ{VALUE}%"/>
-    <string id="ShokuhoEd5Dc31D" text="背負っている盾が背後からの投射攻撃を防御する確率{VALUE}%"/>
-    <string id="Shokuhod8F59097" text="部隊の兵士の共有XPになる戦闘XP{VALUE}%"/>
-    <string id="Shokuhocc7A7374" text="{.%}{SELECTED_ITEM}{.%}で獲得したデナール"/>
-    <string id="Shokuho15355191" text="毎日、脚を痛めた馬が回復する確率{VALUE}%"/>
-    <string id="Shokuho851f8C99" text="自分の盾へのダメージ{VALUE}%"/>
-    <string id="Shokuho9f3a9CeD" text="統治している集落の関税収入{VALUE}%"/>
-    <string id="Shokuho79E35929" text="部隊の行軍速度{VALUE}%"/>
-    <string id="Shokuho13c3d701" text="統治している集落のバリスタの精度{VALUE}%"/>
-    <string id="Shokuho72094b69" text="市場・陶窯・用水路の建設速度{VALUE}%"/>
-    <string id="ShokuhoFf5784d0" text="編隊の射手の精度ペナルティ{VALUE}%"/>
-    <string id="Shokuhoa28cfddA" text="説得成功確率{VALUE}%"/>
-    <string id="Shokuho22d7e8DC" text="このヒーローは部隊を率いられない"/>
-    <string id="Shokuho31cd9BFc" text="攻城兵器の建造速度が市民兵の数毎に{VALUE}%"/>
-    <string id="Shokuhoee0e6948" text="受ける落下ダメージ{VALUE}%{newline}蹴りダメージ+100%"/>
-    <string id="Shokuhobe13bA68" text="軍隊の毎日の結束力の低下-20%"/>
-    <string id="Shokuho45DaDc45" text="Tier 4以上の捕虜の雇用確率{VALUE}%"/>
-    <string id="Shokuho510759a8" text="徒歩時、スピードボーナス{VALUE}%"/>
-    <string id="Shokuho202d8DBb" text="両手・斧・メイスダメージ{VALUE}%"/>
-    <string id="Shokuhoac08d0dC" text="両手武器ダメージ+{a0}%"/>
-    <string id="Shokuhof40fe6aA" text="毎日、都市の治安+1{newline}都市の税収-5%"/>
-    <string id="Shokuho87E57a44" text="夜間の行軍速度{VALUE}%"/>
-    <string id="Shokuho0a02Abf6" text="密猟者たちはまだいるのか?"/>
-    <string id="Shokuho94A3C382" text="自動戦闘時の部下の兵士による対盗賊ダメージ{VALUE}%"/>
-    <string id="Shokuhof648a43A" text="勝利による士氣上昇{VALUE}%"/>
-    <string id="ShokuhoD5867e0e" text="過積載時の速度低下{VALUE}%"/>
-    <string id="Shokuho8c26A5d7" text="受ける衝突ダメージ{VALUE}%"/>
-    <string id="ShokuhoC11c11e6" text="統治している集落の周辺の村の家畜の生産力{VALUE}%"/>
-    <string id="ShokuhoE99e31dB" text="HPが90%以上の時、両手武器のダメージ{VALUE}%"/>
-    <string id="ShokuhoA3D5e8ed" text="騎乗時に近接攻撃で敵を倒した際の士氣ダメージ{VALUE}%"/>
-    <string id="ShokuhoDfB066ac" text="両手武器の振りスピード{VALUE}%"/>
-    <string id="ShokuhoE17A3B72" text="受ける投射ダメージ{VALUE}%"/>
-    <string id="ShokuhoE12c4455" text="都市での待機時、部隊の治癒率{VALUE}%"/>
-    <string id="Shokuho23147fD6" text="部隊の攻城兵器の建設速度{VALUE}%"/>
+    <string id="Shokuho75D69b06" text="人質取引商との取引時、正規兵の捕虜の身代金{VALUE}%"/>
+    <string id="Shokuho9344ed49" text="子供を持つ確率{VALUE}%"/>
+    <string id="Shokuhoa4486c3A" text="200を超えたスキルポイント1ポイント毎に、投擲ダメージ{VALUE}%"/>
+    <string id="Shokuho1f85bF44" text="対半分未満のHPの敵へのダメージ{VALUE}%"/>
+    <string id="ShokuhoD360C7c4" text="敵部隊の追跡中、行軍速度{VALUE}%"/>
+    <string id="Shokuho4Ba38a2f" text="捕虜上限{VALUE}{newline}捕虜の脱走確率 -10%"/>
+    <string id="Shokuho9239398F" text="戦闘から得られる名声+5%{newline}傭兵をしている間の収入+15%"/>
+    <string id="Shokuho92F49983" text="両手武器のダメージ{VALUE}%"/>
+    <string id="Shokuho3AdEc09F" text="背負っている盾が背後からの投射攻撃を防御する確率{VALUE}%"/>
+    <string id="ShokuhoE7328052" text="部隊の兵士の共有XPになる戦闘XP{VALUE}%"/>
+    <string id="ShokuhoF5EE1937" text="{.%}{SELECTED_ITEM}{.%}で獲得したデナール"/>
+    <string id="ShokuhoE1DE6C27" text="毎日、脚を痛めた馬が回復する確率{VALUE}%"/>
+    <string id="Shokuho3c8c0F5d" text="自分の盾へのダメージ{VALUE}%"/>
+    <string id="Shokuho73D6E578" text="統治している集落の関税収入{VALUE}%"/>
+    <string id="Shokuho3428d65f" text="部隊の行軍速度{VALUE}%"/>
+    <string id="ShokuhoCdF53310" text="統治している集落のバリスタの精度{VALUE}%"/>
+    <string id="Shokuhof67D8F58" text="市場・陶窯・用水路の建設速度{VALUE}%"/>
+    <string id="ShokuhocaDE044D" text="編隊の射手の精度ペナルティ{VALUE}%"/>
+    <string id="Shokuho99C60b27" text="説得成功確率{VALUE}%"/>
+    <string id="ShokuhoBf790500" text="このヒーローは部隊を率いられない"/>
+    <string id="Shokuho9cBbDA83" text="攻城兵器の建造速度が市民兵の数毎に{VALUE}%"/>
+    <string id="Shokuho30c1288d" text="受ける落下ダメージ{VALUE}%{newline}蹴りダメージ+100%"/>
+    <string id="Shokuho9a140942" text="軍隊の毎日の結束力の低下-20%"/>
+    <string id="Shokuho8f4E7cd3" text="Tier 4以上の捕虜の雇用確率{VALUE}%"/>
+    <string id="Shokuho393Ba6d3" text="徒歩時、スピードボーナス{VALUE}%"/>
+    <string id="Shokuhof6634a3d" text="両手・斧・メイスダメージ{VALUE}%"/>
+    <string id="ShokuhoDd79E2f8" text="両手武器ダメージ+{a0}%"/>
+    <string id="ShokuhobcBf50e9" text="毎日、都市の治安+1{newline}都市の税収-5%"/>
+    <string id="Shokuho4341f1d0" text="夜間の行軍速度{VALUE}%"/>
+    <string id="Shokuhoda625351" text="密猟者たちはまだいるのか?"/>
+    <string id="Shokuho31Eb07dF" text="自動戦闘時の部下の兵士による対盗賊ダメージ{VALUE}%"/>
+    <string id="Shokuho1b5f30E5" text="勝利による士氣上昇{VALUE}%"/>
+    <string id="ShokuhoA7953Faa" text="過積載時の速度低下{VALUE}%"/>
+    <string id="ShokuhoF37C3622" text="受ける衝突ダメージ{VALUE}%"/>
+    <string id="Shokuho5458005e" text="統治している集落の周辺の村の家畜の生産力{VALUE}%"/>
+    <string id="Shokuho3Ec4092d" text="HPが90%以上の時、両手武器のダメージ{VALUE}%"/>
+    <string id="Shokuho87688ed1" text="騎乗時に近接攻撃で敵を倒した際の士氣ダメージ{VALUE}%"/>
+    <string id="Shokuho48aC1f37" text="両手武器の振りスピード{VALUE}%"/>
+    <string id="ShokuhoF3D85060" text="受ける投射ダメージ{VALUE}%"/>
+    <string id="Shokuhoba5FeF87" text="都市での待機時、部隊の治癒率{VALUE}%"/>
+    <string id="Shokuho382a7A57" text="部隊の攻城兵器の建設速度{VALUE}%"/>
     <string id="RAmqFXLm" text="Tier 4以上の兵の賃金 {VALUE}%"/>
-    <string id="Shokuho6AD7675A" text="編隊の戦闘中の士氣減少{VALUE}%"/>
-    <string id="Shokuho76EFea9B" text="城のアップグレード費用-20%"/>
-    <string id="Shokuho9b3d7064" text="走行速度+{a0} %"/>
-    <string id="Shokuhoee9faA42" text="毎日、同じ軍隊にいるいずれかの領主の好感+1される確率{VALUE}%"/>
-    <string id="ShokuhoEd571Fb4" text="編隊の投擲の弾速{VALUE}%"/>
-    <string id="Shokuho24A4a14f" text="統治する集落の周辺の農地・鉱山・伐採所・粘土採掘場の生産力{VALUE}%"/>
-    <string id="ShokuhoC7DDf0c1" text="兵士のアップグレード費用{VALUE}%"/>
-    <string id="ShokuhoD7F05Fda" text="250を超えたのスキルポイント毎に、攻城戦の砲撃による対攻城兵器ダメージ{VALUE}%"/>
-    <string id="Shokuhob8FCF0aD" text="アイテムの取引ペナルティ{VALUE}%"/>
-    <string id="ShokuhoF3EC47cE" text="キャンペーンマップ上の日中の視界の広さ{VALUE}%"/>
-    <string id="ShokuhoD5Ba8Fe1" text="集落の建設事業の進行速度-10%"/>
-    <string id="Shokuho92BbCD11" text="弓ダメージ+{a0} %"/>
-    <string id="Shokuho04FF57a8" text="統治している集落にいる乗馬兵により、治安{VALUE}%"/>
-    <string id="Shokuhoe072AB57" text="戦闘終了時、近接兵の獲得XP{VALUE}%"/>
-    <string id="Shokuhod866Aec3" text="村で売買する時、価格ペナルティ{VALUE}%"/>
-    <string id="ShokuhoA9D92E58" text="作成した武器の振りダメージ{VALUE}%"/>
-    <string id="Shokuho1b8dC237" text="毎日、都市に入った時、自分の一族への有力者の好感+1される確率{VALUE}%"/>
-    <string id="Shokuho0b6b5279" text="長柄武器による突き攻撃ダメージ{VALUE}%"/>
-    <string id="Shokuho0160BfB8" text="自動戦闘時、数で劣る敵に与えるダメージ{VALUE}%"/>
-    <string id="Shokuhod48d8210" text="投擲武器の精度+{a0} %"/>
-    <string id="Shokuho608359e2" text="照準中に精度を維持できる時間{VALUE}%"/>
-    <string id="Shokuho9d694223" text="盗賊に払う通行料{VALUE}%"/>
-    <string id="Shokuho857A0857" text="毎日、統治している集落で、いずれかの異性の有力者との好感が上昇する確率{VALUE}%"/>
-    <string id="Shokuho8bDA339A" text="攻城戦で勝利した際の獲得影響力{VALUE}%"/>
-    <string id="ShokuhoD78c5951" text="{.%}{?NUMBER_OF_ITEM &gt; 1}{NUMBER_OF_ITEM}{PLURAL(ITEM)}{?}{ITEM}{\?}{.%}"/>
+    <string id="Shokuho0b09fC99" text="編隊の戦闘中の士氣減少{VALUE}%"/>
+    <string id="Shokuho1a5eBD39" text="城のアップグレード費用-20%"/>
+    <string id="Shokuho4A925023" text="走行速度+{a0} %"/>
+    <string id="Shokuho235A395F" text="毎日、同じ軍隊にいるいずれかの領主の好感+1される確率{VALUE}%"/>
+    <string id="ShokuhoDf3843b2" text="編隊の投擲の弾速{VALUE}%"/>
+    <string id="Shokuho4274E144" text="統治する集落の周辺の農地・鉱山・伐採所・粘土採掘場の生産力{VALUE}%"/>
+    <string id="Shokuho6a3FD10D" text="兵士のアップグレード費用{VALUE}%"/>
+    <string id="ShokuhoF7B8976A" text="250を超えたのスキルポイント毎に、攻城戦の砲撃による対攻城兵器ダメージ{VALUE}%"/>
+    <string id="ShokuhoBf9b1F36" text="アイテムの取引ペナルティ{VALUE}%"/>
+    <string id="ShokuhoD7C3dd88" text="キャンペーンマップ上の日中の視界の広さ{VALUE}%"/>
+    <string id="Shokuho623EA751" text="集落の建設事業の進行速度-10%"/>
+    <string id="Shokuho870e89f7" text="弓ダメージ+{a0} %"/>
+    <string id="ShokuhoBdFBC1c8" text="統治している集落にいる乗馬兵により、治安{VALUE}%"/>
+    <string id="ShokuhoE7553Ef3" text="戦闘終了時、近接兵の獲得XP{VALUE}%"/>
+    <string id="Shokuho45794eD1" text="村で売買する時、価格ペナルティ{VALUE}%"/>
+    <string id="Shokuho0a6aDed7" text="作成した武器の振りダメージ{VALUE}%"/>
+    <string id="Shokuho305869c3" text="毎日、都市に入った時、自分の一族への有力者の好感+1される確率{VALUE}%"/>
+    <string id="ShokuhoF10682b7" text="長柄武器による突き攻撃ダメージ{VALUE}%"/>
+    <string id="Shokuho02997655" text="自動戦闘時、数で劣る敵に与えるダメージ{VALUE}%"/>
+    <string id="Shokuho958a9302" text="投擲武器の精度+{a0} %"/>
+    <string id="ShokuhoDbA26767" text="照準中に精度を維持できる時間{VALUE}%"/>
+    <string id="Shokuho8686fdb9" text="盗賊に払う通行料{VALUE}%"/>
+    <string id="ShokuhoBdBdD065" text="毎日、統治している集落で、いずれかの異性の有力者との好感が上昇する確率{VALUE}%"/>
+    <string id="Shokuhoa2B30B06" text="攻城戦で勝利した際の獲得影響力{VALUE}%"/>
+    <string id="Shokuho382b3911" text="{.%}{?NUMBER_OF_ITEM &gt; 1}{NUMBER_OF_ITEM}{PLURAL(ITEM)}{?}{ITEM}{\?}{.%}"/>
     <string id="snSBfQkV" text="饗応"/>
-    <string id="Shokuho00A6BA3F" text="攻城兵器の建設速度+{a0}%"/>
-    <string id="ShokuhoC39cfC51" text="部隊の積載量 {VALUE}%"/>
-    <string id="Shokuho36FA098E" text="弓の精度+{a0} %"/>
-    <string id="ShokuhoD5877da0" text="クロスボウの拡大率{VALUE}%"/>
-    <string id="ShokuhoB302d84e" text="攻城戦の野営地にいる間、部隊の兵士の賃金{VALUE}%"/>
-    <string id="ShokuhoE7757C00" text="編隊がクロスボウで敵を倒した際の士氣ダメージ{VALUE}%"/>
-    <string id="Shokuhoc291c496" text="乗騎の防御力{VALUE}%"/>
-    <string id="Shokuho9e4E1a2E" text="撃破した村人・隊商から得られる戦利品{VALUE}%"/>
-    <string id="Shokuho31B659EB" text="食糧アイテム売却時の価格ペナルティ{VALUE}%"/>
-    <string id="Shokuho15B41De8" text="氣になされるな"/>
-    <string id="Shokuho9333B51c" text="歩兵系の捕虜の雇用確率{VALUE}%"/>
+    <string id="Shokuho4BbF5861" text="攻城兵器の建設速度+{a0}%"/>
+    <string id="ShokuhoD1C9dcaF" text="部隊の積載量 {VALUE}%"/>
+    <string id="Shokuho06182ed7" text="弓の精度+{a0} %"/>
+    <string id="Shokuho15017a8C" text="クロスボウの拡大率{VALUE}%"/>
+    <string id="ShokuhoF3F839d3" text="攻城戦の野営地にいる間、部隊の兵士の賃金{VALUE}%"/>
+    <string id="Shokuho31629011" text="編隊がクロスボウで敵を倒した際の士氣ダメージ{VALUE}%"/>
+    <string id="Shokuho1A3fF79E" text="乗騎の防御力{VALUE}%"/>
+    <string id="ShokuhoaeBcC4e7" text="撃破した村人・隊商から得られる戦利品{VALUE}%"/>
+    <string id="Shokuho5b34C012" text="食糧アイテム売却時の価格ペナルティ{VALUE}%"/>
+    <string id="ShokuhoCb55aCb9" text="氣になされるな"/>
+    <string id="ShokuhoEb3c79d0" text="歩兵系の捕虜の雇用確率{VALUE}%"/>
     <string id="tFUfHv8I" text="村の回復率 {VALUE}%"/>
-    <string id="Shokuho90488021" text="両手武器で敵を倒した際の敵への士氣ダメージ{VALUE}%"/>
-    <string id="Shokuhoac3e4EbF" text="転倒耐性: 最大ヒットポイントの{a0}%"/>
-    <string id="Shokuho4E978d3A" text="編隊の兵の両手武器スキル {VALUE}"/>
-    <string id="Shokuhoa4D74E1d" text="編隊の歩兵の振りスピード{VALUE}%"/>
-    <string id="ShokuhoE9C8e6fB" text="投擲武器ダメージ+{a0}%"/>
-    <string id="Shokuhoc81c570C" text="期限内に{?QUEST_GIVER.GENDER}彼女{?}彼{\?}が必要な分の{.%}{REQUESTED_GOOD}{.%}を全て渡すことができなかった。"/>
-    <string id="Shokuho58aA18C3" text="統治している集落の税収{VALUE}%"/>
-    <string id="Shokuho357D8307" text="毎日、Tier3以上の一族の影響力+0.5{newline}低いTierの一族を軍隊に召集するための消費影響力-10%"/>
-    <string id="Shokuho92FA70b1" text="乗騎のHP{VALUE}%"/>
+    <string id="ShokuhoC3E41286" text="両手武器で敵を倒した際の敵への士氣ダメージ{VALUE}%"/>
+    <string id="Shokuho659cC5BD" text="転倒耐性: 最大ヒットポイントの{a0}%"/>
+    <string id="Shokuho52Cc2bF5" text="編隊の兵の両手武器スキル {VALUE}"/>
+    <string id="ShokuhoFb746B83" text="編隊の歩兵の振りスピード{VALUE}%"/>
+    <string id="Shokuho33366252" text="投擲武器ダメージ+{a0}%"/>
+    <string id="Shokuhoe6251a16" text="期限内に{?QUEST_GIVER.GENDER}彼女{?}彼{\?}が必要な分の{.%}{REQUESTED_GOOD}{.%}を全て渡すことができなかった。"/>
+    <string id="Shokuho51bC03F2" text="統治している集落の税収{VALUE}%"/>
+    <string id="Shokuho6CD08106" text="毎日、Tier3以上の一族の影響力+0.5{newline}低いTierの一族を軍隊に召集するための消費影響力-10%"/>
+    <string id="Shokuho7FEF05B8" text="乗騎のHP{VALUE}%"/>
     <string id="TxbjTbZf" text="外科医のパークスキル"/>
-    <string id="Shokuho30B6f18A" text="のけぞり耐性: 最大ヒットポイントの{a0}%"/>
-    <string id="Shokuho80E95407" text="雪原・森林にいる間、編隊の移動速度{VALUE}%"/>
-    <string id="Shokuho41028bef" text="防御貫通{VALUE}%"/>
-    <string id="Shokuhoc8849b6c" text="村で待機時、部隊の治癒率{VALUE}%"/>
-    <string id="Shokuhoc4826a03" text="乗騎の交易ペナルティ{VALUE}%"/>
-    <string id="ShokuhoB9F5091a" text="軍事分野の業績から得る影響力+20%{newline}兵士の賃金+10%"/>
-    <string id="ShokuhoD94Ef864" text="都市への潜入確率{VALUE}%"/>
-    <string id="Shokuho639a405d" text="編隊の投擲武器を取り出す速度{VALUE}%"/>
-    <string id="Shokuho55C09f32" text="統治している集落の周辺村の人口成長率{VALUE}%"/>
-    <string id="Shokuhof86D7f5C" text="{QUEST_GIVER.LINK}が依頼した期限までに{TARGET_SETTLEMENT}へ{.%}{?(REQUESTED_AMOUNT &gt; 1)}{REQUESTED_AMOUNT}{PLURAL(RAW_MATERIALS)}{?}{RAW_MATERIALS}{\?}{.%}を届けられなかった。"/>
-    <string id="Shokuho79EA4e44" text="統治している集落の要塞・水路・兵舎の建設速度{VALUE}%"/>
-    <string id="Shokuho2eA109bc" text="交易ペナルティの軽減+{a0}%"/>
-    <string id="Shokuho5FCb9eD8" text="兵力の提供による獲得影響力{VALUE}%"/>
-    <string id="Shokuho0ff70Fb0" text="盾を装備してない時、片手武器ダメージ{VALUE}%"/>
-    <string id="Shokuho037Ba210" text="投擲武器によるヘッドショットダメージ{VALUE}%"/>
-    <string id="Shokuho31536d19" text="約束通り、{?QUEST_GIVER.GENDER}彼女{?}彼{\?}に{.%}{?(REQUESTED_ANIMAL_AMOUNT &gt; 1)}{REQUESTED_ANIMAL_AMOUNT}{PLURAL(SELECTED_ANIMAL)}{?}{SELECTED_ANIMAL}{\?}{.%}を届けた。"/>
-    <string id="Shokuho97769Cfa" text="村の人口増加力-20%"/>
-    <string id="ShokuhoA3C31c66" text="{NUMBER_OF_DAYS}日以内に{.%}{?(REQUESTED_ITEM_COUNT &gt; 1)}{REQUESTED_ITEM_COUNT}{PLURAL(REQUESTED_ITEM)}{?}{REQUESTED_ITEM}{\?}{.%}が必要です。村にはデナールの蓄えが少ないので、品物でお返しすることしかできません。{?NUMBER_OF_EXCHANGE_ITEM &gt; 1}{NUMBER_OF_EXCHANGE_ITEM}{PLURAL(EXCHANGE_ITEM)}{?}{EXCHANGE_ITEM}{\?}でいかがでしょうか?"/>
-    <string id="Shokuho024adB1a" text="統治している集落に駐屯する乗馬兵の獲得XP{VALUE}%"/>
-    <string id="ShokuhoEf654a42" text="毎日、集落の有力者の数だけ、所有する一族に影響力+0.1{newline}要塞からの税金-5%"/>
-    <string id="Shokuho740e5f84" text="領主を自勢力への造反の説得に必要な賄賂{VALUE}%"/>
-    <string id="Shokuhocc4Dfe47" text="戦闘中、移動速度{VALUE}%"/>
-    <string id="Shokuho49C50512" text="{QUEST_GIVER.LINK}は{?QUEST_GIVER.GENDER}彼女{?}彼{\?}の村が{.%}{SELECTED_ANIMAL}{.%}を必要としていることを伝えてきた。{?QUEST_GIVER.GENDER}彼女{?}彼{\?}はあなたに {.%}{?(REQUESTED_ANIMAL_AMOUNT &gt; 1)}{REQUESTED_ANIMAL_AMOUNT}{PLURAL(SELECTED_ANIMAL)}{?}{SELECTED_ANIMAL}{\?}{.%}を届けるよう依頼した。"/>
-    <string id="Shokuho5a0cf635" text="戦闘終了時、部隊の獲得XP{VALUE}%"/>
-    <string id="Shokuho5ECdedB3" text="長柄武器で敵の頭を攻撃した際のダメージ{VALUE}%"/>
-    <string id="Shokuho8b8ae388" text="変装して、門を通り抜ける (成功率: {SNEAK_CHANCE}%)"/>
-    <string id="Shokuhobe982Fc4" text="戦闘勝利による獲得士氣{VALUE}%{newline}戦闘勝利による獲得名声{VALUE}%"/>
-    <string id="ShokuhoCd90c510" text="逃走時の兵士の脱落数-{a0}%"/>
+    <string id="Shokuhoae29A9aA" text="のけぞり耐性: 最大ヒットポイントの{a0}%"/>
+    <string id="ShokuhoEd994Dc1" text="雪原・森林にいる間、編隊の移動速度{VALUE}%"/>
+    <string id="Shokuhoc4Ac2559" text="防御貫通{VALUE}%"/>
+    <string id="Shokuhod0DE36fC" text="村で待機時、部隊の治癒率{VALUE}%"/>
+    <string id="Shokuhob45E459B" text="乗騎の交易ペナルティ{VALUE}%"/>
+    <string id="Shokuho7719763d" text="軍事分野の業績から得る影響力+20%{newline}兵士の賃金+10%"/>
+    <string id="ShokuhoA5C7eecb" text="都市への潜入確率{VALUE}%"/>
+    <string id="Shokuho61EFc778" text="編隊の投擲武器を取り出す速度{VALUE}%"/>
+    <string id="Shokuho660e9f7B" text="統治している集落の周辺村の人口成長率{VALUE}%"/>
+    <string id="Shokuho7AE5e35B" text="{QUEST_GIVER.LINK}が依頼した期限までに{TARGET_SETTLEMENT}へ{.%}{?(REQUESTED_AMOUNT &gt; 1)}{REQUESTED_AMOUNT}{PLURAL(RAW_MATERIALS)}{?}{RAW_MATERIALS}{\?}{.%}を届けられなかった。"/>
+    <string id="ShokuhoBdC8bedA" text="統治している集落の要塞・水路・兵舎の建設速度{VALUE}%"/>
+    <string id="Shokuho6Aa67ae1" text="交易ペナルティの軽減+{a0}%"/>
+    <string id="Shokuho7d094d4f" text="兵力の提供による獲得影響力{VALUE}%"/>
+    <string id="Shokuho3dB0ea41" text="盾を装備してない時、片手武器ダメージ{VALUE}%"/>
+    <string id="ShokuhoC5073c23" text="投擲武器によるヘッドショットダメージ{VALUE}%"/>
+    <string id="Shokuho7C991fD4" text="約束通り、{?QUEST_GIVER.GENDER}彼女{?}彼{\?}に{.%}{?(REQUESTED_ANIMAL_AMOUNT &gt; 1)}{REQUESTED_ANIMAL_AMOUNT}{PLURAL(SELECTED_ANIMAL)}{?}{SELECTED_ANIMAL}{\?}{.%}を届けた。"/>
+    <string id="Shokuho3EE9eDfb" text="村の人口増加力-20%"/>
+    <string id="Shokuhoec02d176" text="{NUMBER_OF_DAYS}日以内に{.%}{?(REQUESTED_ITEM_COUNT &gt; 1)}{REQUESTED_ITEM_COUNT}{PLURAL(REQUESTED_ITEM)}{?}{REQUESTED_ITEM}{\?}{.%}が必要です。村にはデナールの蓄えが少ないので、品物でお返しすることしかできません。{?NUMBER_OF_EXCHANGE_ITEM &gt; 1}{NUMBER_OF_EXCHANGE_ITEM}{PLURAL(EXCHANGE_ITEM)}{?}{EXCHANGE_ITEM}{\?}でいかがでしょうか?"/>
+    <string id="Shokuho469d6947" text="統治している集落に駐屯する乗馬兵の獲得XP{VALUE}%"/>
+    <string id="Shokuho037c15ce" text="毎日、集落の有力者の数だけ、所有する一族に影響力+0.1{newline}要塞からの税金-5%"/>
+    <string id="ShokuhoacAe8b2E" text="領主を自勢力への造反の説得に必要な賄賂{VALUE}%"/>
+    <string id="Shokuhofe7746ae" text="戦闘中、移動速度{VALUE}%"/>
+    <string id="Shokuho725b61Dc" text="{QUEST_GIVER.LINK}は{?QUEST_GIVER.GENDER}彼女{?}彼{\?}の村が{.%}{SELECTED_ANIMAL}{.%}を必要としていることを伝えてきた。{?QUEST_GIVER.GENDER}彼女{?}彼{\?}はあなたに {.%}{?(REQUESTED_ANIMAL_AMOUNT &gt; 1)}{REQUESTED_ANIMAL_AMOUNT}{PLURAL(SELECTED_ANIMAL)}{?}{SELECTED_ANIMAL}{\?}{.%}を届けるよう依頼した。"/>
+    <string id="Shokuho8693fA7f" text="戦闘終了時、部隊の獲得XP{VALUE}%"/>
+    <string id="ShokuhoC18dce02" text="長柄武器で敵の頭を攻撃した際のダメージ{VALUE}%"/>
+    <string id="Shokuho2936307D" text="変装して、門を通り抜ける (成功率: {SNEAK_CHANCE}%)"/>
+    <string id="Shokuho89917070" text="戦闘勝利による獲得士氣{VALUE}%{newline}戦闘勝利による獲得名声{VALUE}%"/>
+    <string id="Shokuhob03cA004" text="逃走時の兵士の脱落数-{a0}%"/>
     <string id="Vo64LSGP" text="{HIDEOUT_TEXT}"/>
-    <string id="Shokuho274990ba" text="鍛造時の、新しい部品の学習確率{VALUE}%"/>
-    <string id="Shokuho41033517" text="国の決定事項を討議する際の消費影響力{VALUE}%"/>
-    <string id="Shokuho8cAe8da8" text="歩兵のアップグレード費用{VALUE}%"/>
-    <string id="Shokuho77FA02Dd" text="クロスボウの装填速度+{a0} %"/>
-    <string id="Shokuho6c31214d" text="負傷者の生存確率+{a0}%"/>
-    <string id="Shokuhod28ed371" text="クロスボウのヘッドショットダメージ{VALUE}%"/>
-    <string id="ShokuhoFb54aEc9" text="鍛造した武器の売却時、交易ペナルティ{VALUE}%"/>
-    <string id="Shokuho08026fed" text="重量ペナルティ-{a0} %"/>
-    <string id="Shokuho3f00c752" text="騎乗時のクロスボウの精度低下{VALUE}%"/>
-    <string id="Shokuho09a13B6b" text="装備売却時、価格ペナルティ{VALUE}%"/>
-    <string id="Shokuho13Fb238E" text="衝突ダメージ{VALUE}%"/>
-    <string id="Shokuho25c26cf1" text="軍隊に参加時の負傷兵の治癒率{VALUE}%"/>
-    <string id="Shokuho21456cC6" text="約束通り、{.%}{?HERD_AMOUNT &gt; 1}{HERD_AMOUNT}{PLURAL(HERD_TYPE)}{?}{HERD_TYPE}{\?}{.%}を連れてきた。"/>
-    <string id="ShokuhoF5590F78" text="編隊のTier 3以上の歩兵の戦闘中移動速度{VALUE}%"/>
-    <string id="ShokuhoC3Ad036F" text="投擲武器の対盾ダメージ{VALUE}%"/>
-    <string id="ShokuhoA1C358ea" text="{QUEST_GIVER_SETTLEMENT}の首長である{QUEST_GIVER.LINK}が{.%}{?ANIMAL_COUNT_TO_DELIVER &gt; 1}{ANIMAL_COUNT_TO_DELIVER}{PLURAL(HERD_TYPE_TO_DELIVER)}{?}{HERD_TYPE_TO_DELIVER}{\?}{.%}を{TARGET_SETTLEMENT}の{TARGET_HERO.LINK}に届けるよう依頼してきた。大きな群れを連れての移動になるため、道中に盗賊に目をつけられてしまうことを{?QUEST_GIVER.GENDER}首長{?}首長{\?}は恐れている。群れを送り届けられたら、{QUEST_GIVER.LINK}から{REWARD_AMOUNT}{GOLD_ICON}が支払われる。"/>
-    <string id="Shokuho155e525f" text="編隊が騎乗して投射攻撃で敵を倒した際の士氣ダメージ{VALUE}%"/>
-    <string id="Shokuho93933962" text="200を超えたスキルポイント毎にクロスボウのダメージ{VALUE}%"/>
-    <string id="Shokuhoc24D7e10" text="彼らは{.%}{?(PRODUCT_COUNT &gt; 1)}{PRODUCT_COUNT}{PLURAL(PRODUCT)}{?}{PRODUCT}{\?}{.%}をこちらに渡した。"/>
-    <string id="Shokuhod8D189af" text="250を超えたスキルポイント毎に長柄武器の攻撃速度{VALUE}%"/>
-    <string id="Shokuho42F2E0eb" text="クーザイトの支配する領地の村の馬、ラバ、牛、羊の生産量+25%"/>
+    <string id="Shokuho2B6c795e" text="鍛造時の、新しい部品の学習確率{VALUE}%"/>
+    <string id="Shokuho98AdEe94" text="国の決定事項を討議する際の消費影響力{VALUE}%"/>
+    <string id="Shokuho9cDAf77E" text="歩兵のアップグレード費用{VALUE}%"/>
+    <string id="ShokuhoBb10f879" text="クロスボウの装填速度+{a0} %"/>
+    <string id="Shokuho89936D19" text="負傷者の生存確率+{a0}%"/>
+    <string id="Shokuhoc63dB6d4" text="クロスボウのヘッドショットダメージ{VALUE}%"/>
+    <string id="Shokuho1AB322EE" text="鍛造した武器の売却時、交易ペナルティ{VALUE}%"/>
+    <string id="Shokuho614f924D" text="重量ペナルティ-{a0} %"/>
+    <string id="Shokuho4DEAf859" text="騎乗時のクロスボウの精度低下{VALUE}%"/>
+    <string id="ShokuhoB34D70eA" text="装備売却時、価格ペナルティ{VALUE}%"/>
+    <string id="Shokuho91C0ccc7" text="衝突ダメージ{VALUE}%"/>
+    <string id="Shokuho4562115c" text="軍隊に参加時の負傷兵の治癒率{VALUE}%"/>
+    <string id="Shokuho10a60377" text="約束通り、{.%}{?HERD_AMOUNT &gt; 1}{HERD_AMOUNT}{PLURAL(HERD_TYPE)}{?}{HERD_TYPE}{\?}{.%}を連れてきた。"/>
+    <string id="Shokuhoc8BaDF86" text="編隊のTier 3以上の歩兵の戦闘中移動速度{VALUE}%"/>
+    <string id="ShokuhoE1ED1a44" text="投擲武器の対盾ダメージ{VALUE}%"/>
+    <string id="Shokuho6DE85664" text="{QUEST_GIVER_SETTLEMENT}の首長である{QUEST_GIVER.LINK}が{.%}{?ANIMAL_COUNT_TO_DELIVER &gt; 1}{ANIMAL_COUNT_TO_DELIVER}{PLURAL(HERD_TYPE_TO_DELIVER)}{?}{HERD_TYPE_TO_DELIVER}{\?}{.%}を{TARGET_SETTLEMENT}の{TARGET_HERO.LINK}に届けるよう依頼してきた。大きな群れを連れての移動になるため、道中に盗賊に目をつけられてしまうことを{?QUEST_GIVER.GENDER}首長{?}首長{\?}は恐れている。群れを送り届けられたら、{QUEST_GIVER.LINK}から{REWARD_AMOUNT}{GOLD_ICON}が支払われる。"/>
+    <string id="Shokuho95BbD562" text="編隊が騎乗して投射攻撃で敵を倒した際の士氣ダメージ{VALUE}%"/>
+    <string id="Shokuho5BaE0074" text="200を超えたスキルポイント毎にクロスボウのダメージ{VALUE}%"/>
+    <string id="Shokuho05CFA341" text="彼らは{.%}{?(PRODUCT_COUNT &gt; 1)}{PRODUCT_COUNT}{PLURAL(PRODUCT)}{?}{PRODUCT}{\?}{.%}をこちらに渡した。"/>
+    <string id="ShokuhoC544ceeb" text="250を超えたスキルポイント毎に長柄武器の攻撃速度{VALUE}%"/>
+    <string id="Shokuhod8599C69" text="クーザイトの支配する領地の村の馬、ラバ、牛、羊の生産量+25%"/>
     <string id="XB1HSxLX" text="領国の決定事項に対して、Tier 4以上のクランの選択費用x2{NEWLINE}多数が支持する決定を君主が覆す際に必要な影響力x2"/>
-    <string id="Shokuho1F2f4346" text="食糧アイテム購入時の価格ペナルティ{VALUE}%"/>
-    <string id="Shokuho3573b327" text="長柄武器の突きダメージ{VALUE}%"/>
-    <string id="Shokuho419aB4B6" text="1日ごとに都市の治安+1{newline}治安が60以上の都市が、所有者の一族に与える影響力+1{newline}都市の税金-5%"/>
-    <string id="Shokuhofe3dF15C" text="軍隊に所属している間、影響力+25%"/>
-    <string id="Shokuhod6D408be" text="騎乗時の弓の精度低下{VALUE}%"/>
-    <string id="Shokuhob8EF693F" text="統治している都市の建築物の効果{VALUE}%"/>
-    <string id="Shokuho1565c1f7" text="毎日、集落の忠誠+2{newline}集落の生産量-5%"/>
-    <string id="ShokuhoD5DAbDd6" text="編隊による投擲ダメージ{VALUE}%"/>
-    <string id="Shokuho6FE04623" text="乗騎の交易ペナルティ{VALUE}%"/>
-    <string id="ShokuhoBbF365cb" text="統治している集落での、建設事業のブースト効果{VALUE}%"/>
-    <string id="ShokuhoA5E02fbd" text="自動戦闘での優位+{a0} %"/>
-    <string id="Shokuho04c3AeF3" text="統治している集落の周辺の村からの税収{VALUE}%"/>
-    <string id="Shokuho848210a3" text="盗賊系兵士の賃金{VALUE}%"/>
-    <string id="Shokuho4C9a299c" text="弓の照準拡大{VALUE}%"/>
-    <string id="Shokuho5e53791f" text="統治している集落に駐屯する投射兵の賃金{VALUE}%"/>
-    <string id="ShokuhoeeCF7c48" text="期限内に、{QUEST_GIVER.LINK}に{.%}{?(REQUESTED_ANIMAL_AMOUNT &gt; 1)}{REQUESTED_ANIMAL_AMOUNT}{REQUESTED_ANIMAL}{.s}{?}{REQUESTED_ANIMAL}{\?}{.%}を届けることができなかった。"/>
-    <string id="Shokuho5c5c3cE5" text="編隊の兵の全ての防具の防御部位の防御力 {VALUE}%"/>
-    <string id="Shokuho93CE9942" text="{MALE_LESSER_NOBLE_NAME}の謀反"/>
-    <string id="ShokuhoF717d988" text="自動戦闘時、歩兵が投射兵から受けるダメージ{VALUE}%"/>
-    <string id="Shokuho23F90Be4" text="統治している城の建築速度{VALUE}%"/>
-    <string id="Shokuhoa60b7f84" text="1時間以上待機している時の視界{VALUE}%"/>
-    <string id="ShokuhobeD99101" text="指揮下の軍隊の結束力低下{VALUE}%"/>
-    <string id="Shokuho7c22a7b7" text="軍隊に参加時の部隊の食糧消費量{VALUE}%"/>
-    <string id="Shokuho931f405F" text="統治している集落の住民の食糧消費{VALUE}%"/>
-    <string id="Shokuho1f04aEf2" text="編隊による長柄武器のダメージ{VALUE}%"/>
-    <string id="ShokuhoEd56e301" text="戦闘中、自分が敵を倒した時に兵士の士氣{VALUE}%"/>
-    <string id="ShokuhoF72a2602" text="統治している集落の関税収入{VALUE}%"/>
-    <string id="Shokuhof672146f" text="{.%}{SELECTED_ANIMAL}{.%}を送り届ける準備ができた:"/>
-    <string id="Shokuho7e1eA046" text="編隊による対盗賊ダメージ{VALUE}%"/>
-    <string id="ShokuhoDdDC2706" text="編隊のクロスボウの装填速度{VALUE}%"/>
-    <string id="Shokuho4a705282" text="統治している集落の周辺の村がTier 2の馬を生産する確率{VALUE}%"/>
-    <string id="Shokuho905B2485" text="ああ。商品はここにある。約束通り{.%}{?(REQUESTED_AMOUNT &gt; 1)}{REQUESTED_AMOUNT}{PLURAL(RAW_MATERIALS)}{?}{RAW_MATERIALS}{\?}{.%}を持ってきた。"/>
-    <string id="Shokuho819801f9" text="攻城戦の砲撃中、バリスタの装填速度{VALUE}%"/>
-    <string id="Shokuho402Fb619" text="{CHARACTER.NAME}は{HOMETOWN}の優れた{.%}{PROFESSION}{.%}だった。{FURTHER_DETAILS}"/>
-    <string id="Shokuho67088619" text="支配者の都市からの税収-5%{newline}毎日、都市の忠誠+1"/>
-    <string id="Shokuho5952Bdb2" text="部隊内の駄獣の積載量 {VALUE}%"/>
-    <string id="Shokuhoca3cF8cC" text="部隊のTier 3以上の兵による弓ダメージ {VALUE}%"/>
-    <string id="Shokuho52Cc69FD" text="250を超えたスキルポイント毎に両手武器の攻撃速度{VALUE}%"/>
-    <string id="Shokuhobe836b13" text="編隊が敵を倒した際の士氣ダメージ{VALUE}%"/>
-    <string id="Shokuhode392D3D" text="編隊の騎兵によるダメージ{VALUE}%"/>
-    <string id="ShokuhoE7A00677" text="部隊の歩兵による部隊の行軍速度{VALUE}%"/>
-    <string id="Shokuho2f15734b" text="編隊のクロスボウのダメージ{VALUE}%"/>
-    <string id="Shokuho2bBB6A22" text="部隊の盗賊の獲得XP{VALUE}%"/>
-    <string id="Shokuho271813d1" text="投擲武器の速度+{a0} %"/>
-    <string id="Shokuho76C688fC" text="税収 {VALUE}%"/>
-    <string id="Shokuho39dA5D3D" text="戦闘による獲得名声{VALUE}%"/>
-    <string id="Shokuho019e8650" text="投擲武器の防御貫通{VALUE}%"/>
-    <string id="Shokuho5EDe254B" text="編隊の歩兵の振り攻撃速度 {VALUE}%"/>
-    <string id="Shokuho4598E0E2" text="装填時の移動速度低下{VALUE}%"/>
-    <string id="Shokuho83239c7c" text="編隊による投擲攻撃の対乗騎ダメージ{VALUE}%"/>
-    <string id="Shokuho493CAaF1" text="部隊の盗賊系の捕虜の雇用確率{VALUE}%"/>
-    <string id="Shokuho2AFC4A76" text="自分と同じ文化の村での交易ペナルティ{VALUE}%"/>
-    <string id="Shokuho122e67F4" text="部下の兵士の受ける投射ダメージ{VALUE}%"/>
-    <string id="Shokuhod8A118b7" text="{?TARGET_HERO.GENDER}彼女{?}彼{\?}は{TARGET_HERO.CLAN}の{TARGET_HERO.NAME}だ。I want {?TARGET_HERO.GENDER}her{?}him{\?} brought to me, so I can settle this score once and for all. I have {BASE_REWARD}{GOLD_ICON} that I have set aside. If you can bring me {TARGET_HERO.LINK} alive within a year, it is yours to claim."/>
-    <string id="ShokuhoC1A427f7" text="部隊の士氣が75以上の間、行軍速度{VALUE}%"/>
+    <string id="Shokuho2663afa7" text="食糧アイテム購入時の価格ペナルティ{VALUE}%"/>
+    <string id="ShokuhoF5208bb3" text="長柄武器の突きダメージ{VALUE}%"/>
+    <string id="Shokuhofe7113ce" text="1日ごとに都市の治安+1{newline}治安が60以上の都市が、所有者の一族に与える影響力+1{newline}都市の税金-5%"/>
+    <string id="Shokuho3C69a039" text="軍隊に所属している間、影響力+25%"/>
+    <string id="Shokuhoc82fB42C" text="騎乗時の弓の精度低下{VALUE}%"/>
+    <string id="Shokuhofe589434" text="統治している都市の建築物の効果{VALUE}%"/>
+    <string id="Shokuho8dD71A64" text="毎日、集落の忠誠+2{newline}集落の生産量-5%"/>
+    <string id="ShokuhoAbDA42f9" text="編隊による投擲ダメージ{VALUE}%"/>
+    <string id="Shokuho3d39e628" text="乗騎の交易ペナルティ{VALUE}%"/>
+    <string id="Shokuhoe85928f4" text="統治している集落での、建設事業のブースト効果{VALUE}%"/>
+    <string id="ShokuhoF9586434" text="自動戦闘での優位+{a0} %"/>
+    <string id="Shokuho4EE5c2aB" text="統治している集落の周辺の村からの税収{VALUE}%"/>
+    <string id="Shokuho45Df4e7D" text="盗賊系兵士の賃金{VALUE}%"/>
+    <string id="Shokuho9089d492" text="弓の照準拡大{VALUE}%"/>
+    <string id="Shokuhodc075924" text="統治している集落に駐屯する投射兵の賃金{VALUE}%"/>
+    <string id="Shokuho1ec57D0A" text="期限内に、{QUEST_GIVER.LINK}に{.%}{?(REQUESTED_ANIMAL_AMOUNT &gt; 1)}{REQUESTED_ANIMAL_AMOUNT}{REQUESTED_ANIMAL}{.s}{?}{REQUESTED_ANIMAL}{\?}{.%}を届けることができなかった。"/>
+    <string id="ShokuhoA7316B34" text="編隊の兵の全ての防具の防御部位の防御力 {VALUE}%"/>
+    <string id="Shokuho13a6bB53" text="{MALE_LESSER_NOBLE_NAME}の謀反"/>
+    <string id="Shokuho96207eb4" text="自動戦闘時、歩兵が投射兵から受けるダメージ{VALUE}%"/>
+    <string id="ShokuhoBdFFEE5A" text="統治している城の建築速度{VALUE}%"/>
+    <string id="Shokuho456Cac1D" text="1時間以上待機している時の視界{VALUE}%"/>
+    <string id="Shokuho59334af8" text="指揮下の軍隊の結束力低下{VALUE}%"/>
+    <string id="Shokuho02634578" text="軍隊に参加時の部隊の食糧消費量{VALUE}%"/>
+    <string id="ShokuhoDd3d222E" text="統治している集落の住民の食糧消費{VALUE}%"/>
+    <string id="Shokuho3eB622F9" text="編隊による長柄武器のダメージ{VALUE}%"/>
+    <string id="ShokuhoBdA32830" text="戦闘中、自分が敵を倒した時に兵士の士氣{VALUE}%"/>
+    <string id="Shokuho94142F20" text="統治している集落の関税収入{VALUE}%"/>
+    <string id="Shokuho6ADf9f9E" text="{.%}{SELECTED_ANIMAL}{.%}を送り届ける準備ができた:"/>
+    <string id="Shokuho93C88b60" text="編隊による対盗賊ダメージ{VALUE}%"/>
+    <string id="Shokuho3Ad99015" text="編隊のクロスボウの装填速度{VALUE}%"/>
+    <string id="Shokuho3Cc95105" text="統治している集落の周辺の村がTier 2の馬を生産する確率{VALUE}%"/>
+    <string id="Shokuho813b80b7" text="ああ。商品はここにある。約束通り{.%}{?(REQUESTED_AMOUNT &gt; 1)}{REQUESTED_AMOUNT}{PLURAL(RAW_MATERIALS)}{?}{RAW_MATERIALS}{\?}{.%}を持ってきた。"/>
+    <string id="Shokuho96EDEe6A" text="攻城戦の砲撃中、バリスタの装填速度{VALUE}%"/>
+    <string id="Shokuho95CA5a70" text="{CHARACTER.NAME}は{HOMETOWN}の優れた{.%}{PROFESSION}{.%}だった。{FURTHER_DETAILS}"/>
+    <string id="Shokuhofc7A5F3E" text="支配者の都市からの税収-5%{newline}毎日、都市の忠誠+1"/>
+    <string id="Shokuho79Cf861D" text="部隊内の駄獣の積載量 {VALUE}%"/>
+    <string id="Shokuho87C9e877" text="部隊のTier 3以上の兵による弓ダメージ {VALUE}%"/>
+    <string id="Shokuho1E3a5735" text="250を超えたスキルポイント毎に両手武器の攻撃速度{VALUE}%"/>
+    <string id="ShokuhoC7293e30" text="編隊が敵を倒した際の士氣ダメージ{VALUE}%"/>
+    <string id="Shokuho4b149cf1" text="編隊の騎兵によるダメージ{VALUE}%"/>
+    <string id="Shokuho1Ba28b7f" text="部隊の歩兵による部隊の行軍速度{VALUE}%"/>
+    <string id="Shokuho21306c60" text="編隊のクロスボウのダメージ{VALUE}%"/>
+    <string id="Shokuho10772E6C" text="部隊の盗賊の獲得XP{VALUE}%"/>
+    <string id="Shokuho43619031" text="投擲武器の速度+{a0} %"/>
+    <string id="Shokuhobc533C50" text="税収 {VALUE}%"/>
+    <string id="Shokuho42822c46" text="戦闘による獲得名声{VALUE}%"/>
+    <string id="Shokuho0e050025" text="投擲武器の防御貫通{VALUE}%"/>
+    <string id="Shokuho7c1b708d" text="編隊の歩兵の振り攻撃速度 {VALUE}%"/>
+    <string id="Shokuho2B447712" text="装填時の移動速度低下{VALUE}%"/>
+    <string id="Shokuho479456fF" text="編隊による投擲攻撃の対乗騎ダメージ{VALUE}%"/>
+    <string id="Shokuho326f1980" text="部隊の盗賊系の捕虜の雇用確率{VALUE}%"/>
+    <string id="Shokuho6291Fe42" text="自分と同じ文化の村での交易ペナルティ{VALUE}%"/>
+    <string id="Shokuho42a97dCc" text="部下の兵士の受ける投射ダメージ{VALUE}%"/>
+    <string id="Shokuho03B7dA0d" text="{?TARGET_HERO.GENDER}彼女{?}彼{\?}は{TARGET_HERO.CLAN}の{TARGET_HERO.NAME}だ。I want {?TARGET_HERO.GENDER}her{?}him{\?} brought to me, so I can settle this score once and for all. I have {BASE_REWARD}{GOLD_ICON} that I have set aside. If you can bring me {TARGET_HERO.LINK} alive within a year, it is yours to claim."/>
+    <string id="Shokuhoa2AfA044" text="部隊の士氣が75以上の間、行軍速度{VALUE}%"/>
     <string id="ZKynvffv" text="あなたの家族は都市に工房を所有し、地方から運ばれてきた材料で商品を作っていた。父は市の評議会においてささいな事でも積極的に役割を果たし、市民兵としても活動していた。"/>
-    <string id="ShokuhoF9DEd4bC" text="キャンペーンマップ上で待機中の治癒率{VALUE}%"/>
-    <string id="ShokuhoDf3c37e0" text="略奪したアイテムに悪い方向への補正がつきにくくなる"/>
-    <string id="Shokuho0a3F5A2e" text="編隊の歩兵の戦闘時移動速度{VALUE}%"/>
-    <string id="Shokuho0460be0a" text="{CAPTIVE_HERO.NAME}の解放に関する交渉の使者が到着した"/>
-    <string id="ShokuhoC701a537" text="悪いが、今は傭兵を求めていない。"/>
-    <string id="Shokuho06d14f05" text="投擲武器のダメージ{VALUE}%"/>
-    <string id="Shokuho0ba50Ce4" text="攻囲中、投射兵の携行弾数{VALUE}%"/>
-    <string id="Shokuho534d8047" text="編隊が受ける投射ダメージ{VALUE}%"/>
-    <string id="Shokuho6A94954C" text="統治している集落で攻城戦中、味方の攻城兵器の砲撃精度{VALUE}%"/>
-    <string id="Shokuho1d52c98d" text="自動戦闘時、Tier 3以上の兵士の受けるダメージ{VALUE}%"/>
+    <string id="Shokuho8fBfF16A" text="キャンペーンマップ上で待機中の治癒率{VALUE}%"/>
+    <string id="Shokuho6f4148c2" text="略奪したアイテムに悪い方向への補正がつきにくくなる"/>
+    <string id="Shokuho9769526F" text="編隊の歩兵の戦闘時移動速度{VALUE}%"/>
+    <string id="Shokuho89382E03" text="{CAPTIVE_HERO.NAME}の解放に関する交渉の使者が到着した"/>
+    <string id="Shokuho2fB4bc4a" text="悪いが、今は傭兵を求めていない。"/>
+    <string id="Shokuhof26AEeeA" text="投擲武器のダメージ{VALUE}%"/>
+    <string id="Shokuho990acf0F" text="攻囲中、投射兵の携行弾数{VALUE}%"/>
+    <string id="Shokuho04402db8" text="編隊が受ける投射ダメージ{VALUE}%"/>
+    <string id="Shokuho70a523eB" text="統治している集落で攻城戦中、味方の攻城兵器の砲撃精度{VALUE}%"/>
+    <string id="Shokuho558032b9" text="自動戦闘時、Tier 3以上の兵士の受けるダメージ{VALUE}%"/>
     <string id="XmVTQ0bH" text="厭戦感"/>
     <string id="BXluvRnJ" text="苦々しい敗北"/>
     <string id="0aZCy0at" text="強制和平"/>
