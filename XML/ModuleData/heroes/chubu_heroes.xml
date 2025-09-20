@@ -257,7 +257,7 @@
   <Hero id="lord_1_honma_1" faction="Faction.clan_honma_1" spouse="Hero.lord_1_honma" text="{=62b1945f}Honma Tsuta"/>
   <Hero id="lord_1_honma_2" faction="Faction.clan_honma_1" spouse="Hero.lord_1_honma_3" father="Hero.lord_1_honma" mother="Hero.lord_1_honma_1" text="{=2497c2D1}Honma Takatsuna"/>
   <Hero id="lord_1_honma_3" faction="Faction.clan_honma_1" spouse="Hero.lord_1_honma_2" text="{=7F8b1c42}Honma Tomo"/>
-  <Hero id="lord_1_honma_4" faction="Faction.clan_honma_1" father="Hero.lord_1_honma_2" mother="Hero.lord_1_honma_3" text="{=FdE99ccD}Honma Muneyuki"/>
+  <Hero id="lord_1_honma_4" faction="Faction.clan_honma_1" father="Hero.lord_1_honma_2" mother="Hero.lord_1_honma_3" text="{=FdE99ccD}Honma Tsunayuki"/>
   <Hero id="lord_1_honma_5" faction="Faction.clan_honma_1" father="Hero.lord_1_honma_2" mother="Hero.lord_1_honma_3" text="{=665dD348}Honma Takaou"/>
   <!--Honjo Faction
 	Honjo Clan-->

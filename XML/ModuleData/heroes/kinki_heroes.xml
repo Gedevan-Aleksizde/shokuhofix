@@ -144,7 +144,7 @@
   <!-- Gamou Clan -->
   <Hero id="lord_1_gamou" faction="Faction.clan_gamou_1" spouse="Hero.lord_1_gamou_1" text="{=75F5896E}Gamou Katahide"/>
   <Hero id="lord_1_gamou_1" faction="Faction.clan_gamou_1" spouse="Hero.lord_1_gamou" text="{=ba01783a}Gamou Mitsuki"/>
-  <Hero id="lord_1_gamou_2" faction="Faction.clan_gamou_1" father="Hero.lord_1_gamou" mother="Hero.lord_1_gamou_1" text="{=611b6cBa}Gamou Ujisato"/>
+  <Hero id="lord_1_gamou_2" faction="Faction.clan_gamou_1" father="Hero.lord_1_gamou" mother="Hero.lord_1_gamou_1" text="{=611b6cBa}Gamou Masuhide"/>
   <Hero id="lord_1_gamou_3" faction="Faction.clan_gamou_1" father="Hero.lord_1_gamou" mother="Hero.lord_1_gamou_1" text="{=68bA71E8}Gamou Shigesato"/>
   <Hero id="lord_1_gamou_4" faction="Faction.clan_gamou_1" father="Hero.lord_1_gamou" mother="Hero.lord_1_gamou_1" text="{=9b8b0a79}Gamou Tomo"/>
   <Hero id="lord_1_gamou_5" faction="Faction.clan_gamou_1" father="Hero.lord_1_gamou" mother="Hero.lord_1_gamou_1" text="{=360a7Cb2}Gamou Sana"/>

@@ -123,7 +123,7 @@
   <Hero id="lord_1_mogami_2" faction="Faction.clan_mogami_1" spouse="Hero.lord_1_mogami_3" father="Hero.lord_1_mogami" mother="Hero.lord_1_mogami_1" text="{=37A4e924}Mogami Yoshiaki"/>
   <Hero id="lord_1_mogami_3" faction="Faction.clan_mogami_1" spouse="Hero.lord_1_mogami_2" text="{=5358A281}Mogami Toshiyo"/>
   <Hero id="lord_1_mogami_4" faction="Faction.clan_mogami_1" father="Hero.lord_1_mogami" mother="Hero.lord_1_mogami_1" text="{=ae4Ec1c1}Mogami Yoshitoki"/>
-  <Hero id="lord_1_mogami_5" faction="Faction.clan_mogami_1" father="Hero.lord_1_mogami" mother="Hero.lord_1_mogami_1" text="{=218de557}Mogami Mitsunao"/>
+  <Hero id="lord_1_mogami_5" faction="Faction.clan_mogami_1" father="Hero.lord_1_mogami" mother="Hero.lord_1_mogami_1" text="{=218de557}Mogami Akinao"/>
   <!--Tendo Clan-->
   <Hero id="lord_1_tendo" faction="Faction.clan_tendo_1" spouse="Hero.lord_1_tendo_1" text="{=18BaC77a}Tendo Yorisada"/>
   <Hero id="lord_1_tendo_1" faction="Faction.clan_tendo_1" spouse="Hero.lord_1_tendo" text="{=feF9528D}Tendo Kikyo"/>

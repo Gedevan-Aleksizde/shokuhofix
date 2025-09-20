@@ -1368,7 +1368,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son 2 -->
-  <NPCCharacter id="lord_1_cho_4" name="{=Pd02cWIP}Tsuratatsu" age="22" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_cho_4" name="{=Pd02cWIP}Yoshitsura" age="22" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.00" weight="0.3021" build="0.1229" key="003AD80E80000144A7677847B9A4529991656A49A87B4997D529AA453889C9880462564606B8B28900000000000000000000000000000000000000005CD40083"/>
     </face>
@@ -3015,7 +3015,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son (same name) -->
-  <NPCCharacter id="lord_1_hattori_4" name="{=3fFAXVUS}Masanari" age="3" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_hattori_4" name="{=YnqiSByctO}Masanari" age="3" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tokai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="3.00" weight="0.3945" build="0.8063" key="0023F40E800003C3847069C7B7B56A2BA377697848ED458AD34C4B955899CA78067C666707B9B287000000000000000000000000000000000000000064E40040"/>
     </face>
@@ -3969,7 +3969,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Grandson -->
-  <NPCCharacter id="lord_1_honma_4" name="{=wr8Xrdq3}Muneyuki" age="1" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_honma_4" name="{=wr8Xrdq3}Tsunayuki" age="1" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.hokuriku" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="1.00" weight="0.2733" build="0.1736" key="003EC80E80000442966277D9A5A7562B43655A68AAEB44ABC34CA67558A9CC880573465707B7B35900000000000000000000000000000000000000003AE40042"/>
     </face>

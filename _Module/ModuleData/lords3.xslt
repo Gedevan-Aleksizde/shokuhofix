@@ -230,7 +230,7 @@
   <xsl:template match="NPCCharacter[@id='lord_1_rokkaku_5']/@name" ><xsl:attribute name="name">{=ejRgtgY3}Chizuru</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_gamou']/@name" ><xsl:attribute name="name">{=rUBu7S4M}Katahide</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_gamou_1']/@name" ><xsl:attribute name="name">{=3d9HHjwb}Mitsuki</xsl:attribute></xsl:template>
-  <xsl:template match="NPCCharacter[@id='lord_1_gamou_2']/@name" ><xsl:attribute name="name">{=FD9LbBC5}Ujisato</xsl:attribute></xsl:template>
+  <xsl:template match="NPCCharacter[@id='lord_1_gamou_2']/@name" ><xsl:attribute name="name">{=FD9LbBC5}Masuhide</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_gamou_3']/@name" ><xsl:attribute name="name">{=GM8rv4Ak}Shigesato</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_gamou_4']/@name" ><xsl:attribute name="name">{=SuEovhqt}Tomo</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_gamou_5']/@name" ><xsl:attribute name="name">{=2wRgcvgX}Sana</xsl:attribute></xsl:template>
@@ -422,7 +422,7 @@
   <xsl:template match="NPCCharacter[@id='lord_1_nabeshima']/@name" ><xsl:attribute name="name">{=25ZutWwE}Kiyofusa</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_nabeshima_1']/@name" ><xsl:attribute name="name">{=3WB4WKAb}Kakei</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_nabeshima_2']/@name" ><xsl:attribute name="name">{=v3bb1Q5X}Nobufusa</xsl:attribute></xsl:template>
-  <xsl:template match="NPCCharacter[@id='lord_1_nabeshima_4']/@name" ><xsl:attribute name="name">{=Jnx18tIy}Naoshige</xsl:attribute></xsl:template>
+  <xsl:template match="NPCCharacter[@id='lord_1_nabeshima_4']/@name" ><xsl:attribute name="name">{=Jnx18tIy}Nobuyasu</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_nabeshima_5']/@name" ><xsl:attribute name="name">{=0YuKB1a0}Hikotsuru</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_nabeshima_6']/@name" ><xsl:attribute name="name">{=vHYZgp4m}Kiyoyasu</xsl:attribute></xsl:template>
   <xsl:template match="NPCCharacter[@id='lord_1_nabeshima_7']/@name" ><xsl:attribute name="name">{=b8DHDVJl}Iwagiri</xsl:attribute></xsl:template>

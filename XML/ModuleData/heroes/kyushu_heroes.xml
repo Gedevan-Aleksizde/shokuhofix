@@ -201,7 +201,7 @@
   <Hero id="lord_1_nabeshima" faction="Faction.clan_nabeshima_1" spouse="Hero.lord_1_nabeshima_1" text="{=E9437afe}Nabeshima Kiyofusa"/>
   <Hero id="lord_1_nabeshima_1" faction="Faction.clan_nabeshima_1" spouse="Hero.lord_1_nabeshima" text="{=d007bb28}Nabeshima Kakei"/>
   <Hero id="lord_1_nabeshima_2" faction="Faction.clan_nabeshima_1" father="Hero.lord_1_nabeshima" mother="Hero.lord_1_nabeshima_1" text="{=3a909928}Nabeshima Nobufusa"/>
-  <Hero id="lord_1_nabeshima_4" faction="Faction.clan_nabeshima_1" spouse="Hero.lord_1_nabeshima_5" father="Hero.lord_1_nabeshima" mother="Hero.lord_1_nabeshima_1" text="{=91CA9532}Nabeshima Naoshige"/>
+  <Hero id="lord_1_nabeshima_4" faction="Faction.clan_nabeshima_1" spouse="Hero.lord_1_nabeshima_5" father="Hero.lord_1_nabeshima" mother="Hero.lord_1_nabeshima_1" text="{=91CA9532}Nabeshima Nobuyasu"/>
   <Hero id="lord_1_nabeshima_5" faction="Faction.clan_nabeshima_1" spouse="Hero.lord_1_nabeshima_4" text="{=7CE9ed72}Nabeshima Hikotsuru"/>
   <Hero id="lord_1_nabeshima_6" faction="Faction.clan_nabeshima_1" spouse="Hero.lord_1_nabeshima_7" text="{=84F46D13}Nabeshima Kiyoyasu"/>
   <Hero id="lord_1_nabeshima_7" faction="Faction.clan_nabeshima_1" spouse="Hero.lord_1_nabeshima_6" text="{=5DbC2558}Nabeshima Iwagi"/>

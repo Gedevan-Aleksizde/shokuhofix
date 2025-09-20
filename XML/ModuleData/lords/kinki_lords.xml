@@ -2102,7 +2102,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son -->
-  <NPCCharacter id="lord_1_gamou_2" name="{=FD9LbBC5}Ujisato" age="12" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_gamou_2" name="{=FD9LbBC5}Masuhide" age="12" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.kinai" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="12.00" weight="0.4039" build="0.2251" key="0034CC0EC0000281B4678687A8C5653963775A797CDC355AD52946756899DB780863668906B89358000000000000000000000000000000000000000046D40083"/>
     </face>

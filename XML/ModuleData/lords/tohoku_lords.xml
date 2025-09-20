@@ -1847,7 +1847,7 @@
     </Equipments>
   </NPCCharacter>
   <!-- Son 3 -->
-  <NPCCharacter id="lord_1_mogami_5" name="{=XWlzkdNm}Mitsunao" age="9" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
+  <NPCCharacter id="lord_1_mogami_5" name="{=XWlzkdNm}Akinao" age="9" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.ou" occupation="Lord" face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="9.00" weight="0.6334" build="0.6929" key="003BDC0E8000034396677B88CBB6763C9166694578EC4658D44755955889A998077AA67807A8C28900000000000000000000000000000000000000000AE40102"/>
     </face>
