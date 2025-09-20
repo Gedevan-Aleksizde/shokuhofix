@@ -5337,7 +5337,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_KIN19" name="{=iYjZ69ZO}Ueno Castle" owner="Faction.clan_tsutsui_1" posX="949.054" posY="572.297" culture="Culture.kinai" gate_posX="948.6762" gate_posY="574.4252">
+  <Settlement id="castle_KIN19" name="{=iYjZ69ZO}Iga-Ueno Castle" owner="Faction.clan_tsutsui_1" posX="949.054" posY="572.297" culture="Culture.kinai" gate_posX="948.6762" gate_posY="574.4252">
     <Components>
       <Town id="castle_comp_KIN19" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.008" prosperity="590"/>
     </Components>
