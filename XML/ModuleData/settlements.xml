@@ -1722,7 +1722,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_CHUB13_3" name="{=yOZsTIzn}Hagiwara" posX="1067.999" posY="651.672" culture="Culture.tosan" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
+  <Settlement id="village_CHUB13_3" name="{=TI0M6tgm}Inuyama" posX="1067.999" posY="651.672" culture="Culture.tosan" text="{=KEX5sbP0}REPLACE_DESCRIPTION">
     <Components>
       <Village id="village_comp_CHUB13_3" village_type="VillageType.rice_farm" hearth="200" gate_rotation="0.008" bound="Settlement.town_CHUB13" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_village" castle_background_mesh="gui_bg_castle_empire"/>
     </Components>
