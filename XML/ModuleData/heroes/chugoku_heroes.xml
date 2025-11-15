@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Heroes>
+  <!--mori kingdom-->
+  <!--Mori clan-->
+  <Hero id="lord_1_mori" faction="Faction.clan_mori_1" father="Hero.lord_1_mori_3" mother="Hero.lord_1_mori_4" text="{=6Da818C5}Mouri Terumoto (毛利輝元) was born as Koutsurumaru (幸鶴丸). He identifies himself as Mouri Shoutarou (毛利少輔太郎). He had no choice but to initiate the genpuku, the coming-of-age ceremony at age 11, and inherited the head of the Mouri clan after his father passed away suddenly. His name, Terumoto, derives from the ex-shogun Yoshiteru. However, Shogun Yoshiteru was killed right after that. Terumonoto needs to confront several problems, but is supported by Motonari, his great grandfather, and his uncles."/>
+  <Hero id="lord_1_mori_1" faction="Faction.clan_mori_1" spouse="Hero.lord_1_mori_2" text="{=F3032095}Mouri Motonari (毛利元就), born as Shoujumaru (松壽丸), identified himself as Ōe Jibunoshou (大江治部少輔), named after the ancestral clan of Mouri. He was born into a family of a minor local lord, and his parents died in his young. In this era, such local minor lords are forced to be involved in power and succession struggles with relatives, and also in the political disputes between neighboring major daimyos appointed by the central government in Kyōto. Starting his life to get back his land and castle, which was taken by his uncle, Motonari finally took almost the whole of the San'you and San'in regions, which were dominated by daimyos that he had once been subordinated to, by merging many minor and larger clans. Although he is getting old now, definitely, he is one of the greatest strategists and diplomats during this period."/>
+  <Hero id="lord_1_mori_2" alive="false" faction="Faction.clan_mori_1" spouse="Hero.lord_1_mori_1" text="{=6Bb23d93}Mouri Myokyu."/>
+  <Hero id="lord_1_mori_3" alive="false" faction="Faction.clan_mori_1" spouse="Hero.lord_1_mori_4" father="Hero.lord_1_mori_1" mother="Hero.lord_1_mori_2" text="{=83630ee8}Mouri Takamoto."/>
+  <Hero id="lord_1_mori_4" faction="Faction.clan_mori_1" spouse="Hero.lord_1_mori_3" text="{=2521e011}Mouri Ayaya."/>
+  <Hero id="lord_1_mori_5" faction="Faction.clan_mori_1" father="Hero.lord_1_mori_1" mother="Hero.lord_1_mori_2" text="{=f4FE5Ad7}Mouri Motoaki."/>
+  <Hero id="lord_1_mori_6" faction="Faction.clan_mori_1" father="Hero.lord_1_mori_1" mother="Hero.lord_1_mori_2" text="{=a344E35}Mouri Hidekane."/>
+  <!--kobayakawa clan-->
+  <Hero id="lord_1_kobayakawa" faction="Faction.clan_kobayakawa_1" spouse="Hero.lord_1_kobayakawa_1" text="{=8294a96e}Mouri Takakage (毛利隆景), born as Tokujumaru (徳寿丸), identified himself as Kobayakawa Matashirou (小早川又四郎), is the third son of Mouri Motonari. Like his brother, He was adopted into the Kobayakawa family, a local notable family in the Aki province, and inherited the family. These adoptions are Motonari's plot to expand his domain. After the death of his oldest brother, he assists Terumoto, his nephew, with his brother and father."/>
+  <Hero id="lord_1_kobayakawa_1" faction="Faction.clan_kobayakawa_1" spouse="Hero.lord_1_kobayakawa" text="{=3666bc12}Kobayakawa Toida No Ōkata ."/>
+  <!--kikkawa clan-->
+  <Hero id="lord_1_kikkawa" faction="Faction.clan_kikkawa_1" spouse="Hero.lord_1_kikkawa_1" text="{=B329E7c7}Mouri Motoharu (毛利元春), identified himself as Kikkawa Shoujirou (吉川少輔次郎), is the second son of Mouri Motonari (毛利元就), adopted into and later inherited the Kikkawa family, a distinguished family of Aki province. He assists Terumoto, his nephew and lord, well."/>
+  <Hero id="lord_1_kikkawa_1" faction="Faction.clan_kikkawa_1" spouse="Hero.lord_1_kikkawa" text="{=15522021}Kikkawa Iwakuni."/>
+  <Hero id="lord_1_kikkawa_2" faction="Faction.clan_kikkawa_1" spouse="Hero.lord_1_kikkawa_3" father="Hero.lord_1_kikkawa" mother="Hero.lord_1_kikkawa_1" text="{=C1DDcA50}Kikkawa Motonaga."/>
+  <Hero id="lord_1_kikkawa_3" faction="Faction.clan_kikkawa_1" spouse="Hero.lord_1_kikkawa_2" text="{=203Dc731}Kikkawa Yomogi."/>
+  <Hero id="lord_1_kikkawa_4" faction="Faction.clan_kikkawa_1" father="Hero.lord_1_kikkawa" mother="Hero.lord_1_kikkawa_1" text="{=7810Cb9a}Kikkawa Hiroie."/>
+  <Hero id="lord_1_kikkawa_5" faction="Faction.clan_kikkawa_1" father="Hero.lord_1_kikkawa" mother="Hero.lord_1_kikkawa_1" text="{=D906a26e}Kikkawa Tomi."/>
+  <Hero id="lord_1_kikkawa_6" faction="Faction.clan_kikkawa_1" father="Hero.lord_1_kikkawa" mother="Hero.lord_1_kikkawa_1" text="{=81B8375C}Kikkawa Amane."/>
+  <Hero id="lord_1_kikkawa_7" faction="Faction.clan_kikkawa_1" spouse="Hero.lord_1_kikkawa_8" text="{=893989eC}Kikkawa Tsuneyasu."/>
+  <Hero id="lord_1_kikkawa_8" faction="Faction.clan_kikkawa_1" spouse="Hero.lord_1_kikkawa_7" text="{=f80dec54}Kikkawa Awa."/>
+  <Hero id="lord_1_kikkawa_9" faction="Faction.clan_kikkawa_1" spouse="Hero.lord_1_kikkawa_10" father="Hero.lord_1_kikkawa_7" mother="Hero.lord_1_kikkawa_8" text="{=3210e46b}Kikkawa Tsuneie."/>
+  <Hero id="lord_1_kikkawa_10" faction="Faction.clan_kikkawa_1" spouse="Hero.lord_1_kikkawa_9" text="{=3b0ea0F6}Kikkawa Momo."/>
+  <Hero id="lord_1_kikkawa_11" faction="Faction.clan_kikkawa_1" father="Hero.lord_1_kikkawa_7" mother="Hero.lord_1_kikkawa_8" text="{=5a1bCb33}Kikkawa Hina."/>
+  <Hero id="lord_1_kikkawa_12" faction="Faction.clan_kikkawa_1" father="Hero.lord_1_kikkawa_7" mother="Hero.lord_1_kikkawa_8" text="{=e2DAe324}Kikkawa Tomoe."/>
+  <!--Yoshimi clan-->
+  <Hero id="lord_1_yoshimi" faction="Faction.clan_yoshimi_1" spouse="Hero.lord_1_yoshimi_1" text="{=3b8efD37}Yoshimi Masayori."/>
+  <Hero id="lord_1_yoshimi_1" faction="Faction.clan_yoshimi_1" spouse="Hero.lord_1_yoshimi" text="{=1cDcAAa3}Yoshimi omiya."/>
+  <Hero id="lord_1_yoshimi_2" faction="Faction.clan_yoshimi_1" spouse="Hero.lord_1_yoshimi_3" father="Hero.lord_1_yoshimi" mother="Hero.lord_1_yoshimi_1" text="{=f406bedd}Yoshimi Hiroyori."/>
+  <Hero id="lord_1_yoshimi_3" faction="Faction.clan_yoshimi_1" spouse="Hero.lord_1_yoshimi_2" text="{=19Fa605d}Yoshimi Makomo."/>
+  <Hero id="lord_1_yoshimi_4" faction="Faction.clan_yoshimi_1" spouse="Hero.lord_1_yoshimi_5" father="Hero.lord_1_yoshimi" mother="Hero.lord_1_yoshimi_1" text="{=B9390C40}Yoshimi Hiromasa."/>
+  <Hero id="lord_1_yoshimi_5" faction="Faction.clan_yoshimi_1" spouse="Hero.lord_1_yoshimi_4" text="{=397CaFC0}Yoshimi Hagi."/>
+  <!--naito clan-->
+  <Hero id="lord_1_naito" faction="Faction.clan_naito_1" spouse="Hero.lord_1_naito_1" text="{=26825caE}Naitou Takaharu."/>
+  <Hero id="lord_1_naito_1" faction="Faction.clan_naito_1" spouse="Hero.lord_1_naito" text="{=f0AaC01F}Naitou Hisagi."/>
+  <Hero id="lord_1_naito_2" faction="Faction.clan_naito_1" text="{=1313d68A}Naitou Motoyasu."/>
+  <!--Nanjo clan-->
+  <Hero id="lord_1_nanjo" faction="Faction.clan_nanjo_1" spouse="Hero.lord_1_nanjo_1" father="Hero.dead_lord_1_nanjo_1" mother="Hero.dead_lord_1_nanjo_2" text="{=A7A4F132}Nanjou Sousyou."/>
+  <Hero id="lord_1_nanjo_1" faction="Faction.clan_nanjo_1" spouse="Hero.lord_1_nanjo" text="{=1b987f8b}Nanjou Mukuge."/>
+  <Hero id="lord_1_nanjo_2" faction="Faction.clan_nanjo_1" father="Hero.lord_1_nanjo" mother="Hero.lord_1_nanjo_1" text="{=aa32449c}Nanjou Mototsugu."/>
+  <Hero id="lord_1_nanjo_3" faction="Faction.clan_nanjo_1" father="Hero.lord_1_nanjo" mother="Hero.lord_1_nanjo_1" text="{=55Ce81FC}Nanjou Yukue."/>
+  <Hero id="lord_1_nanjo_4" faction="Faction.clan_nanjo_1" father="Hero.lord_1_nanjo" mother="Hero.lord_1_nanjo_1" text="{=06b1B5D1}Nanjou Motoaki."/>
+  <Hero id="lord_1_nanjo_5" faction="Faction.clan_nanjo_1" spouse="Hero.lord_1_nanjo_6" father="Hero.dead_lord_1_nanjo_1" mother="Hero.dead_lord_1_nanjo_2" text="{=8504d29f}Nanjou Nobumasa."/>
+  <Hero id="lord_1_nanjo_6" faction="Faction.clan_nanjo_1" spouse="Hero.lord_1_nanjo_5" text="{=23E0c861}Nanjou Tokiwa."/>
+  <Hero id="lord_1_nanjo_7" faction="Faction.clan_nanjo_1" spouse="Hero.lord_1_nanjo_8" father="Hero.dead_lord_1_nanjo_1" mother="Hero.dead_lord_1_nanjo_2" text="{=0ef744b0}Nanjou Munenobu."/>
+  <Hero id="lord_1_nanjo_8" faction="Faction.clan_nanjo_1" spouse="Hero.lord_1_nanjo_7" text="{=5b1925E6}Nanjou Shima."/>
+  <Hero id="dead_lord_1_nanjo_1" alive="false" faction="Faction.clan_nanjo_1" spouse="Hero.dead_lord_1_nanjo_2" text="{=aeD67161}Nanjou Munehiro."/>
+  <Hero id="dead_lord_1_nanjo_2" alive="false" faction="Faction.clan_nanjo_1" spouse="Hero.dead_lord_1_nanjo_1" text="{=96A8Dd76}Nanjou Shoukoku-in ."/>
+  <!--Mizawa clan-->
+  <Hero id="lord_1_misawa" faction="Faction.clan_misawa_1" spouse="Hero.lord_1_misawa_1" text="{=B751d117}Mizawa Tamekiyo."/>
+  <Hero id="lord_1_misawa_1" faction="Faction.clan_misawa_1" spouse="Hero.lord_1_misawa" text="{=1D262651}Mizawa Kura."/>
+  <Hero id="lord_1_misawa_2" faction="Faction.clan_misawa_1" father="Hero.lord_1_misawa" mother="Hero.lord_1_misawa_1" text="{=A1D3f1e1}Mizawa Tametora."/>
+  <Hero id="lord_1_misawa_3" faction="Faction.clan_misawa_1" father="Hero.lord_1_misawa" mother="Hero.lord_1_misawa_1" text="{=Db8a25b8}Mizawa Wase."/>
+  <!--Amano clan-->
+  <Hero id="lord_1_amano" faction="Faction.clan_amano_1" spouse="Hero.lord_1_amano_1" text="{=b2D05610}Amano Takashige."/>
+  <Hero id="lord_1_amano_1" faction="Faction.clan_amano_1" spouse="Hero.lord_1_amano" text="{=Ef36B6a1}Amano Kitsu."/>
+  <Hero id="lord_1_amano_2" faction="Faction.clan_amano_1" father="Hero.lord_1_amano" mother="Hero.lord_1_amano_1" text="{=6DaBa173}Amano Motoaki."/>
+  <Hero id="lord_1_amano_3" faction="Faction.clan_amano_1" spouse="Hero.lord_1_amano_2" text="{=14B8Af37}Amano Naka."/>
+  <Hero id="lord_1_amano_4" faction="Faction.clan_amano_1" father="Hero.lord_1_amano" mother="Hero.lord_1_amano_1" text="{=96B5A999}Amano Motosuke."/>
+  <Hero id="lord_1_amano_5" faction="Faction.clan_amano_1" spouse="Hero.lord_1_amano_4" text="{=63083c37}Amano Chise."/>
+  <Hero id="lord_1_amano_6" faction="Faction.clan_amano_1" father="Hero.lord_1_amano" mother="Hero.lord_1_amano_1" text="{=59D222ba}Amano Mototomo."/>
+  <Hero id="lord_1_amano_7" faction="Faction.clan_amano_1" father="Hero.lord_1_amano" mother="Hero.lord_1_amano_1" text="{=473B7aC1}Amano Motoyoshi."/>
+  <Hero id="lord_1_amano_8" faction="Faction.clan_amano_1" father="Hero.lord_1_amano" mother="Hero.lord_1_amano_1" text="{=907FED19}Amano Motonobu."/>
+  <!--Murakami clan-->
+  <Hero id="lord_1_murakami" faction="Faction.clan_murakami_1" spouse="Hero.lord_1_murakami_1" text="{=c69f7362}Murakami Takeyoshi."/>
+  <Hero id="lord_1_murakami_1" faction="Faction.clan_murakami_1" spouse="Hero.lord_1_murakami" text="{=89802151}Murakami Somefuji."/>
+  <Hero id="lord_1_murakami_2" faction="Faction.clan_murakami_1" father="Hero.lord_1_murakami" mother="Hero.lord_1_murakami_1" text="{=1023eb45}Murakami Motoyoshi."/>
+  <Hero id="lord_1_murakami_3" faction="Faction.clan_murakami_1" father="Hero.lord_1_murakami" mother="Hero.lord_1_murakami_1" text="{=Cb04ad83}Murakami Konagi."/>
+  <!--THESE ARE NOT HIS REAL PARENTS. GAME CRASHES IF CHILD HAS NO PARENTS WHEN THEY REACH TEENAGER BECAUSE IT NORMALLY GRABS THE PARENT'S TRAITS. GAME WILL CHANGE THIS SYSTEM IN 1.2, SO THIS IS A STOP GAP. DESTROY THESE PARENTS WHEN UPDATING TO 1.2 OR THE WEEBS WILL KILL US FOR BEING HISTORICALLY INNACURATE.-->
+  <Hero id="lord_1_murakami_4" faction="Faction.clan_murakami_1" father="Hero.lord_1_murakami_5" mother="Hero.lord_1_murakami_6" text="{=b0BaA25E}Murakami Michifusa."/>
+  <Hero id="lord_1_murakami_5" faction="Faction.clan_murakami_1" spouse="Hero.lord_1_murakami_6" text="{=Db0e4fe9}Murakami Naoyoshi."/>
+  <Hero id="lord_1_murakami_6" faction="Faction.clan_murakami_1" spouse="Hero.lord_1_murakami_5" text="{=575bA039}Murakami Kohama."/>
+  <Hero id="lord_1_murakami_7" faction="Faction.clan_murakami_1" spouse="Hero.lord_1_murakami_8" father="Hero.lord_1_murakami_5" mother="Hero.lord_1_murakami_6" text="{=2f36301F}Murakami Yoshimichi."/>
+  <Hero id="lord_1_murakami_8" faction="Faction.clan_murakami_1" spouse="Hero.lord_1_murakami_7" text="{=6Ba8c74a}Murakami Suou."/>
+  <!--kawano clan-->
+  <Hero id="lord_1_kawano" faction="Faction.clan_kawano_1" spouse="Hero.lord_1_kawano_1" father="Hero.dead_lord_1_kawano_1" mother="Hero.dead_lord_1_kawano_2" text="{=f29f96b0}Kawano Michinobu."/>
+  <Hero id="lord_1_kawano_1" faction="Faction.clan_kawano_1" spouse="Hero.lord_1_kawano" text="{=c4B5EEff}Kawano Matsuri."/>
+  <Hero id="lord_1_kawano_2" faction="Faction.clan_kawano_1" father="Hero.lord_1_kawano" mother="Hero.lord_1_kawano_1" text="{=A77F951D}Kawano Michinao."/>
+  <Hero id="dead_lord_1_kawano_1" alive="false" faction="Faction.clan_kawano_1" spouse="Hero.dead_lord_1_kawano_2" text="{=7d016ea0}Kawano Michiharu."/>
+  <Hero id="dead_lord_1_kawano_2" alive="false" faction="Faction.clan_kawano_1" spouse="Hero.dead_lord_1_kawano_1" text="{=BdD873b8}Kawano Seri."/>
+  <!--uragami kingdom-->
+  <!--uragami clan-->
+  <Hero id="lord_1_uragami" faction="Faction.clan_uragami_1" spouse="Hero.lord_1_uragami_1" text="{=0d52C1dA}Uragami Munekage."/>
+  <Hero id="lord_1_uragami_1" faction="Faction.clan_uragami_1" spouse="Hero.lord_1_uragami" text="{=26913b40}Uragami Shion."/>
+  <Hero id="lord_1_uragami_2" faction="Faction.clan_uragami_1" spouse="Hero.lord_1_uragami_3" father="Hero.lord_1_uragami" mother="Hero.lord_1_uragami_1" text="{=C3181B45}Uragami Munetoki."/>
+  <Hero id="lord_1_uragami_3" faction="Faction.clan_uragami_1" spouse="Hero.lord_1_uragami_2" text="{=27472b62}Uragami Tatsu."/>
+  <!--Ukita clan-->
+  <Hero id="lord_1_ukita" faction="Faction.clan_ukita_1" spouse="Hero.lord_1_ukita_1" father="Hero.dead_lord_1_ukita_1" mother="Hero.dead_lord_1_ukita_2" text="{=9e595F5A}Ukita Naoie."/>
+  <Hero id="lord_1_ukita_1" faction="Faction.clan_ukita_1" spouse="Hero.lord_1_ukita" text="{=d4C3e6ea}Ukita Uzu."/>
+  <Hero id="lord_1_ukita_2" faction="Faction.clan_ukita_1" father="Hero.lord_1_ukita" mother="Hero.lord_1_ukita_1" text="{=Ad8a71fE}Ukita Ai."/>
+  <Hero id="lord_1_ukita_3" faction="Faction.clan_ukita_1" father="Hero.lord_1_ukita" mother="Hero.lord_1_ukita_1" text="{=c48a886D}Ukita Ran."/>
+  <Hero id="lord_1_ukita_4" faction="Faction.clan_ukita_1" father="Hero.lord_1_ukita" mother="Hero.lord_1_ukita_1" text="{=68F3C65f}Ukita Tsukuha."/>
+  <Hero id="lord_1_ukita_5" faction="Faction.clan_ukita_1" father="Hero.lord_1_ukita" mother="Hero.lord_1_ukita_1" text="{=1E2a7c5c}Ukita Kaya."/>
+  <Hero id="lord_1_ukita_6" faction="Faction.clan_ukita_1" spouse="Hero.lord_1_ukita_7" father="Hero.dead_lord_1_ukita_1" mother="Hero.dead_lord_1_ukita_2" text="{=7874Efa5}Ukita Tadaie."/>
+  <Hero id="lord_1_ukita_7" faction="Faction.clan_ukita_1" spouse="Hero.lord_1_ukita_6" text="{=Ed5E49eA}Ukita Nadeshiko."/>
+  <Hero id="lord_1_ukita_8" faction="Faction.clan_ukita_1" father="Hero.lord_1_ukita" mother="Hero.lord_1_ukita_1" text="{=1Fe50504}Ukita Motoie."/>
+  <Hero id="lord_1_ukita_9" faction="Faction.clan_ukita_1" father="Hero.lord_1_ukita" mother="Hero.lord_1_ukita_1" text="{=850c54dA}Ukita Akiie."/>
+  <Hero id="lord_1_ukita_10" faction="Faction.clan_ukita_1" father="Hero.lord_1_ukita" mother="Hero.lord_1_ukita_1" text="{=92A07787}Ukita Shiramomo."/>
+  <Hero id="lord_1_ukita_11" faction="Faction.clan_ukita_1" father="Hero.lord_1_ukita" mother="Hero.lord_1_ukita_1" text="{=3540064c}Ukita Aofuji."/>
+  <Hero id="dead_lord_1_ukita_1" alive="false" faction="Faction.clan_ukita_1" spouse="Hero.dead_lord_1_ukita_2" text="{=2bB77b3E}Ukita Okiie."/>
+  <Hero id="dead_lord_1_ukita_2" alive="false" faction="Faction.clan_ukita_1" spouse="Hero.dead_lord_1_ukita_1" text="{=d245e9d8}Ukita Zenjo-in."/>
+  <!--akashi clan-->
+  <Hero id="lord_1_akashi" faction="Faction.clan_akashi_1" spouse="Hero.lord_1_akashi_1" text="{=bc9ad9a2}Akashi Yukikatsu."/>
+  <Hero id="lord_1_akashi_1" faction="Faction.clan_akashi_1" spouse="Hero.lord_1_akashi" text="{=72F7F3f3}Akashi Ashi."/>
+  <Hero id="lord_1_akashi_2" faction="Faction.clan_akashi_1" father="Hero.lord_1_akashi" mother="Hero.lord_1_akashi_1" text="{=96D59Dc6}Akashi Teruzumi."/>
+  <Hero id="lord_1_akashi_3" faction="Faction.clan_akashi_1" father="Hero.lord_1_akashi" mother="Hero.lord_1_akashi_1" text="{=689c7112}Akashi Akebi."/>
+  <Hero id="lord_1_akashi_4" faction="Faction.clan_akashi_1" father="Hero.lord_1_akashi" mother="Hero.lord_1_akashi_1" text="{=Dd21A223}Akashi Awa."/>
+  <!--amago kingdom-->
+  <!--amago clan-->
+  <Hero id="lord_1_amago" faction="Faction.clan_amago_1" spouse="Hero.lord_1_amago_1" father="Hero.dead_lord_1_amago_1" mother="Hero.dead_lord_1_amago_2" text="{=80C14e0f}Amago Katsuhisa."/>
+  <Hero id="lord_1_amago_1" faction="Faction.clan_amago_1" spouse="Hero.lord_1_amago" text="{=c4272fd8}Amago Tamane."/>
+  <Hero id="lord_1_amago_2" faction="Faction.clan_amago_1" father="Hero.dead_lord_1_amago_1" mother="Hero.dead_lord_1_amago_2" text="{=Dd0ebb6C}Amago Ujihisa."/>
+  <Hero id="lord_1_amago_3" faction="Faction.clan_amago_1" father="Hero.dead_lord_1_amago_1" mother="Hero.dead_lord_1_amago_2" text="{=F752dCb0}Amago Michihisa."/>
+  <Hero id="dead_lord_1_amago_1" alive="false" faction="Faction.clan_amago_1" spouse="Hero.dead_lord_1_amago_2" text="{=996B4069}Amago Sanehisa."/>
+  <Hero id="dead_lord_1_amago_2" alive="false" faction="Faction.clan_amago_1" spouse="Hero.dead_lord_1_amago_1" text="{=5C8f9c88}Amago Seiryou-in."/>
+  <!--yamanaka clan-->
+  <Hero id="lord_1_yamanaka" faction="Faction.clan_yamanaka_1" spouse="Hero.lord_1_yamanaka_1" father="Hero.dead_lord_1_yamanaka_1" mother="Hero.dead_lord_1_yamanaka_2" text="{=558523a7}Yamanaka Yukimori."/>
+  <Hero id="lord_1_yamanaka_1" faction="Faction.clan_yamanaka_1" spouse="Hero.lord_1_yamanaka" text="{=Df1d0Cc4}Yamanaka Yura."/>
+  <Hero id="lord_1_yamanaka_2" faction="Faction.clan_yamanaka_1" father="Hero.dead_lord_1_yamanaka_1" mother="Hero.dead_lord_1_yamanaka_2" text="{=e6B5B75c}Yamanaka Yukitaka."/>
+  <Hero id="dead_lord_1_yamanaka_1" alive="false" faction="Faction.clan_yamanaka_1" spouse="Hero.dead_lord_1_yamanaka_2" text="{=E3FAC3a2}Yamanaka Mitsuyuki."/>
+  <Hero id="dead_lord_1_yamanaka_2" alive="false" faction="Faction.clan_yamanaka_1" spouse="Hero.dead_lord_1_yamanaka_1" text="{=5ADeF751}Yamanaka Shunkei-in."/>
+  <!--tatsuhara clan-->
+  <Hero id="lord_1_tatsuhara" faction="Faction.clan_tatsuhara_1" spouse="Hero.lord_1_tatsuhara_1" text="{=57EEd2AA}Tachihara Hisatsuna."/>
+  <Hero id="lord_1_tatsuhara_1" faction="Faction.clan_tatsuhara_1" spouse="Hero.lord_1_tatsuhara" text="{=7Cb0F769}Tachihara Fuse."/>
+  <Hero id="lord_1_tatsuhara_2" faction="Faction.clan_tatsuhara_1" father="Hero.lord_1_tatsuhara" mother="Hero.lord_1_tatsuhara_1" text="{=31978b5A}Tachihara Michihisa."/>
+  <Hero id="lord_1_tatsuhara_3" faction="Faction.clan_tatsuhara_1" father="Hero.lord_1_tatsuhara" mother="Hero.lord_1_tatsuhara_1" text="{=848bbf5E}Tachihara Nami."/>
+</Heroes>

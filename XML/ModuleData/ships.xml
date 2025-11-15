@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Ships>
+	<!--format: 
+	string shipId
+	string name
+	int troopCapacity
+	int cargoCapacity (pounds of weight)
+	int upkeep (per day)
+	int buildTime (in hours)
+	int buildPrice
+	int capacity
+	string icon unused
+	bool isMilitary (for icon in UI)
+	bool canBuild (if it shows up in the build menu)
+    bool canBuy
+	string desc (description)-->
+    <!--<Ship id="ship_bezai_sen"
+          name="Bezai Sen"
+          troopCapacity="5"
+          upkeep="50"
+          buildTime="72"
+          buildPrice="5000"
+          icon="test_boat"
+          canBuild="true"
+          maxSpeed="10"
+          acceleration="2"
+          maneuverability="2"
+          weight="1"
+          sailors="1"
+          healthPoints="1"
+          desc="The Bezai Sen is a medium sized, fast moving transport vessel, designed to move cargo and not fight.">
+        <ShipPrefabs>
+            <ShipPrefab id ="temp"/>
+        </ShipPrefabs>
+    </Ship>
+	<Ship id="ship_hagase_bune"
+		  name="Hagase Bune"
+		  troopCapacity="10"
+		  upkeep="100"
+		  buildTime="144"
+		  buildPrice="10000"
+		  icon="test_boat"
+		  canBuild="true"
+		  maxSpeed="10"
+		  acceleration="2"
+		  maneuverability="2"
+		  weight="1"
+		  sailors="1"
+		  healthPoints="1"
+		  desc="The Hagase Bune is a large transport vessel, designed to move cargo and not for combat.">
+        <ShipPrefabs>
+            <ShipPrefab id ="temp"/>
+        </ShipPrefabs>
+    </Ship>-->
+	<Ship id="ship_hokkoku_bune" name="{=RQvZDO8r}Hokkoku Bune" troopCapacity="15" upkeep="150" buildTime="180" buildPrice="15000" canBuild="true" canBuy="true" maxSpeed="5" acceleration="1" maneuverability="1.2" weight="90000" sailors="5" healthPoints="10000" desc="{=IdWKpEhI}The Hokkoku Bune is a very large, slow moving transport vessel, designed to move an enourmous amount of cargo, but is vulnerable in combat.">
+        <ShipPrefabs>
+            <ShipPrefab id="ship_hokkoku_bune"/>
+        </ShipPrefabs>
+    </Ship>
+	<Ship id="ship_kobaya_bune" name="{=WLSf4HSI}Kobaya Bune" troopCapacity="15" upkeep="50" buildTime="72" buildPrice="5000" canBuild="true" canBuy="true" maxSpeed="6" acceleration="3" maneuverability="5" weight="20000" sailors="1" healthPoints="5000" desc="{=JgVn435E}The Kobaya Bune is a small, fast moving ship designed for skirmishing and reconnaissance.">
+        <ShipPrefabs>
+            <ShipPrefab id="ship_kobaya_bune_a"/>
+        </ShipPrefabs>
+    </Ship>
+	<Ship id="ship_seki_bune" name="{=8YfFgG7E}Seki Bune" troopCapacity="60" upkeep="200" buildTime="240" buildPrice="20000" canBuild="true" canBuy="false" maxSpeed="7" acceleration=".7" maneuverability="1" weight="150000" sailors="4" healthPoints="15000" desc="{=79intRVd}The Seki Bune is a medium sized troop transport vessel, designed for transporting troops across the seas. It can hold it's own in a direct naval engagement.">
+        <ShipPrefabs>
+            <ShipPrefab id="ship_seki_bune_a"/>
+        </ShipPrefabs>
+    </Ship>
+	<!--<Ship id="ship_atake_bune"
+		  name="Atake Bune"
+		  troopCapacity="120"
+		  upkeep="400"
+		  buildTime="336"
+		  buildPrice="40000"
+		  canBuild="true"
+		  maxSpeed="10"
+		  acceleration="2"
+		  maneuverability="2"
+		  weight="1"
+		  sailors="1"
+		  healthPoints="1"
+		  desc="The Atake Bune is a large troop transport, designed for naval combat and troop transport. It will do well in a direct naval engagement.">
+        <ShipPrefabs>
+            <ShipPrefab id ="temp"/>
+        </ShipPrefabs>
+    </Ship>
+	<Ship id="ship_oatake_bune"
+		  name="Ōatake Bune"
+		  troopCapacity="150"
+		  upkeep="1000"
+		  buildTime="504"
+		  buildPrice="85000"
+		  canBuild="true"
+		  maxSpeed="10"
+		  acceleration="2"
+		  maneuverability="2"
+		  weight="1"
+		  sailors="1"
+		  healthPoints="1"
+		  desc="The Ōatake Bune is a very large troop transport, designed to dominate the the seas. These ships have a built in mansion, and are perfect for a daimyo to display his authority to the ocean.">
+        <ShipPrefabs>
+            <ShipPrefab id ="temp"/>
+        </ShipPrefabs>
+    </Ship>
+	<Ship id="ship_tekko_sen"
+		  name="Tekkou Sen"
+		  troopCapacity="100"
+		  upkeep="5000"
+		  buildTime="720"
+		  buildPrice="200000"
+		  canBuild="true"
+		  maxSpeed="10"
+		  acceleration="2"
+		  maneuverability="2"
+		  weight="1"
+		  sailors="1"
+		  healthPoints="1"
+		  desc="The Tekkou Sen is an enourmous ship dwarfing even the Ōatake Bune. It's artillery and steel plates ensure it's domination on the battlefield. Any daimyo with one of these, will surely be a force to be reckoned with.">
+        <ShipPrefabs>
+            <ShipPrefab id ="temp"/>
+        </ShipPrefabs>
+    </Ship>-->
+</Ships>

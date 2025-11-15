@@ -1,0 +1,361 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Items>
+    <!--<Item
+        id="test_book"
+        name="Test Book"
+        mesh="sho_book_a_1"
+        item_category="sho_book" is_merchandise="false" value="5000"
+        weight="1"
+        Type="Book">
+        
+            
+    </Item>
+    <Item
+        id="test_book_2"
+        name="Test Book 2"
+        mesh="sho_book_a_3"
+        item_category="sho_book" is_merchandise="false" value="5000"
+        weight="1"
+        Type="Book">
+        
+            
+    </Item>
+    <Item
+        id="test_book_3"
+        name="Test Book 3"
+        mesh="sho_book_a_2"
+        item_category="sho_book" is_merchandise="false" value="5000"
+        weight="1"
+        Type="Book">
+        
+            
+    </Item>-->
+    <!--sho_book_a_1
+        sho_book_a_2
+        sho_book_a_3
+        sho_book_a_4
+        sho_scroll_a_1
+        sho_scroll_a_2
+        sho_scroll_a_3
+        sho_scroll_a_4-->
+    <Item id="book_1" name="{=7HHrUYJL}Aisu Kageno-ryū Mokuroku" mesh="sho_scroll_a_1" item_category="sho_book" is_merchandise="false" value="132000" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_2" name="{=YYOAy662}Shintou-ryū Gokui Kaidensho" mesh="sho_scroll_a_2" item_category="sho_book" is_merchandise="false" value="129600" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_3" name="{=DIXsxyaD}Shinkage-ryū Kagemokuroku" mesh="sho_scroll_a_3" item_category="sho_book" is_merchandise="false" value="114600" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_4" name="{=w7qeAydI}Ten-ryū Shomokuroku" mesh="sho_scroll_a_4" item_category="sho_book" is_merchandise="false" value="60475" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_5" name="{=3sx8VYLl}Toda-ryū Hiden no sho" mesh="sho_scroll_a_1" item_category="sho_book" is_merchandise="false" value="129600" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_6" name="{=frd6g7E0}Marumeshinkage-ryū Mokuroku" mesh="sho_scroll_a_2" item_category="sho_book" is_merchandise="false" value="132000" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_7" name="{=7oGHcWiG}Houzouin-ryū Hyouhoumokuroku" mesh="sho_scroll_a_3" item_category="sho_book" is_merchandise="false" value="74250" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_8" name="{=qQ5Qe8Wa}Jaraishiki" mesh="sho_book_a_1" item_category="sho_book" is_merchandise="false" value="48000" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_9" name="{=EXkXfJZA}Utsubo No Shidai" mesh="sho_book_a_2" item_category="sho_book" is_merchandise="false" value="48000" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_10" name="{=je3n5qAB}Shishiashi No Shidai" mesh="sho_book_a_3" item_category="sho_book" is_merchandise="false" value="38250" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_11" name="{=6ojmtwR3}Baizoushi" mesh="sho_scroll_a_1" item_category="sho_book" is_merchandise="false" value="17600" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_12" name="{=pB9o3dAO}Baidensho" mesh="sho_scroll_a_2" item_category="sho_book" is_merchandise="false" value="18350" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_13" name="{=RKFy2nfR}Ryouba Zusetsu" mesh="sho_book_a_1" item_category="sho_book" is_merchandise="false" value="45100" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_14" name="{=RukLXS5c}Tazuna No Koto" mesh="sho_book_a_2" item_category="sho_book" is_merchandise="false" value="67500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_15" name="{=Fc6fFeIM}Yabusame Shidai" mesh="sho_book_a_3" item_category="sho_book" is_merchandise="false" value="20500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_16" name="{=PHjULD4d}Kasagakeki" mesh="sho_book_a_4" item_category="sho_book" is_merchandise="false" value="20500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_17" name="{=FBLYEYkh}Kishahishou" mesh="sho_book_a_1" item_category="sho_book" is_merchandise="false" value="20500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_18" name="{=3qyIiLlH}Teppou Yakunokata Narabini Chougou Shidai" mesh="sho_scroll_a_1" item_category="sho_book" is_merchandise="false" value="38250" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_19" name="{=8qvAXz9z}Tamagusuri Chougou Shidai" mesh="sho_scroll_a_2" item_category="sho_book" is_merchandise="false" value="34800" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_20" name="{=zHV5iFpv}Tamakoshirae No Koto" mesh="sho_scroll_a_3" item_category="sho_book" is_merchandise="false" value="8750" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_21" name="{=AD9DmG2I}Shidennoshū" mesh="sho_scroll_a_4" item_category="sho_book" is_merchandise="false" value="67500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_22" name="{=geRKOU03}Teppou Meate No Daiji" mesh="sho_scroll_a_1" item_category="sho_book" is_merchandise="false" value="70500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_23" name="{=0cxuFVQZ}Hyakukanshou" mesh="sho_scroll_a_2" item_category="sho_book" is_merchandise="false" value="67500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_24" name="{=MDUF6dFs}Asabashou" mesh="sho_scroll_a_3" item_category="sho_book" is_merchandise="false" value="67500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_25" name="{=iRp0l1Nj}Keiranshūyoshū" mesh="sho_scroll_a_4" item_category="sho_book" is_merchandise="false" value="67500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_26" name="{=P1uqYOn0}Sanbusoujou Hossokumikki" mesh="sho_scroll_a_1" item_category="sho_book" is_merchandise="false" value="67500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_27" name="{=dFKJ15IC}Shugenshuyo Hiketsushu" mesh="sho_scroll_a_2" item_category="sho_book" is_merchandise="false" value="67500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_28" name="{=C1r69eSR}Hidanshou" mesh="sho_scroll_a_3" item_category="sho_book" is_merchandise="false" value="53250" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_29" name="{=ocT1p1U6}Kaji Myoujikou" mesh="sho_scroll_a_4" item_category="sho_book" is_merchandise="false" value="13250" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_30" name="{=9ur29XYx}Ousekishou" mesh="sho_book_a_1" item_category="sho_book" is_merchandise="false" value="11650" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_31" name="{=SAucissd}Eiroku Meizukushi" mesh="sho_book_a_2" item_category="sho_book" is_merchandise="false" value="75000" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_32" name="{=Bgdi8AOs}Shozan Engi" mesh="sho_scroll_a_1" item_category="sho_book" is_merchandise="false" value="10000" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_33" name="{=7JBmkj8x}Toukankikou" mesh="sho_book_a_3" item_category="sho_book" is_merchandise="false" value="12650" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_34" name="{=kwdX0sXa}Kaidouki" mesh="sho_book_a_4" item_category="sho_book" is_merchandise="false" value="34500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_35" name="{=DzRtTokT}Izayoi Nikki" mesh="sho_book_a_1" item_category="sho_book" is_merchandise="false" value="12250" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_36" name="{=IGw1F6NE}Kaikoku Zakki" mesh="sho_book_a_2" item_category="sho_book" is_merchandise="false" value="47850" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_37" name="{=f9NQFLGe}Zinkokuki" mesh="sho_book_a_3" item_category="sho_book" is_merchandise="false" value="58800" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_38" name="{=KzzriYoO}Nihon Ikkan" mesh="sho_book_a_4" item_category="sho_book" is_merchandise="false" value="74050" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_39" name="{=XVSN8760}Kaitou Shokokuki" mesh="sho_book_a_1" item_category="sho_book" is_merchandise="false" value="75050" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_40" name="{=xddPDjBw}Tousenkyou" mesh="sho_scroll_a_1" item_category="sho_book" is_merchandise="false" value="10500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_41" name="{=wtuE6Ll9}Sonshi" mesh="sho_book_a_1" item_category="sho_book" is_merchandise="false" value="49500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_42" name="{=yt7Uv0U9}Goshi" mesh="bd_barrel_a" item_category="sho_book" is_merchandise="false" value="49500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_43" name="{=GXle1JL8}Utsuryoushi" mesh="sho_book_a_3" item_category="sho_book" is_merchandise="false" value="49500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_44" name="{=M6t6WQ51}Rikutou" mesh="sho_book_a_4" item_category="sho_book" is_merchandise="false" value="49500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_45" name="{=fcDYAFnd}Kousekikou Sanryaku" mesh="sho_book_a_1" item_category="sho_book" is_merchandise="false" value="49500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_46" name="{=ie46ITLX}Shibahou" mesh="sho_book_a_2" item_category="sho_book" is_merchandise="false" value="49500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_47" name="{=pkYCz3JJ}Rieikou Montai" mesh="sho_book_a_3" item_category="sho_book" is_merchandise="false" value="49500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_48" name="{=Svsj5eBn}Renrihishou" mesh="sho_book_a_4" item_category="sho_book" is_merchandise="false" value="13250" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_49" name="{=G9luekCQ}Azuma Mondou" mesh="sho_book_a_1" item_category="sho_book" is_merchandise="false" value="13250" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_50" name="{=byz0t5lF}Shinsen Tsukubashū" mesh="sho_book_a_2" item_category="sho_book" is_merchandise="false" value="42750" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_51" name="{=AUqLkz89}Teikin'ourai" mesh="sho_book_a_3" item_category="sho_book" is_merchandise="false" value="24500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_52" name="{=Do2iFyeg}Sekisoourai" mesh="sho_book_a_4" item_category="sho_book" is_merchandise="false" value="81800" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_53" name="{=cvVFMBpA}Gyokuenkishou" mesh="sho_book_a_1" item_category="sho_book" is_merchandise="false" value="15300" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_54" name="{=OZkvtG5H}Joushougusou" mesh="sho_book_a_2" item_category="sho_book" is_merchandise="false" value="14500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_55" name="{=vCxWE1Mz}Heike Monogatari" mesh="sho_book_a_3" item_category="sho_book" is_merchandise="false" value="37950" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_56" name="{=XHu6RqD5}Gikeiki" mesh="sho_book_a_4" item_category="sho_book" is_merchandise="false" value="10250" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_57" name="{=6ciNxHnD}Taiheiki" mesh="sho_book_a_1" item_category="sho_book" is_merchandise="false" value="41250" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_58" name="{=sPKN0rSw}Sogamonogatari" mesh="sho_book_a_2" item_category="sho_book" is_merchandise="false" value="10750" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_59" name="{=66235LB1}Shisho-Gokyou" mesh="sho_book_a_3" item_category="sho_book" is_merchandise="false" value="60000" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_60" name="{=GzpOzopK}Wamyou Ruijushou" mesh="sho_book_a_4" item_category="sho_book" is_merchandise="false" value="11500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_61" name="{=iWBtmfhY}Chiribukuro" mesh="sho_book_a_1" item_category="sho_book" is_merchandise="false" value="29925" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_62" name="{=VEuXwb4n}Shūgaishou" mesh="sho_book_a_2" item_category="sho_book" is_merchandise="false" value="24700" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_63" name="{=8nWqHiiH}Kagakushū" mesh="sho_book_a_3" item_category="sho_book" is_merchandise="false" value="18650" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_64" name="{=0OzFc2Cb}Setuyoushū" mesh="sho_book_a_4" item_category="sho_book" is_merchandise="false" value="18650" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_65" name="{=IAfPmCEO}Kaisenshikimoku" mesh="sho_book_a_1" item_category="sho_book" is_merchandise="false" value="57000" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_66" name="{=gfTwgNWr}Goseibaishikimoku" mesh="sho_scroll_a_1" item_category="sho_book" is_merchandise="false" value="57000" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_67" name="{=sAs2rbg4}Sikimokushou" mesh="sho_book_a_2" item_category="sho_book" is_merchandise="false" value="51000" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_68" name="{=rQ1RiaVi}Asakura Kagetaka Joujou" mesh="sho_scroll_a_2" item_category="sho_book" is_merchandise="false" value="66000" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_69" name="{=vLNuXwK3}Jinkaishū" mesh="sho_scroll_a_3" item_category="sho_book" is_merchandise="false" value="58500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_70" name="{=uSDoJYGa}Imagawa Kanamokuroku" mesh="sho_scroll_a_4" item_category="sho_book" is_merchandise="false" value="17250" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_71" name="{=CEjhDvd7}Koushū Hatto No Shidai" mesh="sho_scroll_a_1" item_category="sho_book" is_merchandise="false" value="15750" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_72" name="{=6Gqxd9s2}Sagarashi Hatto" mesh="sho_scroll_a_2" item_category="sho_book" is_merchandise="false" value="14900" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_73" name="{=LVwq6jaC}Daitouryūijūhou" mesh="sho_scroll_a_3" item_category="sho_book" is_merchandise="false" value="7600" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_74" name="{=dWCGYQD6}Ishinpou" mesh="sho_scroll_a_4" item_category="sho_book" is_merchandise="false" value="11500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_75" name="{=ZvOqsITf}Ton'ishou" mesh="sho_book_a_1" item_category="sho_book" is_merchandise="false" value="63000" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_76" name="{=3qPZwQmw}Man'anpou" mesh="sho_book_a_2" item_category="sho_book" is_merchandise="false" value="59250" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_77" name="{=RZNHzUvJ}Ishotaizen" mesh="sho_book_a_3" item_category="sho_book" is_merchandise="false" value="52500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_78" name="{=TIBuEAb7}Keitekishū" mesh="sho_book_a_4" item_category="sho_book" is_merchandise="false" value="59250" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_79" name="{=gQb6YCnw}Chikujouki" mesh="sho_book_a_1" item_category="sho_book" is_merchandise="false" value="64500" weight="1" Type="Book">
+
+
+    </Item>
+    <Item id="book_80" name="{=vlCFfp1l}Bukeisouyou" mesh="sho_book_a_2" item_category="sho_book" is_merchandise="false" value="51000" weight="1" Type="Book">
+
+
+    </Item>
+</Items>

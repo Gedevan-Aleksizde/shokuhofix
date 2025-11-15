@@ -1,0 +1,482 @@
+<Settlements>
+  <Settlement id="sho_port_KY5_2" name="{=dmNn1iRw}Port Niujima" posX="453.95" posY="376.98" gate_posX="453.95" gate_posY="376.98" culture="Culture.neutral_culture" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_KY5_2" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="empire_twn_scene_bg" wait_mesh="wait_hideout_forest" gate_rotation="0.0" bound="Settlement.town_KY5" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_SHI2_1" name="{=ei2gsY4H}Port Kurose" posX="533.09" posY="400.04" gate_posX="533.09" gate_posY="400.04" culture="Culture.neutral_culture" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_SHI2_1" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="empire_twn_scene_bg" wait_mesh="wait_hideout_forest" gate_rotation="0.0" bound="Settlement.town_SHI2" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_KY11" name="{=hTC8JuAs}Port Hinoe" posX="266.564" posY="320.51" culture="Culture.neutral_culture" gate_posX="266.728" gate_posY="320.7121" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_KY11" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_KY11" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_SHI1" name="{=Bco2qodf}Port Nakamura" posX="586.155" posY="362.137" culture="Culture.neutral_culture" gate_posX="585.9868" gate_posY="362.3355" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_SHI1" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_SHI1" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_SHI5" name="{=5shgbY6h}Port Okou" posX="653.301" posY="427.137" culture="Culture.neutral_culture" gate_posX="653.1464" gate_posY="427.3463" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_SHI5" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_SHI5" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_SHI7" name="{=ow0uuaTv}Port Ushiki" posX="764.407" posY="486.576" culture="Culture.neutral_culture" gate_posX="764.2044" gate_posY="486.4127" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_SHI7" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_SHI7" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_SHI6" name="{=NQNBpp3I}Port Amagiri" posX="670.066" posY="515.288" culture="Culture.neutral_culture" gate_posX="670.2326" gate_posY="515.0881" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_SHI6" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_SHI6" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_SHI14" name="{=njJsUigv}Port Yuzuki" posX="555.119" posY="452.032" culture="Culture.neutral_culture" gate_posX="555.3128" gate_posY="451.8583" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_SHI14" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_SHI4" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_castle_CHU2" name="{=aMTCBY4X}Port Kounomine" posX="406.211" posY="488.977" culture="Culture.neutral_culture" gate_posX="406.0219" gate_posY="489.1558" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_castle_CHU2" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_CHU2" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_village_CHU12_1" name="{=SEpXExUQ}Port Onomichi" posX="613.719" posY="536.712" culture="Culture.neutral_culture" gate_posX="613.565" gate_posY="536.9218" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_village_CHU12_1" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_CHU12" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_CHU6" name="{=bZ3wOaQc}Port Okayama" posX="694.559" posY="551.862" culture="Culture.neutral_culture" gate_posX="694.3979" gate_posY="552.0664" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_CHU6" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_CHU6" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_castle_AMA1" name="{=r9tteL13}Port Kono" posX="615.815" posY="760.971" culture="Culture.neutral_culture" gate_posX="615.6785" gate_posY="761.1926" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_castle_AMA1" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_AMA1" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_village_AMA1_1" name="{=ztyUiV1B}Port Nishinoshima" posX="592.736" posY="748.703" culture="Culture.neutral_culture" gate_posX="592.6695" gate_posY="748.9349" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_village_AMA1_1" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_AMA1" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_KY8" name="{=lno26pYr}Port Kumamoto" posX="323.248" posY="335.073" culture="Culture.neutral_culture" gate_posX="323.508" gate_posY="335.084" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_KY8" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_KY8" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_KY10" name="{=zLo1kVre}Port Muranaka" posX="257.279" posY="410.464" culture="Culture.neutral_culture" gate_posX="257.3936" gate_posY="410.2303" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_KY10" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_KY10" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_castle_KY2" name="{=YDR4z6iK}Port Matsuyama" posX="354.953" posY="473.931" culture="Culture.neutral_culture" gate_posX="354.961" gate_posY="473.6709" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_castle_KY2" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_KY25" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_KY1" name="{=9QoNmdLF}Port Koyama" posX="368.314" posY="140.065" culture="Culture.neutral_culture" gate_posX="368.1418" gate_posY="140.2601" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_KY1" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_KY1" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_castle_KY10" name="{=yzwX9kou}Port Izumi" posX="299.055" posY="252.445" culture="Culture.neutral_culture" gate_posX="299.2258" gate_posY="252.2487" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_castle_KY10" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_KY10" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_village_KY10_2" name="{=MlIOP9DE}Port Douzaki" posX="273.395" posY="253.896" culture="Culture.neutral_culture" gate_posX="273.2506" gate_posY="254.1125" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_village_KY10_2" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_KY10" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_castle_KY6" name="{=3aWetb8q}Port Izaku" posX="292.01" posY="177.688" culture="Culture.neutral_culture" gate_posX="292.2702" gate_posY="177.6924" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_castle_KY6" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_KY6" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_KY2" name="{=mabLOStm}Port Uchi" posX="308.845" posY="173.766" culture="Culture.neutral_culture" gate_posX="308.6306" gate_posY="173.9135" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_KY2" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_KY2" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_village_KY1_1" name="{=2CohLCgU}Port Takasu" posX="342.51" posY="153.618" culture="Culture.neutral_culture" gate_posX="342.7632" gate_posY="153.6781" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_village_KY1_1" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_KY1" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_KY3" name="{=oj04oU5M}Port Sadowara" posX="424.734" posY="262.336" culture="Culture.neutral_culture" gate_posX="424.4879" gate_posY="262.4207" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_KY3" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_KY3" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_village_AMA1_2" name="{=MOhKsfTE}Port Chiburi" posX="592.62" posY="742.726" culture="Culture.neutral_culture" gate_posX="592.6589" gate_posY="742.5215" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_village_AMA1_2" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_AMA1" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_village_CHU5_2" name="{=QeriZyE3}Port Mihonoseki" posX="614.064" posY="684.081" culture="Culture.neutral_culture" gate_posX="614.0115" gate_posY="683.8796" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_village_CHU5_2" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_CHU5" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_castle_CHU11" name="{=7SBMzKEw}Port Aoki" posX="610.208" posY="517.926" culture="Culture.neutral_culture" gate_posX="609.9678" gate_posY="518.0261" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_castle_CHU11" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_CHU11" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_village_CHU10_2" name="{=ge54k9iV}Port Miyaura" posX="597.988" posY="504.551" culture="Culture.neutral_culture" gate_posX="597.7922" gate_posY="504.6219" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_village_CHU10_2" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_CHU10" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_CHU4" name="{=tUNVNhlq}Port Iwami" posX="517.977" posY="621.504" culture="Culture.neutral_culture" gate_posX="518.2059" gate_posY="621.3802" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_CHU4" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_CHU4" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_village_CHU3_1" name="{=XtDqvbjN}Port Susa" posX="426.617" posY="554.366" culture="Culture.neutral_culture" gate_posX="426.8135" gate_posY="554.2972" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_village_CHU3_1" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_CHU3" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_village_CHU1_1" name="{=hFhpFG2K}Port Akamagazeki" posX="357.666" posY="482.639" culture="Culture.neutral_culture" gate_posX="357.5079" gate_posY="482.7745" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_village_CHU1_1" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_CHU1" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_village_CHU11_1" name="{=bIuI88bB}Port Nakanoshou" posX="622.665" posY="510.986" culture="Culture.neutral_culture" gate_posX="622.845" gate_posY="510.8815" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_village_CHU11_1" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_CHU11" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_KIN1" name="{=FcS5y7Hz}Port Himeji" posX="803.51" posY="575.456" culture="Culture.neutral_culture" gate_posX="803.51" gate_posY="575.456" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_KIN1" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_KIN1" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_KIN2" name="{=qGXvd8Eg}Port Ozaka" posX="856.113" posY="575.545" culture="Culture.neutral_culture" gate_posX="856.113" gate_posY="575.545" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_KIN2" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_KIN2" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_KIN3" name="{=I3vRjPfC}Port Sakai" posX="850.537" posY="533.868" culture="Culture.neutral_culture" gate_posX="850.537" gate_posY="533.868" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_KIN3" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_KIN3" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_KIN9" name="{=L5m9Y8U4}Port Sumoto" posX="796.379" posY="531.749" culture="Culture.neutral_culture" gate_posX="796.379" gate_posY="531.749" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_KIN9" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_KIN14" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_KIN4" name="{=K9zQvBDo}Port Toya" posX="829.421" posY="470.77" culture="Culture.neutral_culture" gate_posX="829.421" gate_posY="470.77" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_KIN4" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_KIN16" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_KIN7" name="{=ZMsghzsM}Port Kutsuki" posX="909.673" posY="678.026" culture="Culture.neutral_culture" gate_posX="909.673" gate_posY="678.026" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_KIN7" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_KIN9" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_KIN8" name="{=cI6e6Zwy}Port Konosumiyama" posX="787.591" posY="692.883" culture="Culture.neutral_culture" gate_posX="787.591" gate_posY="692.883" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_KIN8" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_KIN3" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_KIN5" name="{=S6HYWQyw}Port Toba" posX="1006.343" posY="549.828" culture="Culture.neutral_culture" gate_posX="1006.343" gate_posY="549.828" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_KIN5" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_KIN17" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_KIN6" name="{=nrLReGFO}Port Nagashima" posX="992.288" posY="611.457" culture="Culture.neutral_culture" gate_posX="992.288" gate_posY="611.457" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_KIN6" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_KIN22" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_CHUB2" name="{=VAaXYzk9}Port Masuyama" posX="1045.842" posY="833.132" culture="Culture.neutral_culture" gate_posX="1045.787" gate_posY="832.829" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_CHUB2" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_CHUB5" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_CHUB1" name="{=TbIzhjae}Port Oyama" posX="988.132" posY="807.082" culture="Culture.neutral_culture" gate_posX="988.132" gate_posY="807.082" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_CHUB1" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_CHUB2" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_CHUB3" name="{=3CR4mFPR}Port Yoita" posX="1233.621" posY="946.168" culture="Culture.neutral_culture" gate_posX="1233.827" gate_posY="946.1963" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_CHUB3" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_CHUB9" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_CHUB4" name="{=yl0zzzXE}Port Shishiga" posX="1192.678" posY="981.967" culture="Culture.neutral_culture" gate_posX="1192.678" gate_posY="981.967" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_CHUB4" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_CHUB10" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_CHUB5" name="{=DhClW9IC}Port Shimoda" posX="1257.88" posY="585.504" culture="Culture.neutral_culture" gate_posX="1257.88" gate_posY="585.504" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_CHUB5" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_CHUB21" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_CHUB6" name="{=NlznDDm5}Port Hikuma" posX="1147.589" posY="572.794" culture="Culture.neutral_culture" gate_posX="1147.589" gate_posY="572.794" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_CHUB6" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_CHUB9" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_KA4" name="{=9yS2RBqp}Port Ōkubo" posX="1451.877" posY="841.048" culture="Culture.neutral_culture" gate_posX="1451.669" gate_posY="841.062" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_KA4" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_KA3" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_KA1" name="{=WDYh305G}Port Odawara" posX="1288.2" posY="653.973" culture="Culture.neutral_culture" gate_posX="1288.2" gate_posY="653.973" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_KA1" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_KA1" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_KA2" name="{=YJihLrsc}Port Edo" posX="1365.939" posY="697.425" culture="Culture.neutral_culture" gate_posX="1365.939" gate_posY="697.425" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_KA2" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_KA2" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_KA3" name="{=puuqlRZm}Port Īnuma" posX="1446.985" posY="700.528" culture="Culture.neutral_culture" gate_posX="1446.985" gate_posY="700.528" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_KA3" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_KA10" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_KA5" name="{=SalUETQ2}Port Sanuki" posX="1353.266" posY="619.743" culture="Culture.neutral_culture" gate_posX="1353.266" gate_posY="619.743" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_KA5" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_KA6" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_TOHO1" name="{=mHdDMayp}Port Odaka" posX="1479.86" posY="938.201" culture="Culture.neutral_culture" gate_posX="1479.86" gate_posY="938.201" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_TOHO1" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_TOHO7" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_TOHO6" name="{=ReVfe0NF}Port Tosaminato" posX="1407.975" posY="1379.544" culture="Culture.neutral_culture" gate_posX="1407.975" gate_posY="1379.544" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_TOHO6" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_TOHO8" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_TOHO2" name="{=VXRdkiBV}Port Ishinomaki" posX="1501.859" posY="1042.895" culture="Culture.neutral_culture" gate_posX="1501.859" gate_posY="1042.895" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_TOHO2" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_TOHO4" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_TOHO3" name="{=o1XXcFEZ}Port Sentoku" posX="1576.146" posY="1200.32" culture="Culture.neutral_culture" gate_posX="1576.146" gate_posY="1200.32" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_TOHO3" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_TOHO24" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_TOHO4" name="{=TOysuqoi}Port Ne" posX="1540.099" posY="1325.565" culture="Culture.neutral_culture" gate_posX="1540.099" gate_posY="1325.565" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_TOHO4" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_TOHO31" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_TOHO5" name="{=xQ1Z7KBR}Port Junpou-ji" posX="1481.434" posY="1415.724" culture="Culture.neutral_culture" gate_posX="1481.434" gate_posY="1415.724" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_TOHO5" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.castle_TOHO35" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_TOHO7" name="{=tW8oIaVj}Port Tsuchizaki" posX="1378.607" posY="1228.707" culture="Culture.neutral_culture" gate_posX="1378.607" gate_posY="1228.707" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_TOHO7" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_TOHO6" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_CHUB7" name="{=xNlFGjFX}Port Kasugayama" posX="1177.915" posY="886.308" culture="Culture.neutral_culture" gate_posX="1177.915" gate_posY="886.308" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_CHUB7" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_CHUB4" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+  <Settlement id="sho_port_CHUB8" name="{=HoKuRuB7}Port Nīgata" posX="1288.948" posY="992.607" culture="Culture.neutral_culture" gate_posX="1288.948" gate_posY="992.607" text="{=zEXjYqDm}This is the port.">
+    <Components>
+      <PortLocation id="port_location_id_CHUB8" map_icon="bandit_hideout_b" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.008" bound="Settlement.town_CHUB5" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.port_location_complex">
+      <Location id="port_location_id" scene_name="sho_duel_map_a" max_prosperity="70" />
+    </Locations>
+  </Settlement>
+</Settlements>

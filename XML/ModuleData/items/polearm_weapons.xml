@@ -1,0 +1,1057 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Items>
+    <CraftedItem id="kanasaibo_a"
+                 name="{=BCuRcqLL}Kanasaibou"
+                 crafting_template="SHO_Kanasaibo"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_kanasaibo_a"
+                   Type="Blade"
+                   scale_factor="100"/>
+            <Piece id="kanasaibo_empty_handle"
+                   Type="Handle"
+                   scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+
+    <!--<Item id="kanasaibo"
+          name="{=yy7RvQKN}Kanasaibou"
+          is_merchandise="false"
+          body_name="bo_sho_bokken_staff"
+          recalculate_body="true"
+          mesh="sho_kanasaibo_a"
+          using_tableau="true"
+          value="5"
+          subtype="two_handed_wpn"
+          weight="30"
+          difficulty="0"
+          appearance="1"
+          Type="TwoHandedWeapon"
+          item_holsters="sword_back:sword_back_2:sword_back_3:sword_back_4">
+        <ItemComponent>
+            <Weapon weapon_class="TwoHandedMace"
+                    weapon_balance="100"
+                    thrust_speed="100"
+                    speed_rating="80"
+                    physics_material="wood_weapon"
+                    weapon_length="100"
+                    position="0.0, 0.0, -0.1"
+                    swing_damage="150"
+                    thrust_damage="120"
+                    swing_damage_type="Blunt"
+                    thrust_damage_type="Blunt"
+                    item_usage="twohanded_block_swing">
+                <WeaponFlags MeleeWeapon="true"
+                             NotUsableWithOneHand="true"
+                             TwoHandIdleOnMount="true"/>
+            </Weapon>
+        </ItemComponent>
+        <Flags WoodenParry="true"
+               DoNotScaleBodyAccordingToWeaponLength="true"/>
+    </Item>-->
+
+    <!--<Item id="sho_staff_training"
+          name="Bo staff"
+          body_name="bo_sho_bokken_staff"
+          mesh="sho_bokken_staff"
+		  recalculate_body="true"
+		  using_tableau="true"
+		  subtype="two_handed_wpn"
+          weight="1"
+          value="5"
+          is_merchandise="false"
+          appearance="1"
+          difficulty="0"
+          Type="Polearm"
+          item_holsters="polearm_back:polearm_back_2:polearm_back_3:polearm_back_4">
+        <ItemComponent>
+            <Weapon
+                weapon_class="TwoHandedPolearm"
+                thrust_speed="95"
+                speed_rating="73"
+                weapon_length="115"
+                thrust_damage="120"
+                swing_damage="100"
+                thrust_damage_type="Blunt"
+                swing_damage_type="Blunt"
+                item_usage="polearm_block_swing_thrust"
+                physics_material="wood_weapon"
+                center_of_mass="0,0,0.4"
+                position="0.01, 0.00, 0.0"
+                rotation="0, 0, 0">
+                <WeaponFlags MeleeWeapon="true"
+							 PenaltyWithShield="true"
+                             TwoHandIdleOnMount="true"
+							 NotUsableWithOneHand="true"
+                             WideGrip="true"
+                             NoBlood="true"/>
+            </Weapon>
+        </ItemComponent>
+        <Flags
+            WoodenAttack = "true"
+			WoodenParry="true"
+			DoNotScaleBodyAccordingToWeaponLength="true" />
+    </Item>-->
+    <Item id="sho_staff_training"
+          name="{=yy7RvQKN}Bo staff"
+          is_merchandise="false"
+          body_name="bo_sho_bokken_staff"
+          recalculate_body="true"
+          mesh="sho_bokken_staff"
+          using_tableau="true"
+          value="5"
+          subtype="two_handed_wpn"
+          weight="4"
+          difficulty="0"
+          appearance="1"
+          Type="Polearm"
+          item_holsters="polearm_back:polearm_back_2">
+        <ItemComponent>
+            <Weapon weapon_class="TwoHandedPolearm"
+                    weapon_balance="100"
+                    thrust_speed="100"
+                    speed_rating="100"
+                    physics_material="wood_weapon"
+                    weapon_length="100"
+                    position="0.0, 0.0, 0.3"
+                    swing_damage="100"
+                    thrust_damage="120"
+                    swing_damage_type="Blunt"
+                    thrust_damage_type="Blunt"
+                    item_usage="polearm_block_shield_swing_thrust">
+                <WeaponFlags MeleeWeapon="true"
+                             PenaltyWithShield="true"
+                             NotUsableWithOneHand="true"
+                             TwoHandIdleOnMount="true"
+                             WideGrip="true"/>
+            </Weapon>
+        </ItemComponent>
+        <Flags WoodenParry="true"
+               DoNotScaleBodyAccordingToWeaponLength="true"/>
+    </Item>
+    <Item id="sho_bamboo_spear"
+          name="{=YAiwQ5ar}Bamboo Spear"
+          is_merchandise="true"
+          body_name="bo_sho_bamboo_spear"
+          recalculate_body="true"
+          mesh="sho_bamboo_spear"
+          using_tableau="true"
+          value="50"
+          weight="2"
+          difficulty="0"
+          appearance="1"
+          Type="Polearm"
+          item_holsters="polearm_back:polearm_back_2:polearm_back_3:polearm_back_4">
+        <ItemComponent>
+            <Weapon weapon_class="TwoHandedPolearm"
+                    weapon_balance="100"
+                    thrust_speed="90"
+                    speed_rating="100"
+                    physics_material="wood_weapon"
+                    weapon_length="150"
+                    position="0.0, 0.0, 0.3"
+                    thrust_damage="40"
+                    thrust_damage_type="Pierce"
+                    item_usage="polearm_block_thrust">
+                <WeaponFlags MeleeWeapon="true"
+                             PenaltyWithShield="true"
+                             NotUsableWithOneHand="true"
+                             TwoHandIdleOnMount="true"
+                             WideGrip="true"/>
+            </Weapon>
+        </ItemComponent>
+        <Flags WoodenParry="true"
+               DoNotScaleBodyAccordingToWeaponLength="true"/>
+    </Item>
+
+
+    <!--<Item id="sho_naginata_training"
+          name="Wooden Naginata"
+          body_name="bo_sho_bokken_naginata"
+          mesh="sho_bokken_naginata"
+          culture="Culture.neutral_culture"
+          weight="2.0"
+          value="1"
+          is_merchandise="false"
+          appearance="0.8"
+          difficulty="0"
+          Type="Polearm"
+          item_holsters="polearm_back:polearm_back_2:polearm_back_3:polearm_back_4"
+          holster_position_shift="0,0,-0.30">
+        <ItemComponent>
+            <Weapon
+                weapon_class="TwoHandedPolearm"
+                thrust_speed="95"
+                speed_rating="73"
+                weapon_length="115"
+                thrust_damage="70"
+                swing_damage="120"
+                thrust_damage_type="Blunt"
+                swing_damage_type="Blunt"
+                item_usage="polearm_block_swing_thrust"
+                physics_material="wood_weapon"
+                center_of_mass="0,0,0.4"
+                position="0.01, 0.00, 0.0"
+                rotation="0, 0, 0">
+                <WeaponFlags MeleeWeapon="true"
+                             TwoHandIdleOnMount="true"
+                             WideGrip="true"
+                             NoBlood="true"/>
+            </Weapon>
+        </ItemComponent>
+        <Flags />
+    </Item>-->
+
+    <CraftedItem id="training_naginata"
+                 name="{=M0ylD4qT}Blunted Naginata"
+                 crafting_template="SHO_TwoHandedPolearm">
+        <Pieces>
+            <Piece id="sho_naginata_blade_training"
+                   Type="Blade"
+                   scale_factor="100"/>
+            <Piece id="sho_ka_tsuba_a_1"
+                   Type="Guard"
+                   scale_factor="90"/>
+            <Piece id="sho_yari_handle_1"
+                   Type="Handle"
+                   scale_factor="90"/>
+        </Pieces>
+    </CraftedItem>
+
+    <!--Yari-->
+    <CraftedItem id="sho_yari_1"
+                 name="{=jqCTZuvY}Simple Ōmi Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_20"
+                   Type="Blade"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_guard_1"
+                   Type="Guard"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_handle_1"
+                   Type="Handle"
+                   scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_yari_2"
+                 name="{=NMpgBieK}Crude Ōmi Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_10"
+                   Type="Blade"
+                   scale_factor="92"/>
+            <Piece id="sho_yari_guard_1"
+                   Type="Guard"
+                   scale_factor="96"/>
+            <Piece id="sho_yari_handle_1"
+                   Type="Handle"
+                   scale_factor="106"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_yari_3"
+                 name="{=Bmx2LAnm}Dull Sasaho Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_4"
+                   Type="Blade"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_guard_1"
+                   Type="Guard"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_handle_1"
+                   Type="Handle"
+                   scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_yari_5"
+                 name="{=V1BsWSsg}Long Crude Sasaho Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_4"
+                   Type="Blade"
+                   scale_factor="110"/>
+            <Piece id="sho_yari_guard_1"
+                   Type="Guard"
+                   scale_factor="110"/>
+            <Piece id="sho_yari_handle_1"
+                   Type="Handle"
+                   scale_factor="110"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_yari_6"
+                 name="{=wBHTjf0g}Crude Kagi Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_8"
+                   Type="Blade"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_guard_1"
+                   Type="Guard"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_handle_1"
+                   Type="Handle"
+                   scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_yari_7"
+                 name="{=3ZW5C5X0}Simple Hien Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_8"
+                   Type="Blade"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_guard_1"
+                   Type="Guard"
+                   scale_factor="93"/>
+            <Piece id="sho_yari_handle_1"
+                   Type="Handle"
+                   scale_factor="109"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_yari_8"
+                 name="{=gchwJFj5}Old Kama Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_1"
+                   Type="Blade"
+                   scale_factor="105"/>
+            <Piece id="sho_yari_guard_1"
+                   Type="Guard"
+                   scale_factor="95"/>
+            <Piece id="sho_yari_handle_2"
+                   Type="Handle"
+                   scale_factor="95"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_yari_9"
+                 name="{=MRHmgVUe}Simple Sasaho Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_5"
+                   Type="Blade"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_guard_1"
+                   Type="Guard"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_handle_1"
+                   Type="Handle"
+                   scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_yari_10"
+                 name="{=VySyanq6}Simple Kagi Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_6"
+                   Type="Blade"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_guard_1"
+                   Type="Guard"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_handle_1"
+                   Type="Handle"
+                   scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_yari_11"
+                 name="{=mg35aEMk}Long Kama Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_1"
+                   Type="Blade"
+                   scale_factor="90"/>
+            <Piece id="sho_yari_guard_1"
+                   Type="Guard"
+                   scale_factor="110"/>
+            <Piece id="sho_yari_handle_1"
+                   Type="Handle"
+                   scale_factor="110"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_yari_12"
+                 name="{=YDxvbE82}Sasaho Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_14"
+                   Type="Blade"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_guard_1"
+                   Type="Guard"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_handle_1"
+                   Type="Handle"
+                   scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_yari_13"
+                 name="{=bUUaQilR}Hien Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_18"
+                   Type="Blade"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_guard_1"
+                   Type="Guard"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_handle_1"
+                   Type="Handle"
+                   scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_yari_14"
+                 name="{=7BZHXv5X}Tsukinari Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_7"
+                   Type="Blade"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_guard_1"
+                   Type="Guard"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_handle_1"
+                   Type="Handle"
+                   scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_yari_15"
+                 name="{=hYQTnp56}Sasumata Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_9"
+                   Type="Blade"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_guard_1"
+                   Type="Guard"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_handle_1"
+                   Type="Handle"
+                   scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_yari_16"
+                 name="{=Tesn1HLa}Short Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_18"
+                   Type="Blade"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_guard_1"
+                   Type="Guard"
+                   scale_factor="94"/>
+            <Piece id="sho_yari_handle_1"
+                   Type="Handle"
+                   scale_factor="93"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_yari_17"
+                 name="{=UctETje4}Solid Jūmonji Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_22"
+                   Type="Blade"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_guard_1"
+                   Type="Guard"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_handle_2"
+                   Type="Handle"
+                   scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_yari_18"
+                 name="{=dAdZFb9m}Excellent Jūmonji Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_2"
+                   Type="Blade"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_guard_2"
+                   Type="Guard"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_handle_4"
+                   Type="Handle"
+                   scale_factor="110"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_yari_19"
+                 name="{=uq5f5ogO}Renowned Jūmonji Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_2"
+                   Type="Blade"
+                   scale_factor="110"/>
+            <Piece id="sho_yari_guard_3"
+                   Type="Guard"
+                   scale_factor="110"/>
+            <Piece id="sho_yari_handle_3"
+                   Type="Handle"
+                   scale_factor="110"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_yari_20"
+                 name="{=W0vGkIp1}Solid Ōmi Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_20"
+                   Type="Blade"
+                   scale_factor="91"/>
+            <Piece id="sho_yari_guard_2"
+                   Type="Guard"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_handle_2"
+                   Type="Handle"
+                   scale_factor="110"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_yari_21"
+                 name="{=rblmdgxM}Fabled Ōmi Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_21"
+                   Type="Blade"
+                   scale_factor="91"/>
+            <Piece id="sho_yari_guard_3"
+                   Type="Guard"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_handle_4"
+                   Type="Handle"
+                   scale_factor="110"/>
+        </Pieces>
+    </CraftedItem>
+    <!--Toukai Enlisted Ashigaru Spear 1-->
+    <CraftedItem id="sho_yari_22"
+                 name="{=cNXKUQX7}Simple Owari Ōmi Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_10"
+                   Type="Blade"
+                   scale_factor="110"/>
+            <Piece id="sho_yari_guard_3"
+                   Type="Guard"
+                   scale_factor="110"/>
+            <Piece id="sho_yari_handle_2"
+                   Type="Handle"
+                   scale_factor="110"/>
+        </Pieces>
+    </CraftedItem>
+
+
+    <CraftedItem id="sho_yari_23"
+                 name="{=WPxY0RTQ}Venerable Jūmonji Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_2"
+                   Type="Blade"
+                   scale_factor="96"/>
+            <Piece id="sho_yari_guard_3"
+                   Type="Guard"
+                   scale_factor="90"/>
+            <Piece id="sho_yari_handle_2"
+                   Type="Handle"
+                   scale_factor="109"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_yari_24"
+                 name="{=iYPPHwXa}Mythic Ōmi Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_21"
+                   Type="Blade"
+                   scale_factor="91"/>
+            <Piece id="sho_yari_guard_2"
+                   Type="Guard"
+                   scale_factor="104"/>
+            <Piece id="sho_yari_handle_3"
+                   Type="Handle"
+                   scale_factor="92"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_yari_25"
+                 name="{=OnOvaRTI}Noble Jūmonji Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_3"
+                   Type="Blade"
+                   scale_factor="110"/>
+            <Piece id="sho_yari_guard_1"
+                   Type="Guard"
+                   scale_factor="97"/>
+            <Piece id="sho_yari_handle_4"
+                   Type="Handle"
+                   scale_factor="95"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_yari_26"
+                 name="{=rso9zQtp}Divine Jūmonji Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_2"
+                   Type="Blade"
+                   scale_factor="90"/>
+            <Piece id="sho_yari_guard_2"
+                   Type="Guard"
+                   scale_factor="102"/>
+            <Piece id="sho_yari_handle_3"
+                   Type="Handle"
+                   scale_factor="93"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_yari_27"
+                 name="{=JnjIgiXD}Venerable Jūmonji Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_3"
+                   Type="Blade"
+                   scale_factor="94"/>
+            <Piece id="sho_yari_guard_1"
+                   Type="Guard"
+                   scale_factor="99"/>
+            <Piece id="sho_yari_handle_2"
+                   Type="Handle"
+                   scale_factor="91"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_yari_28"
+                 name="{=i8TMmnq3}Heroic Ōmi Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_21"
+                   Type="Blade"
+                   scale_factor="98"/>
+            <Piece id="sho_yari_guard_3"
+                   Type="Guard"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_handle_4"
+                   Type="Handle"
+                   scale_factor="90"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_yari_29"
+                 name="{=7ogCF4QM}Solid Kama Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_11"
+                   Type="Blade"
+                   scale_factor="98"/>
+            <Piece id="sho_yari_guard_1"
+                   Type="Guard"
+                   scale_factor="102"/>
+            <Piece id="sho_yari_handle_2"
+                   Type="Handle"
+                   scale_factor="98"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_yari_30"
+                 name="{=5AKr6qk0}Reliable Kama Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_11"
+                   Type="Blade"
+                   scale_factor="105"/>
+            <Piece id="sho_yari_guard_2"
+                   Type="Guard"
+                   scale_factor="97"/>
+            <Piece id="sho_yari_handle_3"
+                   Type="Handle"
+                   scale_factor="95"/>
+        </Pieces>
+    </CraftedItem>
+    <!--Toukai Enlisted Ashigaru Spear 2-->
+    <CraftedItem id="sho_yari_31"
+                 name="{=C6zh5DoX}Owari Ōmi Yari"
+                 crafting_template="SHO_Yari"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_yari_blade_20"
+                   Type="Blade"
+                   scale_factor="110"/>
+            <Piece id="sho_yari_guard_2"
+                   Type="Guard"
+                   scale_factor="110"/>
+            <Piece id="sho_yari_handle_4"
+                   Type="Handle"
+                   scale_factor="110"/>
+        </Pieces>
+    </CraftedItem>
+    <!--Naginata-->
+
+    <CraftedItem id="sho_naginata_1"
+                 name="{=h9vqUlJE}Rough Naginata"
+                 crafting_template="SHO_TwoHandedPolearm"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_naginata_blade_1"
+                   Type="Blade"
+                   scale_factor="93"/>
+            <Piece id="sho_ka_tsuba_a_1"
+                   Type="Guard"
+                   scale_factor="97"/>
+            <Piece id="sho_yari_handle_1"
+                   Type="Handle"
+                   scale_factor="92"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_naginata_2"
+                 name="{=lF14FTg1}Strong Naginata"
+                 crafting_template="SHO_TwoHandedPolearm"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_naginata_blade_2"
+                   Type="Blade"
+                   scale_factor="90"/>
+            <Piece id="sho_ka_tsuba_a_1"
+                   Type="Guard"
+                   scale_factor="94"/>
+            <Piece id="sho_yari_handle_2"
+                   Type="Handle"
+                   scale_factor="91"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_naginata_3"
+                 name="{=4TJ0UTh3}Simple Naginata"
+                 crafting_template="SHO_TwoHandedPolearm"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_naginata_blade_2"
+                   Type="Blade"
+                   scale_factor="95"/>
+            <Piece id="sho_ka_tsuba_a_2"
+                   Type="Guard"
+                   scale_factor="90"/>
+            <Piece id="sho_yari_handle_1"
+                   Type="Handle"
+                   scale_factor="92"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_naginata_4"
+                 name="{=xJWsCVuj}Fine Naginata"
+                 crafting_template="SHO_TwoHandedPolearm"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_naginata_blade_3"
+                   Type="Blade"
+                   scale_factor="98"/>
+            <Piece id="sho_ka_tsuba_a_2"
+                   Type="Guard"
+                   scale_factor="94"/>
+            <Piece id="sho_yari_handle_3"
+                   Type="Handle"
+                   scale_factor="97"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_naginata_5"
+                 name="{=boMsG0bP}Sturdy Naginata"
+                 crafting_template="SHO_TwoHandedPolearm"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_naginata_blade_3"
+                   Type="Blade"
+                   scale_factor="99"/>
+            <Piece id="sho_ka_tsuba_a_3"
+                   Type="Guard"
+                   scale_factor="95"/>
+            <Piece id="sho_yari_handle_2"
+                   Type="Handle"
+                   scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_naginata_6"
+                 name="{=nyjeSHrj}Fabled Naginata"
+                 crafting_template="SHO_TwoHandedPolearm"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_naginata_blade_4"
+                   Type="Blade"
+                   scale_factor="103"/>
+            <Piece id="sho_ka_tsuba_a_2"
+                   Type="Guard"
+                   scale_factor="101"/>
+            <Piece id="sho_yari_handle_3"
+                   Type="Handle"
+                   scale_factor="97"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_naginata_7"
+                 name="{=kz1QVq8O}Champion Naginata"
+                 crafting_template="SHO_TwoHandedPolearm"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_naginata_blade_4"
+                   Type="Blade"
+                   scale_factor="104"/>
+            <Piece id="sho_ka_tsuba_a_3"
+                   Type="Guard"
+                   scale_factor="102"/>
+            <Piece id="sho_yari_handle_4"
+                   Type="Handle"
+                   scale_factor="99"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_naginata_8"
+                 name="{=SdSbCBOe}Superior Naginata"
+                 crafting_template="SHO_TwoHandedPolearm"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_naginata_blade_5"
+                   Type="Blade"
+                   scale_factor="107"/>
+            <Piece id="sho_ka_tsuba_a_3"
+                   Type="Guard"
+                   scale_factor="103"/>
+            <Piece id="sho_yari_handle_4"
+                   Type="Handle"
+                   scale_factor="105"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_naginata_9"
+                 name="{=AYe9hgrA}Elegant Naginata"
+                 crafting_template="SHO_TwoHandedPolearm"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_naginata_blade_5"
+                   Type="Blade"
+                   scale_factor="106"/>
+            <Piece id="sho_ka_tsuba_a_2"
+                   Type="Guard"
+                   scale_factor="101"/>
+            <Piece id="sho_yari_handle_3"
+                   Type="Handle"
+                   scale_factor="105"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_naginata_10"
+                 name="{=0m87TpDt}Veteran's Naginata"
+                 crafting_template="SHO_TwoHandedPolearm"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_naginata_blade_5"
+                   Type="Blade"
+                   scale_factor="110"/>
+            <Piece id="sho_ka_tsuba_a_3"
+                   Type="Guard"
+                   scale_factor="109"/>
+            <Piece id="sho_yari_handle_4"
+                   Type="Handle"
+                   scale_factor="108"/>
+        </Pieces>
+    </CraftedItem>
+    <CraftedItem id="sho_naginata_11"
+                 name="{=0uG557qr}Dull Naginata"
+                 crafting_template="SHO_TwoHandedPolearm"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_naginata_blade_1"
+                   Type="Blade"
+                   scale_factor="96"/>
+            <Piece id="sho_ka_tsuba_a_3"
+                   Type="Guard"
+                   scale_factor="100"/>
+            <Piece id="sho_yari_handle_1"
+                   Type="Handle"
+                   scale_factor="90"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_naginata_12"
+                 name="{=yosm3hpF}Crude Naginata"
+                 crafting_template="SHO_TwoHandedPolearm"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_naginata_blade_1"
+                   Type="Blade"
+                   scale_factor="95"/>
+            <Piece id="sho_ka_tsuba_a_3"
+                   Type="Guard"
+                   scale_factor="96"/>
+            <Piece id="sho_yari_handle_1"
+                   Type="Handle"
+                   scale_factor="105"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_naginata_13"
+                 name="{=AG8Vfduf}Mythical Naginata"
+                 crafting_template="SHO_TwoHandedPolearm"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_naginata_blade_4"
+                   Type="Blade"
+                   scale_factor="107"/>
+            <Piece id="sho_ka_tsuba_a_3"
+                   Type="Guard"
+                   scale_factor="106"/>
+            <Piece id="sho_yari_handle_1"
+                   Type="Handle"
+                   scale_factor="102"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_naginata_14"
+                 name="{=uDJpQarA}Deadly Naginata"
+                 crafting_template="SHO_TwoHandedPolearm"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_naginata_blade_4"
+                   Type="Blade"
+                   scale_factor="108"/>
+            <Piece id="sho_ka_tsuba_a_4"
+                   Type="Guard"
+                   scale_factor="93"/>
+            <Piece id="sho_yari_handle_2"
+                   Type="Handle"
+                   scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_naginata_15"
+                 name="{=xi7HZlTl}Modest Naginata"
+                 crafting_template="SHO_TwoHandedPolearm"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_naginata_blade_2"
+                   Type="Blade"
+                   scale_factor="95"/>
+            <Piece id="sho_ka_tsuba_a_5"
+                   Type="Guard"
+                   scale_factor="93"/>
+            <Piece id="sho_yari_handle_3"
+                   Type="Handle"
+                   scale_factor="110"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_naginata_16"
+                 name="{=nK6JV2Ck}Old Naginata"
+                 crafting_template="SHO_TwoHandedPolearm"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_naginata_blade_6"
+                   Type="Blade"
+                   scale_factor="91"/>
+            <Piece id="sho_ka_tsuba_a_5"
+                   Type="Guard"
+                   scale_factor="95"/>
+            <Piece id="sho_yari_handle_3"
+                   Type="Handle"
+                   scale_factor="96"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_naginata_17"
+                 name="{=eLe7VFAF}Reliable Naginata"
+                 crafting_template="SHO_TwoHandedPolearm"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_naginata_blade_2"
+                   Type="Blade"
+                   scale_factor="105"/>
+            <Piece id="sho_ka_tsuba_a_4"
+                   Type="Guard"
+                   scale_factor="102"/>
+            <Piece id="sho_yari_handle_2"
+                   Type="Handle"
+                   scale_factor="100"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_naginata_18"
+                 name="{=6jh6vjde}Masterwork Naginata"
+                 crafting_template="SHO_TwoHandedPolearm"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_naginata_blade_4"
+                   Type="Blade"
+                   scale_factor="104"/>
+            <Piece id="sho_ka_tsuba_a_7"
+                   Type="Guard"
+                   scale_factor="108"/>
+            <Piece id="sho_yari_handle_2"
+                   Type="Handle"
+                   scale_factor="93"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_naginata_19"
+                 name="{=BzV8iZGW}Steel Naginata"
+                 crafting_template="SHO_TwoHandedPolearm"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_naginata_blade_5"
+                   Type="Blade"
+                   scale_factor="91"/>
+            <Piece id="sho_ka_tsuba_a_8"
+                   Type="Guard"
+                   scale_factor="107"/>
+            <Piece id="sho_yari_handle_3"
+                   Type="Handle"
+                   scale_factor="92"/>
+        </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="sho_naginata_20"
+                 name="{=cFL3f28k}Worn Naginata"
+                 crafting_template="SHO_TwoHandedPolearm"
+                 modifier_group="polearm">
+        <Pieces>
+            <Piece id="sho_naginata_blade_6"
+                   Type="Blade"
+                   scale_factor="109"/>
+            <Piece id="sho_ka_tsuba_a_9"
+                   Type="Guard"
+                   scale_factor="105"/>
+            <Piece id="sho_yari_handle_4"
+                   Type="Handle"
+                   scale_factor="108"/>
+        </Pieces>
+    </CraftedItem>
+
+
+</Items>

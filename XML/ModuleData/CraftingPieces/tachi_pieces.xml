@@ -1,0 +1,495 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CraftingPieces>
+
+<!--Tachi Blades-->
+
+	<CraftingPiece id="sho_tachi_blade_1" name="{=rJhdf7vW}Dull Tachi Blade" tier="1" piece_type="Blade" mesh="sho_tachi_blade_1" length="83.3" weight="1.06" is_default="true">
+		<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="sho_tachi_scabbard_a_1">
+			<Thrust damage_type="Pierce" damage_factor="2.4"/>
+			<Swing damage_type="Cut" damage_factor="2.8"/>
+		</BladeData>
+		<BuildData previous_piece_offset="0" next_piece_offset="0"/>
+		<Flags>
+			<Flag name="Civilian" type="ItemFlags"/>
+		</Flags>
+		<Materials>
+			<Material id="Iron2" count="3"/>
+		</Materials>
+	</CraftingPiece>
+
+	<CraftingPiece id="sho_tachi_blade_2" name="{=3PW7ATaw}Worn Tachi Blade" tier="1" piece_type="Blade" mesh="sho_tachi_blade_2" length="83.3" weight="1.04" is_default="true">
+		<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="sho_tachi_scabbard_a_2">
+			<Thrust damage_type="Pierce" damage_factor="2.3"/>
+			<Swing damage_type="Cut" damage_factor="2.9"/>
+		</BladeData>
+		<BuildData previous_piece_offset="0" next_piece_offset="0"/>
+		<Flags>
+			<Flag name="Civilian" type="ItemFlags"/>
+		</Flags>
+		<Materials>
+			<Material id="Iron2" count="3"/>
+		</Materials>
+	</CraftingPiece>	
+
+
+	<CraftingPiece id="sho_tachi_blade_3" name="{=kYu7gRGF}Simple Tachi Blade" tier="2" piece_type="Blade" mesh="sho_tachi_blade_3" length="83.3" weight="1.01">
+		<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="sho_tachi_scabbard_a_3">
+			<Thrust damage_type="Pierce" damage_factor="2.3"/>
+			<Swing damage_type="Cut" damage_factor="3.1"/>
+		</BladeData>
+		<Flags>
+			<Flag name="Civilian" type="ItemFlags"/>
+		</Flags>
+		<Materials>
+			<Material id="Iron3" count="3"/>
+		</Materials>
+	</CraftingPiece>	
+
+
+
+
+	<CraftingPiece id="sho_tachi_blade_4" name="{=VG5qZigb}Rough Tachi Blade" tier="2" piece_type="Blade" mesh="sho_tachi_blade_4" length="83.4" weight="1.00">
+		<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="sho_tachi_scabbard_a_4">
+			<Thrust damage_type="Pierce" damage_factor="2.2"/>
+			<Swing damage_type="Cut" damage_factor="3.2"/>
+		</BladeData>
+		<Flags>
+			<Flag name="Civilian" type="ItemFlags"/>
+		</Flags>
+		<Materials>
+			<Material id="Iron3" count="3"/>
+		</Materials>
+	</CraftingPiece>	
+
+
+
+
+
+
+	<CraftingPiece id="sho_tachi_blade_5" name="{=8numArY7}Solid Tachi Blade" tier="3" piece_type="Blade" mesh="sho_tachi_blade_5" length="83.3" weight="1.01">
+		<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="sho_tachi_scabbard_a_5">
+			<Thrust damage_type="Pierce" damage_factor="2.5"/>
+			<Swing damage_type="Cut" damage_factor="3.6"/>
+		</BladeData>
+		<Flags>
+			<Flag name="Civilian" type="ItemFlags"/>
+		</Flags>
+		<Materials>
+			<Material id="Iron4" count="3"/>
+		</Materials>
+	</CraftingPiece>	
+
+
+
+	<CraftingPiece id="sho_tachi_blade_6" name="{=JPj0loOt}Rigid Tachi Blade" tier="3" piece_type="Blade" mesh="sho_tachi_blade_1" length="83.3" weight="1.02">
+		<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="sho_tachi_scabbard_a_6">
+			<Thrust damage_type="Pierce" damage_factor="2.4"/>
+			<Swing damage_type="Cut" damage_factor="3.7"/>
+		</BladeData>
+		<Flags>
+			<Flag name="Civilian" type="ItemFlags"/>
+		</Flags>
+		<Materials>
+			<Material id="Iron4" count="3"/>
+		</Materials>
+	</CraftingPiece>	
+
+
+
+
+
+
+
+	<CraftingPiece id="sho_tachi_blade_7" name="{=Va0veGYk}Reliable Tachi Blade" tier="3" piece_type="Blade" mesh="sho_tachi_blade_2" length="83.3" weight="1.08">
+		<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="sho_tachi_scabbard_a_7">
+			<Thrust damage_type="Pierce" damage_factor="2.6"/>
+			<Swing damage_type="Cut" damage_factor="3.5"/>
+		</BladeData>
+		<Flags>
+			<Flag name="Civilian" type="ItemFlags"/>
+		</Flags>
+		<Materials>
+			<Material id="Iron4" count="3"/>
+		</Materials>
+	</CraftingPiece>	
+
+
+
+
+
+	<CraftingPiece id="sho_tachi_blade_8" name="{=L8r8jrSl}Veteran Tachi Blade" tier="4" piece_type="Blade" mesh="sho_tachi_blade_3" length="83.3" weight=".96">
+		<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="sho_tachi_scabbard_a_8">
+			<Thrust damage_type="Pierce" damage_factor="2.6"/>
+			<Swing damage_type="Cut" damage_factor="3.9"/>
+		</BladeData>
+		<Flags>
+			<Flag name="Civilian" type="ItemFlags"/>
+		</Flags>
+		<Materials>
+			<Material id="Iron5" count="3"/>
+		</Materials>
+	</CraftingPiece>	
+
+
+
+
+
+
+
+	<CraftingPiece id="sho_tachi_blade_9" name="{=JFlh3ONX}Sharp Tachi Blade" tier="4" piece_type="Blade" mesh="sho_tachi_blade_4" length="83.4" weight=".95">
+		<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="sho_tachi_scabbard_a_4">
+			<Thrust damage_type="Pierce" damage_factor="2.8"/>
+			<Swing damage_type="Cut" damage_factor="3.7"/>
+		</BladeData>
+		<Flags>
+			<Flag name="Civilian" type="ItemFlags"/>
+		</Flags>
+		<Materials>
+			<Material id="Iron5" count="3"/>
+		</Materials>
+	</CraftingPiece>	
+
+
+	<CraftingPiece id="sho_tachi_blade_10" name="{=xxCgvJqi}Steel Tachi Blade" tier="4" piece_type="Blade" mesh="sho_tachi_blade_5" length="83.3" weight=".97">
+		<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="sho_tachi_scabbard_a_5">
+			<Thrust damage_type="Pierce" damage_factor="2.7"/>
+			<Swing damage_type="Cut" damage_factor="3.8"/>
+		</BladeData>
+		<Flags>
+			<Flag name="Civilian" type="ItemFlags"/>
+		</Flags>
+		<Materials>
+			<Material id="Iron5" count="3"/>
+		</Materials>
+	</CraftingPiece>	
+
+
+
+	<CraftingPiece id="sho_tachi_blade_11" name="{=R6KWKHb7}Fabled Tachi Blade" tier="5" piece_type="Blade" mesh="sho_tachi_blade_1" length="83.3" weight=".89">
+		<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="sho_tachi_scabbard_a_6">
+			<Thrust damage_type="Pierce" damage_factor="2.8"/>
+			<Swing damage_type="Cut" damage_factor="4.0"/>
+		</BladeData>
+		<Flags>
+			<Flag name="Civilian" type="ItemFlags"/>
+		</Flags>
+		<Materials>
+			<Material id="Iron6" count="3"/>
+		</Materials>
+	</CraftingPiece>	
+
+
+
+
+
+
+	<CraftingPiece id="sho_tachi_blade_12" name="{=cyv6NJSc}Masterwork Tachi Blade" tier="5" piece_type="Blade" mesh="sho_tachi_blade_2" length="83.3" weight="0.88">
+		<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="sho_tachi_scabbard_a_8">
+			<Thrust damage_type="Pierce" damage_factor="2.8"/>
+			<Swing damage_type="Cut" damage_factor="4.2"/>
+		</BladeData>
+		<Flags>
+			<Flag name="Civilian" type="ItemFlags"/>
+		</Flags>
+		<Materials>
+			<Material id="Iron6" count="3"/>
+		</Materials>
+	</CraftingPiece>
+    <CraftingPiece id="sho_tachi_blade_tiger" name="{=QwINw2Ny}Tiger Tachi Blade" tier="5" piece_type="Blade" mesh="sho_tachi_blade_1" length="83.3" weight="0.88" is_hidden="true">
+		<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="sho_tachi_scabbard_tiger">
+			<Thrust damage_type="Pierce" damage_factor="2.8"/>
+			<Swing damage_type="Cut" damage_factor="4.2"/>
+		</BladeData>
+		<Flags>
+			<Flag name="Civilian" type="ItemFlags"/>
+		</Flags>
+		<Materials>
+			<Material id="Iron6" count="3"/>
+		</Materials>
+	</CraftingPiece>	
+    <CraftingPiece id="sho_tachi_blade_bear" name="{=9tkUnjgG}Bear Tachi Blade" tier="5" piece_type="Blade" mesh="sho_tachi_blade_2" length="83.3" weight="0.88" is_hidden="true">
+		<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="sho_tachi_scabbard_a_bear">
+			<Thrust damage_type="Pierce" damage_factor="2.8"/>
+			<Swing damage_type="Cut" damage_factor="4.2"/>
+		</BladeData>
+		<Flags>
+			<Flag name="Civilian" type="ItemFlags"/>
+		</Flags>
+		<Materials>
+			<Material id="Iron6" count="3"/>
+		</Materials>
+	</CraftingPiece>	
+    
+    <CraftingPiece id="sho_tachi_blade_tanuki" name="{=I6X04Vws}Tanuki Tachi Blade" tier="5" piece_type="Blade" mesh="sho_tachi_blade_3" length="83.3" weight="0.88" is_hidden="true">
+		<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="sho_tachi_scabbard_a_tanuki">
+			<Thrust damage_type="Pierce" damage_factor="2.8"/>
+			<Swing damage_type="Cut" damage_factor="4.2"/>
+		</BladeData>
+		<Flags>
+			<Flag name="Civilian" type="ItemFlags"/>
+		</Flags>
+		<Materials>
+			<Material id="Iron6" count="3"/>
+		</Materials>
+	</CraftingPiece>	
+    <CraftingPiece id="sho_tachi_blade_deer" name="{=SFZXT0nK}Deer Tachi Blade" tier="5" piece_type="Blade" mesh="sho_tachi_blade_4" length="83.3" weight="0.88" is_hidden="true">
+		<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="sho_tachi_scabbard_deer">
+			<Thrust damage_type="Pierce" damage_factor="2.8"/>
+			<Swing damage_type="Cut" damage_factor="4.2"/>
+		</BladeData>
+		<Flags>
+			<Flag name="Civilian" type="ItemFlags"/>
+		</Flags>
+		<Materials>
+			<Material id="Iron6" count="3"/>
+		</Materials>
+	</CraftingPiece>	
+
+
+
+
+
+<!--Tachi Handles-->
+
+	<CraftingPiece id="sho_tachi_handle_a_1" name="{=KpOwQfXz}Worn Tachi Handle" tier="1" piece_type="Handle" mesh="sho_tachi_handle_a_1" length="36.2" weight="0.2" is_default="true">
+		<BuildData piece_offset="-10" next_piece_offset="0.8"/>
+		<Materials>
+			<Material id="Iron1" count="1"/>
+		</Materials>
+	</CraftingPiece>	
+
+
+
+
+
+	<CraftingPiece id="sho_tachi_handle_a_2" name="{=V4VBhldd}Rough Tachi Handle" tier="1" piece_type="Handle" mesh="sho_tachi_handle_a_2" length="36.1" weight="0.21" is_default="true">
+		<BuildData piece_offset="-10" next_piece_offset="0.8"/>
+		<Materials>
+			<Material id="Iron1" count="1"/>
+		</Materials>
+	</CraftingPiece>	
+
+
+
+
+
+	<CraftingPiece id="sho_tachi_handle_a_3" name="{=Fg7VsNF2}Simple Tachi Handle" tier="2" piece_type="Handle" mesh="sho_tachi_handle_a_3" length="36.1" weight="0.23">
+		<BuildData piece_offset="-10" next_piece_offset="0.8"/>
+		<Materials>
+			<Material id="Iron2" count="1"/>
+		</Materials>
+	</CraftingPiece>	
+
+
+
+
+
+
+
+	<CraftingPiece id="sho_tachi_handle_a_4" name="{=SHNbATuv}Solid Tachi Handle" tier="3" piece_type="Handle" mesh="sho_tachi_handle_a_4" length="32.8" weight="0.27">
+		<BuildData piece_offset="-10" next_piece_offset="0.8"/>
+		<Materials>
+			<Material id="Iron3" count="1"/>
+		</Materials>
+	</CraftingPiece>	
+
+
+
+
+
+	<CraftingPiece id="sho_tachi_handle_a_5" name="{=1kXWWtFZ}Reliable Tachi Handle" tier="3" piece_type="Handle" mesh="sho_tachi_handle_a_5" length="36.1" weight="0.26">
+		<BuildData piece_offset="-10" next_piece_offset="0.8"/>
+		<Materials>
+			<Material id="Iron3" count="1"/>
+		</Materials>
+	</CraftingPiece>	
+
+
+
+
+
+	<CraftingPiece id="sho_tachi_handle_a_6" name="{=sOis0zI7}Superb Tachi Handle" tier="4" piece_type="Handle" mesh="sho_tachi_handle_a_6" length="37.3" weight="0.3">
+		<BuildData piece_offset="-10" next_piece_offset="0.8"/>
+		<Materials>
+			<Material id="Iron4" count="1"/>
+		</Materials>
+	</CraftingPiece>	
+
+
+	<CraftingPiece id="sho_tachi_handle_a_7" name="{=I62S878h}Veteran Tachi Handle" tier="4" piece_type="Handle" mesh="sho_tachi_handle_a_7" length="35" weight="0.31">
+		<BuildData piece_offset="-10" next_piece_offset="0.8"/>
+		<Materials>
+			<Material id="Iron4" count="1"/>
+		</Materials>
+	</CraftingPiece>	
+
+
+	<CraftingPiece id="sho_tachi_handle_a_8" name="{=98MTYgWM}Fabled Tachi Handle" tier="5" piece_type="Handle" mesh="sho_tachi_handle_a_8" length="35" weight="0.25">
+		<BuildData piece_offset="-10" next_piece_offset="0.8"/>
+		<Materials>
+			<Material id="Iron5" count="1"/>
+		</Materials>
+	</CraftingPiece>	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Tachi Tsuba-->
+
+		<CraftingPiece id="sho_ka_tsuba_c_1" name="{=Legjdvth}Tachi Tsuba" tier="3" piece_type="Guard" mesh="sho_ka_tsuba_c_1" length="1.2" weight="0.2">
+		<BuildData next_piece_offset="0.25" previous_piece_offset="0"/>
+		<StatContributions armor_bonus="3"/>
+		<Materials>
+			<Material id="Iron3" count="1"/>
+		</Materials>
+	</CraftingPiece>
+
+
+
+
+
+		<CraftingPiece id="sho_ka_tsuba_c_2" name="{=Legjdvth}Tachi Tsuba" tier="3" piece_type="Guard" mesh="sho_ka_tsuba_c_2" length="1.2" weight="0.2">
+		<BuildData next_piece_offset="0.25" previous_piece_offset="0"/>
+		<StatContributions armor_bonus="3"/>
+		<Materials>
+			<Material id="Iron3" count="1"/>
+		</Materials>
+	</CraftingPiece>
+
+
+
+
+
+		<CraftingPiece id="sho_ka_tsuba_c_3" name="{=Legjdvth}Tachi Tsuba" tier="3" piece_type="Guard" mesh="sho_ka_tsuba_c_3" length="1.2" weight="0.2">
+		<BuildData next_piece_offset="0.25" previous_piece_offset="0"/>
+		<StatContributions armor_bonus="3"/>
+		<Materials>
+			<Material id="Iron3" count="1"/>
+		</Materials>
+	</CraftingPiece>
+
+
+
+
+		<CraftingPiece id="sho_ka_tsuba_c_4" name="{=Legjdvth}Tachi Tsuba" tier="3" piece_type="Guard" mesh="sho_ka_tsuba_c_4" length="1.2" weight="0.2">
+		<BuildData next_piece_offset="0.25" previous_piece_offset="0"/>
+		<StatContributions armor_bonus="3"/>
+		<Materials>
+			<Material id="Iron3" count="1"/>
+		</Materials>
+	</CraftingPiece>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<CraftingPiece id="sho_ka_tsuba_b_1" name="{=Legjdvth}Tachi Tsuba" tier="3" piece_type="Guard" mesh="sho_ka_tsuba_b_1" length="1.2" weight="0.2">
+		<BuildData next_piece_offset="0.25" previous_piece_offset="0"/>
+		<StatContributions armor_bonus="3"/>
+		<Materials>
+			<Material id="Iron3" count="1"/>
+		</Materials>
+	</CraftingPiece>
+
+
+
+
+
+
+		<CraftingPiece id="sho_ka_tsuba_b_2" name="{=Legjdvth}Tachi Tsuba" tier="3" piece_type="Guard" mesh="sho_ka_tsuba_b_2" length="1.2" weight="0.2">
+		<BuildData next_piece_offset="0.25" previous_piece_offset="0"/>
+		<StatContributions armor_bonus="3"/>
+		<Materials>
+			<Material id="Iron3" count="1"/>
+		</Materials>
+	</CraftingPiece>
+
+
+		<CraftingPiece id="sho_ka_tsuba_b_3" name="{=Legjdvth}Tachi Tsuba" tier="3" piece_type="Guard" mesh="sho_ka_tsuba_b_3" length="1.2" weight="0.2">
+		<BuildData next_piece_offset="0.25" previous_piece_offset="0"/>
+		<StatContributions armor_bonus="3"/>
+		<Materials>
+			<Material id="Iron3" count="1"/>
+		</Materials>
+	</CraftingPiece>
+
+
+
+
+		<CraftingPiece id="sho_ka_tsuba_b_4" name="{=Legjdvth}Tachi Tsuba" tier="3" piece_type="Guard" mesh="sho_ka_tsuba_b_4" length="1.2" weight="0.2">
+		<BuildData next_piece_offset="0.25" previous_piece_offset="0"/>
+		<StatContributions armor_bonus="3"/>
+		<Materials>
+			<Material id="Iron3" count="1"/>
+		</Materials>
+	</CraftingPiece>
+
+
+		<CraftingPiece id="sho_ka_tsuba_b_5" name="{=Legjdvth}Tachi Tsuba" tier="3" piece_type="Guard" mesh="sho_ka_tsuba_b_5" length="1.2" weight="0.2">
+		<BuildData next_piece_offset="0.25" previous_piece_offset="0"/>
+		<StatContributions armor_bonus="3"/>
+		<Materials>
+			<Material id="Iron3" count="1"/>
+		</Materials>
+	</CraftingPiece>
+
+
+
+		<CraftingPiece id="sho_ka_tsuba_b_6" name="{=Legjdvth}Tachi Tsuba" tier="3" piece_type="Guard" mesh="sho_ka_tsuba_b_6" length="1.2" weight="0.2">
+		<BuildData next_piece_offset="0.25" previous_piece_offset="0"/>
+		<StatContributions armor_bonus="3"/>
+		<Materials>
+			<Material id="Iron3" count="1"/>
+		</Materials>
+	</CraftingPiece>
+
+
+
+		<CraftingPiece id="sho_ka_tsuba_b_7" name="{=Legjdvth}Tachi Tsuba" tier="3" piece_type="Guard" mesh="sho_ka_tsuba_b_7" length="1.2" weight="0.2">
+		<BuildData next_piece_offset="0.25" previous_piece_offset="0"/>
+		<StatContributions armor_bonus="3"/>
+		<Materials>
+			<Material id="Iron3" count="1"/>
+		</Materials>
+	</CraftingPiece>
+
+
+		<CraftingPiece id="sho_ka_tsuba_b_8" name="{=Legjdvth}Tachi Tsuba" tier="3" piece_type="Guard" mesh="sho_ka_tsuba_b_8" length="1.2" weight="0.2">
+		<BuildData next_piece_offset="0.25" previous_piece_offset="0"/>
+		<StatContributions armor_bonus="3"/>
+		<Materials>
+			<Material id="Iron3" count="1"/>
+		</Materials>
+	</CraftingPiece>
+
+
+
+</CraftingPieces>

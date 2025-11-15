@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Items>
+    <Item id="campaign_banner_small" name="{=rO0oKtAo}Campaign Banner Small" is_merchandise="false" body_name="bo_mace_a" recalculate_body="true" mesh="sho_party_banner" culture="Culture.neutral_culture" weight="0.2" Type="Banner" using_tableau="true" item_holsters="abdomen_left">
+        <ItemComponent>
+            <Banner banner_level="1" weapon_class="Banner" effect="DecreasedMoraleShock" weapon_balance="100" thrust_speed="78" speed_rating="82" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="wood_weapon" position="0.0, 0.0, -0.8"/>
+        </ItemComponent>
+        <Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false"/>
+    </Item>
+
+	<Item id="sho_euro_sword_1" name="{=1uZ1NNgF}Royal Sword" body_name="bo_sho_bokken_katana" mesh="sho_euro_sword_1" weight="4.5" value="20000" is_merchandise="false" appearance="0.8" difficulty="0" Type="OneHandedWeapon" item_holsters="sword_left_hip_katana_1" holster_position_shift="0,0,-0.25">
+		<ItemComponent>
+			<Weapon weapon_class="OneHandedSword" weapon_balance="100" thrust_speed="90" speed_rating="102" physics_material="metal_weapon" missile_speed="0" weapon_length="103" thrust_damage="85" thrust_damage_type="Pierce" swing_damage="100" swing_damage_type="Cut" item_usage="onehanded_block_shield_swing_thrust">
+				<WeaponFlags MeleeWeapon="true"/>
+			</Weapon>
+		</ItemComponent>
+		<Flags/>
+	</Item>
+	<Item id="sho_euro_sword_2" name="{=bJgwkEq6}Rapier" body_name="bo_sho_bokken_katana" mesh="sho_euro_sword_2" weight="4.5" value="20000" is_merchandise="false" appearance="0.8" difficulty="0" Type="OneHandedWeapon" item_holsters="sword_left_hip_katana_1" holster_position_shift="0,0,-0.25">
+		<ItemComponent>
+			<Weapon weapon_class="OneHandedSword" weapon_balance="100" thrust_speed="95" speed_rating="109" physics_material="metal_weapon" missile_speed="0" weapon_length="143" thrust_damage="100" thrust_damage_type="Pierce" swing_damage="35" swing_damage_type="Cut" item_usage="onehanded_block_shield_swing_thrust">
+				<WeaponFlags MeleeWeapon="true"/>
+			</Weapon>
+		</ItemComponent>
+		<Flags/>
+	</Item>
+	<!--Quest only item-->
+	<Item id="army_supplies" name="{=rdQYTTI4}Army Supplies" mesh="sho_woodencrate" is_merchandise="false" weight="20" Type="Goods">
+		<Flags Civilian="true"/>
+	</Item>
+	<!-- #region Quest / Issue Items-->
+	<Item id="stolen_goods" name="{=vPAHwC3X}Stolen Goods" mesh="sho_woodencrate" is_merchandise="false" weight="20" Type="Goods">
+		<Flags Civilian="true"/>
+	</Item>
+	<!-- #endregion -->
+	<!-- #region Banner -->
+	<Item id="campaign_banner_small" name="{=rO0oKtAo}Campaign Banner Small" is_merchandise="false" body_name="bo_mace_a" recalculate_body="true" mesh="vlandia_tier_1_banner" prefab="vlandia_tier_1_banner" culture="Culture.neutral_culture" weight="0.2" Type="Banner" using_tableau="true" item_holsters="abdomen_left">
+		<ItemComponent>
+			<Banner banner_level="1" weapon_class="Banner" effect="DecreasedMoraleShock" weapon_balance="100" thrust_speed="78" speed_rating="82" missile_speed="0" weapon_length="150" swing_damage="6" swing_damage_type="Blunt" item_usage="banner" physics_material="wood_weapon" position="0.0, 0.0, -0.8"/>
+		</ItemComponent>
+		<Flags DropOnWeaponChange="true" ForceAttachOffHandPrimaryItemBone="true" HeldInOffHand="true" HasToBeHeldUp="true" CanBePickedUpFromCorpse="false"/>
+	</Item>
+	<!-- #endregion -->
+	<!-- #region Misc -->
+	<!--
+  <Item id="hare" name="Hare" modifier_group="horse" mesh="hare" item_category="animal" value="20" weight="3">
+    <ItemComponent>
+      <Horse monster="Monster.hare" maneuver="80" speed="30" charge_damage="1" body_length="104" />
+    </ItemComponent>
+    <flags>
+      <flag name="type" value="Animal" />
+      <flag name="Civilian" />
+    </flags>
+  </Item>
+  -->
+	<Item id="cat" name="{=b6JvcSiQ}Cat" mesh="cat_a4" is_merchandise="false" item_category="animal" value="20" weight="40" Type="Animal">
+		<ItemComponent>
+			<Horse monster="Monster.cat" maneuver="70" speed="18" charge_damage="0" body_length="112">
+				<Materials>
+					<Material name="{=oIBBRf9w}cat_a"/>
+					<Material name="{=hNooutyj}cat_b"/>
+					<Material name="{=LOb3oCPa}cat_c"/>
+				</Materials>
+			</Horse>
+		</ItemComponent>
+		<Flags Civilian="true"/>
+	</Item>
+	<Item id="dog" name="{=f2O1XjYd}Dog" mesh="dog" is_merchandise="false" item_category="animal" value="20" weight="20" Type="Animal">
+		<ItemComponent>
+			<Horse monster="Monster.dog" maneuver="40" speed="28" charge_damage="0" body_length="130">
+				<Materials>
+					<Material name="{=7r3hlK7Q}dog_a"/>
+					<Material name="{=Oeq3LuTs}dog_b"/>
+					<Material name="{=ICcFC9ic}dog_c"/>
+				</Materials>
+			</Horse>
+		</ItemComponent>
+		<Flags Civilian="true"/>
+	</Item>
+	<Item id="sheep" name="{=GD4aQgl7}Sheep{@Plural}sheep{\@}" mesh="sheep_mesh_new" item_category="sheep" value="80" weight="40" Type="Animal">
+		<ItemComponent>
+			<Horse monster="Monster.sheep" maneuver="30" speed="12" charge_damage="0" body_length="104"/>
+		</ItemComponent>
+		<Flags Civilian="true"/>
+	</Item>
+	<Item id="cow" name="{=QWqvGa1P}Cow{@Plural}head of cattle{\@}" mesh="cow" item_category="cow" value="200" weight="200" Type="Animal">
+		<ItemComponent>
+			<Horse monster="Monster.cow" maneuver="20" speed="22" charge_damage="5" body_length="104">
+				<Materials>
+					<Material name="{=rlEcph0p}cow_skinned"/>
+					<Material name="{=IYefgNFb}cow_skinned_2"/>
+				</Materials>
+			</Horse>
+		</ItemComponent>
+		<Flags Civilian="true"/>
+	</Item>
+	<Item id="hog" name="{=ZbsGBv10}Hog" mesh="hog_mesh" item_category="hog" value="60" weight="120" Type="Animal">
+		<ItemComponent>
+			<Horse monster="Monster.hog" maneuver="30" speed="10" charge_damage="5" body_length="104"/>
+		</ItemComponent>
+		<Flags Civilian="true"/>
+	</Item>
+	<Item id="goose" name="{=FhTUc64z}Goose" mesh="goose_model_a" item_category="animal" value="50" weight="5" Type="Animal">
+		<ItemComponent>
+			<Horse monster="Monster.goose" maneuver="30" speed="10" charge_damage="5" body_length="120"/>
+		</ItemComponent>
+		<Flags Civilian="true"/>
+	</Item>
+	<Item id="chicken" name="{=8el5a3sF}Chicken" mesh="chicken_mesh" item_category="animal" value="50" weight="5" Type="Animal">
+		<ItemComponent>
+			<Horse monster="Monster.chicken" maneuver="30" speed="10" charge_damage="5" body_length="120"/>
+		</ItemComponent>
+		<Flags Civilian="true"/>
+	</Item>
+
+	<!--<Item id="test_boat" name="{=RCUgFFj9}Test Boat" mesh="sho_kobaya_tate_boat_1" value="0" weight="1" Type="Goods">
+		<Flags Civilian="true"/>
+	</Item>-->
+	<Item id="throwing_stone"
+			name="{=1CPdu9K0}Stone"
+			is_merchandise="false"
+			body_name="bo_throwing_stone"
+			holster_body_name="bo_axe_short"
+			holster_mesh="stone_holster"
+			holster_mesh_with_weapon="stone_holster"
+			mesh="throwing_stone"
+			value="2"
+			weight="0.1"
+			appearance="0.1"
+			Type="Thrown"
+			item_holsters="throwing_stone:throwing_stone_2">
+		<ItemComponent>
+			<Weapon weapon_class="Stone"
+					ammo_class="Stone"
+					stack_amount="14"
+					physics_material="missile"
+					accuracy="45"
+					thrust_speed="102"
+					speed_rating="102"
+					missile_speed="40"
+					weapon_length="10"
+					thrust_damage="20"
+					item_usage="stone"
+					rotation="100,30,20"
+					passby_sound_code=""
+					rotation_speed="0, -3.0, 0">
+				<WeaponFlags RangedWeapon="true"
+								Consumable="true"
+								AutoReload="true"
+								UseHandAsThrowBase="true"/>
+			</Weapon>
+		</ItemComponent>
+        <Flags Civilian="true"/>
+	</Item>
+    
+    <Item id="throwing_kunai"
+          name="{=2zUJ4gYg}Kunai"
+          is_merchandise="true"
+          body_name="bo_throwing_stone"
+          holster_body_name="bo_axe_short"
+          holster_mesh="stone_holster"
+          holster_mesh_with_weapon="stone_holster"
+          mesh="sho_kunai"
+          value="800"
+          weight="0.1"
+          appearance="0.1"
+          modifier_group="knife_throwing"
+          Type="Thrown"
+          item_holsters="throwing_stone:throwing_stone_2">
+        <ItemComponent>
+            <Weapon weapon_class="ThrowingKnife"
+                    ammo_class="ThrowingKnife"
+                    stack_amount="12"
+                    physics_material="missile"
+                    accuracy="45"
+                    thrust_damage_type="Pierce"
+                    thrust_speed="102"
+                    speed_rating="102"
+                    missile_speed="40"
+                    weapon_length="10"
+                    thrust_damage="50"
+                    item_usage="throwing_knife"
+                    rotation="280,30,220"
+                    position="0,0,0.04"
+                    passby_sound_code=""
+                    rotation_speed="0, -3.0, 0">
+                <WeaponFlags RangedWeapon="true"
+                             Consumable="true"
+                             AutoReload="true"
+                             UseHandAsThrowBase="true"/>
+            </Weapon>
+        </ItemComponent>
+        <Flags Civilian="true"/>
+    </Item>
+    <Item id="throwing_shuriken"
+          name="{=oiqrzRI2}Shuriken"
+          is_merchandise="true"
+          body_name="bo_throwing_stone"
+          holster_body_name="bo_axe_short"
+          holster_mesh="stone_holster"
+          holster_mesh_with_weapon="stone_holster"
+          mesh="sho_shuriken"
+          value="800"
+          weight="0.1"
+          appearance="0.1"
+          modifier_group="knife_throwing"
+          Type="Thrown"
+          item_holsters="throwing_stone:throwing_stone_2">
+        <ItemComponent>
+            <Weapon weapon_class="ThrowingAxe"
+                    ammo_class="ThrowingAxe"
+                    stack_amount="14"
+                    physics_material="missile"
+                    accuracy="45"
+                    swing_damage_type="Cut"
+                    thrust_speed="102"
+                    speed_rating="102"
+                    missile_speed="40"
+                    weapon_length="10"
+                    thrust_damage="45"
+                    item_usage="throwing_knife"
+                    rotation="280,30,220"
+                    position="0,0,0.08"
+                    passby_sound_code=""
+                    rotation_speed="0, -3.0, 0">
+                <WeaponFlags RangedWeapon="true"
+                             Consumable="true"
+                             AutoReload="true"
+                             UseHandAsThrowBase="true"/>
+            </Weapon>
+        </ItemComponent>
+        <Flags Civilian="true"/>
+    </Item>
+
+    <!-- #region Used Projectiles -->
+    <Item multiplayer_item="false" id="ballista_projectile" name="{=6Db7aDbF}Ballista Arrows" body_name="bo_ballista_projectile_a" holster_body_name="bo_axe_short" mesh="ballista_projectile_a" holster_mesh="quiver" is_merchandise="false" subtype="arrows" weight="3" difficulty="0" appearance="1" Type="Arrows" item_holsters="">
+        <ItemComponent>
+            <Weapon weapon_class="Arrow" stack_amount="20" physics_material="ballista_missile" thrust_speed="0" speed_rating="0" missile_speed="80" weapon_length="95" thrust_damage="400" thrust_damage_type="Pierce" item_usage="" flying_sound_code="event:/mission/combat/missile/foley/passby" sticking_rotation="90,0,0" sticking_position="0,-1.2,0" center_of_mass="0,0,-0.3">
+                <WeaponFlags Consumable="true" AmmoSticksWhenShot="true" CanPenetrateShield="true" MultiplePenetration="true"/>
+            </Weapon>
+        </ItemComponent>
+        <Flags CannotBePickedUp="true"/>
+    </Item>
+    <Item multiplayer_item="false" id="ballista_projectile_burning" name="{=6Db7aDbF}Ballista Arrows" prefab="burning_ballista_projectile" body_name="bo_ballista_projectile_a" holster_body_name="bo_axe_short" mesh="ballista_projectile_b" holster_mesh="quiver" is_merchandise="false" subtype="arrows" weight="3" difficulty="0" appearance="1" Type="Arrows" item_holsters="">
+        <ItemComponent>
+            <Weapon weapon_class="Arrow" stack_amount="20" physics_material="burning_ballista" thrust_speed="0" speed_rating="0" missile_speed="80" weapon_length="95" thrust_damage="400" thrust_damage_type="Pierce" item_usage="" flying_sound_code="event:/mission/combat/missile/foley/passby" trail_particle_name="psys_game_missile_flame" sticking_rotation="90,0,0" sticking_position="0,-1.2,0" center_of_mass="0,0,-0.3">
+                <WeaponFlags Consumable="true" AmmoSticksWhenShot="true" Burning="true" CanPenetrateShield="true" MultiplePenetration="true" LeavesTrail="true"/>
+            </Weapon>
+        </ItemComponent>
+        <Flags CannotBePickedUp="true"/>
+    </Item>
+    <Item multiplayer_item="false" id="boulder" name="{=pzfbPbWW}Boulder" is_merchandise="false" body_name="bo_projectile_rock" holster_body_name="bo_axe_short" mesh="projectile_rock" holster_mesh="" subtype="arrows" weight="15" difficulty="0" appearance="1" Type="Thrown" item_holsters="">
+        <ItemComponent>
+            <Weapon weapon_class="Boulder" ammo_class="Boulder" stack_amount="1" position="0.05, -0.15, 0" center_of_mass="0,0,0" physics_material="boulder_stone" thrust_speed="100" speed_rating="0" missile_speed="8" weapon_length="95" thrust_damage="70" item_usage="heavy_stone" flying_sound_code="event:/mission/combat/boulder/passby" rotation_speed="2, 0.5, 0">
+                <WeaponFlags RangedWeapon="true" Consumable="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" CanPenetrateShield="true" CanKnockDown="true" MissileWithPhysics="true" UseHandAsThrowBase="true" LeavesTrail="true" AmmoCanBreakOnBounceBack="true" AffectsArea="true"/>
+            </Weapon>
+        </ItemComponent>
+        <Flags QuickFadeOut="true" CannotBePickedUp="true" DropOnWeaponChange="true" DropOnAnyAction="true"/>
+    </Item>
+    <Item multiplayer_item="false" id="pot" name="{=6a58181b}Fire Pot" is_merchandise="false" body_name="bo_projectile_rock" holster_body_name="bo_axe_short" flying_mesh="projectile_pot" mesh="projectile_pot" holster_mesh="" subtype="arrows" weight="15" difficulty="0" appearance="1" Type="Thrown" item_holsters="">
+        <ItemComponent>
+            <Weapon weapon_class="Boulder" ammo_class="Boulder" stack_amount="1" position="0.05, -0.15, 0" physics_material="burning_jar" thrust_speed="100" speed_rating="0" missile_speed="8" weapon_length="95" thrust_damage="70" item_usage="heavy_stone" flying_sound_code="event:/mission/combat/boulder/passby" trail_particle_name="psys_game_burning_jar_trail" rotation_speed="2, 0.5, 0">
+                <WeaponFlags RangedWeapon="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" CanPenetrateShield="true" MissileWithPhysics="true" UseHandAsThrowBase="true" Consumable="true" LeavesTrail="true" Burning="true" AffectsAreaBig="true" AmmoBreaksOnBounceBack="true"/>
+            </Weapon>
+        </ItemComponent>
+        <Flags QuickFadeOut="true" CannotBePickedUp="true" DropOnWeaponChange="true" DropOnAnyAction="true"/>
+    </Item>
+    <Item multiplayer_item="false" id="grapeshot_stack" name="{=ZeU1fvdz}Grapeshot Stack" is_merchandise="false" body_name="bo_projectile_grapeshot_carry" holster_body_name="bo_axe_short" mesh="projectile_grapeshot_carry" holster_mesh="" subtype="arrows" weight="15" difficulty="0" appearance="1" Type="Thrown" item_holsters="">
+        <ItemComponent>
+            <Weapon weapon_class="Boulder" ammo_class="Boulder" stack_amount="1" position="0.05, -0.15, 0" center_of_mass="0,0,0" physics_material="boulder_stone" thrust_speed="100" speed_rating="0" missile_speed="8" weapon_length="95" thrust_damage="70" item_usage="heavy_stone" flying_sound_code="event:/mission/combat/boulder/passby" rotation_speed="2, 0.5, 0">
+                <WeaponFlags RangedWeapon="true" Consumable="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" CanPenetrateShield="true" CanKnockDown="true" MissileWithPhysics="true" UseHandAsThrowBase="true" LeavesTrail="true" AmmoCanBreakOnBounceBack="true"/>
+            </Weapon>
+        </ItemComponent>
+        <Flags QuickFadeOut="true" CannotBePickedUp="true" DropOnWeaponChange="true" DropOnAnyAction="true"/>
+    </Item>
+    <Item multiplayer_item="false" id="grapeshot_fire_stack" name="{=ZeU1fvdz}Grapeshot Stack" is_merchandise="false" body_name="bo_projectile_grapeshot_carry" holster_body_name="bo_axe_short" mesh="projectile_grapeshot_carry" holster_mesh="" subtype="arrows" weight="15" difficulty="0" appearance="1" Type="Thrown" item_holsters="">
+        <ItemComponent>
+            <Weapon weapon_class="Boulder" ammo_class="Boulder" stack_amount="1" position="0.05, -0.15, 0" center_of_mass="0,0,0" physics_material="boulder_stone" thrust_speed="100" speed_rating="0" missile_speed="8" weapon_length="95" thrust_damage="70" item_usage="heavy_stone" flying_sound_code="event:/mission/combat/boulder/passby" rotation_speed="2, 0.5, 0">
+                <WeaponFlags RangedWeapon="true" Consumable="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" CanPenetrateShield="true" CanKnockDown="true" MissileWithPhysics="true" UseHandAsThrowBase="true" LeavesTrail="true" AmmoCanBreakOnBounceBack="true"/>
+            </Weapon>
+        </ItemComponent>
+        <Flags QuickFadeOut="true" CannotBePickedUp="true" DropOnWeaponChange="true" DropOnAnyAction="true"/>
+    </Item>
+    <Item multiplayer_item="false" id="grapeshot_projectile" name="{=XGytILlt}Grapeshot Ammo" is_merchandise="false" body_name="bo_projectile_grapeshot_piece_a" holster_body_name="bo_axe_short" mesh="projectile_grapeshot_piece_a" holster_mesh="" subtype="arrows" weight="15" difficulty="0" appearance="1" Type="Thrown" item_holsters="">
+        <ItemComponent>
+            <Weapon weapon_class="Boulder" ammo_class="Boulder" stack_amount="1" position="0.05, -0.15, 0" center_of_mass="0,0,0" physics_material="boulder_stone" thrust_speed="100" speed_rating="0" missile_speed="8" weapon_length="95" thrust_damage="70" item_usage="heavy_stone" flying_sound_code="event:/mission/combat/boulder/passby" rotation_speed="2, 0.5, 0">
+                <WeaponFlags RangedWeapon="true" Consumable="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" CanPenetrateShield="true" CanKnockDown="true" MissileWithPhysics="true" UseHandAsThrowBase="true" LeavesTrail="true" AmmoCanBreakOnBounceBack="true"/>
+            </Weapon>
+        </ItemComponent>
+        <Flags QuickFadeOut="true" CannotBePickedUp="true" DropOnWeaponChange="true" DropOnAnyAction="true"/>
+    </Item>
+    <Item multiplayer_item="false" id="grapeshot_fire_projectile" name="{=XGytILlt}Grapeshot Ammo" is_merchandise="false" body_name="bo_projectile_grapeshot_piece_a" holster_body_name="bo_axe_short" mesh="projectile_grapeshot_piece_a" holster_mesh="" subtype="arrows" weight="15" difficulty="0" appearance="1" Type="Thrown" item_holsters="">
+        <ItemComponent>
+            <Weapon weapon_class="Boulder" ammo_class="Boulder" stack_amount="1" position="0.05, -0.15, 0" center_of_mass="0,0,0" physics_material="boulder_stone" thrust_speed="100" speed_rating="0" missile_speed="8" weapon_length="95" thrust_damage="70" item_usage="heavy_stone" flying_sound_code="event:/mission/combat/boulder/passby" trail_particle_name="mangonel_grapeshot_burning_projectile" rotation_speed="2, 0.5, 0">
+                <WeaponFlags RangedWeapon="true" Consumable="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" CanPenetrateShield="true" CanKnockDown="true" MissileWithPhysics="true" UseHandAsThrowBase="true" LeavesTrail="true" Burning="true" AffectsArea="true" AmmoCanBreakOnBounceBack="true"/>
+            </Weapon>
+        </ItemComponent>
+        <Flags QuickFadeOut="true" CannotBePickedUp="true" DropOnWeaponChange="true" DropOnAnyAction="true"/>
+    </Item>
+
+</Items>

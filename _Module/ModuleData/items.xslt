@@ -1,0 +1,276 @@
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+  <xsl:output version="1.0" omit-xml-declaration="yes" encoding="UTF-8" indent="yes"/>
+  <xsl:template match="@*|node()">
+    <xsl:copy>
+      <xsl:apply-templates select="@*|node()"/>
+    </xsl:copy>
+  </xsl:template>
+  <xsl:template match="Item[@id='book_1']/@name" ><xsl:attribute name="name">{=7HHrUYJL}Aisu Kageno-ryū Mokuroku</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_2']/@name" ><xsl:attribute name="name">{=YYOAy662}Shintou-ryū Gokui Kaidensho</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_3']/@name" ><xsl:attribute name="name">{=DIXsxyaD}Shinkage-ryū Kagemokuroku</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_4']/@name" ><xsl:attribute name="name">{=w7qeAydI}Ten-ryū Shomokuroku</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_5']/@name" ><xsl:attribute name="name">{=3sx8VYLl}Toda-ryū Hidennosho</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_6']/@name" ><xsl:attribute name="name">{=frd6g7E0}Marumeshinkage-ryū Mokuroku</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_7']/@name" ><xsl:attribute name="name">{=7oGHcWiG}Houzouin-ryū Hyouhoumokuroku</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_8']/@name" ><xsl:attribute name="name">{=qQ5Qe8Wa}Jaraishiki</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_9']/@name" ><xsl:attribute name="name">{=EXkXfJZA}Utsubo No Shidai</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_10']/@name" ><xsl:attribute name="name">{=je3n5qAB}Shishiashi No Shidai</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_11']/@name" ><xsl:attribute name="name">{=6ojmtwR3}Baizoushi</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_13']/@name" ><xsl:attribute name="name">{=RKFy2nfR}Ryouba Zusetsu</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_14']/@name" ><xsl:attribute name="name">{=RukLXS5c}Tazuna No Koto</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_15']/@name" ><xsl:attribute name="name">{=Fc6fFeIM}Yabusame Shidai</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_17']/@name" ><xsl:attribute name="name">{=FBLYEYkh}Kishahishou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_18']/@name" ><xsl:attribute name="name">{=3qyIiLlH}Teppou Yakunokata Narabini Chougou Shidai</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_19']/@name" ><xsl:attribute name="name">{=8qvAXz9z}Tamagusuri Chougou Shidai</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_20']/@name" ><xsl:attribute name="name">{=zHV5iFpv}Tamakoshirae No Koto</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_22']/@name" ><xsl:attribute name="name">{=geRKOU03}Teppou Meate No Daiji</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_23']/@name" ><xsl:attribute name="name">{=0cxuFVQZ}Hyakukanshou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_24']/@name" ><xsl:attribute name="name">{=MDUF6dFs}Asabashou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_25']/@name" ><xsl:attribute name="name">{=iRp0l1Nj}Keiranshūyoshū</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_26']/@name" ><xsl:attribute name="name">{=P1uqYOn0}Sanbusoujou Hossokumikki</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_27']/@name" ><xsl:attribute name="name">{=dFKJ15IC}Shugenshuyo Hiketsushu</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_28']/@name" ><xsl:attribute name="name">{=C1r69eSR}Hidanshou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_29']/@name" ><xsl:attribute name="name">{=ocT1p1U6}Kaji Myoujikou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_30']/@name" ><xsl:attribute name="name">{=9ur29XYx}Ousekishou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_31']/@name" ><xsl:attribute name="name">{=SAucissd}Eiroku Meizukushi</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_32']/@name" ><xsl:attribute name="name">{=Bgdi8AOs}Shozan Engi</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_33']/@name" ><xsl:attribute name="name">{=7JBmkj8x}Toukankikou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_34']/@name" ><xsl:attribute name="name">{=kwdX0sXa}Kaidouki</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_40']/@name" ><xsl:attribute name="name">{=xddPDjBw}Tousenkyou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_42']/@name" ><xsl:attribute name="name">{=yt7Uv0U9}Goshi</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_43']/@name" ><xsl:attribute name="name">{=GXle1JL8}Utsuryoushi</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_44']/@name" ><xsl:attribute name="name">{=M6t6WQ51}Rikutou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_45']/@name" ><xsl:attribute name="name">{=fcDYAFnd}Kousekikou Sanryaku</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_46']/@name" ><xsl:attribute name="name">{=ie46ITLX}Shibahou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_47']/@name" ><xsl:attribute name="name">{=pkYCz3JJ}Rieikou Montai</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_48']/@name" ><xsl:attribute name="name">{=Svsj5eBn}Renrihishou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_49']/@name" ><xsl:attribute name="name">{=G9luekCQ}Azuma Mondou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_51']/@name" ><xsl:attribute name="name">{=AUqLkz89}Teikin'ourai</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_52']/@name" ><xsl:attribute name="name">{=Do2iFyeg}Sekiso Ourai</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_53']/@name" ><xsl:attribute name="name">{=cvVFMBpA}Gyokuenkishou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_54']/@name" ><xsl:attribute name="name">{=OZkvtG5H}Joushougusou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_59']/@name" ><xsl:attribute name="name">{=66235LB1}Shisho-Gokyou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_60']/@name" ><xsl:attribute name="name">{=GzpOzopK}Wamyou Ruijushou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_62']/@name" ><xsl:attribute name="name">{=VEuXwb4n}Shūgaishou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_63']/@name" ><xsl:attribute name="name">{=8nWqHiiH}Kagakushū</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_64']/@name" ><xsl:attribute name="name">{=0OzFc2Cb}Setuyoushū</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_67']/@name" ><xsl:attribute name="name">{=sAs2rbg4}Sikimokushou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_68']/@name" ><xsl:attribute name="name">{=rQ1RiaVi}Asakura Kagetaka Joujou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_69']/@name" ><xsl:attribute name="name">{=vLNuXwK3}Jinkaishū</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_70']/@name" ><xsl:attribute name="name">{=uSDoJYGa}Imagawa Kanamokuroku</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_71']/@name" ><xsl:attribute name="name">{=CEjhDvd7}Koushū Hatto No Shidai</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_72']/@name" ><xsl:attribute name="name">{=6Gqxd9s2}Sagara-shi Hatto</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_73']/@name" ><xsl:attribute name="name">{=LVwq6jaC}Daitou-ryū Jūhou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_74']/@name" ><xsl:attribute name="name">{=dWCGYQD6}Ishinpou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_75']/@name" ><xsl:attribute name="name">{=ZvOqsITf}Ton'ishou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_76']/@name" ><xsl:attribute name="name">{=3qPZwQmw}Man'anpou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_79']/@name" ><xsl:attribute name="name">{=gQb6YCnw}Chikujouki</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='book_80']/@name" ><xsl:attribute name="name">{=vlCFfp1l}Bukeisouyou</xsl:attribute></xsl:template>
+
+  <xsl:template match="Item[@name='{=jJ9mAeR5}Wakyu Yumi']/@name" ><xsl:attribute name="name">{=jJ9mAeR5}Wakyū Yumi</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=KGuj7W99}Hankyu Yumi']/@name" ><xsl:attribute name="name">{=KGuj7W99}Hankyū Yumi</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=exUcsHT9}Daikyu Yumi']/@name" ><xsl:attribute name="name">{=exUcsHT9}Daikyū Yumi</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=pkgJHe6Z}Solid Wakyu Yumi']/@name" ><xsl:attribute name="name">{=pkgJHe6Z}Solid Wakyū Yumi</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_new_yumi_2_short']/@name" ><xsl:attribute name="name">{=BUyjiBfN}Solid Hankyu Yumi</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_new_yumi_2_short_war_bow']/@name" ><xsl:attribute name="name">{=BUyjiBfN}Solid Hankyu Yumi</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_new_yumi_2_war_bow']/@name" ><xsl:attribute name="name">{=gjbTXBIU}Solid Daikyu Yumi</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_new_yumi_3']/@name" ><xsl:attribute name="name">{=pu8gIwOI}Noble Wakyu Yumi</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_new_yumi_3_short']/@name" ><xsl:attribute name="name">{=S0yg2aub}Noble Hankyu Yumi</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_new_yumi_3_short_war_bow']/@name" ><xsl:attribute name="name">{=S0yg2aub}Noble Hankyu Yumi</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_new_yumi_3_war_bow']/@name" ><xsl:attribute name="name">{=E6Ov3SdY}Noble Daikyu Yumi</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_new_yumi_4']/@name" ><xsl:attribute name="name">{=QFhTrfAZ}Basic Wakyu Yumi</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_new_yumi_4_short']/@name" ><xsl:attribute name="name">{=x9BDfXdi}Basic Hankyu Yumi</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_new_yumi_4_short_war_bow']/@name" ><xsl:attribute name="name">{=x9BDfXdi}Basic Hankyu Yumi</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_new_yumi_4_war_bow']/@name" ><xsl:attribute name="name">{=miPWykil}Basic Daikyu Yumi</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_new_yumi']/@name" ><xsl:attribute name="name">{=Fqwfyopb}Practice Wakyu Yumi</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_new_yumi_short']/@name" ><xsl:attribute name="name">{=krKgaoRz}Simple Hankyu Yumi</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_new_yumi_short_war_bow']/@name" ><xsl:attribute name="name">{=krKgaoRz}Simple Hankyu Yumi</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_new_yumi_war_bow']/@name" ><xsl:attribute name="name">{=v1KZHOKY}Simple Daikyu Yumi</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_ebira_cutting']/@name" ><xsl:attribute name="name">{=ffVjgMBR}Ebira Cutting Arrows</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_ebira_piercing']/@name" ><xsl:attribute name="name">{=VQsSmtIb}Ebira Piercing Arrows</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_ebira_whistling']/@name" ><xsl:attribute name="name">{=TSutODel}Ebira Whistling Arrows</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=MSN8TO7X}Hankyu Arrows']/@name" ><xsl:attribute name="name">{=MSN8TO7X}Hankyū Arrows</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_hankyu_b']/@name" ><xsl:attribute name="name">{=MSN8TO7X}Hankyu Arrows</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=pevalQVx}Bajōzutsu']/@name" ><xsl:attribute name="name">{=pevalQVx}Bajouzutsu</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_ozutsu_cannon']/@name" ><xsl:attribute name="name">{=b2H3pbSq}Small Ōzutsu</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_ozutsu_hand_cannon']/@name" ><xsl:attribute name="name">{=PzGFwFj9}Ōzutsu</xsl:attribute></xsl:template>
+
+  <xsl:template match="Item[@name='{=q1KgboXi}Ō-yoroi Kote']/@name" ><xsl:attribute name="name">{=q1KgboXi}Ō-yoroi-gote</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=v60sSwHB}Unarmored Kote']/@name" ><xsl:attribute name="name">{=v60sSwHB}Ubu-gote</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=nfrAzQOE}Mail Kote']/@name" ><xsl:attribute name="name">{=nfrAzQOE}Kusari-gote</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=CoaDkHgm}Ornate Mail Kote' ]/@name" ><xsl:attribute name="name">{=CoaDkHgm}Ornate Kusari-gote</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=XSdMBA4v}Reinforced Mail Kote' ]/@name" ><xsl:attribute name="name">{=XSdMBA4v}Shino-kusari-gote</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=QKKouZeR}Guarded Kote']/@name" ><xsl:attribute name="name">{=QKKouZeR}Kusari Tsutsu-gote</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=eI5qxTh6}Plated Kote']/@name" ><xsl:attribute name="name">{=eI5qxTh6}Plated Kote</xsl:attribute></xsl:template>  
+  <xsl:template match="Item[@name='{=6roxcVNP}Armored Kote']/@name" ><xsl:attribute name="name">{=6roxcVNP}Kojino-gote</xsl:attribute></xsl:template>
+
+  <xsl:template match="Item[@name='{=Oeo0q3wU}Noh Mask']/@name" ><xsl:attribute name="name">{=Oeo0q3wU}Sarugaku Mask</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_amigasa_hat']/@name" ><xsl:attribute name="name">{=xnfE57id}Ayai-gasa</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_nomadgasa_hat']/@name" ><xsl:attribute name="name">{=bbBYq8rX}Torn Tsunogasa</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_roningasa_hat']/@name" ><xsl:attribute name="name">{=Trz6pkzv}Rounin-gasa</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_ryuzo_hat']/@name" ><xsl:attribute name="name">{=R9CSFKs7}Ryuzo's kasa</xsl:attribute></xsl:template>
+
+  <xsl:template match="Item[@name='{=YOiJXHji}Suji Kabuto &amp; Menpo']/@name" ><xsl:attribute name="name">{=YOiJXHji}Suji Kabuto &amp; Menpō</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=us1vjvyv}Saika Kaburo &amp; Menpo']/@name" ><xsl:attribute name="name">{=us1vjvyv}Saika-bachi Kabuto &amp; Menpō</xsl:attribute></xsl:template>
+
+  <xsl:template match="Item[@id='mule_unmountable']/@name" ><xsl:attribute name="name">{=UdSBJkso}Small Pack Horse{@Plural}Small Pack Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='mule']/@name" ><xsl:attribute name="name">{=Rp6xjjXN}Pack Horse{@Plural}Pack Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_sumpter_horse_1']/@name" ><xsl:attribute name="name">{=08UrTM4m}Sumpter Horse{@Plural}Sumpter Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_kiso_1']/@name" ><xsl:attribute name="name">{=IT6P76Li}Kiso Kurige{@Plural}Chestnut Kiso Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_kiso_2']/@name" ><xsl:attribute name="name">{=Zcaf6IQf}Kiso Kage{@Plural}Bay Kiso Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_kiso_3']/@name" ><xsl:attribute name="name">{=koCOckUC}Kiso Kurokage{@Plural}Dark Bay Kiso Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_kiso_4']/@name" ><xsl:attribute name="name">{=8EW1vQwL}Kiso Aoge{@Plural}Black Kiso Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_kiso_5']/@name" ><xsl:attribute name="name">{=5yvWjQ83}Kiso Tsukige{@Plural}Palomino Kiso Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_kiso_6']/@name" ><xsl:attribute name="name">{=JD2V14wg}Kiso Kawarage{@Plural}Buckskin Kiso Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_kiso_7']/@name" ><xsl:attribute name="name">{=bZ8KE3yD}Kiso Ashige{@Plural}Grey Kiso Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_kiso_8']/@name" ><xsl:attribute name="name">{=XrVPlNns}Kiso Shiroge{@Plural}White Kiso Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_kiso_9']/@name" ><xsl:attribute name="name">{=DkRXpuZK}Kiso Aobuchige{@Plural}Painted White-Black Kiso Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_kiso_10']/@name" ><xsl:attribute name="name">{=goz962Y6}Kiso Kabuchige{@Plural}Painted White-Brown Kiso Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_kiso_11']/@name" ><xsl:attribute name="name">{=sFmpdNIU}Kiso Tochigurige{@Plural}Dark Brown Kiso Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_kiso_12']/@name" ><xsl:attribute name="name">{=Ms9iJAUA}Kiso Kurikasuge{@Plural}Light Brown Kiso Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_kiso_13']/@name" ><xsl:attribute name="name">{=irvhZ32i}Kiso Samege{@Plural}Cream Kiso Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_nanbu_1']/@name" ><xsl:attribute name="name">{=IjvclffY}Nanbu Kurige{@Plural}Chestnut Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_nanbu_2']/@name" ><xsl:attribute name="name">{=wOIr3uuC}Nanbu Kage{@Plural}Bay Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_nanbu_3']/@name" ><xsl:attribute name="name">{=Xa26qPQ9}Nanbu Kurokage{@Plural}Dark Bay Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_nanbu_4']/@name" ><xsl:attribute name="name">{=kSNOKVcH}Nanbu Aoge{@Plural}Black Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_nanbu_5']/@name" ><xsl:attribute name="name">{=E3R1pmAI}Nanbu Tsukige{@Plural}Palomino Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_nanbu_6']/@name" ><xsl:attribute name="name">{=q40MxTN9}Nanbu Kawarage{@Plural}Buckskin Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_nanbu_7']/@name" ><xsl:attribute name="name">{=0N2CJcP4}Nanbu Ashige{@Plural}Grey Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_nanbu_8']/@name" ><xsl:attribute name="name">{=bP3L29Vh}Nanbu Shiroge{@Plural}White Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_nanbu_9']/@name" ><xsl:attribute name="name">{=PDCzJAp8}Nanbu Aobuchige{@Plural}Painted White-Black Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_nanbu_10']/@name" ><xsl:attribute name="name">{=hrexRFGl}Nanbu Kabuchige{@Plural}Painted White-Brown Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_nanbu_11']/@name" ><xsl:attribute name="name">{=nPSh549p}Nanbu Tochigurige{@Plural}Dark Brown Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_nanbu_12']/@name" ><xsl:attribute name="name">{=2WP2k2pV}Nanbu Kurikasuge{@Plural}Light Brown Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_nanbu_13']/@name" ><xsl:attribute name="name">{=1IzjBIYp}Nanbu Samege{@Plural}Cream Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_oni_1']/@name" ><xsl:attribute name="name">{=Ou3LFnga}Oni Kurige{@Plural}Chestnut Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_oni_2']/@name" ><xsl:attribute name="name">{=07997dLo}Oni Kage{@Plural}Bay Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_oni_3']/@name" ><xsl:attribute name="name">{=HGbxnoOr}Oni Kurokage{@Plural}Dark Bay Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_oni_4']/@name" ><xsl:attribute name="name">{=2fJME0aA}Oni Aoge{@Plural}Black Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_oni_5']/@name" ><xsl:attribute name="name">{=42eKVBmG}Oni Tsukige{@Plural}Palomino Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_oni_6']/@name" ><xsl:attribute name="name">{=HzVJRSUI}Oni Kawarage{@Plural}Buckskin Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_oni_7']/@name" ><xsl:attribute name="name">{=o5xMBBmz}Oni Ashige{@Plural}Grey Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_oni_8']/@name" ><xsl:attribute name="name">{=aKaOhgpm}Oni Shiroge{@Plural}White Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_oni_9']/@name" ><xsl:attribute name="name">{=oiORMY1K}Oni Aobuchige{@Plural}Painted White-Black Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_oni_10']/@name" ><xsl:attribute name="name">{=WbTPxDND}Oni Kabuchige{@Plural}Painted White-Brown Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_oni_11']/@name" ><xsl:attribute name="name">{=doY2Vmiy}Oni Tochigurige{@Plural}Dark Brown Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_oni_12']/@name" ><xsl:attribute name="name">{=kfdafaMt}Oni Kurikasuge{@Plural}Light Brown Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_horse_oni_13']/@name" ><xsl:attribute name="name">{=k7PLhmXC}Oni Samege{@Plural}Cream Nanbu Horses{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='rice']/@name" ><xsl:attribute name="name">{=e2b5I0ph}Rice{@Plural}loads of rice{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='soybeans']/@name" ><xsl:attribute name="name">{=u9uJ9vFm}Soybeans{@Plural}loads of soybeans{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='perilla']/@name" ><xsl:attribute name="name">{=gVjlpiFD}Perilla{@Plural}loads of perilla{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='ramie']/@name" ><xsl:attribute name="name">{=XHtfjtHp}Ramie{@Plural}loads of ramie{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='root_vegetables']/@name" ><xsl:attribute name="name">{=s3eoLPZx}Root Vegetables{@Plural}loads of root vegetables{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='chestnut']/@name" ><xsl:attribute name="name">{=iBqOxkr1}Chestnut{@Plural}loads of chestnuts{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='mandarins']/@name" ><xsl:attribute name="name">{=88tPPVe4}Mandarins{@Plural}loads of mandarins{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='meat']/@name" ><xsl:attribute name="name">{=LmwhFv5p}Meat{@Plural}loads of meat{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='fish']/@name" ><xsl:attribute name="name">{=QGaIYQpg}Fish{@Plural}barrels of fish{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='blubber']/@name" ><xsl:attribute name="name">{=W5OFMDbz}Whale Blubber{@Plural}loads of whale blubber{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='lobster']/@name" ><xsl:attribute name="name">{=hmcbBs9e}Ise Lobster{@Plural}loads of Ise lobster{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='crab']/@name" ><xsl:attribute name="name">{=5tsKVnqy}Crab{@Plural}loads of Crab{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='seaweed']/@name" ><xsl:attribute name="name">{=yx6BE9Ga}Seaweed{@Plural}wraps of Seaweed{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='tea_leaves']/@name" ><xsl:attribute name="name">{=D1Jo4o5e}Tea Leaves{@Plural}bundles of Tea Leaves{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='gold']/@name" ><xsl:attribute name="name">{=zVxYny6o}Gold{@Plural}loads of gold{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='silver']/@name" ><xsl:attribute name="name">{=GrZDgUxn}Silver{@Plural}loads of silver{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='copper']/@name" ><xsl:attribute name="name">{=p5hMwovx}Copper{@Plural}loads of copper{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='salt']/@name" ><xsl:attribute name="name">{=IK2IPJi1}Salt{@Plural}sacks of salt{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='cotton']/@name" ><xsl:attribute name="name">{=HwA94EF2}Raw Cotton{@Plural}bundles of cotton{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='silk']/@name" ><xsl:attribute name="name">{=6DaF3eDC}Raw Silk{@Plural}bundles of raw silk{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='hides']/@name" ><xsl:attribute name="name">{=r1cUMuSQ}Hide{@Plural}packs of hides{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='stone']/@name" ><xsl:attribute name="name">{=e1Q8zRs1}Stone{@Plural}loads of stone{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sulfur']/@name" ><xsl:attribute name="name">{=Rl42WnTL}Sulfur{@Plural}loads of sulfur{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='clay']/@name" ><xsl:attribute name="name">{=Zwb65ufG}Clay{@Plural}loads of clay{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='lacquer']/@name" ><xsl:attribute name="name">{=sGk6gVe1}Lacquer{@Plural}loads of lacquer{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='dye']/@name" ><xsl:attribute name="name">{=1jQdEqC6}Dye{@Plural}loads of Dye{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='hardwood']/@name" ><xsl:attribute name="name">{=4Eb32194}Hardwood{@Plural}Hardwood logs{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='iron']/@name" ><xsl:attribute name="name">{=Kw6BkhIf}Iron Ore{@Plural}loads of iron ore{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sake']/@name" ><xsl:attribute name="name">{=ctNc1YlX}Sake{@Plural}jars of sake{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='soy_sauce']/@name" ><xsl:attribute name="name">{=yfhl2VBI}Soy Sauce{@Plural}jars of soy sauce{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='miso']/@name" ><xsl:attribute name="name">{=UikL5otl}Miso{@Plural}loads of miso{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='oil']/@name" ><xsl:attribute name="name">{=K8G17sc4}Oil{@Plural}jars of oil{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='tools']/@name" ><xsl:attribute name="name">{=IQEwFhvE}Tools{@Plural}tools{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='cotton_cloth']/@name" ><xsl:attribute name="name">{=NzBqs9k4}Cotton Cloth{@Plural}bolts of cotton cloth{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='silk_cloth']/@name" ><xsl:attribute name="name">{=Ga1YH1B8}Silk Cloth{@Plural}bolts of silk cloth{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='ramie_cloth']/@name" ><xsl:attribute name="name">{=OojobBYZ}Ramie Cloth{@Plural}bolts of ramie cloth{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='pottery']/@name" ><xsl:attribute name="name">{=awQrcrt2}Pottery{@Plural}crates of pottery{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='leather']/@name" ><xsl:attribute name="name">{=ufnnUxKb}Leather{@Plural}crates of leather{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='jewelry']/@name" ><xsl:attribute name="name">{=yQTBY9ie}Jewelry{@Plural}items of jewelry{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='candle']/@name" ><xsl:attribute name="name">{=3fz2Vwcf}Candle{@Plural}loads of candles{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='charcoal']/@name" ><xsl:attribute name="name">{=iQadPYNe}Charcoal{@Plural}loads of charcoal{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='crude_iron_ingot']/@name" ><xsl:attribute name="name">{=gOpodlt1}Crude Iron{@Plural}loads of crude iron{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='wrought_iron_ingot']/@name" ><xsl:attribute name="name">{=7HvtT8bm}Wrought Iron{@Plural}loads of wrought iron{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='iron_ingot']/@name" ><xsl:attribute name="name">{=XHmmbnbB}Iron{@Plural}loads of iron{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='steel_ingot']/@name" ><xsl:attribute name="name">{=UfuLKuaI}Steel{@Plural}loads of steel{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='fine_steel_ingot']/@name" ><xsl:attribute name="name">{=azjMBa86}Fine Steel{@Plural}loads of fine steel{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='thamaskene_steel_ingot']/@name" ><xsl:attribute name="name">{=p8STbpcO}Tamahagane Steel{@Plural}loads of Tamagahane Steel{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='trash']/@name" ><xsl:attribute name="name">{=ZvZN6UkU}Trash Item</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='gold_coin']/@name" ><xsl:attribute name="name">{=5mZjzDV5}Gold Coin</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='campaign_banner_small']/@name" ><xsl:attribute name="name">{=rO0oKtAo}Campaign Banner Small</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_euro_sword_1']/@name" ><xsl:attribute name="name">{=1uZ1NNgF}Royal Sword</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_euro_sword_2']/@name" ><xsl:attribute name="name">{=bJgwkEq6}Rapier</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='army_supplies']/@name" ><xsl:attribute name="name">{=rdQYTTI4}Army Supplies</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='stolen_goods']/@name" ><xsl:attribute name="name">{=vPAHwC3X}Stolen Goods</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='campaign_banner_small']/@name" ><xsl:attribute name="name">{=rO0oKtAo}Campaign Banner Small</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='hare']/@name" ><xsl:attribute name="name">Hare</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='cat']/@name" ><xsl:attribute name="name">{=b6JvcSiQ}Cat</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='dog']/@name" ><xsl:attribute name="name">{=f2O1XjYd}Dog</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sheep']/@name" ><xsl:attribute name="name">{=GD4aQgl7}Sheep{@Plural}sheep{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='cow']/@name" ><xsl:attribute name="name">{=QWqvGa1P}Cow{@Plural}head of cattle{\@}</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='hog']/@name" ><xsl:attribute name="name">{=ZbsGBv10}Hog</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='goose']/@name" ><xsl:attribute name="name">{=FhTUc64z}Goose</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='chicken']/@name" ><xsl:attribute name="name">{=8el5a3sF}Chicken</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='throwing_stone']/@name" ><xsl:attribute name="name">{=1CPdu9K0}Stone</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='ballista_projectile']/@name" ><xsl:attribute name="name">{=6Db7aDbF}Ballista Arrows</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='ballista_projectile_burning']/@name" ><xsl:attribute name="name">{=6Db7aDbF}Ballista Arrows</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='boulder']/@name" ><xsl:attribute name="name">{=pzfbPbWW}Boulder</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='pot']/@name" ><xsl:attribute name="name">{=6a58181b}Fire Pot</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='grapeshot_stack']/@name" ><xsl:attribute name="name">{=ZeU1fvdz}Grapeshot Stack</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='grapeshot_fire_stack']/@name" ><xsl:attribute name="name">{=ZeU1fvdz}Grapeshot Stack</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='grapeshot_projectile']/@name" ><xsl:attribute name="name">{=XGytILlt}Grapeshot Ammo</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='grapeshot_fire_projectile']/@name" ><xsl:attribute name="name">{=XGytILlt}Grapeshot Ammo</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@id='sho_minko_cape']/@name" ><xsl:attribute name="name">{=IXWgp1Kb}Minko Cape</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=kxzCYmvt}Monk Vest']/@name" ><xsl:attribute name="name">{=kxzCYmvt}Oizuru Monk Vest</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=JYnKmPLU}Osode']/@name" ><xsl:attribute name="name">{=JYnKmPLU}Ōsode</xsl:attribute></xsl:template>
+
+  <xsl:template match="Item[@name='{=ulaqb6QQ}Tosei Sode']/@name" ><xsl:attribute name="name">{=ulaqb6QQ}Tousei Sode</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=9vQ7nAuu}Maru Do']/@name" ><xsl:attribute name="name">{=9vQ7nAuu}Maru Dou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=x0l2zvKO}Nanban Do']/@name" ><xsl:attribute name="name">{=x0l2zvKO}Nanban Dou</xsl:attribute></xsl:template>
+
+  <xsl:template match="Item[@name='{=LBUQx99u}Nuinobe Do']/@name" ><xsl:attribute name="name">{=LBUQx99u}Nuinobe Dou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=tLruHIuy}Dangae Do Haidate']/@name" ><xsl:attribute name="name">{=tLruHIuy}Dangae Dou Haidate</xsl:attribute></xsl:template>
+
+  <xsl:template match="Item[@name='{=WjvswJs2}Ō-yoroi Armor']/@name" ><xsl:attribute name="name">{=WjvswJs2}Ō-yoroi Armor</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=6gpCytKe}Ō-yoroi Do']/@name" ><xsl:attribute name="name">{=6gpCytKe}Ō-yoroi Dou</xsl:attribute></xsl:template>
+
+  
+  <xsl:template match="Item[@name='{=6oWrfo7c}Niou Do Haidate']/@name" ><xsl:attribute name="name">{=6oWrfo7c}Niou Dou Haidate</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=PKye4haM}Kawatsutsumi Do']/@name" ><xsl:attribute name="name">{=PKye4haM}Kawatsutsumi Dou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=v94m3bws}Mogami Do']/@name" ><xsl:attribute name="name">{=v94m3bws}Mogami Dou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=bbMwlr3V}Mogami Do Haidate']/@name" ><xsl:attribute name="name">{=bbMwlr3V}Mogami Dou Haidate</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=TIDwOG8g}Go Mai Do']/@name" ><xsl:attribute name="name">{=TIDwOG8g}Go Mai Dou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=iLoknD6a}Owari Do Haidate']/@name" ><xsl:attribute name="name">{=iLoknD6a}Owari Dou Haidate</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=NGoLjn7q}Simple Okegawa Do']/@name" ><xsl:attribute name="name">{=NGoLjn7q}Simple Okegawa Dou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=eJK1kPV3}Okegawa Do']/@name" ><xsl:attribute name="name">{=eJK1kPV3}Okegawa Dou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=wqZRgWso}Okegawa Do Haidate']/@name" ><xsl:attribute name="name">{=wqZRgWso}Okegawa Dou Haidate</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=ZFySTbaG}Hotoke Do']/@name" ><xsl:attribute name="name">{=ZFySTbaG}Hotoke Dou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=WEoq4e6a}Kozane Do']/@name" ><xsl:attribute name="name">{=WEoq4e6a}Kozane Dou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=ilWimvg5}Kozane Do Haidate']/@name" ><xsl:attribute name="name">{=ilWimvg5}Kozane Dou Haidate</xsl:attribute></xsl:template>
+  
+  <xsl:template match="Item[@name='{=e3la5uPS}Yukinoshita Do']/@name" ><xsl:attribute name="name">{=e3la5uPS}Yukinoshita Dou</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=TsWFLwTv}Yukinoshita Do Haidate']/@name" ><xsl:attribute name="name">{=TsWFLwTv}Yukinoshita Dou Haidate</xsl:attribute></xsl:template>
+
+  <xsl:template match="CraftedItem[@id='execution_axe']/@name" ><xsl:attribute name="name">{=je5Ijhzi}Execution Sword</xsl:attribute></xsl:template>
+  <xsl:template match="CraftedItem[@name='{=jqCTZuvY}Simple Omi Yari']/@name" ><xsl:attribute name="name">{=jqCTZuvY}Simple Ōmi Yari</xsl:attribute></xsl:template>
+  <xsl:template match="CraftedItem[@name='{=NMpgBieK}Crude Omi Yari']/@name" ><xsl:attribute name="name">{=NMpgBieK}Crude Ōmi Yari</xsl:attribute></xsl:template>
+  <xsl:template match="CraftedItem[@name='{=W0vGkIp1}Solid Omi Yari']/@name" ><xsl:attribute name="name">{=W0vGkIp1}Solid Ōmi Yari</xsl:attribute></xsl:template>
+  <xsl:template match="CraftedItem[@name='{=rblmdgxM}Fabled Omi Yari']/@name" ><xsl:attribute name="name">{=rblmdgxM}Fabled Ōmi Yari</xsl:attribute></xsl:template>
+  <xsl:template match="CraftedItem[@name='{=WPxY0RTQ}Venerable Omi Yari']/@name" ><xsl:attribute name="name">{=WPxY0RTQ}Venerable Jūmonji Yari</xsl:attribute></xsl:template>
+  <xsl:template match="CraftedItem[@name='{=iYPPHwXa}Mythic Omi Yari']/@name" ><xsl:attribute name="name">{=iYPPHwXa}Mythic Ōmi Yari</xsl:attribute></xsl:template>
+  <xsl:template match="CraftedItem[@name='{=i8TMmnq3}Heroic Omi Yari']/@name" ><xsl:attribute name="name">{=i8TMmnq3}Heroic Ōmi Yari</xsl:attribute></xsl:template>
+  <xsl:template match="CraftedItem[@name='{=cNXKUQX7}Simple Owari Omi Yari']/@name" ><xsl:attribute name="name">{=cNXKUQX7}Simple Owari Ōmi Yari</xsl:attribute></xsl:template>
+  <xsl:template match="CraftedItem[@name='{=C6zh5DoX}Owari Omi Yari']/@name" ><xsl:attribute name="name">{=C6zh5DoX}Owari Ōmi Yari</xsl:attribute></xsl:template>
+  <xsl:template match="CraftedItem[@name='{=wBHTjf0g}Crude Yagi Yari']/@name" ><xsl:attribute name="name">{=wBHTjf0g}Crude Kagi Yari</xsl:attribute></xsl:template>
+  <xsl:template match="CraftedItem[@name='{=VySyanq6}Simple Yagi Yari']/@name" ><xsl:attribute name="name">{=VySyanq6}Simple Kagi Yari</xsl:attribute></xsl:template>
+  <xsl:template match="CraftedItem[@name='{=gchwJFj5}Old Kami Yari']/@name" ><xsl:attribute name="name">{=gchwJFj5}Old Kama Yari</xsl:attribute></xsl:template>
+  <xsl:template match="CraftedItem[@name='{=mg35aEMk}Long Kami Yari']/@name" ><xsl:attribute name="name">{=mg35aEMk}Long Kama Yari</xsl:attribute></xsl:template>
+  <xsl:template match="CraftedItem[@id='{=BCuRcqLL}Kanasaibo']/@name" ><xsl:attribute name="name">{=BCuRcqLL}Kanasaibou</xsl:attribute></xsl:template>
+</xsl:stylesheet>
