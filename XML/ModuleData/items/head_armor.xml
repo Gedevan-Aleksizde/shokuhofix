@@ -1041,7 +1041,7 @@
 
 
 
-    <Item id="sho_saiga_kabuto_a_1" name="{=3crkKrnE}Decorated Saika-hachi-kabuto" subtype="head_armor" mesh="sho_saiga_kabuto_a_1" weight="2.4" difficulty="0" appearance="1" Type="HeadArmor">
+    <Item id="sho_saiga_kabuto_a_1" name="{=3crkKrnE}Decorated Saika-bachi Kabuto" subtype="head_armor" mesh="sho_saiga_kabuto_a_1" weight="2.4" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
             <Armor head_armor="33" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
@@ -1051,7 +1051,7 @@
 
 
 
-    <Item id="sho_saiga_kabuto_a_2" name="{=3crkKrnE}Decorated Saika-hachi-kabuto" subtype="head_armor" mesh="sho_saiga_kabuto_a_2" weight="2.4" difficulty="0" appearance="1" Type="HeadArmor">
+    <Item id="sho_saiga_kabuto_a_2" name="{=3crkKrnE}Decorated Saika-bachi Kabuto" subtype="head_armor" mesh="sho_saiga_kabuto_a_2" weight="2.4" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
             <Armor head_armor="33" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
@@ -1059,7 +1059,7 @@
     </Item>
 
 
-    <Item id="sho_saiga_kabuto_b_1" name="{=xrBpMY26}Saika-hachi-kabuto" subtype="head_armor" mesh="sho_saiga_kabuto_b_1" weight="2.35" difficulty="0" appearance="1" Type="HeadArmor">
+    <Item id="sho_saiga_kabuto_b_1" name="{=xrBpMY26}Saika-bachi Kabuto" subtype="head_armor" mesh="sho_saiga_kabuto_b_1" weight="2.35" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
             <Armor head_armor="31" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
@@ -1067,7 +1067,7 @@
     </Item>
 
 
-    <Item id="sho_saiga_kabuto_b_2" name="{=xrBpMY26}Saika-hachi-kabuto" subtype="head_armor" mesh="sho_saiga_kabuto_b_2" weight="2.35" difficulty="0" appearance="1" Type="HeadArmor">
+    <Item id="sho_saiga_kabuto_b_2" name="{=xrBpMY26}Saika-bachi Kabuto" subtype="head_armor" mesh="sho_saiga_kabuto_b_2" weight="2.35" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
             <Armor head_armor="31" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
@@ -1075,7 +1075,7 @@
     </Item>
 
 
-    <Item id="sho_saiga_kabuto_b_3" name="{=xrBpMY26}Saika-hachi-kabuto" subtype="head_armor" mesh="sho_saiga_kabuto_b_3" weight="2.35" difficulty="0" appearance="1" Type="HeadArmor">
+    <Item id="sho_saiga_kabuto_b_3" name="{=xrBpMY26}Saika-bachi Kabuto" subtype="head_armor" mesh="sho_saiga_kabuto_b_3" weight="2.35" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
             <Armor head_armor="31" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
@@ -1083,7 +1083,7 @@
     </Item>
 
 
-    <Item id="sho_saiga_kabuto_b_4" name="{=xrBpMY26}Saika-hachi-kabuto" subtype="head_armor" mesh="sho_saiga_kabuto_b_4" weight="2.35" difficulty="0" appearance="1" Type="HeadArmor">
+    <Item id="sho_saiga_kabuto_b_4" name="{=xrBpMY26}Saika-bachi Kabuto" subtype="head_armor" mesh="sho_saiga_kabuto_b_4" weight="2.35" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
             <Armor head_armor="31" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
@@ -1091,7 +1091,7 @@
     </Item>
 
 
-    <Item id="sho_saiga_kabuto_b_5_menpo" name="{=us1vjvyv}Saika-hachi-kabuto &amp; Menpō" subtype="head_armor" mesh="sho_saiga_kabuto_b_5_menpo" weight="2.55" difficulty="0" appearance="1" Type="HeadArmor">
+    <Item id="sho_saiga_kabuto_b_5_menpo" name="{=us1vjvyv}Saika-bachi Kabuto &amp; Menpō" subtype="head_armor" mesh="sho_saiga_kabuto_b_5_menpo" weight="2.55" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
             <Armor head_armor="35" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
@@ -1099,7 +1099,7 @@
     </Item>
 
 
-    <Item id="sho_saiga_kabuto_b_6_menpo" name="{=us1vjvyv}Saika-hachi-kabuto &amp; Menpō" subtype="head_armor" mesh="sho_saiga_kabuto_b_6_menpo" weight="2.55" difficulty="0" appearance="1" Type="HeadArmor">
+    <Item id="sho_saiga_kabuto_b_6_menpo" name="{=us1vjvyv}Saika-bachi Kabuto &amp; Menpō" subtype="head_armor" mesh="sho_saiga_kabuto_b_6_menpo" weight="2.55" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
             <Armor head_armor="35" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
@@ -1107,7 +1107,7 @@
     </Item>
 
 
-    <Item id="sho_saiga_kabuto_b_7_menpo" name="{=us1vjvyv}Saika-hachi-kabuto &amp; Menpō" subtype="head_armor" mesh="sho_saiga_kabuto_b_7_menpo" weight="2.55" difficulty="0" appearance="1" Type="HeadArmor">
+    <Item id="sho_saiga_kabuto_b_7_menpo" name="{=us1vjvyv}Saika-bachi Kabuto &amp; Menpō" subtype="head_armor" mesh="sho_saiga_kabuto_b_7_menpo" weight="2.55" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
             <Armor head_armor="35" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>
@@ -1115,7 +1115,7 @@
     </Item>
 
 
-    <Item id="sho_saiga_kabuto_b_8_menpo" name="{=us1vjvyv}Saika-hachi-kabuto &amp; Menpō" subtype="head_armor" mesh="sho_saiga_kabuto_b_8_menpo" weight="2.55" difficulty="0" appearance="1" Type="HeadArmor">
+    <Item id="sho_saiga_kabuto_b_8_menpo" name="{=us1vjvyv}Saika-bachi Kabuto &amp; Menpō" subtype="head_armor" mesh="sho_saiga_kabuto_b_8_menpo" weight="2.55" difficulty="0" appearance="1" Type="HeadArmor">
         <ItemComponent>
             <Armor head_armor="35" has_gender_variations="false" hair_cover_type="type2" modifier_group="plate" material_type="Plate"/>
         </ItemComponent>

@@ -111,7 +111,7 @@
   <xsl:template match="Item[@id='sho_ryuzo_hat']/@name" ><xsl:attribute name="name">{=R9CSFKs7}Ryuzo's kasa</xsl:attribute></xsl:template>
 
   <xsl:template match="Item[@name='{=YOiJXHji}Suji Kabuto &amp; Menpo']/@name" ><xsl:attribute name="name">{=YOiJXHji}Suji Kabuto &amp; Menpō</xsl:attribute></xsl:template>
-  <xsl:template match="Item[@name='{=us1vjvyv}Saika Kaburo &amp; Menpo']/@name" ><xsl:attribute name="name">{=us1vjvyv}Saika-hachi-kabuto &amp; Menpō</xsl:attribute></xsl:template>
+  <xsl:template match="Item[@name='{=us1vjvyv}Saika Kaburo &amp; Menpo']/@name" ><xsl:attribute name="name">{=us1vjvyv}Saika-bachi Kabuto &amp; Menpō</xsl:attribute></xsl:template>
 
   <xsl:template match="Item[@id='mule_unmountable']/@name" ><xsl:attribute name="name">{=UdSBJkso}Small Pack Horse{@Plural}Small Pack Horses{\@}</xsl:attribute></xsl:template>
   <xsl:template match="Item[@id='mule']/@name" ><xsl:attribute name="name">{=Rp6xjjXN}Pack Horse{@Plural}Pack Horses{\@}</xsl:attribute></xsl:template>
