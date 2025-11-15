@@ -360,6 +360,7 @@
     <string id="YEreN7Gw" text="詳細"/>
     <string id="v6q1QbzC" text="入隊中に貸し与えられたアイテムは売れない"/>
     <string id="FETGqAh9" text="主君を見限る"/>
+    <string id="0bOMoQ4e" text="仕事を完了したため、軍隊は{XP}の経験値を得た。"/>
     <string id="YLTe8MeM" text="後方で見守る"/>
     <string id="nE2k6oAS" text="陣屋で待つ"/>
     <string id="W8ijCzl5" text="入隊中は仲間を雇えない"/>
@@ -498,6 +499,7 @@
     <string id="OROp0LAK" text="鉄炮衆の追加費用"/>
     <string id="M4ydNAS7" text="一領具足の追加費用"/>
     <string id="J13JMzI3" text="金が足りない"/>
+    <string id="9fZNPNmV" text="中身が何であれ、{GOLD_COST}{GOLD_ICON}でこれらの木箱のうち一つをお譲りしよう。公平にするため、私は中身を見ていない。人に渡してしまったことを後悔するようなものかもしれないし、手元に残さなかったことを喜ぶものかもしれない。分かる方法は1つだけさ!{newline}あなたはどうする?"/>
     <string id="K3MHJOzf" text="{ITEM_NAME}を拝領いたした"/>
     <string id="fJSTQddC" text="{QUANTITY}個の{ITEM_NAME}を得た"/>
     <string id="FdWQiM9X" text="ちょうどいい値付けだ!"/>
@@ -1414,6 +1416,8 @@
     <string id="stpD675i" text="裏路地"/>
     <string id="fR2M5ZdV" text="空き地"/>
     <string id="MAusOuPK" text="水辺"/>
+    <string id="53876b79" text="私は{CLAN_NAME}の{CONVERSATION_CHARACTER.LINK}である。"/>
+    <string id="92BfC9e9" text="そうであった、汝に一度だけ、命乞いの機会を与えてやるべきだな。降伏する気はないか?[ib:warrior][if:convo_mocking_predatory]"/>
     <string id="8zqqDTbp" text="篝火"/>
     <string id="86793831" text="百匁大筒"/>
     <string id="8Ewallt6" text="竹束"/>
@@ -1616,6 +1620,7 @@
     <string id="QEO5Wo1m" text="私は積年、龍造寺山城守殿のもとに馳せ参じている。物資にも金子にも十分な蓄えがある。近くの村におるあの娘は、大人しいが、元氣な子を産めそうな腰つきだ。盛大な婚礼を挙げたい。"/>
     <string id="X9IcvNnc" text="そこで、その娘の兄のもとを訪ね、馬二十頭を持参すると申し出た。だがその者は妹を「『お主ごとき』にはやらん」とぬかしおった。どういう意味だと食い下がったが、取り合おうとしないので一発殴ってやった。いや、殴ったのは一発だけではなかったかもしれんし、一発だけだったかもしれん。本当に傷つけるつもりではなかった。だがこの青二才めは、これがもとで死んでしまった。"/>
     <string id="L64od7cC" text="少年の頃、私は村で一番の戦士だった。「まだ少年なのに、大人の戦士より強い」と人々は言った。これは自慢ではない。実際に皆がそう言ったのだ。だから私は大人になって出稼ぎをすることにした。"/>
+    <string id="8oc7bO2s" text="隊列に隙間を作るは謀反に等しい行いだと、誰からも教わらなかったのか?"/>
     <string id="rlHt9ZWE" text="面白そうだ。"/>
     <string id="toWs4s58" text="そうして今に至る。結婚にはあまり興味ないが、デナールは好きだし、自由も好きだ。いつか見事な農場と、父の老後のために何人かの奴隷も揃えて、父を驚かせてやりたい。"/>
     <string id="YLn5hxVB" text="応仁の乱の時から、城攻め職人が主を替えた後に捕まることがあれば、悲惨な死を迎える。だが世は変わった。日之本の都は熟れた橘の実のように地に落ち、人々は太古のように高い防壁をめぐらせた。南海の大名は城攻め職人には金子を惜しみ、しばしば支払いは滞った。それで私は新しい仕え先があれば、鞍替えすることにした。"/>
@@ -4024,7 +4029,7 @@
     <string id="MLZq7awV" text="爲景"/>
     <string id="QwRXJCmI" text="青岩院"/>
     <string id="8Iv9ecNC" text="あや"/>
-    <string id="axhJs6IX" text="昌景"/>
+    <string id="axhJs6IX" text="政景"/>
     <string id="RWQCCx4o" text="景勝"/>
     <string id="shVCPmCc" text="まどか"/>
     <string id="Cg9EoY4r" text="勝長"/>
@@ -6999,8 +7004,10 @@
     <string id="MWwnFMyX" text="宗教的熱狂"/>
     <string id="7Hpm5QtC" text="海上移動の優先度"/>
     <string id="jdOF6aeb" text="土地を寄進している"/>
+    <string id="9ggpdQ2k" text="領主は自領を寺社に寄進できる。寄進された領地は一国の主であっても占領が難しい。"/>
     <string id="O0Tyn8EQ" text="土地の寄進"/>
     <string id="oiIiCvRk" text="外国との貿易"/>
+    <string id="3MOWcJtw" text="集落の繁栄が2日ごとに減少する{newline}集落の税収-5%{newline}攻城戦の攻撃時に弾薬箱が使用できる"/>
     <string id="jSJruOkV" text="戦の備へ"/>
     <string id="7rVB5l3B" text="信仰"/>
     <string id="HDm2PYc6" text="織豐"/>
@@ -7010,6 +7017,7 @@
     <string id="xMZarEbH" text="{SHIP_COUNT}"/>
     <string id="3TTK05OC" text="{HERO}隊"/>
     <string id="v9WXXzOF" text="{HERO}隊"/>
+    <string id="8SKuKDrK" text="この文章は見えては行けないものです。もしこれを見た場合は、現在の状況を詳細に説明し、Foozle タグを付けてバグ報告してください。"/>
     <string id="4lbpRo9r" text="資金が足りない"/>
     <string id="kj91FkjI" text="資金が足りない"/>
     <string id="QwKutvoR" text="義昭"/>
@@ -7035,12 +7043,16 @@
     <string id="FibVA33i" text="篝火"/>
     <string id="ApbDUy6T" text="掻楯"/>
     <string id="lrX85tOP" text="掻楯"/>
+    <string id="238PAamR" text="{QUEST_GIVER.LINK}の息子にすべての品物を渡すよう要求した。剣は自分のものになったが、荷物をすべて盗んでしまっては、{QUEST_GIVER.LINK}からの仕事をこなすのはもはや不可能だ。"/>
     <string id="pCyrrjls" text="{QUEST_GIVER}の息子"/>
     <string id="NPkSwy1f" text="公家の息子"/>
     <string id="Cmsp8IqT" text="不審な人々"/>
     <string id="t5KdHb4f" text="待て。争う氣はない。すぐ失せよう。"/>
     <string id="Qo43Umx4" text="侍"/>
     <string id="naPQeidR" text="{HERO.LINK}と話した。"/>
+    <string id="3CGtW7Eb" text="職人たちは、盗賊がいるかもしれない所をおおまかに示した。奴らを討伐しよう。"/>
+    <string id="8PNrndxK" text="真か? ふむ、興味深い。数日前に、みすぼらしい身なりの集団が市の近くに現れ、妙に高価な品物を売りさばこうとしていたのだ。"/>
+    <string id="8IkbmFSh" text="うむ、良い。去って可し。汝への報酬だ。"/>
     <string id="cqA0b1Zy" text="{CHANGE}{GOLD_ICON}獲得した"/>
     <string id="iR1Js0Uj" text="そのとおりです伴天連殿。いかんすればよいか教えてくだされ!"/>
     <string id="vYNjPfBr" text="ふむ? 面白い話だ。よく聞かせ願いたい。"/>
@@ -7178,6 +7190,7 @@
     <string id="x0l2zvKO" text="南蛮胴"/>
     <string id="dKQsidWH" text="新發田"/>
     <string id="obBB8IMs" text="小田"/>
+    <string id="a7Fb1Jk2" text="{TEMPLE_NAME}からの好感度が{OLD_LEVEL}から{NEW_LEVEL}へと{DIRECTION}"/>
     <string id="27XjQKbv" text="ふむ。そなたは腕利きの者と見受ける。"/>
     <string id="A2RkHuce" text="{DUEL_INQUIRE}{NEWLINE}は果たし合いに{WEAPON_TYPE}を持ち込むつもりだ。{NEWLINE}こちらの得物は何にしようか?"/>
     <string id="2Rjo5IaH" text="刀で戦う。"/>
@@ -7251,6 +7264,8 @@
     <string id="4JzI7Y4f" text="抜擢可能な兵士がいる"/>
     <string id="PNOUdlaK" text="撃ち方"/>
     <string id="UxhnhDg9" text="騎馬弓兵"/>
+    <string id="2Y3uXKQ2" text="{NAME_OF_UNIT_TYPE}の頭数が多すぎる。{NAME_OF_UNIT_TYPE}をよく支えられる別の兵種を雇うか、既にいる{NAME_OF_UNIT_TYPE}を解雇するか考えるべきだろう。"/>
+    <string id="9UfLd5R9" text="兵どもの士気が悩みの種だ。今、我々は厳しい状況にあり、脱走を企てる噂も聞いた。食糧の種類を増やすか、さもなければ他の手を使い、士気を高めるべきだ。"/>
     <string id="oNW3TBci" text="[DEBUG] ApplyFinalEffect called"/>
     <string id="xy3cU9cP" text="松前蠣崎"/>
     <string id="8x7RoWTn" text="平地・街道・浜辺で敵と遭遇した際の兵の与えるダメージ {VALUE}%"/>
@@ -7394,6 +7409,7 @@
     <string id="q4RLZ9qp" text="決闘に敗北した際に好感度低下"/>
     <string id="sY29YKrW" text="決闘に敗北した際に、近隣の有力者からの好感度を下げるかどうかを設定します。"/>
     <string id="zNvVoX7w" text="読書速度の倍率"/>
+    <string id="2LC0ZuTq" text="あなたや仲間が本を読む速さです。デフォルトは1.0です。"/>
     <string id="RMWxF6Lf" text="足軽働きで町へ入った時に一時停止する"/>
     <string id="AmF8WwYx" text="有効にすると、足軽として仕えている部隊が町に入った時に一時停止します。"/>
     <string id="2UsKvAqP" text="不自然なBGMを無効にする"/>
@@ -7412,6 +7428,7 @@
     <string id="WCO6rwqA" text="軍隊に属している間は陣幕を張れない"/>
     <string id="rsz7Ub0w" text="今は陣幕を張れない"/>
     <string id="3jP411a4" text="ここでは陣幕を張れない"/>
+    <string id="ABC123xy" text="{SETTLEMENT}は今人手が足りず、守りが手薄との報せを受けている。我々にとっては好機だ。"/>
     <string id="Z31UOoXV" text="小田"/>
     <string id="Qcs1hp25" text="{CLAN_NAME}領国"/>
     <string id="MfNoq6Ly" text="船の積載量超過"/>
@@ -7422,8 +7439,18 @@
     <string id="YLn5hxVB" text="応仁の乱の時から、城攻め職人が主を替えた後に捕まることがあれば、悲惨な死を迎える。だが世は変わった。日之本の都は熟れた橘の実のように地に落ち、人々は太古のように高い防壁をめぐらせた。南海の大名は城攻め職人には金子を惜しみ、しばしば支払いは滞った。それで私は新しい仕え先があれば、鞍替えすることにした。"/>
     <string id="toWs4s58" text="そうして今に至る。結婚にはあまり興味ないが、デナールは好きだし、自由も好きだ。いつか見事な農場と、父の老後のために何人かの奴隷も揃えて、父を驚かせてやりたい。"/>
     <string id="Vwwa2Zdl" text="もちろんだとも。話してくれ。"/>
+    <string id="3Owhuhtq" text="我が領地にある{TARGET_VILLAGE}の村の者たちが反抗しておる。労役を拒否し、吏人を攻撃しているという。百姓たちがにわかに怒った理由に心当たりがない。数年来、何も問題は起こらなかったのだ。村の暮らしを損ねることはしておらぬし、要求する年貢の量も変えておらん。儂は忙しく村に直接赴くことがかなわぬ。そなたが彼らの動揺を調べ、騒ぎが抑えきれぬほどになる前に仕置いてくれるのであれば、相応の報酬を与えよう。[ib:closed][if:convo_normal]"/>
     <string id="cGerAWzT" text="私は具体的に何をすればいいでしょうか?"/>
+    <string id="fO8pXizf" text="ご心配なされるな、私が動揺の原因を見つけて来ましょう。"/>
+    <string id="8fRihO7c" text="{PLAYER.LINK}よ感謝する。そなたの部下が動揺に対処してくれたことを確認した。{TARGET_VILLAGE}は平穏を取り戻すだろう。それから、働きに見合った{REWARD_GOLD}{GOLD_ICON}を渡さねばならぬな。[if:convo_pondering]"/>
+    <string id="3WLPxVG2" text="{COMPANION.LINK}と部下が成功の報せを携え戻って来た。どうやら、徴税吏が涜職し村人から銭を盗んだらしい。{COMPANION.LINK}は容易く対処し、村は平穏を取り戻し、村人は感謝した。{QUEST_GIVER.LINK}は感謝し、{REWARD}{GOLD_ICON}の入った巾着を寄越した。"/>
+    <string id="97SdUgUS" text="村の住人たちと話しをすると、最近の不安の原因は重い年貢であった。{QUEST_GIVER.LINK}によれば、ここ数年は年貢の量を変えていないというから、おかしな話だ。{TARGET_VILLAGE}のどこかにいる徴税吏に話を聞くべきだろう。"/>
+    <string id="9zl7sjhB" text="徴税吏を{QUEST_GIVER.LINK}へ引きた渡する前に解放した。{TARGET_VILLAGE}に対して裁きを下せなくなったが、問題は解決した。"/>
+    <string id="65QbGjNc" text="{QUEST_GIVER.NAME}は、この騒ぎは理のないものだと考えている。言え、徴収した金を誰が運んだ?"/>
+    <string id="2uwp9t2G" text="よろしい。{QUEST_GIVER.NAME}に、ここは平穏を取り戻し、騒ぎは自然と収まったと言っておこう。"/>
+    <string id="5FyXxNFR" text="感謝する。{QUEST_GIVER.NAME}によろしく言ってくれ。[ib:normal][if:happy]"/>
     <string id="UqZ9mzlb" text="待たれい! 降伏いたす。攻撃をやめてくれ。[ib:weary][if:convo_terrified]"/>
+    <string id="5x0uA6dW" text="よろしい。切支丹と取引しよう。"/>
     <string id="2LDxpFrj" text="伴天連の事"/>
     <string id="nhvDkbeE" text="伴天連"/>
     <string id="GmBJXheK" text="佐伯源一郞の部隊"/>
@@ -7440,6 +7467,7 @@
     <string id="sTbGAAa1" text="その一団は数週間前に現れました。並の商人が仕入れる値よりはるかに安い値で品物を売っており、{ISSUE_GIVER_SETTLEMENT}の住人は、名の知れた商人ではなく、その者たちから買い求めようと押しかけています。これが続けば、店をたたむことになりそうです。この者たちを調べて、どこから品を仕入れているのか教えていただきたい。[ib:nervous2][if:convo_dismayed]"/>
     <string id="GCD9cq7V" text="自らその者たちを調べてもよく、お供のだれかに{ALTERNATIVE_TROOP_COUNT}ほどの人手を付けて調べさせてもよいでしょう。[ib:nervous2][if:convo_dismayed]"/>
     <string id="5GB05CrH" text="その商人たちのことを調べよう。"/>
+    <string id="2sEpr2It" text="{PLAYER.NAME}よ感謝する。そなたの臣であればこの謎を明かしてくれよう。"/>
     <string id="fJ1Y8vXy" text="{ISSUE_GIVER_SETTLEMENT}の商人が商売敵に困っているという話を聞いた。 {QUEST_GIVER.LINK}が助けを求めている。"/>
     <string id="FAD2tERq" text="郎党の{COMPANION.LINK}と手勢が成功の報せとともに戻ってきた。見るからに商人は商人の風体には見えず、山賊が盗品を売っているようだったという。{COMPANION.LINK}は彼らを始末した。{QUEST_GIVER.LINK}は感謝し、{REWARD}{GOLD_ICON}の入った財布を報酬によこした。"/>
     <string id="qUiYwHWg" text="不審な商人"/>
@@ -7477,6 +7505,7 @@
     <string id="k17PWttK" text="よろしい。そなたの息子が過ちを犯しておらぬことを見届けよう。"/>
     <string id="KfzA7Mea" text="{QUEST_GIVER.LINK}が、息子が他の町へ武器を売りに行く際に、儲けを横領しているのではないかと疑っている。息子の後を追い、真偽を明らかにしてくれる者を求めている。"/>
     <string id="CcODtA5H" text="郎党の者と{REQUIRED_TROOP_AMOUNT}の手勢にそなたの息子を{RETURN_DAYS}日ほど追わせ、事の始末を明らかにしよう。"/>
+    <string id="33B0X4Vi" text="盗賊を討ち損じた。幸運にも、まだ自分は生きている。{QUEST_GIVER.LINK}からの仕事をこなすのは、今は不可能だ。"/>
     <string id="Sy4UDOCk" text="忝ない。息子が発つのは今日ゆえ、暫し待たれよ。くれぐれも息子を傷つけないでいただきたい。[if:convo_focused_happy]"/>
     <string id="kaqYRNb9" text="我が息子の供をして、息子が金をくすねておらぬか明かしてくれたか?[ib:closed][if:convo_innocent_smile]"/>
     <string id="WwzSY2T7" text="いかがいたしましたか?"/>
@@ -7514,17 +7543,24 @@
     <string id="4KPNZgqN" text="何? 真に我が息子が?[rb:negative][if:shocked]"/>
     <string id="rHtnyNKQ" text="申し訳ありません、父上。[ib:nervous][if:convo_dismayed]"/>
     <string id="Xj3LIDNx" text="そなたの沙汰は追って下そう。{PLAYER.NAME}殿よ、働きに感謝いたします。かようなことがあろうとは、ゆめ思わぬところでありました。貴殿にはより多くの報酬を渡しましょう。私の刀を一振りお譲りいたします。役立つことを願います。[if:convo_annoyed][ib:normal]"/>
+    <string id="2GgCPzl1" text="責務を果たすために{QUEST_GIVER.LINK}へ戻るべきだ。時間をかけすぎると放棄したとみなされるかもしれない。彼らは{SETTLEMENT}周辺にいることだろう。"/>
     <string id="6alhsU3o" text="うむ、よく戻ってきた。"/>
     <string id="7aPl5EDa" text="お暇をいただきたい。"/>
+    <string id="8XOFcuyQ" text="他の領主の下働きとなった。この仕事をこなすのは不可能だ。"/>
     <string id="9upW0V7c" text="賊徒を攻撃する"/>
+    <string id="0n0JMtrv" text="{QUEST_GIVER.LINK}から、50人の盗賊を、なるべく{FACTION}領内近くで討伐するよう依頼された。兵を送って対処させることにした。"/>
+    <string id="acgNZOSH" text="よかろう。十分にやり遂げたなら、私の麾下に帰参するがよい。"/>
     <string id="T2hy95Dq" text="すばらしい。"/>
     <string id="oYRzT2Rb" text="倒した盗賊"/>
+    <string id="aAayf1hv" text="ここにある。確かに送り届けてくれよ。"/>
     <string id="JLbIFa14" text="すばらしい。"/>
     <string id="jdWIUkf6" text="{SETTLEMENT_NAME}を偵察した"/>
     <string id="HtNnpNHN" text="敵の城砦を偵察せよ"/>
     <string id="V0YqMr08" text="{SETTLEMENT_NAME}を偵察した。"/>
+    <string id="8xPHq2zO" text="両国は和平した。集落の偵察は必要ない。{QUEST_GIVER.LINK}の元へ戻るべきだ。"/>
     <string id="Agn2weFa" text="{FACTION}に召し抱えられる"/>
     <string id="fGqcBzsc" text="{QUEST_GIVER.LINK}に臣従した。"/>
+    <string id="2SUCBJbI" text="{QUEST_GIVER.LINK}が亡くなった。{QUEST_GIVER.FACTION}に召し抱えられるという話が新たな君主に引き継がれるとは考えにくい。この好機は指の隙間からこぼれ落ちてしまった。"/>
     <string id="P144idVc" text="侍"/>
     <string id="UdiPb3xt" text="領主{RULER.NAME}"/>
     <string id="MYz8nKqq" text="外交"/>
@@ -7793,6 +7829,7 @@
     <string id="ShokuhoA9EF3752" text="長柄武器による対乗騎ダメージ{VALUE}%"/>
     <string id="Shokuho4Fb1Aad5" text="攻城戦の野営地の設営速度{VALUE}%"/>
     <string id="Shokuho0f8611bd" text="統治している集落の守備隊により、治安{VALUE}%"/>
+    <string id="5hTautJo" text="編隊の乗騎の衝突ダメージ+{VALUE}%"/>
     <string id="ShokuhoF9E9A34B" text="統治している集落の周辺の村の生産力{VALUE}%"/>
     <string id="Shokuho9b71C874" text="隊商護衛の賃金{VALUE}%"/>
     <string id="ShokuhoA544bc0a" text="キャンペーンマップ上の夜間の視界の広さ{VALUE}%"/>
