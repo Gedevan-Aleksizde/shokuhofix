@@ -6059,7 +6059,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog"/>
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_KY10" name="{=eL3o2vmZ}Muranaka" owner="Faction.clan_ryuzoji_1" posX="276.576" posY="398.794" culture="Culture.saikai" gate_posX="277.3694" gate_posY="395.4855" text="{=kw7kEnWY}Muranaka has long served as a local stronghold in Western Kyūshū, functioning as a minor seat of governance under the protection of the Asou clan, whose authority once extended across the central highlands. With the Asou clan’s power sharply declined under pressure from the Shimazu to the south and the Ōtomo to the east, Muranaka is now left vulnerable.">
+  <Settlement id="town_KY10" name="{=eL3o2vmZ}Muranaka" owner="Faction.clan_ryuzoji_1" posX="276.576" posY="398.794" culture="Culture.saikai" gate_posX="277.3694" gate_posY="395.4855" text="{=kw7kEnWY}Muranaka has long served as a local stronghold in Western Kyūshū, functioning as a minor seat of governance under the protection of the Aso clan, whose authority once extended across the central highlands. With the Aso clan’s power sharply declined under pressure from the Shimazu to the south and the Ōtomo to the east, Muranaka is now left vulnerable.">
     <Components>
       <Town id="town_comp_KY10" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_sho_town" gate_rotation="0.808" prosperity="2000"/>
     </Components>

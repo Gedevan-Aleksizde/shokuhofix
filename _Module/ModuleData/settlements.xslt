@@ -3325,7 +3325,7 @@
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
 			<xsl:attribute name='name'>{=eL3o2vmZ}Muranaka</xsl:attribute>
-			<xsl:attribute name='text'>{=kw7kEnWY}Muranaka has long served as a local stronghold in Western Kyūshū, functioning as a minor seat of governance under the protection of the Asou clan, whose authority once extended across the central highlands. With the Asou clan’s power sharply declined under pressure from the Shimazu to the south and the Ōtomo to the east, Muranaka is now left vulnerable.</xsl:attribute>
+			<xsl:attribute name='text'>{=kw7kEnWY}Muranaka has long served as a local stronghold in Western Kyūshū, functioning as a minor seat of governance under the protection of the Aso clan, whose authority once extended across the central highlands. With the Aso clan’s power sharply declined under pressure from the Shimazu to the south and the Ōtomo to the east, Muranaka is now left vulnerable.</xsl:attribute>
 			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>
