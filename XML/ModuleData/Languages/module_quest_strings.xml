@@ -345,5 +345,7 @@
 		<string id="P144idVc" text="Samurai"/>
 		<string id="tRwThwR8" text="Daimyou"/>
 		<string id="UdiPb3xt" text="Lord"/>
+		<string id="jRsXgP4p" text="You were attacked by the villagers after they saw you accepting a bribe. You fled the village, and now the village is pratically in a full blown rebellion. Your actions made the unrest worse, and {QUEST_GIVER.LINK} is furious!"/>
+		<string id="51TOv5yV" text="You tried to fight the tax collector's bodyguards, but you fled. They are now long gone. You failed to deliver justice for the village, but at least the problem is solved."/>
 	</strings>
 </base>

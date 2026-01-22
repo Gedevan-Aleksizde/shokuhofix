@@ -1252,7 +1252,7 @@
 		<string id="Omjhrb65"
 				text="Back To Menu" />
 		<string id="pocCosmq"
-				text="A battle was fought here. Bodies scatter the battlefield, waiting to be looted by scavengers. There appears to be a {LOOT_AMOUNT_ADJECTIVE} amount of loot." />
+				text="A battle was fought here. Bodies scatter the battlefield, waiting to be looted by scavengers. There appears to be a {LOOT_AMOUNT_ADJECTIVE} amount of loot. A battle was fought here. Bodies scatter the battlefield, waiting to be looted by scavengers. There appears to be a {LOOT_AMOUNT_ADJECTIVE} amount of loot. If you decide to enter this place, be careful to not get too greedy. Flee if you feel yourself in danger!" />
 		<string id="TBDYMLy9"
 				text="Enter the battlefield" />
 		<string id="kj7G2ihH"
