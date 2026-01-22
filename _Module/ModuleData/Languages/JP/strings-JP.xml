@@ -33,16 +33,16 @@
     <string id="2wY88rzX" text="金胎坊覺禪によって編纂された、三十以上の仏教画の掲載された巻物。合計で百巻を超えており、この種の編纂集では最大の規模である。"/>
     <string id="RuQ4TZhh" text="密教の様々な宗派の教義や口伝を記した、二百二十八巻の巻物。極樂坊承澄 (じょうちょう) によって三十五年以上かけて編纂された。"/>
     <string id="OBbYaTVr" text="密教の様々な宗派の口伝や儀式や作法を記した巻物。天台宗で学んだ僧の光宗 によって編纂された。"/>
-    <string id="unC8XMbS" text="この数巻の巻物は修験道の山伏の禁欲酒豪に関連する儀式と教義が書かれている。日光山の山伏である阿吸房即傳によって書かれた。"/>
+    <string id="unC8XMbS" text="この数巻の巻物は修験道の山伏の禁欲修行に関連する儀式と教義が書かれている。日光山の山伏である阿吸房即傳によって書かれた。"/>
     <string id="pYmNTiMK" text="修験道の儀式と教義の口伝をまとめた書物。日光山の山伏である阿吸房即傳によって書かれた。"/>
-    <string id="AYhzKPj2" text="将軍足利義滿に刀の管理を任された宇都宮參河入道によって書かれた五巻の書物。彼は刀を製作年と刀工の系譜沿って分類し、刀の知名度や寸法についても記した。"/>
+    <string id="AYhzKPj2" text="将軍足利義滿に刀の管理を任された宇都宮參河入道によって書かれた五巻の書物。彼は刀を製作年と刀工の系譜に沿って分類し、刀の知名度や寸法についても記した。"/>
     <string id="EwYMTiHV" text="各地の刀鍛冶の名簿が記された巻物。各鍛冶師の銘、作風、逸話、系譜についての記載もある。"/>
     <string id="b5wKRFvG" text="父の始めた事業を継いだ斎藤利匡が完成させた、およそ八百四十振の刀を収録した書物で、粟田口派、相州派、中国四国・北陸・備前備中・九州の刀を含んでいる。"/>
     <string id="kCaKCo01" text="諸國の刀鍛冶を五段階で評価し、その最高傑作、作成時期、著名な剣の実例について記した書物。"/>
     <string id="sLDnkOCe" text="畿内の山々の由来と歴史について簡易に説明した書物。"/>
     <string id="z0uNk7ZU" text="貞応二年 (1223年) の鎌倉から京への旅行を記した書物。名物名所の説明のほか、古い漢籍や漢詩、あるいは仏教の説話が多数引用されている。"/>
     <string id="Docmd9xI" text="貞応三年 (1242年) に、京の東山から鎌倉への道中の見聞をまとめた旅行記。地理について詳細に書かれている。"/>
-    <string id="415dA2QQ" text="藤原爲家の側室である阿仏尼によって書かれた日記集。全編を通して、息子とその異母兄の領地をめくった争いを幕府へ訴えるための、京から鎌倉への旅路の記述に割かれている。"/>
+    <string id="415dA2QQ" text="藤原爲家の側室である阿仏尼によって書かれた日記集。全編を通して、息子とその異母兄の領地をめぐる争いを幕府へ訴えるための、京から鎌倉への旅路の記述に割かれている。"/>
     <string id="PGtz6eGJ" text="聖護院道興によって書かれた、北陸道の旅程上の様々な事物を記した書物。奥州・和歌・伝説・由緒ある土地に関する記述もいくらか含んでいる。"/>
     <string id="UPBYYWDk" text="室町時代の日本の戦士の文化と生活と諸国に関する書物。"/>
     <string id="0juzWg0C" text="日本の地理・習慣・作法・自然の歴史に関する研究の蒐集。倭寇の取り締まりのため日本に派遣された鄭舜功によって書かれた。"/>
@@ -360,13 +360,18 @@
     <string id="YEreN7Gw" text="詳細"/>
     <string id="v6q1QbzC" text="入隊中に貸し与えられたアイテムは売れない"/>
     <string id="FETGqAh9" text="主君を見限る"/>
+    <string id="kL4P4RpK" text="本当に軍を見捨てようか?{FACTION}から脱走者とみなされるだろう。"/>
+    <string id="nXXz9sHG" text="軍の戦闘で経験値{XP}を得た"/>
     <string id="0bOMoQ4e" text="仕事を完了したため、軍隊は{XP}の経験値を得た。"/>
+    <string id="U56cISN6" text="毎週の軍での稽古により経験値{XP}を得た"/>
     <string id="YLTe8MeM" text="後方で見守る"/>
     <string id="nE2k6oAS" text="陣屋で待つ"/>
     <string id="W8ijCzl5" text="入隊中は仲間を雇えない"/>
     <string id="LGNTb9Xd" text="伝令の最中は入隊できない"/>
+    <string id="PRHOd6hT" text="部隊を再編している最中の領主には仕官できない。"/>
     <string id="cXAO1l67" text="国に所属している間は入隊できない"/>
     <string id="p5ekUAdd" text="{LORD}の部隊に入隊すると、自分の部隊の兵と仲間は解散します。本当にいいだろうか?"/>
+    <string id="ShokuhoFb243dc1" text="{ADJECTIVE}から兵を召し上げるほど親密な関係にない。{newline}{REL2}の好感度が必要なのに対し現在は{REL1}だ。"/>
     <string id="bX5vgton" text="領主は{SETTLEMENT}に対する攻撃の備えをしている。あなたの決断は…"/>
     <string id="UgKxuI0T" text="領主は{SETTLEMENT}の防衛の備えをしている。あなたの決断は…"/>
     <string id="AO2gLUfJ" text="{SETTLEMENT}は陥落した。ほとんど手柄がなかったため、何も得られなかった。"/>
@@ -494,33 +499,43 @@
     <string id="6e1eC519" text="Downgrading a workshop will ETC ETC TODO_CAMPAIGN"/>
     <string id="060BA0D5" text="Selling a workshop will ETC ETC TODO_CAMPAIGN"/>
     <string id="rC4A84Dg" text="日本一統を果たした!"/>
+    <string id="UPWxQMpj" text="痛い、なんて痛いんだ。"/>
     <string id="psFYPrQx" text="畿内足軽先駆け衆の追加費用"/>
     <string id="VbkKKYfL" text="坂東旗本の追加費用"/>
     <string id="OROp0LAK" text="鉄炮衆の追加費用"/>
     <string id="M4ydNAS7" text="一領具足の追加費用"/>
     <string id="J13JMzI3" text="金が足りない"/>
     <string id="9fZNPNmV" text="中身が何であれ、{GOLD_COST}{GOLD_ICON}でこれらの木箱のうち一つをお譲りしよう。公平にするため、私は中身を見ていない。人に渡してしまったことを後悔するようなものかもしれないし、手元に残さなかったことを喜ぶものかもしれない。分かる方法は1つだけさ!{newline}あなたはどうする?"/>
+    <string id="DpjrnGrh" text="{ORIGINAL_TITLE}{newline}入口のそばで見慣れない男が待機している。"/>
     <string id="K3MHJOzf" text="{ITEM_NAME}を拝領いたした"/>
     <string id="fJSTQddC" text="{QUANTITY}個の{ITEM_NAME}を得た"/>
+    <string id="6ei05sr5" text="まあ、そういうこともあろう。次があれば良いこともあろう。"/>
     <string id="FdWQiM9X" text="ちょうどいい値付けだ!"/>
     <string id="D4WQ03TE" text="よいぞ。"/>
+    <string id="PnRQZEfa" text="さて、この一箱の値は{GOLD_COST}{GOLD_ICON}になり申す。されど貴殿には大した額ではないでしょう。"/>
     <string id="rKPe0b8E" text="仏門に連なる者たちは、神道の信徒よりも寺からの意見をより尊重する。"/>
+    <string id="EorZaHEK" text="ShokuhōにはMCMで変更できるオプションがある。"/>
+    <string id="uHCDjiRc" text="鉄炮、屈まば狙い易し。"/>
+    <string id="tlBJxwv5" text="自動で埋める"/>
     <string id="qUP6igXN" text="船の選択"/>
     <string id="K9QS4eWD" text="船の管理"/>
     <string id="yqAlpNPd" text="建造中の船"/>
     <string id="wqlYknP1" text="{DAYS}日{HOURS}時間で完成"/>
     <string id="6h99WKv3" text="{HOURS}時間で完成"/>
     <string id="JVRU6T5O" text="船を破棄する"/>
+    <string id="H9CNq8xg" text="この船を沈めるのに十分な積載量がない。"/>
     <string id="XtY41gHH" text="現在{TARGET_FERRY_PORT}行きの船に乗船"/>
     <string id="WIOVk1k3" text="ブラウザの画面を新たに立ち上げてShokuhōにバグ報告をします"/>
     <string id="AE4JbYQG" text="髪型"/>
     <string id="M4iP6HE1" text="髭"/>
+    <string id="9NbP7rjT" text="水軍の積載量"/>
     <string id="9lySqp0e" text="船の維持費"/>
     <string id="8dcJGf4Y" text="兵士の収容数"/>
     <string id="UfubPBGb" text="船"/>
     <string id="5LL6tJF1" text="船"/>
     <string id="zCMfrMFE" text="生産物"/>
     <string id="eQETfaPq" text="生産品"/>
+    <string id="RDcAv085" text="異文化の治安への影響"/>
     <string id="o1uA3x52" text="北陸文化の効果"/>
     <string id="pNBYwAZE" text="水戦"/>
     <string id="9QNnEpZF" text="てすと"/>
@@ -529,7 +544,9 @@
     <string id="ShokuhoE3CC5cdB" text="街道"/>
     <string id="Shokuho5272C982" text="浜辺"/>
     <string id="vNm8fo7R" text="海"/>
+    <string id="SqdpqFgu" text="本当に良いだろうか?"/>
     <string id="W9aYBhyT" text="この兵士を召し抱えますか?"/>
+    <string id="Ui98BXUq" text="兵に報酬を与えれば、編隊の他の全ての兵が経験値を得る。"/>
     <string id="dmNn1iRw" text="丹生島の湊"/>
     <string id="ei2gsY4H" text="黑瀨の湊"/>
     <string id="hTC8JuAs" text="日野江の湊"/>
@@ -1368,6 +1385,7 @@
     <string id="w65n9Jva" text="大畑"/>
     <string id="I64Wuxzl" text="田名部"/>
     <string id="ojRLdFub" text="隠れ家"/>
+    <string id="KEX5sbP0" text="[仮置き説明文]"/>
     <string id="BDnW3J67" text="山陽地方の西端の地政学上の要地である、本州と九州を分かつ關門海峡の近くにある串崎城は、港湾設備を持つ城と城下町であり、元は内藤氏の城であった。この城から周辺海域と物流を掌握し、西方への人の流れをせき止めることが可能である。"/>
     <string id="sRgUwjnw" text="中国地方のいくつかの主要街道の合流地点の付近に位置する、三本松城とその城下町は、領土拡張を目論む戦国大名たちの標的となってきた。軍事的重要性が薄れているようにも見えてきてもなお、物流の動脈の付近にあるという事実によって、この地域の統一を考える勢力にとっての重要目標となっている。"/>
     <string id="mW8IM8PG" text="当初は毛利氏によって小さな要塞化された集落として作られたこの沿岸の城は、住民の力が増すとともに、その重要性も増してきた。同時に丘の頂上に位置する城は、周辺一帯と海上交易路の掌握を保障する。"/>
@@ -1382,7 +1400,7 @@
     <string id="bF0R3AqG" text="深志は信濃國の山間部に、小笠原氏が領地を守るために建設した城と城下町であり、武田信玄の有名な城攻めまでは彼らが支配していた。その後は、武田氏が領地を拡張するための前線基地となった。"/>
     <string id="G1Gwql28" text="甲府は東山道南部の甲斐國の中心にある城下町であり、その起源から武田氏の拠点であった。しかし、近年の甲府の発展は、武田信玄が、甲府を拡張する版図の中心に据え、農業の保護と領民の生活の保障のために大規模な治水事業を行ったことによるものである。"/>
     <string id="KoEdsC34" text="駿府は数十年にわたって強大な今川氏の居城であり、その間城下町は、東海道に隣接するという地政学的重要性から、行政・交易・文化の中心として発展した。しかし、今川氏が織田信長によって敗れ、駿府その他の今川領を周辺の野心家の大名の手から守るものがなくなると、今川氏の権力は急速に削がれた。"/>
-    <string id="Bt4eiXyI" text="濱松は東海の城下町であり、今川氏によって流通の盛んな東海道の防衛の要として建設された。桶狭間の戦いの後に、勢力を伸ばした德川家康によって占領された。"/>
+    <string id="Bt4eiXyI" text="曳馬は東海の城下町であり、今川氏によって流通の盛んな東海道の防衛の要として建設された。桶狭間の戦いの後に勢力を伸ばした德川家康によって占領され、より強固な城が新たに建設中である。"/>
     <string id="pZBrZ9j6" text="岡崎は力を付けつつある大名の德川家康の生まれた地であり、參河国の活氣のある城下町である。德川氏の支配下で、この町は軍事拠点として強化され、この地域一体の德川氏の支配を確実にしている。城下町には侍・商人・職人が続々と集まり繁栄している。この町は旅人と軍隊に対する東海道の要衝となっている。"/>
     <string id="iyxZXmq2" text="京都と幕府を結ぶ街道の守りとして鎌倉の世に築かれた清須城は、長期にわたって尾張織田氏の居城であるとともに、周辺の氏族たちの政略と軍事衝突の舞台となってきたが、大名である織田信長が若き日に岐阜へ居を移した。拠点の移動によってその地位は低下したが、清須は要塞化され活氣のある重要な都市であり続けた。"/>
     <string id="nYD2Zvp6" text="東山道の奥深くに隠れるように、櫻洞城は日本中部の重要な街道を長年にわたって守りながら、姉小路氏の居城としての役割を果たしてきた。その高い立地から、眼下の村々への号令を容易にし、この地方一帯の交易や人の出入りを掌握することによる価値を生み出してきた。"/>
@@ -1400,23 +1418,38 @@
     <string id="8xv7T88d" text="観音寺は衣笠山の頂上に築かれた、一見静かな城と町に見える。この城はかつての所有者である六角氏の争いに何度も巻き込まれているが、天然の要害の守りが、幾度にもわたる城攻めを凌いでいる。"/>
     <string id="OZsf12k6" text="周辺地域を支配する淺井氏の要塞として築かれた小谷城は、急峻な尾根の上に築かれており、その守りがこの城を堅固な要塞としており、重要な交易路に隣接する立地は、城下町の繁栄を確実なものとしていた。"/>
     <string id="7o1ufRGz" text="小山は南九州の戦略的に重要な要塞で、肥後国の荒れた土地に根を張っている。山道は内陸部と西の沿岸地帯をつないでいる。"/>
-    <string id="GyIr6NHT" text="小規模だが戦略上重要な集落である内は旅行者や商人が国内を移動する際の重要地点である。町の立地は、周辺地域の掌握を欲するあらゆる大名にとって価値がある。"/>
+    <string id="GyIr6NHT" text="小規模だが戦略上重要な集落である内は、旅行者や商人が国内を移動する際の重要地点である。町の立地は、周辺地域の掌握を欲するあらゆる大名にとって価値がある。"/>
     <string id="7zKX3k7y" text="佐土原は九州南部にあり、何世代にもわたって伊東氏の居城の役割を果たした。肥沃な平野部と海上交易路に隣接していることにより、佐土原は行政の中心としても農業の中心としても繁栄し、伊東氏がこの地域一帯で勢力を拡大する際の根拠地となった。"/>
     <string id="reqICg9a" text="九州南西部の深い山の中にある人吉は、鎌倉時代以来の相良氏の居城である。その普請のさなかに、三日月形の石が地中から見つかったため、人々はこの城を三日月城とも呼ぶようになったと言われている。その伝承はさておき、人吉城は堂々たる要塞であり、かつてこの城を攻めた敵軍は、破滅的な末路を辿った。"/>
     <string id="1OHDyEtH" text="重要な海上交易路上にあり、なおかつ九州北部に近接しているという立地により、そして大友氏の持つ影響力により、丹生島は活氣ある城下町へと成長し、豊後國の政治の中心としても発展した。"/>
     <string id="DFE7hHDt" text="北九州の険しい山地にある城井谷は、日本列島西部へ進出する者を長年にわたり防いできた、要塞化された集落である。内陸部の主街道を見下ろす立地により、九州の覇権をめぐる争いが激化するにつれて戦略的重要さを持つようになった。城井谷は既にかつて、大内氏と大友氏の争いの的となっていたことがある。"/>
     <string id="fOOOFAf4" text="九州北西部にある柳川は、筑後川の堤の、いくつもの地域へとつながる交易路の交差点という戦略上の要地にあり、交易と軍事行動を促進している。"/>
+    <string id="JwSGTyTV" text="西九州沿岸部の交易路と山野による要害の立地に恵まれた隈本は、物流と地場産業により、安定して発展を続けており、城下町の繁栄と防衛をもたらしている。"/>
+    <string id="QK5trJCE" text="北九州の目を引く丘の立花山は元来、要塞化した集落を建設した立花氏の名にちなんでいる。立花氏は周辺地域一体を支配しており、立花山は陸路航路へとつながるとともに、主要交易路の保全のための要衝であった。"/>
+    <string id="kw7kEnWY" text="村中は西九州で長年にわたって要塞としての役割を果たしており、かつては高原地帯の中心一体にまで権勢を広げていた阿蘇氏の庇護のもとで、小規模な政権の中心として機能していた。南の嶋津氏と東の大友氏の圧力が強まり阿蘇氏の権力が先細った今、村中は脆さを見せている。"/>
     <string id="rRdiqxwR" text="日野江の城と城下町は、九州西岸の島原半島にある。集落の建設は鎌倉の世の始めに遡り、この地域の海上交易路を掌握し、近年は南蛮貿易も行う有馬氏の根拠地と主要な収入源としての役割を果たしてきた。"/>
+    <string id="RzWkXm61" text="中村は西四国の城下町である。山河に囲まれているという地の利のため、天然の要塞と米と木材を産む肥沃な大地という恩恵を受けている。"/>
     <string id="lhPHAUHU" text="四国の内陸部にある黑瀨は、内陸部の街道を掌握し、近隣の勢力に対抗する重要な防衛拠点という戦略上重要な場所にある城と城下町である。"/>
+    <string id="nyUeGzWY" text="湯築は西四国の要塞化された港湾都市であり、海上交易の玄関口として河野氏によって建設された。さほどの規模でないにもかかわらず、周辺の海賊衆と河野氏の間の非公式な同盟関係と、防衛に適した城の立地のため、湯築は繁栄している。"/>
+    <string id="wWXECumA" text="岡豐は四国南部の戦略上の要地にある城下町であり、鎌倉の世以来長らく長宗我部氏の本拠地であった。岡豐は近年の長宗我部氏への権力の集中のため、存在感を増している。"/>
+    <string id="QF8vgBEz" text="天霧は、天霧山の名にちなんだ要塞都市であり、香川氏の四国北部における拠点として建設された。戦略上の防衛の要地であることと、瀬戶内の沿岸に隣接していることにより、天霧は周辺一体の領地と交易路を支配するための重要な中心地となっている。"/>
+    <string id="McWUwCaM" text="臼杵は、大友宗麟が自らの領地拡大に際して主要拠点として建設した東九州の城下町である。干潮時にのみ九州本島へとつながる小島に位置する臼杵は、まさに沿岸を支配している。 TODO: 原文が牛岐と臼杵を混同している可能性"/>
     <string id="vEYNurYp" text="説明なし"/>
+    <string id="eIQDsF1J" text="会津黑川は、奥羽の南端に、蘆名氏が居城とすべく築いた城下町である。周囲から隔絶した立地により会津黑川は、近隣の大名との対立が最悪の事態になることを避けつつ繁栄できている。"/>
     <string id="mq4zhe9z" text="鎌倉の世に築かれた米澤城と城下町は、伊達氏がそれまでの支配者を追放すると、彼らの居城となり、周辺地域一帯の支配を目論んだ。"/>
+    <string id="ullPdzCT" text="山形は、最上氏がまだその名を名乗る以前から居城としてきた。多くの山河が守りをもたらすと同時に、山形を周辺地域一体の交通の要衝たらしめている。"/>
+    <string id="P7woV3wC" text="石巻は奥羽の南端で活気を見せている沿岸の都市であり、松島湾が天然の守りをもたらし、北上川が内陸部への主要な流通路の役目を果たしていることで、交易と漁業の拠点となる港として発展している。戦略面で好立地であることが繁栄をもたらしているが、この地の豪族たちの領地拡張のため軍事的標的とされることにもつながる。"/>
+    <string id="69FUsSqB" text="酒田は東北地方北部の主要な港湾都市である。とりわけ、日本海へ開けていることと、周辺の農地として豊かな土地とに近接しているため、城下町は交易の重要拠点として成長している。"/>
     <string id="QBjyZBVp" text="本州北部の風の吹きすさぶ沿岸部で、土崎湊は長年にわたって海上交易や本州から北國への物資の運搬の要地としての役割を果たしてきた。"/>
     <string id="4i6COw8g" text="山間部の主街道の側にある三戶は、出城としても機能する要塞化された町であり、交易や敵対勢力のいる国境へ軍の移動に必須の街道を守っている。"/>
     <string id="oUeaHLhb" text="本州の北の端にある十三湊は、北海道に住むアイヌたちとの重要な交易拠点であるが、厳しい冬と隔絶された立地が防衛を困難にしており、富の略奪を狙うものに対して脆弱である。かつては十三湊には繁栄した港と安東氏の政権の中心があったが、安東氏が他の土地に追いやられたことによって衰退した。"/>
+    <string id="pTwgbeAF" text="ここは隠居所だ。"/>
     <string id="stpD675i" text="裏路地"/>
     <string id="fR2M5ZdV" text="空き地"/>
     <string id="MAusOuPK" text="水辺"/>
     <string id="53876b79" text="私は{CLAN_NAME}の{CONVERSATION_CHARACTER.LINK}である。"/>
+    <string id="bc1YyTO4" text="今日かも知れぬし、明日かも知れぬ。だがなんであれ、なんじが自分の決断を悔やむ様を見よう。"/>
+    <string id="Shokuho52D658dF" text="なんじは降伏できるが、それがしはそれを望まぬ。なんじに刃を突きつけ、命乞いの言葉を聞きたいものよ。[ib:warrior][if:convo_mocking_predatory]"/>
     <string id="92BfC9e9" text="そうであった、汝に一度だけ、命乞いの機会を与えてやるべきだな。降伏する気はないか?[ib:warrior][if:convo_mocking_predatory]"/>
     <string id="8zqqDTbp" text="篝火"/>
     <string id="86793831" text="百匁大筒"/>
@@ -1569,7 +1602,7 @@
     <string id="CVwSl3hk" text="瑞鱗寺"/>
     <string id="ejDtH8Y0" text="赤城神社"/>
     <string id="GUFqF8DN" text="抜鉾貫前神社"/>
-    <string id="2oq4lE3Y" text="長楽寺"/>
+    <string id="2oq4lE3Y" text="長樂寺"/>
     <string id="yUnpSlWs" text="氷川神社"/>
     <string id="GYBhJBcH" text="法養寺"/>
     <string id="OZevhEZP" text="寒川神社"/>
@@ -1616,13 +1649,41 @@
     <string id="o0480f611" text="祭神、伊弉冉命・伊邪那美命・建沼河別命"/>
     <string id="a436458d" text="祭神、大山祇神・大日如来"/>
     <string id="bBB5fI4t" text="これは訓練場だ。"/>
+    <string id="GNP9jLDo" text="そこもとに暇があれば、我が身の上の話をいたそう。"/>
     <string id="YLn5hxVB" text="応仁の乱の時から、城攻め職人が主を替えた後に捕まることがあれば、悲惨な死を迎える。だが世は変わった。日之本の都は熟れた橘の実のように地に落ち、人々は太古のように高い防壁をめぐらせた。南海の大名は城攻め職人には金子を惜しみ、しばしば支払いは滞った。それで私は新しい仕え先があれば、鞍替えすることにした。"/>
+    <string id="SkUwSwLZ" text="我が父は先代将軍足利義輝仕えていた職人の一人だった。父らは捕らえた職人から訓練を受けていた。当時の我々は攻城兵器についてほとんど無知だった。父は足利将軍家以外の誰のためにも働くことを許されなかった。それを破ればおぞましい方法で処刑されただろう。しかし父は、息子である私に自分の知識を授けてくれた。そして今の世は多少は身動きがしやすくなった。おかげで私は自分が望む者の元で働けるのだ。"/>
+    <string id="RYWoN1qp" text="なあ、この店は小便のようなまずい酒ではなく、まっとうな酒を出すべきだと思わないか。すまん、何の話をしていた?ああ、そうだ、私の話だったな。"/>
     <string id="QEO5Wo1m" text="私は積年、龍造寺山城守殿のもとに馳せ参じている。物資にも金子にも十分な蓄えがある。近くの村におるあの娘は、大人しいが、元氣な子を産めそうな腰つきだ。盛大な婚礼を挙げたい。"/>
     <string id="X9IcvNnc" text="そこで、その娘の兄のもとを訪ね、馬二十頭を持参すると申し出た。だがその者は妹を「『お主ごとき』にはやらん」とぬかしおった。どういう意味だと食い下がったが、取り合おうとしないので一発殴ってやった。いや、殴ったのは一発だけではなかったかもしれんし、一発だけだったかもしれん。本当に傷つけるつもりではなかった。だがこの青二才めは、これがもとで死んでしまった。"/>
+    <string id="F1hLRHDo" text="私は年来、龍造寺隆信様に仕えて戦場で馬を駆った。その内、彼の屋敷にも居場所を用意されるはずだった。だが、より裕福な一族の者から侮辱を受け、その相手を殺めてしまった。彼にはとにかく多くの親族がいて、私はそれ以上そこにいられなくなってしまった。"/>
+    <string id="LWjvkvyj" text="私ははるか北からやってきた、高地の一族の出身だ。私たちのやり方があなたにとって、なじみのあるものかはわからない。とりあえず説明しよう。"/>
+    <string id="Shokuho46F1Ac4b" text="一族は皆、父の生前の評判が他者によって貶められると言った。もはや誰も私たちの牛や馬を盗むことも、妹たちを辱めることを恐れなくなると。そして私に選択を迫った。義務を果たすか、一族から絶縁されるかだと。それなら、それでいいと思った。私は追放されることを選んだ。どうしてこれ以上、人が死ぬ必要がある?"/>
+    <string id="HbBVafZh" text="ああ、世界にその名が轟く、偉大なる土默での生活について話してやろう。"/>
+    <string id="hjmaZSrv" text="私はアルタン゠ハンに仕えて戦っていた。だが、私はこの足で立って戦った。私の一族は草原地帯ではなく、都市の出身だったのだ。私たちの生活はまた少し違ったものなのだ。"/>
+    <string id="fKuxXywF" text="それがしは兵士を生業としており、尼子氏でに20年槍働きして仕えた。かつての彼らは畏敬の念を集めるに相応しかった。何年も共に戦ったが、戦いは我らにとって過酷だった。"/>
+    <string id="os4ZW2gc" text="だが、尼子義久は我々を月山富田城の備えとして送り出した。彼の地の戦いの激しさたるや、そなたも知っておろう。それがしは病のため出陣がかなわなかったが、同輩の多くは帰ってこなかった。あの時はもう、二度と戻っては来ぬのだ。"/>
+    <string id="08t1XV2r" text="城攻めの後、尼子氏は領地の再興もかなわず、山陰の北の小島へ逃亡することを強いられた。"/>
+    <string id="WvwT5D2l" text="それがしは尼子氏のもとで槍働きをしていた。ゆえに、それがしがこの哀れな状況に至った経緯はすでに我が同輩より聞いたことがあるに相違ない。だが、我々の戦いにおける勇敢さと、若者を兵 (つはもの) に育て上げる実績もよく知られているはずだ。"/>
     <string id="L64od7cC" text="少年の頃、私は村で一番の戦士だった。「まだ少年なのに、大人の戦士より強い」と人々は言った。これは自慢ではない。実際に皆がそう言ったのだ。だから私は大人になって出稼ぎをすることにした。"/>
+    <string id="PJY8IeMD" text="足軽がそれがしの初仕事だった。その中でそれがしだけが、真のもののふだと思い知った。みな小綺麗な衣をまとい、あちこち練り歩くのみで、何ヶ月間も刀すら抜かないのだ。それがしが自分の考えを述べると、足軽頭に口を慎むか去るように言われた。だから私はそこを去った。"/>
+    <string id="BDTsEQKa" text="その後それがしは堺で雇われの身になった。奴らはほとんどの時間を、鉄炮の扱いに費やしていた。ハッ! 私は敵の中に突っ込み、左右の敵を当たるを幸いと切り捨て続けた。後になって奴らがこう言ってきたんだ。「なにゆえ隊伍を乱したのか」とね。"/>
     <string id="8oc7bO2s" text="隊列に隙間を作るは謀反に等しい行いだと、誰からも教わらなかったのか?"/>
+    <string id="ShokuhoF50902f5" text="一つ教えてやろう、友よ。それがしは高くつく。足軽から始まり、堺の傭兵衆に加わり、報酬に見合った実力を持った様々な傭兵たちと共に戦ってきた。口で語るだけなら私と同じ実績の者もいるやも知れぬが、私は本物だ。"/>
+    <string id="XY76uN2m" text="少女のおり、盗賊どもが私を連れ去った。成長すると戦い方を学び、彼らの仲間になった。"/>
+    <string id="NIy8l5HF" text="かように殺戮を楽しむ戦士となり果てたのも我が宿命なのやも知れぬ。並の男どもなど、物の数にもならぬ。"/>
+    <string id="NDFxrOZq" text="罪も悔恨の念も覚えぬ。必要ならば殺し、故を尋ねることなどなかった。"/>
     <string id="rlHt9ZWE" text="面白そうだ。"/>
+    <string id="BYKVqoyU" text="これ以上言うことはない。それがしは身の程を心得ており、命令に従い、そして今ここにおり、それがしの知る唯一の生業で口に糊しようとしている。他人の血を流すことだ。"/>
+    <string id="HSjsEM2c" text="それがしは盗賊に育てられ、戦いを学んだ。殺しを楽しみ、できる限り多くを殺した。"/>
+    <string id="buxRNQSQ" text="身共は母を愛していた。それがしは男の子たちより足も早く、身体も丈夫だったので、母の望むままに何でもやってみせた。同じ年の子供たちの中で、最初に敵を殺した。調子に乗った母が自慢をし過ぎるものだから、他の女たちに嫌われ、野営地から追い出されてしまった。財産は持っていけないから、二束三文の値で売ってしまった。手元に残ったのは馬だけだった。そして当然、程なくして略奪者たちに見つかった。母は殺され、馬も奪われてしまい、身共は逃走した。"/>
+    <string id="YjjgGEG5" text="身共はしばし日の本一円を旅した。少々飢えを感じたが、身共は襲撃者たちを追っていた。そのうちの一人が焚き火を離れて、用を足しに行ったまま戻らなかった。そして身共は今、そやつの財布と刀を持っている。"/>
+    <string id="wFRMSMQD" text="手前は自分が野蛮な人間に産まれなかったことを、日々天道に感謝している。"/>
+    <string id="Iy7eNC0Q" text="それがしは商人の護衛の子供だった。母の顔は知らないが、父に大切に育てられた。街道では駄馬の脚の間を走り回ったり、宿でのうわさ話に聞き耳を立てたり、他の護衛に買ってもらった餅を食べながら育った。これ以上なく、幸せな幼少期を過ごした。"/>
     <string id="toWs4s58" text="そうして今に至る。結婚にはあまり興味ないが、デナールは好きだし、自由も好きだ。いつか見事な農場と、父の老後のために何人かの奴隷も揃えて、父を驚かせてやりたい。"/>
+    <string id="NaLmWKEQ" text="それがしは交易商人の護衛の子供だった。赤ん坊の頃は馬の横で揺られて過ごし、少し成長すると野良犬を追いかけるようになった。だが、商人は山賊などの恰好の獲物だ。それがしはそうした奴らの餌食にされるのは嫌だと考えるようになった。それがしには捕食者の側に回れる力がある。"/>
+    <string id="qKFHM8ZG" text="それがしは京で訓練を受けた医者だ。都市では裕福で影響力のある患者を多く診ていた。朝廷の陰謀や危機からは十分守られていると思っていた。"/>
+    <string id="Shokuho0a1D1D41" text="だがある日、朝廷の使者が訪ねてきた。そなたが彼らの事をどこまで知っているか分からない。初め、彼らはそれがしの患者に関する些細な情報を要求してきた。それに従うことは私の誓約に反していたが、どうしても帝の役に立ちたかった。だが彼らはすぐにより多くを、際限なく要求するようになった。"/>
+    <string id="qx2IjYqq" text="路上で暮らす女がいた。彼女は戦争で住処を追われ、小さな子供を抱えていた。まだほとんど赤ん坊だ。彼女にはその子以外に何もなかった。 火をおこして、小さな握り飯を作って暮らしていた。ある日、館から一人の青年が馬に乗って通りに現れた。彼はよそ見をしていて、周囲に何の注意も払っていなかった。そして彼の馬が、赤ん坊の頭を押しつぶしたのだ。"/>
     <string id="YLn5hxVB" text="応仁の乱の時から、城攻め職人が主を替えた後に捕まることがあれば、悲惨な死を迎える。だが世は変わった。日之本の都は熟れた橘の実のように地に落ち、人々は太古のように高い防壁をめぐらせた。南海の大名は城攻め職人には金子を惜しみ、しばしば支払いは滞った。それで私は新しい仕え先があれば、鞍替えすることにした。"/>
     <string id="YLn5hxVB" text="応仁の乱の時から、城攻め職人が主を替えた後に捕まることがあれば、悲惨な死を迎える。だが世は変わった。日之本の都は熟れた橘の実のように地に落ち、人々は太古のように高い防壁をめぐらせた。南海の大名は城攻め職人には金子を惜しみ、しばしば支払いは滞った。それで私は新しい仕え先があれば、鞍替えすることにした。"/>
     <string id="YLn5hxVB" text="応仁の乱の時から、城攻め職人が主を替えた後に捕まることがあれば、悲惨な死を迎える。だが世は変わった。日之本の都は熟れた橘の実のように地に落ち、人々は太古のように高い防壁をめぐらせた。南海の大名は城攻め職人には金子を惜しみ、しばしば支払いは滞った。それで私は新しい仕え先があれば、鞍替えすることにした。"/>
@@ -2279,7 +2340,7 @@
     <string id="99DDbC12" text="丹羽まさ"/>
     <string id="8b29352C" text="丹羽たけ"/>
     <string id="d4Af228B" text="池田恒興"/>
-    <string id="E7480d12" text="池田善応院"/>
+    <string id="E7480d12" text="池田善應院"/>
     <string id="0e80dceA" text="池田恒興"/>
     <string id="be7C5782" text="池田養徳院"/>
     <string id="DdBaB7a6" text="池田元助"/>
@@ -3970,7 +4031,7 @@
     <string id="3qxBLbew" text="まさ"/>
     <string id="XLXbashl" text="たけ"/>
     <string id="duYGUbdI" text="恒興"/>
-    <string id="Ry3yD8SW" text="善応院"/>
+    <string id="Ry3yD8SW" text="善應院"/>
     <string id="7PtkKC5L" text="恒利"/>
     <string id="a8fhiErH" text="養德院"/>
     <string id="mZrml2Ov" text="元助"/>
@@ -4070,7 +4131,7 @@
     <string id="fMcQDpxT" text="高統"/>
     <string id="fy68erIy" text="とも"/>
     <string id="wr8Xrdq3" text="統之"/>
-    <string id="jKoS0rtx" text="高応"/>
+    <string id="jKoS0rtx" text="高應"/>
     <string id="Yb8Jirco" text="繁長"/>
     <string id="NDluCjrj" text="もみじ"/>
     <string id="Ng1qk1bc" text="顯長"/>
@@ -5016,7 +5077,7 @@
     <string id="Z7HNxyjm" text="かたしろ"/>
     <string id="EPAOxYQz" text="基隆"/>
     <string id="wx2ueWmc" text="恵善院"/>
-    <string id="RvDxK05Y" text="頼武"/>
+    <string id="RvDxK05Y" text="賴武"/>
     <string id="hM5I9P0H" text="あまき"/>
     <string id="rWLTD0VP" text="茂元"/>
     <string id="1DquGOk6" text="はるか"/>
@@ -5361,7 +5422,7 @@
     <string id="1GCcC8FV" text="米良"/>
     <string id="5mXM9iS3" text="長倉"/>
     <string id="FfWqS9rv" text="肝付"/>
-    <string id="WMGq6j1n" text="相楽"/>
+    <string id="WMGq6j1n" text="相良"/>
     <string id="FHrTjQq8" text="犬童"/>
     <string id="hepAMIkF" text="天草"/>
     <string id="fHnbNu30" text="大友"/>
@@ -6262,7 +6323,7 @@
     <string id="KrJolclO" text="肝付領国"/>
     <string id="16fyo47M" text="伊東領国"/>
     <string id="aFBneNkA" text="阿蘇領国"/>
-    <string id="aiTAusH5" text="相楽領国"/>
+    <string id="aiTAusH5" text="相良領国"/>
     <string id="taM0M0u7" text="大友領国"/>
     <string id="kveCZElo" text="有馬領国"/>
     <string id="uIMPOA8l" text="龍造寺領国"/>
@@ -6300,7 +6361,7 @@
     <string id="nuOTMFnL" text="肝付勢"/>
     <string id="0rDc1SBx" text="伊東勢"/>
     <string id="EFBD0B8" text="阿蘇勢"/>
-    <string id="qZ86Dhcd" text="相楽勢"/>
+    <string id="qZ86Dhcd" text="相良勢"/>
     <string id="p6llIAZ9" text="大友勢"/>
     <string id="HCBBJbxX" text="有馬勢"/>
     <string id="5HSblONo" text="龍造寺勢"/>
@@ -6830,14 +6891,19 @@
     <string id="zPkDoxkU" text="zPkDoxkU/Kerkos"/>
     <string id="mpnSLYUt" text="mpnSLYUt/Assikon"/>
     <string id="PiblnoTV" text="PiblnoTV/Gournaphos"/>
+    <string id="jRsXgP4p" text="袖の下を受け取るのを認めた村人たちが襲ってきた。逃げ出した村は、今や完全に一揆勢に掌握された。自分の行動が事態を悪化させたため、{QUEST_GIVER.LINK}は激怒している!"/>
+    <string id="51TOv5yV" text="徴税吏の護衛と戦おうとしたが、敗走した。彼らは立ち去った。村で正義を執行し損じたが、問題は解決した。"/>
     <string id="eyYSXAYZ" text="水上移動"/>
     <string id="yULrgzDc" text="山陽の水上ボーナス"/>
     <string id="O4taxYRX" text="東山の地形ボーナス"/>
     <string id="URx8JRet" text="試合の規則は日本中どこでも同じだ。対戦相手はくじ引きで決める。団体戦をすることもあれば、一対一で戦うこともある。"/>
+    <string id="EyRAR9Kg" text="なら話は早い! これは今や日の本全國に広がった、太古からの習わしだ。往時には100人の死刑囚に剣を与え、砂が血で真っ赤になるまで互いに斬り合わせたと言う![if:convo_merry]"/>
     <string id="liYvZ9FU" text="酒一杯"/>
     <string id="9RDSUiHI" text="根深汁一椀"/>
     <string id="khqKZM8U" text="「黑船の全ての小判のために{NEWLINE}大明国の全ての朝貢のため{NEWLINE}雲南の全ての霧のため…」"/>
+    <string id="52wFk01W" text="いいえ。奴婢商人など、日頃は稀でございます。昔、武家の一族郎党が互いに争っていた頃は敗北した方が奴隷となるのが常でした。それが戦のまかないだったのですから! ですが今では好む好まざるにかかわらず、奴隷は実用的ではございません。戦乱が広がり、捕虜が脱走する隙が多過ぎるのです。されども戦で儲けられなくなったわけではありません。まだまだ儲け話はあります!"/>
     <string id="FBuhv8Jg" text="猿が松の木に登って歌う。「大名のお氣に入りの酒を盗んだぞ」{NEWLINE}カラスが羽を鳴らして応える「甲斐の領主様がまた酔いつぶれておるぞ」"/>
+    <string id="JsW9KxLD" text="三好氏はかつて大坂を公平に治めた。だがその陰では匕首の刃が煌めいていた。{newline}明かりが一つづつ消え、廊下には疑念の囁き声が響く。"/>
     <string id="ttL93wls" text="信長公はいつも何かを企んでいる。火縄銃と夢物語の話ばかりをする。一夜で城を建てたかと思えば、道中の十の寺を焼き払う。"/>
     <string id="dWF3fKhE" text="長宗我部は稲作を自ら育て、息子は鼠の一家のように多い。{newline}島は眠りにつき、だが長くは続かない。彼は農民に強くなる術を教える。"/>
     <string id="Zs3yoCF0" text="延暦寺の高僧が鐘を撞き、悪魔もろとも逃げ散りけり{NEWLINE}されど悪魔笑ひて夜を明かす、「汝の祈りは弱し、さあ一飯」と言いにけり"/>
@@ -6946,7 +7012,8 @@
     <string id="D2pz95kj" text="肝付の乱は嶋津家によって鎮圧された。肝付家は自らの自由を差し出し、嶋津に従属を誓うことを強いられた。"/>
     <string id="fwFVIKuz" text="武田・北條・今川三家の脆い同盟はついに破綻した。武田は德川の支援のもと今川の支配する駿河に進軍したが、上杉家が援軍を承諾した。今や、武田家はほとんど味方もいない状態で二つの敵に相対している。これが中部の命運を決することになるだろう。"/>
     <string id="58dSykhX" text="足利義昭は織田信長に擁立され、自らを日本の正統な将軍であると宣言した。織田家の軍勢は京へと進軍を開始した。彼らが京への道の阻む者たちを一掃できれば、義昭は将軍となるだろう。"/>
-    <string id="ct2luxgw" text="反乱した肝付はとうとう嶋津家を打倒し、自らの独立勢力を築き上げた。嶋津は彼らの独立を呑まざるを得なかった。"/>
+    <string id="Y4PtI5ZX" text="本庄の乱はとうとう上杉の撃退に成功し、自らの独立勢力を築き上げた。嶋津は彼らの独立を呑まざるを得なかった。"/>
+    <string id="ct2luxgw" text="反乱した肝付はとうとう嶋津家を撃退し、自らの独立勢力を築き上げた。嶋津は彼らの独立を呑まざるを得なかった。"/>
     <string id="wPJYRmf5" text="船の維持費"/>
     <string id="4TWfU55y" text="賃金"/>
     <string id="TNB0RpDt" text="船の維持費"/>
@@ -6998,16 +7065,23 @@
     <string id="RRh7tpYZ" text="動員令"/>
     <string id="jIBNcHK5" text="領内に兵を派遣し、武器を没収させることは反乱を成功させにくくする。さらに、武士には武装を許可し、百姓には禁ずることで、平民階級と貴族階級の分割を促進する。"/>
     <string id="rkxUnIPf" text="刀狩"/>
+    <string id="eLaOLHCX" text="村八分"/>
     <string id="IxbGb5os" text="外国人顧問"/>
+    <string id="JVR5WVFs" text="人質を外交に利用すること"/>
     <string id="SSl4gkwh" text="親族を取引の手段として利用することは、勢力感のつながりを強固にし、盟約を確実に守らせる効果的な手段である。人質は極めて外交の助けになるが、勢力の影響力を失う。"/>
     <string id="UGrZNVUg" text="人質外交"/>
+    <string id="khuPBoIW" text="宗教への影響が領内に拡大するにつれ、より熱狂的な信仰者が現れる。このような宗教的熱狂を促進することで、宗教指導者が、自身と信仰を同じくする領主へ戦力をより供与するようになる。"/>
     <string id="MWwnFMyX" text="宗教的熱狂"/>
+    <string id="UOJciCIl" text="遠国との交易機会と、軍船の品質の向上の必要から、船大工に高品質な資源を優先して供給する。村からの収入と引き換えに、勢力の領内では安価で速い船が作られると同時に、港湾都市が発展する。"/>
     <string id="7Hpm5QtC" text="海上移動の優先度"/>
     <string id="jdOF6aeb" text="土地を寄進している"/>
     <string id="9ggpdQ2k" text="領主は自領を寺社に寄進できる。寄進された領地は一国の主であっても占領が難しい。"/>
     <string id="O0Tyn8EQ" text="土地の寄進"/>
+    <string id="zVxGmYAL" text="毎日、集落の繁栄+2{newline}毎日、クランの影響力-1{newline}集落の税収+15%{newline}毎日、集落の忠誠-1{newline}毎日、集落の治安-1{newline}毎日、集落を所有するクランに対する有力者からの影響力-0.25{newline}城攻めで海大筒を使用できる"/>
+    <string id="BrPGVFVw" text="この地に舶来品市を開くと、珍しい衣や技術や文化が地域一体にもたらされる。輸出入の機会が新たに増えるが、有力者や商人たちの中には、地場産品との競争の発生に不満を持つ者も現れる。"/>
     <string id="oiIiCvRk" text="外国との貿易"/>
     <string id="3MOWcJtw" text="集落の繁栄が2日ごとに減少する{newline}集落の税収-5%{newline}攻城戦の攻撃時に弾薬箱が使用できる"/>
+    <string id="jdXFG0m4" text="城攻めの際に兵站が複雑になることを防ぐため、都市に対し物資の市場流通を制限する。これにより、物資が攻め手の軍に優先して供給されるが、同時に都市の繁栄に負の影響をももたらす。"/>
     <string id="jSJruOkV" text="戦の備へ"/>
     <string id="7rVB5l3B" text="信仰"/>
     <string id="HDm2PYc6" text="織豐"/>
@@ -7015,6 +7089,7 @@
     <string id="9XDz0XWt" text="無効な女性名"/>
     <string id="CCP9WRpk" text="({SHIP_COUNT})"/>
     <string id="xMZarEbH" text="{SHIP_COUNT}"/>
+    <string id="xKr1gKEv" text="水上では待機できない"/>
     <string id="3TTK05OC" text="{HERO}隊"/>
     <string id="v9WXXzOF" text="{HERO}隊"/>
     <string id="8SKuKDrK" text="この文章は見えては行けないものです。もしこれを見た場合は、現在の状況を詳細に説明し、Foozle タグを付けてバグ報告してください。"/>
@@ -7022,6 +7097,7 @@
     <string id="kj91FkjI" text="資金が足りない"/>
     <string id="QwKutvoR" text="義昭"/>
     <string id="R0b1swdW" text="足利義昭"/>
+    <string id="sQhlKwNo" text="さこ"/>
     <string id="jWxjvzFc" text="足利さこ"/>
     <string id="h4V8OBPq" text="負傷中に主君を見限ることはできない"/>
     <string id="K1jcEV7B" text="負傷のため戦闘に参加できない。"/>
@@ -7049,10 +7125,17 @@
     <string id="Cmsp8IqT" text="不審な人々"/>
     <string id="t5KdHb4f" text="待て。争う氣はない。すぐ失せよう。"/>
     <string id="Qo43Umx4" text="侍"/>
+    <string id="ZXoqNwge" text="{HERO.LINK}の家宝を見つけ、持ち帰ろう"/>
     <string id="naPQeidR" text="{HERO.LINK}と話した。"/>
     <string id="3CGtW7Eb" text="職人たちは、盗賊がいるかもしれない所をおおまかに示した。奴らを討伐しよう。"/>
+    <string id="mrtyYomm" text="木材を集める必要がある"/>
     <string id="8PNrndxK" text="真か? ふむ、興味深い。数日前に、みすぼらしい身なりの集団が市の近くに現れ、妙に高価な品物を売りさばこうとしていたのだ。"/>
+    <string id="RZrnG3EV" text="では家宝を見つけたのか?"/>
+    <string id="cYjIw6Yd" text="左様です。では褒美を頂戴いたします。"/>
     <string id="8IkbmFSh" text="うむ、良い。去って可し。汝への報酬だ。"/>
+    <string id="eBYexU7y" text="いいえ、十分に銭を払うまで、返したくございませぬな。"/>
+    <string id="I5o43gfd" text="何?! この狡い蛇野郎め。これを取って二度と戻ってくるな。"/>
+    <string id="OAgsKR8Z" text="何?! この盗人めが。今すぐ去ね。"/>
     <string id="cqA0b1Zy" text="{CHANGE}{GOLD_ICON}獲得した"/>
     <string id="iR1Js0Uj" text="そのとおりです伴天連殿。いかんすればよいか教えてくだされ!"/>
     <string id="vYNjPfBr" text="ふむ? 面白い話だ。よく聞かせ願いたい。"/>
@@ -7089,7 +7172,11 @@
     <string id="ROqT6Ouq" text="安宅船"/>
     <string id="jnreT1n3" text="大安宅船"/>
     <string id="bXOuf7bI" text="鉄甲船"/>
+    <string id="DJ32b9ft" text="これは自分の水軍が運搬できる兵の数だ。出航するには兵の総数よりも多くの収容数が必要だ。"/>
+    <string id="QGCm0lX1" text="これは自分の水軍が運搬できる荷物の量だ。出航するにはインベントリの総重量より多くの運搬容量が必要だ。"/>
+    <string id="yrhAARva" text="これは自分の船団が保有できる船の数の上限だ。上限を増やすには、名声を得てレベルを上げる必要がある。"/>
     <string id="vyua3DAV" text="左側の船が取り壊される。"/>
+    <string id="1R7MxsfO" text="これは自分の船団の1日あたりの維持費用の合計だ。"/>
     <string id="juttbS06" text="兵の詳細"/>
     <string id="uZzDMUQb" text="兵を取り立てる"/>
     <string id="A5dCSCU0" text="兵士の収容数"/>
@@ -7126,6 +7213,8 @@
     <string id="jXNpbKGC" text="宋朝までに書かれた軍事著作の、曾公亮の編纂集。各巻は一連の軍事知識に関する理論と訓令と、様々な攻城兵器や防衛装置についての記述で埋め尽くされている。"/>
     <string id="i0g76dhq" text="戦場跡とは、戦場で2つの勢力が衝突した跡で、死体が地に打ち捨てられています。これらの死体は、ひと財産に値する鎧や武器を身に着けていますが、剥ぎ取るには危険が伴います。もの漁りたちが、これらの品を奪い取りにあちこちから集まってくるため、あなたは彼らに叩き出される前になるべく多くのものを手にすために争う必要があります。{NEWLINE}戦場跡は、2つの勢力が衝突し、一定以上の犠牲者が出た場合に発生し、そのしきい値はオプションで設定できます。戦場跡に入ると、あなたに数名の部下が付き従います。その人数はあなたの悪行スキルに依存します。戦場後には他の物漁りたちがすでにいて、戦利品を集めています。マップ上にはいくつかの戦利品の山があり、調べると戦利品を得られます。Altキーを押すと、山の位置がわかります。部下に山から物を漁るよう命令もできます。左クリックで編隊を選び、山をクリックすると漁り始めます。{NEWLINEを}敵のもの漁りたちは戦利品に夢中で、プレイヤーに妨害されるか、かれらの取り分を奪うと初めて攻撃するようになります。もの漁りは通常の兵よりも臆病で、負傷すればすぐ逃走します。もの漁りたちはあなたの戦利品になるかもしれないものを先んじて手に入れようとするため、彼らと競争するか、十分な勇氣があれば、彼らを倒すこともできます。あなた独りで取れるだけのものを取り、通常のマップと同様の赤い境界線まで行って退却すれば、入手したものがすべて戦利品として得られます。{NEWLINE}時間が経つと、飛び道具を持っていたりより強力な防具を身に着けた敵の数が増えます。プレイヤーが戦利品漁りをしていると、彼らはあなたを標的にします。そのため、彼らには十分注意し、あまり長居しないよう、そして倒されないよう注意する必要があります。"/>
     <string id="TmU0OGY8" text="鉄炮は日本の歴史で重要な役割を果たしている。その設計は西方から持ち込まれ、日本で大量生産された。種子島と知られるそれらマスケット型の火縄銃は、極めて危険で、日本の具足を簡単に貫通するものだということが証明された。Shokuhōでは、ピストル、マスケット、そして大筒やハンドガンのように様々な種類の鉄炮が登場する。{newline}鉄炮は適切な扱い方を心得ていれば大ダメージを与え、高い精度を持つが、装填に時間がかかる。撃ち手は騎馬突撃に脆いため、白兵を持った者たちに守らせねばならない。もし鉄炮兵相手に苦戦するなら、少し距離を取ったところで一斉射撃を誘い、すかさず騎馬を急接近させ再装填を邪魔しよう。{NEWLINE}最前列で鉄炮を扱う兵は立膝姿勢で発射し、2列目はその上から発射する。プレイヤーもしゃがんだ姿勢から発射するとよいだろう。しゃがんだ姿勢からの射撃はより安定する。これは隊列の兵が自動で行い、射手も同様のことをする。"/>
+    <string id="quokpMTR" text="日本列島はいくつかの島で成り立っているため、旅するには船が必要になる。船は港で得られる。日本には多くの港がある。日本全國を旅するには、自分の船を調達する必要がある。港では船を買ったり、建造したりできる。大きな船ほど、多くの建造時間と金がかかる。Hキーを押すか、画面左下のアイコンをクリックすると水軍管理画面を開いて建造中の船を確認できる。{newline}{newline}自軍を運ぶのに十分な数の船があれば、「帆を張る」ボタンをクリックして水上に進出できる。船を買う資金がないなら、特定の行き先が決まっている連絡船を使用できる。連絡船は部隊の規模と、運んでいる荷物の量に応じて利用料金が増える。"/>
+    <string id="WRnHpCFa" text="海戦はShokuhō独自の機能です。16世紀の日本の海戦を体験するために、一から設計されています。{newline}{newline}海戦はカスタムバトルとキャンペーンで動作します。カスタムバトルでは、船は兵の数に応じて自動で選ばれます。キャンペーンモードでは、どの船に、どの兵を乗せるかをプレイヤーが選ぶ専用のUIが現れます。全ての海戦は海上で発生し、最初はお互いに離れた状態で始まります。プレイヤーは簡単な命令で船を操作し、船はそれぞれ独自の隊形をとります。プレイヤーは対象の船に編隊に移動命令を出して特定の地点へ移動できます。船に突撃命令を出したり、一番近い敵の船に接近する命令をだしたりできます。船に敵の特定の船を標的にする命令を出すと、その船へ向かって航行します。停船命令を出して船を停止させることもできます。それ以外の全ての移動命令は、海戦では効果がありません。{newline}{newline}船の後方にある操舵手の位置へ移動し、使用することで船を直接操作することも可能です。移動キーを押して船を操舵できます。{newline}{newline}船は沈没したり失ったりすることがあります。船はダメージを受けすぎると沈没し、乗船中の者は一定の確率で死亡します。もっとよくある沈没の原因は、衝突による損傷です。何度も衝突した船は多くのダメージが蓄積し、それが一定以上になると沈み始めます。大筒も船に対して大きなダメージを与えます。船が沈み始めると、少しづつ水面が上昇していきます。自分の船が沈没した場合、戦闘に勝利したとしても船を失うことになります。海戦で敗北した場合は、持ち込んだ船全てを失うことになります。{newline}{newline}水上に落ちたキャラクターは溺れて死亡します。この際に独自のアニメーションが発生します。よって、乗船しているあらゆる兵にとって、沈没は命取りです。{newline}{newline}接舷攻撃は海戦での主な攻撃手段です。近くにいる2つの船が互いに接舷し、同じ方向で並行しており、かつ移動していない場合に接舷できます。前後の向きが逆でも接舷できます。接舷行動が始まると、船はゆっくりと並走するようになり、互いに衝突するまで飛び道具による攻撃を続けます。この行動が発生すると、兵は相手の船に乗り移るようになります。乗り移る兵は、プレイヤーがどの編隊に突撃命令を出しているかによって決まります。相手の船に接舷完了している際に、相手に接している側の船べりで「使用」キーを押してプレイヤー自身も相手の船に乗り移れます。相手の船の敵兵が全滅すると、兵は自分の船の配置に戻り、他の敵船を攻撃するために離れます。{newline}{newline}{newline}{newline}{newline}{newline}"/>
     <string id="m2AfE7ai" text="決戦場は日本之国のあちこちに点在する。ここでは剣客と決闘を行える。ここでは高難易度な一対一の戦闘が想定され、視覚的な演出や、特にこだわって作られた背景が用意されている。決闘に勝利すれば名声を得られ、全国で名を知られるようになるだろう。"/>
     <string id="9N832L1k" text="寺社は中立の集落で、プレイヤーとNPCクランが特殊な兵を雇用したり、スキルを上昇させる書物を購入したり、歓心を得るために寄進を行う場所だ。寺社は信仰の異なるいくつかの種類がある。ある寺社への寄進は、その寺社だけでなく、同一の信仰に従っている全ての寺社との関係を良好にする。"/>
     <string id="q9tuSkwf" text="陣幕とは、プレイヤーが軍隊の編集を行う機能だ。ここで兵を取り立てて近臣としたり、読む書物を選んだり、あるいは軍隊を回復させたりする。陣幕で待機すると、露営よりも早く体力が回復するが、集落で待機するよりは効果が低い。"/>
@@ -7148,6 +7237,7 @@
     <string id="60nJZSa2" text="西海道とは日の本の国の最西端であり、九州島を含んでいる。京での幕府の権力争いから離れ、大陸に近いこの地域は、海運と交易の拠点として成長し、明国や朝鮮国からの交易商人、そして近年になってやって来るようになった南蛮人によって、新しい品や思想がもたらされていた。西海の人々は伝統的に外国との海上交易を行ってきたが、この豊かな貿易航路を荒らそうとする倭寇の脅威の中で、島々を掌握するべく戦うことには、疑問の余地はなかった。"/>
     <string id="6D9iLFzI" text="金砕棒"/>
     <string id="VbkKKYfL" text="坂東旗本の追加費用"/>
+    <string id="EorZaHEK" text="ShokuhōにはMCMで変更できる設定項目がある。"/>
     <string id="Q6uJcuFa" text="牢人の{FIRSTNAME}"/>
     <string id="mAVRtypJ" text="鉄炮兵の雇用とアップグレード費用-10%"/>
     <string id="URMZx9si" text="行商の結成費用-25%{NEWLINE}交易ペナルティ-15%"/>
@@ -7199,6 +7289,7 @@
     <string id="x8w3hU4v" text="人影に近づく"/>
     <string id="l34htB5I" text="あなたの{?RESULT}勝利{?}敗走{\?}のうわさが、近くの{SETTLEMENTS}の有力者の耳に届いた"/>
     <string id="9XjG5X7t" text="戻る"/>
+    <string id="6pj4XoLz" text="決闘に勝利し、いくつかのアイテムを得た。"/>
     <string id="Xn0QkL0S" text="港"/>
     <string id="QeirKB2F" text="渡し船に乗る"/>
     <string id="CVsda4gS" text="帆をかける"/>
@@ -7212,8 +7303,9 @@
     <string id="YXj30vc3" text="{PORT_NAME_4}への渡し、{GOLD_COST_4}{GOLD_ICON}。"/>
     <string id="wSTrgsrS" text="{PORT_NAME_0}への渡し、 {GOLD_COST_5}{GOLD_ICON}。"/>
     <string id="Omjhrb65" text="メニューに戻る"/>
-    <string id="pocCosmq" text="ここで戦があったらしい。戦場には散らばる骸が、獣に荒らされるのを待つのみだ。{LOOT_AMOUNT_ADJECTIVE}くらいの戦利品が見つかりそうだ。"/>
+    <string id="pocCosmq" text="ここで戦があったらしい。戦場には散らばる骸が、獣に荒らされるのを待つのみだ。{LOOT_AMOUNT_ADJECTIVE}くらいの戦利品が見つかりそうだ。この場所に立ち入るなら、欲をかきすぎないことだ。身の危険を感じたら、一目散に逃げ出そう!"/>
     <string id="TBDYMLy9" text="戦場に入る"/>
+    <string id="kj7G2ihH" text="自分と兵たちが漁ってきた戦利品を集めた。"/>
     <string id="QPvDWCC9" text="境内に入る"/>
     <string id="f3OXL4mr" text="寺社に寄進する"/>
     <string id="2BtW1OPo" text="兵を雇う"/>
@@ -7229,6 +7321,7 @@
     <string id="svMdxa7a" text="陣幕を解体する"/>
     <string id="D13UXlm4" text="隊に戻る"/>
     <string id="hK1PJUE4" text="あなたの軍に加わりたい。"/>
+    <string id="9JZPp3Vy" text="{ASK_TO_ENLIST_TEXT}{?PLAYER_HAS_TROOPS}{?}そして、現在の軍隊の指揮を放棄する必要がある。{\?}"/>
     <string id="nEBjy46U" text="いいだろう。"/>
     <string id="rYxVohke" text="よろしい。我が陣営によく来てくれた。よく仕えれば、よく報いてやろう。"/>
     <string id="9fR25fGF" text="考え直した。やっぱりやめだ。"/>
@@ -7237,10 +7330,12 @@
     <string id="UvLq4P5o" text="行け"/>
     <string id="g5FOdxmW" text="お暇を頂戴いたしたい。"/>
     <string id="aBYOUP5U" text="申し訳ない。何でもありません。"/>
+    <string id="hdcYCsjI" text="申し訳わけありませぬ。槍働きを終わらせるに余儀ありませぬ。"/>
     <string id="u6BaGEmo" text="相わかった。さらばだ。"/>
     <string id="JtLrGtlA" text="やはり考えを改め申した。これからも仕えさせてくだされ。"/>
     <string id="dbMgwhr4" text="許す。隊に加わるが良い。"/>
     <string id="Vvb2Xwav" text="良かろう。良く仕えてくれ。"/>
+    <string id="JtKAxYIu" text="それから、そなたに私の装備を与えよう。そなたの自由にしてよい。合戦ではそなたの身を守ってくれるだろう。"/>
     <string id="zrM4ZxGS" text="現在、{ENLISTEDLORD}に足軽として仕えている。{STRATEGY}。"/>
     <string id="rpCpoGfQ" text="大将と話す"/>
     <string id="RN1dRm0T" text="{ENSETTLEMENT}に入る"/>
@@ -7264,7 +7359,21 @@
     <string id="4JzI7Y4f" text="抜擢可能な兵士がいる"/>
     <string id="PNOUdlaK" text="撃ち方"/>
     <string id="UxhnhDg9" text="騎馬弓兵"/>
+    <string id="F9t5hHUJ" text="我々の{NAME_OF_UNIT_TYPE}の数が不足しており、より雇うべきだ。"/>
     <string id="2Y3uXKQ2" text="{NAME_OF_UNIT_TYPE}の頭数が多すぎる。{NAME_OF_UNIT_TYPE}をよく支えられる別の兵種を雇うか、既にいる{NAME_OF_UNIT_TYPE}を解雇するか考えるべきだろう。"/>
+    <string id="1XUTc2Nw" text="我らの{NAME_OF_UNIT_TYPE}は戦働きのない農民同然です。稽古を付けてやらねば、犬死にしかねません。"/>
+    <string id="kRyEZCl7" text="我らの{NAME_OF_UNIT_TYPE}は全くの穀潰しではありませぬが、手元すらおぼつきませぬ。稽古を付けてやらねば、次の戦で損害が出ましょう。"/>
+    <string id="UmUhAbI6" text="我らの{NAME_OF_UNIT_TYPE}には十分に稽古を付けており、良い備えになるでしょう。"/>
+    <string id="VVqyMSGx" text="我らの{NAME_OF_UNIT_TYPE}の腕は優れ、戦場ではよく働いてくれるでしょう。"/>
+    <string id="EeSEFEoG" text="我らの{NAME_OF_UNIT_TYPE}は並ぶものなきほどの腕前です。戦場ではきっと敵の隊伍を打ち崩せるでしょう。"/>
+    <string id="ynvQ94rJ" text="この会話文は表示されてはいけません。発見した場合はShrike (作者) に報告してください"/>
+    <string id="OV0Jx5tJ" text="我らの{NAME_OF_UNIT_TYPE}の隊伍は完全に無秩序で、戦場の最初の合図で烏合の衆となりましょう。ただちにかような有り様を改めるべきです。"/>
+    <string id="dBgTatJ7" text="我らの{NAME_OF_UNIT_TYPE}の隊伍は統制がとれておらず、大戦を交える前に改めるべきでしょう。"/>
+    <string id="ssSGwJnV" text="我らの{NAME_OF_UNIT_TYPE}の隊伍は良く統制が取れており、戦への備えができています。"/>
+    <string id="TvJmOMe1" text="我らの{NAME_OF_UNIT_TYPE}の隊伍は優れており、戦で劣勢にあってもよく働くでしょう。"/>
+    <string id="y2IKNpXZ" text="我らの{NAME_OF_UNIT_TYPE}の隊伍はこの上なく優れており、まさに敵を打ち砕くための備えができております。"/>
+    <string id="5BdXJHHh" text="我々の銭の蓄えは減っており、すぐに兵への支払いができなくなることが心配だ。工房を建てたり、交易商人を雇ったりして金策すべきであろう。売り払える武具防具があれば、短期のまかないにはなる。よその村を略奪してもよいが、それは好ましい選択ではない。"/>
+    <string id="pMcvT77B" text="兵糧が減っている。軍を良く動かすには大量の物資が必要だ。物資の蓄えをいますぐ確保しよう。"/>
     <string id="9UfLd5R9" text="兵どもの士気が悩みの種だ。今、我々は厳しい状況にあり、脱走を企てる噂も聞いた。食糧の種類を増やすか、さもなければ他の手を使い、士気を高めるべきだ。"/>
     <string id="oNW3TBci" text="[DEBUG] ApplyFinalEffect called"/>
     <string id="xy3cU9cP" text="松前蠣崎"/>
@@ -7367,12 +7476,14 @@
     <string id="Ol5DdN9s" text="シェーダーのコンパイル"/>
     <string id="ALDVQWST" text="シェーダーのコンパイル中です。残り {NUM}"/>
     <string id="Ho7NV6cW" text="シェーダーのコンパイル中です。お待ち下さい。"/>
+    <string id="hGldIz36" text="シーン"/>
     <string id="BsBOSmUu" text="規模"/>
     <string id="emENhm0F" text="接続"/>
     <string id="pJ2lDJzO" text="信仰"/>
     <string id="rC4lHHH9" text="繁栄"/>
     <string id="b1SrSoOO" text="君主のクランに税金として払われる村の収入+5%{newline}一族の村からの税収収入-5%"/>
     <string id="22jztq3h" text="特定の商人に市場での独占権を与えること"/>
+    <string id="NBa1B6CI" text="毎日、君主の資金+(領内の都市の数)x100{GOLD_ICON}{newline}毎日、集落の忠誠-1"/>
     <string id="llEjLwul" text="湊で船から料金を徴収すること"/>
     <string id="FH7tvZJG" text="商人と市場への規制を緩和すること"/>
     <string id="mbNv1Fmn" text="支配者の軍隊結成の影響力コスト-30%{newline}支配者の率いる軍隊の結束力コスト-30%{newline}支配者でない領主の軍隊結成に必要な影響力コスト+10%"/>
@@ -7447,9 +7558,23 @@
     <string id="97SdUgUS" text="村の住人たちと話しをすると、最近の不安の原因は重い年貢であった。{QUEST_GIVER.LINK}によれば、ここ数年は年貢の量を変えていないというから、おかしな話だ。{TARGET_VILLAGE}のどこかにいる徴税吏に話を聞くべきだろう。"/>
     <string id="9zl7sjhB" text="徴税吏を{QUEST_GIVER.LINK}へ引きた渡する前に解放した。{TARGET_VILLAGE}に対して裁きを下せなくなったが、問題は解決した。"/>
     <string id="65QbGjNc" text="{QUEST_GIVER.NAME}は、この騒ぎは理のないものだと考えている。言え、徴収した金を誰が運んだ?"/>
+    <string id="3fDsNjP1" text="いかがいたしましたか?[ib:confident][if:convo_confused_annoyed]"/>
+    <string id="weB8ylYp" text="私はこの村の内情をあらため、動揺を鎮めるために遣わされた。村の者は年貢が増えたことに不満を言っておる。何か知っておるか?"/>
+    <string id="oE3YqB5P" text="ああ! 村人がまるで泣きわめくややこのようです。持ち合わせ全て取り上げられるというので、銭を隠しております。領内の安寧のためさらに年貢が必要だ、領主様の{QUEST_GIVER.NAME}の命令だ、と言っております。ですが私にはもう手の打ちようがない。領主様の意に従うしかありません。[ib:nervous2][if:convo_annoyed]"/>
+    <string id="NtRvacoB" text="あやしき話だ。{QUEST_GIVER.NAME}様は、年来、年貢の額を変えておらぬと言う。そなたが勝手に額を変えておるのではないか。"/>
+    <string id="PyQOxf1i" text="も少し、我々がまかなえるほどに年貢を軽くしてくださらぬか。いや、この言葉は聞き流してくだされ。持ち合わせで良ければ、手持ちの銭袋をお納めいたします。[ib:nervous][if:convo_nervous]"/>
     <string id="2uwp9t2G" text="よろしい。{QUEST_GIVER.NAME}に、ここは平穏を取り戻し、騒ぎは自然と収まったと言っておこう。"/>
     <string id="5FyXxNFR" text="感謝する。{QUEST_GIVER.NAME}によろしく言ってくれ。[ib:normal][if:happy]"/>
+    <string id="4N0ohBqT" text="否、おぬしと違いそれがしはかように堕ちておらぬ。おぬしを{QUEST_GIVER.NAME}様の下へ引き立てる。"/>
+    <string id="p9ZnHAYA" text="また誰か賊の手にかかったな、かわいそうに。日頃、街道は安全にござらんぞ。野郎ども、この愚物を相手してやれ![ib: aggressive][if:convo_evil_smile]"/>
+    <string id="mjYugaG9" text="お前も金を奪わんとするのだな! かの徴税吏に並び堕ちたか。もはや藁しかのこっておらん。もはや争いなしには税を取れぬものと知れ。[rb:very_negative][ib: aggressive][if:convo_furious]"/>
+    <string id="Rz3VkuWM" text="待て! 大きな誤解だ!"/>
+    <string id="Ads3am6y" text="百姓の力を見せてやる!"/>
+    <string id="PAcXCOtD" text="徴税吏"/>
+    <string id="zSHTiacb" text="徴税吏の護衛"/>
     <string id="UqZ9mzlb" text="待たれい! 降伏いたす。攻撃をやめてくれ。[ib:weary][if:convo_terrified]"/>
+    <string id="OlOD8Wht" text="それがしを嘲りに来たのか?"/>
+    <string id="i6XV2iAl" text="よく戻った。かの村のことで何か知らせはあるか?[ib:confident3][if:convo_focused_happy]"/>
     <string id="5x0uA6dW" text="よろしい。切支丹と取引しよう。"/>
     <string id="2LDxpFrj" text="伴天連の事"/>
     <string id="nhvDkbeE" text="伴天連"/>
@@ -7552,15 +7677,18 @@
     <string id="acgNZOSH" text="よかろう。十分にやり遂げたなら、私の麾下に帰参するがよい。"/>
     <string id="T2hy95Dq" text="すばらしい。"/>
     <string id="oYRzT2Rb" text="倒した盗賊"/>
+    <string id="7155nD47" text="{QUEST_GIVER.LINK}からの依頼を受けることなく、務めに戻った。"/>
     <string id="aAayf1hv" text="ここにある。確かに送り届けてくれよ。"/>
     <string id="JLbIFa14" text="すばらしい。"/>
     <string id="jdWIUkf6" text="{SETTLEMENT_NAME}を偵察した"/>
     <string id="HtNnpNHN" text="敵の城砦を偵察せよ"/>
     <string id="V0YqMr08" text="{SETTLEMENT_NAME}を偵察した。"/>
     <string id="8xPHq2zO" text="両国は和平した。集落の偵察は必要ない。{QUEST_GIVER.LINK}の元へ戻るべきだ。"/>
+    <string id="6MUpScVu" text="{PLAYER.NAME}よ、まだ集落の偵察は終わってないのか。早く行って終わらせて来い。"/>
     <string id="Agn2weFa" text="{FACTION}に召し抱えられる"/>
     <string id="fGqcBzsc" text="{QUEST_GIVER.LINK}に臣従した。"/>
     <string id="2SUCBJbI" text="{QUEST_GIVER.LINK}が亡くなった。{QUEST_GIVER.FACTION}に召し抱えられるという話が新たな君主に引き継がれるとは考えにくい。この好機は指の隙間からこぼれ落ちてしまった。"/>
+    <string id="ulSdUcco" text="殿、申し訳ありません。承りかねます。"/>
     <string id="P144idVc" text="侍"/>
     <string id="UdiPb3xt" text="領主{RULER.NAME}"/>
     <string id="MYz8nKqq" text="外交"/>
@@ -7786,7 +7914,6 @@
     <string id="Shokuho7b14FabF" text="攻城戦の砲撃中、マンゴネルとトレビュシェの装填速度{VALUE}%"/>
     <string id="Shokuho2a3B3192" text="編隊による弓ダメージ{VALUE}%"/>
     <string id="Shokuho68Da7dF4" text="騎乗武器のダメージペナルティ: {a0}%"/>
-    <string id="Shokuho28774882" text="Very good. Keep them coming.[if:convo_mocking_aristocratic]"/>
     <string id="ShokuhoF94Ee3f5" text="戦闘からの逃走時に失う兵士{VALUE}%"/>
     <string id="Shokuho2Ac56a83" text="攻城戦の砲撃中、死亡確率{VALUE}%"/>
     <string id="Shokuho270b73aD" text="ストゥルギヤの雪原ボーナス"/>
@@ -7899,8 +8026,11 @@
     <string id="Shokuho3fAe6AC7" text="関税の5%が税金として、君主のクランに支払われる{newline}都市の交易ペナルティが上昇{newline}毎日、集落の繁栄-1"/>
     <string id="Shokuho635dD65B" text="統治している集落で、都市の守備隊によって治安{VALUE}%"/>
     <string id="Shokuhoc2F13758" text="負傷者による部隊の行軍速度ペナルティ{VALUE}%"/>
+    <string id="bipaJ1c4" text="{CLAN_NAME}の家督である{CLAN_LEADER.NAME}からの使者が到着した。{?CLAN_LEADER.GENDER}彼女{?}彼{\?}は自分の一族の{?OFFERED_HERO.GENDER}娘{?}男{\?}の{OFFERED_HERO.NAME}と、我々の{PLAYER_CLAN_HERO.NAME}との縁談を持ちかけている。この組み合わせは釣り合いが取れているように見える。受けるべきだろうか?"/>
     <string id="Shokuho0025507d" text="治癒率{VALUE}%"/>
     <string id="Shokuho9354694c" text="蹴りの硬直時間{VALUE}%"/>
+    <string id="bMTfCgTY" text="商人の要求に応じた。商品は引き渡された。"/>
+    <string id="bMwUQenD" text="移動しながら投擲した場合、移動速度による加速{VALUE}%"/>
     <string id="Shokuho712B9f5c" text="戦利品+{a0}%"/>
     <string id="Shokuho483E6c92" text="Tier 1-2の兵士が致命傷から回復する確率{VALUE}%"/>
     <string id="Shokuho4a173421" text="足跡の発見距離{VALUE}%"/>
@@ -7909,6 +8039,9 @@
     <string id="Shokuho13eb0d0A" text="毎日、市民兵の入隊+1{newline}新兵の補充速度+20%{newline}集落からの税収-10%"/>
     <string id="Shokuho0b029569" text="クロスボウの防御貫通{VALUE}%"/>
     <string id="Shokuho061842c9" text="片手武器の振りスピード{VALUE}%"/>
+    <string id="BWhVhZPn" text="守備隊の維持費用{VALUE}%"/>
+    <string id="ShokuhoE53e69b4" text="もはや是非もなし。今すぐ選べ。[if:idle_angry][ib:normal][ib:aggressive]"/>
+    <string id="bZmYOE8z" text="{ISSUE_GIVER_SETTLEMENT}での盗品売買"/>
     <string id="ShokuhoEd29Dd5E" text="防衛戦で打って出た時、自動戦闘のダメージ{VALUE}%"/>
     <string id="Shokuhoce235353" text="NPCからの好感度+{a0}%"/>
     <string id="ShokuhoB3B36260" text="自動戦闘時、防衛側の要塞の地の利{VALUE}%"/>
@@ -7927,6 +8060,7 @@
     <string id="Shokuho3A7F6A92" text="統治している集落の防衛用攻城兵器のHP{VALUE}%"/>
     <string id="Shokuhob2095d33" text="片手武器ダメージ{VALUE}%"/>
     <string id="ShokuhoCd720Dcf" text="破城槌と攻城塔のHP{VALUE}%"/>
+    <string id="Shokuho9c682503" text="{ISSUE_OWNER.NAME}の支払額がどれだけあろうと、こちらはその倍払おう! よく考えてくれ!"/>
     <string id="Shokuho74758da9" text="騎乗時の片手武器ダメージ{VALUE}%"/>
     <string id="Shokuho801f6878" text="HPが半分未満の時、両手武器ダメージ{VALUE}%"/>
     <string id="ShokuhoD3DB6139" text="投射兵の捕虜の雇用確率{VALUE}%"/>
@@ -8012,6 +8146,7 @@
     <string id="Shokuho30dDd3Fc" text="編隊による投擲攻撃の対盾ダメージ{VALUE}%"/>
     <string id="iOrtiVLt" text=" {CLAN_NAME}の一族"/>
     <string id="Shokuho12591093" text="略奪速度{VALUE}%"/>
+    <string id="Iy5rylN0" text="こちらには{STOLEN_GOODS_SIZE}{.%}{PLURAL(STOLEN_GOOD)}{.%}がある。これを{REQUESTED_PRICE}{GOLD_ICON}で売ってもいい。交渉には応じない。これは相場の半値だ。ここでは売りさばけない。奴らは事情を知っているだろうからな。だが他の大きな市へ行けば、事情を知っている者もいるまい。お前の答えを聞こうか。"/>
     <string id="Shokuho6C8438e9" text="仲買人の立場のほうがいい。自分の金は取っておきたい。そちらの部下に言って、もう{.%}{SELECTED_ITEM}{.%}を積み始めてもらってかまわない。"/>
     <string id="Shokuhob44285bf" text="Tier 2以上の兵士の雇用費{VALUE}%"/>
     <string id="Shokuho66b34490" text="統治している集落の周辺の村の村人の部隊の規模{VALUE}%"/>
@@ -8042,6 +8177,7 @@
     <string id="Shokuhobc9f52f4" text="編隊の射手の移動速度{VALUE}%"/>
     <string id="Shokuho3a250f37" text="落馬耐性: 最大HPの{a0}%"/>
     <string id="kbKmlMbu" text="国王直属傭兵部隊"/>
+    <string id="KCBeYCvU" text="定められた公家の位階が、上位にあるものの権威を増す。"/>
     <string id="Shokuho746B9e1a" text="編隊による弓の防御貫通{VALUE}%"/>
     <string id="Shokuhobe0c3a1A" text="陶器・工具・綿・宝飾品の売却ペナルティ{VALUE}%"/>
     <string id="Shokuho0926Ce3A" text="編隊のクロスボウによる防御貫通{VALUE}%"/>
@@ -8058,14 +8194,17 @@
     <string id="ShokuhoA79cc6fB" text="盗賊以外の捕虜の雇用速度{VALUE}%"/>
     <string id="Shokuho3Fc240f2" text="統治している集落で、高い練度の市民兵が入隊する確率{VALUE}%"/>
     <string id="Shokuho67E67ed7" text="はい、{?PLAYER.GENDER}ご婦人{?}閣下{\?}。私たちの共通の友人の{QUEST_GIVER.LINK}から便りが届きました。あなたが{?QUEST_GIVER.GENDER}彼女{?}彼{\?}の{.%}{?HERD_AMOUNT &gt; 1}{HERD_AMOUNT}{PLURAL(HERD_TYPE)}{?}{HERD_TYPE}{\?}{.%}を連れてくるはずだと聞いています。"/>
+    <string id="ky6bub8F" text="退役兵への土地保証"/>
     <string id="Shokuho3114ec14" text="編隊の歩兵の攻撃速度{VALUE}%"/>
     <string id="Shokuho48Cba541" text="部隊の士氣が70以上の間、治癒率{VALUE}%"/>
     <string id="Shokuhoea105689" text="支配者の軍隊結成の影響力コスト-30%{newline}支配者の率いる軍隊の結束力コスト-30%{newline}支配者でない領主の軍隊結成に必要な影響力コスト+10%"/>
     <string id="Shokuho80BcCCfD" text="自身が捕虜になった時の身代金{VALUE}%"/>
     <string id="ShokuhoC16556e3" text="編隊のクロスボウ兵の対乗騎ダメージ{VALUE}%"/>
     <string id="Shokuho4c3B6916" text="方向転換時の精度低下{VALUE}%"/>
+    <string id="lBHm1JlL" text="自部隊との傭兵契約が終了した。"/>
     <string id="Shokuho81056e43" text="敵の探知距離+{a0} %"/>
     <string id="Shokuho033422f9" text="クロスボウの照準速度{VALUE}%"/>
+    <string id="lczqNSz5" text="乗馬した歩兵の部隊の行軍速度{VALUE}%"/>
     <string id="Shokuho98Be4200" text="編隊による対乗騎ダメージ{VALUE}%"/>
     <string id="Shokuho32F28ea6" text="編隊の歩兵の武器の操作性{VALUE}%"/>
     <string id="LgSTrjuk" text="博徒"/>
